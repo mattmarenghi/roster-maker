@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Progress/cache files
+scrape_progress.json
+scrape_errors.log
+ncaa_d1_schools.json
+
+# OS
+.DS_Store
