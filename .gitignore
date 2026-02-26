@@ -9,5 +9,9 @@ scrape_progress.json
 scrape_errors.log
 ncaa_d1_schools.json
 
+# Test/scratch scripts
+scrape_davidson_test.py
+davidson_wildcats_roster_2026.csv
+
 # OS
 .DS_Store
