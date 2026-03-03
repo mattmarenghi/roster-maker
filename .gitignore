@@ -5,17 +5,14 @@ __pycache__/
 .env
 
 # Progress/cache files
-scrape_progress.json
 scrape_errors.log
-ncaa_d1_schools.json
 
-# Large output CSVs (>100 MB GitHub limit)
+# Large output CSVs — push as .gz (GitHub 100 MB limit)
 *.csv
 !missing_rosters.csv
 
 # Test/scratch scripts
 scrape_davidson_test.py
-davidson_wildcats_roster_2026.csv
 
 # OS
 .DS_Store
