@@ -1,0 +1,38 @@
+school,conference,state,athletic_url,fail_category,reason
+Appalachian State University,Sun Belt Conference,NC,https://appstatesports.com,imperva-blocked,Imperva bot protection + ESPN no data
+Butler University,Big East Conference,IN,https://www.butlersports.com,imperva-blocked,Imperva bot protection + ESPN no roster
+Colgate University,Patriot League,NY,https://gocolgateraiders.com,imperva-blocked,Imperva bot protection + ESPN no roster
+Drake University,Missouri Valley Conference,IA,https://godrakebulldogs.com,imperva-blocked,Imperva bot protection + ESPN no data
+Drexel University,Colonial Athletic Association,PA,https://www.drexeldragons.com,website-not-parseable,Imperva-blocked site + CSR rendering
+"Fairleigh Dickinson University, Metropolitan Campus",Northeast Conference,NJ,https://www.fduknights.com,imperva-blocked,Imperva bot protection + ESPN no data
+Georgetown University,Big East Conference,DC,https://guhoyas.com,imperva-blocked,Imperva bot protection + ESPN no roster
+Georgia Institute of Technology,Atlantic Coast Conference,GA,https://www.ramblinwreck.com,website-not-parseable,"Non-SIDEARM platform (WordPress), no parseable roster"
+Hampton University,Big South Conference,VA,https://hamptonpirates.com,imperva-blocked,Imperva bot protection + ESPN no data
+Howard University,Mid-Eastern Athletic Conference,DC,https://www.hubison.com,imperva-blocked,Imperva bot protection + ESPN no data
+Montana State University-Bozeman,Big Sky Conference,MT,https://www.msubobcats.com,website-not-parseable,SIDEARM CSR — no server-side roster data
+Saint Peter's University,Metro Atlantic Athletic Conference,NJ,https://www.saintpeterspeacocks.com,imperva-blocked,Imperva bot protection + ESPN no data
+South Carolina State University,Mid-Eastern Athletic Conference,SC,https://www.scsuathletics.com,website-not-parseable,Non-standard roster page format
+Southeast Missouri State University,Ohio Valley Conference,MO,https://www.semoredhawks.com,imperva-blocked,Imperva bot protection + ESPN no data
+Southern Methodist University,Atlantic Coast Conference,TX,https://www.smumustangs.com,imperva-blocked,Imperva bot protection + ESPN no data
+Texas A&M University-Corpus Christi,Western Athletic Conference,TX,https://www.goislanders.com,imperva-blocked,Imperva bot protection + ESPN no data
+Texas Southern University,Southwestern Athletic Conference,TX,https://www.tsusports.com,imperva-blocked,Imperva bot protection + ESPN no data
+Texas State University,Sun Belt Conference,TX,https://txstatebobcats.com,imperva-blocked,Imperva bot protection + ESPN no data
+The University of Tulsa,American Athletic Conference,OK,https://www.tulsahurricane.com,website-not-parseable,SIDEARM CSR — no server-side roster data
+U.S. Naval Academy,Patriot League,MD,https://www.navysports.com,imperva-blocked,Imperva bot protection + ESPN no data
+"University of California, Berkeley",Pacific-12 Conference,CA,https://www.calbears.com,imperva-blocked,Imperva bot protection + ESPN no roster
+University of Dayton,Atlantic-10 Conference,OH,https://www.daytonflyers.com,imperva-blocked,Imperva bot protection + ESPN no data
+University of Denver,Summit League,CO,https://denverpioneers.com,imperva-blocked,Imperva bot protection + ESPN no data
+"University of Hawaii, Manoa",Mountain West Conference,HI,https://hawaiiathletics.com,imperva-blocked,Imperva bot protection + ESPN no data
+University of Idaho,Big Sky Conference,ID,https://www.govandals.com,imperva-blocked,Imperva bot protection + ESPN no roster
+"University of Maryland, College Park",Big Ten Conference,MD,https://www.umterps.com,imperva-blocked,Imperva bot protection + ESPN no roster
+"University of Nevada, Las Vegas",Mountain West Conference,NV,https://unlvrebels.com,imperva-blocked,Imperva bot protection + ESPN no roster
+"University of Nevada, Reno",Mountain West Conference,NV,https://nevadawolfpack.com,imperva-blocked,Imperva bot protection + ESPN no roster
+University of New Hampshire,America East Conference,NH,https://www.unhwildcats.com,website-not-parseable,SIDEARM CSR — no server-side roster data
+University of North Texas,American Athletic Conference,TX,https://www.meangreensports.com,website-not-parseable,SIDEARM CSR — no server-side roster data
+University of South Florida,American Athletic Conference,FL,https://www.gousfbulls.com,imperva-blocked,Imperva bot protection + ESPN no roster
+University of Tennessee at Chattanooga,Southern Conference,TN,https://www.gomocs.com,imperva-blocked,Imperva bot protection + ESPN no data
+University of Vermont,America East Conference,VT,https://www.uvmathletics.com,imperva-blocked,Imperva bot protection + ESPN no roster
+University of Wyoming,Mountain West Conference,WY,https://www.gowyo.com,imperva-blocked,Imperva bot protection + ESPN no roster
+Utah State University,Mountain West Conference,UT,https://www.utahstateaggies.com,imperva-blocked,Imperva bot protection + ESPN no roster
+Villanova University,Big East Conference,PA,https://www.villanova.com,imperva-blocked,Imperva bot protection + ESPN no roster
+Weber State University,Big Sky Conference,UT,https://www.weberstatesports.com,website-not-parseable,SIDEARM CSR — no server-side roster data

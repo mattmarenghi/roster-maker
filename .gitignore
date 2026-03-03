@@ -11,6 +11,7 @@ ncaa_d1_schools.json
 
 # Large output CSVs (>100 MB GitHub limit)
 *.csv
+!missing_rosters.csv
 
 # Test/scratch scripts
 scrape_davidson_test.py
