@@ -1,114 +1,108 @@
 school,conference,state,base_url,roster_url,status,notes
-American University,Patriot League,DC,https://aueagles.com,,needs_investigation,HTTP 404
-Appalachian State University,Sun Belt Conference,NC,https://appstatesports.com,,needs_investigation,Exceeded 30 redirects
-Arizona State University,Big 12 Conference,AZ,https://thesundevils.com,,needs_investigation,HTTP 404
-Boston University,Patriot League,MA,https://www.bu.edu/athletics,https://www.bu.edu/athletics/sports/baseball/roster,confirmed_missing,
-Bradley University,Missouri Valley Conference,IL,https://bradleybraves.com,,needs_investigation,Exceeded 30 redirects
-Butler University,BIG EAST Conference,IN,https://butlersports.com,,needs_investigation,Exceeded 30 redirects
-Canisius University,MAAC,NY,https://gogriffs.com,,needs_investigation,Exceeded 30 redirects
-Central Connecticut State University,NEC,CT,https://ccsubluedevils.com,,needs_investigation,HTTP 404
-Chicago State University,WAC,IL,https://gocougars.com,,needs_investigation,HTTP 404
-Cleveland State University,Horizon League,OH,https://csuvikings.com,,needs_investigation,HTTP 404
-Colgate University,Patriot League,NY,https://colgateathletics.com,,needs_investigation,Exceeded 30 redirects
-Colorado State University,Mountain West,CO,https://csurams.com,,needs_investigation,HTTP 200 but no baseball/roster content
-DePaul University,BIG EAST Conference,IL,https://depaulbluedemons.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Drake University,Missouri Valley Conference,IA,https://godrakebulldogs.com,,needs_investigation,Exceeded 30 redirects
-Drexel University,CAA,PA,https://drexeldragons.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Duquesne University,Atlantic 10 Conference,PA,https://goduquesne.com,,needs_investigation,HTTP 404
-East Texas A&M University,Southland Conference,TX,https://etbulls.com,,needs_investigation,HTTP 404
-Eastern Washington University,Big Sky Conference,WA,https://ewueagles.com,,needs_investigation,HTTP 404
-"Fairleigh Dickinson University, Metropolitan Campus",NEC,NJ,https://fduknights.com,,needs_investigation,Exceeded 30 redirects
-Florida Gulf Coast University,ASUN Conference,FL,https://fgcuathletics.com,,needs_investigation,Exceeded 30 redirects
-Furman University,Southern Conference,SC,https://furmanpaladins.com,,needs_investigation,Exceeded 30 redirects
-Gardner-Webb University,Big South Conference,NC,https://gwusports.com,,needs_investigation,Exceeded 30 redirects
-George Mason University,Atlantic 10 Conference,VA,https://gomason.com,https://gomason.com/sports/baseball/roster,confirmed_missing,
-George Washington University,Atlantic 10 Conference,DC,https://gwsports.com,,needs_investigation,HTTP 404
-Georgetown University,BIG EAST Conference,DC,https://guhoyas.com,,needs_investigation,Exceeded 30 redirects
-Georgia Institute of Technology,Atlantic Coast Conference,GA,https://ramblinwreck.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Georgia State University,Sun Belt Conference,GA,https://georgiastatesports.com,,needs_investigation,Exceeded 30 redirects
-Gonzaga University,West Coast Conference,WA,https://gozags.com,,needs_investigation,Exceeded 30 redirects
-Grambling State University,SWAC,LA,https://gsutigers.com,,needs_investigation,Exceeded 30 redirects
-Hampton University,CAA,VA,https://hamptonpirates.com,,needs_investigation,Exceeded 30 redirects
-Howard University,MEAC,DC,https://hubison.com,,needs_investigation,Exceeded 30 redirects
-Idaho State University,Big Sky Conference,ID,https://bengals.isu.edu,,needs_investigation,HTTP 404
-Indiana University Indianapolis,Horizon League,IN,https://iuijaguars.com,,needs_investigation,HTTP 404
-Iona University,MAAC,NY,https://icgaels.com,,needs_investigation,Exceeded 30 redirects
-Iowa State University,Big 12 Conference,IA,https://cyclones.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Jacksonville State University,ASUN Conference,AL,https://jsugamecocksports.com,,needs_investigation,Exceeded 30 redirects
-Kennesaw State University,ASUN Conference,GA,https://ksuowls.com,,needs_investigation,Exceeded 30 redirects
-Longwood University,Big South Conference,VA,https://longwoodlancers.com,,needs_investigation,Exceeded 30 redirects
-Loyola University Chicago,Missouri Valley Conference,IL,https://loyolaramblers.com,,needs_investigation,Exceeded 30 redirects
-Loyola University Maryland,Patriot League,MD,https://loyolagreyhounds.com,,needs_investigation,HTTP 404
-Marquette University,BIG EAST Conference,WI,https://marquettegolden eagles.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Montana State University-Bozeman,Big Sky Conference,MT,https://msubobcats.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Morgan State University,MEAC,MD,https://morganstatebears.com,,needs_investigation,HTTP 404
-New Mexico State University,WAC,NM,https://nmstatesports.com,,needs_investigation,Exceeded 30 redirects
-North Dakota State University,Summit League,ND,https://gobison.com,,needs_investigation,Exceeded 30 redirects
-Northeastern University,CAA,MA,https://nuhuskies.com,,needs_investigation,Exceeded 30 redirects
-Northern Arizona University,Big Sky Conference,AZ,https://nauathletics.com,,needs_investigation,HTTP 404
-Northern Kentucky University,Horizon League,KY,https://nkunorse.com,,needs_investigation,Exceeded 30 redirects
-Oakland University,Horizon League,MI,https://goldengrizzlies.com,,needs_investigation,Exceeded 30 redirects
-Oral Roberts University,Summit League,OK,https://orugolden eagles.com,,needs_investigation,Exceeded 30 redirects
+American University,Patriot League,DC,https://www.aueagles.com,,needs_investigation,HTTP 404
+Appalachian State University,Sun Belt Conference,NC,https://appstatesports.com,,needs_investigation,Error: Exceeded 30 redirects.
+Boston University,Patriot League,MA,https://www.goterriers.com,https://goterriers.com/sports/baseball/roster,confirmed_missing,
+Bradley University,Missouri Valley Conference,IL,https://www.bradleybraves.com,,needs_investigation,Error: Exceeded 30 redirects.
+Butler University,BIG EAST Conference,IN,https://www.butlersports.com,,needs_investigation,Error: Exceeded 30 redirects.
+Canisius University,Metro Atlantic Athletic Conference,NY,https://www.gogriffs.com,,needs_investigation,Error: Exceeded 30 redirects.
+Central Connecticut State University,Northeast Conference,CT,https://www.ccsubluedevils.com,,needs_investigation,HTTP 404
+Chicago State University,Northeast Conference,IL,https://www.gocsucougars.com,,needs_investigation,HTTP 404
+Cleveland State University,Horizon League,OH,https://www.csuvikings.com,,needs_investigation,HTTP 404
+Colgate University,Patriot League,NY,https://gocolgateraiders.com,,needs_investigation,Error: Exceeded 30 redirects.
+Colorado State University,Mountain West Conference,CO,https://www.csurams.com,,needs_investigation,HTTP 200 but no baseball/roster content
+DePaul University,BIG EAST Conference,IL,https://www.depaulbluedemons.com,,needs_investigation,HTTP 200 but no baseball/roster content
+Drake University,Missouri Valley Conference,IA,https://godrakebulldogs.com,,needs_investigation,Error: Exceeded 30 redirects.
+Drexel University,Coastal Athletic Association,PA,https://www.drexeldragons.com,,needs_investigation,HTTP 200 but no baseball/roster content
+Duquesne University,Atlantic 10 Conference,PA,https://www.GoDuquesne.com,,needs_investigation,HTTP 404
+East Texas A&M University,Southland Conference,TX,https://www.lionathletics.com,,needs_investigation,HTTP 404
+Eastern Washington University,Big Sky Conference,WA,https://goeags.com,,needs_investigation,HTTP 404
+"Fairleigh Dickinson University, Metropolitan Campus",Northeast Conference,NJ,https://www.fduknights.com,,needs_investigation,Error: Exceeded 30 redirects.
+Florida Gulf Coast University,Atlantic Sun Conference,FL,https://fgcuathletics.com,,needs_investigation,Error: Exceeded 30 redirects.
+Furman University,Southern Conference,SC,https://www.furmanpaladins.com,,needs_investigation,Error: Exceeded 30 redirects.
+Gardner-Webb University,Big South Conference,NC,https://gwusports.com,,needs_investigation,Error: Exceeded 30 redirects.
+Georgetown University,BIG EAST Conference,DC,https://guhoyas.com,,needs_investigation,Error: Exceeded 30 redirects.
+Georgia State University,Sun Belt Conference,GA,https://georgiastatesports.com,,needs_investigation,Error: Exceeded 30 redirects.
+Gonzaga University,West Coast Conference,WA,https://www.gozags.com,,needs_investigation,Error: Exceeded 30 redirects.
+Grambling State University,Southwestern Athletic Conf.,LA,https://www.gsutigers.com,,needs_investigation,Error: Exceeded 30 redirects.
+Hampton University,Coastal Athletic Association,VA,https://hamptonpirates.com,,needs_investigation,Error: Exceeded 30 redirects.
+Howard University,Mid-Eastern Athletic Conf.,DC,https://www.hubison.com,,needs_investigation,Error: Exceeded 30 redirects.
+Idaho State University,Big Sky Conference,ID,https://www.isubengals.com,,needs_investigation,HTTP 404
+Indiana University Indianapolis,Horizon League,IN,https://iuindyjags.com,,needs_investigation,HTTP 404
+Iona University,Metro Atlantic Athletic Conference,NY,https://www.ionagaels.com,,needs_investigation,Error: Exceeded 30 redirects.
+Iowa State University,Big 12 Conference,IA,https://www.cyclones.com,,needs_investigation,HTTP 200 but no baseball/roster content
+Jacksonville State University,Conference USA,AL,https://www.jaxstatesports.com,,needs_investigation,Error: Exceeded 30 redirects.
+Kennesaw State University,Conference USA,GA,https://www.ksuowls.com,,needs_investigation,Error: Exceeded 30 redirects.
+Longwood University,Big South Conference,VA,https://longwoodlancers.com,,needs_investigation,Error: Exceeded 30 redirects.
+Loyola University Chicago,Atlantic 10 Conference,IL,https://www.loyolaramblers.com,,needs_investigation,Error: Exceeded 30 redirects.
+Loyola University Maryland,Patriot League,MD,https://www.loyolagreyhounds.com,,needs_investigation,HTTP 404
+Marquette University,BIG EAST Conference,WI,https://www.gomarquette.com,,needs_investigation,HTTP 200 but no baseball/roster content
+Montana State University-Bozeman,Big Sky Conference,MT,https://www.msubobcats.com,,needs_investigation,HTTP 200 but no baseball/roster content
+Morgan State University,Mid-Eastern Athletic Conf.,MD,https://www.morganstatebears.com,,needs_investigation,HTTP 404
+New Mexico State University,Conference USA,NM,https://www.nmstatesports.com,,needs_investigation,Error: Exceeded 30 redirects.
+North Dakota State University,The Summit League,ND,https://www.GoBison.com,,needs_investigation,Error: Exceeded 30 redirects.
+Northeastern University,Coastal Athletic Association,MA,https://www.nuhuskies.com,,needs_investigation,Error: Exceeded 30 redirects.
+Northern Arizona University,Big Sky Conference,AZ,https://www.nauathletics.com,,needs_investigation,HTTP 404
+Northern Kentucky University,Horizon League,KY,https://www.nkunorse.com,,needs_investigation,Error: Exceeded 30 redirects.
+Oakland University,Horizon League,MI,https://goldengrizzlies.com,,needs_investigation,Error: Exceeded 30 redirects.
+Oral Roberts University,The Summit League,OK,https://www.oruathletics.com,,needs_investigation,Error: Exceeded 30 redirects.
 Portland State University,Big Sky Conference,OR,https://goviks.com,,needs_investigation,HTTP 404
-Providence College,BIG EAST Conference,RI,https://friars.com,https://friars.com/sports/baseball/roster,confirmed_missing,
-Purdue University Fort Wayne,Horizon League,IN,https://gomastodons.com,https://gomastodons.com/sports/baseball/roster,confirmed_missing,
-Robert Morris University,Horizon League,PA,https://rmucolonials.com,,needs_investigation,HTTP 404
-Saint Francis University,NEC,PA,https://sfured.com,,needs_investigation,HTTP 404
-Saint Peter's University,MAAC,NJ,https://spupeacocks.com,,needs_investigation,Exceeded 30 redirects
-South Carolina State University,MEAC,SC,https://scsuathletics.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Southeast Missouri State University,Ohio Valley Conference,MO,https://gosoutheast.com,,needs_investigation,Exceeded 30 redirects
-Southern Methodist University,ACC,TX,https://smumustangs.com,,needs_investigation,Exceeded 30 redirects
-Southern Utah University,WAC,UT,https://suutbirds.com,,needs_investigation,HTTP 404
-Stetson University,ASUN Conference,FL,https://gohatters.com,,needs_investigation,Exceeded 30 redirects
+Providence College,BIG EAST Conference,RI,https://www.friars.com,https://friars.com/sports/baseball/roster,confirmed_missing,
+Robert Morris University,Horizon League,PA,https://www.rmucolonials.com,,needs_investigation,HTTP 404
+Saint Francis University,Northeast Conference,PA,https://www.sfuathletics.com,,needs_investigation,HTTP 404
+Saint Peter's University,Metro Atlantic Athletic Conference,NJ,https://www.saintpeterspeacocks.com,,needs_investigation,Error: Exceeded 30 redirects.
+South Carolina State University,Mid-Eastern Athletic Conf.,SC,https://www.scsuathletics.com/index.aspx,,needs_investigation,HTTP 200 but no baseball/roster content
+Southeast Missouri State University,Ohio Valley Conference,MO,https://www.semoredhawks.com,,needs_investigation,Error: Exceeded 30 redirects.
+Southern Methodist University,Atlantic Coast Conference,TX,https://www.smumustangs.com,,needs_investigation,Error: Exceeded 30 redirects.
+Southern Utah University,Western Athletic Conference,UT,https://www.suutbirds.com,,needs_investigation,HTTP 404
+Stetson University,Atlantic Sun Conference,FL,https://www.gohatters.com,,needs_investigation,Error: Exceeded 30 redirects.
 Syracuse University,Atlantic Coast Conference,NY,https://cuse.com,https://cuse.com/sports/baseball/roster,confirmed_missing,
-Tennessee State University,Ohio Valley Conference,TN,https://tsutigers.com,,needs_investigation,HTTP 404
-Tennessee Technological University,Ohio Valley Conference,TN,https://ttusports.com,,needs_investigation,HTTP 404
-Texas A&M University-Corpus Christi,Southland Conference,TX,https://goislanders.com,,needs_investigation,Exceeded 30 redirects
-Texas Southern University,SWAC,TX,https://tsu sports.com,,needs_investigation,Exceeded 30 redirects
-Texas State University,Sun Belt Conference,TX,https://txstatebobcats.com,,needs_investigation,Exceeded 30 redirects
-The University of Tulsa,American Athletic Conference,OK,https://tulsahurricane.com,,needs_investigation,HTTP 200 but no baseball/roster content
-U.S. Military Academy,Patriot League,NY,https://goarmywestpoint.com,,needs_investigation,HTTP 404
-U.S. Naval Academy,Patriot League,MD,https://navysports.com,,needs_investigation,Exceeded 30 redirects
-"University at Buffalo, the State University of New York",Mid-American Conference,NY,https://gobulls.com,https://gobulls.com/sports/baseball/roster,confirmed_missing,
-University of Arizona,Big 12 Conference,AZ,https://arizonawildcats.com,,needs_investigation,Exceeded 30 redirects
-University of Arkansas at Little Rock,Sun Belt Conference,AR,https://lrtrojans.com,,needs_investigation,Invalid URL error
-"University of Arkansas, Fayetteville",SEC,AR,https://arkansasrazorbacks.com,,needs_investigation,HTTP 404
-"University of California, Berkeley",ACC,CA,https://calbears.com,,needs_investigation,Exceeded 30 redirects
-"University of California, Irvine",Big West Conference,CA,https://ucirvinesports.com,,needs_investigation,Exceeded 30 redirects
-University of Colorado Boulder,Big 12 Conference,CO,https://cubuffs.com,,needs_investigation,HTTP 200 but no baseball/roster content
-University of Dayton,Atlantic 10 Conference,OH,https://daytonflyers.com,,needs_investigation,Exceeded 30 redirects
-University of Denver,Summit League,CO,https://denverpioneers.com,,needs_investigation,Exceeded 30 redirects
-University of Detroit Mercy,Horizon League,MI,https://detroittitans.com,,needs_investigation,HTTP 404
-"University of Hawaii, Manoa",Big West Conference,HI,https://hawaiiathletics.com,,needs_investigation,Exceeded 30 redirects
-University of Idaho,Big Sky Conference,ID,https://govandals.com,,needs_investigation,Exceeded 30 redirects
-University of Illinois Chicago,Horizon League,IL,https://uicflames.com,,needs_investigation,Exceeded 30 redirects
-University of Illinois Urbana-Champaign,Big Ten Conference,IL,https://fightingillini.com,,needs_investigation,Exceeded 30 redirects
-"University of Maryland, College Park",Big Ten Conference,MD,https://umterps.com,,needs_investigation,Exceeded 30 redirects
-University of Missouri-Kansas City,WAC,MO,https://kckangaroos.com,,needs_investigation,HTTP 200 but no baseball/roster content
-University of Montana,Big Sky Conference,MT,https://montanagrizzlies.com,,needs_investigation,HTTP 200 but no baseball/roster content
-University of Nebraska at Omaha,Summit League,NE,https://omavs.com,,needs_investigation,Exceeded 30 redirects
-"University of Nevada, Las Vegas",Mountain West,NV,https://unlvrebels.com,,needs_investigation,Exceeded 30 redirects
-"University of Nevada, Reno",Mountain West,NV,https://nevadawolfpack.com,,needs_investigation,Exceeded 30 redirects
-University of New Hampshire,America East Conference,NH,https://unhwildcats.com,,needs_investigation,HTTP 200 but no baseball/roster content
-University of North Carolina Wilmington,CAA,NC,https://uncwsports.com,,needs_investigation,Exceeded 30 redirects
-University of North Dakota,Summit League,ND,https://undfightinghawks.com,,needs_investigation,Exceeded 30 redirects
-University of North Texas,American Athletic Conference,TX,https://meangreensports.com,,needs_investigation,HTTP 200 but no baseball/roster content
+Tennessee State University,Ohio Valley Conference,TN,https://www.tsutigers.com,,needs_investigation,HTTP 404
+Tennessee Technological University,Ohio Valley Conference,TN,https://www.TTUsports.com,,needs_investigation,HTTP 404
+Texas A&M University-Corpus Christi,Southland Conference,TX,https://www.goislanders.com,,needs_investigation,Error: Exceeded 30 redirects.
+Texas Southern University,Southwestern Athletic Conf.,TX,https://www.tsusports.com,,needs_investigation,Error: Exceeded 30 redirects.
+Texas State University,Sun Belt Conference,TX,https://txstatebobcats.com,,needs_investigation,Error: Exceeded 30 redirects.
+The University of Tulsa,American Conference,OK,https://www.tulsahurricane.com,,needs_investigation,HTTP 200 but no baseball/roster content
+U.S. Naval Academy,Patriot League,MD,https://www.navysports.com,,needs_investigation,Error: Exceeded 30 redirects.
+"University at Buffalo, the State University of New York",Mid-American Conference,NY,https://www.ubbulls.com,https://ubbulls.com/sports/baseball/roster,confirmed_missing,
+University of Arizona,Big 12 Conference,AZ,https://www.arizonawildcats.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Arkansas at Little Rock,Ohio Valley Conference,AR,https:////lrtrojans.com,,needs_investigation,Error: Invalid URL 'https:////lrtrojans.com/sports/baseball/roster': No host supplied
+"University of Arkansas, Fayetteville",Southeastern Conference,AR,https://arkansasrazorbacks.com,,needs_investigation,HTTP 404
+"University of California, Berkeley",Atlantic Coast Conference,CA,https://www.calbears.com,,needs_investigation,Error: Exceeded 30 redirects.
+"University of California, Irvine",Big West Conference,CA,https://ucirvinesports.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Colorado Boulder,Big 12 Conference,CO,https://www.cubuffs.com,,needs_investigation,HTTP 200 but no baseball/roster content
+University of Dayton,Atlantic 10 Conference,OH,https://www.daytonflyers.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Denver,The Summit League,CO,https://denverpioneers.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Detroit Mercy,Horizon League,MI,https://www.detroittitans.com,,needs_investigation,HTTP 404
+"University of Hawaii, Manoa",Big West Conference,HI,https://hawaiiathletics.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Idaho,Big Sky Conference,ID,https://www.govandals.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Illinois Chicago,Missouri Valley Conference,IL,https://www.uicflames.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Illinois Urbana-Champaign,Big Ten Conference,IL,https://www.fightingillini.com,,needs_investigation,Error: Exceeded 30 redirects.
+"University of Maryland, College Park",Big Ten Conference,MD,https://www.umterps.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Missouri-Kansas City,The Summit League,MO,https://www.kcroos.com,,needs_investigation,HTTP 200 but no baseball/roster content
+University of Montana,Big Sky Conference,MT,https://www.gogriz.com,,needs_investigation,HTTP 200 but no baseball/roster content
+University of Nebraska at Omaha,The Summit League,NE,https://www.omavs.com,,needs_investigation,Error: Exceeded 30 redirects.
+"University of Nevada, Las Vegas",Mountain West Conference,NV,https://unlvrebels.com,,needs_investigation,Error: Exceeded 30 redirects.
+"University of Nevada, Reno",Mountain West Conference,NV,https://nevadawolfpack.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of New Hampshire,America East Conference,NH,https://www.unhwildcats.com,,needs_investigation,HTTP 200 but no baseball/roster content
+University of North Carolina Wilmington,Coastal Athletic Association,NC,https://www.uncwsports.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of North Dakota,The Summit League,ND,https://www.fightinghawks.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of North Texas,American Conference,TX,https://www.meangreensports.com,,needs_investigation,HTTP 200 but no baseball/roster content
 University of Northern Iowa,Missouri Valley Conference,IA,https://unipanthers.com,,needs_investigation,HTTP 200 but no baseball/roster content
-University of San Diego,West Coast Conference,CA,https://usdtoreros.com,,needs_investigation,Exceeded 30 redirects
-University of San Francisco,West Coast Conference,CA,https://usfcadons.com,,needs_investigation,Exceeded 30 redirects
-University of South Dakota,Summit League,SD,https://usdcoyotes.com,,needs_investigation,HTTP 404
-University of South Florida,American Athletic Conference,FL,https://gousfbulls.com,,needs_investigation,Exceeded 30 redirects
-University of Tennessee at Chattanooga,Southern Conference,TN,https://gomocs.com,,needs_investigation,Exceeded 30 redirects
-University of Texas at El Paso,Conference USA,TX,https://utepminers.com,,needs_investigation,HTTP 404
-University of Vermont,America East Conference,VT,https://uvmathletics.com,,needs_investigation,Exceeded 30 redirects
-University of Wisconsin-Green Bay,Horizon League,WI,https://gobiggreensports.com,,needs_investigation,HTTP 404
-University of Wisconsin-Madison,Big Ten Conference,WI,https://uwbadgers.com,,needs_investigation,HTTP 200 but no baseball/roster content
-University of Wyoming,Mountain West,WY,https://gowyo.com,,needs_investigation,Exceeded 30 redirects
-Utah State University,Mountain West,UT,https://utahstateaggies.com,,needs_investigation,Exceeded 30 redirects
-Villanova University,BIG EAST Conference,PA,https://villanova sports.com,,needs_investigation,Exceeded 30 redirects
-Virginia Commonwealth University,Atlantic 10 Conference,VA,https://vcuathletics.com,,needs_investigation,Exceeded 30 redirects
-Weber State University,Big Sky Conference,UT,https://weberstatewildcats.com,,needs_investigation,HTTP 200 but no baseball/roster content
-Western Michigan University,MAC,MI,https://wmubroncos.com,,needs_investigation,Exceeded 30 redirects
-Wichita State University,American Athletic Conference,KS,https://goshockers.com,,needs_investigation,Exceeded 30 redirects
-Wofford College,Southern Conference,SC,https://woffordterriers.com,,needs_investigation,Exceeded 30 redirects
-Yale University,Ivy League,CT,https://yalebulldogs.com,,needs_investigation,Exceeded 30 redirects
+University of San Diego,West Coast Conference,CA,https://www.usdtoreros.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of San Francisco,West Coast Conference,CA,https://usfdons.com/index.aspx,,needs_investigation,Error: Exceeded 30 redirects.
+University of South Dakota,The Summit League,SD,https://www.goyotes.com,,needs_investigation,HTTP 404
+University of South Florida,American Conference,FL,https://www.gousfbulls.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Tennessee at Chattanooga,Southern Conference,TN,https://www.gomocs.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Texas at El Paso,Conference USA,TX,https://www.utepminers.com,,needs_investigation,HTTP 404
+University of Vermont,America East Conference,VT,https://www.uvmathletics.com,,needs_investigation,Error: Exceeded 30 redirects.
+University of Wisconsin-Green Bay,Horizon League,WI,https://greenbayphoenix.com,,needs_investigation,HTTP 404
+University of Wisconsin-Madison,Big Ten Conference,WI,https://www.uwbadgers.com,,needs_investigation,HTTP 200 but no baseball/roster content
+University of Wyoming,Mountain West Conference,WY,https://www.gowyo.com,,needs_investigation,Error: Exceeded 30 redirects.
+Utah State University,Mountain West Conference,UT,https://www.utahstateaggies.com,,needs_investigation,Error: Exceeded 30 redirects.
+Villanova University,BIG EAST Conference,PA,https://www.villanova.com,,needs_investigation,Error: Exceeded 30 redirects.
+Virginia Commonwealth University,Atlantic 10 Conference,VA,https://www.vcuathletics.com,,needs_investigation,Error: Exceeded 30 redirects.
+Weber State University,Big Sky Conference,UT,https://www.weberstatesports.com,,needs_investigation,HTTP 200 but no baseball/roster content
+Western Michigan University,Mid-American Conference,MI,https://www.wmubroncos.com,,needs_investigation,Error: Exceeded 30 redirects.
+Wichita State University,American Conference,KS,https://www.goshockers.com,,needs_investigation,Error: Exceeded 30 redirects.
+Wofford College,Southern Conference,SC,https://www.wofford.edu/athletics,,needs_investigation,Error: Exceeded 30 redirects.
+Yale University,The Ivy League,CT,https://www.yalebulldogs.com,,needs_investigation,Error: Exceeded 30 redirects.
