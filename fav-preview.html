@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Favorited Players Preview</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f0f2f7;
+      color: #1a1a2e;
+      min-height: 100vh;
+      max-width: 430px;
+      margin: 0 auto;
+    }
+
+    /* ── Nav header ─────────────────────────────────────────────────────── */
+    .nav-header {
+      background: white;
+      border-bottom: 1px solid #e8eaef;
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .nav-back {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #1a1a2e;
+      padding: 4px;
+      display: flex;
+      align-items: center;
+    }
+    .nav-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #1a1a2e;
+    }
+    .nav-search {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #1a1a2e;
+      padding: 4px;
+      display: flex;
+      align-items: center;
+    }
+
+    /* ── Favorites list area ─────────────────────────────────────────────── */
+    .fav-list {
+      padding: 16px 14px;
+    }
+
+    /* ── Favorites Card ─────────────────────────────────────────────────── */
+    .fav-card {
+      background: white;
+      border-radius: 18px;
+      padding: 18px 18px 16px;
+      margin-bottom: 14px;
+      box-shadow: 0 2px 14px rgba(0,0,0,0.07);
+    }
+
+    .fav-card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+
+    .fav-photo {
+      width: 68px;
+      height: 68px;
+      border-radius: 10px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.35rem;
+      font-weight: 800;
+      overflow: hidden;
+    }
+
+    .fav-player-info {
+      flex: 1;
+      min-width: 0;
+      padding-top: 2px;
+    }
+
+    .fav-name-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 4px;
+    }
+
+    .fav-player-name {
+      font-size: 1.12rem;
+      font-weight: 800;
+      color: #1a1a2e;
+      line-height: 1.2;
+    }
+
+    .fav-pos-badge {
+      background: #4361ee;
+      color: white;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 3px 9px;
+      border-radius: 20px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .fav-school {
+      font-size: 0.875rem;
+      color: #444;
+      margin-bottom: 5px;
+      font-weight: 400;
+    }
+
+    .fav-physical {
+      font-size: 0.85rem;
+      color: #4361ee;
+      font-weight: 600;
+    }
+
+    .fav-star-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #f0b429;
+      padding: 2px;
+      flex-shrink: 0;
+      line-height: 1;
+      margin-top: 1px;
+    }
+
+    /* ── Stats section ───────────────────────────────────────────────────── */
+    .fav-divider {
+      height: 1px;
+      background: #f0f2f7;
+      margin: 0 0 14px;
+    }
+
+    .fav-stat-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .fav-stat-row:last-of-type { margin-bottom: 0; }
+
+    .fav-stat-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 9px;
+      background: #eef1ff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      color: #4361ee;
+      margin-top: 1px;
+    }
+
+    .fav-stat-content { flex: 1; }
+
+    .fav-stat-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      color: #9aa0b4;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+    }
+
+    .fav-stat-main {
+      font-size: 0.97rem;
+      font-weight: 700;
+      color: #1a1a2e;
+      line-height: 1.3;
+    }
+
+    .fav-stat-detail {
+      font-size: 0.83rem;
+      color: #666;
+      margin-top: 2px;
+    }
+
+    /* ── View Full Profile button ─────────────────────────────────────────── */
+    .fav-profile-btn {
+      display: block;
+      width: 100%;
+      margin-top: 15px;
+      padding: 13px;
+      background: #eef1ff;
+      color: #4361ee;
+      border: none;
+      border-radius: 11px;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      text-align: center;
+      transition: background 0.15s;
+    }
+    .fav-profile-btn:hover { background: #dde3ff; }
+  </style>
+</head>
+<body>
+
+<!-- Nav header -->
+<div class="nav-header">
+  <button class="nav-back">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="15 18 9 12 15 6"/>
+    </svg>
+  </button>
+  <span class="nav-title">Favorited Players</span>
+  <button class="nav-search">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+  </button>
+</div>
+
+<!-- Favorites list -->
+<div class="fav-list">
+
+  <!-- Card 1: Pitcher -->
+  <div class="fav-card">
+    <div class="fav-card-header">
+      <div class="fav-photo" style="background:#cfe2ff; color:#084298;">WM</div>
+      <div class="fav-player-info">
+        <div class="fav-name-row">
+          <span class="fav-player-name">Will Marenghi</span>
+          <span class="fav-pos-badge">RHP</span>
+        </div>
+        <div class="fav-school">Davidson College</div>
+        <div class="fav-physical">6' 1" &bull; 195 lbs</div>
+      </div>
+      <button class="fav-star-btn">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"
+             stroke="currentColor" stroke-width="1.5"
+             stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="fav-divider"></div>
+
+    <div class="fav-stat-row">
+      <div class="fav-stat-icon">
+        <!-- Baseball icon -->
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M5.2 5.2c3.8 3.8 3.8 9.8 0 13.6"/>
+          <path d="M18.8 5.2c-3.8 3.8-3.8 9.8 0 13.6"/>
+        </svg>
+      </div>
+      <div class="fav-stat-content">
+        <div class="fav-stat-label">Latest Game</div>
+        <div class="fav-stat-main">vs Duke (L 2-4, Apr 12)</div>
+        <div class="fav-stat-detail">3.0 IP, 2 K, 1 ER</div>
+      </div>
+    </div>
+
+    <div class="fav-stat-row">
+      <div class="fav-stat-icon">
+        <!-- Bar chart icon -->
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="20" x2="18" y2="10"/>
+          <line x1="12" y1="20" x2="12" y2="4"/>
+          <line x1="6" y1="20" x2="6" y2="14"/>
+        </svg>
+      </div>
+      <div class="fav-stat-content">
+        <div class="fav-stat-label">Season Stats</div>
+        <div class="fav-stat-main">3.45 ERA, 42 K, 1.2 WHIP</div>
+      </div>
+    </div>
+
+    <button class="fav-profile-btn">View Full Profile</button>
+  </div>
+
+  <!-- Card 2: Outfielder -->
+  <div class="fav-card">
+    <div class="fav-card-header">
+      <div class="fav-photo" style="background:#d1fae5; color:#065f46;">JH</div>
+      <div class="fav-player-info">
+        <div class="fav-name-row">
+          <span class="fav-player-name">Jack Haferkamp</span>
+          <span class="fav-pos-badge">OF</span>
+        </div>
+        <div class="fav-school">UC Santa Barbara</div>
+        <div class="fav-physical">6' 2" &bull; 210 lbs</div>
+      </div>
+      <button class="fav-star-btn">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"
+             stroke="currentColor" stroke-width="1.5"
+             stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="fav-divider"></div>
+
+    <div class="fav-stat-row">
+      <div class="fav-stat-icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M5.2 5.2c3.8 3.8 3.8 9.8 0 13.6"/>
+          <path d="M18.8 5.2c-3.8 3.8-3.8 9.8 0 13.6"/>
+        </svg>
+      </div>
+      <div class="fav-stat-content">
+        <div class="fav-stat-label">Latest Game</div>
+        <div class="fav-stat-main">vs Cal (W 8-2, Apr 11)</div>
+        <div class="fav-stat-detail">2-4, 1 HR, 3 RBI</div>
+      </div>
+    </div>
+
+    <div class="fav-stat-row">
+      <div class="fav-stat-icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="20" x2="18" y2="10"/>
+          <line x1="12" y1="20" x2="12" y2="4"/>
+          <line x1="6" y1="20" x2="6" y2="14"/>
+        </svg>
+      </div>
+      <div class="fav-stat-content">
+        <div class="fav-stat-label">Season Stats</div>
+        <div class="fav-stat-main">.312 AVG, 8 HR, 25 RBI</div>
+      </div>
+    </div>
+
+    <button class="fav-profile-btn">View Full Profile</button>
+  </div>
+
+</div><!-- /fav-list -->
+</body>
+</html>
