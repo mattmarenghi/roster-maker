@@ -258,6 +258,10 @@
       font-weight: 800;
       overflow: hidden;
     }
+    .fav-photo-img {
+      object-fit: cover;
+      object-position: top;
+    }
 
     .fav-player-info {
       flex: 1;
@@ -559,18 +563,21 @@
   function favCardHTML(p) {
     const isFav = favorites.has(p.id);
     const initials = ((p.fn || '').charAt(0) + (p.ln || '').charAt(0)).toUpperCase();
-    const physical = [p.ht, p.wt ? p.wt + ' lbs' : ''].filter(Boolean).join(' \u2022 ');
+    const physical = [p.yr, p.ht, p.wt ? p.wt + ' lbs' : ''].filter(Boolean).join(' \u2022 ');
     const pos = p.pos ? p.pos.split('/')[0].trim() : '';
     const stats = mockStats(p);
 
     const bgColors   = ['#cfe2ff','#d1fae5','#fff3cd','#fce7f3','#ede9fe','#d0f0fd'];
     const textColors = ['#084298','#065f46','#7a4f00','#831843','#4c1d95','#0c4a6e'];
     const ci = parseInt(p.id.slice(0, 1), 16) % bgColors.length;
+    const photoEl = p.photo_url
+      ? `<img class="fav-photo fav-photo-img" src="${p.photo_url}" alt="${p.name}" onerror="this.outerHTML='<div class=\\'fav-photo\\' style=\\'background:${bgColors[ci]};color:${textColors[ci]}\\'>${initials}</div>'">`
+      : `<div class="fav-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
 
     return `
       <div class="fav-card">
         <div class="fav-card-header">
-          <div class="fav-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>
+          ${photoEl}
           <div class="fav-player-info">
             <div class="fav-name-row">
               <span class="fav-player-name">${p.name}</span>
