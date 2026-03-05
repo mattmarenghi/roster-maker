@@ -9,6 +9,7 @@ Output: d1_baseball_rosters_2026.csv
 """
 
 import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import pandas as pd
 import json
@@ -176,14 +177,366 @@ def parse_sidearm_roster(soup, team_name, conference, school_name, state):
     return players
 
 
+def parse_old_sidearm_table(soup, team_name, conference, school_name, state):
+    """
+    Parse the old Sidearm Sports roster table format (pre-Nuxt).
+
+    In this format each data row has:
+      <th class="name"><a>FirstName\nLastName</a></th>
+      <td class="number"><span class="label">No.:</span>1</td>
+      <td class="pos"><span class="label">Pos.:</span>RHP</td>
+      ... (bats_throws, height, weight, year, hometown_hs)
+    """
+    def cell_value(td):
+        """Return cell text with the <span class='label'> stripped out."""
+        label = td.find('span', class_='label')
+        if label:
+            label.decompose()
+        return td.get_text(separator=' ', strip=True)
+
+    players = []
+    for row in soup.find_all('tr'):
+        name_th = row.find('th', class_='name')
+        if name_th is None:
+            continue
+        # Extract first/last name from the link text
+        a = name_th.find('a')
+        if a:
+            texts = [t.strip() for t in a.stripped_strings]
+        else:
+            texts = [t.strip() for t in name_th.stripped_strings]
+        # texts[0] = first name, texts[1] = last name (usually)
+        texts = [t for t in texts if t]
+        if not texts:
+            continue
+        first_name = texts[0] if len(texts) >= 1 else ''
+        last_name = texts[1] if len(texts) >= 2 else ''
+
+        tds = row.find_all('td')
+        def get_td_class(cls):
+            td = row.find('td', class_=cls)
+            return cell_value(td) if td else ''
+
+        number = get_td_class('number')
+        position = get_td_class('position') or get_td_class('pos')
+        bats_throws = get_td_class('bats_throws') or get_td_class('bat-throw') or get_td_class('bt')
+        height = get_td_class('height') or get_td_class('ht')
+        weight = get_td_class('weight') or get_td_class('wt')
+        class_year = get_td_class('academic_year') or get_td_class('year') or get_td_class('cl')
+        hometown_hs = get_td_class('hometown_highschool') or get_td_class('hometown') or get_td_class('hs')
+
+        # Fall back to ordered TDs if class-based lookup returns nothing
+        if not position and len(tds) >= 2:
+            ordered = [cell_value(td) for td in tds]
+            # try to map by order: number, pos, bt, ht, wt, cl, hometown
+            if len(ordered) >= 1 and not number:
+                number = ordered[0]
+            if len(ordered) >= 2 and not position:
+                position = ordered[1]
+            if len(ordered) >= 3 and not bats_throws:
+                bats_throws = ordered[2]
+            if len(ordered) >= 4 and not height:
+                height = ordered[3]
+            if len(ordered) >= 5 and not weight:
+                weight = ordered[4]
+            if len(ordered) >= 6 and not class_year:
+                class_year = ordered[5]
+            if len(ordered) >= 7 and not hometown_hs:
+                hometown_hs = ordered[6]
+
+        # Split hometown/HS if combined
+        hometown = hometown_hs
+        high_school = ''
+        if '/' in hometown_hs:
+            parts = hometown_hs.split('/', 1)
+            hometown = parts[0].strip()
+            high_school = parts[1].strip()
+
+        if not first_name and not last_name:
+            continue
+
+        players.append({
+            'first_name': first_name,
+            'last_name': last_name,
+            'team': team_name,
+            'school': school_name,
+            'conference': conference,
+            'state': state,
+            'number': number,
+            'position': position,
+            'bats_throws': bats_throws,
+            'height': height,
+            'weight': weight,
+            'class_year': class_year,
+            'hometown': hometown,
+            'high_school': high_school,
+        })
+
+    return players
+
+
+def parse_sidearm_nextgen_api(base_url, team_name, conference, school_name, state):
+    """
+    Query the Sidearm next-gen (Nuxt 3) roster API directly.
+
+    Endpoint: /api/v2/Rosters/bySport/baseball?season={year}
+    Tries the current season first, falls back to previous season.
+    Returns list of player dicts, or empty list if unavailable.
+    """
+    import datetime
+    current_year = datetime.date.today().year
+    seasons_to_try = [str(current_year), str(current_year - 1)]
+
+    for season in seasons_to_try:
+        url = f"{base_url}/api/v2/Rosters/bySport/baseball?season={season}"
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=20)
+        except Exception:
+            continue
+        if r.status_code != 200 or not r.text.strip():
+            continue
+        try:
+            d = r.json()
+        except Exception:
+            continue
+        raw_players = d.get('players', [])
+        if not raw_players:
+            continue
+
+        players = []
+        for p in raw_players:
+            first = (p.get('firstName') or '').strip()
+            last = (p.get('lastName') or '').strip()
+            if not first and not last:
+                continue
+            ht_ft = p.get('heightFeet') or ''
+            ht_in = p.get('heightInches') or ''
+            height = f"{ht_ft}' {ht_in}\"" if ht_ft else ''
+            players.append({
+                'first_name': first,
+                'last_name': last,
+                'team': team_name,
+                'school': school_name,
+                'conference': conference,
+                'state': state,
+                'number': str(p.get('jerseyNumber') or ''),
+                'position': str(p.get('positionShort') or ''),
+                'bats_throws': str(p.get('custom1') or ''),
+                'height': height,
+                'weight': str(p.get('weight') or ''),
+                'class_year': str(p.get('academicYearShort') or ''),
+                'hometown': str(p.get('hometown') or ''),
+                'high_school': str(p.get('highSchool') or p.get('previousSchool') or ''),
+            })
+        if players:
+            return players
+
+    return []
+
+
+def parse_wmt_digital_roster(soup, team_name, conference, school_name, state):
+    """
+    Parse roster data from WMT Digital / OAS platform pages.
+
+    These sites embed a large flat Nuxt array in an inline <script> tag.
+    Player data is keyed under 'roster-{id}-players-list-page-1' in the
+    pinia store, with values stored as index references into the flat array.
+    """
+    for script in soup.find_all('script'):
+        text = script.string or ''
+        if len(text) < 200000 or 'roster-' not in text:
+            continue
+        try:
+            data = json.loads(text)
+        except (json.JSONDecodeError, ValueError):
+            continue
+        if not isinstance(data, list):
+            continue
+
+        def follow(v, depth=0):
+            if depth > 8 or not isinstance(v, int) or v >= len(data):
+                return v
+            inner = data[v]
+            if isinstance(inner, list) and len(inner) == 2 and inner[0] in ('Reactive', 'ShallowReactive'):
+                return follow(inner[1], depth + 1)
+            return inner
+
+        # Find pinia store dict with 'roster-NNN-players-list-page-1' key
+        players_list = None
+        for item in data:
+            if not isinstance(item, dict):
+                continue
+            for k in item.keys():
+                if re.match(r'roster-\d+-players-list-page-\d+$', str(k)) and 'page-1' in str(k):
+                    container = follow(item[k])
+                    if isinstance(container, dict):
+                        players_list = follow(container.get('players'))
+                    break
+            if players_list is not None:
+                break
+
+        if not isinstance(players_list, list) or not players_list:
+            continue
+
+        players = []
+        for p_idx in players_list:
+            p = follow(p_idx)
+            if not isinstance(p, dict):
+                continue
+
+            # player sub-object has name, hometown, high_school
+            player_sub = follow(p.get('player'))
+            if not isinstance(player_sub, dict):
+                continue
+
+            first = follow(player_sub.get('first_name')) or ''
+            last = follow(player_sub.get('last_name')) or ''
+            if not first and not last:
+                continue
+
+            hometown = follow(player_sub.get('hometown')) or ''
+            high_school = follow(player_sub.get('high_school')) or \
+                          follow(player_sub.get('previous_school')) or ''
+
+            # height / weight / jersey from roster_player object
+            hf = follow(p.get('height_feet')) or ''
+            hi = follow(p.get('height_inches'))
+            height = f"{hf}' {hi}\"" if hf else ''
+            weight = str(follow(p.get('weight')) or '')
+            jersey = str(follow(p.get('jersey_number')) or '')
+
+            # position
+            pos_obj = follow(p.get('player_position'))
+            pos = ''
+            if isinstance(pos_obj, dict):
+                pos = str(follow(pos_obj.get('abbreviation')) or '')
+
+            # class level
+            cl_obj = follow(p.get('class_level'))
+            class_year = ''
+            if isinstance(cl_obj, dict):
+                class_year = str(follow(cl_obj.get('abbreviation')) or
+                                 follow(cl_obj.get('name')) or '')
+
+            players.append({
+                'first_name': str(first),
+                'last_name': str(last),
+                'team': team_name,
+                'school': school_name,
+                'conference': conference,
+                'state': state,
+                'number': jersey,
+                'position': pos,
+                'bats_throws': '',
+                'height': height,
+                'weight': weight,
+                'class_year': class_year,
+                'hometown': str(hometown),
+                'high_school': str(high_school),
+            })
+
+        if players:
+            return players
+
+    return []
+
+
+def parse_script_json_roster(soup, team_name, conference, school_name, state):
+    """
+    Extract roster data from JSON embedded in <script> tags.
+
+    Handles two Sidearm Sports patterns:
+      1. JSON-LD (<script type="application/ld+json">): ListItem of Person objects.
+         Usually contains only names + profile URLs.
+      2. Inline JS with Sidearm player objects containing displayName, jerseyNum,
+         pos, bats, throws, height, weight, academicYear, hometown, prevSchool.
+    """
+    def _make_record(first, last, p=None):
+        p = p or {}
+        bt = p.get('batsThrows', '')
+        if not bt and p.get('bats') and p.get('throws'):
+            bt = f"{p['bats']}/{p['throws']}"
+        return {
+            'first_name': first,
+            'last_name': last,
+            'team': team_name,
+            'school': school_name,
+            'conference': conference,
+            'state': state,
+            'number': p.get('jerseyNum', ''),
+            'position': p.get('pos', ''),
+            'bats_throws': bt,
+            'height': p.get('height', ''),
+            'weight': str(p.get('weight', '')),
+            'class_year': p.get('academicYear', ''),
+            'hometown': p.get('hometown', ''),
+            'high_school': p.get('prevSchool', ''),
+        }
+
+    # --- Strategy 1: JSON-LD scripts ---
+    for script in soup.find_all('script', type='application/ld+json'):
+        try:
+            data = json.loads(script.string or '')
+        except (json.JSONDecodeError, TypeError, AttributeError):
+            continue
+        items = data if isinstance(data, list) else [data]
+        players = []
+        for item in items:
+            if item.get('@type') == 'ListItem' and isinstance(item.get('item'), list):
+                for person in item['item']:
+                    if not isinstance(person, dict) or person.get('@type') != 'Person':
+                        continue
+                    name = person.get('name', '').strip()
+                    if name:
+                        first, last = parse_name(name)
+                        players.append(_make_record(first, last))
+        if players:
+            return players
+
+    # --- Strategy 2: Sidearm inline JS with displayName field ---
+    for script in soup.find_all('script'):
+        text = script.string or ''
+        if 'displayName' not in text:
+            continue
+        # Sidearm embeds player arrays like: [{"displayName":"...", "jerseyNum":"...", ...}]
+        # Use a greedy approach: find the outermost [...] blocks containing displayName
+        for match in re.finditer(r'\[\s*\{[^\[\]]*"displayName"[^\[\]]*\}\s*(?:,\s*\{[^\[\]]*\}\s*)*\]', text, re.DOTALL):
+            try:
+                arr = json.loads(match.group(0))
+            except (json.JSONDecodeError, ValueError):
+                continue
+            if not isinstance(arr, list):
+                continue
+            players = []
+            for p in arr:
+                if not isinstance(p, dict):
+                    continue
+                name = p.get('displayName', '').strip()
+                if not name:
+                    continue
+                first, last = parse_name(name)
+                players.append(_make_record(first, last, p))
+            if players:
+                return players
+
+    return []
+
+
 def scrape_team_roster(base_url, team_name, conference, school_name, state):
     """Attempt to scrape a team's baseball roster. Returns list of player dicts."""
     url = f"{base_url}/sports/baseball/roster"
 
+    r = None
     try:
         r = requests.get(url, headers=HEADERS, timeout=20, allow_redirects=True)
+    except requests.exceptions.TooManyRedirects:
+        # Cloudflare / bot-protection redirect loop — try cloudscraper
+        try:
+            scraper = cloudscraper.create_scraper()
+            r = scraper.get(url, timeout=30)
+        except Exception as e:
+            return None, f"Redirect loop (cloudscraper failed: {e})"
     except requests.exceptions.SSLError:
-        # Try http fallback
         try:
             http_url = url.replace('https://', 'http://')
             r = requests.get(http_url, headers=HEADERS, timeout=20, allow_redirects=True)
@@ -196,8 +549,28 @@ def scrape_team_roster(base_url, team_name, conference, school_name, state):
     except Exception as e:
         return None, f"Request error: {e}"
 
-    if r.status_code == 404:
-        return None, "404 - no baseball program or different URL"
+    if r is None or r.status_code == 404:
+        # Try old Sidearm /sports/bsb/YEAR/roster URL pattern before giving up
+        import datetime
+        year = datetime.date.today().year
+        alt_urls = [
+            f"{base_url}/sports/bsb/{year}-{str(year+1)[-2:]}/roster",
+            f"{base_url}/sports/bsb/{year-1}-{str(year)[-2:]}/roster",
+            f"{base_url}/sports/mbaseball/roster",
+            f"{base_url}/sports/m-baseball/roster",
+        ]
+        r = None
+        for alt_url in alt_urls:
+            try:
+                r_alt = requests.get(alt_url, headers=HEADERS, timeout=20, allow_redirects=True)
+                if r_alt.status_code == 200 and 'baseball' in r_alt.text[:8000].lower():
+                    r = r_alt
+                    url = alt_url
+                    break
+            except Exception:
+                continue
+        if r is None:
+            return None, "404 - no baseball program or different URL"
     elif r.status_code == 403:
         return None, "403 - access denied"
     elif r.status_code != 200:
@@ -209,11 +582,16 @@ def scrape_team_roster(base_url, team_name, conference, school_name, state):
 
     soup = BeautifulSoup(r.text, 'html.parser')
 
-    # Check page title for year
-    title = soup.find('title')
-    title_text = title.get_text() if title else ''
-
+    # Try HTML table parser, then JSON-in-script, WMT Digital, then Sidearm next-gen API
     players = parse_sidearm_roster(soup, team_name, conference, school_name, state)
+    if not players:
+        players = parse_old_sidearm_table(soup, team_name, conference, school_name, state)
+    if not players:
+        players = parse_script_json_roster(soup, team_name, conference, school_name, state)
+    if not players:
+        players = parse_wmt_digital_roster(soup, team_name, conference, school_name, state)
+    if not players:
+        players = parse_sidearm_nextgen_api(base_url, team_name, conference, school_name, state)
 
     if not players:
         return None, "No players parsed from page"
