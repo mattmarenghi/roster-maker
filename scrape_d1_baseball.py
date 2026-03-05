@@ -177,6 +177,104 @@ def parse_sidearm_roster(soup, team_name, conference, school_name, state):
     return players
 
 
+def parse_old_sidearm_table(soup, team_name, conference, school_name, state):
+    """
+    Parse the old Sidearm Sports roster table format (pre-Nuxt).
+
+    In this format each data row has:
+      <th class="name"><a>FirstName\nLastName</a></th>
+      <td class="number"><span class="label">No.:</span>1</td>
+      <td class="pos"><span class="label">Pos.:</span>RHP</td>
+      ... (bats_throws, height, weight, year, hometown_hs)
+    """
+    def cell_value(td):
+        """Return cell text with the <span class='label'> stripped out."""
+        label = td.find('span', class_='label')
+        if label:
+            label.decompose()
+        return td.get_text(separator=' ', strip=True)
+
+    players = []
+    for row in soup.find_all('tr'):
+        name_th = row.find('th', class_='name')
+        if name_th is None:
+            continue
+        # Extract first/last name from the link text
+        a = name_th.find('a')
+        if a:
+            texts = [t.strip() for t in a.stripped_strings]
+        else:
+            texts = [t.strip() for t in name_th.stripped_strings]
+        # texts[0] = first name, texts[1] = last name (usually)
+        texts = [t for t in texts if t]
+        if not texts:
+            continue
+        first_name = texts[0] if len(texts) >= 1 else ''
+        last_name = texts[1] if len(texts) >= 2 else ''
+
+        tds = row.find_all('td')
+        def get_td_class(cls):
+            td = row.find('td', class_=cls)
+            return cell_value(td) if td else ''
+
+        number = get_td_class('number')
+        position = get_td_class('position') or get_td_class('pos')
+        bats_throws = get_td_class('bats_throws') or get_td_class('bat-throw') or get_td_class('bt')
+        height = get_td_class('height') or get_td_class('ht')
+        weight = get_td_class('weight') or get_td_class('wt')
+        class_year = get_td_class('academic_year') or get_td_class('year') or get_td_class('cl')
+        hometown_hs = get_td_class('hometown_highschool') or get_td_class('hometown') or get_td_class('hs')
+
+        # Fall back to ordered TDs if class-based lookup returns nothing
+        if not position and len(tds) >= 2:
+            ordered = [cell_value(td) for td in tds]
+            # try to map by order: number, pos, bt, ht, wt, cl, hometown
+            if len(ordered) >= 1 and not number:
+                number = ordered[0]
+            if len(ordered) >= 2 and not position:
+                position = ordered[1]
+            if len(ordered) >= 3 and not bats_throws:
+                bats_throws = ordered[2]
+            if len(ordered) >= 4 and not height:
+                height = ordered[3]
+            if len(ordered) >= 5 and not weight:
+                weight = ordered[4]
+            if len(ordered) >= 6 and not class_year:
+                class_year = ordered[5]
+            if len(ordered) >= 7 and not hometown_hs:
+                hometown_hs = ordered[6]
+
+        # Split hometown/HS if combined
+        hometown = hometown_hs
+        high_school = ''
+        if '/' in hometown_hs:
+            parts = hometown_hs.split('/', 1)
+            hometown = parts[0].strip()
+            high_school = parts[1].strip()
+
+        if not first_name and not last_name:
+            continue
+
+        players.append({
+            'first_name': first_name,
+            'last_name': last_name,
+            'team': team_name,
+            'school': school_name,
+            'conference': conference,
+            'state': state,
+            'number': number,
+            'position': position,
+            'bats_throws': bats_throws,
+            'height': height,
+            'weight': weight,
+            'class_year': class_year,
+            'hometown': hometown,
+            'high_school': high_school,
+        })
+
+    return players
+
+
 def parse_sidearm_nextgen_api(base_url, team_name, conference, school_name, state):
     """
     Query the Sidearm next-gen (Nuxt 3) roster API directly.
@@ -452,7 +550,27 @@ def scrape_team_roster(base_url, team_name, conference, school_name, state):
         return None, f"Request error: {e}"
 
     if r is None or r.status_code == 404:
-        return None, "404 - no baseball program or different URL"
+        # Try old Sidearm /sports/bsb/YEAR/roster URL pattern before giving up
+        import datetime
+        year = datetime.date.today().year
+        alt_urls = [
+            f"{base_url}/sports/bsb/{year}-{str(year+1)[-2:]}/roster",
+            f"{base_url}/sports/bsb/{year-1}-{str(year)[-2:]}/roster",
+            f"{base_url}/sports/mbaseball/roster",
+            f"{base_url}/sports/m-baseball/roster",
+        ]
+        r = None
+        for alt_url in alt_urls:
+            try:
+                r_alt = requests.get(alt_url, headers=HEADERS, timeout=20, allow_redirects=True)
+                if r_alt.status_code == 200 and 'baseball' in r_alt.text[:8000].lower():
+                    r = r_alt
+                    url = alt_url
+                    break
+            except Exception:
+                continue
+        if r is None:
+            return None, "404 - no baseball program or different URL"
     elif r.status_code == 403:
         return None, "403 - access denied"
     elif r.status_code != 200:
@@ -466,6 +584,8 @@ def scrape_team_roster(base_url, team_name, conference, school_name, state):
 
     # Try HTML table parser, then JSON-in-script, WMT Digital, then Sidearm next-gen API
     players = parse_sidearm_roster(soup, team_name, conference, school_name, state)
+    if not players:
+        players = parse_old_sidearm_table(soup, team_name, conference, school_name, state)
     if not players:
         players = parse_script_json_roster(soup, team_name, conference, school_name, state)
     if not players:

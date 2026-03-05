@@ -24,6 +24,7 @@ from scrape_d1_baseball import (
     HEADERS,
     parse_name,
     parse_sidearm_roster,
+    parse_old_sidearm_table,
     parse_script_json_roster,
     parse_wmt_digital_roster,
     parse_sidearm_nextgen_api,
@@ -85,11 +86,30 @@ def try_scrape(school_row, nickname=''):
     use_cs = 'redirect' in school_row.get('notes', '').lower() or \
              'redirect' in school_row.get('status', '').lower()
 
+    import datetime
+    current_year = datetime.date.today().year
+    alt_urls = [
+        f"{base_url}/sports/bsb/{current_year}-{str(current_year+1)[-2:]}/roster",
+        f"{base_url}/sports/bsb/{current_year-1}-{str(current_year)[-2:]}/roster",
+        f"{base_url}/sports/mbaseball/roster",
+        f"{base_url}/sports/m-baseball/roster",
+    ]
+
     r, err = fetch_roster_page(roster_url, use_cloudscraper=use_cs)
+
+    # On 404, try alternate URL patterns (old Sidearm /sports/bsb/YEAR/roster)
+    if (err and '404' in str(err)) or (r and r.status_code == 404):
+        for alt_url in alt_urls:
+            r_alt, err_alt = fetch_roster_page(alt_url)
+            if not err_alt and r_alt and r_alt.status_code == 200:
+                text_check = r_alt.text[:8000].lower()
+                if 'baseball' in text_check or 'bsb' in alt_url:
+                    r, err = r_alt, None
+                    break
 
     if err:
         return [], f"Fetch error: {err}"
-    if r.status_code == 404:
+    if r is None or r.status_code == 404:
         return [], "HTTP 404"
     if r.status_code == 403:
         return [], "HTTP 403"
@@ -99,13 +119,15 @@ def try_scrape(school_row, nickname=''):
     # Validate we're on a baseball page
     text_lower = r.text[:8000].lower()
     final_url_lower = r.url.lower()
-    if 'baseball' not in final_url_lower and 'baseball' not in text_lower:
+    if 'baseball' not in final_url_lower and 'bsb' not in final_url_lower and 'baseball' not in text_lower:
         return [], "Redirected away from baseball page"
 
     soup = BeautifulSoup(r.text, 'html.parser')
 
-    # Try HTML table, JSON-in-script, WMT Digital, then Sidearm next-gen API
+    # Try HTML table, old Sidearm table, JSON-in-script, WMT Digital, then Sidearm next-gen API
     players = parse_sidearm_roster(soup, team_name, conference, school_name, state)
+    if not players:
+        players = parse_old_sidearm_table(soup, team_name, conference, school_name, state)
     if not players:
         players = parse_script_json_roster(soup, team_name, conference, school_name, state)
     if not players:
