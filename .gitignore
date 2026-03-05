@@ -15,3 +15,11 @@ davidson_wildcats_roster_2026.csv
 
 # OS
 .DS_Store
+
+# Node
+node_modules/
+package.json
+package-lock.json
+
+# Generated preview images
+*.png
