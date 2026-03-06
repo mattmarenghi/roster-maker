@@ -681,6 +681,11 @@
 
   async function signOut() {
     await db.auth.signOut();
+    currentUser = null;
+    favorites = new Set();
+    updateFavBadge();
+    renderAuthBtn();
+    if (showingFavorites) renderFavoritesView();
   }
 
   // ── Favorites (Supabase) ────────────────────────────────────────────────────
