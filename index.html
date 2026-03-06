@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NCAA D1 Baseball Roster Search</title>
   <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.1/dist/umd/index.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -110,13 +111,14 @@
       color: #8892b0;
     }
 
-    /* ── Favorites tab ──────────────────────────────────────────────────── */
+    /* ── Favorites bar ───────────────────────────────────────────────────── */
     .favorites-bar {
       max-width: 680px;
       margin: 16px auto 0;
       padding: 0 16px;
       display: flex;
-      justify-content: flex-end;
+      align-items: center;
+      justify-content: space-between;
     }
 
     .fav-tab-btn {
@@ -150,6 +152,159 @@
       display: none;
     }
     .fav-count-badge.visible { display: inline-block; }
+
+    /* ── Auth pill ───────────────────────────────────────────────────────── */
+    .auth-pill {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: white;
+      border: none;
+      border-radius: 20px;
+      padding: 8px 16px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #4361ee;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      transition: background 0.15s;
+    }
+    .auth-pill:hover { background: #eef1ff; }
+
+    .auth-avatar {
+      width: 22px;
+      height: 22px;
+      background: #4361ee;
+      color: white;
+      border-radius: 50%;
+      font-size: 0.72rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .auth-signout {
+      background: none;
+      border: none;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #8892b0;
+      cursor: pointer;
+      padding: 8px 12px;
+      border-radius: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      background: white;
+      transition: color 0.15s;
+    }
+    .auth-signout:hover { color: #4361ee; }
+
+    /* ── Auth modal ──────────────────────────────────────────────────────── */
+    .auth-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .auth-overlay.open { display: flex; }
+
+    .auth-modal {
+      background: white;
+      border-radius: 20px;
+      padding: 28px 24px 24px;
+      width: 100%;
+      max-width: 360px;
+      position: relative;
+    }
+
+    .auth-close {
+      position: absolute;
+      top: 14px;
+      right: 16px;
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      color: #aab;
+      cursor: pointer;
+      line-height: 1;
+      padding: 4px 6px;
+    }
+    .auth-close:hover { color: #555; }
+
+    .auth-modal h2 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: #1a1a2e;
+      margin-bottom: 5px;
+    }
+    .auth-modal p {
+      font-size: 0.85rem;
+      color: #8892b0;
+      margin-bottom: 20px;
+      line-height: 1.5;
+    }
+
+    .auth-input {
+      width: 100%;
+      padding: 14px 16px;
+      font-size: 1rem;
+      border: 1.5px solid #e0e4f0;
+      border-radius: 12px;
+      outline: none;
+      margin-bottom: 12px;
+      transition: border-color 0.15s;
+      background: white;
+    }
+    .auth-input:focus { border-color: #4361ee; }
+
+    .auth-input-code {
+      letter-spacing: 0.25em;
+      font-size: 1.4rem;
+      text-align: center;
+      font-weight: 700;
+    }
+
+    .auth-submit {
+      width: 100%;
+      padding: 14px;
+      background: #4361ee;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .auth-submit:hover { background: #3451d1; }
+    .auth-submit:disabled { background: #a0aeea; cursor: default; }
+
+    .auth-error {
+      font-size: 0.82rem;
+      color: #dc2626;
+      margin-top: 10px;
+      text-align: center;
+      min-height: 18px;
+    }
+
+    .auth-back {
+      background: none;
+      border: none;
+      color: #8892b0;
+      font-size: 0.82rem;
+      cursor: pointer;
+      margin-top: 10px;
+      text-align: center;
+      width: 100%;
+      padding: 6px;
+      transition: color 0.15s;
+    }
+    .auth-back:hover { color: #4361ee; }
 
     /* ── Star button on cards ───────────────────────────────────────────── */
     .card {
@@ -397,6 +552,11 @@
     .favorites-empty svg { margin-bottom: 12px; opacity: 0.35; }
     .favorites-empty p { font-size: 0.92rem; }
     .favorites-empty small { font-size: 0.8rem; margin-top: 6px; display: block; }
+    .favorites-empty .auth-submit {
+      margin: 20px auto 0;
+      max-width: 180px;
+      padding: 12px;
+    }
 
     .load-bar {
       width: 100%;
@@ -417,6 +577,33 @@
 </head>
 <body>
 
+<!-- ── Auth modal ──────────────────────────────────────────────────────────── -->
+<div class="auth-overlay" id="authOverlay" onclick="overlayClick(event)">
+  <div class="auth-modal">
+    <button class="auth-close" onclick="hideAuthModal()">×</button>
+
+    <div id="authStep1">
+      <h2>Sign in</h2>
+      <p>Enter your email and we'll send you a 6-digit sign-in code.</p>
+      <input class="auth-input" id="authEmail" type="email"
+             placeholder="your@email.com" autocomplete="email">
+      <button class="auth-submit" id="authSendBtn" onclick="sendOTP()">Send code</button>
+      <div class="auth-error" id="authError1"></div>
+    </div>
+
+    <div id="authStep2" style="display:none">
+      <h2>Check your email</h2>
+      <p id="authCodeDesc">Enter the 6-digit code we sent you.</p>
+      <input class="auth-input auth-input-code" id="authCode" type="text"
+             inputmode="numeric" placeholder="000000" maxlength="6"
+             autocomplete="one-time-code">
+      <button class="auth-submit" id="authVerifyBtn" onclick="verifyOTP()">Sign in</button>
+      <div class="auth-error" id="authError2"></div>
+      <button class="auth-back" onclick="showAuthStep1()">← Use a different email</button>
+    </div>
+  </div>
+</div>
+
 <header>
   <h1>NCAA D1 Baseball Roster Search</h1>
   <p id="subtitle">Loading player data…</p>
@@ -434,6 +621,7 @@
 </div>
 
 <div class="favorites-bar">
+  <div id="authArea"></div>
   <button class="fav-tab-btn" id="favTabBtn" onclick="toggleFavoritesView()">
     <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
       <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
@@ -454,36 +642,72 @@
   let currentResults = [];
   let showingFavorites = false;
 
-  // ── Favorites (localStorage) ────────────────────────────────────────────────
-  const FAV_KEY = 'roster_favorites';
+  // ── Supabase ────────────────────────────────────────────────────────────────
+  const db = supabase.createClient(
+    'https://otqfemjslhciiiafdnia.supabase.co',
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im90cWZlbWpzbGhjaWlpYWZkbmlhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI3NTMyMTcsImV4cCI6MjA4ODMyOTIxN30.uuAnKzw97T4Y9MDfaiM1IqaZF5vYLn5SZPt2QkGlEtA'
+  );
 
-  function loadFavorites() {
-    try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); }
-    catch { return new Set(); }
+  let currentUser = null;
+  let pendingEmail = '';
+  let favorites = new Set();
+
+  // ── Auth state ──────────────────────────────────────────────────────────────
+  db.auth.onAuthStateChange(async (event, session) => {
+    currentUser = session?.user ?? null;
+    renderAuthBtn();
+    if (currentUser) {
+      await fetchFavorites();
+    } else {
+      favorites = new Set();
+      updateFavBadge();
+      if (showingFavorites) renderFavoritesView();
+    }
+  });
+
+  function renderAuthBtn() {
+    const area = $('authArea');
+    if (currentUser) {
+      const initial = (currentUser.email || '?').charAt(0).toUpperCase();
+      area.innerHTML = `
+        <div style="display:flex;align-items:center;gap:8px">
+          <div class="auth-avatar">${initial}</div>
+          <button class="auth-signout" onclick="signOut()">Sign out</button>
+        </div>`;
+    } else {
+      area.innerHTML = `<button class="auth-pill" onclick="showAuthModal()">Sign in</button>`;
+    }
   }
 
-  function saveFavorites(set) {
-    localStorage.setItem(FAV_KEY, JSON.stringify([...set]));
+  async function signOut() {
+    await db.auth.signOut();
   }
 
-  let favorites = loadFavorites();
+  // ── Favorites (Supabase) ────────────────────────────────────────────────────
+  async function fetchFavorites() {
+    const { data } = await db.from('favorites').select('player_id');
+    favorites = new Set((data || []).map(r => r.player_id));
+    updateFavBadge();
+    if (showingFavorites) renderFavoritesView();
+  }
 
-  function toggleFavorite(id) {
+  async function toggleFavorite(id) {
+    if (!currentUser) {
+      showAuthModal();
+      return;
+    }
     if (favorites.has(id)) {
       favorites.delete(id);
+      db.from('favorites').delete().match({ user_id: currentUser.id, player_id: id });
     } else {
       favorites.add(id);
+      db.from('favorites').insert({ user_id: currentUser.id, player_id: id });
     }
-    saveFavorites(favorites);
     updateFavBadge();
-
-    // Update any visible star buttons for this id without re-rendering
     document.querySelectorAll(`.star-btn[data-id="${id}"]`).forEach(btn => {
       btn.classList.toggle('starred', favorites.has(id));
       btn.title = favorites.has(id) ? 'Remove from favorites' : 'Add to favorites';
     });
-
-    // If we're in favorites view, re-render since the set changed
     if (showingFavorites) renderFavoritesView();
   }
 
@@ -492,6 +716,88 @@
     badge.textContent = favorites.size;
     badge.classList.toggle('visible', favorites.size > 0);
   }
+
+  // ── Auth modal ──────────────────────────────────────────────────────────────
+  function showAuthModal() {
+    showAuthStep1();
+    $('authOverlay').classList.add('open');
+    setTimeout(() => $('authEmail').focus(), 50);
+  }
+
+  function hideAuthModal() {
+    $('authOverlay').classList.remove('open');
+  }
+
+  function overlayClick(e) {
+    if (e.target === $('authOverlay')) hideAuthModal();
+  }
+
+  function showAuthStep1() {
+    $('authStep1').style.display = '';
+    $('authStep2').style.display = 'none';
+    $('authError1').textContent = '';
+    $('authEmail').value = '';
+  }
+
+  async function sendOTP() {
+    const email = $('authEmail').value.trim();
+    if (!email) return;
+
+    const btn = $('authSendBtn');
+    btn.disabled = true;
+    btn.textContent = 'Sending…';
+    $('authError1').textContent = '';
+
+    const { error } = await db.auth.signInWithOtp({ email });
+
+    if (error) {
+      $('authError1').textContent = error.message;
+      btn.disabled = false;
+      btn.textContent = 'Send code';
+    } else {
+      pendingEmail = email;
+      $('authCodeDesc').textContent = `Enter the 6-digit code we sent to ${email}.`;
+      $('authStep1').style.display = 'none';
+      $('authStep2').style.display = '';
+      $('authError2').textContent = '';
+      $('authCode').value = '';
+      btn.disabled = false;
+      btn.textContent = 'Send code';
+      setTimeout(() => $('authCode').focus(), 50);
+    }
+  }
+
+  async function verifyOTP() {
+    const token = $('authCode').value.trim();
+    if (token.length !== 6) return;
+
+    const btn = $('authVerifyBtn');
+    btn.disabled = true;
+    btn.textContent = 'Verifying…';
+    $('authError2').textContent = '';
+
+    const { error } = await db.auth.verifyOtp({
+      email: pendingEmail,
+      token,
+      type: 'email',
+    });
+
+    if (error) {
+      $('authError2').textContent = error.message;
+      btn.disabled = false;
+      btn.textContent = 'Sign in';
+    } else {
+      hideAuthModal();
+      btn.disabled = false;
+      btn.textContent = 'Sign in';
+    }
+  }
+
+  // Enter key support in auth inputs
+  document.addEventListener('DOMContentLoaded', () => {
+    $('authEmail').addEventListener('keydown', e => { if (e.key === 'Enter') sendOTP(); });
+    $('authCode').addEventListener('keydown', e => { if (e.key === 'Enter') verifyOTP(); });
+  });
 
   // ── Favorites view toggle ───────────────────────────────────────────────────
   function toggleFavoritesView() {
@@ -503,7 +809,6 @@
       hideDropdown();
       renderFavoritesView();
     } else {
-      // Return to last search or blank
       const q = $('searchBox').value.trim();
       $('searchBox').disabled = false;
       if (q.length >= 2 && currentResults.length) {
@@ -516,7 +821,7 @@
 
   // ── Mock stats for favorites cards (placeholder until real data) ────────────
   function mockStats(p) {
-    const seed = parseInt(p.id.slice(0, 4), 16); // 0–65535, deterministic per player
+    const seed = parseInt(p.id.slice(0, 4), 16);
     const isPitcher = /\b(P|RHP|LHP|SP|RP|CL|CP)\b/i.test(p.pos || '');
     const opps = ['Duke','Carolina','Miami','Florida','LSU','Vanderbilt','Cal','Oregon','Wake Forest','Virginia','GT','Clemson'];
     const opp = opps[seed % opps.length];
@@ -639,6 +944,21 @@
 
   function renderFavoritesView() {
     const area = $('resultsArea');
+
+    if (!currentUser) {
+      area.innerHTML = `
+        <div class="favorites-empty">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+          </svg>
+          <p>Sign in to save favorites</p>
+          <small>Your starred players will sync across devices.</small>
+          <button class="auth-submit" onclick="showAuthModal()">Sign in</button>
+        </div>`;
+      return;
+    }
+
     if (favorites.size === 0) {
       area.innerHTML = `
         <div class="favorites-empty">
@@ -689,6 +1009,7 @@
     $('searchBox').disabled = false;
     $('searchBox').focus();
 
+    renderAuthBtn();
     updateFavBadge();
   }
 
