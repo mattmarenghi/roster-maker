@@ -573,6 +573,32 @@
       transition: width 0.4s ease;
       border-radius: 2px;
     }
+
+    .stats-unavailable {
+      color: #9aa0b4;
+      font-style: italic;
+      font-size: 0.88rem;
+      font-weight: 500;
+    }
+
+    .fav-stat-narrative {
+      font-size: 0.8rem;
+      color: #8892b0;
+      margin-top: 3px;
+      font-style: italic;
+      line-height: 1.4;
+    }
+
+    .fav-record-badge {
+      background: #f0fff4;
+      color: #2d6a4f;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 3px 9px;
+      border-radius: 20px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
   </style>
 </head>
 <body>
@@ -641,6 +667,8 @@
   let activeIdx = -1;
   let currentResults = [];
   let showingFavorites = false;
+  let playerStatsMap = {};
+  let schoolStatsMap = {};
 
   // ── Supabase ────────────────────────────────────────────────────────────────
   const db = supabase.createClient(
@@ -819,49 +847,41 @@
     }
   }
 
-  // ── Mock stats for favorites cards (placeholder until real data) ────────────
-  function mockStats(p) {
-    const seed = parseInt(p.id.slice(0, 4), 16);
-    const isPitcher = /\b(P|RHP|LHP|SP|RP|CL|CP)\b/i.test(p.pos || '');
-    const opps = ['Duke','Carolina','Miami','Florida','LSU','Vanderbilt','Cal','Oregon','Wake Forest','Virginia','GT','Clemson'];
-    const opp = opps[seed % opps.length];
-    const month = ['Mar','Apr'][Math.floor(seed / 200) % 2];
-    const day = 8 + (seed % 20);
+  // ── Real stats helpers ───────────────────────────────────────────────────────
+  function formatLastGame(playerData) {
+    const lg = playerData.last_game;
+    if (!lg) return null;
 
-    if (isPitcher) {
-      const era = (2.00 + (seed % 380) / 100).toFixed(2);
-      const k   = 15 + (seed % 55);
-      const whip = (0.90 + (seed % 75) / 100).toFixed(2);
-      const ipOpts = ['1.0','2.0','3.0','4.1','5.0','6.0','6.2','7.0'];
-      const ip = ipOpts[seed % ipOpts.length];
-      const gk = 1 + (seed % 9);
-      const er = seed % 4;
-      const rs = 3 + (seed % 5), ra = rs + (er <= 1 ? -(seed % 2 + 1) : (seed % 2));
-      const wl = ra < rs ? 'W' : 'L';
-      return {
-        latestGame:  `vs ${opp} (${wl} ${Math.max(rs,ra)}-${Math.min(rs,ra)}, ${month} ${day})`,
-        latestStats: `${ip} IP, ${gk} K, ${er} ER`,
-        seasonStats: `${era} ERA, ${k} K, ${whip} WHIP`,
-      };
-    } else {
-      const avg = '.' + (220 + (seed % 115));
-      const hr  = seed % 18;
-      const rbi = 10 + (seed % 42);
-      const ab  = 3 + (seed % 3);
-      const hits = Math.max(0, Math.round(parseFloat(avg) * ab * 2.5));
-      const ghrs = (seed % 5 === 0) ? 1 : 0;
-      const grbis = ghrs ? (1 + seed % 3) : (hits >= 2 ? seed % 3 : 0);
-      const rs = 3 + (seed % 6), ra = rs + ((seed % 3) - 1);
-      const wl = ra < rs ? 'W' : 'L';
-      let gs = `${Math.min(hits,ab)}-${ab}`;
-      if (ghrs)  gs += `, ${ghrs} HR`;
-      if (grbis) gs += `, ${grbis} RBI`;
-      return {
-        latestGame:  `vs ${opp} (${wl} ${Math.max(rs,ra)}-${Math.min(rs,ra)}, ${month} ${day})`,
-        latestStats: gs,
-        seasonStats: `${avg} AVG, ${hr} HR, ${rbi} RBI`,
-      };
+    const main = `${lg.result} vs ${lg.opponent}`;
+    let detail = '';
+
+    if (lg.batting && (lg.batting.ab > 0 || lg.batting.rbi > 0)) {
+      detail = `${lg.batting.h}/${lg.batting.ab}`;
+      if (lg.batting.rbi)  detail += `, ${lg.batting.rbi} RBI`;
+      if (lg.batting.bb)   detail += `, ${lg.batting.bb} BB`;
+      if (lg.batting.hr)   detail += `, ${lg.batting.hr} HR`;
+    } else if (lg.pitching) {
+      detail = `${lg.pitching.ip} IP · ${lg.pitching.so} K · ${lg.pitching.er} ER`;
     }
+
+    return { main, detail, date: lg.date, narrative: playerData.narrative || '' };
+  }
+
+  function formatSeasonStats(playerData) {
+    if (playerData.season_batting) {
+      const b = playerData.season_batting;
+      const avg = b.avg.toFixed(3).replace(/^0/, '');
+      const main = `${avg} AVG · ${b.hr} HR · ${b.rbi} RBI`;
+      const detail = `${b.ops.toFixed(3)} OPS · ${b.g} G · ${b.h} H`;
+      return { main, detail };
+    }
+    if (playerData.season_pitching) {
+      const pit = playerData.season_pitching;
+      const main = `${pit.era.toFixed(2)} ERA · ${pit.w}-${pit.l} · ${pit.so} K`;
+      const detail = `${pit.whip.toFixed(2)} WHIP · ${pit.ip} IP · ${pit.g}G`;
+      return { main, detail };
+    }
+    return null;
   }
 
   // ── Favorites card layout ────────────────────────────────────────────────────
@@ -870,7 +890,6 @@
     const initials = ((p.fn || '').charAt(0) + (p.ln || '').charAt(0)).toUpperCase();
     const physical = [p.yr, p.ht, p.wt ? p.wt + ' lbs' : ''].filter(Boolean).join(' \u2022 ');
     const pos = p.pos ? p.pos.split('/')[0].trim() : '';
-    const stats = mockStats(p);
 
     const bgColors   = ['#cfe2ff','#d1fae5','#fff3cd','#fce7f3','#ede9fe','#d0f0fd'];
     const textColors = ['#084298','#065f46','#7a4f00','#831843','#4c1d95','#0c4a6e'];
@@ -878,6 +897,28 @@
     const photoEl = p.photo_url
       ? `<img class="fav-photo fav-photo-img" src="${p.photo_url}" alt="${p.name}" onerror="this.outerHTML='<div class=\\'fav-photo\\' style=\\'background:${bgColors[ci]};color:${textColors[ci]}\\'>${initials}</div>'">`
       : `<div class="fav-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
+
+    const playerData  = playerStatsMap[p.id] || null;
+    const schoolData  = schoolStatsMap[p.school] || null;
+    const lastGame    = playerData ? formatLastGame(playerData) : null;
+    const seasonStats = playerData ? formatSeasonStats(playerData) : null;
+
+    const recordBadge = schoolData
+      ? `<span class="fav-record-badge">${schoolData.record}</span>`
+      : '';
+
+    const unavailable = `<div class="fav-stat-main stats-unavailable">Stats currently unavailable</div>`;
+
+    const lastGameHTML = lastGame
+      ? `<div class="fav-stat-main">${lastGame.main}</div>
+         ${lastGame.detail   ? `<div class="fav-stat-detail">${lastGame.detail}</div>` : ''}
+         ${lastGame.narrative ? `<div class="fav-stat-narrative">${lastGame.narrative}</div>` : ''}`
+      : unavailable;
+
+    const seasonStatsHTML = seasonStats
+      ? `<div class="fav-stat-main">${seasonStats.main}</div>
+         <div class="fav-stat-detail">${seasonStats.detail}</div>`
+      : unavailable;
 
     return `
       <div class="fav-card">
@@ -887,6 +928,7 @@
             <div class="fav-name-row">
               <span class="fav-player-name">${p.name}</span>
               ${pos ? `<span class="fav-pos-badge">${pos}</span>` : ''}
+              ${recordBadge}
             </div>
             <div class="fav-school-name">${p.school}</div>
             ${physical ? `<div class="fav-physical">${physical}</div>` : ''}
@@ -916,8 +958,7 @@
           </div>
           <div class="fav-stat-content">
             <div class="fav-stat-label">Latest Game</div>
-            <div class="fav-stat-main">${stats.latestGame}</div>
-            <div class="fav-stat-detail">${stats.latestStats}</div>
+            ${lastGameHTML}
           </div>
         </div>
 
@@ -932,7 +973,7 @@
           </div>
           <div class="fav-stat-content">
             <div class="fav-stat-label">Season Stats</div>
-            <div class="fav-stat-main">${stats.seasonStats}</div>
+            ${seasonStatsHTML}
           </div>
         </div>
 
@@ -981,6 +1022,26 @@
     area.innerHTML = header + favPlayers.map(p => favCardHTML(p)).join('');
   }
 
+  // ── Load stats files ────────────────────────────────────────────────────────
+  async function loadStats() {
+    try {
+      const idxRes = await fetch('stats/index.json');
+      if (!idxRes.ok) return;
+      const slugs = await idxRes.json();
+      await Promise.all(slugs.map(async slug => {
+        try {
+          const res = await fetch(`stats/${slug}.json`);
+          if (!res.ok) return;
+          const data = await res.json();
+          schoolStatsMap[data.school] = data;
+          for (const [id, player] of Object.entries(data.players || {})) {
+            playerStatsMap[id] = player;
+          }
+        } catch (e) { /* skip missing files */ }
+      }));
+    } catch (e) { /* no index, skip */ }
+  }
+
   // ── Load data ──────────────────────────────────────────────────────────────
   async function init() {
     $('loadBar').style.width = '30%';
@@ -988,6 +1049,7 @@
     $('loadBar').style.width = '70%';
     allPlayers = await res.json();
     $('loadBar').style.width = '90%';
+    await loadStats();
 
     miniSearch = new MiniSearch({
       fields: ['name', 'school', 'pos', 'hometown', 'hs'],
