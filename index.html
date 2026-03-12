@@ -1113,6 +1113,7 @@
     $('searchClear').classList.remove('visible');
     $('searchBox').blur();
     currentResults = [];
+    sessionStorage.removeItem('lastSearch');
   }
 
   function clearSearch() {
@@ -1127,18 +1128,26 @@
 
   $('searchBox').addEventListener('focus', () => {
     enterSearchMode();
-    const q = $('searchBox').value.trim();
-    // Restore clear button visibility whenever the input is focused with a value
-    $('searchClear').classList.toggle('visible', q.length > 0);
-    if (q.length >= 2 && currentResults.length) {
-      renderSearchResults(q, currentResults);
-    }
+    // Use rAF so mobile Safari has settled from keyboard/layout animation
+    // before we toggle display on the clear button
+    requestAnimationFrame(() => {
+      const q = $('searchBox').value.trim();
+      $('searchClear').classList.toggle('visible', q.length > 0);
+      if (q.length >= 2 && currentResults.length) {
+        renderSearchResults(q, currentResults);
+      }
+    });
   });
 
   let debounceTimer;
   $('searchBox').addEventListener('input', e => {
     const q = e.target.value;
     $('searchClear').classList.toggle('visible', q.length > 0);
+    if (q.length > 0) {
+      sessionStorage.setItem('lastSearch', q);
+    } else {
+      sessionStorage.removeItem('lastSearch');
+    }
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(() => runSearch(q.trim()), 80);
   });
@@ -1435,6 +1444,17 @@
     $('searchBox').disabled = false;
     renderProfileBtn();
     renderHomepage();
+
+    // Restore last search term + results across page loads/refreshes.
+    // If the user intentionally cleared via X/Escape/overlay, sessionStorage
+    // was already wiped in exitSearchMode(), so nothing will restore.
+    const savedSearch = sessionStorage.getItem('lastSearch');
+    if (savedSearch && savedSearch.trim().length >= 2) {
+      $('searchBox').value = savedSearch;
+      $('searchClear').classList.add('visible');
+      enterSearchMode();
+      runSearch(savedSearch.trim());
+    }
   }
 
   init().catch(err => {
