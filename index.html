@@ -327,6 +327,19 @@
       color: #8892b0;
       margin-bottom: 8px;
     }
+    .pc-stats-meta {
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      color: #aab0c6;
+      text-transform: none;
+    }
+    .pc-no-stats {
+      font-size: 0.75rem;
+      color: #b0b8d0;
+      text-align: center;
+      padding: 8px 0 4px;
+      font-style: italic;
+    }
 
     /* Stats grid */
     .pc-stats-box {
@@ -1087,7 +1100,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.5 (claude/favorite-confirmation-dialog-1XE2K)</div>`;
+        <div class="ps-version">VERSION 2.5.6 (claude/scraper-scalability-design-3SCRX)</div>`;
       return;
     }
 
@@ -1129,7 +1142,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.5 (claude/favorite-confirmation-dialog-1XE2K)</div>`;
+      <div class="ps-version">VERSION 2.5.6 (claude/scraper-scalability-design-3SCRX)</div>`;
   }
 
   async function signOut() {
@@ -1310,11 +1323,26 @@
     return pos.includes('RHP') || pos.includes('LHP') || pos.includes('SP') || pos.includes('RP') || pos === 'P';
   }
 
+  function fmtGameDate(dateStr) {
+    if (!dateStr) return '';
+    const [, m, d] = dateStr.split('-');
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return `${months[parseInt(m, 10) - 1]} ${parseInt(d, 10)}`;
+  }
+
+  function fmtGameMeta(lg) {
+    const parts = [];
+    if (lg.result) parts.push(lg.result);
+    if (lg.date) parts.push(fmtGameDate(lg.date));
+    return parts.length ? ` · ${parts.join(' · ')}` : '';
+  }
+
   function formatLastGameBatting(lg) {
     if (!lg || !lg.batting) return null;
     const b = lg.batting;
     return {
       opponent: lg.opponent || '?',
+      meta: fmtGameMeta(lg),
       stats: [
         { label: 'AB', val: b.ab ?? '-' },
         { label: 'R', val: b.r ?? '-' },
@@ -1331,6 +1359,7 @@
     const pit = lg.pitching;
     return {
       opponent: lg.opponent || '?',
+      meta: fmtGameMeta(lg),
       stats: [
         { label: 'IP', val: pit.ip ?? '-' },
         { label: 'H', val: pit.h ?? '-' },
@@ -1400,10 +1429,11 @@
     let seasonHTML = '';
 
     if (pitcher) {
-      const lgStats = lg ? formatLastGamePitching(lg) : null;
+      const lgStats = lg ? (formatLastGamePitching(lg) || formatLastGameBatting(lg)) : null;
       if (lgStats) {
+        const gameLabel = lgStats.stats.some(s => s.label === 'IP') ? 'LAST START' : 'LAST GAME';
         lastGameHTML = `
-          <div class="pc-stats-label">LAST START VS ${escapeHTML(lgStats.opponent).toUpperCase()}</div>
+          <div class="pc-stats-label">${gameLabel} VS ${escapeHTML(lgStats.opponent).toUpperCase()}<span class="pc-stats-meta">${escapeHTML(lgStats.meta)}</span></div>
           <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
       }
       const sp = playerData ? playerData.season_pitching : null;
@@ -1417,7 +1447,7 @@
       const lgStats = lg ? formatLastGameBatting(lg) : null;
       if (lgStats) {
         lastGameHTML = `
-          <div class="pc-stats-label">LAST GAME VS ${escapeHTML(lgStats.opponent).toUpperCase()}</div>
+          <div class="pc-stats-label">LAST GAME VS ${escapeHTML(lgStats.opponent).toUpperCase()}<span class="pc-stats-meta">${escapeHTML(lgStats.meta)}</span></div>
           <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
       }
       const sb = playerData ? playerData.season_batting : null;
@@ -1429,8 +1459,8 @@
       }
     }
 
-    if (!lastGameHTML && !seasonHTML && !narrative) {
-      // No stats at all
+    if (!lastGameHTML && !seasonHTML && !narrative && playerData) {
+      seasonHTML = `<div class="pc-no-stats">No stats recorded this season</div>`;
     }
 
     return `

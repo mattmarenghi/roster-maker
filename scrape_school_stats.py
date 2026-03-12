@@ -101,11 +101,23 @@ def extract_nuxt_data(html: str) -> list | None:
 # Season stats scrapers
 # ---------------------------------------------------------------------------
 
-def scrape_season_batting(base_url: str, season: str = "2026") -> list[dict]:
+def stats_url(base_url: str, season: str, no_season: bool = False) -> str:
+    """Build the stats page URL, handling schools that omit the season."""
+    if no_season:
+        return f"{base_url}/sports/baseball/stats"
+    return f"{base_url}/sports/baseball/stats/{season}"
+
+
+def scrape_season_batting(base_url: str, season: str = "2026", no_season: bool = False) -> list[dict]:
     """Scrape cumulative season batting stats from the HTML stats table."""
-    url = f"{base_url}/sports/baseball/stats/{season}"
+    url = stats_url(base_url, season, no_season)
     print(f"  Fetching season batting: {url}")
     html = fetch(url)
+    if not html and not no_season:
+        # Retry without season in URL
+        url = stats_url(base_url, season, True)
+        print(f"  Retrying without season: {url}")
+        html = fetch(url)
     if not html:
         return []
     time.sleep(DELAY)
@@ -219,11 +231,15 @@ def scrape_season_batting(base_url: str, season: str = "2026") -> list[dict]:
     return players
 
 
-def scrape_season_pitching(base_url: str, season: str = "2026") -> list[dict]:
+def scrape_season_pitching(base_url: str, season: str = "2026", no_season: bool = False) -> list[dict]:
     """Extract season pitching stats from the NUXT embedded data."""
-    url = f"{base_url}/sports/baseball/stats/{season}"
+    url = stats_url(base_url, season, no_season)
     print(f"  Fetching season pitching from NUXT data: {url}")
     html = fetch(url)
+    if not html and not no_season:
+        url = stats_url(base_url, season, True)
+        print(f"  Retrying without season: {url}")
+        html = fetch(url)
     if not html:
         return []
     time.sleep(DELAY)
@@ -342,29 +358,223 @@ def scrape_season_pitching(base_url: str, season: str = "2026") -> list[dict]:
         })
 
     print(f"  Found {len(pitchers)} pitchers")
+    if pitchers:
+        return pitchers
+
+    # --- Fallback: parse pitching stats from HTML table (old SIDEARM format) ---
+    print("  Falling back to HTML table pitching parser")
+    soup = BeautifulSoup(html, "html.parser")
+    pitching_table = None
+    for t in soup.find_all("table"):
+        hdr = [th.get_text(strip=True).lower() for th in t.find_all("th")]
+        if "era" in hdr and "ip" in hdr and "w-l" in hdr:
+            pitching_table = t
+            break
+    if not pitching_table:
+        return []
+
+    raw_headers = [th.get_text(strip=True) for th in pitching_table.find_all("th")]
+    pitchers = []
+    for row in pitching_table.find_all("tr")[1:]:
+        cells = [td.get_text(strip=True) for td in row.find_all("td")]
+        if not cells or len(cells) < 10:
+            continue
+
+        # First cell is jersey #, second is player name in some old formats
+        # But in UCSB format, the headers include player names. Rows start with jersey #.
+        name_raw = ""
+        # Check if we can find a link with the player name
+        name_link = row.find("a")
+        if name_link:
+            name_raw = name_link.get_text(strip=True)
+        if not name_raw:
+            # Try getting from the row text before the first numeric cell
+            all_text = [td.get_text(strip=True) for td in row.find_all("td")]
+            if all_text and not all_text[0].replace(".", "").replace("-", "").isdigit():
+                name_raw = all_text[0]
+
+        if not name_raw or name_raw.lower() in ("totals", "opponents", ""):
+            continue
+
+        if "," in name_raw:
+            ln, fn = [x.strip() for x in name_raw.split(",", 1)]
+        else:
+            parts = name_raw.split()
+            fn, ln = (parts[0], " ".join(parts[1:])) if len(parts) > 1 else (name_raw, "")
+
+        def cell(col_name):
+            try:
+                col_lower = col_name.lower()
+                for ci, h in enumerate(raw_headers):
+                    if h.lower() == col_lower and ci < len(cells):
+                        return cells[ci]
+            except Exception:
+                pass
+            return None
+
+        def safe_int(val):
+            try:
+                return int(val) if val not in (None, "", "-") else 0
+            except ValueError:
+                return 0
+
+        def safe_float(val):
+            try:
+                return float(val) if val not in (None, "", "-") else None
+            except ValueError:
+                return None
+
+        # Parse W-L field
+        wl = cell("W-L") or "0-0"
+        w, l = 0, 0
+        if "-" in wl:
+            parts = wl.replace(" ", "").split("-")
+            try:
+                w, l = int(parts[0]), int(parts[1])
+            except (ValueError, IndexError):
+                pass
+
+        # Parse APP-GS
+        app_gs = cell("APP-GS") or "0-0"
+        app, gs = 0, 0
+        if "-" in app_gs:
+            parts = app_gs.replace(" ", "").split("-")
+            try:
+                app, gs = int(parts[0]), int(parts[1])
+            except (ValueError, IndexError):
+                pass
+
+        pitchers.append({
+            "fn": fn,
+            "ln": ln,
+            "season_pitching": {
+                "era": safe_float(cell("ERA")),
+                "whip": safe_float(cell("WHIP")),
+                "w": w,
+                "l": l,
+                "sv": safe_int(cell("SV")),
+                "g": app,
+                "gs": gs,
+                "ip": safe_float(cell("IP")),
+                "h": safe_int(cell("H")),
+                "r": safe_int(cell("R")),
+                "er": safe_int(cell("ER")),
+                "bb": safe_int(cell("BB")),
+                "so": safe_int(cell("SO")),
+                "hr": safe_int(cell("HR")),
+                "hbp": safe_int(cell("HBP")),
+                "wp": safe_int(cell("WP")),
+                "opp_avg": cell("B/AVG"),
+            },
+        })
+
+    print(f"  Found {len(pitchers)} pitchers (HTML fallback)")
     return pitchers
+
+
+# ---------------------------------------------------------------------------
+# W/L record scraper
+# ---------------------------------------------------------------------------
+
+def scrape_record(base_url: str, season: str = "2026", no_season: bool = False) -> str:
+    """
+    Extract the team's W-L record from the NUXT data on the stats page.
+    Looks for the overallRecord field or counts finished games.
+    Returns a string like "12-5" or "" if not found.
+    """
+    url = stats_url(base_url, season, no_season)
+    html = fetch(url)
+    if not html and not no_season:
+        url = stats_url(base_url, season, True)
+        html = fetch(url)
+    if not html:
+        return ""
+    time.sleep(DELAY)
+
+    nuxt_data = extract_nuxt_data(html)
+    if not nuxt_data:
+        return ""
+
+    def rv(idx):
+        return resolve_nuxt(nuxt_data, idx)
+
+    # Search for overallRecord or wins/losses fields
+    for i, item in enumerate(nuxt_data):
+        if isinstance(item, dict):
+            if "overallRecord" in item:
+                rec = rv(item["overallRecord"])
+                if isinstance(rec, str) and "-" in rec:
+                    return rec
+            if "wins" in item and "losses" in item:
+                w = rv(item["wins"])
+                l = rv(item["losses"])
+                if isinstance(w, (int, float)) and isinstance(l, (int, float)):
+                    return f"{int(w)}-{int(l)}"
+
+    # Fallback: look for "X-Y" pattern near "Overall" or "Record" strings
+    for i, item in enumerate(nuxt_data):
+        if isinstance(item, str) and re.match(r"^\d{1,2}-\d{1,2}(-\d{1,2})?$", item):
+            # Check surrounding items for context clues
+            for j in range(max(0, i - 5), min(len(nuxt_data), i + 5)):
+                if isinstance(nuxt_data[j], str) and nuxt_data[j].lower() in ("overall", "record"):
+                    return item
+            # If no context but it looks like a record, tentatively use it
+            return item
+
+    return ""
+
+
+def scrape_record_from_gamelog(base_url: str, season: str, no_season: bool = False) -> str:
+    """Fallback: compute W-L from the HTML game log table."""
+    url = stats_url(base_url, season, no_season)
+    html = fetch(url)
+    if not html and not no_season:
+        url = stats_url(base_url, season, True)
+        html = fetch(url)
+    if not html:
+        return ""
+    time.sleep(DELAY)
+
+    soup = BeautifulSoup(html, "html.parser")
+    for t in soup.find_all("table"):
+        hdr = [th.get_text(strip=True).lower() for th in t.find_all("th")]
+        if "date" in hdr and "w/l" in hdr:
+            wl_idx = hdr.index("w/l")
+            wins, losses = 0, 0
+            for row in t.find_all("tr")[1:]:
+                cells = [td.get_text(strip=True) for td in row.find_all("td")]
+                if wl_idx < len(cells):
+                    v = cells[wl_idx].upper().strip()
+                    if v.startswith("W"):
+                        wins += 1
+                    elif v.startswith("L"):
+                        losses += 1
+            if wins or losses:
+                return f"{wins}-{losses}"
+    return ""
 
 
 # ---------------------------------------------------------------------------
 # Box score / game log scrapers
 # ---------------------------------------------------------------------------
 
-def find_game_urls(base_url: str, season: str = "2026") -> list[dict]:
+def find_game_urls(base_url: str, season: str = "2026", no_season: bool = False) -> list[dict]:
     """
     Extract box score URLs and dates from NUXT data on the stats page.
     Box score paths are stored as raw strings inside the NUXT JSON, along
     with the date and opponent in nearby array positions.
     Returns list of {date, opponent, url} sorted newest-first.
     """
-    url = f"{base_url}/sports/baseball/stats/{season}"
+    url = stats_url(base_url, season, no_season)
     html = fetch(url)
+    if not html and not no_season:
+        url = stats_url(base_url, season, True)
+        html = fetch(url)
     if not html:
         return []
     time.sleep(DELAY)
 
     nuxt_data = extract_nuxt_data(html)
-    if not nuxt_data:
-        return []
 
     # Boxscore paths are raw strings like "/sports/baseball/stats/2026/lehigh/boxscore/10233"
     # In the NUXT array the pattern is typically: date_str, opponent_str, boxscore_path_str
@@ -375,46 +585,102 @@ def find_game_urls(base_url: str, season: str = "2026") -> list[dict]:
     seen = set()
     games = []
 
-    for i, item in enumerate(nuxt_data):
-        if not isinstance(item, str) or not boxscore_path_re.match(item):
-            continue
-        if item in seen:
-            continue
-        seen.add(item)
+    if nuxt_data:
+        for i, item in enumerate(nuxt_data):
+            if not isinstance(item, str) or not boxscore_path_re.match(item):
+                continue
+            if item in seen:
+                continue
+            seen.add(item)
 
-        # Look backwards for date and opponent (typically within ~5 positions)
-        date_str = None
-        opponent = None
-        for j in range(max(0, i - 6), i):
-            candidate = nuxt_data[j]
-            if isinstance(candidate, str):
-                if date_re.match(candidate) and not date_str:
-                    date_str = candidate
-                elif candidate and not date_re.match(candidate) and len(candidate) < 80 and not opponent:
-                    # Avoid picking up team IDs or other noise
-                    if re.match(r"^[A-Za-z\s\-\.&']+$", candidate) and len(candidate) > 2:
-                        opponent = candidate
+            # Look backwards for date and opponent (typically within ~5 positions)
+            date_str = None
+            opponent = None
+            for j in range(max(0, i - 6), i):
+                candidate = nuxt_data[j]
+                if isinstance(candidate, str):
+                    if date_re.match(candidate) and not date_str:
+                        date_str = candidate
+                    elif candidate and not date_re.match(candidate) and len(candidate) < 80 and not opponent:
+                        # Avoid picking up team IDs or other noise
+                        if re.match(r"^[A-Za-z\s\-\.&']+$", candidate) and len(candidate) > 2:
+                            opponent = candidate
 
-        if not date_str:
-            continue
+            if not date_str:
+                continue
 
-        try:
-            date_obj = datetime.strptime(date_str, "%m/%d/%Y")
-        except ValueError:
-            continue
+            try:
+                date_obj = datetime.strptime(date_str, "%m/%d/%Y")
+            except ValueError:
+                continue
 
-        # Derive opponent from URL path as reliable fallback
-        # e.g. "/sports/baseball/stats/2026/lehigh/boxscore/10233" -> "Lehigh"
-        url_parts = item.strip("/").split("/")
-        opp_from_url = url_parts[-3].replace("-", " ").title() if len(url_parts) >= 3 else None
+            # Derive opponent from URL path as reliable fallback
+            # e.g. "/sports/baseball/stats/2026/lehigh/boxscore/10233" -> "Lehigh"
+            url_parts = item.strip("/").split("/")
+            opp_from_url = url_parts[-3].replace("-", " ").title() if len(url_parts) >= 3 else None
 
-        games.append({
-            "date": date_obj.strftime("%Y-%m-%d"),
-            "date_obj": date_obj,
-            "opponent": opponent or opp_from_url or "Unknown",
-            "boxscore_url": urljoin(base_url, item),
-            "boxscore_path": item,
-        })
+            games.append({
+                "date": date_obj.strftime("%Y-%m-%d"),
+                "date_obj": date_obj,
+                "opponent": opponent or opp_from_url or "Unknown",
+                "boxscore_url": urljoin(base_url, item),
+                "boxscore_path": item,
+            })
+
+    games.sort(key=lambda g: g["date_obj"], reverse=True)
+    if games:
+        return games
+
+    # --- Fallback: parse game log from HTML table (old SIDEARM format) ---
+    print("  Falling back to HTML game log parser")
+    soup = BeautifulSoup(html, "html.parser")
+    for t in soup.find_all("table"):
+        hdr = [th.get_text(strip=True).lower() for th in t.find_all("th")]
+        if "date" in hdr and "opponent" in hdr and ("w/l" in hdr or "score" in hdr):
+            for row in t.find_all("tr")[1:]:
+                cells = [td.get_text(strip=True) for td in row.find_all("td")]
+                if len(cells) < 4:
+                    continue
+
+                # Find date
+                date_str = cells[0]
+                try:
+                    date_obj = datetime.strptime(date_str, "%m/%d/%Y")
+                except ValueError:
+                    continue
+
+                # Opponent
+                opp_idx = next((i for i, h in enumerate(hdr) if h == "opponent"), 2)
+                opponent = cells[opp_idx] if opp_idx < len(cells) else "Unknown"
+
+                # W/L and Score
+                wl_idx = next((i for i, h in enumerate(hdr) if h == "w/l"), None)
+                score_idx = next((i for i, h in enumerate(hdr) if h == "score"), None)
+                wl = cells[wl_idx] if wl_idx and wl_idx < len(cells) else ""
+                score = cells[score_idx] if score_idx and score_idx < len(cells) else ""
+                result = f"{wl} {score}".strip() if wl else score
+
+                # Box score link
+                box_link = None
+                for a in row.find_all("a", href=True):
+                    href = a["href"]
+                    if "boxscore" in href.lower():
+                        box_link = urljoin(base_url, href)
+                        break
+
+                if not box_link:
+                    continue
+
+                games.append({
+                    "date": date_obj.strftime("%Y-%m-%d"),
+                    "date_obj": date_obj,
+                    "opponent": opponent,
+                    "boxscore_url": box_link,
+                    "boxscore_path": box_link,
+                    "result_from_log": result,
+                })
+
+            break
 
     games.sort(key=lambda g: g["date_obj"], reverse=True)
     return games
@@ -513,10 +779,17 @@ def scrape_boxscore(url: str) -> dict | None:
             pitching_tables.append(table)
         elif "AB" in headers and "RBI" in headers:
             batting_tables.append(table)
-        elif "R" in headers and "H" in headers and "E" in headers and "TEAM" in headers:
-            # Line score
+        elif (
+            any("TEAM" in h for h in headers)
+            and any("R" in h or "RUNS" in h for h in headers)
+            and "AB" not in headers and "IP" not in headers
+            and "INNING" not in " ".join(headers).upper()
+            and not any("INNING" == h for h in headers)
+        ):
+            # Line score — headers may be "RunsR", "HitsH", "ErrorsE" or plain "R", "H", "E"
+            # Exclude scoring plays table which has "TEAM" + "INNING" headers
             rows = table.find_all("tr")
-            if len(rows) >= 3:
+            if 2 <= len(rows) <= 5:  # line score has header + 2-3 team rows
                 teams = []
                 for row in rows[1:]:
                     cells = [td.get_text(strip=True) for td in row.find_all(["td", "th"])]
@@ -817,7 +1090,7 @@ def generate_narrative_template(player: dict, game_info: dict) -> str:
             if ba >= 0.400:
                 parts.append(f"Had an outstanding performance at the plate ({ba:.3f}).")
             elif ba >= 0.250:
-                parts.append(f"Contributed at the plate in Davidson's {result}.")
+                parts.append(f"Contributed at the plate in the team's {result}.")
             else:
                 parts.append(f"Struggled at the plate but saw {batting['bb']} walk(s)." if batting.get("bb") else "Struggled to make contact.")
         return " ".join(parts)
@@ -844,7 +1117,30 @@ def generate_narrative_template(player: dict, game_info: dict) -> str:
 # Main assembly
 # ---------------------------------------------------------------------------
 
-def run(base_url: str, school_slug: str, season: str = "2026"):
+def parse_result_from_box(box: dict | None) -> str:
+    """Extract W/L result string from a parsed box score."""
+    if not box or not box.get("line_score"):
+        return ""
+    ls = box["line_score"]
+    if len(ls) < 2:
+        return ""
+    try:
+        # Line score: row 0 = away, row 1 = home. R column is 3rd from end.
+        # our_team_is_home from title: "vs" = home, "at" = away
+        away_r = int(ls[0][-3])
+        home_r = int(ls[1][-3])
+        if box.get("our_team_is_home"):
+            score_our, score_opp = home_r, away_r
+        else:
+            score_our, score_opp = away_r, home_r
+        wl = "W" if score_our > score_opp else ("L" if score_opp > score_our else "T")
+        return f"{wl} {score_our}-{score_opp}"
+    except (ValueError, IndexError):
+        return ""
+
+
+def run(base_url: str, school_slug: str, season: str = "2026",
+        school_name: str = "", no_season: bool = False, max_games_back: int = 5):
     os.makedirs(STATS_DIR, exist_ok=True)
 
     print(f"\n{'='*60}")
@@ -857,81 +1153,131 @@ def run(base_url: str, school_slug: str, season: str = "2026"):
     with open(PLAYERS_JSON) as f:
         all_players = json.load(f)
 
-    # Filter to this school by matching base_url domain fragment or school slug
-    # Match by school name words (e.g. "davidson-college" slug matches "Davidson College")
-    slug_words = set(school_slug.lower().replace("-", " ").split())
-    school_players = [
-        p for p in all_players
-        if slug_words.issubset(set(p.get("school", "").lower().split()))
-        or any(w in (p.get("profile_url") or "").lower() for w in slug_words if len(w) > 4)
-    ]
-    print(f"  Found {len(school_players)} players in players.json for '{school_slug}'")
+    # Filter to this school — try exact school_name first, then slug matching
+    if school_name:
+        school_players = [p for p in all_players if p.get("school") == school_name]
+    else:
+        school_players = []
+
+    if not school_players:
+        slug_words = set(school_slug.lower().replace("-", " ").split())
+        school_players = [
+            p for p in all_players
+            if slug_words.issubset(set(p.get("school", "").lower().split()))
+            or any(w in (p.get("profile_url") or "").lower() for w in slug_words if len(w) > 4)
+        ]
+    print(f"  Found {len(school_players)} players in players.json for '{school_name or school_slug}'")
 
     # --- Season batting stats ---
-    print("\n[1/5] Season batting stats")
-    batting_stats = scrape_season_batting(base_url, season)
+    print("\n[1/6] Season batting stats")
+    batting_stats = scrape_season_batting(base_url, season, no_season)
 
     # --- Season pitching stats ---
-    print("\n[2/5] Season pitching stats")
-    pitching_stats = scrape_season_pitching(base_url, season)
+    print("\n[2/6] Season pitching stats")
+    pitching_stats = scrape_season_pitching(base_url, season, no_season)
 
-    # --- Find most recent game ---
-    print("\n[3/5] Finding most recent game")
-    games = find_game_urls(base_url, season)
+    # --- W/L Record ---
+    print("\n[3/6] Team record")
+    record = scrape_record(base_url, season, no_season)
+    if not record:
+        record = scrape_record_from_gamelog(base_url, season, no_season)
+    print(f"  Record: {record or '(not found)'}")
+
+    # --- Find game URLs ---
+    print("\n[4/6] Finding games")
+    games = find_game_urls(base_url, season, no_season)
     if not games:
         print("  No games found!", file=sys.stderr)
         return
 
+    print(f"  Found {len(games)} games")
     most_recent = games[0]
     print(f"  Most recent: {most_recent['date']} vs {most_recent['opponent']}")
 
-    # --- Box score ---
-    print("\n[4/5] Box score")
-    box = scrape_boxscore(most_recent["boxscore_url"])
+    # --- Scan box scores to find each player's last game played ---
+    # We scan up to max_games_back box scores from newest to oldest.
+    # For each player, we record the first (most recent) game they appeared in.
+    print(f"\n[5/6] Scanning box scores (up to {max_games_back} games back)")
 
-    # Parse result from line score
-    result_str = ""
-    if box and box.get("line_score"):
-        ls = box["line_score"]
-        # ls[0] = away row, ls[1] = home row (typically)
-        # But we need to figure out which is ours
-        if len(ls) >= 2:
-            try:
-                score_our = int(ls[1][-3])  # R column (3rd from end)
-                score_opp = int(ls[0][-3])
-                result_str = f"{'W' if score_our > score_opp else 'L'} {score_our}-{score_opp}"
-            except (ValueError, IndexError):
-                pass
+    # player_last_game[ln_key] = {game_info, batting, pitching, recap, recap_url}
+    player_last_game = {}
+    games_to_scan = games[:max_games_back]
+    game_recaps = {}  # cache: game_date -> {recap, recap_url}
 
-    # --- Recap article ---
-    print("\n[5/5] Game recap")
-    recap_url = find_recap_url(base_url, most_recent["date"], most_recent["opponent"])
-    recap = {}
-    if recap_url:
-        recap = scrape_recap(recap_url)
-        print(f"  Recap found: {recap_url}")
-        print(f"  Article length: {len(recap.get('article_text',''))} chars")
-    else:
-        print(f"  No recap found for {most_recent['date']} vs {most_recent['opponent']}")
+    for gi, game in enumerate(games_to_scan):
+        print(f"\n  --- Game {gi+1}/{len(games_to_scan)}: {game['date']} vs {game['opponent']} ---")
+        box = scrape_boxscore(game["boxscore_url"])
+        if not box:
+            print(f"  Could not parse box score, skipping")
+            continue
+
+        result_str = parse_result_from_box(box) or game.get("result_from_log", "")
+        print(f"  Result: {result_str or '(unknown)'}")
+
+        # Index this game's players
+        def index_box(rows):
+            idx = {}
+            for row in rows:
+                fn, ln = parse_boxscore_name(row["name"])
+                key = normalize_name(ln)
+                idx[key] = {"fn": fn, "ln": ln, **{k: v for k, v in row.items() if k != "name"}}
+            return idx
+
+        bat_idx = index_box(box.get("our_batting", []))
+        pitch_idx = index_box(box.get("our_pitching", []))
+
+        # All players in this game
+        game_player_keys = set(bat_idx.keys()) | set(pitch_idx.keys())
+
+        new_found = 0
+        for ln_key in game_player_keys:
+            if ln_key in player_last_game:
+                continue  # already have a more recent game for this player
+
+            bat_data = None
+            if ln_key in bat_idx:
+                b = bat_idx[ln_key]
+                bat_data = {
+                    "ab": b.get("ab", 0), "r": b.get("r", 0), "h": b.get("h", 0),
+                    "rbi": b.get("rbi", 0), "bb": b.get("bb", 0), "so": b.get("so", 0),
+                    "pos": b.get("pos", ""),
+                }
+
+            pitch_data = None
+            if ln_key in pitch_idx:
+                pt = pitch_idx[ln_key]
+                pitch_data = {
+                    "ip": pt.get("ip", "0.0"), "h": pt.get("h", 0), "r": pt.get("r", 0),
+                    "er": pt.get("er", 0), "bb": pt.get("bb", 0), "so": pt.get("so", 0),
+                    "wp": pt.get("wp", 0), "hbp": pt.get("hbp", 0),
+                }
+
+            player_last_game[ln_key] = {
+                "date": game["date"],
+                "opponent": game["opponent"],
+                "result": result_str,
+                "boxscore_url": game["boxscore_url"],
+                "batting": bat_data,
+                "pitching": pitch_data,
+            }
+            new_found += 1
+
+        print(f"  New players found in this game: {new_found} (total tracked: {len(player_last_game)})")
+
+        # Fetch recap for this game (only if we haven't yet)
+        if game["date"] not in game_recaps:
+            recap_url = find_recap_url(base_url, game["date"], game["opponent"])
+            recap = {}
+            if recap_url:
+                recap = scrape_recap(recap_url)
+            game_recaps[game["date"]] = {"recap": recap, "recap_url": recap_url}
 
     # --- Assemble player data ---
-    print("\n[Assembling player records...]")
+    print("\n[6/6] Assembling player records")
 
-    # Index batting/pitching season stats by last name
+    # Index season stats by last name
     batting_by_ln = {normalize_name(b["ln"]): b for b in batting_stats}
     pitching_by_ln = {normalize_name(p["ln"]): p for p in pitching_stats}
-
-    # Index box score batting by normalized last name
-    def index_boxscore_players(rows):
-        idx = {}
-        for row in rows:
-            fn, ln = parse_boxscore_name(row["name"])
-            key = normalize_name(ln)
-            idx[key] = {"fn": fn, "ln": ln, **{k: v for k, v in row.items() if k != "name"}}
-        return idx
-
-    our_batting_box = index_boxscore_players(box.get("our_batting", []) if box else [])
-    our_pitching_box = index_boxscore_players(box.get("our_pitching", []) if box else [])
 
     players_out = {}
     api_key_available = bool(os.environ.get("ANTHROPIC_API_KEY"))
@@ -952,28 +1298,21 @@ def run(base_url: str, school_slug: str, season: str = "2026"):
         if ln_key in pitching_by_ln:
             season_pitch = pitching_by_ln[ln_key]["season_pitching"]
 
-        # Last game batting
-        last_bat = None
-        if ln_key in our_batting_box:
-            b = our_batting_box[ln_key]
-            last_bat = {
-                "ab": b.get("ab", 0), "r": b.get("r", 0), "h": b.get("h", 0),
-                "rbi": b.get("rbi", 0), "bb": b.get("bb", 0), "so": b.get("so", 0),
-                "pos": b.get("pos", ""),
-            }
-
-        # Last game pitching
-        last_pitch = None
-        if ln_key in our_pitching_box:
-            pt = our_pitching_box[ln_key]
-            last_pitch = {
-                "ip": pt.get("ip", "0.0"), "h": pt.get("h", 0), "r": pt.get("r", 0),
-                "er": pt.get("er", 0), "bb": pt.get("bb", 0), "so": pt.get("so", 0),
-                "wp": pt.get("wp", 0), "hbp": pt.get("hbp", 0),
+        # Per-player last game played in
+        plg = player_last_game.get(ln_key)
+        last_game_data = None
+        if plg:
+            last_game_data = {
+                "date": plg["date"],
+                "opponent": plg["opponent"],
+                "result": plg["result"],
+                "boxscore_url": plg["boxscore_url"],
+                "batting": plg["batting"],
+                "pitching": plg["pitching"],
             }
 
         # Skip players with no stats at all
-        if not season_bat and not season_pitch and not last_bat and not last_pitch:
+        if not season_bat and not season_pitch and not last_game_data:
             continue
 
         player_record = {
@@ -987,62 +1326,68 @@ def run(base_url: str, school_slug: str, season: str = "2026"):
             "school": sp.get("school", ""),
             "season_batting": season_bat,
             "season_pitching": season_pitch,
-            "last_game": {
-                "date": most_recent["date"],
-                "opponent": most_recent["opponent"],
-                "result": result_str,
-                "boxscore_url": most_recent["boxscore_url"],
-                "batting": last_bat,
-                "pitching": last_pitch,
-            },
+            "last_game": last_game_data,
             "narrative": None,
         }
 
-        # Generate narrative only for players who meaningfully appeared in the game
-        # (skip 0 AB / 0 IP appearances like pinch runners or defensive replacements with no PA)
-        had_meaningful_bat = last_bat and last_bat.get("ab", 0) > 0
-        had_meaningful_pitch = last_pitch and last_pitch.get("ip", "0") not in ("0.0", "0", 0)
+        # Generate narrative for players who meaningfully appeared
+        if last_game_data:
+            had_meaningful_bat = last_game_data.get("batting") and last_game_data["batting"].get("ab", 0) > 0
+            had_meaningful_pitch = (
+                last_game_data.get("pitching")
+                and str(last_game_data["pitching"].get("ip", "0")) not in ("0.0", "0", 0)
+            )
 
-        if had_meaningful_bat or had_meaningful_pitch:
-            print(f"  Generating narrative for {sp.get('name', fn + ' ' + ln)}...", end=" ")
-            if api_key_available:
-                narrative = generate_narrative_claude(
-                    {**player_record, "name": sp.get("name", "")},
-                    {
-                        "date": most_recent["date"],
-                        "opponent": most_recent["opponent"],
-                        "result": result_str,
-                    },
-                    recap.get("article_text", ""),
-                )
-            else:
-                narrative = generate_narrative_template(
-                    player_record,
-                    {
-                        "date": most_recent["date"],
-                        "opponent": most_recent["opponent"],
-                        "result": result_str,
-                    },
-                )
-            player_record["narrative"] = narrative
-            print("done" if narrative else "no narrative")
-        elif last_bat or last_pitch:
-            # Appeared but no meaningful stats (pinch runner, etc.) - no narrative
-            pass
+            if had_meaningful_bat or had_meaningful_pitch:
+                game_date = last_game_data["date"]
+                game_recap_data = game_recaps.get(game_date, {})
+                recap = game_recap_data.get("recap", {})
+
+                game_info = {
+                    "date": game_date,
+                    "opponent": last_game_data["opponent"],
+                    "result": last_game_data["result"],
+                }
+
+                print(f"  Generating narrative for {sp.get('name', fn + ' ' + ln)}...", end=" ")
+                if api_key_available:
+                    narrative = generate_narrative_claude(
+                        {**player_record, "name": sp.get("name", "")},
+                        game_info,
+                        recap.get("article_text", ""),
+                    )
+                else:
+                    narrative = generate_narrative_template(player_record, game_info)
+                player_record["narrative"] = narrative
+                print("done" if narrative else "no narrative")
 
         players_out[player_id] = player_record
 
+    # --- Get recap for most recent team game (for top-level output) ---
+    most_recent_recap = game_recaps.get(most_recent["date"], {})
+    recap = most_recent_recap.get("recap", {})
+    recap_url = most_recent_recap.get("recap_url")
+
+    # Get most recent game result
+    most_recent_result = ""
+    if most_recent["date"] in [plg["date"] for plg in player_last_game.values()]:
+        # Find result from any player who played in the most recent game
+        for plg in player_last_game.values():
+            if plg["date"] == most_recent["date"] and plg["result"]:
+                most_recent_result = plg["result"]
+                break
+
     # --- Output ---
     output = {
-        "school": school_slug.replace("-", " ").title(),
+        "school": school_name or school_slug.replace("-", " ").title(),
         "base_url": base_url,
         "season": season,
         "generated_at": datetime.utcnow().isoformat() + "Z",
-        "record": "7-7",  # will be updated from live data ideally
+        "record": record,
         "most_recent_game": {
             "date": most_recent["date"],
             "opponent": most_recent["opponent"],
-            "result": result_str,
+            "result": most_recent_result,
             "boxscore_url": most_recent["boxscore_url"],
             "recap_url": recap_url,
             "recap_headline": recap.get("headline", ""),
@@ -1058,7 +1403,9 @@ def run(base_url: str, school_slug: str, season: str = "2026"):
 
     print(f"\n{'='*60}")
     print(f"Output written to: {out_path}")
+    print(f"Record: {record}")
     print(f"Players with stats: {len(players_out)}")
+    print(f"Games scanned for per-player stats: {len(games_to_scan)}")
     print(f"Narratives: {'AI-generated' if api_key_available else 'template-based (set ANTHROPIC_API_KEY for AI)'}")
     print(f"{'='*60}\n")
 
@@ -1071,30 +1418,54 @@ KNOWN_SCHOOLS = {
     "davidson": {
         "base_url": "https://www.davidsonwildcats.com",
         "slug": "davidson-college",
+        "school_name": "Davidson College",
+    },
+    "ucsb": {
+        "base_url": "https://ucsbgauchos.com",
+        "slug": "uc-santa-barbara",
+        "school_name": "University of California, Santa Barbara",
+    },
+    "stanford": {
+        "base_url": "https://gostanford.com",
+        "slug": "stanford-university",
+        "school_name": "Stanford University",
+        "stats_url_no_season": True,
+    },
+    "florida": {
+        "base_url": "https://floridagators.com",
+        "slug": "university-of-florida",
+        "school_name": "University of Florida",
     },
 }
 
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape baseball stats for a school")
-    parser.add_argument("--school", default="davidson", help="School shortname (e.g. davidson)")
+    parser.add_argument("--school", default="davidson", help="School shortname (e.g. davidson, ucsb, stanford)")
     parser.add_argument("--base-url", help="Override base URL")
     parser.add_argument("--slug", help="Override output file slug")
     parser.add_argument("--season", default="2026", help="Season year (default: 2026)")
+    parser.add_argument("--max-games-back", type=int, default=5,
+                        help="Max box scores to scan for per-player last-game (default: 5)")
     args = parser.parse_args()
 
     if args.school in KNOWN_SCHOOLS:
         cfg = KNOWN_SCHOOLS[args.school]
         base_url = args.base_url or cfg["base_url"]
         slug = args.slug or cfg["slug"]
+        school_name = cfg.get("school_name", "")
+        no_season = cfg.get("stats_url_no_season", False)
     else:
         base_url = args.base_url
         slug = args.slug or args.school
+        school_name = ""
+        no_season = False
         if not base_url:
             print(f"Unknown school '{args.school}'. Provide --base-url.", file=sys.stderr)
             sys.exit(1)
 
-    run(base_url, slug, args.season)
+    run(base_url, slug, args.season, school_name=school_name,
+        no_season=no_season, max_games_back=args.max_games_back)
 
 
 if __name__ == "__main__":
