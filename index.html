@@ -1041,7 +1041,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.3 (claude/fix-search-clear-button-n20Yq)</div>`;
+        <div class="ps-version">VERSION 2.5.4 (claude/fix-search-clear-button-n20Yq)</div>`;
       return;
     }
 
@@ -1083,7 +1083,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.3 (claude/fix-search-clear-button-n20Yq)</div>`;
+      <div class="ps-version">VERSION 2.5.4 (claude/fix-search-clear-button-n20Yq)</div>`;
   }
 
   async function signOut() {
@@ -1104,23 +1104,20 @@
   }
 
   function exitSearchMode() {
+    // Closes the dropdown UI but intentionally preserves the input value,
+    // X button, and sessionStorage so the term survives dismissal and can
+    // be restored on next page load or when the user re-focuses the input.
     searchActive = false;
     $('topBar').classList.remove('search-active');
     $('searchRow').classList.remove('searching');
     $('searchOverlay').classList.remove('open');
     $('searchResults').classList.remove('open');
-    $('searchBox').value = '';
-    $('searchClear').classList.remove('visible');
     $('searchBox').blur();
     currentResults = [];
-    // NOTE: intentionally NOT removing lastSearch from sessionStorage here.
-    // Dismissing via overlay/Escape/Cancel is not an intentional clear —
-    // the term should survive and be restored on the next page load.
-    // sessionStorage is only wiped when the user explicitly clears the
-    // input (X button or deletes all text).
   }
 
   function clearSearch() {
+    // X button — explicitly clear everything and stay in search mode.
     $('searchBox').value = '';
     $('searchClear').classList.remove('visible');
     $('searchResults').innerHTML = '';
@@ -1130,6 +1127,10 @@
   }
 
   function cancelSearch() {
+    // Cancel button (mobile) — full exit, clears term like a native search bar.
+    $('searchBox').value = '';
+    $('searchClear').classList.remove('visible');
+    sessionStorage.removeItem('lastSearch');
     exitSearchMode();
   }
 
@@ -1142,8 +1143,12 @@
     requestAnimationFrame(() => {
       const q = $('searchBox').value.trim();
       $('searchClear').classList.toggle('visible', q.length > 0);
-      if (q.length >= 2 && currentResults.length) {
-        renderSearchResults(q, currentResults);
+      if (q.length >= 2) {
+        if (currentResults.length) {
+          renderSearchResults(q, currentResults);
+        } else {
+          runSearch(q);
+        }
       }
     });
   });
