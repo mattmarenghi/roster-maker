@@ -92,5 +92,7 @@ Use the `id` field as the bookmark key. For `id_stable: true` players, the ID is
 4. Run `generate_ids.py` to assign stable IDs
 5. Commit everything
 
-## Git Branch
-Active branch: `claude/retry-scraper-1f26c9d4`
+## Version String
+The version string lives in `index.html` and appears in two places inside the `renderProfile()` function (search for `ps-version`). It follows the format `VERSION X.Y.Z (branch-name)`.
+
+**Always bump the patch version (Z) and update the branch name whenever you make changes to `index.html` and commit them.** Do this as part of the same commit, not a separate one.
