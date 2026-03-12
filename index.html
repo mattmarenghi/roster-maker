@@ -740,6 +740,14 @@
     const { data } = await db.from('favorites').select('player_id');
     favorites = new Set((data || []).map(r => r.player_id));
     updateFavBadge();
+    // Sync any already-rendered star buttons (e.g. after logout → re-login)
+    document.querySelectorAll('.star-btn[data-id]').forEach(btn => {
+      const isFav = favorites.has(btn.dataset.id);
+      btn.classList.toggle('starred', isFav);
+      btn.title = isFav ? 'Remove from favorites' : 'Add to favorites';
+      const svg = btn.querySelector('svg');
+      if (svg) svg.setAttribute('fill', isFav ? 'currentColor' : 'none');
+    });
     if (showingFavorites) renderFavoritesView();
   }
 
@@ -759,8 +767,11 @@
     }
     updateFavBadge();
     document.querySelectorAll(`.star-btn[data-id="${id}"]`).forEach(btn => {
-      btn.classList.toggle('starred', favorites.has(id));
-      btn.title = favorites.has(id) ? 'Remove from favorites' : 'Add to favorites';
+      const isFav = favorites.has(id);
+      btn.classList.toggle('starred', isFav);
+      btn.title = isFav ? 'Remove from favorites' : 'Add to favorites';
+      const svg = btn.querySelector('svg');
+      if (svg) svg.setAttribute('fill', isFav ? 'currentColor' : 'none');
     });
     if (showingFavorites) renderFavoritesView();
   }
