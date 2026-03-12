@@ -2,7 +2,141 @@
 
 ## The Question
 
-Can we run `scrape_school_stats.py` for all ~300 D1 baseball teams on a nightly schedule, producing one JSON file per team? What does that look like in terms of resources, cost, and infrastructure?
+Can we run `scrape_school_stats.py` for all ~300 D1 baseball teams on a nightly schedule, producing one JSON file per team? What does that look like in terms of resources, cost, and infrastructure? And should we use an API like Highlightly instead of scraping?
+
+---
+
+## Option 1: Highlightly API (NCAA Baseball)
+
+[Highlightly](https://highlightly.net/documentation/baseball/) offers a structured REST API covering both MLB and NCAA D1 baseball via RapidAPI.
+
+### What It Provides
+
+| Endpoint | Data | Refresh Rate |
+|----------|------|-------------|
+| `GET /matches` | Game scores, states, inning-by-inning lines | Every minute |
+| `GET /matches/{id}` | Full game detail: venue, weather, plays, rosters, predictions | Every minute |
+| `GET /matches/{id}/box-score` | Player-by-player batting + pitching game stats | Post-game |
+| `GET /statistics/{id}` | Detailed match statistics (K, H, E, etc.) | Post-game |
+| `GET /teams/statistics/{id}` | Team season stats (W/L, runs scored/allowed, home/away splits) | After each game |
+| `GET /players/{id}/statistics` | Career + seasonal player stats | After each game |
+| `GET /players/{id}/summary` | Player profile (position, number, etc.) | Daily |
+| `GET /standings` | Conference/division standings | Within 1 hour |
+| `GET /lineups/{matchId}` | Starting lineups + rosters | Pre-game / live |
+| `GET /highlights` | Video clips with metadata + embed URLs | Every minute |
+| `GET /odds` | Pre-match + live odds from 50+ sportsbooks | Every 10 min |
+| `GET /head-2-head` | Last 10 meetings between two teams | On demand |
+| `GET /last-five-games` | Five most recent completed games for a team | On demand |
+
+### What the Scraper Cannot Do That Highlightly Can
+
+- **Play-by-play data** — pitch type, velocity, count, result per at-bat
+- **Live in-game scores** — updated every minute during games
+- **Video highlights** — embedded clips from YouTube, ESPN, etc.
+- **Betting odds** — pre-match and live from 50+ bookmakers
+- **Weather forecasts** — for upcoming games
+- **Umpire assignments** — per game
+- **Head-to-head history** — last 10 meetings between any two teams
+- **Predictions** — pre-match win probability
+- **Standings** — structured conference/division standings
+- **Consistent schema** — clean JSON, no HTML parsing fragility
+
+### What the Scraper Does That Highlightly Might Not
+
+- **Game recap articles** — full text narratives from school news
+- **AI-generated player narratives** — custom storytelling per player
+- **Previous school / high school** — transfer history from roster pages
+- **Hometown data** — for the roster database (already in players.json)
+- **Guaranteed coverage of every D1 school** — Highlightly's NCAA coverage breadth is unclear; SIDEARM scraping hits schools directly
+
+### Pricing
+
+Exact pricing is not publicly listed — it's gated behind the [RapidAPI pricing page](https://rapidapi.com/highlightly-api-highlightly-api-default/api/mlb-college-baseball-api/pricing) and the Highlightly dashboard. What we know:
+
+- **Free tier** exists with limited requests (RapidAPI standard is ~500 req/month)
+- **Paid tiers** unlock odds, geo-restriction data, and higher request quotas
+- **Up to 40% discount** for annual plans
+- Positioned as a budget-friendly API for startups
+- Custom plans available directly through Highlightly (not on RapidAPI)
+
+**Daily request estimate if using Highlightly for 300 teams:**
+
+| Data needed | Requests | Frequency |
+|-------------|----------|-----------|
+| Team stats (300 teams) | 300 | Daily |
+| Player stats (~30 players × 300 teams) | 9,000 | Daily |
+| Most recent match per team | 300 | Daily |
+| Box scores for recent matches | ~150 | Daily |
+| Standings | ~32 | Daily |
+| **Total** | **~10,000/day = ~300,000/month** |
+
+This is significantly more API calls than the scraper approach (2,100/day) because the API returns data per-player rather than per-team-page. A free tier of 500 requests/month wouldn't come close. You'd need a paid plan, and at 300K requests/month, the cost depends entirely on their tier pricing.
+
+---
+
+## Scraper vs. API — Head-to-Head Comparison
+
+| Factor | Scraper | Highlightly API |
+|--------|---------|-----------------|
+| **Monthly cost** | $0 (GitHub Actions) | Unknown paid tier — likely $20–100+/month for 300K requests |
+| **Data freshness** | Once daily (batch) | Near real-time (every minute) |
+| **Data richness** | Season stats + box score + recap | All of that + play-by-play, odds, highlights, predictions, weather |
+| **Schema stability** | Fragile — HTML layouts change, parsers break | Stable — structured JSON contract with versioning |
+| **Coverage** | Every SIDEARM school (~85-90% of D1) | Unclear — may not cover all 300 D1 schools |
+| **Maintenance burden** | High — 5 parser strategies, Cloudflare bypasses, format changes | Low — just API calls |
+| **Setup effort** | Already built (needs orchestrator) | Need to rewrite data layer to use API |
+| **Vendor dependency** | None — you own the scraping code | Full — if Highlightly goes down/changes pricing, you're stuck |
+| **Recap narratives** | Yes (scraped from school news) | No |
+| **AI narratives** | Yes (Claude API or templates) | No |
+| **Offline/self-hosted** | Yes | No |
+
+---
+
+## Recommendation
+
+**Use a hybrid approach: Highlightly API as the primary data source, scraper as the fallback.**
+
+### Why
+
+1. **The scraper is brittle at scale.** It works for Davidson because we hand-tuned it. Running it across 300 schools with 5 different SIDEARM page formats, Cloudflare blocks, and schools that don't use SIDEARM at all means constant maintenance. The roster scraper already proved this — it needed a retry scraper, a targeted missing-schools scraper, and multiple fallback strategies.
+
+2. **The API gives you data you can't scrape.** Play-by-play, live scores, video highlights, odds, and predictions are genuinely useful features for a scouting app. You can't get pitch velocity and type from a box score HTML page.
+
+3. **But the scraper fills gaps the API can't.** Game recap articles, AI narratives, transfer history, and guaranteed school coverage are things only the scraper provides. Keep it as a supplement.
+
+### Proposed Architecture
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  Daily Job (GitHub Actions or VPS cron)                  │
+│                                                          │
+│  Phase 1: Highlightly API (primary)                      │
+│  ├── Fetch team stats for all 300 teams                  │
+│  ├── Fetch player season stats                           │
+│  ├── Fetch most recent game box scores                   │
+│  ├── Fetch standings                                     │
+│  └── Write stats/{school-slug}.json                      │
+│                                                          │
+│  Phase 2: Scraper (supplement)                           │
+│  ├── For each school with a game that day:               │
+│  │   ├── Scrape recap article from school news           │
+│  │   └── Generate AI narratives (optional)               │
+│  └── Merge into stats/{school-slug}.json                 │
+│                                                          │
+│  Phase 3: Commit & push                                  │
+└──────────────────────────────────────────────────────────┘
+```
+
+### Next Steps
+
+1. **Sign up for Highlightly's free tier** and test coverage — confirm how many D1 schools they actually have data for
+2. **Check request pricing** at the paid tier level needed for ~300K requests/month
+3. **If affordable (<$50/month):** Go API-first with scraper fallback
+4. **If too expensive or poor D1 coverage:** Stick with the scraper approach (it works, it's free, it just needs more maintenance)
+
+The decision hinges on Highlightly's pricing and NCAA coverage depth — both of which you can only confirm by signing up and testing.
+
+---
 
 ## Current Per-School Workload
 
