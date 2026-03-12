@@ -52,7 +52,7 @@
     .search-box {
       width: 100%;
       padding: 14px 40px 14px 44px;
-      font-size: 0.95rem;
+      font-size: 1rem; /* ≥16px prevents iOS Safari from zooming on focus */
       border: 1.5px solid #e0e4f0;
       border-radius: 12px;
       outline: none;
@@ -1128,6 +1128,8 @@
   $('searchBox').addEventListener('focus', () => {
     enterSearchMode();
     const q = $('searchBox').value.trim();
+    // Restore clear button visibility whenever the input is focused with a value
+    $('searchClear').classList.toggle('visible', q.length > 0);
     if (q.length >= 2 && currentResults.length) {
       renderSearchResults(q, currentResults);
     }
