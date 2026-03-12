@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NCAA D1 Baseball Roster Search</title>
+  <title>Player Watch</title>
   <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.1/dist/umd/index.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <style>
@@ -16,184 +16,462 @@
       min-height: 100vh;
     }
 
-    header {
-      background: #1a1a2e;
-      color: white;
-      padding: 14px 20px 28px;
+    /* ── Top bar: title + search + profile ─────────────────────────────── */
+    .top-bar {
+      background: #f5f7fa;
+      padding: 18px 16px 0;
+      max-width: 680px;
+      margin: 0 auto;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .site-title {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #8892b0;
       text-align: center;
-      position: relative;
+      margin-bottom: 14px;
     }
 
-    .header-top {
+    .search-row {
       display: flex;
       align-items: center;
-      justify-content: flex-start;
-      margin-bottom: 10px;
-      min-height: 36px;
+      gap: 12px;
+      margin-bottom: 4px;
     }
-
-    /* Auth area lives in header top-left */
-    .auth-pill {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      background: rgba(255,255,255,0.1);
-      border: 1.5px solid rgba(255,255,255,0.2);
-      border-radius: 20px;
-      padding: 7px 14px;
-      font-size: 0.82rem;
-      font-weight: 600;
-      color: rgba(255,255,255,0.85);
-      cursor: pointer;
-      transition: background 0.15s, border-color 0.15s;
-    }
-    .auth-pill:hover { background: rgba(255,255,255,0.18); border-color: rgba(255,255,255,0.35); }
-
-    .auth-user-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    header h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; }
-    header p  { font-size: 0.85rem; color: #8892b0; margin-top: 4px; }
 
     .search-wrap {
-      max-width: 680px;
-      margin: -20px auto 0;
-      padding: 0 16px;
+      flex: 1;
       position: relative;
-      z-index: 10;
     }
 
     .search-box {
       width: 100%;
-      padding: 16px 20px 16px 48px;
-      font-size: 1rem;
-      border: none;
+      padding: 14px 40px 14px 44px;
+      font-size: 0.95rem;
+      border: 1.5px solid #e0e4f0;
       border-radius: 12px;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.12);
       outline: none;
       background: white;
-      transition: box-shadow 0.2s;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      color: #1a1a2e;
     }
-    .search-box:focus { box-shadow: 0 4px 28px rgba(0,0,0,0.18); }
+    .search-box::placeholder { color: #aab3c6; }
+    .search-box:focus { border-color: #4361ee; box-shadow: 0 0 0 3px rgba(67,97,238,0.08); }
 
     .search-icon {
       position: absolute;
-      left: 32px;
+      left: 14px;
       top: 50%;
       transform: translateY(-50%);
       color: #8892b0;
       pointer-events: none;
     }
 
-    .dropdown {
+    .search-clear {
       position: absolute;
-      top: calc(100% + 6px);
-      left: 16px;
-      right: 16px;
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.14);
-      overflow: hidden;
-      display: none;
-    }
-    .dropdown.open { display: block; }
-
-    .suggestion {
-      padding: 12px 18px;
-      cursor: pointer;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 12px;
-      border-bottom: 1px solid #f0f0f5;
-      transition: background 0.1s;
-    }
-    .suggestion:last-child { border-bottom: none; }
-    .suggestion:hover, .suggestion.active { background: #f0f4ff; }
-
-    .sug-name { font-weight: 600; font-size: 0.95rem; }
-    .sug-name mark { background: none; color: #4361ee; font-weight: 700; }
-    .sug-meta { font-size: 0.8rem; color: #8892b0; white-space: nowrap; }
-    .sug-school { font-size: 0.82rem; color: #555; flex: 1; text-align: right; }
-
-    .results-area {
-      max-width: 680px;
-      margin: 24px auto;
-      padding: 0 16px;
-    }
-
-    .status-msg {
-      text-align: center;
-      color: #8892b0;
-      font-size: 0.88rem;
-      padding: 32px 0;
-    }
-
-    .results-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 12px;
-      padding-left: 2px;
-    }
-    .results-header-text {
-      font-size: 0.82rem;
-      color: #8892b0;
-    }
-
-    /* ── Favorites bar ───────────────────────────────────────────────────── */
-    .favorites-bar {
-      max-width: 680px;
-      margin: 16px auto 0;
-      padding: 0 16px;
-      display: flex;
-      align-items: center;
-      justify-content: flex-start;
-    }
-
-    .fav-tab-btn {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      background: white;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
       border: none;
-      border-radius: 20px;
-      padding: 8px 16px;
-      font-size: 0.85rem;
-      font-weight: 600;
-      color: #8892b0;
+      color: #aab3c6;
       cursor: pointer;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-      transition: background 0.15s, color 0.15s, box-shadow 0.15s;
-    }
-    .fav-tab-btn:hover { background: #fff8e7; color: #e6a817; box-shadow: 0 2px 12px rgba(0,0,0,0.12); }
-    .fav-tab-btn.active { background: #fff3cd; color: #c47a00; box-shadow: 0 2px 12px rgba(0,0,0,0.12); }
-    .fav-tab-btn svg { flex-shrink: 0; }
-
-    .fav-count-badge {
-      background: #f0b429;
-      color: #7a4f00;
-      border-radius: 10px;
-      font-size: 0.72rem;
-      font-weight: 700;
-      padding: 1px 7px;
-      min-width: 20px;
-      text-align: center;
+      padding: 4px;
+      line-height: 1;
       display: none;
+      border-radius: 50%;
+      transition: color 0.15s;
     }
-    .fav-count-badge.visible { display: inline-block; }
+    .search-clear:hover { color: #555; }
+    .search-clear.visible { display: flex; }
 
-    /* ── Auth avatar & sign-out (header) ─────────────────────────────────── */
-    .auth-avatar {
-      width: 26px;
-      height: 26px;
+    .profile-btn {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      border: none;
+      cursor: pointer;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.15s, box-shadow 0.15s;
+      overflow: hidden;
+    }
+    .profile-btn:hover { transform: scale(1.05); box-shadow: 0 2px 10px rgba(0,0,0,0.12); }
+
+    .profile-btn-guest {
+      background: #e0e4f0;
+      color: #8892b0;
+    }
+
+    .profile-btn-user {
       background: #4361ee;
       color: white;
+      font-size: 0.85rem;
+      font-weight: 700;
+    }
+
+    /* ── Search overlay / dimmer ───────────────────────────────────────── */
+    .search-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.35);
+      z-index: 40;
+    }
+    .search-overlay.open { display: block; }
+
+    /* When search is active, the top-bar and results sit above the overlay */
+    .top-bar.search-active { z-index: 60; }
+
+    .search-results-dropdown {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      right: 0;
+      background: white;
+      border-radius: 0 0 16px 16px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.16);
+      max-height: 420px;
+      overflow-y: auto;
+      display: none;
+      z-index: 61;
+    }
+    .search-results-dropdown.open { display: block; }
+
+    /* Search result row */
+    .search-result {
+      display: flex;
+      align-items: center;
+      padding: 14px 16px;
+      border-bottom: 1px solid #f0f2f7;
+      gap: 10px;
+    }
+    .search-result:last-child { border-bottom: none; }
+
+    .sr-info { flex: 1; min-width: 0; }
+
+    .sr-name-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 3px;
+    }
+
+    .sr-name {
+      font-weight: 700;
+      font-size: 0.95rem;
+      color: #1a1a2e;
+    }
+
+    .sr-badge {
+      font-size: 0.68rem;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 6px;
+      white-space: nowrap;
+    }
+    .sr-badge-pos { background: #e8ecf4; color: #444c60; }
+    .sr-badge-yr  { background: #e8ecf4; color: #444c60; }
+
+    .sr-school {
+      font-size: 0.82rem;
+      color: #4361ee;
+      font-weight: 500;
+    }
+
+    .sr-star {
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 4px;
+      color: #ccc;
+      flex-shrink: 0;
+      line-height: 1;
+      transition: color 0.15s, transform 0.15s;
+    }
+    .sr-star:hover { color: #f0b429; transform: scale(1.15); }
+    .sr-star.starred { color: #f0b429; }
+    .sr-star.starred:hover { color: #c47a00; }
+
+    .sr-empty {
+      text-align: center;
+      padding: 32px 16px;
+      color: #8892b0;
+      font-size: 0.88rem;
+    }
+
+    /* ── Main content area ─────────────────────────────────────────────── */
+    .main-content {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 12px 16px 32px;
+    }
+
+    .section-title {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: #1a1a2e;
+      margin: 8px 0 6px;
+    }
+
+    .section-divider {
+      height: 1.5px;
+      background: #e0e4f0;
+      margin-bottom: 18px;
+    }
+
+    /* ── Favorite player card (homepage) ───────────────────────────────── */
+    .player-card {
+      background: white;
+      border-radius: 18px;
+      padding: 20px 18px 18px;
+      margin-bottom: 16px;
+      box-shadow: 0 2px 14px rgba(0,0,0,0.06);
+    }
+
+    .pc-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .pc-photo {
+      width: 64px;
+      height: 64px;
       border-radius: 50%;
-      font-size: 0.75rem;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      font-weight: 800;
+      overflow: hidden;
+    }
+    .pc-photo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top;
+    }
+
+    .pc-info { flex: 1; min-width: 0; padding-top: 2px; }
+
+    .pc-name {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: #1a1a2e;
+      line-height: 1.2;
+      margin-bottom: 2px;
+    }
+
+    .pc-meta {
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: #8892b0;
+      margin-bottom: 6px;
+    }
+
+    .pc-pos-badge {
+      display: inline-block;
+      background: #e0eaff;
+      color: #3b5bdb;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 6px;
+      white-space: nowrap;
+    }
+
+    .pc-star {
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 2px;
+      flex-shrink: 0;
+      line-height: 1;
+      color: #f0b429;
+      transition: color 0.15s, transform 0.15s;
+    }
+    .pc-star:hover { transform: scale(1.15); color: #c47a00; }
+
+    /* Highlight box */
+    .pc-highlight {
+      background: #f8f9fc;
+      border-left: 3px solid #4361ee;
+      border-radius: 0 10px 10px 0;
+      padding: 12px 14px;
+      margin-bottom: 16px;
+      font-size: 0.85rem;
+      color: #444;
+      line-height: 1.55;
+    }
+    .pc-highlight strong { color: #4361ee; }
+
+    /* Stats section label */
+    .pc-stats-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #8892b0;
+      margin-bottom: 8px;
+    }
+
+    /* Stats grid */
+    .pc-stats-box {
+      background: #f8f9fc;
+      border-radius: 12px;
+      padding: 14px 10px;
+      margin-bottom: 12px;
+    }
+
+    .pc-stats-grid {
+      display: flex;
+      justify-content: space-around;
+      text-align: center;
+    }
+
+    .pc-stat-item { flex: 1; }
+
+    .pc-stat-head {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #8892b0;
+      margin-bottom: 4px;
+    }
+
+    .pc-stat-val {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: #1a1a2e;
+    }
+
+    .pc-stats-unavailable {
+      color: #9aa0b4;
+      font-style: italic;
+      font-size: 0.85rem;
+      text-align: center;
+      padding: 14px 0;
+    }
+
+    /* ── Empty favorites state ─────────────────────────────────────────── */
+    .empty-state {
+      text-align: center;
+      padding: 64px 24px;
+      color: #8892b0;
+    }
+    .empty-state svg { margin-bottom: 16px; opacity: 0.3; }
+    .empty-state p { font-size: 0.95rem; line-height: 1.6; }
+    .empty-state .sign-in-btn {
+      margin-top: 20px;
+      padding: 12px 28px;
+      background: #4361ee;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .empty-state .sign-in-btn:hover { background: #3451d1; }
+
+    /* ── Profile / Settings bottom sheet ───────────────────────────────── */
+    .profile-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 200;
+      align-items: flex-end;
+      justify-content: center;
+    }
+    .profile-overlay.open { display: flex; }
+
+    .profile-sheet {
+      background: white;
+      border-radius: 24px 24px 0 0;
+      width: 100%;
+      max-width: 480px;
+      padding: 24px 20px 20px;
+      max-height: 80vh;
+      overflow-y: auto;
+      animation: slideUp 0.3s ease;
+    }
+
+    @keyframes slideUp {
+      from { transform: translateY(100%); }
+      to { transform: translateY(0); }
+    }
+
+    .ps-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+
+    .ps-title {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: #1a1a2e;
+    }
+
+    .ps-close {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      color: #aab;
+      cursor: pointer;
+      padding: 4px 6px;
+      line-height: 1;
+    }
+    .ps-close:hover { color: #555; }
+
+    .ps-section-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #8892b0;
+      margin-bottom: 10px;
+    }
+
+    .ps-divider {
+      height: 1px;
+      background: #f0f2f7;
+      margin: 18px 0;
+    }
+
+    .ps-account-card {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      background: #f8f9fc;
+      border-radius: 14px;
+      padding: 14px 16px;
+    }
+
+    .ps-avatar {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: #4361ee;
+      color: white;
+      font-size: 1rem;
       font-weight: 700;
       display: flex;
       align-items: center;
@@ -201,65 +479,134 @@
       flex-shrink: 0;
     }
 
-    .auth-signout {
-      background: none;
-      border: none;
-      font-size: 0.82rem;
-      font-weight: 600;
-      color: rgba(255,255,255,0.55);
-      cursor: pointer;
-      padding: 0;
-      transition: color 0.15s;
+    .ps-user-name {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #1a1a2e;
     }
-    .auth-signout:hover { color: rgba(255,255,255,0.9); }
 
-    /* ── Auth modal ──────────────────────────────────────────────────────── */
+    .ps-user-email {
+      font-size: 0.82rem;
+      color: #8892b0;
+      margin-top: 1px;
+    }
+
+    .ps-pref-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 4px;
+    }
+
+    .ps-pref-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: #eef1ff;
+      color: #4361ee;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .ps-pref-text { flex: 1; }
+    .ps-pref-title { font-size: 0.9rem; font-weight: 600; color: #1a1a2e; }
+    .ps-pref-desc { font-size: 0.78rem; color: #8892b0; margin-top: 1px; }
+
+    .ps-pref-arrow {
+      color: #ccc;
+      flex-shrink: 0;
+    }
+
+    .ps-signout-btn {
+      display: block;
+      width: 100%;
+      margin-top: 18px;
+      padding: 14px;
+      background: white;
+      color: #dc2626;
+      border: 1.5px solid #fecaca;
+      border-radius: 12px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      text-align: center;
+      transition: background 0.15s;
+    }
+    .ps-signout-btn:hover { background: #fef2f2; }
+
+    .ps-version {
+      font-size: 0.72rem;
+      color: #aab;
+      text-align: center;
+      margin-top: 14px;
+    }
+
+    /* Guest state for profile sheet */
+    .ps-guest-msg {
+      text-align: center;
+      padding: 24px 12px;
+    }
+    .ps-guest-msg p {
+      font-size: 0.9rem;
+      color: #8892b0;
+      margin-bottom: 16px;
+    }
+    .ps-signin-btn {
+      padding: 14px 28px;
+      background: #4361ee;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .ps-signin-btn:hover { background: #3451d1; }
+
+    /* ── Auth screens (full-screen style) ──────────────────────────────── */
     .auth-overlay {
       display: none;
       position: fixed;
       inset: 0;
-      background: rgba(0,0,0,0.5);
-      z-index: 1000;
+      background: white;
+      z-index: 300;
       align-items: center;
       justify-content: center;
+      flex-direction: column;
       padding: 20px;
     }
     .auth-overlay.open { display: flex; }
 
-    .auth-modal {
-      background: white;
-      border-radius: 20px;
-      padding: 28px 24px 24px;
+    .auth-content {
       width: 100%;
-      max-width: 360px;
-      position: relative;
+      max-width: 380px;
+      text-align: center;
     }
 
-    .auth-close {
-      position: absolute;
-      top: 14px;
-      right: 16px;
-      background: none;
-      border: none;
+    .auth-content h2 {
       font-size: 1.5rem;
-      color: #aab;
-      cursor: pointer;
-      line-height: 1;
-      padding: 4px 6px;
-    }
-    .auth-close:hover { color: #555; }
-
-    .auth-modal h2 {
-      font-size: 1.15rem;
       font-weight: 800;
       color: #1a1a2e;
-      margin-bottom: 5px;
+      margin-bottom: 10px;
     }
-    .auth-modal p {
-      font-size: 0.85rem;
+
+    .auth-content .auth-desc {
+      font-size: 0.9rem;
       color: #8892b0;
-      margin-bottom: 20px;
+      margin-bottom: 28px;
       line-height: 1.5;
+    }
+
+    .auth-label {
+      display: block;
+      text-align: left;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: #555;
+      margin-bottom: 6px;
     }
 
     .auth-input {
@@ -269,7 +616,7 @@
       border: 1.5px solid #e0e4f0;
       border-radius: 12px;
       outline: none;
-      margin-bottom: 12px;
+      margin-bottom: 16px;
       transition: border-color 0.15s;
       background: white;
     }
@@ -284,12 +631,12 @@
 
     .auth-submit {
       width: 100%;
-      padding: 14px;
+      padding: 16px;
       background: #4361ee;
       color: white;
       border: none;
-      border-radius: 12px;
-      font-size: 0.95rem;
+      border-radius: 14px;
+      font-size: 1rem;
       font-weight: 700;
       cursor: pointer;
       transition: background 0.15s;
@@ -300,7 +647,7 @@
     .auth-error {
       font-size: 0.82rem;
       color: #dc2626;
-      margin-top: 10px;
+      margin-top: 12px;
       text-align: center;
       min-height: 18px;
     }
@@ -309,277 +656,29 @@
       background: none;
       border: none;
       color: #8892b0;
-      font-size: 0.82rem;
+      font-size: 0.88rem;
+      font-weight: 600;
       cursor: pointer;
-      margin-top: 10px;
-      text-align: center;
-      width: 100%;
-      padding: 6px;
+      margin-top: 16px;
+      padding: 8px;
       transition: color 0.15s;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
     }
     .auth-back:hover { color: #4361ee; }
 
-    /* ── Star button on cards ───────────────────────────────────────────── */
-    .card {
-      background: white;
-      border-radius: 12px;
-      padding: 18px 20px;
-      margin-bottom: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-      display: grid;
-      grid-template-columns: auto 1fr auto;
-      gap: 12px;
-      align-items: start;
-      cursor: default;
-    }
-
-    .card-num {
-      font-size: 1.4rem;
-      font-weight: 800;
-      color: #d0d7e8;
-      min-width: 36px;
-      text-align: center;
-      line-height: 1;
-      padding-top: 2px;
-    }
-
-    .card-body {}
-    .card-name { font-weight: 700; font-size: 1rem; }
-    .card-name mark { background: none; color: #4361ee; }
-    .card-school { font-size: 0.85rem; color: #4361ee; font-weight: 500; margin-top: 2px; }
-    .card-details { font-size: 0.8rem; color: #8892b0; margin-top: 6px; line-height: 1.6; }
-
-    .card-right {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 6px;
-    }
-
-    .card-badge {
-      font-size: 0.75rem;
-      font-weight: 700;
-      background: #eef1ff;
-      color: #4361ee;
-      padding: 4px 10px;
-      border-radius: 20px;
-      white-space: nowrap;
-    }
-
-    .star-btn {
-      background: none;
-      border: none;
-      cursor: pointer;
-      padding: 2px 4px;
-      color: #ccc;
-      transition: color 0.15s, transform 0.15s;
-      line-height: 1;
-      margin-top: 2px;
-    }
-    .star-btn:hover { color: #f0b429; transform: scale(1.15); }
-    .star-btn.starred { color: #f0b429; }
-    .star-btn.starred:hover { color: #c47a00; }
-
-    /* ── Favorited Players view header ──────────────────────────────────── */
-    .fav-view-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 14px 4px 8px;
-      margin-bottom: 4px;
-    }
-    .fav-view-title {
-      font-size: 1.05rem;
-      font-weight: 700;
-      color: #1a1a2e;
-    }
-    .fav-view-count {
-      font-size: 0.82rem;
-      color: #8892b0;
-    }
-
-    /* ── Favorites Cards ─────────────────────────────────────────────────── */
-    .fav-card {
-      background: white;
-      border-radius: 18px;
-      padding: 18px 18px 16px;
-      margin-bottom: 14px;
-      box-shadow: 0 2px 14px rgba(0,0,0,0.07);
-    }
-
-    .fav-card-header {
-      display: flex;
-      align-items: flex-start;
-      gap: 14px;
-      margin-bottom: 16px;
-    }
-
-    .fav-photo {
-      width: 68px;
-      height: 68px;
-      border-radius: 10px;
-      flex-shrink: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 1.35rem;
-      font-weight: 800;
-      overflow: hidden;
-    }
-    .fav-photo-img {
-      object-fit: cover;
-      object-position: top;
-    }
-
-    .fav-player-info {
-      flex: 1;
-      min-width: 0;
-      padding-top: 2px;
-    }
-
-    .fav-name-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      flex-wrap: wrap;
-      margin-bottom: 4px;
-    }
-
-    .fav-player-name {
-      font-size: 1.1rem;
-      font-weight: 800;
-      color: #1a1a2e;
-      line-height: 1.2;
-    }
-
-    .fav-pos-badge {
-      background: #4361ee;
-      color: white;
-      font-size: 0.7rem;
-      font-weight: 700;
-      padding: 3px 9px;
-      border-radius: 20px;
-      white-space: nowrap;
-      flex-shrink: 0;
-    }
-
-    .fav-school-name {
-      font-size: 0.875rem;
-      color: #444;
-      margin-bottom: 5px;
-    }
-
-    .fav-physical {
-      font-size: 0.85rem;
-      color: #4361ee;
-      font-weight: 600;
-    }
-
-    .fav-star-btn {
-      background: none;
-      border: none;
-      cursor: pointer;
-      color: #ccc;
-      padding: 2px;
-      flex-shrink: 0;
-      line-height: 1;
-      margin-top: 1px;
-      transition: color 0.15s, transform 0.15s;
-    }
-    .fav-star-btn:hover { color: #f0b429; transform: scale(1.15); }
-    .fav-star-btn.starred { color: #f0b429; }
-    .fav-star-btn.starred:hover { color: #c47a00; }
-
-    .fav-divider {
-      height: 1px;
-      background: #f0f2f7;
-      margin: 0 0 14px;
-    }
-
-    .fav-stat-row {
-      display: flex;
-      align-items: flex-start;
-      gap: 12px;
-      margin-bottom: 12px;
-    }
-    .fav-stat-row:last-of-type { margin-bottom: 0; }
-
-    .fav-stat-icon {
-      width: 36px;
-      height: 36px;
-      border-radius: 9px;
-      background: #eef1ff;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-      color: #4361ee;
-      margin-top: 1px;
-    }
-
-    .fav-stat-content { flex: 1; }
-
-    .fav-stat-label {
-      font-size: 0.65rem;
-      font-weight: 700;
-      color: #9aa0b4;
-      letter-spacing: 0.07em;
-      text-transform: uppercase;
-      margin-bottom: 2px;
-    }
-
-    .fav-stat-main {
-      font-size: 0.97rem;
-      font-weight: 700;
-      color: #1a1a2e;
-      line-height: 1.3;
-    }
-
-    .fav-stat-detail {
-      font-size: 0.83rem;
-      color: #666;
-      margin-top: 2px;
-    }
-
-    .fav-profile-btn {
-      display: block;
-      width: 100%;
-      margin-top: 15px;
-      padding: 13px;
-      background: #eef1ff;
-      color: #4361ee;
-      border: none;
-      border-radius: 11px;
-      font-size: 0.95rem;
-      font-weight: 700;
-      cursor: pointer;
-      text-align: center;
-      transition: background 0.15s;
-    }
-    .fav-profile-btn:hover { background: #dde3ff; }
-
-    /* ── Favorites empty state ──────────────────────────────────────────── */
-    .favorites-empty {
-      text-align: center;
-      padding: 48px 20px;
-      color: #8892b0;
-    }
-    .favorites-empty svg { margin-bottom: 12px; opacity: 0.35; }
-    .favorites-empty p { font-size: 0.92rem; }
-    .favorites-empty small { font-size: 0.8rem; margin-top: 6px; display: block; }
-    .favorites-empty .auth-submit {
-      margin: 20px auto 0;
-      max-width: 180px;
-      padding: 12px;
-    }
-
+    /* ── Loading bar ───────────────────────────────────────────────────── */
     .load-bar {
       width: 100%;
       height: 3px;
       background: #eee;
       border-radius: 2px;
       overflow: hidden;
-      margin-top: 8px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 999;
     }
     .load-bar-fill {
       height: 100%;
@@ -589,103 +688,119 @@
       border-radius: 2px;
     }
 
-    .stats-unavailable {
-      color: #9aa0b4;
-      font-style: italic;
-      font-size: 0.88rem;
-      font-weight: 500;
-    }
-
-    .fav-stat-narrative {
-      font-size: 0.8rem;
-      color: #8892b0;
-      margin-top: 3px;
-      font-style: italic;
-      line-height: 1.4;
-    }
-
-    .fav-record-badge {
-      background: #f0fff4;
-      color: #2d6a4f;
-      font-size: 0.7rem;
-      font-weight: 700;
-      padding: 3px 9px;
-      border-radius: 20px;
+    /* ── Cancel button in search mode ──────────────────────────────────── */
+    .search-cancel {
+      display: none;
+      background: none;
+      border: none;
+      color: #4361ee;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
       white-space: nowrap;
+      padding: 0;
       flex-shrink: 0;
     }
+    .search-cancel.visible { display: block; }
+
+    /* Hide profile button during search */
+    .search-row.searching .profile-btn { display: none; }
+    .search-row.searching .search-cancel { display: block; }
   </style>
 </head>
 <body>
 
-<!-- ── Auth modal ──────────────────────────────────────────────────────────── -->
-<div class="auth-overlay" id="authOverlay" onclick="overlayClick(event)">
-  <div class="auth-modal">
-    <button class="auth-close" onclick="hideAuthModal()">×</button>
+<!-- Loading bar -->
+<div class="load-bar"><div class="load-bar-fill" id="loadBar"></div></div>
 
+<!-- Search dimmer overlay -->
+<div class="search-overlay" id="searchOverlay"></div>
+
+<!-- Auth overlay (full screen) -->
+<div class="auth-overlay" id="authOverlay">
+  <div class="auth-content">
     <div id="authStep1">
-      <h2>Sign in</h2>
-      <p>Enter your email and we'll send you a 6-digit sign-in code.</p>
+      <h2>Sign In</h2>
+      <p class="auth-desc">Enter your email to receive a one-time password to access your players.</p>
+      <label class="auth-label">Email Address</label>
       <input class="auth-input" id="authEmail" type="email"
-             placeholder="your@email.com" autocomplete="email">
-      <button class="auth-submit" id="authSendBtn" onclick="sendOTP()">Send code</button>
+             placeholder="coach@college.edu" autocomplete="email">
+      <button class="auth-submit" id="authSendBtn" onclick="sendOTP()">Send Code</button>
       <div class="auth-error" id="authError1"></div>
     </div>
 
     <div id="authStep2" style="display:none">
-      <h2>Check your email</h2>
-      <p id="authCodeDesc">Enter the 6-digit code we sent you.</p>
+      <h2>Check Your Email</h2>
+      <p class="auth-desc" id="authCodeDesc">Enter the 6-digit code we sent you.</p>
       <input class="auth-input auth-input-code" id="authCode" type="text"
              inputmode="numeric" placeholder="000000" maxlength="6"
              autocomplete="one-time-code">
-      <button class="auth-submit" id="authVerifyBtn" onclick="verifyOTP()">Sign in</button>
+      <button class="auth-submit" id="authVerifyBtn" onclick="verifyOTP()">Sign In</button>
       <div class="auth-error" id="authError2"></div>
-      <button class="auth-back" onclick="showAuthStep1()">← Use a different email</button>
     </div>
+
+    <button class="auth-back" onclick="handleAuthBack()">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      Back
+    </button>
   </div>
 </div>
 
-<header>
-  <div class="header-top">
-    <div id="authArea"></div>
+<!-- Profile / Settings bottom sheet -->
+<div class="profile-overlay" id="profileOverlay" onclick="profileOverlayClick(event)">
+  <div class="profile-sheet" id="profileSheet">
+    <div class="ps-header">
+      <span class="ps-title">Profile & Settings</span>
+      <button class="ps-close" onclick="hideProfile()">&times;</button>
+    </div>
+    <div id="profileContent"></div>
   </div>
-  <h1>NCAA D1 Baseball Roster Search</h1>
-  <p id="subtitle">Loading player data…</p>
-  <div class="load-bar"><div class="load-bar-fill" id="loadBar"></div></div>
-</header>
-
-<div class="search-wrap">
-  <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"
-       stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
-  </svg>
-  <input class="search-box" id="searchBox" type="search"
-         placeholder="Search players, schools, positions…" autocomplete="off" disabled>
-  <div class="dropdown" id="dropdown"></div>
 </div>
 
-<div class="favorites-bar">
-  <button class="fav-tab-btn" id="favTabBtn" onclick="toggleFavoritesView()">
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-    </svg>
-    Favorites
-    <span class="fav-count-badge" id="favCountBadge">0</span>
-  </button>
+<!-- Top bar -->
+<div class="top-bar" id="topBar">
+  <div class="site-title">Player Watch</div>
+  <div class="search-row" id="searchRow">
+    <div class="search-wrap" id="searchWrap">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <input class="search-box" id="searchBox" type="text"
+             placeholder="Search players..." autocomplete="off" disabled>
+      <button class="search-clear" id="searchClear" onclick="clearSearch()">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+      <div class="search-results-dropdown" id="searchResults"></div>
+    </div>
+    <button class="profile-btn profile-btn-guest" id="profileBtn" onclick="showProfile()">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+        <circle cx="12" cy="7" r="4"/>
+      </svg>
+    </button>
+    <button class="search-cancel" id="searchCancel" onclick="cancelSearch()">Cancel</button>
+  </div>
 </div>
 
-<div class="results-area" id="resultsArea">
-  <p class="status-msg" id="statusMsg"></p>
+<!-- Main content: My Players (homepage) -->
+<div class="main-content" id="mainContent">
+  <p class="section-title">My Players</p>
+  <div class="section-divider"></div>
+  <div id="playersArea"></div>
 </div>
 
 <script>
   const $ = id => document.getElementById(id);
   let miniSearch, allPlayers = [];
-  let activeIdx = -1;
   let currentResults = [];
-  let showingFavorites = false;
   let playerStatsMap = {};
   let schoolStatsMap = {};
+  let searchActive = false;
 
   // ── Supabase ────────────────────────────────────────────────────────────────
   const db = supabase.createClient(
@@ -700,149 +815,85 @@
   // ── Auth state ──────────────────────────────────────────────────────────────
   db.auth.onAuthStateChange(async (event, session) => {
     currentUser = session?.user ?? null;
-    renderAuthBtn();
+    renderProfileBtn();
     if (currentUser) {
       await fetchFavorites();
     } else {
       favorites = new Set();
-      updateFavBadge();
-      if (showingFavorites) {
-        // Exit favorites view when signed out so search stays usable
-        showingFavorites = false;
-        $('favTabBtn').classList.remove('active');
-        $('searchBox').disabled = false;
-        $('resultsArea').innerHTML = '<p class="status-msg" id="statusMsg"></p>';
-      }
+      renderHomepage();
     }
   });
 
-  function renderAuthBtn() {
-    const area = $('authArea');
+  function renderProfileBtn() {
+    const btn = $('profileBtn');
     if (currentUser) {
       const initial = (currentUser.email || '?').charAt(0).toUpperCase();
-      area.innerHTML = `
-        <div class="auth-user-row">
-          <div class="auth-avatar">${initial}</div>
-          <button class="auth-signout" id="signOutBtn">Sign out</button>
-        </div>`;
-      $('signOutBtn').addEventListener('click', signOut);
+      btn.className = 'profile-btn profile-btn-user';
+      btn.innerHTML = initial;
     } else {
-      area.innerHTML = `<button class="auth-pill" id="signInBtn">Sign in</button>`;
-      $('signInBtn').addEventListener('click', showAuthModal);
+      btn.className = 'profile-btn profile-btn-guest';
+      btn.innerHTML = `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+        <circle cx="12" cy="7" r="4"/>
+      </svg>`;
     }
-  }
-
-  async function signOut() {
-    const { error } = await db.auth.signOut();
-    if (error) console.error('Sign out error:', error);
   }
 
   // ── Favorites (Supabase) ────────────────────────────────────────────────────
   async function fetchFavorites() {
     const { data } = await db.from('favorites').select('player_id');
     favorites = new Set((data || []).map(r => r.player_id));
-    updateFavBadge();
-    // Sync any already-rendered star buttons (e.g. after logout → re-login)
-    document.querySelectorAll('.star-btn[data-id], .fav-star-btn[data-id]').forEach(btn => {
-      const isFav = favorites.has(btn.dataset.id);
-      btn.classList.toggle('starred', isFav);
-      btn.title = isFav ? 'Remove from favorites' : 'Add to favorites';
-      const svg = btn.querySelector('svg');
-      if (svg) svg.setAttribute('fill', isFav ? 'currentColor' : 'none');
-    });
-    if (showingFavorites) renderFavoritesView();
+    renderHomepage();
+    // Sync search result stars if visible
+    syncAllStars();
   }
 
-  function updateStarButtons(id) {
-    const isFav = favorites.has(id);
-    document.querySelectorAll(`.star-btn[data-id="${id}"], .fav-star-btn[data-id="${id}"]`).forEach(btn => {
+  function syncAllStars() {
+    document.querySelectorAll('[data-star-id]').forEach(btn => {
+      const isFav = favorites.has(btn.dataset.starId);
       btn.classList.toggle('starred', isFav);
-      btn.title = isFav ? 'Remove from favorites' : 'Add to favorites';
       const svg = btn.querySelector('svg');
       if (svg) svg.setAttribute('fill', isFav ? 'currentColor' : 'none');
     });
   }
 
-  async function toggleFavorite(id) {
+  async function toggleFavorite(id, e) {
+    if (e) e.stopPropagation();
     if (!currentUser) {
       showAuthModal();
       return;
     }
     const removing = favorites.has(id);
 
-    // Optimistic: update state + UI immediately for instant feedback
+    // Optimistic update
     if (removing) { favorites.delete(id); } else { favorites.add(id); }
-    updateStarButtons(id);
-    updateFavBadge();
+    syncAllStars();
+    renderHomepage();
 
-    // In favorites view, animate card out on removal
-    if (showingFavorites && removing) {
-      animateRemoveFavCard(id);
-    }
-
-    // Persist to DB
+    // Persist
     if (removing) {
       const { error } = await db.from('favorites').delete().match({ user_id: currentUser.id, player_id: id });
       if (error) {
         console.error('Failed to remove favorite:', error);
         favorites.add(id);
-        updateStarButtons(id);
-        updateFavBadge();
+        syncAllStars();
+        renderHomepage();
       }
     } else {
       const { error } = await db.from('favorites').insert({ user_id: currentUser.id, player_id: id });
       if (error) {
         console.error('Failed to save favorite:', error);
         favorites.delete(id);
-        updateStarButtons(id);
-        updateFavBadge();
+        syncAllStars();
+        renderHomepage();
       }
     }
   }
 
-  function animateRemoveFavCard(id) {
-    const starBtn = document.querySelector(`.fav-star-btn[data-id="${id}"]`);
-    if (!starBtn) { renderFavoritesView(); return; }
-    const card = starBtn.closest('.fav-card');
-    if (!card) { renderFavoritesView(); return; }
-
-    // Lock the current height so we can animate it to 0
-    card.style.overflow = 'hidden';
-    card.style.maxHeight = card.offsetHeight + 'px';
-
-    // Brief pause (star icon already went unlit), then fade + shrink
-    setTimeout(() => {
-      card.style.transition = [
-        'opacity 0.28s ease',
-        'transform 0.28s ease',
-        'max-height 0.32s ease 0.14s',
-        'margin-bottom 0.32s ease 0.14s',
-        'padding-top 0.32s ease 0.14s',
-        'padding-bottom 0.32s ease 0.14s',
-      ].join(', ');
-      card.style.opacity = '0';
-      card.style.transform = 'scale(0.97) translateY(-6px)';
-
-      setTimeout(() => {
-        card.style.maxHeight = '0';
-        card.style.marginBottom = '0';
-        card.style.paddingTop = '0';
-        card.style.paddingBottom = '0';
-
-        // Re-render once the collapse is done
-        setTimeout(() => renderFavoritesView(), 360);
-      }, 180);
-    }, 160);
-  }
-
-  function updateFavBadge() {
-    const badge = $('favCountBadge');
-    badge.textContent = favorites.size;
-    badge.classList.toggle('visible', favorites.size > 0);
-  }
-
   // ── Auth modal ──────────────────────────────────────────────────────────────
   function showAuthModal() {
+    hideProfile();
     showAuthStep1();
     $('authOverlay').classList.add('open');
     setTimeout(() => $('authEmail').focus(), 50);
@@ -852,8 +903,12 @@
     $('authOverlay').classList.remove('open');
   }
 
-  function overlayClick(e) {
-    if (e.target === $('authOverlay')) hideAuthModal();
+  function handleAuthBack() {
+    if ($('authStep2').style.display !== 'none') {
+      showAuthStep1();
+    } else {
+      hideAuthModal();
+    }
   }
 
   function showAuthStep1() {
@@ -869,7 +924,7 @@
 
     const btn = $('authSendBtn');
     btn.disabled = true;
-    btn.textContent = 'Sending…';
+    btn.textContent = 'Sending...';
     $('authError1').textContent = '';
 
     const { error } = await db.auth.signInWithOtp({ email });
@@ -877,7 +932,7 @@
     if (error) {
       $('authError1').textContent = error.message;
       btn.disabled = false;
-      btn.textContent = 'Send code';
+      btn.textContent = 'Send Code';
     } else {
       pendingEmail = email;
       $('authCodeDesc').textContent = `Enter the 6-digit code we sent to ${email}.`;
@@ -886,7 +941,7 @@
       $('authError2').textContent = '';
       $('authCode').value = '';
       btn.disabled = false;
-      btn.textContent = 'Send code';
+      btn.textContent = 'Send Code';
       setTimeout(() => $('authCode').focus(), 50);
     }
   }
@@ -897,7 +952,7 @@
 
     const btn = $('authVerifyBtn');
     btn.disabled = true;
-    btn.textContent = 'Verifying…';
+    btn.textContent = 'Verifying...';
     $('authError2').textContent = '';
 
     const { error } = await db.auth.verifyOtp({
@@ -909,129 +964,180 @@
     if (error) {
       $('authError2').textContent = error.message;
       btn.disabled = false;
-      btn.textContent = 'Sign in';
+      btn.textContent = 'Sign In';
     } else {
       hideAuthModal();
       btn.disabled = false;
-      btn.textContent = 'Sign in';
+      btn.textContent = 'Sign In';
     }
   }
 
-  // Enter key support in auth inputs
+  // Enter key support
   document.addEventListener('DOMContentLoaded', () => {
     $('authEmail').addEventListener('keydown', e => { if (e.key === 'Enter') sendOTP(); });
     $('authCode').addEventListener('keydown', e => { if (e.key === 'Enter') verifyOTP(); });
   });
 
-  // ── Favorites view toggle ───────────────────────────────────────────────────
-  function toggleFavoritesView() {
-    showingFavorites = !showingFavorites;
-    $('favTabBtn').classList.toggle('active', showingFavorites);
-    $('searchBox').disabled = showingFavorites;
-
-    if (showingFavorites) {
-      hideDropdown();
-      renderFavoritesView();
-    } else {
-      const q = $('searchBox').value.trim();
-      $('searchBox').disabled = false;
-      if (q.length >= 2 && currentResults.length) {
-        renderCards(currentResults.slice(0, 30), q);
-      } else {
-        $('resultsArea').innerHTML = '<p class="status-msg" id="statusMsg"></p>';
-      }
-    }
+  // ── Profile / Settings ──────────────────────────────────────────────────────
+  function showProfile() {
+    renderProfileContent();
+    $('profileOverlay').classList.add('open');
   }
 
-  // ── Real stats helpers ───────────────────────────────────────────────────────
-  function formatLastGame(playerData) {
-    const lg = playerData.last_game;
-    if (!lg) return null;
-
-    const main = `${lg.result} vs ${lg.opponent}`;
-    let detail = '';
-
-    if (lg.batting && (lg.batting.ab > 0 || lg.batting.rbi > 0)) {
-      detail = `${lg.batting.h}/${lg.batting.ab}`;
-      if (lg.batting.rbi)  detail += `, ${lg.batting.rbi} RBI`;
-      if (lg.batting.bb)   detail += `, ${lg.batting.bb} BB`;
-      if (lg.batting.hr)   detail += `, ${lg.batting.hr} HR`;
-    } else if (lg.pitching) {
-      detail = `${lg.pitching.ip} IP · ${lg.pitching.so} K · ${lg.pitching.er} ER`;
-    }
-
-    return { main, detail, date: lg.date, narrative: playerData.narrative || '' };
+  function hideProfile() {
+    $('profileOverlay').classList.remove('open');
   }
 
-  function formatSeasonStats(playerData) {
-    if (playerData.season_batting) {
-      const b = playerData.season_batting;
-      const avg = b.avg.toFixed(3).replace(/^0/, '');
-      const main = `${avg} AVG · ${b.hr} HR · ${b.rbi} RBI`;
-      const detail = `${b.ops.toFixed(3)} OPS · ${b.g} G · ${b.h} H`;
-      return { main, detail };
-    }
-    if (playerData.season_pitching) {
-      const pit = playerData.season_pitching;
-      const main = `${pit.era.toFixed(2)} ERA · ${pit.w}-${pit.l} · ${pit.so} K`;
-      const detail = `${pit.whip.toFixed(2)} WHIP · ${pit.ip} IP · ${pit.g}G`;
-      return { main, detail };
-    }
-    return null;
+  function profileOverlayClick(e) {
+    if (e.target === $('profileOverlay')) hideProfile();
   }
 
-  // ── Favorites card layout ────────────────────────────────────────────────────
-  function favCardHTML(p) {
-    const isFav = favorites.has(p.id);
-    const initials = ((p.fn || '').charAt(0) + (p.ln || '').charAt(0)).toUpperCase();
-    const physical = [p.yr, p.ht, p.wt ? p.wt + ' lbs' : ''].filter(Boolean).join(' \u2022 ');
-    const pos = p.pos ? p.pos.split('/')[0].trim() : '';
+  function renderProfileContent() {
+    const area = $('profileContent');
+    if (!currentUser) {
+      area.innerHTML = `
+        <div class="ps-guest-msg">
+          <p>Sign in to save favorites and sync across devices.</p>
+          <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
+        </div>
+        <div class="ps-version">VERSION 2.4.1 (BUILD 108)</div>`;
+      return;
+    }
 
-    const bgColors   = ['#cfe2ff','#d1fae5','#fff3cd','#fce7f3','#ede9fe','#d0f0fd'];
-    const textColors = ['#084298','#065f46','#7a4f00','#831843','#4c1d95','#0c4a6e'];
-    const ci = parseInt(p.id.slice(0, 1), 16) % bgColors.length;
-    const photoEl = p.photo_url
-      ? `<img class="fav-photo fav-photo-img" src="${p.photo_url}" alt="${p.name}" onerror="this.outerHTML='<div class=\\'fav-photo\\' style=\\'background:${bgColors[ci]};color:${textColors[ci]}\\'>${initials}</div>'">`
-      : `<div class="fav-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
+    const email = currentUser.email || '';
+    const name = email.split('@')[0].replace(/[._]/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    const initials = name.split(' ').map(w => w[0]).join('').slice(0, 2).toUpperCase();
 
-    const playerData  = playerStatsMap[p.id] || null;
-    const schoolData  = schoolStatsMap[p.school] || null;
-    const lastGame    = playerData ? formatLastGame(playerData) : null;
-    const seasonStats = playerData ? formatSeasonStats(playerData) : null;
+    area.innerHTML = `
+      <div class="ps-section-label">Account</div>
+      <div class="ps-account-card">
+        <div class="ps-avatar">${initials}</div>
+        <div>
+          <div class="ps-user-name">${name}</div>
+          <div class="ps-user-email">${email}</div>
+        </div>
+      </div>
 
-    const recordBadge = schoolData
-      ? `<span class="fav-record-badge">${schoolData.record}</span>`
-      : '';
+      <div class="ps-divider"></div>
 
-    const unavailable = `<div class="fav-stat-main stats-unavailable">Stats currently unavailable</div>`;
+      <div class="ps-section-label">Preferences</div>
 
-    const lastGameHTML = lastGame
-      ? `<div class="fav-stat-main">${lastGame.main}</div>
-         ${lastGame.detail   ? `<div class="fav-stat-detail">${lastGame.detail}</div>` : ''}
-         ${lastGame.narrative ? `<div class="fav-stat-narrative">${lastGame.narrative}</div>` : ''}`
-      : unavailable;
+      <div class="ps-pref-row" style="cursor:pointer" onclick="alert('Help & Support coming soon!')">
+        <div class="ps-pref-icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/>
+          </svg>
+        </div>
+        <div class="ps-pref-text">
+          <div class="ps-pref-title">Help & Support</div>
+        </div>
+        <div class="ps-pref-arrow">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </div>
+      </div>
 
-    const seasonStatsHTML = seasonStats
-      ? `<div class="fav-stat-main">${seasonStats.main}</div>
-         <div class="fav-stat-detail">${seasonStats.detail}</div>`
-      : unavailable;
+      <button class="ps-signout-btn" onclick="signOut()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px; margin-right:6px">
+          <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/>
+        </svg>
+        Sign Out
+      </button>
+      <div class="ps-version">VERSION 2.4.1 (BUILD 108)</div>`;
+  }
 
-    return `
-      <div class="fav-card">
-        <div class="fav-card-header">
-          ${photoEl}
-          <div class="fav-player-info">
-            <div class="fav-name-row">
-              <span class="fav-player-name">${p.name}</span>
-              ${pos ? `<span class="fav-pos-badge">${pos}</span>` : ''}
-              ${recordBadge}
+  async function signOut() {
+    const { error } = await db.auth.signOut();
+    if (error) console.error('Sign out error:', error);
+    hideProfile();
+  }
+
+  // ── Search logic ────────────────────────────────────────────────────────────
+  function enterSearchMode() {
+    if (searchActive) return;
+    searchActive = true;
+    $('topBar').classList.add('search-active');
+    $('searchRow').classList.add('searching');
+    $('searchOverlay').classList.add('open');
+  }
+
+  function exitSearchMode() {
+    searchActive = false;
+    $('topBar').classList.remove('search-active');
+    $('searchRow').classList.remove('searching');
+    $('searchOverlay').classList.remove('open');
+    $('searchResults').classList.remove('open');
+    $('searchBox').value = '';
+    $('searchClear').classList.remove('visible');
+    $('searchBox').blur();
+    currentResults = [];
+  }
+
+  function clearSearch() {
+    exitSearchMode();
+  }
+
+  function cancelSearch() {
+    exitSearchMode();
+  }
+
+  $('searchOverlay').addEventListener('click', () => exitSearchMode());
+
+  $('searchBox').addEventListener('focus', () => {
+    enterSearchMode();
+    const q = $('searchBox').value.trim();
+    if (q.length >= 2 && currentResults.length) {
+      renderSearchResults(q, currentResults);
+    }
+  });
+
+  let debounceTimer;
+  $('searchBox').addEventListener('input', e => {
+    const q = e.target.value;
+    $('searchClear').classList.toggle('visible', q.length > 0);
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => runSearch(q.trim()), 80);
+  });
+
+  $('searchBox').addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+      exitSearchMode();
+    }
+  });
+
+  function runSearch(query) {
+    if (!miniSearch) return;
+    if (query.length < 2) {
+      $('searchResults').classList.remove('open');
+      currentResults = [];
+      return;
+    }
+    currentResults = miniSearch.search(query, { limit: 50 });
+    renderSearchResults(query, currentResults);
+  }
+
+  function renderSearchResults(query, results) {
+    const dd = $('searchResults');
+
+    if (!results.length) {
+      dd.innerHTML = `<div class="sr-empty">No results found.</div>`;
+      dd.classList.add('open');
+      return;
+    }
+
+    dd.innerHTML = results.slice(0, 12).map(p => {
+      const isFav = favorites.has(p.id);
+      return `
+        <div class="search-result">
+          <div class="sr-info">
+            <div class="sr-name-row">
+              <span class="sr-name">${escapeHTML(p.name)}</span>
+              ${p.pos ? `<span class="sr-badge sr-badge-pos">${escapeHTML(p.pos)}</span>` : ''}
+              ${p.yr  ? `<span class="sr-badge sr-badge-yr">${escapeHTML(p.yr)}</span>` : ''}
             </div>
-            <div class="fav-school-name">${p.school}</div>
-            ${physical ? `<div class="fav-physical">${physical}</div>` : ''}
+            <div class="sr-school">${escapeHTML(p.school)}</div>
           </div>
-          <button class="fav-star-btn starred" data-id="${p.id}"
-                  title="Remove from favorites"
-                  onclick="toggleFavorite('${p.id}')">
+          <button class="sr-star${isFav ? ' starred' : ''}" data-star-id="${p.id}"
+                  onclick="toggleFavorite('${p.id}', event)">
             <svg width="22" height="22" viewBox="0 0 24 24"
                  fill="${isFav ? 'currentColor' : 'none'}"
                  stroke="currentColor" stroke-width="1.8"
@@ -1039,86 +1145,206 @@
               <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
             </svg>
           </button>
-        </div>
+        </div>`;
+    }).join('');
 
-        <div class="fav-divider"></div>
-
-        <div class="fav-stat-row">
-          <div class="fav-stat-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="12" cy="12" r="10"/>
-              <path d="M5.2 5.2c3.8 3.8 3.8 9.8 0 13.6"/>
-              <path d="M18.8 5.2c-3.8 3.8-3.8 9.8 0 13.6"/>
-            </svg>
-          </div>
-          <div class="fav-stat-content">
-            <div class="fav-stat-label">Latest Game</div>
-            ${lastGameHTML}
-          </div>
-        </div>
-
-        <div class="fav-stat-row">
-          <div class="fav-stat-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <line x1="18" y1="20" x2="18" y2="10"/>
-              <line x1="12" y1="20" x2="12" y2="4"/>
-              <line x1="6" y1="20" x2="6" y2="14"/>
-            </svg>
-          </div>
-          <div class="fav-stat-content">
-            <div class="fav-stat-label">Season Stats</div>
-            ${seasonStatsHTML}
-          </div>
-        </div>
-
-        <button class="fav-profile-btn" onclick="alert('Full profile coming soon!')">
-          View Full Profile
-        </button>
-      </div>`;
+    dd.classList.add('open');
   }
 
-  function renderFavoritesView() {
-    const area = $('resultsArea');
+  function escapeHTML(str) {
+    if (!str) return '';
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  // ── Homepage / My Players ───────────────────────────────────────────────────
+  function renderHomepage() {
+    const area = $('playersArea');
 
     if (!currentUser) {
       area.innerHTML = `
-        <div class="favorites-empty">
+        <div class="empty-state">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
             <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
           </svg>
-          <p>Sign in to save favorites</p>
-          <small>Your starred players will sync across devices.</small>
-          <button class="auth-submit" onclick="showAuthModal()">Sign in</button>
+          <p>Sign in to save and view your players.</p>
+          <button class="sign-in-btn" onclick="showAuthModal()">Sign In</button>
         </div>`;
       return;
     }
 
     if (favorites.size === 0) {
       area.innerHTML = `
-        <div class="favorites-empty">
+        <div class="empty-state">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
           </svg>
-          <p>No favorites yet</p>
-          <small>Hit the star on any player card to save them here.</small>
+          <p>Search for players and add them to<br>your My Players list.</p>
         </div>`;
       return;
     }
 
     const favPlayers = allPlayers.filter(p => favorites.has(p.id));
-    const header = `
-      <div class="fav-view-header">
-        <span class="fav-view-title">Favorited Players</span>
-        <span class="fav-view-count">${favPlayers.length} player${favPlayers.length !== 1 ? 's' : ''}</span>
-      </div>`;
-    area.innerHTML = header + favPlayers.map(p => favCardHTML(p)).join('');
+    area.innerHTML = favPlayers.map(p => playerCardHTML(p)).join('');
   }
 
-  // ── Load stats files ────────────────────────────────────────────────────────
+  // ── Stats helpers ───────────────────────────────────────────────────────────
+  function isPitcher(p) {
+    if (!p.pos) return false;
+    const pos = p.pos.toUpperCase();
+    return pos.includes('RHP') || pos.includes('LHP') || pos.includes('SP') || pos.includes('RP') || pos === 'P';
+  }
+
+  function formatLastGameBatting(lg) {
+    if (!lg || !lg.batting) return null;
+    const b = lg.batting;
+    return {
+      opponent: lg.opponent || '?',
+      stats: [
+        { label: 'AB', val: b.ab ?? '-' },
+        { label: 'R', val: b.r ?? '-' },
+        { label: 'H', val: b.h ?? '-' },
+        { label: 'RBI', val: b.rbi ?? '-' },
+        { label: 'BB', val: b.bb ?? '-' },
+        { label: 'K', val: b.so ?? b.k ?? '-' },
+      ]
+    };
+  }
+
+  function formatLastGamePitching(lg) {
+    if (!lg || !lg.pitching) return null;
+    const pit = lg.pitching;
+    return {
+      opponent: lg.opponent || '?',
+      stats: [
+        { label: 'IP', val: pit.ip ?? '-' },
+        { label: 'H', val: pit.h ?? '-' },
+        { label: 'ER', val: pit.er ?? '-' },
+        { label: 'BB', val: pit.bb ?? '-' },
+        { label: 'K', val: pit.so ?? pit.k ?? '-' },
+      ]
+    };
+  }
+
+  function formatSeasonBatting(sb) {
+    if (!sb) return null;
+    return [
+      { label: 'AVG', val: sb.avg != null ? sb.avg.toFixed(3).replace(/^0/, '') : '-' },
+      { label: 'OBP', val: sb.obp != null ? sb.obp.toFixed(3).replace(/^0/, '') : '-' },
+      { label: 'SLG', val: sb.slg != null ? sb.slg.toFixed(3).replace(/^0/, '') : '-' },
+      { label: 'HR', val: sb.hr ?? '-' },
+    ];
+  }
+
+  function formatSeasonPitching(sp) {
+    if (!sp) return null;
+    return [
+      { label: 'W-L', val: `${sp.w ?? 0}-${sp.l ?? 0}` },
+      { label: 'ERA', val: sp.era != null ? sp.era.toFixed(2) : '-' },
+      { label: 'SO', val: sp.so ?? sp.k ?? '-' },
+      { label: 'WHIP', val: sp.whip != null ? sp.whip.toFixed(2) : '-' },
+    ];
+  }
+
+  function statsGridHTML(stats) {
+    return `<div class="pc-stats-grid">${stats.map(s =>
+      `<div class="pc-stat-item">
+        <div class="pc-stat-head">${s.label}</div>
+        <div class="pc-stat-val">${s.val}</div>
+      </div>`
+    ).join('')}</div>`;
+  }
+
+  // ── Player card HTML ────────────────────────────────────────────────────────
+  function playerCardHTML(p) {
+    const initials = ((p.fn || '').charAt(0) + (p.ln || '').charAt(0)).toUpperCase();
+    const bgColors   = ['#cfe2ff','#d1fae5','#fff3cd','#fce7f3','#ede9fe','#d0f0fd'];
+    const textColors = ['#084298','#065f46','#7a4f00','#831843','#4c1d95','#0c4a6e'];
+    const ci = parseInt(p.id.slice(0, 1), 16) % bgColors.length;
+
+    const photoEl = p.photo_url
+      ? `<div class="pc-photo" style="background:${bgColors[ci]};color:${textColors[ci]}"><img src="${escapeHTML(p.photo_url)}" alt="${escapeHTML(p.name)}" onerror="this.parentElement.innerHTML='${initials}'"></div>`
+      : `<div class="pc-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
+
+    const schoolMeta = [escapeHTML(p.school), p.yr].filter(Boolean).join(' \u2022 ');
+    const pitcher = isPitcher(p);
+    const posLabel = p.pos || '';
+
+    const playerData  = playerStatsMap[p.id] || null;
+    const lg = playerData ? playerData.last_game : null;
+    const narrative = playerData ? (playerData.narrative || '') : '';
+
+    // Build highlight section
+    let highlightHTML = '';
+    if (narrative) {
+      highlightHTML = `<div class="pc-highlight"><strong>Recent Highlight:</strong> ${escapeHTML(narrative)}</div>`;
+    }
+
+    // Build stats sections
+    let lastGameHTML = '';
+    let seasonHTML = '';
+
+    if (pitcher) {
+      const lgStats = lg ? formatLastGamePitching(lg) : null;
+      if (lgStats) {
+        lastGameHTML = `
+          <div class="pc-stats-label">LAST START VS ${escapeHTML(lgStats.opponent).toUpperCase()}</div>
+          <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
+      }
+      const sp = playerData ? playerData.season_pitching : null;
+      const seasonStats = formatSeasonPitching(sp);
+      if (seasonStats) {
+        seasonHTML = `
+          <div class="pc-stats-label">SEASON TOTALS (2026)</div>
+          <div class="pc-stats-box">${statsGridHTML(seasonStats)}</div>`;
+      }
+    } else {
+      const lgStats = lg ? formatLastGameBatting(lg) : null;
+      if (lgStats) {
+        lastGameHTML = `
+          <div class="pc-stats-label">LAST GAME VS ${escapeHTML(lgStats.opponent).toUpperCase()}</div>
+          <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
+      }
+      const sb = playerData ? playerData.season_batting : null;
+      const seasonStats = formatSeasonBatting(sb);
+      if (seasonStats) {
+        seasonHTML = `
+          <div class="pc-stats-label">SEASON TOTALS (2026)</div>
+          <div class="pc-stats-box">${statsGridHTML(seasonStats)}</div>`;
+      }
+    }
+
+    if (!lastGameHTML && !seasonHTML && !narrative) {
+      // No stats at all
+    }
+
+    return `
+      <div class="player-card">
+        <div class="pc-header">
+          ${photoEl}
+          <div class="pc-info">
+            <div class="pc-name">${escapeHTML(p.name)}</div>
+            <div class="pc-meta">${schoolMeta.toUpperCase()}</div>
+            ${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}
+          </div>
+          <button class="pc-star" data-star-id="${p.id}"
+                  onclick="toggleFavorite('${p.id}', event)">
+            <svg width="22" height="22" viewBox="0 0 24 24"
+                 fill="currentColor"
+                 stroke="currentColor" stroke-width="1.8"
+                 stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+            </svg>
+          </button>
+        </div>
+        ${highlightHTML}
+        ${lastGameHTML}
+        ${seasonHTML}
+      </div>`;
+  }
+
+  // ── Load stats files ──────────────────────────────────────────────────────
   async function loadStats() {
     try {
       const idxRes = await fetch('stats/index.json');
@@ -1133,12 +1359,12 @@
           for (const [id, player] of Object.entries(data.players || {})) {
             playerStatsMap[id] = player;
           }
-        } catch (e) { /* skip missing files */ }
+        } catch (e) { /* skip */ }
       }));
-    } catch (e) { /* no index, skip */ }
+    } catch (e) { /* no index */ }
   }
 
-  // ── Load data ──────────────────────────────────────────────────────────────
+  // ── Init ──────────────────────────────────────────────────────────────────
   async function init() {
     $('loadBar').style.width = '30%';
     const res = await fetch('players.json');
@@ -1149,7 +1375,7 @@
 
     miniSearch = new MiniSearch({
       fields: ['name', 'school', 'pos', 'hometown', 'hs'],
-      storeFields: ['id','fn','ln','name','num','pos','bt','yr','ht','wt','school','conf','st','hometown','hs'],
+      storeFields: ['id','fn','ln','name','num','pos','bt','yr','ht','wt','school','conf','st','hometown','hs','photo_url'],
       searchOptions: {
         boost: { name: 3, school: 2 },
         fuzzy: 0.2,
@@ -1159,170 +1385,14 @@
     miniSearch.addAll(allPlayers);
 
     $('loadBar').style.width = '100%';
-    setTimeout(() => $('loadBar').style.display = 'none', 400);
+    setTimeout(() => $('loadBar').parentElement.style.display = 'none', 400);
 
-    const schools = new Set(allPlayers.map(p => p.school)).size;
-    $('subtitle').textContent =
-      `${allPlayers.length.toLocaleString()} players · ${schools} schools · 2026 season`;
     $('searchBox').disabled = false;
-    $('searchBox').focus();
-
-    renderAuthBtn();
-    updateFavBadge();
-  }
-
-  // ── Highlight matched term ─────────────────────────────────────────────────
-  function highlight(text, query) {
-    if (!query || !text) return text;
-    const terms = query.trim().split(/\s+/).filter(Boolean);
-    let out = text;
-    for (const t of terms) {
-      const re = new RegExp(`(${t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
-      out = out.replace(re, '<mark>$1</mark>');
-    }
-    return out;
-  }
-
-  // ── Build card HTML ────────────────────────────────────────────────────────
-  function cardHTML(p, query) {
-    const details = [
-      p.bt       ? `B/T: ${p.bt}` : '',
-      p.ht       ? p.ht : '',
-      p.wt       ? `${p.wt} lbs` : '',
-      p.hometown ? p.hometown : '',
-      p.hs       ? `HS: ${p.hs}` : '',
-    ].filter(Boolean).join(' · ');
-
-    const isFav = favorites.has(p.id);
-    const starTitle = isFav ? 'Remove from favorites' : 'Add to favorites';
-
-    return `
-      <div class="card">
-        <div class="card-num">${p.num != null ? '#' + p.num : ''}</div>
-        <div class="card-body">
-          <div class="card-name">${highlight(p.name, query)}</div>
-          <div class="card-school">${highlight(p.school, query)}</div>
-          ${details ? `<div class="card-details">${details}</div>` : ''}
-        </div>
-        <div class="card-right">
-          ${p.pos ? `<div class="card-badge">${p.pos}</div>` : ''}
-          ${p.yr  ? `<div class="card-badge" style="background:#f0fff4;color:#2d6a4f">${p.yr}</div>` : ''}
-          <button class="star-btn${isFav ? ' starred' : ''}"
-                  data-id="${p.id}"
-                  title="${starTitle}"
-                  onclick="toggleFavorite('${p.id}')">
-            <svg width="18" height="18" viewBox="0 0 24 24"
-                 fill="${isFav ? 'currentColor' : 'none'}"
-                 stroke="currentColor" stroke-width="2"
-                 stroke-linecap="round" stroke-linejoin="round">
-              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-            </svg>
-          </button>
-        </div>
-      </div>`;
-  }
-
-  // ── Dropdown suggestions ───────────────────────────────────────────────────
-  function showDropdown(query, results) {
-    const dd = $('dropdown');
-    if (!results.length) { dd.classList.remove('open'); return; }
-
-    dd.innerHTML = results.slice(0, 8).map((p, i) => `
-      <div class="suggestion" data-idx="${i}"
-           onmousedown="selectSuggestion(event,${i})">
-        <span class="sug-name">${highlight(p.name, query)}</span>
-        <span class="sug-meta">${p.pos || '—'}${p.yr ? ' · ' + p.yr : ''}</span>
-        <span class="sug-school">${p.school}</span>
-      </div>`).join('');
-    activeIdx = -1;
-    dd.classList.add('open');
-  }
-
-  function hideDropdown() {
-    $('dropdown').classList.remove('open');
-    activeIdx = -1;
-  }
-
-  function selectSuggestion(e, idx) {
-    e.preventDefault();
-    const p = currentResults[idx];
-    $('searchBox').value = p.name;
-    hideDropdown();
-    renderCards([p], p.name);
-  }
-
-  // ── Main search ────────────────────────────────────────────────────────────
-  let debounceTimer;
-  $('searchBox').addEventListener('input', e => {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => runSearch(e.target.value.trim()), 80);
-  });
-
-  function runSearch(query) {
-    if (query.length < 2) {
-      hideDropdown();
-      $('resultsArea').innerHTML = '<p class="status-msg" id="statusMsg"></p>';
-      return;
-    }
-
-    currentResults = miniSearch.search(query, { limit: 50 });
-    showDropdown(query, currentResults);
-    renderCards(currentResults.slice(0, 30), query);
-  }
-
-  // ── Keyboard navigation ───────────────────────────────────────────────────
-  $('searchBox').addEventListener('keydown', e => {
-    const items = $('dropdown').querySelectorAll('.suggestion');
-    if (!items.length) return;
-
-    if (e.key === 'ArrowDown') {
-      e.preventDefault();
-      activeIdx = Math.min(activeIdx + 1, items.length - 1);
-    } else if (e.key === 'ArrowUp') {
-      e.preventDefault();
-      activeIdx = Math.max(activeIdx - 1, -1);
-    } else if (e.key === 'Enter' && activeIdx >= 0) {
-      e.preventDefault();
-      const p = currentResults[activeIdx];
-      $('searchBox').value = p.name;
-      hideDropdown();
-      renderCards([p], p.name);
-      return;
-    } else if (e.key === 'Escape') {
-      hideDropdown();
-      return;
-    } else { return; }
-
-    items.forEach((el, i) => el.classList.toggle('active', i === activeIdx));
-  });
-
-  document.addEventListener('click', e => {
-    if (!e.target.closest('.search-wrap')) hideDropdown();
-  });
-
-  $('searchBox').addEventListener('focus', () => {
-    const q = $('searchBox').value.trim();
-    if (q.length >= 2 && currentResults.length) showDropdown(q, currentResults);
-  });
-
-  // ── Render result cards ────────────────────────────────────────────────────
-  function renderCards(results, query) {
-    const area = $('resultsArea');
-    if (!results.length) {
-      area.innerHTML = '<p class="status-msg">No results found.</p>';
-      return;
-    }
-
-    const header = `
-      <div class="results-header">
-        <span class="results-header-text">${results.length} result${results.length !== 1 ? 's' : ''}${results.length === 30 ? ' (showing top 30)' : ''}</span>
-      </div>`;
-
-    area.innerHTML = header + results.map(p => cardHTML(p, query)).join('');
+    renderProfileBtn();
+    renderHomepage();
   }
 
   init().catch(err => {
-    $('subtitle').textContent = 'Failed to load player data.';
     console.error(err);
   });
 </script>
