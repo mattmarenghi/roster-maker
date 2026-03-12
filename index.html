@@ -706,6 +706,34 @@
     /* Hide profile button during search */
     .search-row.searching .profile-btn { display: none; }
     .search-row.searching .search-cancel { display: block; }
+
+    /* ── Favorite toast notification ───────────────────────────────────── */
+    .fav-toast {
+      position: fixed;
+      bottom: 32px;
+      left: 50%;
+      transform: translateX(-50%) translateY(12px);
+      background: #1a1a2e;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 999px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      white-space: nowrap;
+      pointer-events: none;
+      z-index: 500;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.22);
+      opacity: 0;
+      transition: opacity 0.18s ease, transform 0.18s ease;
+    }
+    .fav-toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+    .fav-toast svg { flex-shrink: 0; }
   </style>
 </head>
 <body>
@@ -786,6 +814,9 @@
     <button class="search-cancel" id="searchCancel" onclick="cancelSearch()">Cancel</button>
   </div>
 </div>
+
+<!-- Favorite add/remove toast -->
+<div class="fav-toast" id="favToast" aria-live="polite"></div>
 
 <!-- Main content: My Players (homepage) -->
 <div class="main-content" id="mainContent">
@@ -893,6 +924,20 @@
     }, 160);
   }
 
+  let _favToastTimer = null;
+  function showFavToast(removing) {
+    const toast = $('favToast');
+    const icon = removing
+      ? `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`
+      : `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#f0b429" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`;
+    const label = removing ? 'Removed from My Players' : 'Added to My Players';
+    toast.innerHTML = icon + label;
+
+    if (_favToastTimer) clearTimeout(_favToastTimer);
+    toast.classList.add('show');
+    _favToastTimer = setTimeout(() => toast.classList.remove('show'), 1400);
+  }
+
   async function toggleFavorite(id, e) {
     if (e) e.stopPropagation();
     if (!currentUser) {
@@ -904,6 +949,7 @@
     // Optimistic update
     if (removing) { favorites.delete(id); } else { favorites.add(id); }
     syncAllStars();
+    showFavToast(removing);
 
     // Animate card removal if unfavoriting from homepage
     if (removing && !searchActive) {
@@ -1041,7 +1087,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.4 (claude/fix-search-clear-button-n20Yq)</div>`;
+        <div class="ps-version">VERSION 2.5.5 (claude/favorite-confirmation-dialog-1XE2K)</div>`;
       return;
     }
 
@@ -1083,7 +1129,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.4 (claude/fix-search-clear-button-n20Yq)</div>`;
+      <div class="ps-version">VERSION 2.5.5 (claude/favorite-confirmation-dialog-1XE2K)</div>`;
   }
 
   async function signOut() {
