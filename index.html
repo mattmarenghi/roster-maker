@@ -479,14 +479,16 @@
       background: none;
       border: none;
       cursor: pointer;
-      color: #f0b429;
+      color: #ccc;
       padding: 2px;
       flex-shrink: 0;
       line-height: 1;
       margin-top: 1px;
       transition: color 0.15s, transform 0.15s;
     }
-    .fav-star-btn:hover { color: #c47a00; transform: scale(1.15); }
+    .fav-star-btn:hover { color: #f0b429; transform: scale(1.15); }
+    .fav-star-btn.starred { color: #f0b429; }
+    .fav-star-btn.starred:hover { color: #c47a00; }
 
     .fav-divider {
       height: 1px;
@@ -741,7 +743,7 @@
     favorites = new Set((data || []).map(r => r.player_id));
     updateFavBadge();
     // Sync any already-rendered star buttons (e.g. after logout → re-login)
-    document.querySelectorAll('.star-btn[data-id]').forEach(btn => {
+    document.querySelectorAll('.star-btn[data-id], .fav-star-btn[data-id]').forEach(btn => {
       const isFav = favorites.has(btn.dataset.id);
       btn.classList.toggle('starred', isFav);
       btn.title = isFav ? 'Remove from favorites' : 'Add to favorites';
@@ -751,29 +753,86 @@
     if (showingFavorites) renderFavoritesView();
   }
 
-  async function toggleFavorite(id) {
-    if (!currentUser) {
-      showAuthModal();
-      return;
-    }
-    if (favorites.has(id)) {
-      favorites.delete(id);
-      const { error } = await db.from('favorites').delete().match({ user_id: currentUser.id, player_id: id });
-      if (error) { console.error('Failed to remove favorite:', error); favorites.add(id); }
-    } else {
-      favorites.add(id);
-      const { error } = await db.from('favorites').insert({ user_id: currentUser.id, player_id: id });
-      if (error) { console.error('Failed to save favorite:', error); favorites.delete(id); }
-    }
-    updateFavBadge();
-    document.querySelectorAll(`.star-btn[data-id="${id}"]`).forEach(btn => {
-      const isFav = favorites.has(id);
+  function updateStarButtons(id) {
+    const isFav = favorites.has(id);
+    document.querySelectorAll(`.star-btn[data-id="${id}"], .fav-star-btn[data-id="${id}"]`).forEach(btn => {
       btn.classList.toggle('starred', isFav);
       btn.title = isFav ? 'Remove from favorites' : 'Add to favorites';
       const svg = btn.querySelector('svg');
       if (svg) svg.setAttribute('fill', isFav ? 'currentColor' : 'none');
     });
-    if (showingFavorites) renderFavoritesView();
+  }
+
+  async function toggleFavorite(id) {
+    if (!currentUser) {
+      showAuthModal();
+      return;
+    }
+    const removing = favorites.has(id);
+
+    // Optimistic: update state + UI immediately for instant feedback
+    if (removing) { favorites.delete(id); } else { favorites.add(id); }
+    updateStarButtons(id);
+    updateFavBadge();
+
+    // In favorites view, animate card out on removal
+    if (showingFavorites && removing) {
+      animateRemoveFavCard(id);
+    }
+
+    // Persist to DB
+    if (removing) {
+      const { error } = await db.from('favorites').delete().match({ user_id: currentUser.id, player_id: id });
+      if (error) {
+        console.error('Failed to remove favorite:', error);
+        favorites.add(id);
+        updateStarButtons(id);
+        updateFavBadge();
+      }
+    } else {
+      const { error } = await db.from('favorites').insert({ user_id: currentUser.id, player_id: id });
+      if (error) {
+        console.error('Failed to save favorite:', error);
+        favorites.delete(id);
+        updateStarButtons(id);
+        updateFavBadge();
+      }
+    }
+  }
+
+  function animateRemoveFavCard(id) {
+    const starBtn = document.querySelector(`.fav-star-btn[data-id="${id}"]`);
+    if (!starBtn) { renderFavoritesView(); return; }
+    const card = starBtn.closest('.fav-card');
+    if (!card) { renderFavoritesView(); return; }
+
+    // Lock the current height so we can animate it to 0
+    card.style.overflow = 'hidden';
+    card.style.maxHeight = card.offsetHeight + 'px';
+
+    // Brief pause (star icon already went unlit), then fade + shrink
+    setTimeout(() => {
+      card.style.transition = [
+        'opacity 0.28s ease',
+        'transform 0.28s ease',
+        'max-height 0.32s ease 0.14s',
+        'margin-bottom 0.32s ease 0.14s',
+        'padding-top 0.32s ease 0.14s',
+        'padding-bottom 0.32s ease 0.14s',
+      ].join(', ');
+      card.style.opacity = '0';
+      card.style.transform = 'scale(0.97) translateY(-6px)';
+
+      setTimeout(() => {
+        card.style.maxHeight = '0';
+        card.style.marginBottom = '0';
+        card.style.paddingTop = '0';
+        card.style.paddingBottom = '0';
+
+        // Re-render once the collapse is done
+        setTimeout(() => renderFavoritesView(), 360);
+      }, 180);
+    }, 160);
   }
 
   function updateFavBadge() {
@@ -970,7 +1029,7 @@
             <div class="fav-school-name">${p.school}</div>
             ${physical ? `<div class="fav-physical">${physical}</div>` : ''}
           </div>
-          <button class="fav-star-btn" data-id="${p.id}"
+          <button class="fav-star-btn starred" data-id="${p.id}"
                   title="Remove from favorites"
                   onclick="toggleFavorite('${p.id}')">
             <svg width="22" height="22" viewBox="0 0 24 24"
