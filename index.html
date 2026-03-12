@@ -138,12 +138,12 @@
       background: white;
       border-radius: 0 0 16px 16px;
       box-shadow: 0 8px 32px rgba(0,0,0,0.16);
-      max-height: 420px;
+      max-height: 70vh;
       overflow-y: auto;
       display: none;
       z-index: 61;
     }
-    .search-results-dropdown.open { display: block; }
+    .search-results-dropdown.open { display: block; min-height: 120px; }
 
     /* Search result row */
     .search-result {
@@ -767,7 +767,7 @@
         <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
       </svg>
       <input class="search-box" id="searchBox" type="text"
-             placeholder="Search players..." autocomplete="off" disabled>
+             placeholder="Search for players or teams" autocomplete="off" disabled>
       <button class="search-clear" id="searchClear" onclick="clearSearch()">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
              stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
@@ -858,6 +858,41 @@
     });
   }
 
+  function animateRemoveFavCard(id) {
+    const starBtn = document.querySelector(`.pc-star[data-star-id="${id}"]`);
+    if (!starBtn) { renderHomepage(); return; }
+    const card = starBtn.closest('.player-card');
+    if (!card) { renderHomepage(); return; }
+
+    // Lock the current height so we can animate it to 0
+    card.style.overflow = 'hidden';
+    card.style.maxHeight = card.offsetHeight + 'px';
+
+    // Brief pause (star icon already went unlit), then fade + shrink
+    setTimeout(() => {
+      card.style.transition = [
+        'opacity 0.28s ease',
+        'transform 0.28s ease',
+        'max-height 0.32s ease 0.14s',
+        'margin-bottom 0.32s ease 0.14s',
+        'padding-top 0.32s ease 0.14s',
+        'padding-bottom 0.32s ease 0.14s',
+      ].join(', ');
+      card.style.opacity = '0';
+      card.style.transform = 'scale(0.97) translateY(-6px)';
+
+      setTimeout(() => {
+        card.style.maxHeight = '0';
+        card.style.marginBottom = '0';
+        card.style.paddingTop = '0';
+        card.style.paddingBottom = '0';
+
+        // Re-render once the collapse is done
+        setTimeout(() => renderHomepage(), 360);
+      }, 180);
+    }, 160);
+  }
+
   async function toggleFavorite(id, e) {
     if (e) e.stopPropagation();
     if (!currentUser) {
@@ -869,7 +904,13 @@
     // Optimistic update
     if (removing) { favorites.delete(id); } else { favorites.add(id); }
     syncAllStars();
-    renderHomepage();
+
+    // Animate card removal if unfavoriting from homepage
+    if (removing && !searchActive) {
+      animateRemoveFavCard(id);
+    } else {
+      renderHomepage();
+    }
 
     // Persist
     if (removing) {
@@ -1000,7 +1041,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.4.1 (BUILD 108)</div>`;
+        <div class="ps-version">VERSION 2.5.0 (claude/ui-tweaks-results-animation-HOsi2)</div>`;
       return;
     }
 
@@ -1042,7 +1083,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.4.1 (BUILD 108)</div>`;
+      <div class="ps-version">VERSION 2.5.0 (claude/ui-tweaks-results-animation-HOsi2)</div>`;
   }
 
   async function signOut() {
@@ -1058,6 +1099,8 @@
     $('topBar').classList.add('search-active');
     $('searchRow').classList.add('searching');
     $('searchOverlay').classList.add('open');
+    // Show the results panel immediately so the overlay doesn't clip under the search bar
+    $('searchResults').classList.add('open');
   }
 
   function exitSearchMode() {
@@ -1107,7 +1150,7 @@
   function runSearch(query) {
     if (!miniSearch) return;
     if (query.length < 2) {
-      $('searchResults').classList.remove('open');
+      $('searchResults').innerHTML = '';
       currentResults = [];
       return;
     }
@@ -1124,7 +1167,7 @@
       return;
     }
 
-    dd.innerHTML = results.slice(0, 12).map(p => {
+    dd.innerHTML = results.slice(0, 30).map(p => {
       const isFav = favorites.has(p.id);
       return `
         <div class="search-result">
