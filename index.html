@@ -1041,7 +1041,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.2 (claude/fix-search-clear-button-n20Yq)</div>`;
+        <div class="ps-version">VERSION 2.5.3 (claude/fix-search-clear-button-n20Yq)</div>`;
       return;
     }
 
@@ -1083,7 +1083,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.2 (claude/fix-search-clear-button-n20Yq)</div>`;
+      <div class="ps-version">VERSION 2.5.3 (claude/fix-search-clear-button-n20Yq)</div>`;
   }
 
   async function signOut() {
@@ -1113,7 +1113,11 @@
     $('searchClear').classList.remove('visible');
     $('searchBox').blur();
     currentResults = [];
-    sessionStorage.removeItem('lastSearch');
+    // NOTE: intentionally NOT removing lastSearch from sessionStorage here.
+    // Dismissing via overlay/Escape/Cancel is not an intentional clear —
+    // the term should survive and be restored on the next page load.
+    // sessionStorage is only wiped when the user explicitly clears the
+    // input (X button or deletes all text).
   }
 
   function clearSearch() {
@@ -1451,8 +1455,7 @@
     renderHomepage();
 
     // Restore last search term + results across page loads/refreshes.
-    // If the user intentionally cleared via X/Escape/overlay, sessionStorage
-    // was already wiped in exitSearchMode(), so nothing will restore.
+    // Cleared only when user explicitly empties the input or presses X.
     const savedSearch = sessionStorage.getItem('lastSearch');
     if (savedSearch && savedSearch.trim().length >= 2) {
       $('searchBox').value = savedSearch;
