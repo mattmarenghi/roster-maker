@@ -750,10 +750,12 @@
     }
     if (favorites.has(id)) {
       favorites.delete(id);
-      db.from('favorites').delete().match({ user_id: currentUser.id, player_id: id });
+      const { error } = await db.from('favorites').delete().match({ user_id: currentUser.id, player_id: id });
+      if (error) { console.error('Failed to remove favorite:', error); favorites.add(id); }
     } else {
       favorites.add(id);
-      db.from('favorites').insert({ user_id: currentUser.id, player_id: id });
+      const { error } = await db.from('favorites').insert({ user_id: currentUser.id, player_id: id });
+      if (error) { console.error('Failed to save favorite:', error); favorites.delete(id); }
     }
     updateFavBadge();
     document.querySelectorAll(`.star-btn[data-id="${id}"]`).forEach(btn => {
