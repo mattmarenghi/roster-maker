@@ -2,8 +2,8 @@
   "school": "Davidson College",
   "base_url": "https://www.davidsonwildcats.com",
   "season": "2026",
-  "generated_at": "2026-03-11T23:17:55.919461Z",
-  "record": "7-7",
+  "generated_at": "2026-03-12T21:09:34.211743Z",
+  "record": "8-7",
   "most_recent_game": {
     "date": "2026-03-10",
     "opponent": "Gardner-Webb",
@@ -96,14 +96,31 @@
         "opp_avg": ".400"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
+        "date": "2026-03-07",
+        "opponent": "Lehigh",
+        "result": "W 13-7",
+        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/lehigh/boxscore/10232",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "P"
+        },
+        "pitching": {
+          "ip": "3.2",
+          "h": 6,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Lehigh, throwing 3.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "26604fb2": {
       "id": "26604fb2",
@@ -155,7 +172,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Gardner-Webb. Contributed at the plate in Davidson's W 11-10."
+      "narrative": "Went 1/4 with 1 RBI against Gardner-Webb. Contributed at the plate in the team's W 11-10."
     },
     "2ac1ffba": {
       "id": "2ac1ffba",
@@ -295,14 +312,7 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "adae7002": {
@@ -407,7 +417,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 2 RBI against Gardner-Webb. Contributed at the plate in Davidson's W 11-10."
+      "narrative": "Went 1/3 with 2 RBI against Gardner-Webb. Contributed at the plate in the team's W 11-10."
     },
     "bb536822": {
       "id": "bb536822",
@@ -543,14 +553,31 @@
         "opp_avg": ".229"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
+        "date": "2026-03-08",
+        "opponent": "Lehigh",
+        "result": "W 10-0",
+        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/lehigh/boxscore/10233",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "P"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Lehigh, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "11cd9e28": {
       "id": "11cd9e28",
@@ -690,14 +717,31 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
+        "date": "2026-03-07",
+        "opponent": "Lehigh",
+        "result": "W 13-7",
+        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/lehigh/boxscore/10232",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "P"
+        },
+        "pitching": {
+          "ip": "3.0",
+          "h": 6,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Lehigh, throwing 3.0 innings. Allowed 5 earned run(s) with 4 strikeout(s)."
     },
     "993a289b": {
       "id": "993a289b",
@@ -780,14 +824,7 @@
         "wp": 2,
         "opp_avg": ".000"
       },
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "b58826ad": {
@@ -820,14 +857,31 @@
         "opp_avg": ".154"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
+        "date": "2026-03-08",
+        "opponent": "Lehigh",
+        "result": "W 10-0",
+        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/lehigh/boxscore/10233",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "P"
+        },
+        "pitching": {
+          "ip": "5.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 4,
+          "wp": 1,
+          "hbp": 3
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Lehigh, throwing 5.0 innings. Struck out 4 while allowing just 1 hit(s) and 0 earned run(s) in a quality start."
     },
     "864fced3": {
       "id": "864fced3",
@@ -931,7 +985,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Gardner-Webb. Contributed at the plate in Davidson's W 11-10."
+      "narrative": "Went 1/4 with 1 RBI against Gardner-Webb. Contributed at the plate in the team's W 11-10."
     },
     "f0c5a8df": {
       "id": "f0c5a8df",
@@ -1024,14 +1078,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
+        "date": "2026-03-07",
+        "opponent": "Lehigh",
+        "result": "W 13-7",
+        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/lehigh/boxscore/10232",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "C"
+        },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 1/4 with 0 RBI against Lehigh. Contributed at the plate in the team's W 13-7."
     },
     "2020d833": {
       "id": "2020d833",
@@ -1062,14 +1124,7 @@
         "wp": 3,
         "opp_avg": ".200"
       },
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "5d1a54a5": {
@@ -1101,14 +1156,7 @@
         "wp": 1,
         "opp_avg": ".000"
       },
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "f3222aea": {
@@ -1365,14 +1413,31 @@
         "opp_avg": ".182"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
+        "date": "2026-03-06",
+        "opponent": "Lehigh",
+        "result": "W 14-9",
+        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/lehigh/boxscore/10231",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "P"
+        },
+        "pitching": {
+          "ip": "3.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Lehigh, throwing 3.0 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
     },
     "c87dda45": {
       "id": "c87dda45",
@@ -1426,14 +1491,7 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "71b9a565": {
@@ -1466,14 +1524,31 @@
         "opp_avg": ".329"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Gardner-Webb",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/gardner-webb/boxscore/10234",
-        "batting": null,
-        "pitching": null
+        "date": "2026-03-06",
+        "opponent": "Lehigh",
+        "result": "W 14-9",
+        "boxscore_url": "https://www.davidsonwildcats.com/sports/baseball/stats/2026/lehigh/boxscore/10231",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "P"
+        },
+        "pitching": {
+          "ip": "3.0",
+          "h": 8,
+          "r": 7,
+          "er": 7,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Lehigh, throwing 3.0 innings. Allowed 7 earned run(s) with 3 strikeout(s)."
     },
     "85831c5c": {
       "id": "85831c5c",
