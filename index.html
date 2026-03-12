@@ -1117,7 +1117,12 @@
   }
 
   function clearSearch() {
-    exitSearchMode();
+    $('searchBox').value = '';
+    $('searchClear').classList.remove('visible');
+    $('searchResults').innerHTML = '';
+    currentResults = [];
+    sessionStorage.removeItem('lastSearch');
+    $('searchBox').focus();
   }
 
   function cancelSearch() {
