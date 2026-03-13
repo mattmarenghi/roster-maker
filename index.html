@@ -293,6 +293,18 @@
       white-space: nowrap;
     }
 
+    .pc-yr-badge {
+      display: inline-block;
+      background: #e6f4ea;
+      color: #2a7a45;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 6px;
+      white-space: nowrap;
+      margin-left: 6px;
+    }
+
     .pc-star {
       background: none;
       border: none;
@@ -371,6 +383,9 @@
       font-weight: 800;
       color: #1a1a2e;
     }
+
+    .pc-stats-grid--compact .pc-stat-head { font-size: 0.58rem; }
+    .pc-stats-grid--compact .pc-stat-val { font-size: 0.88rem; }
 
     .pc-stats-unavailable {
       color: #9aa0b4;
@@ -1100,7 +1115,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.6 (claude/scraper-scalability-design-3SCRX)</div>`;
+        <div class="ps-version">VERSION 2.5.8 (claude/update-player-stats-ui-B6Rfv)</div>`;
       return;
     }
 
@@ -1142,7 +1157,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.6 (claude/scraper-scalability-design-3SCRX)</div>`;
+      <div class="ps-version">VERSION 2.5.8 (claude/update-player-stats-ui-B6Rfv)</div>`;
   }
 
   async function signOut() {
@@ -1345,9 +1360,10 @@
       meta: fmtGameMeta(lg),
       stats: [
         { label: 'AB', val: b.ab ?? '-' },
-        { label: 'R', val: b.r ?? '-' },
         { label: 'H', val: b.h ?? '-' },
         { label: 'RBI', val: b.rbi ?? '-' },
+        { label: 'HR', val: b.hr ?? '-' },
+        { label: 'R', val: b.r ?? '-' },
         { label: 'BB', val: b.bb ?? '-' },
         { label: 'K', val: b.so ?? b.k ?? '-' },
       ]
@@ -1357,16 +1373,19 @@
   function formatLastGamePitching(lg) {
     if (!lg || !lg.pitching) return null;
     const pit = lg.pitching;
+    const dec = pit.w ? 'W' : pit.sv ? 'SV' : pit.l ? 'L' : null;
+    const stats = [
+      { label: 'IP', val: pit.ip ?? '-' },
+      { label: 'H', val: pit.h ?? '-' },
+      { label: 'ER', val: pit.er ?? '-' },
+      { label: 'BB', val: pit.bb ?? '-' },
+      { label: 'K', val: pit.so ?? pit.k ?? '-' },
+    ];
+    if (dec !== null) stats.push({ label: 'W/L/SV', val: dec });
     return {
       opponent: lg.opponent || '?',
       meta: fmtGameMeta(lg),
-      stats: [
-        { label: 'IP', val: pit.ip ?? '-' },
-        { label: 'H', val: pit.h ?? '-' },
-        { label: 'ER', val: pit.er ?? '-' },
-        { label: 'BB', val: pit.bb ?? '-' },
-        { label: 'K', val: pit.so ?? pit.k ?? '-' },
-      ]
+      stats
     };
   }
 
@@ -1374,9 +1393,14 @@
     if (!sb) return null;
     return [
       { label: 'AVG', val: sb.avg != null ? sb.avg.toFixed(3).replace(/^0/, '') : '-' },
-      { label: 'OBP', val: sb.obp != null ? sb.obp.toFixed(3).replace(/^0/, '') : '-' },
-      { label: 'SLG', val: sb.slg != null ? sb.slg.toFixed(3).replace(/^0/, '') : '-' },
+      { label: 'OPS', val: sb.ops != null ? sb.ops.toFixed(3).replace(/^0/, '') : '-' },
+      { label: 'GP', val: sb.g ?? '-' },
+      { label: 'AB', val: sb.ab ?? '-' },
+      { label: 'H', val: sb.h ?? '-' },
+      { label: 'RBI', val: sb.rbi ?? '-' },
       { label: 'HR', val: sb.hr ?? '-' },
+      { label: 'BB', val: sb.bb ?? '-' },
+      { label: 'K', val: sb.so ?? sb.k ?? '-' },
     ];
   }
 
@@ -1385,13 +1409,17 @@
     return [
       { label: 'W-L', val: `${sp.w ?? 0}-${sp.l ?? 0}` },
       { label: 'ERA', val: sp.era != null ? sp.era.toFixed(2) : '-' },
-      { label: 'SO', val: sp.so ?? sp.k ?? '-' },
+      { label: 'APP', val: sp.g ?? '-' },
+      { label: 'IP', val: sp.ip ?? '-' },
+      { label: 'BB', val: sp.bb ?? '-' },
+      { label: 'K', val: sp.so ?? sp.k ?? '-' },
       { label: 'WHIP', val: sp.whip != null ? sp.whip.toFixed(2) : '-' },
     ];
   }
 
   function statsGridHTML(stats) {
-    return `<div class="pc-stats-grid">${stats.map(s =>
+    const compact = stats.length > 6 ? ' pc-stats-grid--compact' : '';
+    return `<div class="pc-stats-grid${compact}">${stats.map(s =>
       `<div class="pc-stat-item">
         <div class="pc-stat-head">${s.label}</div>
         <div class="pc-stat-val">${s.val}</div>
@@ -1410,7 +1438,7 @@
       ? `<div class="pc-photo" style="background:${bgColors[ci]};color:${textColors[ci]}"><img src="${escapeHTML(p.photo_url)}" alt="${escapeHTML(p.name)}" onerror="this.parentElement.innerHTML='${initials}'"></div>`
       : `<div class="pc-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
 
-    const schoolMeta = [escapeHTML(p.school), p.yr].filter(Boolean).join(' \u2022 ');
+    const schoolMeta = escapeHTML(p.school);
     const pitcher = isPitcher(p);
     const posLabel = p.pos || '';
 
@@ -1431,7 +1459,7 @@
     if (pitcher) {
       const lgStats = lg ? (formatLastGamePitching(lg) || formatLastGameBatting(lg)) : null;
       if (lgStats) {
-        const gameLabel = lgStats.stats.some(s => s.label === 'IP') ? 'LAST START' : 'LAST GAME';
+        const gameLabel = 'LAST GAME';
         lastGameHTML = `
           <div class="pc-stats-label">${gameLabel} VS ${escapeHTML(lgStats.opponent).toUpperCase()}<span class="pc-stats-meta">${escapeHTML(lgStats.meta)}</span></div>
           <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
@@ -1470,7 +1498,7 @@
           <div class="pc-info">
             <div class="pc-name">${escapeHTML(p.name)}</div>
             <div class="pc-meta">${schoolMeta.toUpperCase()}</div>
-            ${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}
+            ${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(p.yr)}</span>` : ''}
           </div>
           <button class="pc-star" data-star-id="${p.id}"
                   onclick="toggleFavorite('${p.id}', event)">
