@@ -901,7 +901,8 @@
 
   // ── Favorites (Supabase) ────────────────────────────────────────────────────
   async function fetchFavorites() {
-    const { data } = await db.from('favorites').select('player_id');
+    const { data, error } = await db.from('favorites').select('player_id');
+    if (error) console.error('fetchFavorites error:', error);
     favorites = new Set((data || []).map(r => r.player_id));
     renderHomepage();
     // Sync search result stars if visible
@@ -1115,7 +1116,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.8 (claude/update-player-stats-ui-B6Rfv)</div>`;
+        <div class="ps-version">VERSION 2.5.9 (claude/use-sidearm-api-HNAp7)</div>`;
       return;
     }
 
@@ -1157,7 +1158,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.8 (claude/update-player-stats-ui-B6Rfv)</div>`;
+      <div class="ps-version">VERSION 2.5.9 (claude/use-sidearm-api-HNAp7)</div>`;
   }
 
   async function signOut() {
@@ -1562,6 +1563,19 @@
     $('searchBox').disabled = false;
     renderProfileBtn();
     renderHomepage();
+
+    // Fallback session check: Supabase JS v2.98+ lowered navigator.lock timeout to 5s,
+    // which can cause onAuthStateChange(INITIAL_SESSION) to silently fail in some browsers
+    // (multiple tabs, extensions, etc.).  If the auth callback hasn't fired yet, do an
+    // explicit getSession() here so the user's saved players are always restored.
+    if (!currentUser) {
+      const { data: sd } = await db.auth.getSession();
+      if (sd?.session?.user) {
+        currentUser = sd.session.user;
+        renderProfileBtn();
+        await fetchFavorites();
+      }
+    }
 
     // Restore last search term + results across page loads/refreshes.
     // Cleared only when user explicitly empties the input or presses X.

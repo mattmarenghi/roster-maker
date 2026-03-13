@@ -142,10 +142,16 @@ def fetch_bio_api(base_url: str, roster_player_id: str, year: str = "2026") -> d
 
 
 def _parse_bio_date(date_str) -> datetime | None:
-    """Parse common date formats returned by SIDEARM bio API."""
+    """Parse common date formats returned by SIDEARM bio API.
+
+    SIDEARM v2 returns dates with a time component and a narrow no-break space
+    before AM/PM, e.g. "2/13/2026 3:30:00\u202fPM".  Only the date portion is
+    needed, so we normalise and strip everything after the first space.
+    """
     if not date_str:
         return None
-    s = str(date_str).strip()
+    # Normalise narrow no-break space (U+202F) → regular space, then take date only
+    s = str(date_str).strip().replace("\u202f", " ").split()[0]
     for fmt in ("%m/%d/%Y", "%Y-%m-%d", "%m/%d/%y"):
         try:
             return datetime.strptime(s, fmt)
@@ -154,31 +160,40 @@ def _parse_bio_date(date_str) -> datetime | None:
     return None
 
 
-def parse_bio_last_game(bio: dict) -> dict | None:
+def parse_bio_last_game(bio: dict, base_url: str = "") -> dict | None:
     """Parse a SIDEARM /api/v2/stats/bio response to find the player's most recent game.
 
-    Typical SIDEARM bio response shape:
+    Actual SIDEARM bio response shape:
         {
-          "batting":  { "gameLog": [{date, opponent, result, ab, r, h, rbi, bb, so, ...}, ...] },
-          "pitching": { "gameLog": [{date, opponent, result, ip, h, r, er, bb, so, ...}, ...] }
+          "currentStats": {
+            "hittingStats": [{date, opponent, result, atBats, runsScored, hits, ...}, ...],
+            "pitchingStats": [{date, opponent, result, inningsPitched, hitsAllowed, ...}, ...]
+          }
         }
-    Field names vary by school/sport; this function tries common variants.
+    Field names vary by school; this function tries common variants.
 
     Returns {date, opponent, result, boxscore_url, batting, pitching} or None.
     """
     if not isinstance(bio, dict):
         return None
 
-    def find_log(section_key: str) -> list | None:
-        section = bio.get(section_key)
+    def find_log(hitting_key: str, pitching_key: str) -> list | None:
+        # Primary path: currentStats.hittingStats / currentStats.pitchingStats
+        current = bio.get("currentStats")
+        if isinstance(current, dict):
+            log = current.get(hitting_key) or current.get(pitching_key)
+            if isinstance(log, list):
+                return log
+        # Legacy fallback: top-level "batting"/"pitching" with nested gameLog
+        section = bio.get(hitting_key) or bio.get(pitching_key)
         if isinstance(section, dict):
             for key in ("gameLog", "gameLogs", "game_log", "games", "log"):
                 if isinstance(section.get(key), list):
                     return section[key]
         return None
 
-    bat_log = find_log("batting")
-    pitch_log = find_log("pitching")
+    bat_log = find_log("hittingStats", "batting")
+    pitch_log = find_log("pitchingStats", "pitching")
 
     def safe_int(val) -> int:
         try:
@@ -232,8 +247,13 @@ def parse_bio_last_game(bio: dict) -> dict | None:
 
     date_out = primary_date.strftime("%Y-%m-%d")
     opponent_raw = str(get_field(primary_entry, "opponent", "Opponent", "opponentName", "team") or "")
-    opponent = opponent_raw.lstrip("@").strip() or "Unknown"
+    # Strip leading "at " (away game) or "@" prefix
+    opponent = re.sub(r"^(at\s+|@)", "", opponent_raw, flags=re.IGNORECASE).strip() or "Unknown"
     result = str(get_field(primary_entry, "result", "Result", "wl", "gameResult") or "")
+
+    # Boxscore URL from bio API (relative path like /sports/baseball/stats/2026/team/boxscore/12345)
+    bs_relative = get_field(primary_entry, "boxscoreUrl", "boxscore_url", "boxscoreLink")
+    boxscore_url = urljoin(base_url, bs_relative) if bs_relative and base_url else None
 
     # Build batting stats dict
     bat_data = None
@@ -242,9 +262,9 @@ def parse_bio_last_game(bio: dict) -> dict | None:
         if ab > 0:
             bat_data = {
                 "ab":      ab,
-                "r":       safe_int(get_field(bat_entry, "r", "runs", "R")),
+                "r":       safe_int(get_field(bat_entry, "r", "runsScored", "runs", "R")),
                 "h":       safe_int(get_field(bat_entry, "h", "hits", "H")),
-                "rbi":     safe_int(get_field(bat_entry, "rbi", "RBI")),
+                "rbi":     safe_int(get_field(bat_entry, "rbi", "runsBattedIn", "RBI")),
                 "bb":      safe_int(get_field(bat_entry, "bb", "walks", "BB")),
                 "so":      safe_int(get_field(bat_entry, "so", "k", "strikeouts", "SO", "K")),
                 "hr":      safe_int(get_field(bat_entry, "hr", "homeRuns", "HR")),
@@ -263,7 +283,7 @@ def parse_bio_last_game(bio: dict) -> dict | None:
                 "ip":  ip_str,
                 "h":   safe_int(get_field(pitch_entry, "h", "hitsAllowed", "H")),
                 "r":   safe_int(get_field(pitch_entry, "r", "runsAllowed", "R")),
-                "er":  safe_int(get_field(pitch_entry, "er", "earnedRuns", "ER")),
+                "er":  safe_int(get_field(pitch_entry, "er", "earnedRunsAllowed", "earnedRuns", "ER")),
                 "bb":  safe_int(get_field(pitch_entry, "bb", "walksAllowed", "BB")),
                 "so":  safe_int(get_field(pitch_entry, "so", "k", "strikeouts", "SO", "K")),
                 "wp":  safe_int(get_field(pitch_entry, "wp", "wildPitches", "WP")),
@@ -277,7 +297,7 @@ def parse_bio_last_game(bio: dict) -> dict | None:
         "date": date_out,
         "opponent": opponent,
         "result": result,
-        "boxscore_url": None,  # bio API does not expose boxscore URLs
+        "boxscore_url": boxscore_url,
         "batting": bat_data,
         "pitching": pitch_data,
     }
@@ -1402,7 +1422,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
         for i, (sp, roster_id) in enumerate(bio_pairs):
             bio = fetch_bio_api(base_url, roster_id, season)
             if bio:
-                lg = parse_bio_last_game(bio)
+                lg = parse_bio_last_game(bio, base_url)
                 if lg:
                     bio_last_game[sp["id"]] = lg
             time.sleep(0.3)
