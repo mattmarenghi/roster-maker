@@ -1436,6 +1436,21 @@ KNOWN_SCHOOLS = {
         "slug": "university-of-florida",
         "school_name": "University of Florida",
     },
+    "tcu": {
+        "base_url": "https://gofrogs.com",
+        "slug": "texas-christian-university",
+        "school_name": "Texas Christian University",
+    },
+    "texas": {
+        "base_url": "https://texassports.com",
+        "slug": "university-of-texas-at-austin",
+        "school_name": "University of Texas at Austin",
+    },
+    "mizzou": {
+        "base_url": "https://mutigers.com",
+        "slug": "university-of-missouri-columbia",
+        "school_name": "University of Missouri, Columbia",
+    },
 }
 
 
