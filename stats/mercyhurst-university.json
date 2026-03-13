@@ -1,0 +1,259 @@
+{
+  "school": "Mercyhurst University",
+  "base_url": "https://www.hurstathletics.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:49:07.691534Z",
+  "record": "1-10",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Central Mich.",
+    "result": "L 14-18",
+    "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+    "recap_url": "https://www.hurstathletics.com/news/2026/3/10/baseball-lakers-come-up-short-in-hard-fought-battle-against-central-michigan_.aspx",
+    "recap_headline": "Mercyhurst University Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "6f705c8f": {
+      "id": "6f705c8f",
+      "name": "Andrew Malec",
+      "fn": "Andrew",
+      "ln": "Malec",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "11.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Central Mich., throwing 4.0 innings. Allowed 1 earned run(s) with 5 strikeout(s)."
+    },
+    "2b33e366": {
+      "id": "2b33e366",
+      "name": "Morgan Shanaman",
+      "fn": "Morgan",
+      "ln": "Shanaman",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "15.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": null
+    },
+    "9a3eff54": {
+      "id": "9a3eff54",
+      "name": "Nolan Kirsh",
+      "fn": "Nolan",
+      "ln": "Kirsh",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "18.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 5,
+          "er": 5,
+          "bb": 4,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Central Mich., throwing 1.0 innings. Allowed 5 earned run(s) with 1 strikeout(s)."
+    },
+    "302696fc": {
+      "id": "302696fc",
+      "name": "Anthony Krause",
+      "fn": "Anthony",
+      "ln": "Krause",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "20.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Central Mich., throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "4b14902e": {
+      "id": "4b14902e",
+      "name": "Peyton Weigand",
+      "fn": "Peyton",
+      "ln": "Weigand",
+      "pos": "LHP",
+      "yr": "Fr.",
+      "num": "28.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 7,
+          "er": 7,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Central Mich., throwing 0.2 innings. Allowed 7 earned run(s) with 2 strikeout(s)."
+    },
+    "69fab142": {
+      "id": "69fab142",
+      "name": "Nate Vargo",
+      "fn": "Nate",
+      "ln": "Vargo",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "30.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Central Mich., throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "90f98a0f": {
+      "id": "90f98a0f",
+      "name": "Noah Ehlers",
+      "fn": "Noah",
+      "ln": "Ehlers",
+      "pos": "UTL",
+      "yr": "Fr.",
+      "num": "35.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 2,
+          "r": 3,
+          "er": 2,
+          "bb": 0,
+          "so": 3,
+          "wp": 1,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against Central Mich., throwing 2.1 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "853f1ade": {
+      "id": "853f1ade",
+      "name": "Jack Malec",
+      "fn": "Jack",
+      "ln": "Malec",
+      "pos": "INF",
+      "yr": "Gr.",
+      "num": "44.0",
+      "school": "Mercyhurst University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Central Mich.",
+        "result": "L 14-18",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15389&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Central Mich., throwing 4.0 innings. Allowed 1 earned run(s) with 5 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

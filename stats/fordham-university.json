@@ -1,0 +1,259 @@
+{
+  "school": "Fordham University",
+  "base_url": "https://www.fordhamsports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:37:41.918674Z",
+  "record": "6-9",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Rutgers",
+    "result": "L 7-8",
+    "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20883&path=baseball",
+    "recap_url": "https://www.fordhamsports.com/news/2026/3/11/baseball-rallies-past-rutgers-8-7.aspx",
+    "recap_headline": "Baseball Rallies Past Rutgers, 8-7",
+    "recap_text": ""
+  },
+  "players": {
+    "26fbfa09": {
+      "id": "26fbfa09",
+      "name": "Aric Berg",
+      "fn": "Aric",
+      "ln": "Berg",
+      "pos": "P",
+      "yr": "",
+      "num": "8.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Cornell",
+        "result": "W 16-11",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20711&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Cornell, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "fcfebee1": {
+      "id": "fcfebee1",
+      "name": "Robbie Stewart",
+      "fn": "Robbie",
+      "ln": "Stewart",
+      "pos": "P",
+      "yr": "",
+      "num": "9.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iona",
+        "result": "W 14-2",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 6,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 4.0 innings. Allowed 1 earned run(s) with 6 strikeout(s)."
+    },
+    "ffcccba0": {
+      "id": "ffcccba0",
+      "name": "Aidan Dowd",
+      "fn": "Aidan",
+      "ln": "Dowd",
+      "pos": "P",
+      "yr": "",
+      "num": "16.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Cornell",
+        "result": "W 16-11",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20711&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 8,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Cornell, throwing 4.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    },
+    "47f31953": {
+      "id": "47f31953",
+      "name": "Andrew Kapica",
+      "fn": "Andrew",
+      "ln": "Kapica",
+      "pos": "P",
+      "yr": "",
+      "num": "22.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iona",
+        "result": "W 14-2",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 2.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+    },
+    "722a873b": {
+      "id": "722a873b",
+      "name": "Ryan Egan",
+      "fn": "Ryan",
+      "ln": "Egan",
+      "pos": "P",
+      "yr": "",
+      "num": "23.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Cornell",
+        "result": "W 16-11",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20711&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Cornell, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "5f28caef": {
+      "id": "5f28caef",
+      "name": "Alec Murray",
+      "fn": "Alec",
+      "ln": "Murray",
+      "pos": "P",
+      "yr": "",
+      "num": "28.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Cornell",
+        "result": "W 16-11",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20711&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 5,
+          "r": 8,
+          "er": 8,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against Cornell, throwing 0.2 innings. Allowed 8 earned run(s) with 0 strikeout(s)."
+    },
+    "b460e801": {
+      "id": "b460e801",
+      "name": "Diego Reilly-Bell",
+      "fn": "Diego",
+      "ln": "Reilly-Bell",
+      "pos": "P",
+      "yr": "",
+      "num": "30.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iona",
+        "result": "W 14-2",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 2.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+    },
+    "0d5f95a9": {
+      "id": "0d5f95a9",
+      "name": "Aidan O'Brien-Gonzalez",
+      "fn": "Aidan",
+      "ln": "O'Brien-Gonzalez",
+      "pos": "P",
+      "yr": "",
+      "num": "40.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iona",
+        "result": "W 14-2",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,319 @@
+{
+  "school": "Utah Valley University",
+  "base_url": "https://www.gouvu.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:32:10.602834Z",
+  "record": "10-7",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Colorado Mesa",
+    "result": "W 6-4",
+    "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+    "recap_url": "https://www.gouvu.com/news/2026/3/11/baseball-wolverines-win-fourth-straight-defeat-colorado-mesa-6-4.aspx",
+    "recap_headline": "Utah Valley University Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "f616b535": {
+      "id": "f616b535",
+      "name": "Garrett Miller",
+      "fn": "Garrett",
+      "ln": "Miller",
+      "pos": "RHP",
+      "yr": "",
+      "num": "12.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Northern Colo.",
+        "result": "W 14-4",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10028&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.2",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northern Colo., throwing 5.2 innings. Struck out 5 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
+    },
+    "4561a894": {
+      "id": "4561a894",
+      "name": "Cohen Baack",
+      "fn": "Cohen",
+      "ln": "Baack",
+      "pos": "RHP",
+      "yr": "",
+      "num": "14.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Colorado Mesa",
+        "result": "W 6-4",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Colorado Mesa, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+    },
+    "f7269892": {
+      "id": "f7269892",
+      "name": "Aaron Rice",
+      "fn": "Aaron",
+      "ln": "Rice",
+      "pos": "RHP",
+      "yr": "",
+      "num": "15.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Colorado Mesa",
+        "result": "W 6-4",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Colorado Mesa, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "0b0d5930": {
+      "id": "0b0d5930",
+      "name": "Jacob Beltran",
+      "fn": "Jacob",
+      "ln": "Beltran",
+      "pos": "RHP",
+      "yr": "",
+      "num": "17.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Colorado Mesa",
+        "result": "W 6-4",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Colorado Mesa, throwing 0.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "49ac2dd7": {
+      "id": "49ac2dd7",
+      "name": "Jacob Heppner",
+      "fn": "Jacob",
+      "ln": "Heppner",
+      "pos": "LHP",
+      "yr": "",
+      "num": "24.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Colorado Mesa",
+        "result": "W 6-4",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Colorado Mesa, throwing 4.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
+    },
+    "0dd8b623": {
+      "id": "0dd8b623",
+      "name": "Ray Hernandez",
+      "fn": "Ray",
+      "ln": "Hernandez",
+      "pos": "RHP",
+      "yr": "",
+      "num": "25.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Northern Colo.",
+        "result": "W 5-1",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10029&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 1,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northern Colo., throwing 4.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "b878b4b3": {
+      "id": "b878b4b3",
+      "name": "Cooper Littledike",
+      "fn": "Cooper",
+      "ln": "Littledike",
+      "pos": "RHP",
+      "yr": "",
+      "num": "28.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Northern Colo.",
+        "result": "W 5-1",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10029&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northern Colo., throwing 2.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "7ba550ea": {
+      "id": "7ba550ea",
+      "name": "Trey Jacobsen",
+      "fn": "Trey",
+      "ln": "Jacobsen",
+      "pos": "RHP",
+      "yr": "",
+      "num": "32.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Northern Colo.",
+        "result": "W 5-1",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10029&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northern Colo., throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "98c9d850": {
+      "id": "98c9d850",
+      "name": "Chance Wallace",
+      "fn": "Chance",
+      "ln": "Wallace",
+      "pos": "LHP",
+      "yr": "",
+      "num": "41.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Colorado Mesa",
+        "result": "W 6-4",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Colorado Mesa, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "4215307b": {
+      "id": "4215307b",
+      "name": "Maddax Peck",
+      "fn": "Maddax",
+      "ln": "Peck",
+      "pos": "RHP",
+      "yr": "",
+      "num": "55.0",
+      "school": "Utah Valley University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Colorado Mesa",
+        "result": "W 6-4",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Colorado Mesa, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

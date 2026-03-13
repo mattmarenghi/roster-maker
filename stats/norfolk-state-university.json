@@ -1,0 +1,319 @@
+{
+  "school": "Norfolk State University",
+  "base_url": "https://www.nsuspartans.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:54:13.932928Z",
+  "record": "2-13",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "VMI",
+    "result": "L 10-15",
+    "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7730&path=baseball",
+    "recap_url": "https://www.nsuspartans.com/news/2026/3/11/baseball-spartans-hit-three-home-runs-fall-to-vmi-in-midweek-action.aspx",
+    "recap_headline": "Norfolk State University Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "4d5be9e7": {
+      "id": "4d5be9e7",
+      "name": "Ryan Sellers",
+      "fn": "Ryan",
+      "ln": "Sellers",
+      "pos": "RHP",
+      "yr": "",
+      "num": "8.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Navy",
+        "result": "L 8-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7729&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 9,
+          "r": 8,
+          "er": 5,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 2.0 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+    },
+    "e1a6e4de": {
+      "id": "e1a6e4de",
+      "name": "Yasseel Samboy",
+      "fn": "Yasseel",
+      "ln": "Samboy",
+      "pos": "INF / OF / C",
+      "yr": "",
+      "num": "10.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "VMI",
+        "result": "L 10-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7730&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against VMI, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "2c922b40": {
+      "id": "2c922b40",
+      "name": "Tyler Mitchell",
+      "fn": "Tyler",
+      "ln": "Mitchell",
+      "pos": "RHP",
+      "yr": "",
+      "num": "16.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "VMI",
+        "result": "L 10-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7730&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against VMI, throwing 2.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "f54e9709": {
+      "id": "f54e9709",
+      "name": "Sean Harris-Walter",
+      "fn": "Sean",
+      "ln": "Harris-Walter",
+      "pos": "RHP",
+      "yr": "",
+      "num": "21.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "VMI",
+        "result": "L 10-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7730&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against VMI, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "b922295e": {
+      "id": "b922295e",
+      "name": "Nyenati Snoh",
+      "fn": "Nyenati",
+      "ln": "Snoh",
+      "pos": "RHP",
+      "yr": "",
+      "num": "22.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "VMI",
+        "result": "L 10-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7730&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 5,
+          "r": 6,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against VMI, throwing 1.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+    },
+    "0ef0c76f": {
+      "id": "0ef0c76f",
+      "name": "Myles Crocker",
+      "fn": "Myles",
+      "ln": "Crocker",
+      "pos": "OF/LHP",
+      "yr": "",
+      "num": "26.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Navy",
+        "result": "L 8-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7729&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 4,
+          "r": 6,
+          "er": 6,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 1.1 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
+    },
+    "c98d36e9": {
+      "id": "c98d36e9",
+      "name": "CJ Patterson",
+      "fn": "CJ",
+      "ln": "Patterson",
+      "pos": "RHP",
+      "yr": "",
+      "num": "27.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Navy",
+        "result": "L 8-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7729&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "e8e2a807": {
+      "id": "e8e2a807",
+      "name": "Donovan Whitfield",
+      "fn": "Donovan",
+      "ln": "Whitfield",
+      "pos": "RHP",
+      "yr": "",
+      "num": "30.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Navy",
+        "result": "L 8-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7729&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "756fe65f": {
+      "id": "756fe65f",
+      "name": "Josiah Harrison",
+      "fn": "Josiah",
+      "ln": "Harrison",
+      "pos": "RHP / OF",
+      "yr": "",
+      "num": "32.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "VMI",
+        "result": "L 10-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7730&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 4,
+          "er": 2,
+          "bb": 3,
+          "so": 3,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against VMI, throwing 1.1 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "0fb35ddb": {
+      "id": "0fb35ddb",
+      "name": "James Godfrey",
+      "fn": "James",
+      "ln": "Godfrey",
+      "pos": "RHP",
+      "yr": "",
+      "num": "40.0",
+      "school": "Norfolk State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "VMI",
+        "result": "L 10-15",
+        "boxscore_url": "https://www.nsuspartans.com/boxscore.aspx?id=7730&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 4,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against VMI, throwing 2.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,319 @@
+{
+  "school": "University of Texas at Arlington",
+  "base_url": "https://www.utamavs.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:29:00.212613Z",
+  "record": "5-11",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Oklahoma",
+    "result": "W 6-1",
+    "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21031&path=baseball",
+    "recap_url": "https://www.utamavs.com/news/2026/3/11/baseball-no-9-oklahoma-defeats-ut-arlington-in-midweek-matchup.aspx",
+    "recap_headline": "University of Texas Arlington Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "2ba1ce4f": {
+      "id": "2ba1ce4f",
+      "name": "Jacob Havern",
+      "fn": "Jacob",
+      "ln": "Havern",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "17.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "ULM",
+        "result": "L 2-12",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 2,
+          "r": 4,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "131ae09b": {
+      "id": "131ae09b",
+      "name": "Danny Valadez",
+      "fn": "Danny",
+      "ln": "Valadez",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "20.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "ULM",
+        "result": "L 2-12",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "b1de8aeb": {
+      "id": "b1de8aeb",
+      "name": "Merek Sears",
+      "fn": "Merek",
+      "ln": "Sears",
+      "pos": "LHP",
+      "yr": "Sr.",
+      "num": "21.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "ULM",
+        "result": "L 2-12",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "1c189a0c": {
+      "id": "1c189a0c",
+      "name": "Zach Evans",
+      "fn": "Zach",
+      "ln": "Evans",
+      "pos": "RHP/INF",
+      "yr": "Fr.",
+      "num": "23.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "ULM",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21029&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 2.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "4082e8fc": {
+      "id": "4082e8fc",
+      "name": "Jacob Gabler",
+      "fn": "Jacob",
+      "ln": "Gabler",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "27.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "ULM",
+        "result": "L 2-12",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "d9328aef": {
+      "id": "d9328aef",
+      "name": "Kyle Winkler",
+      "fn": "Kyle",
+      "ln": "Winkler",
+      "pos": "LHP",
+      "yr": "Sr.",
+      "num": "31.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "ULM",
+        "result": "L 2-12",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "c9bd4469": {
+      "id": "c9bd4469",
+      "name": "Nick Perry",
+      "fn": "Nick",
+      "ln": "Perry",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "32.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "ULM",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21029&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 4.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+    },
+    "c12bf3f9": {
+      "id": "c12bf3f9",
+      "name": "Dylan Skolfield",
+      "fn": "Dylan",
+      "ln": "Skolfield",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "34.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "ULM",
+        "result": "L 2-12",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 6,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 1.2 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+    },
+    "81d2721d": {
+      "id": "81d2721d",
+      "name": "Jack Barr",
+      "fn": "Jack",
+      "ln": "Barr",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "39.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "ULM",
+        "result": "L 2-12",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21030&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "53fd7feb": {
+      "id": "53fd7feb",
+      "name": "Landon Murphy",
+      "fn": "Landon",
+      "ln": "Murphy",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "99.0",
+      "school": "University of Texas at Arlington",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "ULM",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21029&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 8,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against ULM, throwing 3.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

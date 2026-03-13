@@ -1,0 +1,18 @@
+{
+  "school": "Prairie View A&M University",
+  "base_url": "https://www.pvpanthers.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:58:03.686767Z",
+  "record": "4-11",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Stetson",
+    "result": "W 16-6",
+    "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10413&path=baseball",
+    "recap_url": "https://www.pvpanthers.com/news/2026/3/11/baseball-duson-totals-3-hits-in-prairie-view-ams-loss-to-stetson.aspx",
+    "recap_headline": "Prairie View A&M University Athletics",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

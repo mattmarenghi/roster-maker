@@ -1,0 +1,229 @@
+{
+  "school": "Belmont University",
+  "base_url": "https://www.belmontbruins.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:24:04.394804Z",
+  "record": "7-10",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Tennessee Tech",
+    "result": "L 7-11",
+    "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7013&path=",
+    "recap_url": "https://www.belmontbruins.com/news/2026/3/11/baseball-power-past-tennessee-tech-behind-holbrooks-big-day.aspx",
+    "recap_headline": "Baseball Power Past Tennessee Tech Behind Holbrook\u2019s Big Day",
+    "recap_text": ""
+  },
+  "players": {
+    "7ca4f2d5": {
+      "id": "7ca4f2d5",
+      "name": "Charlie Davis",
+      "fn": "Charlie",
+      "ln": "Davis",
+      "pos": "INF",
+      "yr": "Sr.",
+      "num": "8.0",
+      "school": "Belmont University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Tennessee Tech",
+        "result": "L 7-11",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7013&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee Tech, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "8b84a794": {
+      "id": "8b84a794",
+      "name": "Owen Marsh",
+      "fn": "Owen",
+      "ln": "Marsh",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "17.0",
+      "school": "Belmont University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Wofford",
+        "result": "L 1-11",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7012&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 1.1 innings. Allowed 5 earned run(s) with 0 strikeout(s)."
+    },
+    "78ce1408": {
+      "id": "78ce1408",
+      "name": "Zane Brown",
+      "fn": "Zane",
+      "ln": "Brown",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "18.0",
+      "school": "Belmont University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Wofford",
+        "result": "L 1-11",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7012&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 3.0 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+    },
+    "a4cd6615": {
+      "id": "a4cd6615",
+      "name": "Ridge Harvey",
+      "fn": "Ridge",
+      "ln": "Harvey",
+      "pos": "LHP",
+      "yr": "Fr.",
+      "num": "20.0",
+      "school": "Belmont University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Wofford",
+        "result": "L 1-11",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7012&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "b3c5bc7b": {
+      "id": "b3c5bc7b",
+      "name": "Owen Cavey",
+      "fn": "Owen",
+      "ln": "Cavey",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "27.0",
+      "school": "Belmont University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Wofford",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7240&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 5,
+          "r": 2,
+          "er": 1,
+          "bb": 0,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 5.0 innings. Struck out 5 while allowing just 5 hit(s) and 1 earned run(s) in a quality start."
+    },
+    "4cc788f0": {
+      "id": "4cc788f0",
+      "name": "McKale Stevenson",
+      "fn": "McKale",
+      "ln": "Stevenson",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "28.0",
+      "school": "Belmont University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Wofford",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7240&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "55bfd16f": {
+      "id": "55bfd16f",
+      "name": "Lake Morris",
+      "fn": "Lake",
+      "ln": "Morris",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "33.0",
+      "school": "Belmont University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Wofford",
+        "result": "L 1-11",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7012&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,18 @@
+{
+  "school": "Arkansas State University",
+  "base_url": "https://www.astateredwolves.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:22:26.927472Z",
+  "record": "13-5",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Little Rock",
+    "result": "L 5-12",
+    "boxscore_url": "https://www.astateredwolves.com/boxscore.aspx?id=8729&path=baseball",
+    "recap_url": "https://www.astateredwolves.com/news/2026/3/10/baseball-a-state-surges-with-six-runs-in-the-ninth-to-12-5-victory-over-little-rock.aspx",
+    "recap_headline": "Arkansas State University",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

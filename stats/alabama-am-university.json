@@ -1,0 +1,18 @@
+{
+  "school": "Alabama A&M University",
+  "base_url": "https://www.aamusports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:21:20.326482Z",
+  "record": "5-13",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Samford",
+    "result": "W 6-4",
+    "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8801&path=baseball",
+    "recap_url": "https://www.aamusports.com/news/2026/3/10/baseball-fields-belts-homer-drives-in-three-in-loss-to-samford.aspx",
+    "recap_headline": "Alabama A&M Athletics",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

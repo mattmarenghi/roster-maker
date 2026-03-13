@@ -1459,22 +1459,25 @@ def main():
     parser.add_argument("--school", default="davidson", help="School shortname (e.g. davidson, ucsb, stanford)")
     parser.add_argument("--base-url", help="Override base URL")
     parser.add_argument("--slug", help="Override output file slug")
+    parser.add_argument("--school-name", help="Exact school name (for player matching)")
     parser.add_argument("--season", default="2026", help="Season year (default: 2026)")
     parser.add_argument("--max-games-back", type=int, default=5,
                         help="Max box scores to scan for per-player last-game (default: 5)")
+    parser.add_argument("--no-season-url", action="store_true",
+                        help="Omit season year from stats URL")
     args = parser.parse_args()
 
     if args.school in KNOWN_SCHOOLS:
         cfg = KNOWN_SCHOOLS[args.school]
         base_url = args.base_url or cfg["base_url"]
         slug = args.slug or cfg["slug"]
-        school_name = cfg.get("school_name", "")
-        no_season = cfg.get("stats_url_no_season", False)
+        school_name = args.school_name or cfg.get("school_name", "")
+        no_season = args.no_season_url or cfg.get("stats_url_no_season", False)
     else:
         base_url = args.base_url
         slug = args.slug or args.school
-        school_name = ""
-        no_season = False
+        school_name = args.school_name or ""
+        no_season = args.no_season_url
         if not base_url:
             print(f"Unknown school '{args.school}'. Provide --base-url.", file=sys.stderr)
             sys.exit(1)

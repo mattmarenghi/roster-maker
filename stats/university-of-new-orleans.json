@@ -1,0 +1,409 @@
+{
+  "school": "University of New Orleans",
+  "base_url": "https://www.unoprivateers.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:22:26.076191Z",
+  "record": "8-10",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Mississippi Val.",
+    "result": "L 7-9",
+    "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12769&path=baseball",
+    "recap_url": "https://www.unoprivateers.com/news/2026/3/11/baseball-eighth-inning-home-run-vaults-mississippi-valley-state-past-privateers.aspx",
+    "recap_headline": "Eighth Inning Home Run Vaults Mississippi Valley State Past Privateers",
+    "recap_text": ""
+  },
+  "players": {
+    "06ddda52": {
+      "id": "06ddda52",
+      "name": "Luke Lycette",
+      "fn": "Luke",
+      "ln": "Lycette",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "2.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Mississippi Val.",
+        "result": "L 7-9",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12769&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "73d9aa6f": {
+      "id": "73d9aa6f",
+      "name": "Evan Rogers",
+      "fn": "Evan",
+      "ln": "Rogers",
+      "pos": "INF",
+      "yr": "R-Jr.",
+      "num": "4.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Mississippi Val.",
+        "result": "W 14-0",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12654&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "70292a8a": {
+      "id": "70292a8a",
+      "name": "Tyler Velino",
+      "fn": "Tyler",
+      "ln": "Velino",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "5.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Mississippi Val.",
+        "result": "L 7-9",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12769&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 3.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "355a244d": {
+      "id": "355a244d",
+      "name": "JB Landrum",
+      "fn": "JB",
+      "ln": "Landrum",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "6.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Mississippi Val.",
+        "result": "L 7-9",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12769&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 4,
+          "r": 5,
+          "er": 3,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 0.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+    },
+    "8fbfdc44": {
+      "id": "8fbfdc44",
+      "name": "Myles Green",
+      "fn": "Myles",
+      "ln": "Green",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "19.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Mississippi Val.",
+        "result": "W 14-0",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12654&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "4a06cb09": {
+      "id": "4a06cb09",
+      "name": "Rex Henderson",
+      "fn": "Rex",
+      "ln": "Henderson",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "30.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Mississippi Val.",
+        "result": "W 14-0",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12654&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 4.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "46c1f885": {
+      "id": "46c1f885",
+      "name": "Jack Garvey",
+      "fn": "Jack",
+      "ln": "Garvey",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "32.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Mississippi Val.",
+        "result": "L 7-9",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12769&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 4,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.1 innings. Allowed 3 earned run(s) with 4 strikeout(s)."
+    },
+    "c68b369d": {
+      "id": "c68b369d",
+      "name": "Skylar Jones",
+      "fn": "Skylar",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "R-Sr.",
+      "num": "34.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Mississippi Val.",
+        "result": "W 14-0",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12654&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "8fdfc24a": {
+      "id": "8fdfc24a",
+      "name": "Ethan Hunt",
+      "fn": "Ethan",
+      "ln": "Hunt",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "35.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Mississippi Val.",
+        "result": "L 7-9",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12769&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "224e7839": {
+      "id": "224e7839",
+      "name": "Gus Rogers",
+      "fn": "Gus",
+      "ln": "Rogers",
+      "pos": "LHP",
+      "yr": "Sr.",
+      "num": "43.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Mississippi Val.",
+        "result": "W 14-0",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12654&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "0ad7f8ea": {
+      "id": "0ad7f8ea",
+      "name": "Brock Hill",
+      "fn": "Brock",
+      "ln": "Hill",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "44.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Mississippi Val.",
+        "result": "W 14-0",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12654&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "baf6c581": {
+      "id": "baf6c581",
+      "name": "Logan Waldschmidt",
+      "fn": "Logan",
+      "ln": "Waldschmidt",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "45.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Mississippi Val.",
+        "result": "L 7-9",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12769&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "d14ca1dd": {
+      "id": "d14ca1dd",
+      "name": "Luke Hymel",
+      "fn": "Luke",
+      "ln": "Hymel",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "50.0",
+      "school": "University of New Orleans",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Mississippi Val.",
+        "result": "W 14-0",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12654&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.2 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,319 @@
+{
+  "school": "The University of North Carolina at Greensboro",
+  "base_url": "https://www.uncgspartans.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:09:37.294390Z",
+  "record": "7-11",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "North Carolina AT",
+    "result": "L 7-9",
+    "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9876&path=baseball",
+    "recap_url": "https://www.uncgspartans.com/news/2026/3/11/baseball-completes-sweep-over-n-c-a-t.aspx",
+    "recap_headline": "UNC Greensboro",
+    "recap_text": ""
+  },
+  "players": {
+    "b927b9ba": {
+      "id": "b927b9ba",
+      "name": "Grant Aycock",
+      "fn": "Grant",
+      "ln": "Aycock",
+      "pos": "IF/RHP",
+      "yr": "Sr.",
+      "num": "6.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Quinnipiac",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9874&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 1,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Quinnipiac, throwing 2.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "3e073bb4": {
+      "id": "3e073bb4",
+      "name": "Cannon Lee",
+      "fn": "Cannon",
+      "ln": "Lee",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "19.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Quinnipiac",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9874&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Quinnipiac, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "9b98a7e4": {
+      "id": "9b98a7e4",
+      "name": "Thomas Hester",
+      "fn": "Thomas",
+      "ln": "Hester",
+      "pos": "LHP",
+      "yr": "Fr.",
+      "num": "22.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Liberty",
+        "result": "L 10-12",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9875&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 2.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+    },
+    "ca0c4d61": {
+      "id": "ca0c4d61",
+      "name": "Hunter Shuey",
+      "fn": "Hunter",
+      "ln": "Shuey",
+      "pos": "RHP",
+      "yr": "R-Sr.",
+      "num": "23.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Quinnipiac",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9874&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 5,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 10,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Quinnipiac, throwing 6.0 innings. Struck out 10 while allowing just 5 hit(s) and 1 earned run(s) in a quality start."
+    },
+    "9f1482d7": {
+      "id": "9f1482d7",
+      "name": "Isaac Miles",
+      "fn": "Isaac",
+      "ln": "Miles",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "24.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Liberty",
+        "result": "L 10-12",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9875&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 2.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+    },
+    "2210aefb": {
+      "id": "2210aefb",
+      "name": "Luke Thomas",
+      "fn": "Luke",
+      "ln": "Thomas",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "27.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Quinnipiac",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9874&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Quinnipiac, throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "90150cb2": {
+      "id": "90150cb2",
+      "name": "Ayden West",
+      "fn": "Ayden",
+      "ln": "West",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "29.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Quinnipiac",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9874&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "838f90d7": {
+      "id": "838f90d7",
+      "name": "John Horton",
+      "fn": "John",
+      "ln": "Horton",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "31.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Liberty",
+        "result": "L 10-12",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9875&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "83bc7a2b": {
+      "id": "83bc7a2b",
+      "name": "JT Weaver",
+      "fn": "JT",
+      "ln": "Weaver",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "35.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Liberty",
+        "result": "L 10-12",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9875&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "287e031e": {
+      "id": "287e031e",
+      "name": "Jake Colucci",
+      "fn": "Jake",
+      "ln": "Colucci",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "39.0",
+      "school": "The University of North Carolina at Greensboro",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Liberty",
+        "result": "L 10-12",
+        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9875&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 2,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 3.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

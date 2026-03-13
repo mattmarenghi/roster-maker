@@ -1,0 +1,289 @@
+{
+  "school": "Florida International University",
+  "base_url": "https://www.fiusports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:37:02.795903Z",
+  "record": "7-11",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "FGCU",
+    "result": "L 6-11",
+    "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
+  },
+  "players": {
+    "4ce31579": {
+      "id": "4ce31579",
+      "name": "Enrique Sierra",
+      "fn": "Enrique",
+      "ln": "Sierra",
+      "pos": "RHP",
+      "yr": "",
+      "num": "7.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "e5aacec0": {
+      "id": "e5aacec0",
+      "name": "Brennan Confreda",
+      "fn": "Brennan",
+      "ln": "Confreda",
+      "pos": "LHP",
+      "yr": "",
+      "num": "18.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "9a9286de": {
+      "id": "9a9286de",
+      "name": "George Adams",
+      "fn": "George",
+      "ln": "Adams",
+      "pos": "LHP",
+      "yr": "",
+      "num": "19.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Fla. Atlantic",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14098&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 5,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 8,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Fla. Atlantic, throwing 5.0 innings. Struck out 8 while allowing just 5 hit(s) and 3 earned run(s) in a quality start."
+    },
+    "cb647583": {
+      "id": "cb647583",
+      "name": "Jordan Vargas",
+      "fn": "Jordan",
+      "ln": "Vargas",
+      "pos": "RHP",
+      "yr": "",
+      "num": "27.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 6,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 1.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "23c80e2e": {
+      "id": "23c80e2e",
+      "name": "Jarek Woodward",
+      "fn": "Jarek",
+      "ln": "Woodward",
+      "pos": "RHP",
+      "yr": "",
+      "num": "28.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 7,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 2.1 innings. Allowed 5 earned run(s) with 0 strikeout(s)."
+    },
+    "bac5a693": {
+      "id": "bac5a693",
+      "name": "Mason Koczwara",
+      "fn": "Mason",
+      "ln": "Koczwara",
+      "pos": "RHP",
+      "yr": "",
+      "num": "31.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "5657b215": {
+      "id": "5657b215",
+      "name": "Tyrus Riley",
+      "fn": "Tyrus",
+      "ln": "Riley",
+      "pos": "RHP",
+      "yr": "",
+      "num": "34.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "720201a9": {
+      "id": "720201a9",
+      "name": "Clayton Sherwood",
+      "fn": "Clayton",
+      "ln": "Sherwood",
+      "pos": "RHP",
+      "yr": "",
+      "num": "44.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": null
+    },
+    "54a1564e": {
+      "id": "54a1564e",
+      "name": "Bryce Turner",
+      "fn": "Bryce",
+      "ln": "Turner",
+      "pos": "RHP",
+      "yr": "",
+      "num": "46.0",
+      "school": "Florida International University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "FGCU",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 0.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

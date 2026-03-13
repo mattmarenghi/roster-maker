@@ -1,0 +1,229 @@
+{
+  "school": "Elon University",
+  "base_url": "https://www.elonphoenix.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:35:48.090040Z",
+  "record": "9-7",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "NC State",
+    "result": "L 0-2",
+    "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9602&path=baseball",
+    "recap_url": "https://www.elonphoenix.com/news/2026/3/10/baseball-elon-shuts-out-no-10-nc-state.aspx",
+    "recap_headline": "Elon University Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "4cbd8492": {
+      "id": "4cbd8492",
+      "name": "Hank Krift",
+      "fn": "Hank",
+      "ln": "Krift",
+      "pos": "RHP",
+      "yr": "",
+      "num": "3.0",
+      "school": "Elon University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "North Carolina AT",
+        "result": "W 11-8",
+        "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9601&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Carolina AT, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+    },
+    "e9b20664": {
+      "id": "e9b20664",
+      "name": "Cole Hansen",
+      "fn": "Cole",
+      "ln": "Hansen",
+      "pos": "RHP",
+      "yr": "",
+      "num": "8.0",
+      "school": "Elon University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "North Carolina AT",
+        "result": "W 11-8",
+        "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9601&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 8,
+          "r": 5,
+          "er": 5,
+          "bb": 0,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Carolina AT, throwing 5.0 innings. Struck out 5 while allowing just 8 hit(s) and 5 earned run(s) in a quality start."
+    },
+    "1509f6fc": {
+      "id": "1509f6fc",
+      "name": "RJ Latkowski",
+      "fn": "RJ",
+      "ln": "Latkowski",
+      "pos": "RHP",
+      "yr": "",
+      "num": "16.0",
+      "school": "Elon University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "North Carolina AT",
+        "result": "W 11-8",
+        "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9601&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Carolina AT, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "a7e07f4d": {
+      "id": "a7e07f4d",
+      "name": "Nic Harris",
+      "fn": "Nic",
+      "ln": "Harris",
+      "pos": "RHP",
+      "yr": "",
+      "num": "27.0",
+      "school": "Elon University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "NC State",
+        "result": "L 0-2",
+        "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9602&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against NC State, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "723d0c04": {
+      "id": "723d0c04",
+      "name": "Sam Nomura",
+      "fn": "Sam",
+      "ln": "Nomura",
+      "pos": "RHP",
+      "yr": "",
+      "num": "30.0",
+      "school": "Elon University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "North Carolina AT",
+        "result": "W 11-8",
+        "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9601&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Carolina AT, throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "d8ed9561": {
+      "id": "d8ed9561",
+      "name": "Mike Staiano",
+      "fn": "Mike",
+      "ln": "Staiano",
+      "pos": "LHP",
+      "yr": "",
+      "num": "31.0",
+      "school": "Elon University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "North Carolina AT",
+        "result": "W 8-3",
+        "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9600&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Carolina AT, throwing 4.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+    },
+    "a7d85b34": {
+      "id": "a7d85b34",
+      "name": "Aidan Stieglitz",
+      "fn": "Aidan",
+      "ln": "Stieglitz",
+      "pos": "RHP",
+      "yr": "",
+      "num": "42.0",
+      "school": "Elon University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "North Carolina AT",
+        "result": "W 8-3",
+        "boxscore_url": "https://www.elonphoenix.com/boxscore.aspx?id=9600&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 7,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 4,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Carolina AT, throwing 5.0 innings. Struck out 4 while allowing just 7 hit(s) and 3 earned run(s) in a quality start."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

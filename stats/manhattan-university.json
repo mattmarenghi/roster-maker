@@ -1,0 +1,18 @@
+{
+  "school": "Manhattan University",
+  "base_url": "https://www.gojaspers.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:47:31.304321Z",
+  "record": "6-8",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "FDU",
+    "result": "W 15-12",
+    "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11815&path=baseball",
+    "recap_url": "https://www.gojaspers.com/news/2026/3/10/baseballs-comeback-effort-falls-short-at-fdu.aspx",
+    "recap_headline": "Baseball\u2019s Comeback Effort Falls Short at FDU",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

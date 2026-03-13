@@ -1,0 +1,18 @@
+{
+  "school": "University of Maryland Eastern Shore",
+  "base_url": "https://umeshawksports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:19:20.109833Z",
+  "record": "1-12",
+  "most_recent_game": {
+    "date": "2026-03-09",
+    "opponent": "Central Conn. St.",
+    "result": "W 13-6",
+    "boxscore_url": "https://umeshawksports.com/boxscore.aspx?id=15769&path=baseball",
+    "recap_url": "https://umeshawksports.com/news/2026/3/9/baseball-hawks-homer-twice-fall-to-blue-devils-6-13-in-series-finale.aspx",
+    "recap_headline": "Hawk Athletics#SOARABOVEANDBEYOND",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

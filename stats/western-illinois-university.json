@@ -1,0 +1,18 @@
+{
+  "school": "Western Illinois University",
+  "base_url": "https://www.goleathernecks.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:34:54.051692Z",
+  "record": "4-13",
+  "most_recent_game": {
+    "date": "2026-03-12",
+    "opponent": "Illinois St.",
+    "result": "W 7-6",
+    "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14618&path=baseball",
+    "recap_url": "https://www.goleathernecks.com/news/2026/3/12/leatherneck-baseball-to-wrap-up-week-facing-illinois-state.aspx",
+    "recap_headline": "Western Illinois University Athletics",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

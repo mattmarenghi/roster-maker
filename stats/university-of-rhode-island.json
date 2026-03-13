@@ -1,0 +1,319 @@
+{
+  "school": "University of Rhode Island",
+  "base_url": "https://www.gorhody.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:26:05.121379Z",
+  "record": "2-12",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "New Haven",
+    "result": "W 11-0",
+    "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+    "recap_url": "https://www.gorhody.com/news/2026/3/10/baseball-henschel-leads-rams-to-home-opening-shutout-over-new-haven.aspx",
+    "recap_headline": "University of Rhode Island",
+    "recap_text": ""
+  },
+  "players": {
+    "ebe9ba1c": {
+      "id": "ebe9ba1c",
+      "name": "Manny Santos",
+      "fn": "Manny",
+      "ln": "Santos",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "9.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "2b829d16": {
+      "id": "2b829d16",
+      "name": "Parker Aikens",
+      "fn": "Parker",
+      "ln": "Aikens",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "12.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "ed8c70d9": {
+      "id": "ed8c70d9",
+      "name": "Colin Maloney",
+      "fn": "Colin",
+      "ln": "Maloney",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "14.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "483abc8b": {
+      "id": "483abc8b",
+      "name": "Evan Maloney",
+      "fn": "Evan",
+      "ln": "Maloney",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "19.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "8c19b45c": {
+      "id": "8c19b45c",
+      "name": "Connor Grotyohann",
+      "fn": "Connor",
+      "ln": "Grotyohann",
+      "pos": "OF/RHP",
+      "yr": "R-Jr.",
+      "num": "21.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "9080d9ac": {
+      "id": "9080d9ac",
+      "name": "Dorsy Asencio",
+      "fn": "Dorsy",
+      "ln": "Asencio",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "23.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "5a98d4e6": {
+      "id": "5a98d4e6",
+      "name": "Jake Cullen",
+      "fn": "Jake",
+      "ln": "Cullen",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "31.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "66369daa": {
+      "id": "66369daa",
+      "name": "Josh Kopetski",
+      "fn": "Josh",
+      "ln": "Kopetski",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "38.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "fad2f598": {
+      "id": "fad2f598",
+      "name": "AJ Jones",
+      "fn": "AJ",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "40.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "a0146a8d": {
+      "id": "a0146a8d",
+      "name": "Luc Lavigueur",
+      "fn": "Luc",
+      "ln": "Lavigueur",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "44.0",
+      "school": "University of Rhode Island",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

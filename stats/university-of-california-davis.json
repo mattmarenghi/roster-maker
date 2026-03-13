@@ -1,0 +1,18 @@
+{
+  "school": "University of California, Davis",
+  "base_url": "https://www.ucdavisaggies.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:13:58.292427Z",
+  "record": "7-8",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "UC Riverside",
+    "result": "L 3-7",
+    "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28961&path=baseball",
+    "recap_url": "https://www.ucdavisaggies.com/news/2026/3/8/baseball-aggies-claim-series-victory-with-7-3-win-over-uc-riverside.aspx",
+    "recap_headline": "UC Davis Athletics",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

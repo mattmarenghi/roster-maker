@@ -1,0 +1,229 @@
+{
+  "school": "High Point University",
+  "base_url": "https://www.highpointpanthers.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:39:45.860208Z",
+  "record": "10-7",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Blue Devils",
+    "result": "W 12-6",
+    "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+    "recap_url": "https://www.highpointpanthers.com/news/2026/3/10/baseball-panthers-defeat-blue-devils-on-tuesday-night.aspx",
+    "recap_headline": "High Point University Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "4339bfcc": {
+      "id": "4339bfcc",
+      "name": "Justin Silverstein",
+      "fn": "Justin",
+      "ln": "Silverstein",
+      "pos": "P",
+      "yr": "So.",
+      "num": "",
+      "school": "High Point University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Blue Devils",
+        "result": "W 12-6",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Blue Devils, throwing 0.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "e0b39e5b": {
+      "id": "e0b39e5b",
+      "name": "Noah Zimmerman",
+      "fn": "Noah",
+      "ln": "Zimmerman",
+      "pos": "P",
+      "yr": "Jr.",
+      "num": "",
+      "school": "High Point University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Blue Devils",
+        "result": "W 12-6",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Blue Devils, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+    },
+    "ce2a4dd8": {
+      "id": "ce2a4dd8",
+      "name": "Dom LaDuke",
+      "fn": "Dom",
+      "ln": "LaDuke",
+      "pos": "P",
+      "yr": "Jr.",
+      "num": "",
+      "school": "High Point University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Blue Devils",
+        "result": "W 12-6",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Blue Devils, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "0c23ac40": {
+      "id": "0c23ac40",
+      "name": "Mateo Wells",
+      "fn": "Mateo",
+      "ln": "Wells",
+      "pos": "P",
+      "yr": "So.",
+      "num": "",
+      "school": "High Point University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Blue Devils",
+        "result": "W 12-6",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Blue Devils, throwing 2.2 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+    },
+    "f39a9256": {
+      "id": "f39a9256",
+      "name": "Dalton Hitt",
+      "fn": "Dalton",
+      "ln": "Hitt",
+      "pos": "P",
+      "yr": "Gr.",
+      "num": "",
+      "school": "High Point University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Blue Devils",
+        "result": "W 12-6",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Blue Devils, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "f641c571": {
+      "id": "f641c571",
+      "name": "Charlie Jones",
+      "fn": "Charlie",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "",
+      "school": "High Point University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Blue Devils",
+        "result": "W 12-6",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Blue Devils, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+    },
+    "5a80aed9": {
+      "id": "5a80aed9",
+      "name": "Howell Polk",
+      "fn": "Howell",
+      "ln": "Polk",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "",
+      "school": "High Point University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Blue Devils",
+        "result": "W 12-6",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16105&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Blue Devils, throwing 0.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

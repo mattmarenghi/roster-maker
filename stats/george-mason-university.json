@@ -1,0 +1,169 @@
+{
+  "school": "George Mason University",
+  "base_url": "https://gomason.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:38:02.770996Z",
+  "record": "6-8",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Longwood",
+    "result": "W 11-1",
+    "boxscore_url": "https://gomason.com/boxscore.aspx?id=13938&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
+  },
+  "players": {
+    "16af331a": {
+      "id": "16af331a",
+      "name": "Diego Cardenas",
+      "fn": "Diego",
+      "ln": "Cardenas",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Georgetown",
+        "result": "L 4-5",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgetown, throwing 4.0 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
+    },
+    "e9f81973": {
+      "id": "e9f81973",
+      "name": "Jake Drumm",
+      "fn": "Jake",
+      "ln": "Drumm",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Georgetown",
+        "result": "L 4-5",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgetown, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "883ee04a": {
+      "id": "883ee04a",
+      "name": "Carter Kelsey",
+      "fn": "Carter",
+      "ln": "Kelsey",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Georgetown",
+        "result": "L 4-5",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgetown, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "296ca955": {
+      "id": "296ca955",
+      "name": "Shaun Okeeffe",
+      "fn": "Shaun",
+      "ln": "Okeeffe",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Georgetown",
+        "result": "L 4-5",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgetown, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "aac1f3d3": {
+      "id": "aac1f3d3",
+      "name": "Aiden Parker",
+      "fn": "Aiden",
+      "ln": "Parker",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Georgetown",
+        "result": "L 4-5",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgetown, throwing 2.2 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

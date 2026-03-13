@@ -1,0 +1,319 @@
+{
+  "school": "Queens University of Charlotte",
+  "base_url": "https://www.queensathletics.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:59:13.397975Z",
+  "record": "4-13",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Notre Dame",
+    "result": "L 6-11",
+    "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+    "recap_url": "https://www.queensathletics.com/news/2026/3/10/baseball-royals-rally-to-tie-notre-dame-before-late-irish-surge.aspx",
+    "recap_headline": "Queens University of Charlotte Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "3fc8eaeb": {
+      "id": "3fc8eaeb",
+      "name": "Adrian Quezada",
+      "fn": "Adrian",
+      "ln": "Quezada",
+      "pos": "RHP",
+      "yr": "",
+      "num": "2.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 2,
+          "r": 4,
+          "er": 3,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 2.1 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+    },
+    "3d35269d": {
+      "id": "3d35269d",
+      "name": "Ryan Brown",
+      "fn": "Ryan",
+      "ln": "Brown",
+      "pos": "UTI",
+      "yr": "",
+      "num": "6.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Georgia",
+        "result": "W 14-3",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12907&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgia, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "58d51a35": {
+      "id": "58d51a35",
+      "name": "Bradley Brown",
+      "fn": "Bradley",
+      "ln": "Brown",
+      "pos": "UTI",
+      "yr": "",
+      "num": "7.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Georgia",
+        "result": "W 14-3",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12907&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgia, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "43fe4bbc": {
+      "id": "43fe4bbc",
+      "name": "Owen Shipman",
+      "fn": "Owen",
+      "ln": "Shipman",
+      "pos": "RHP",
+      "yr": "",
+      "num": "18.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 1.1 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "5145ff8b": {
+      "id": "5145ff8b",
+      "name": "Avery Booker",
+      "fn": "Avery",
+      "ln": "Booker",
+      "pos": "INF/RHP",
+      "yr": "",
+      "num": "20.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "8cd2e3a8": {
+      "id": "8cd2e3a8",
+      "name": "Keontay Booker",
+      "fn": "Keontay",
+      "ln": "Booker",
+      "pos": "3B",
+      "yr": "",
+      "num": "24.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "f1dc068c": {
+      "id": "f1dc068c",
+      "name": "Jack Clevidence",
+      "fn": "Jack",
+      "ln": "Clevidence",
+      "pos": "RHP",
+      "yr": "",
+      "num": "30.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "6a73b46e": {
+      "id": "6a73b46e",
+      "name": "Justin Hudson",
+      "fn": "Justin",
+      "ln": "Hudson",
+      "pos": "UTI",
+      "yr": "",
+      "num": "35.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "b3b5340c": {
+      "id": "b3b5340c",
+      "name": "Kensen Green",
+      "fn": "Kensen",
+      "ln": "Green",
+      "pos": "LHP",
+      "yr": "",
+      "num": "37.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "fbcc7a68": {
+      "id": "fbcc7a68",
+      "name": "Davin Pollard",
+      "fn": "Davin",
+      "ln": "Pollard",
+      "pos": "RHP",
+      "yr": "",
+      "num": "44.0",
+      "school": "Queens University of Charlotte",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Notre Dame",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12908&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 1,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}
