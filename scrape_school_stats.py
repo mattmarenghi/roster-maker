@@ -2,8 +2,14 @@
 """
 School Baseball Stats Scraper
 ==============================
-Scrapes season stats, most recent game box scores, and game recap narratives
-for a given SIDEARM-hosted school's baseball program.
+Scrapes season stats and per-player last-game data for a SIDEARM-hosted school.
+
+Per-player last game strategy:
+  - Players with a profile_url have a rosterPlayerId (trailing number in the URL).
+    For these players the SIDEARM /api/v2/stats/bio endpoint is called directly,
+    returning a full season game log — no box score scraping needed.
+  - Players without a profile_url fall back to the old box-score scanning approach
+    (scrape up to max_games_back box scores and match by last name).
 
 Usage:
     python3 scrape_school_stats.py                          # Davidson (default)
@@ -95,6 +101,186 @@ def extract_nuxt_data(html: str) -> list | None:
         return json.loads(match.group(1).strip())
     except json.JSONDecodeError:
         return None
+
+
+# ---------------------------------------------------------------------------
+# SIDEARM bio API — per-player season game log
+# ---------------------------------------------------------------------------
+
+def get_roster_player_id(profile_url: str) -> str | None:
+    """Extract rosterPlayerId from the trailing numeric segment of a profile_url.
+
+    e.g. ".../roster/zandt-payne/10763"  →  "10763"
+    """
+    if not profile_url:
+        return None
+    last = profile_url.rstrip("/").split("/")[-1]
+    return last if last.isdigit() else None
+
+
+def fetch_bio_api(base_url: str, roster_player_id: str, year: str = "2026") -> dict | None:
+    """Call SIDEARM /api/v2/stats/bio for one player. Returns parsed JSON or None."""
+    url = (
+        f"{base_url}/api/v2/stats/bio"
+        f"?rosterPlayerId={roster_player_id}&sport=baseball&year={year}"
+    )
+    for attempt in range(3):
+        try:
+            resp = session.get(url, timeout=15)
+            if resp.status_code == 200:
+                return resp.json()
+            if resp.status_code in (400, 404):
+                return None
+            print(f"  Bio API HTTP {resp.status_code}: {url}", file=sys.stderr)
+            return None
+        except Exception as e:
+            if attempt < 2:
+                time.sleep(2 ** attempt)
+            else:
+                print(f"  Bio API error (rosterPlayerId={roster_player_id}): {e}", file=sys.stderr)
+    return None
+
+
+def _parse_bio_date(date_str) -> datetime | None:
+    """Parse common date formats returned by SIDEARM bio API."""
+    if not date_str:
+        return None
+    s = str(date_str).strip()
+    for fmt in ("%m/%d/%Y", "%Y-%m-%d", "%m/%d/%y"):
+        try:
+            return datetime.strptime(s, fmt)
+        except ValueError:
+            continue
+    return None
+
+
+def parse_bio_last_game(bio: dict) -> dict | None:
+    """Parse a SIDEARM /api/v2/stats/bio response to find the player's most recent game.
+
+    Typical SIDEARM bio response shape:
+        {
+          "batting":  { "gameLog": [{date, opponent, result, ab, r, h, rbi, bb, so, ...}, ...] },
+          "pitching": { "gameLog": [{date, opponent, result, ip, h, r, er, bb, so, ...}, ...] }
+        }
+    Field names vary by school/sport; this function tries common variants.
+
+    Returns {date, opponent, result, boxscore_url, batting, pitching} or None.
+    """
+    if not isinstance(bio, dict):
+        return None
+
+    def find_log(section_key: str) -> list | None:
+        section = bio.get(section_key)
+        if isinstance(section, dict):
+            for key in ("gameLog", "gameLogs", "game_log", "games", "log"):
+                if isinstance(section.get(key), list):
+                    return section[key]
+        return None
+
+    bat_log = find_log("batting")
+    pitch_log = find_log("pitching")
+
+    def safe_int(val) -> int:
+        try:
+            return int(val) if val not in (None, "", "-") else 0
+        except (ValueError, TypeError):
+            return 0
+
+    def get_field(entry: dict, *keys):
+        for k in keys:
+            v = entry.get(k)
+            if v is not None:
+                return v
+        return None
+
+    def most_recent_with_activity(log: list | None, activity_fn) -> tuple:
+        """Return (date_obj, entry) for the most recent game where player appeared."""
+        if not log:
+            return None, None
+        best_date, best_entry = None, None
+        for entry in log:
+            if not isinstance(entry, dict) or not activity_fn(entry):
+                continue
+            raw_date = get_field(entry, "date", "gameDate", "Date", "eventDate")
+            date_obj = _parse_bio_date(raw_date)
+            if not date_obj:
+                continue
+            if best_date is None or date_obj > best_date:
+                best_date, best_entry = date_obj, entry
+        return best_date, best_entry
+
+    bat_date, bat_entry = most_recent_with_activity(
+        bat_log,
+        lambda e: safe_int(get_field(e, "ab", "atBats", "AB")) > 0,
+    )
+    pitch_date, pitch_entry = most_recent_with_activity(
+        pitch_log,
+        lambda e: str(get_field(e, "ip", "inningsPitched", "IP") or "0") not in ("0", "0.0"),
+    )
+
+    if bat_entry is None and pitch_entry is None:
+        return None
+
+    # Use the most recently played game as the primary source for date/opponent/result
+    if bat_date and pitch_date:
+        primary_entry = bat_entry if bat_date >= pitch_date else pitch_entry
+        primary_date = max(bat_date, pitch_date)
+    elif bat_date:
+        primary_entry, primary_date = bat_entry, bat_date
+    else:
+        primary_entry, primary_date = pitch_entry, pitch_date
+
+    date_out = primary_date.strftime("%Y-%m-%d")
+    opponent_raw = str(get_field(primary_entry, "opponent", "Opponent", "opponentName", "team") or "")
+    opponent = opponent_raw.lstrip("@").strip() or "Unknown"
+    result = str(get_field(primary_entry, "result", "Result", "wl", "gameResult") or "")
+
+    # Build batting stats dict
+    bat_data = None
+    if bat_entry:
+        ab = safe_int(get_field(bat_entry, "ab", "atBats", "AB"))
+        if ab > 0:
+            bat_data = {
+                "ab":      ab,
+                "r":       safe_int(get_field(bat_entry, "r", "runs", "R")),
+                "h":       safe_int(get_field(bat_entry, "h", "hits", "H")),
+                "rbi":     safe_int(get_field(bat_entry, "rbi", "RBI")),
+                "bb":      safe_int(get_field(bat_entry, "bb", "walks", "BB")),
+                "so":      safe_int(get_field(bat_entry, "so", "k", "strikeouts", "SO", "K")),
+                "hr":      safe_int(get_field(bat_entry, "hr", "homeRuns", "HR")),
+                "doubles": safe_int(get_field(bat_entry, "2b", "doubles", "2B")),
+                "triples": safe_int(get_field(bat_entry, "3b", "triples", "3B")),
+                "pos":     str(get_field(bat_entry, "pos", "position", "Pos") or ""),
+            }
+
+    # Build pitching stats dict
+    pitch_data = None
+    if pitch_entry:
+        ip_raw = get_field(pitch_entry, "ip", "inningsPitched", "IP") or "0.0"
+        ip_str = str(ip_raw)
+        if ip_str not in ("0", "0.0"):
+            pitch_data = {
+                "ip":  ip_str,
+                "h":   safe_int(get_field(pitch_entry, "h", "hitsAllowed", "H")),
+                "r":   safe_int(get_field(pitch_entry, "r", "runsAllowed", "R")),
+                "er":  safe_int(get_field(pitch_entry, "er", "earnedRuns", "ER")),
+                "bb":  safe_int(get_field(pitch_entry, "bb", "walksAllowed", "BB")),
+                "so":  safe_int(get_field(pitch_entry, "so", "k", "strikeouts", "SO", "K")),
+                "wp":  safe_int(get_field(pitch_entry, "wp", "wildPitches", "WP")),
+                "hbp": safe_int(get_field(pitch_entry, "hbp", "hitBatters", "HBP")),
+            }
+
+    if bat_data is None and pitch_data is None:
+        return None
+
+    return {
+        "date": date_out,
+        "opponent": opponent,
+        "result": result,
+        "boxscore_url": None,  # bio API does not expose boxscore URLs
+        "batting": bat_data,
+        "pitching": pitch_data,
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -1186,96 +1372,140 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     # --- Find game URLs ---
     print("\n[4/6] Finding games")
     games = find_game_urls(base_url, season, no_season)
-    if not games:
-        print("  No games found!", file=sys.stderr)
+    most_recent = games[0] if games else None
+    if games:
+        print(f"  Found {len(games)} games; most recent: {most_recent['date']} vs {most_recent['opponent']}")
+    else:
+        print("  No games found via stats page (bio API will supply per-player data)")
+
+    # --- Per-player last game: bio API (primary) + box score (fallback) ---
+    # Players that have a profile_url also have a rosterPlayerId (the trailing number).
+    # For those players we call the SIDEARM bio API directly, which returns a full
+    # season game log — no box score fetching needed.
+    # Players without a profile_url fall back to box score scanning as before.
+
+    bio_pairs = []       # (player_record, roster_player_id)
+    bio_player_ids = set()
+    for sp in school_players:
+        rid = get_roster_player_id(sp.get("profile_url"))
+        if rid:
+            bio_pairs.append((sp, rid))
+            bio_player_ids.add(sp["id"])
+
+    fallback_count = len(school_players) - len(bio_pairs)
+    print(f"  Bio API eligible: {len(bio_pairs)}, box-score fallback: {fallback_count}")
+
+    # --- [5a/6] Bio API: fetch per-player game logs ---
+    bio_last_game = {}  # player_id -> last_game_data dict
+    if bio_pairs:
+        print(f"\n[5a/6] Bio API: fetching game logs for {len(bio_pairs)} players")
+        for i, (sp, roster_id) in enumerate(bio_pairs):
+            bio = fetch_bio_api(base_url, roster_id, season)
+            if bio:
+                lg = parse_bio_last_game(bio)
+                if lg:
+                    bio_last_game[sp["id"]] = lg
+            time.sleep(0.3)
+            if (i + 1) % 20 == 0 or (i + 1) == len(bio_pairs):
+                print(f"  {i+1}/{len(bio_pairs)} fetched — {len(bio_last_game)} with last-game data")
+
+    # --- [5b/6] Box score scan: fallback for players without rosterPlayerId ---
+    player_last_game = {}  # ln_key -> last_game_data dict
+    game_recaps = {}       # date_str -> {recap, recap_url}
+
+    if (fallback_count > 0 or not bio_pairs) and games:
+        print(f"\n[5b/6] Box score scan for {fallback_count} fallback players (up to {max_games_back} games)")
+        games_to_scan = games[:max_games_back]
+
+        for gi, game in enumerate(games_to_scan):
+            print(f"\n  --- Game {gi+1}/{len(games_to_scan)}: {game['date']} vs {game['opponent']} ---")
+            box = scrape_boxscore(game["boxscore_url"])
+            if not box:
+                print(f"  Could not parse box score, skipping")
+                continue
+
+            result_str = parse_result_from_box(box) or game.get("result_from_log", "")
+            print(f"  Result: {result_str or '(unknown)'}")
+
+            def index_box(rows):
+                idx = {}
+                for row in rows:
+                    fn, ln = parse_boxscore_name(row["name"])
+                    key = normalize_name(ln)
+                    idx[key] = {"fn": fn, "ln": ln, **{k: v for k, v in row.items() if k != "name"}}
+                return idx
+
+            bat_idx = index_box(box.get("our_batting", []))
+            pitch_idx = index_box(box.get("our_pitching", []))
+
+            game_player_keys = set(bat_idx.keys()) | set(pitch_idx.keys())
+            new_found = 0
+            for ln_key in game_player_keys:
+                if ln_key in player_last_game:
+                    continue
+
+                bat_data = None
+                if ln_key in bat_idx:
+                    b = bat_idx[ln_key]
+                    bat_data = {
+                        "ab": b.get("ab", 0), "r": b.get("r", 0), "h": b.get("h", 0),
+                        "rbi": b.get("rbi", 0), "bb": b.get("bb", 0), "so": b.get("so", 0),
+                        "pos": b.get("pos", ""),
+                    }
+
+                pitch_data = None
+                if ln_key in pitch_idx:
+                    pt = pitch_idx[ln_key]
+                    pitch_data = {
+                        "ip": pt.get("ip", "0.0"), "h": pt.get("h", 0), "r": pt.get("r", 0),
+                        "er": pt.get("er", 0), "bb": pt.get("bb", 0), "so": pt.get("so", 0),
+                        "wp": pt.get("wp", 0), "hbp": pt.get("hbp", 0),
+                    }
+
+                player_last_game[ln_key] = {
+                    "date": game["date"],
+                    "opponent": game["opponent"],
+                    "result": result_str,
+                    "boxscore_url": game["boxscore_url"],
+                    "batting": bat_data,
+                    "pitching": pitch_data,
+                }
+                new_found += 1
+
+            print(f"  New players found: {new_found} (total tracked: {len(player_last_game)})")
+
+            if game["date"] not in game_recaps:
+                recap_url = find_recap_url(base_url, game["date"], game["opponent"])
+                recap = scrape_recap(recap_url) if recap_url else {}
+                game_recaps[game["date"]] = {"recap": recap, "recap_url": recap_url}
+
+    # Fetch recaps for any bio API game dates not yet in the cache
+    if bio_last_game:
+        bio_dates = {(lg["date"], lg["opponent"]) for lg in bio_last_game.values() if lg.get("date")}
+        for date_str, opp in sorted(bio_dates, reverse=True):
+            if date_str not in game_recaps:
+                recap_url = find_recap_url(base_url, date_str, opp)
+                recap = scrape_recap(recap_url) if recap_url else {}
+                game_recaps[date_str] = {"recap": recap, "recap_url": recap_url}
+
+    # If we have no most_recent from the stats page, infer it from bio data
+    if most_recent is None and bio_last_game:
+        best = max(bio_last_game.values(), key=lambda lg: lg.get("date", ""))
+        if best.get("date"):
+            most_recent = {
+                "date": best["date"],
+                "opponent": best.get("opponent", "Unknown"),
+                "boxscore_url": None,
+            }
+
+    # Guard: nothing to output at all
+    if most_recent is None:
+        print("  No game data found via stats page or bio API.", file=sys.stderr)
         return
 
-    print(f"  Found {len(games)} games")
-    most_recent = games[0]
-    print(f"  Most recent: {most_recent['date']} vs {most_recent['opponent']}")
-
-    # --- Scan box scores to find each player's last game played ---
-    # We scan up to max_games_back box scores from newest to oldest.
-    # For each player, we record the first (most recent) game they appeared in.
-    print(f"\n[5/6] Scanning box scores (up to {max_games_back} games back)")
-
-    # player_last_game[ln_key] = {game_info, batting, pitching, recap, recap_url}
-    player_last_game = {}
-    games_to_scan = games[:max_games_back]
-    game_recaps = {}  # cache: game_date -> {recap, recap_url}
-
-    for gi, game in enumerate(games_to_scan):
-        print(f"\n  --- Game {gi+1}/{len(games_to_scan)}: {game['date']} vs {game['opponent']} ---")
-        box = scrape_boxscore(game["boxscore_url"])
-        if not box:
-            print(f"  Could not parse box score, skipping")
-            continue
-
-        result_str = parse_result_from_box(box) or game.get("result_from_log", "")
-        print(f"  Result: {result_str or '(unknown)'}")
-
-        # Index this game's players
-        def index_box(rows):
-            idx = {}
-            for row in rows:
-                fn, ln = parse_boxscore_name(row["name"])
-                key = normalize_name(ln)
-                idx[key] = {"fn": fn, "ln": ln, **{k: v for k, v in row.items() if k != "name"}}
-            return idx
-
-        bat_idx = index_box(box.get("our_batting", []))
-        pitch_idx = index_box(box.get("our_pitching", []))
-
-        # All players in this game
-        game_player_keys = set(bat_idx.keys()) | set(pitch_idx.keys())
-
-        new_found = 0
-        for ln_key in game_player_keys:
-            if ln_key in player_last_game:
-                continue  # already have a more recent game for this player
-
-            bat_data = None
-            if ln_key in bat_idx:
-                b = bat_idx[ln_key]
-                bat_data = {
-                    "ab": b.get("ab", 0), "r": b.get("r", 0), "h": b.get("h", 0),
-                    "rbi": b.get("rbi", 0), "bb": b.get("bb", 0), "so": b.get("so", 0),
-                    "pos": b.get("pos", ""),
-                }
-
-            pitch_data = None
-            if ln_key in pitch_idx:
-                pt = pitch_idx[ln_key]
-                pitch_data = {
-                    "ip": pt.get("ip", "0.0"), "h": pt.get("h", 0), "r": pt.get("r", 0),
-                    "er": pt.get("er", 0), "bb": pt.get("bb", 0), "so": pt.get("so", 0),
-                    "wp": pt.get("wp", 0), "hbp": pt.get("hbp", 0),
-                }
-
-            player_last_game[ln_key] = {
-                "date": game["date"],
-                "opponent": game["opponent"],
-                "result": result_str,
-                "boxscore_url": game["boxscore_url"],
-                "batting": bat_data,
-                "pitching": pitch_data,
-            }
-            new_found += 1
-
-        print(f"  New players found in this game: {new_found} (total tracked: {len(player_last_game)})")
-
-        # Fetch recap for this game (only if we haven't yet)
-        if game["date"] not in game_recaps:
-            recap_url = find_recap_url(base_url, game["date"], game["opponent"])
-            recap = {}
-            if recap_url:
-                recap = scrape_recap(recap_url)
-            game_recaps[game["date"]] = {"recap": recap, "recap_url": recap_url}
-
-    # --- Assemble player data ---
+    # --- [6/6] Assemble player records ---
     print("\n[6/6] Assembling player records")
 
-    # Index season stats by last name
     batting_by_ln = {normalize_name(b["ln"]): b for b in batting_stats}
     pitching_by_ln = {normalize_name(p["ln"]): p for p in pitching_stats}
 
@@ -1288,30 +1518,23 @@ def run(base_url: str, school_slug: str, season: str = "2026",
         ln = sp.get("ln", "")
         ln_key = normalize_name(ln)
 
-        # Season batting
-        season_bat = None
-        if ln_key in batting_by_ln:
-            season_bat = batting_by_ln[ln_key]["season_batting"]
+        season_bat = batting_by_ln.get(ln_key, {}).get("season_batting")
+        season_pitch = pitching_by_ln.get(ln_key, {}).get("season_pitching")
 
-        # Season pitching
-        season_pitch = None
-        if ln_key in pitching_by_ln:
-            season_pitch = pitching_by_ln[ln_key]["season_pitching"]
+        # Bio API data takes priority; fall back to box score matching by last name
+        last_game_data = bio_last_game.get(player_id)
+        if last_game_data is None:
+            plg = player_last_game.get(ln_key)
+            if plg:
+                last_game_data = {
+                    "date": plg["date"],
+                    "opponent": plg["opponent"],
+                    "result": plg["result"],
+                    "boxscore_url": plg["boxscore_url"],
+                    "batting": plg["batting"],
+                    "pitching": plg["pitching"],
+                }
 
-        # Per-player last game played in
-        plg = player_last_game.get(ln_key)
-        last_game_data = None
-        if plg:
-            last_game_data = {
-                "date": plg["date"],
-                "opponent": plg["opponent"],
-                "result": plg["result"],
-                "boxscore_url": plg["boxscore_url"],
-                "batting": plg["batting"],
-                "pitching": plg["pitching"],
-            }
-
-        # Skip players with no stats at all
         if not season_bat and not season_pitch and not last_game_data:
             continue
 
@@ -1330,7 +1553,6 @@ def run(base_url: str, school_slug: str, season: str = "2026",
             "narrative": None,
         }
 
-        # Generate narrative for players who meaningfully appeared
         if last_game_data:
             had_meaningful_bat = last_game_data.get("batting") and last_game_data["batting"].get("ab", 0) > 0
             had_meaningful_pitch = (
@@ -1368,14 +1590,13 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     recap = most_recent_recap.get("recap", {})
     recap_url = most_recent_recap.get("recap_url")
 
-    # Get most recent game result
+    # Derive the most recent result from any player's last-game data on that date
     most_recent_result = ""
-    if most_recent["date"] in [plg["date"] for plg in player_last_game.values()]:
-        # Find result from any player who played in the most recent game
-        for plg in player_last_game.values():
-            if plg["date"] == most_recent["date"] and plg["result"]:
-                most_recent_result = plg["result"]
-                break
+    all_last_games = list(bio_last_game.values()) + list(player_last_game.values())
+    for lg in all_last_games:
+        if lg.get("date") == most_recent["date"] and lg.get("result"):
+            most_recent_result = lg["result"]
+            break
 
     # --- Output ---
     output = {
@@ -1405,7 +1626,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     print(f"Output written to: {out_path}")
     print(f"Record: {record}")
     print(f"Players with stats: {len(players_out)}")
-    print(f"Games scanned for per-player stats: {len(games_to_scan)}")
+    print(f"Per-player last-game source: bio API={len(bio_last_game)}, box score={len(player_last_game)}")
     print(f"Narratives: {'AI-generated' if api_key_available else 'template-based (set ANTHROPIC_API_KEY for AI)'}")
     print(f"{'='*60}\n")
 
