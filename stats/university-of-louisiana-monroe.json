@@ -1,0 +1,18 @@
+{
+  "school": "University of Louisiana Monroe",
+  "base_url": "https://www.ulmwarhawks.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:18:04.007580Z",
+  "record": "9-9",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "UT Arlington",
+    "result": "L 2-12",
+    "boxscore_url": "https://www.ulmwarhawks.com/boxscore.aspx?id=16409&path=baseball",
+    "recap_url": "https://www.ulmwarhawks.com/news/2026/3/8/baseball-warhawks-win-game-three-in-arlington.aspx",
+    "recap_headline": "ULM Warhawks",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

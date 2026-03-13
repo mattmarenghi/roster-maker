@@ -1,0 +1,409 @@
+{
+  "school": "Stony Brook University",
+  "base_url": "https://stonybrookathletics.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:07:09.265501Z",
+  "record": "2-12",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Siena",
+    "result": "L 8-14",
+    "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12461&path=baseball",
+    "recap_url": "https://stonybrookathletics.com/news/2026/3/10/baseball-seawolves-fall-to-siena-in-non-conference-matchup.aspx",
+    "recap_headline": "Stony Brook University Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "bfb68d5d": {
+      "id": "bfb68d5d",
+      "name": "Nicholas Rizzo",
+      "fn": "Nicholas",
+      "ln": "Rizzo",
+      "pos": "LHP",
+      "yr": "",
+      "num": "2.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Northeastern",
+        "result": "W 7-6",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12460&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northeastern, throwing 2.2 innings. Allowed 4 earned run(s) with 5 strikeout(s)."
+    },
+    "d22f2792": {
+      "id": "d22f2792",
+      "name": "Hunter Colagrande",
+      "fn": "Hunter",
+      "ln": "Colagrande",
+      "pos": "RHP",
+      "yr": "",
+      "num": "5.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Northeastern",
+        "result": "W 7-6",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12460&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northeastern, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "46f4d4ad": {
+      "id": "46f4d4ad",
+      "name": "Reilly Bridges",
+      "fn": "Reilly",
+      "ln": "Bridges",
+      "pos": "RHP",
+      "yr": "",
+      "num": "8.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Siena",
+        "result": "L 8-14",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12461&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 4,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Siena, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "30fb00b0": {
+      "id": "30fb00b0",
+      "name": "Conner Williar",
+      "fn": "Conner",
+      "ln": "Williar",
+      "pos": "RHP",
+      "yr": "",
+      "num": "12.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Siena",
+        "result": "L 8-14",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12461&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Siena, throwing 1.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "e31feb07": {
+      "id": "e31feb07",
+      "name": "John Rizzo",
+      "fn": "John",
+      "ln": "Rizzo",
+      "pos": "RHP",
+      "yr": "",
+      "num": "13.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Northeastern",
+        "result": "W 7-6",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12460&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northeastern, throwing 2.2 innings. Allowed 4 earned run(s) with 5 strikeout(s)."
+    },
+    "e46f6a55": {
+      "id": "e46f6a55",
+      "name": "Dylan Henshaw",
+      "fn": "Dylan",
+      "ln": "Henshaw",
+      "pos": "RHP",
+      "yr": "",
+      "num": "18.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Northeastern",
+        "result": "L 3-4",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12459&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Northeastern, throwing 4.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "972e52c9": {
+      "id": "972e52c9",
+      "name": "Luca Mannino",
+      "fn": "Luca",
+      "ln": "Mannino",
+      "pos": "RHP",
+      "yr": "",
+      "num": "19.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Siena",
+        "result": "L 8-14",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12461&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Siena, throwing 3.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    },
+    "89620a47": {
+      "id": "89620a47",
+      "name": "Evan Kay",
+      "fn": "Evan",
+      "ln": "Kay",
+      "pos": "RHP",
+      "yr": "",
+      "num": "27.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Siena",
+        "result": "L 8-14",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12461&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Siena, throwing 1.0 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+    },
+    "afd739c5": {
+      "id": "afd739c5",
+      "name": "Christian Martinez",
+      "fn": "Christian",
+      "ln": "Martinez",
+      "pos": "RHP",
+      "yr": "",
+      "num": "33.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Northeastern",
+        "result": "W 7-6",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12460&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northeastern, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+    },
+    "22d6176c": {
+      "id": "22d6176c",
+      "name": "Aidan Colagrande",
+      "fn": "Aidan",
+      "ln": "Colagrande",
+      "pos": "LHP",
+      "yr": "",
+      "num": "35.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Northeastern",
+        "result": "W 7-6",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12460&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northeastern, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "f8b3ca4c": {
+      "id": "f8b3ca4c",
+      "name": "Kincaid Bergthold",
+      "fn": "Kincaid",
+      "ln": "Bergthold",
+      "pos": "OF",
+      "yr": "",
+      "num": "37.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Siena",
+        "result": "L 8-14",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12461&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Siena, throwing 2.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+    },
+    "624357df": {
+      "id": "624357df",
+      "name": "Jarek Podest",
+      "fn": "Jarek",
+      "ln": "Podest",
+      "pos": "RHP",
+      "yr": "",
+      "num": "47.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Siena",
+        "result": "L 8-14",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12461&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Siena, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "0f1ad4a6": {
+      "id": "0f1ad4a6",
+      "name": "Matthew Canizares",
+      "fn": "Matthew",
+      "ln": "Canizares",
+      "pos": "RHP",
+      "yr": "",
+      "num": "55.0",
+      "school": "Stony Brook University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Northeastern",
+        "result": "W 7-6",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12460&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 3,
+          "r": 1,
+          "er": 0,
+          "bb": 3,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northeastern, throwing 4.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,199 @@
+{
+  "school": "William & Mary",
+  "base_url": "https://www.tribeathletics.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:35:41.390776Z",
+  "record": "5-10",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "East Carolina",
+    "result": "L 3-24",
+    "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27820&path=baseball",
+    "recap_url": "https://www.tribeathletics.com/news/2026/3/11/baseball-drops-wednesdays-contest-against-east-carolina.aspx",
+    "recap_headline": "William & Mary Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "6c86a737": {
+      "id": "6c86a737",
+      "name": "Noah Hertzler",
+      "fn": "Noah",
+      "ln": "Hertzler",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "14.0",
+      "school": "William & Mary",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "East Carolina",
+        "result": "L 3-24",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27820&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 7,
+          "er": 7,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 0.2 innings. Allowed 7 earned run(s) with 0 strikeout(s)."
+    },
+    "01ab3de2": {
+      "id": "01ab3de2",
+      "name": "Derek Baker",
+      "fn": "Derek",
+      "ln": "Baker",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "20.0",
+      "school": "William & Mary",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "East Carolina",
+        "result": "L 3-24",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27820&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 5,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 2.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "ef4598bf": {
+      "id": "ef4598bf",
+      "name": "Zach Boyd",
+      "fn": "Zach",
+      "ln": "Boyd",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "32.0",
+      "school": "William & Mary",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "East Carolina",
+        "result": "L 3-24",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27820&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 1.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
+    },
+    "9cf06d76": {
+      "id": "9cf06d76",
+      "name": "Jack Weight",
+      "fn": "Jack",
+      "ln": "Weight",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "36.0",
+      "school": "William & Mary",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "East Carolina",
+        "result": "L 3-24",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27820&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 2,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "f5909788": {
+      "id": "f5909788",
+      "name": "Tom Bourque",
+      "fn": "Tom",
+      "ln": "Bourque",
+      "pos": "LHP",
+      "yr": "R-Jr.",
+      "num": "41.0",
+      "school": "William & Mary",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "East Carolina",
+        "result": "L 3-24",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27820&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 5,
+          "er": 4,
+          "bb": 1,
+          "so": 0,
+          "wp": 2,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 0.1 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
+    },
+    "1f514e14": {
+      "id": "1f514e14",
+      "name": "Charlie Seneker",
+      "fn": "Charlie",
+      "ln": "Seneker",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "49.0",
+      "school": "William & Mary",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "East Carolina",
+        "result": "L 3-24",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27820&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

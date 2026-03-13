@@ -1,0 +1,229 @@
+{
+  "school": "Mount St. Mary's University",
+  "base_url": "https://www.mountathletics.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:52:39.036390Z",
+  "record": "6-8",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "UMBC",
+    "result": "W 20-4",
+    "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9891&path=baseball",
+    "recap_url": "https://www.mountathletics.com/news/2026/3/10/baseball-falls-to-umbc-in-catonsville-on-tuesday-afternoon.aspx",
+    "recap_headline": "Mount St. Mary's University",
+    "recap_text": ""
+  },
+  "players": {
+    "b89c060a": {
+      "id": "b89c060a",
+      "name": "Maximus McCrary",
+      "fn": "Maximus",
+      "ln": "McCrary",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "11.0",
+      "school": "Mount St. Mary's University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Iona",
+        "result": "W 9-2",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9890&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 1.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "9a39b8f9": {
+      "id": "9a39b8f9",
+      "name": "Jakob Foster",
+      "fn": "Jakob",
+      "ln": "Foster",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "14.0",
+      "school": "Mount St. Mary's University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Iona",
+        "result": "W 9-2",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9890&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 5,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 2.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+    },
+    "0615eb9f": {
+      "id": "0615eb9f",
+      "name": "Serigne Sarre",
+      "fn": "Serigne",
+      "ln": "Sarre",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "16.0",
+      "school": "Mount St. Mary's University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Iona",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9888&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 6,
+          "r": 3,
+          "er": 1,
+          "bb": 1,
+          "so": 10,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 6.0 innings. Struck out 10 while allowing just 6 hit(s) and 1 earned run(s) in a quality start."
+    },
+    "88cfffe6": {
+      "id": "88cfffe6",
+      "name": "Owen Crowe",
+      "fn": "Owen",
+      "ln": "Crowe",
+      "pos": "LHP",
+      "yr": "R-So.",
+      "num": "20.0",
+      "school": "Mount St. Mary's University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Iona",
+        "result": "W 9-2",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9890&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 2.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+    },
+    "c9fb12f7": {
+      "id": "c9fb12f7",
+      "name": "Riley Williams",
+      "fn": "Riley",
+      "ln": "Williams",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "27.0",
+      "school": "Mount St. Mary's University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Iona",
+        "result": "W 9-2",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9890&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "2d8da6fa": {
+      "id": "2d8da6fa",
+      "name": "Phoenix Williams",
+      "fn": "Phoenix",
+      "ln": "Williams",
+      "pos": "UTIL",
+      "yr": "Fr.",
+      "num": "35.0",
+      "school": "Mount St. Mary's University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Iona",
+        "result": "W 9-2",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9890&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "21980eeb": {
+      "id": "21980eeb",
+      "name": "Koen Bowling",
+      "fn": "Koen",
+      "ln": "Bowling",
+      "pos": "C/OF",
+      "yr": "Fr.",
+      "num": "37.0",
+      "school": "Mount St. Mary's University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Iona",
+        "result": "W 9-2",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9890&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iona, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

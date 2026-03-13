@@ -1,0 +1,139 @@
+{
+  "school": "Illinois State University",
+  "base_url": "https://GoRedbirds.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:40:45.858562Z",
+  "record": "10-7",
+  "most_recent_game": {
+    "date": "2026-03-12",
+    "opponent": "Western Ill.",
+    "result": "W 7-6",
+    "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23296&path=baseball",
+    "recap_url": "https://GoRedbirds.com/news/2026/3/12/baseball-redbirds-walkoff-western-illinois-7-6-in-11-innings-in-home-opener-thursday.aspx",
+    "recap_headline": "Redbirds Walk-Off Western Illinois 7-6 In 11 Innings In Home Opener Thursday",
+    "recap_text": ""
+  },
+  "players": {
+    "1a9c3e99": {
+      "id": "1a9c3e99",
+      "name": "Jackson Natanek",
+      "fn": "Jackson",
+      "ln": "Natanek",
+      "pos": "P/IF",
+      "yr": "Fr.",
+      "num": "18.0",
+      "school": "Illinois State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-12",
+        "opponent": "Western Ill.",
+        "result": "W 7-6",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23296&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Western Ill., throwing 1.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "a495b885": {
+      "id": "a495b885",
+      "name": "Reece Clapp",
+      "fn": "Reece",
+      "ln": "Clapp",
+      "pos": "P",
+      "yr": "Gr.",
+      "num": "22.0",
+      "school": "Illinois State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-12",
+        "opponent": "Western Ill.",
+        "result": "W 7-6",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23296&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Western Ill., throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "c805e386": {
+      "id": "c805e386",
+      "name": "Nolan Girard",
+      "fn": "Nolan",
+      "ln": "Girard",
+      "pos": "P",
+      "yr": "So.",
+      "num": "40.0",
+      "school": "Illinois State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-12",
+        "opponent": "Western Ill.",
+        "result": "W 7-6",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23296&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Western Ill., throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "cc896dd7": {
+      "id": "cc896dd7",
+      "name": "Trenton Roehler",
+      "fn": "Trenton",
+      "ln": "Roehler",
+      "pos": "P",
+      "yr": "Jr.",
+      "num": "43.0",
+      "school": "Illinois State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-12",
+        "opponent": "Western Ill.",
+        "result": "W 7-6",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23296&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 6,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Western Ill., throwing 5.0 innings. Struck out 6 while allowing just 5 hit(s) and 4 earned run(s) in a quality start."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

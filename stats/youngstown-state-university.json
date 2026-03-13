@@ -1,0 +1,18 @@
+{
+  "school": "Youngstown State University",
+  "base_url": "https://www.ysusports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:37:06.442044Z",
+  "record": "1-13",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "Southern Indiana",
+    "result": "W 10-1",
+    "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8857&path=baseball",
+    "recap_url": "https://www.ysusports.com/news/2026/3/8/bsb-usi-recap-030826.aspx",
+    "recap_headline": "Youngstown State University",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,289 @@
+{
+  "school": "Eastern Illinois University",
+  "base_url": "https://www.eiupanthers.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:34:48.255890Z",
+  "record": "6-7",
+  "most_recent_game": {
+    "date": "2026-03-07",
+    "opponent": "Bellarmine",
+    "result": "W 4-2",
+    "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13545&path=baseball",
+    "recap_url": "https://www.eiupanthers.com/news/2026/3/7/baseball-panthers-split-doubleheader-against-bellarmine.aspx",
+    "recap_headline": "Eastern Illinois University Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "1db353f2": {
+      "id": "1db353f2",
+      "name": "Bryce Riggs",
+      "fn": "Bryce",
+      "ln": "Riggs",
+      "pos": "RHP",
+      "yr": "",
+      "num": "4.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bellarmine",
+        "result": "W 4-2",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13545&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 7,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 6.0 innings. Struck out 7 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."
+    },
+    "def0b8cb": {
+      "id": "def0b8cb",
+      "name": "Dalton Boruff",
+      "fn": "Dalton",
+      "ln": "Boruff",
+      "pos": "RHP",
+      "yr": "",
+      "num": "14.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bellarmine",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13546&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "b2deee46": {
+      "id": "b2deee46",
+      "name": "Anthony Solis",
+      "fn": "Anthony",
+      "ln": "Solis",
+      "pos": "RHP",
+      "yr": "",
+      "num": "15.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bellarmine",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13546&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.1",
+          "h": 8,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 6,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 5.1 innings. Struck out 6 while allowing just 8 hit(s) and 4 earned run(s) in a quality start."
+    },
+    "28cff5af": {
+      "id": "28cff5af",
+      "name": "James Geshel",
+      "fn": "James",
+      "ln": "Geshel",
+      "pos": "RHP",
+      "yr": "",
+      "num": "30.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bellarmine",
+        "result": "W 4-2",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13545&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 1.1 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+    },
+    "ab042099": {
+      "id": "ab042099",
+      "name": "Mac Zawistoski",
+      "fn": "Mac",
+      "ln": "Zawistoski",
+      "pos": "LHP",
+      "yr": "",
+      "num": "32.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Bellarmine",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13543&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 2.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "d4f0b7cc": {
+      "id": "d4f0b7cc",
+      "name": "Tyler Conklin",
+      "fn": "Tyler",
+      "ln": "Conklin",
+      "pos": "RHP",
+      "yr": "",
+      "num": "34.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Bellarmine",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13543&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "6.2",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 6.2 innings. Struck out 2 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
+    },
+    "96b5a3dd": {
+      "id": "96b5a3dd",
+      "name": "Nate Marshall",
+      "fn": "Nate",
+      "ln": "Marshall",
+      "pos": "RHP",
+      "yr": "",
+      "num": "35.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bellarmine",
+        "result": "W 4-2",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13545&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 1.2 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "e7764194": {
+      "id": "e7764194",
+      "name": "Dominic Cristinzio",
+      "fn": "Dominic",
+      "ln": "Cristinzio",
+      "pos": "LHP",
+      "yr": "",
+      "num": "37.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bellarmine",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13546&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "3fe360e5": {
+      "id": "3fe360e5",
+      "name": "Jarrett Kinder",
+      "fn": "Jarrett",
+      "ln": "Kinder",
+      "pos": "RHP",
+      "yr": "",
+      "num": "42.0",
+      "school": "Eastern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bellarmine",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13546&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 2,
+          "r": 3,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bellarmine, throwing 2.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

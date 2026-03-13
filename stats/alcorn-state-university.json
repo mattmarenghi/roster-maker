@@ -1,0 +1,49 @@
+{
+  "school": "Alcorn State University",
+  "base_url": "https://www.alcornsports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:22:01.125651Z",
+  "record": "2-14",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Northwestern State",
+    "result": "W 13-2",
+    "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7514&path=baseball",
+    "recap_url": "https://www.alcornsports.com/news/2026/3/10/baseball-northwestern-state-pushes-past-alcorn-13-2.aspx",
+    "recap_headline": "Northwestern State Pushes Past Alcorn, 13-2",
+    "recap_text": ""
+  },
+  "players": {
+    "3eb25fa4": {
+      "id": "3eb25fa4",
+      "name": "Nicholas Johnson",
+      "fn": "Nicholas",
+      "ln": "Johnson",
+      "pos": "RHP",
+      "yr": "",
+      "num": "30.0",
+      "school": "Alcorn State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Mercer",
+        "result": "W 10-5",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7512&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Mercer, throwing 1.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

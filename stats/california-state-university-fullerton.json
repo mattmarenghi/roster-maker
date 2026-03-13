@@ -1,0 +1,259 @@
+{
+  "school": "California State University, Fullerton",
+  "base_url": "https://www.fullertontitans.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:28:46.179672Z",
+  "record": "7-9",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "San Diego State",
+    "result": "W 3-2",
+    "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+    "recap_url": "https://www.fullertontitans.com/news/2026/3/10/baseball-titans-rally-for-walk-off-win-over-san-diego-state.aspx",
+    "recap_headline": "Cal State Fullerton",
+    "recap_text": ""
+  },
+  "players": {
+    "9731cf5c": {
+      "id": "9731cf5c",
+      "name": "Chris Hernandez",
+      "fn": "Chris",
+      "ln": "Hernandez",
+      "pos": "RHP",
+      "yr": "R-So.",
+      "num": "5.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 0.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "81655ed6": {
+      "id": "81655ed6",
+      "name": "Andrew Wright",
+      "fn": "Andrew",
+      "ln": "Wright",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "15.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "6600018c": {
+      "id": "6600018c",
+      "name": "Ryan Seo",
+      "fn": "Ryan",
+      "ln": "Seo",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "22.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "4c13b609": {
+      "id": "4c13b609",
+      "name": "Nick Santivanez",
+      "fn": "Nick",
+      "ln": "Santivanez",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "31.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "318319fe": {
+      "id": "318319fe",
+      "name": "Masen Swan",
+      "fn": "Masen",
+      "ln": "Swan",
+      "pos": "LHP",
+      "yr": "R-Fr.",
+      "num": "35.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "e1e52651": {
+      "id": "e1e52651",
+      "name": "Landon Martin",
+      "fn": "Landon",
+      "ln": "Martin",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "46.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "58e43491": {
+      "id": "58e43491",
+      "name": "Dylan Nieto",
+      "fn": "Dylan",
+      "ln": "Nieto",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "49.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "2c340389": {
+      "id": "2c340389",
+      "name": "Brady Dockan",
+      "fn": "Brady",
+      "ln": "Dockan",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "51.0",
+      "school": "California State University, Fullerton",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "San Diego State",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7596&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,18 @@
+{
+  "school": "College of the Holy Cross",
+  "base_url": "https://goholycross.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:31:37.840466Z",
+  "record": "4-11",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "Portland",
+    "result": "W 11-3",
+    "boxscore_url": "https://goholycross.com/boxscore.aspx?id=12307&path=base",
+    "recap_url": "https://goholycross.com/news/2026/3/8/baseball-ends-spring-break-trip-at-portland.aspx",
+    "recap_headline": "Holy Cross Athletics",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

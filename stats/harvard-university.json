@@ -1,0 +1,18 @@
+{
+  "school": "Harvard University",
+  "base_url": "https://gocrimson.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:39:25.293495Z",
+  "record": "0-9",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "Liberty",
+    "result": "W 5-4",
+    "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32369&path=baseball",
+    "recap_url": "https://gocrimson.com/news/2026/3/8/baseball-pushes-liberty-in-series-finale-falls-in-ninth-5-4.aspx",
+    "recap_headline": "Harvard University",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

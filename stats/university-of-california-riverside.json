@@ -1,0 +1,229 @@
+{
+  "school": "University of California, Riverside",
+  "base_url": "https://www.gohighlanders.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:14:39.807356Z",
+  "record": "4-13",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "UNLV Rebels",
+    "result": "W 11-10",
+    "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15130&path=baseball",
+    "recap_url": "https://www.gohighlanders.com/news/2026/3/10/baseball-unlv-out-slugs-highlanders.aspx",
+    "recap_headline": "UC Riverside",
+    "recap_text": ""
+  },
+  "players": {
+    "be292b4a": {
+      "id": "be292b4a",
+      "name": "Jack Becker",
+      "fn": "Jack",
+      "ln": "Becker",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "7.0",
+      "school": "University of California, Riverside",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Davis",
+        "result": "L 3-7",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15129&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UC Davis, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "0d090f33": {
+      "id": "0d090f33",
+      "name": "Joshua Torres",
+      "fn": "Joshua",
+      "ln": "Torres",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "9.0",
+      "school": "University of California, Riverside",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Davis",
+        "result": "L 3-7",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15129&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 5,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against UC Davis, throwing 3.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    },
+    "2d33b734": {
+      "id": "2d33b734",
+      "name": "Marco DiGirolamo",
+      "fn": "Marco",
+      "ln": "DiGirolamo",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "13.0",
+      "school": "University of California, Riverside",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Davis",
+        "result": "L 3-7",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15129&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UC Davis, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "634ee858": {
+      "id": "634ee858",
+      "name": "Joshua Martinez",
+      "fn": "Joshua",
+      "ln": "Martinez",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "16.0",
+      "school": "University of California, Riverside",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Davis",
+        "result": "L 3-7",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15129&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UC Davis, throwing 0.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+    },
+    "c0dd9c59": {
+      "id": "c0dd9c59",
+      "name": "Matthew O'Brien",
+      "fn": "Matthew",
+      "ln": "O'Brien",
+      "pos": "LHP",
+      "yr": "Sr.",
+      "num": "23.0",
+      "school": "University of California, Riverside",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UC Davis",
+        "result": "W 6-3",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15128&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "6.1",
+          "h": 6,
+          "r": 3,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UC Davis, throwing 6.1 innings. Struck out 2 while allowing just 6 hit(s) and 2 earned run(s) in a quality start."
+    },
+    "2a288f4a": {
+      "id": "2a288f4a",
+      "name": "Ryan Higgins",
+      "fn": "Ryan",
+      "ln": "Higgins",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "25.0",
+      "school": "University of California, Riverside",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Davis",
+        "result": "L 3-7",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15129&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UC Davis, throwing 1.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "25918709": {
+      "id": "25918709",
+      "name": "Matt Hudson",
+      "fn": "Matt",
+      "ln": "Hudson",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "55.0",
+      "school": "University of California, Riverside",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UC Davis",
+        "result": "W 6-3",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15128&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UC Davis, throwing 2.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

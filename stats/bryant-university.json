@@ -1,0 +1,169 @@
+{
+  "school": "Bryant University",
+  "base_url": "https://www.bryantbulldogs.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:26:38.892057Z",
+  "record": "6-7",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Stonehill",
+    "result": "W 9-1",
+    "boxscore_url": "https://www.bryantbulldogs.com/boxscore.aspx?id=11910&path=",
+    "recap_url": "https://www.bryantbulldogs.com/news/2026/3/10/baseball-durand-davis-power-bryant-to-win-over-stonehill-in-home-opener.aspx",
+    "recap_headline": "Bryant University",
+    "recap_text": ""
+  },
+  "players": {
+    "e9b586ad": {
+      "id": "e9b586ad",
+      "name": "Ty Davis",
+      "fn": "Ty",
+      "ln": "Davis",
+      "pos": "RHP",
+      "yr": "",
+      "num": "17.0",
+      "school": "Bryant University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Stonehill",
+        "result": "W 9-1",
+        "boxscore_url": "https://www.bryantbulldogs.com/boxscore.aspx?id=11910&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stonehill, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "f8e82e52": {
+      "id": "f8e82e52",
+      "name": "Thomas Galusha",
+      "fn": "Thomas",
+      "ln": "Galusha",
+      "pos": "RHP",
+      "yr": "",
+      "num": "19.0",
+      "school": "Bryant University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Stonehill",
+        "result": "W 9-1",
+        "boxscore_url": "https://www.bryantbulldogs.com/boxscore.aspx?id=11910&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stonehill, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "3d9a7053": {
+      "id": "3d9a7053",
+      "name": "Zach Davis",
+      "fn": "Zach",
+      "ln": "Davis",
+      "pos": "RHP",
+      "yr": "",
+      "num": "32.0",
+      "school": "Bryant University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Stonehill",
+        "result": "W 9-1",
+        "boxscore_url": "https://www.bryantbulldogs.com/boxscore.aspx?id=11910&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stonehill, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "f5e7abaf": {
+      "id": "f5e7abaf",
+      "name": "Bradley Lewis",
+      "fn": "Bradley",
+      "ln": "Lewis",
+      "pos": "LHP",
+      "yr": "",
+      "num": "36.0",
+      "school": "Bryant University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Stonehill",
+        "result": "W 9-1",
+        "boxscore_url": "https://www.bryantbulldogs.com/boxscore.aspx?id=11910&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Stonehill, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "b70df84d": {
+      "id": "b70df84d",
+      "name": "Tommy Flaherty",
+      "fn": "Tommy",
+      "ln": "Flaherty",
+      "pos": "RHP",
+      "yr": "",
+      "num": "39.0",
+      "school": "Bryant University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Stonehill",
+        "result": "W 9-1",
+        "boxscore_url": "https://www.bryantbulldogs.com/boxscore.aspx?id=11910&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 1,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stonehill, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,18 @@
+{
+  "school": "Lipscomb University",
+  "base_url": "https://www.lipscombsports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:45:54.643401Z",
+  "record": "6-9",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Memphis",
+    "result": "W 5-2",
+    "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13297&path=baseball",
+    "recap_url": "https://www.lipscombsports.com/news/2026/3/10/memphis-defeats-baseball-in-midweek-contest.aspx",
+    "recap_headline": "Lipscomb University",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

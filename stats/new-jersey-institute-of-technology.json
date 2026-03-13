@@ -1,0 +1,379 @@
+{
+  "school": "New Jersey Institute of Technology",
+  "base_url": "https://www.njithighlanders.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:53:16.306315Z",
+  "record": "6-7",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Seton Hall",
+    "result": "L 5-8",
+    "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11301&path=baseball",
+    "recap_url": "https://www.njithighlanders.com/news/2026/3/11/baseball-drops-midweek-to-seton-hall-8-5-on-wednesday-night.aspx",
+    "recap_headline": "New Jersey Institute of Technology Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "797f02a7": {
+      "id": "797f02a7",
+      "name": "Josh Willitts",
+      "fn": "Josh",
+      "ln": "Willitts",
+      "pos": "RHP",
+      "yr": "Red 5th",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Saint Peter's",
+        "result": "L 2-4",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11357&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "7.1",
+          "h": 5,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 6,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Peter's, throwing 7.1 innings. Struck out 6 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
+    },
+    "a30759e9": {
+      "id": "a30759e9",
+      "name": "Anthony Catalano",
+      "fn": "Anthony",
+      "ln": "Catalano",
+      "pos": "RHP",
+      "yr": "Rf.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Saint Peter's",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11299&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Peter's, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "3f867a5d": {
+      "id": "3f867a5d",
+      "name": "Brandon Peterson",
+      "fn": "Brandon",
+      "ln": "Peterson",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Saint Peter's",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11299&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Peter's, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "a7153d3a": {
+      "id": "a7153d3a",
+      "name": "Becker Sybirski",
+      "fn": "Becker",
+      "ln": "Sybirski",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Saint Peter's",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11299&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Peter's, throwing 2.1 innings. Allowed 3 earned run(s) with 4 strikeout(s)."
+    },
+    "06b73027": {
+      "id": "06b73027",
+      "name": "Conner Rippo",
+      "fn": "Conner",
+      "ln": "Rippo",
+      "pos": "P/OF",
+      "yr": "Fr.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Seton Hall",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11301&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Seton Hall, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "b635f34c": {
+      "id": "b635f34c",
+      "name": "Brendan Opat",
+      "fn": "Brendan",
+      "ln": "Opat",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Saint Peter's",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11299&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Peter's, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "1747ca1e": {
+      "id": "1747ca1e",
+      "name": "Tyler Kim",
+      "fn": "Tyler",
+      "ln": "Kim",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Saint Peter's",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11299&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Peter's, throwing 3.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "cba176ed": {
+      "id": "cba176ed",
+      "name": "Anthony Anzaldi",
+      "fn": "Anthony",
+      "ln": "Anzaldi",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Seton Hall",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11301&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Seton Hall, throwing 2.2 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+    },
+    "bba95119": {
+      "id": "bba95119",
+      "name": "Tade Riordan",
+      "fn": "Tade",
+      "ln": "Riordan",
+      "pos": "RHP",
+      "yr": "R-So.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Saint Peter's",
+        "result": "L 2-4",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11357&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Peter's, throwing 2.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    },
+    "b94895e2": {
+      "id": "b94895e2",
+      "name": "Talon Mihalinac",
+      "fn": "Talon",
+      "ln": "Mihalinac",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Seton Hall",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11301&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 2,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Seton Hall, throwing 2.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "c6fd0a5e": {
+      "id": "c6fd0a5e",
+      "name": "Nelson Smith",
+      "fn": "Nelson",
+      "ln": "Smith",
+      "pos": "RHP",
+      "yr": "Red 5th",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Seton Hall",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11301&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Seton Hall, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "74d05970": {
+      "id": "74d05970",
+      "name": "Hayden Estes",
+      "fn": "Hayden",
+      "ln": "Estes",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "",
+      "school": "New Jersey Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Seton Hall",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.njithighlanders.com/boxscore.aspx?id=11301&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 4,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Seton Hall, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

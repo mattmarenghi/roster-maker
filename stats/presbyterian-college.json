@@ -1,0 +1,49 @@
+{
+  "school": "Presbyterian College",
+  "base_url": "https://gobluehose.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:58:21.762711Z",
+  "record": "2-16",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Florida Atlantic",
+    "result": "W 7-2",
+    "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14269&path=bb",
+    "recap_url": "https://gobluehose.com/news/2026/3/11/baseball-presbyterian-wraps-boca-raton-trip-with-defeat-at-fau.aspx",
+    "recap_headline": "Presbyterian College",
+    "recap_text": ""
+  },
+  "players": {
+    "6684dbdf": {
+      "id": "6684dbdf",
+      "name": "Nick Smith",
+      "fn": "Nick",
+      "ln": "Smith",
+      "pos": "INF",
+      "yr": "",
+      "num": "23.0",
+      "school": "Presbyterian College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Florida Atlantic",
+        "result": "W 7-2",
+        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14269&path=bb",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Florida Atlantic, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

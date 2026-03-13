@@ -1,0 +1,289 @@
+{
+  "school": "Florida A&M University",
+  "base_url": "https://www.famuathletics.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:36:20.831759Z",
+  "record": "5-10",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "Villanova",
+    "result": "L 1-4",
+    "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5447&path=",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
+  },
+  "players": {
+    "4c74b051": {
+      "id": "4c74b051",
+      "name": "Caleb Granger",
+      "fn": "Caleb",
+      "ln": "Granger",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Gr.",
+      "num": "9.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Villanova",
+        "result": "W 4-1",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5445&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "8.0",
+          "h": 8,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 8,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 8.0 innings. Struck out 8 while allowing just 8 hit(s) and 1 earned run(s) in a quality start."
+    },
+    "fec7468a": {
+      "id": "fec7468a",
+      "name": "Ryan Young",
+      "fn": "Ryan",
+      "ln": "Young",
+      "pos": "Right-Handed Pitcher",
+      "yr": "So.",
+      "num": "11.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Villanova",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5447&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "7ec9a04a": {
+      "id": "7ec9a04a",
+      "name": "Garrett Workman",
+      "fn": "Garrett",
+      "ln": "Workman",
+      "pos": "Left-Handed Pitcher",
+      "yr": "So.",
+      "num": "18.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Villanova",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5446&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 2,
+          "r": 4,
+          "er": 2,
+          "bb": 2,
+          "so": 5,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 3.0 innings. Allowed 2 earned run(s) with 5 strikeout(s)."
+    },
+    "c5284e3d": {
+      "id": "c5284e3d",
+      "name": "Jackson McKenzie",
+      "fn": "Jackson",
+      "ln": "McKenzie",
+      "pos": "First Base / Left Handed Pitcher",
+      "yr": "Jr.",
+      "num": "22.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Villanova",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5447&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 3.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "bd0058a0": {
+      "id": "bd0058a0",
+      "name": "Karson Lindsey",
+      "fn": "Karson",
+      "ln": "Lindsey",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Jr.",
+      "num": "23.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Villanova",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5447&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "759b0762": {
+      "id": "759b0762",
+      "name": "Jesus Campa",
+      "fn": "Jesus",
+      "ln": "Campa",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Gr.",
+      "num": "27.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Villanova",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5447&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 2.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+    },
+    "a5675298": {
+      "id": "a5675298",
+      "name": "Clark Lincoln",
+      "fn": "Clark",
+      "ln": "Lincoln",
+      "pos": "Right-Handed Pitcher",
+      "yr": "R-So.",
+      "num": "28.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Villanova",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5447&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 2,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 1.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "5400472a": {
+      "id": "5400472a",
+      "name": "Cody Williams",
+      "fn": "Cody",
+      "ln": "Williams",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Gr.",
+      "num": "30.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Villanova",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5446&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "d39a657d": {
+      "id": "d39a657d",
+      "name": "Tanner Walker",
+      "fn": "Tanner",
+      "ln": "Walker",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Sr.",
+      "num": "35.0",
+      "school": "Florida A&M University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Villanova",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5446&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 5,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Villanova, throwing 5.0 innings. Struck out 5 while allowing just 4 hit(s) and 1 earned run(s) in a quality start."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

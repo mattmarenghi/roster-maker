@@ -1,0 +1,439 @@
+{
+  "school": "Southern University, Baton Rouge",
+  "base_url": "https://www.gojagsports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:05:30.769425Z",
+  "record": "5-8",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Dillard University",
+    "result": "W 20-7",
+    "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
+  },
+  "players": {
+    "b11210fd": {
+      "id": "b11210fd",
+      "name": "Malik Foster",
+      "fn": "Malik",
+      "ln": "Foster",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "0.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "McNeese St.",
+        "result": "L 5-14",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "ebde28a5": {
+      "id": "ebde28a5",
+      "name": "Genesis Prosper",
+      "fn": "Genesis",
+      "ln": "Prosper",
+      "pos": "",
+      "yr": "Fr.",
+      "num": "7.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Morehead St.",
+        "result": "L 7-8",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7489&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Morehead St., throwing 4.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
+    },
+    "d6edfdcd": {
+      "id": "d6edfdcd",
+      "name": "Caiden Stewart",
+      "fn": "Caiden",
+      "ln": "Stewart",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "14.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "McNeese St.",
+        "result": "L 5-14",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 4,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against McNeese St., throwing 4.0 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
+    },
+    "0b48c937": {
+      "id": "0b48c937",
+      "name": "Myles Dismute",
+      "fn": "Myles",
+      "ln": "Dismute",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "22.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Morehead St.",
+        "result": "L 7-8",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7489&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Morehead St., throwing 1.2 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+    },
+    "e4d0a78f": {
+      "id": "e4d0a78f",
+      "name": "Caden Brown",
+      "fn": "Caden",
+      "ln": "Brown",
+      "pos": "UTL",
+      "yr": "Fr.",
+      "num": "24.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Dillard University",
+        "result": "W 20-7",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Dillard University, throwing 2.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "88ee36a9": {
+      "id": "88ee36a9",
+      "name": "Kenneth Jackson",
+      "fn": "Kenneth",
+      "ln": "Jackson",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "27.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "McNeese St.",
+        "result": "L 5-14",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "57ecfa92": {
+      "id": "57ecfa92",
+      "name": "Brant Stewart",
+      "fn": "Brant",
+      "ln": "Stewart",
+      "pos": "INF",
+      "yr": "So.",
+      "num": "30.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "McNeese St.",
+        "result": "L 5-14",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 4,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against McNeese St., throwing 4.0 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
+    },
+    "b88efcec": {
+      "id": "b88efcec",
+      "name": "Stephen Tolbert",
+      "fn": "Stephen",
+      "ln": "Tolbert",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "34.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Dillard University",
+        "result": "W 20-7",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 0,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "6029c687": {
+      "id": "6029c687",
+      "name": "Noah Bagby",
+      "fn": "Noah",
+      "ln": "Bagby",
+      "pos": "LHP",
+      "yr": "R-Fr.",
+      "num": "37.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Dillard University",
+        "result": "W 20-7",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Dillard University, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "780d0208": {
+      "id": "780d0208",
+      "name": "Brayden Guillory",
+      "fn": "Brayden",
+      "ln": "Guillory",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "38.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "McNeese St.",
+        "result": "L 5-14",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against McNeese St., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "99725778": {
+      "id": "99725778",
+      "name": "Rupert Blackwood",
+      "fn": "Rupert",
+      "ln": "Blackwood",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "39.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Dillard University",
+        "result": "W 20-7",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 6,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Dillard University, throwing 3.0 innings. Allowed 0 earned run(s) with 6 strikeout(s)."
+    },
+    "0b0d2db8": {
+      "id": "0b0d2db8",
+      "name": "Jeremiah Eneix",
+      "fn": "Jeremiah",
+      "ln": "Eneix",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "41.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Morehead St.",
+        "result": "L 7-8",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7489&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Morehead St., throwing 3.1 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
+    },
+    "3f3dabaf": {
+      "id": "3f3dabaf",
+      "name": "Breyan Brooks",
+      "fn": "Breyan",
+      "ln": "Brooks",
+      "pos": "LHP",
+      "yr": "R-So.",
+      "num": "50.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "McNeese St.",
+        "result": "L 5-14",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against McNeese St., throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "1d544577": {
+      "id": "1d544577",
+      "name": "Daniel McIntosh",
+      "fn": "Daniel",
+      "ln": "McIntosh",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "52.0",
+      "school": "Southern University, Baton Rouge",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Dillard University",
+        "result": "W 20-7",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Dillard University, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

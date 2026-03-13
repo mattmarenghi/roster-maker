@@ -1,0 +1,379 @@
+{
+  "school": "Saint Louis University",
+  "base_url": "https://www.slubillikens.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:01:43.789894Z",
+  "record": "7-10",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Illinois State",
+    "result": "L 5-8",
+    "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+    "recap_url": "https://www.slubillikens.com/news/2026/3/10/baseball-billikens-fall-to-illinois-state-8-5.aspx",
+    "recap_headline": "Saint Louis Billikens Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "006353f8": {
+      "id": "006353f8",
+      "name": "Drew Welk",
+      "fn": "Drew",
+      "ln": "Welk",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "5.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Bradley",
+        "result": "W 4-1",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18536&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "db4251eb": {
+      "id": "db4251eb",
+      "name": "Adam Shipley",
+      "fn": "Adam",
+      "ln": "Shipley",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "9.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Illinois State",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Illinois State, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "353a30f4": {
+      "id": "353a30f4",
+      "name": "Colin Hawkins",
+      "fn": "Colin",
+      "ln": "Hawkins",
+      "pos": "LHP",
+      "yr": "Gr.",
+      "num": "11.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Illinois State",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Illinois State, throwing 1.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "d431455e": {
+      "id": "d431455e",
+      "name": "Caden Earing",
+      "fn": "Caden",
+      "ln": "Earing",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "12.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Illinois State",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 6,
+          "r": 5,
+          "er": 5,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Illinois State, throwing 3.1 innings. Allowed 5 earned run(s) with 1 strikeout(s)."
+    },
+    "f05f69d4": {
+      "id": "f05f69d4",
+      "name": "Andrew Dumont",
+      "fn": "Andrew",
+      "ln": "Dumont",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "15.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Illinois State",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Illinois State, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "fb5b7c13": {
+      "id": "fb5b7c13",
+      "name": "Trevor Jackson",
+      "fn": "Trevor",
+      "ln": "Jackson",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "20.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Bradley",
+        "result": "W 4-1",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18536&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "70a56587": {
+      "id": "70a56587",
+      "name": "Dylan Gormont",
+      "fn": "Dylan",
+      "ln": "Gormont",
+      "pos": "LHP",
+      "yr": "R-Jr.",
+      "num": "26.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Illinois State",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Illinois State, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "31c896f8": {
+      "id": "31c896f8",
+      "name": "Liam McKinney",
+      "fn": "Liam",
+      "ln": "McKinney",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "33.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bradley",
+        "result": "W 9-7",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18535&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 3.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    },
+    "6fe67002": {
+      "id": "6fe67002",
+      "name": "Noah Andrunas",
+      "fn": "Noah",
+      "ln": "Andrunas",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "34.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Bradley",
+        "result": "W 4-1",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18536&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 6.0 innings. Struck out 3 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
+    },
+    "0fc47299": {
+      "id": "0fc47299",
+      "name": "Jack Dumont",
+      "fn": "Jack",
+      "ln": "Dumont",
+      "pos": "LHP",
+      "yr": "Sr.",
+      "num": "35.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Illinois State",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Illinois State, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "74e6b835": {
+      "id": "74e6b835",
+      "name": "Brian Nunez",
+      "fn": "Brian",
+      "ln": "Nunez",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "44.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Illinois State",
+        "result": "L 5-8",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18537&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Illinois State, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "ffc041ac": {
+      "id": "ffc041ac",
+      "name": "Ty Holman",
+      "fn": "Ty",
+      "ln": "Holman",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "47.0",
+      "school": "Saint Louis University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bradley",
+        "result": "W 9-7",
+        "boxscore_url": "https://www.slubillikens.com/boxscore.aspx?id=18535&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 7,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 4.0 innings. Allowed 3 earned run(s) with 7 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

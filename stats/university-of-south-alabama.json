@@ -1,0 +1,379 @@
+{
+  "school": "University of South Alabama",
+  "base_url": "https://www.usajaguars.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:26:43.166437Z",
+  "record": "12-5",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Southeastern La.",
+    "result": "W 10-3",
+    "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11262&path=baseball",
+    "recap_url": "https://www.usajaguars.com/news/2026/3/11/baseball-jaguars-top-lions-in-midweek-match-up-10-3.aspx",
+    "recap_headline": "University of South Alabama Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "192df842": {
+      "id": "192df842",
+      "name": "Jaxon Shineflew",
+      "fn": "Jaxon",
+      "ln": "Shineflew",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "10.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Louisiana Tech",
+        "result": "L 1-6",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11261&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 4.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "1684bb97": {
+      "id": "1684bb97",
+      "name": "Bryant Quimby",
+      "fn": "Bryant",
+      "ln": "Quimby",
+      "pos": "LHP",
+      "yr": "5th",
+      "num": "11.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Louisiana Tech",
+        "result": "L 2-6",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11260&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "ae6632d5": {
+      "id": "ae6632d5",
+      "name": "Hayden O'Dell",
+      "fn": "Hayden",
+      "ln": "O'Dell",
+      "pos": "LHP",
+      "yr": "Sr.",
+      "num": "17.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Southeastern La.",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11262&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Southeastern La., throwing 3.2 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "a1dd0f80": {
+      "id": "a1dd0f80",
+      "name": "Ryland Bozenhard",
+      "fn": "Ryland",
+      "ln": "Bozenhard",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "20.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Louisiana Tech",
+        "result": "L 2-6",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11260&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.2",
+          "h": 6,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 6,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 5.2 innings. Struck out 6 while allowing just 6 hit(s) and 1 earned run(s) in a quality start."
+    },
+    "ccbe3b6d": {
+      "id": "ccbe3b6d",
+      "name": "Max Miller",
+      "fn": "Max",
+      "ln": "Miller",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "27.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Southeastern La.",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11262&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 1,
+          "r": 1,
+          "er": 0,
+          "bb": 3,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeastern La., throwing 2.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "4693ca17": {
+      "id": "4693ca17",
+      "name": "Zach Stevens",
+      "fn": "Zach",
+      "ln": "Stevens",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "30.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Southeastern La.",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11262&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeastern La., throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "e663218d": {
+      "id": "e663218d",
+      "name": "Daniel Gonzalez",
+      "fn": "Daniel",
+      "ln": "Gonzalez",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "33.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Louisiana Tech",
+        "result": "L 1-6",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11261&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 3,
+          "er": 2,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 2.0 innings. Allowed 2 earned run(s) with 5 strikeout(s)."
+    },
+    "1f8a2917": {
+      "id": "1f8a2917",
+      "name": "Jake Middleton",
+      "fn": "Jake",
+      "ln": "Middleton",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "34.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Louisiana Tech",
+        "result": "L 1-6",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11261&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "125dc05c": {
+      "id": "125dc05c",
+      "name": "Brian Garmon II",
+      "fn": "Brian",
+      "ln": "Garmon II",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "37.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Southeastern La.",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11262&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Southeastern La., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "738176fa": {
+      "id": "738176fa",
+      "name": "Bray Goode",
+      "fn": "Bray",
+      "ln": "Goode",
+      "pos": "LHP",
+      "yr": "Fr.",
+      "num": "39.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Louisiana Tech",
+        "result": "L 2-6",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11260&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "bf737329": {
+      "id": "bf737329",
+      "name": "Will Sparks",
+      "fn": "Will",
+      "ln": "Sparks",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "41.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Louisiana Tech",
+        "result": "L 1-6",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11261&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "6d2c8d08": {
+      "id": "6d2c8d08",
+      "name": "Andrew Floyd",
+      "fn": "Andrew",
+      "ln": "Floyd",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "43.0",
+      "school": "University of South Alabama",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Southeastern La.",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11262&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeastern La., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

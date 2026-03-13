@@ -1,0 +1,18 @@
+{
+  "school": "University of Arkansas, Pine Bluff",
+  "base_url": "https://uapblionsroar.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:13:37.497568Z",
+  "record": "5-12",
+  "most_recent_game": {
+    "date": "2026-03-07",
+    "opponent": "Houston",
+    "result": "W 6-5",
+    "boxscore_url": "https://uapblionsroar.com/boxscore.aspx?id=7077&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

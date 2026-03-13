@@ -1,0 +1,349 @@
+{
+  "school": "University of Central Arkansas",
+  "base_url": "https://www.ucasports.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T03:15:39.469670Z",
+  "record": "10-7",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Oral Roberts",
+    "result": "W 8-7",
+    "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+    "recap_url": "https://www.ucasports.com/news/2026/3/10/baseball-bears-get-10th-win-of-the-season-beating-oru.aspx",
+    "recap_headline": "University of Central Arkansas Athletics",
+    "recap_text": ""
+  },
+  "players": {
+    "352932b0": {
+      "id": "352932b0",
+      "name": "Braxton Haywood",
+      "fn": "Braxton",
+      "ln": "Haywood",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "10.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 2.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+    },
+    "4682f645": {
+      "id": "4682f645",
+      "name": "Austin Jones",
+      "fn": "Austin",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "11.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 2,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "aa845a4e": {
+      "id": "aa845a4e",
+      "name": "Samuel Curtis",
+      "fn": "Samuel",
+      "ln": "Curtis",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "13.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "50256188": {
+      "id": "50256188",
+      "name": "Jacob Pannell",
+      "fn": "Jacob",
+      "ln": "Pannell",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "17.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Little Rock",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12117&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Little Rock, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "a8e2f054": {
+      "id": "a8e2f054",
+      "name": "Tobin Cantrill",
+      "fn": "Tobin",
+      "ln": "Cantrill",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "19.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Little Rock",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12117&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 0,
+          "r": 3,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": null
+    },
+    "58239008": {
+      "id": "58239008",
+      "name": "Silas Cowgill",
+      "fn": "Silas",
+      "ln": "Cowgill",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "20.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "3f09cf1e": {
+      "id": "3f09cf1e",
+      "name": "Kannon Nesslage",
+      "fn": "Kannon",
+      "ln": "Nesslage",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "30.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 0.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+    },
+    "3c1dc8db": {
+      "id": "3c1dc8db",
+      "name": "JB Williams",
+      "fn": "JB",
+      "ln": "Williams",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "35.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "6dc19846": {
+      "id": "6dc19846",
+      "name": "Jake Jones",
+      "fn": "Jake",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "R-So.",
+      "num": "36.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 2,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "f536bda5": {
+      "id": "f536bda5",
+      "name": "Patrick Fernandez",
+      "fn": "Patrick",
+      "ln": "Fernandez",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "39.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 3.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+    },
+    "68bd1856": {
+      "id": "68bd1856",
+      "name": "Reign Williams",
+      "fn": "Reign",
+      "ln": "Williams",
+      "pos": "OF",
+      "yr": "Fr.",
+      "num": "41.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Oral Roberts",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12118&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Oral Roberts, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

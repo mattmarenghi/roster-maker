@@ -1,0 +1,18 @@
+{
+  "school": "Northern Illinois University",
+  "base_url": "https://www.niuhuskies.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:55:35.482640Z",
+  "record": "9-5",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "Ohio",
+    "result": "L 2-8",
+    "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24906&path=baseball",
+    "recap_url": "https://www.niuhuskies.com/news/2026/3/8/baseball-niu-takes-first-mac-series-of-season-at-ohio.aspx",
+    "recap_headline": "Northern Illinois University Athletics",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

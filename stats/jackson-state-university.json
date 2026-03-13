@@ -1,0 +1,49 @@
+{
+  "school": "Jackson State University",
+  "base_url": "https://www.gojsutigers.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:41:50.808854Z",
+  "record": "9-9",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Nicholls",
+    "result": "W 12-2",
+    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5202&path=baseball",
+    "recap_url": "https://www.gojsutigers.com/news/2026/3/10/baseball-tigers-fall-to-nicholls-on-the-road.aspx",
+    "recap_headline": "Jackson State University",
+    "recap_text": ""
+  },
+  "players": {
+    "495b2f0c": {
+      "id": "495b2f0c",
+      "name": "Marcus Smith",
+      "fn": "Marcus",
+      "ln": "Smith",
+      "pos": "RHP/INF",
+      "yr": "Fr.",
+      "num": "31.0",
+      "school": "Jackson State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Seattle U",
+        "result": "W 6-4",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5201&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Seattle U, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

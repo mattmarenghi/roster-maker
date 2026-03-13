@@ -1,0 +1,18 @@
+{
+  "school": "East Tennessee State University",
+  "base_url": "https://www.etsubucs.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:34:30.393534Z",
+  "record": "10-5",
+  "most_recent_game": {
+    "date": "2026-03-08",
+    "opponent": "James Madison",
+    "result": "L 0-13",
+    "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12541&path=baseball",
+    "recap_url": "https://www.etsubucs.com/news/2026/3/8/baseball-returns-to-the-win-column-with-a-13-0-victory-over-james-madison.aspx",
+    "recap_headline": "East Tennessee State University",
+    "recap_text": ""
+  },
+  "players": {},
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}

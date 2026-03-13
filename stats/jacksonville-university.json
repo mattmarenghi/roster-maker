@@ -1,0 +1,319 @@
+{
+  "school": "Jacksonville University",
+  "base_url": "https://www.judolphins.com",
+  "season": "2026",
+  "generated_at": "2026-03-13T02:42:11.858769Z",
+  "record": "9-8",
+  "most_recent_game": {
+    "date": "2026-03-09",
+    "opponent": "South Florida",
+    "result": "L 6-11",
+    "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7382&path=baseball",
+    "recap_url": "https://www.judolphins.com/news/2026/3/9/baseball-dolphins-drop-midweek-matchup-to-usf-11-6.aspx",
+    "recap_headline": "Jacksonville University",
+    "recap_text": ""
+  },
+  "players": {
+    "d6dcd93e": {
+      "id": "d6dcd93e",
+      "name": "Gavin Dicks",
+      "fn": "Gavin",
+      "ln": "Dicks",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "16.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "South Florida",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 9,
+          "r": 8,
+          "er": 8,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against South Florida, throwing 3.0 innings. Allowed 8 earned run(s) with 1 strikeout(s)."
+    },
+    "834614bf": {
+      "id": "834614bf",
+      "name": "Ben Baker-Livingston",
+      "fn": "Ben",
+      "ln": "Baker-Livingston",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "21.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UNC Wilmington",
+        "result": "L 2-7",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7381&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 2,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UNC Wilmington, throwing 1.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "3b5342b9": {
+      "id": "3b5342b9",
+      "name": "Kyle Hopper",
+      "fn": "Kyle",
+      "ln": "Hopper",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "26.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "South Florida",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Florida, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "75003b49": {
+      "id": "75003b49",
+      "name": "Scout Updike",
+      "fn": "Scout",
+      "ln": "Updike",
+      "pos": "RHP",
+      "yr": "R-Sr.",
+      "num": "27.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "South Florida",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Florida, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "f4d11f2f": {
+      "id": "f4d11f2f",
+      "name": "Austin Williamson",
+      "fn": "Austin",
+      "ln": "Williamson",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "28.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "South Florida",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 1,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Florida, throwing 3.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "08ffe88d": {
+      "id": "08ffe88d",
+      "name": "Brendan Holland",
+      "fn": "Brendan",
+      "ln": "Holland",
+      "pos": "LHP",
+      "yr": "Gr.",
+      "num": "31.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UNC Wilmington",
+        "result": "L 2-7",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7381&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 7,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UNC Wilmington, throwing 3.2 innings. Allowed 5 earned run(s) with 4 strikeout(s)."
+    },
+    "9fa4cc11": {
+      "id": "9fa4cc11",
+      "name": "Kyle Powers",
+      "fn": "Kyle",
+      "ln": "Powers",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "35.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UNC Wilmington",
+        "result": "L 4-9",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7380&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UNC Wilmington, throwing 3.0 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
+    },
+    "ff98a5a8": {
+      "id": "ff98a5a8",
+      "name": "Payton Waters",
+      "fn": "Payton",
+      "ln": "Waters",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "38.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UNC Wilmington",
+        "result": "L 4-9",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7380&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 6,
+          "r": 5,
+          "er": 3,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UNC Wilmington, throwing 5.0 innings. Struck out 3 while allowing just 6 hit(s) and 3 earned run(s) in a quality start."
+    },
+    "c2417423": {
+      "id": "c2417423",
+      "name": "Ayden Phillips",
+      "fn": "Ayden",
+      "ln": "Phillips",
+      "pos": "INF/RHP",
+      "yr": "Fr.",
+      "num": "40.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "South Florida",
+        "result": "L 6-11",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Florida, throwing 1.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+    },
+    "55481835": {
+      "id": "55481835",
+      "name": "Dominic Pieto",
+      "fn": "Dominic",
+      "ln": "Pieto",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "45.0",
+      "school": "Jacksonville University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UNC Wilmington",
+        "result": "L 4-9",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7380&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UNC Wilmington, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    }
+  },
+  "narratives_generated_by": "claude-haiku-4-5-20251001"
+}
