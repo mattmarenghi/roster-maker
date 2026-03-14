@@ -1,17 +1,17 @@
 {
   "school": "University of Texas at Austin",
-  "base_url": "https://texassports.com",
+  "base_url": "https://www.TexasLonghorns.com",
   "season": "2026",
-  "generated_at": "2026-03-13T01:47:44.540555Z",
-  "record": "16-0",
+  "generated_at": "2026-03-14T16:25:29.937721Z",
+  "record": "35-40",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Texas State",
-    "result": "L 4-15",
-    "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/texas-state/boxscore/17834",
-    "recap_url": "https://texassports.com/news/2026/3/10/borba-leads-no-2-baseball-to-15-4-victory-at-texas-state",
+    "date": "2026-03-13",
+    "opponent": "Ole Miss",
+    "result": "L",
+    "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
+    "recap_url": "https://www.TexasLonghorns.com/news/2026/3/13/no-2-baseball-suffers-first-loss-in-9-8-extra-inning-defeat-to-ole-miss",
     "recap_headline": "The University of Texas at Austin Athletics",
-    "recap_text": "SAN MARCOS, Texas \u2014\nCasey Borba\nmounted his second career multi-homer effort and drove in five runs, as No. 2 Texas topped Texas State, 15-4, at Bobcat Ballpark on Tuesday night.\nBorba's performance led the Longhorns (16-0) to double-digit tallies for their sixth consecutive game, accomplishing the feat for the first time since 1940. Texas' 16-0 ledger matches its best start to a season in 21 years.\nThe junior crushed a 477-foot three-run jack in the third before smacking a seventh-inning solo shot, which marked his fourth home run in as many games. Borba reached safely five times, adding a bases-loaded walk to register five RBI for the second straight contest.\nAnthony Pack Jr.\nand\nTemo Becerra\nalso left the yard in the win, combining to plate five runs. Pack powered a two-run homer, while Becerra blasted a three-RBI round-tripper to cap off the offensive onslaught.\nOverall, Texas scored in six different frames, notching a co-season-high 15 hits. Eight of the nine starters logged a knock, with five players posting multi-hit efforts.\nThe Longhorns raced out to an early 7-0 lead, highlighted by Borba and Pack Jr.'s round-homers in the third and fourth frames, respectively.\nDawson Park's three-run jack pulled the Bobcats (12-3) back within four, but Texas totaled seven runs across the final two innings.\nAdrian Rodriguez\n,\nJayden Duplantier\nand\nJosh Livingston\nteamed up to put up a four-spot in the eighth, setting the stage for Becerra in the ninth.\nEthan Walker\n(1-0) earned the win in relief of starter\nSam Cozart\n, who yielded three runs over 4 2/3 frames. The reigning SEC Freshman of the Week struck out four in his third career start.\nTexas State starter Titan Targac (1-3) was chased after tossing 35 pitches in the opening inning. Targac\u00a0only recorded two outs, surrendering\u00a0a pair of runs on two hits and two walks.\nFollowing their first true road contest of the season, the Longhorns return home to open their Southeastern Conference slate. Texas begins league play with a three-game set against Ole Miss. The series opener is scheduled for 6:30 p.m. at UFCU Disch-Falk Field on Friday."
+    "recap_text": "AUSTIN, Texas \u2014\nThe second-ranked University of Texas baseball team dropped its first contest of the season, falling to Ole Miss, 9-8 in 11 innings at UFCU Disch-Falk Field on Friday night.\nWith the loss, the Longhorns' season-opening winning streak was halted at 16 games, matching Texas' best start to a season since 2005.\nIn the bottom of the 11\nth\n, the Longhorns (16-1, 0-1 SEC) put the tying tally\u00a0on first and brought the winning run to the plate, but Ole Miss righty Landon Waters (1) slammed the door with a strikeout.\nTexas also found itself down to its final strike in the ninth, but\nTemo Becerra\nnotched a game-tying single to force extra innings.\nAcross the 4-hour, 34-minute contest, the Longhorns led for 4 \u00bd frames, coming one out away from registering a win in the Southeastern Conference opener.\nInstead, right fielder Tristan Bissetta launched a go-ahead grand slam to vault the Rebels in front, 8-7.\nIn the defeat, Texas totaled three home runs, capped off by\nAnthony Pack Jr.'s\nthree-run shot in the eighth. Pack Jr.'s fourth blast of the season padded the Longhorns' lead to 7-3.\nEthan Mendoza\nand\nCasey Borba\nalso left the yard, smacking homers in the third and fourth, respectively. Mendoza mashed a game-tying three-run jack before Borba smacked his fifth round-tripper in as many games one frame later.\nOle Miss righty Tyler Rabe (3-0) earned the victory, striking out five over two innings in relief.\nMeanwhile, Texas right-hander\nBrett Crossland\n(1-1) was tagged with the loss. Crossland struck out four of the six batters he faced, but a hit batsman came around to score the decisive run.\nThe Longhorns will look to even the series against the Rebels on Saturday. First pitch is set for 2:30 p.m. at UFCU Disch-Falk Field."
   },
   "players": {
     "5c085f5e": {
@@ -24,47 +24,50 @@
       "num": "0.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 15,
-        "gs": 2,
-        "avg": 0.25,
-        "ops": 0.65,
-        "ab": 20,
-        "r": 6,
-        "h": 5,
+        "g": 16,
+        "gs": 3,
+        "avg": 0.273,
+        "ops": 0.702,
+        "ab": 22,
+        "r": 7,
+        "h": 6,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 4,
-        "tb": 5,
-        "slg": 0.25,
-        "bb": 5,
+        "tb": 6,
+        "slg": 0.273,
+        "bb": 6,
         "hbp": 0,
         "so": 5,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.429,
         "sf": 0,
-        "sh": 1,
-        "sb": 1,
-        "sb_att": 2
+        "sh": 2,
+        "sb": 2,
+        "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 0 RBI against Usc Upstate. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 1/2 with 0 RBI against Ole Miss. Had an outstanding performance at the plate (0.500)."
     },
     "df929448": {
       "id": "df929448",
@@ -76,24 +79,24 @@
       "num": "1.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.386,
-        "ops": 1.212,
-        "ab": 57,
-        "r": 21,
-        "h": 22,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.383,
+        "ops": 1.206,
+        "ab": 60,
+        "r": 22,
+        "h": 23,
         "doubles": 2,
         "triples": 1,
         "hr": 5,
-        "rbi": 20,
-        "tb": 41,
-        "slg": 0.719,
-        "bb": 11,
+        "rbi": 21,
+        "tb": 42,
+        "slg": 0.7,
+        "bb": 14,
         "hbp": 2,
-        "so": 8,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.493,
+        "obp": 0.506,
         "sf": 1,
         "sh": 0,
         "sb": 4,
@@ -101,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "3B"
+          "h": 1,
+          "rbi": 1,
+          "bb": 3,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Usc Upstate. Struggled to make contact."
+      "narrative": "Went 1/3 with 1 RBI against Ole Miss. Contributed at the plate in the team's L."
     },
     "85f4a381": {
       "id": "85f4a381",
@@ -149,18 +155,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 1,
@@ -172,7 +170,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against USC Upstate, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "ad7b0f09": {
       "id": "ad7b0f09",
@@ -184,24 +182,24 @@
       "num": "5.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.323,
-        "ops": 0.956,
-        "ab": 65,
-        "r": 18,
-        "h": 21,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.31,
+        "ops": 0.949,
+        "ab": 71,
+        "r": 19,
+        "h": 22,
         "doubles": 2,
         "triples": 0,
-        "hr": 4,
-        "rbi": 14,
-        "tb": 35,
-        "slg": 0.538,
+        "hr": 5,
+        "rbi": 17,
+        "tb": 39,
+        "slg": 0.549,
         "bb": 10,
         "hbp": 2,
-        "so": 10,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.418,
+        "obp": 0.4,
         "sf": 2,
         "sh": 0,
         "sb": 3,
@@ -209,22 +207,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "2B"
+          "ab": 6,
+          "r": 1,
+          "h": 1,
+          "rbi": 3,
+          "bb": 0,
+          "so": 2,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Usc Upstate. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/6 with 3 RBI against Ole Miss. Hit 1 home run(s). Struggled to make contact."
     },
     "99b8306c": {
       "id": "99b8306c",
@@ -236,47 +237,50 @@
       "num": "6.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.346,
-        "ops": 1.1,
-        "ab": 52,
-        "r": 19,
-        "h": 18,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.351,
+        "ops": 1.135,
+        "ab": 57,
+        "r": 20,
+        "h": 20,
         "doubles": 5,
         "triples": 0,
-        "hr": 3,
-        "rbi": 19,
-        "tb": 32,
-        "slg": 0.615,
+        "hr": 4,
+        "rbi": 22,
+        "tb": 37,
+        "slg": 0.649,
         "bb": 11,
-        "hbp": 3,
-        "so": 9,
+        "hbp": 4,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.485,
+        "obp": 0.486,
         "sf": 0,
         "sh": 0,
-        "sb": 6,
-        "sb_att": 7
+        "sb": 7,
+        "sb_att": 8
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 2,
-          "r": 2,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
-          "so": 0,
-          "pos": "RF"
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 3,
+          "bb": 0,
+          "so": 2,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 2 RBI against Usc Upstate. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/5 with 3 RBI against Ole Miss. Hit 1 home run(s). Had an outstanding performance at the plate (0.400)."
     },
     "b0a135e7": {
       "id": "b0a135e7",
@@ -313,22 +317,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
+        "date": "2026-03-03",
+        "opponent": "Houston Christian",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/houston-christian/boxscore/17830",
         "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "PR/C"
+          "ab": 3,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 2/3 with 1 RBI against Houston Christian. Had an outstanding performance at the plate (0.667)."
     },
     "f4a9648c": {
       "id": "f4a9648c",
@@ -340,24 +347,24 @@
       "num": "8.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.259,
-        "ops": 0.978,
-        "ab": 54,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.25,
+        "ops": 0.921,
+        "ab": 60,
         "r": 16,
-        "h": 14,
+        "h": 15,
         "doubles": 2,
         "triples": 0,
         "hr": 4,
         "rbi": 9,
-        "tb": 28,
-        "slg": 0.519,
+        "tb": 29,
+        "slg": 0.483,
         "bb": 17,
         "hbp": 3,
-        "so": 16,
+        "so": 20,
         "gdp": 0,
-        "obp": 0.459,
+        "obp": 0.438,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -365,22 +372,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 3,
+          "ab": 6,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "C"
+          "so": 4,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Usc Upstate. Struggled to make contact."
+      "narrative": "Went 1/6 with 0 RBI against Ole Miss. Struggled to make contact."
     },
     "8efae056": {
       "id": "8efae056",
@@ -419,8 +429,8 @@
       "last_game": {
         "date": "2026-03-06",
         "opponent": "USC Upstate",
-        "result": "W 14-2",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17831",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17831",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -428,7 +438,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -446,49 +459,41 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.33,
+        "whip": 0.53,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 3.0,
-        "h": 0,
+        "ip": 5.2,
+        "h": 1,
         "r": 0,
         "er": 0,
-        "bb": 1,
-        "so": 6,
+        "bb": 2,
+        "so": 9,
         "hr": 0,
         "hbp": 0,
-        "wp": 0,
-        "opp_avg": ".000"
+        "wp": 1,
+        "opp_avg": ".063"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
+        "batting": null,
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
+          "ip": "2.2",
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Ole Miss, throwing 2.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "6b96c1cf": {
       "id": "6b96c1cf",
@@ -501,50 +506,42 @@
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.23,
-        "whip": 0.64,
+        "era": 2.05,
+        "whip": 0.8,
         "w": 4,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 22.0,
-        "h": 11,
-        "r": 3,
-        "er": 3,
-        "bb": 3,
-        "so": 42,
+        "g": 5,
+        "gs": 5,
+        "ip": 26.1,
+        "h": 17,
+        "r": 6,
+        "er": 6,
+        "bb": 4,
+        "so": 50,
         "hr": 1,
         "hbp": 2,
-        "wp": 0,
-        "opp_avg": ".143"
+        "wp": 1,
+        "opp_avg": ".179"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "USC Upstate",
-        "result": "W 14-2",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17831",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
+        "batting": null,
         "pitching": {
-          "ip": "6.0",
-          "h": 4,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 12,
-          "wp": 0,
+          "ip": "4.1",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 8,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against USC Upstate, throwing 6.0 innings. Struck out 12 while allowing just 4 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "Took the mound against Ole Miss, throwing 4.1 innings. Allowed 3 earned run(s) with 8 strikeout(s)."
     },
     "a9e30593": {
       "id": "a9e30593",
@@ -580,8 +577,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Baylor",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/baylor/boxscore/17043",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Baylor. Had an outstanding performance at the plate (0.500)."
     },
     "513d5feb": {
       "id": "513d5feb",
@@ -593,24 +608,24 @@
       "num": "15.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 10,
-        "gs": 7,
-        "avg": 0.28,
-        "ops": 1.111,
-        "ab": 25,
-        "r": 10,
+        "g": 11,
+        "gs": 8,
+        "avg": 0.25,
+        "ops": 1.033,
+        "ab": 28,
+        "r": 11,
         "h": 7,
         "doubles": 3,
         "triples": 0,
         "hr": 2,
         "rbi": 9,
         "tb": 16,
-        "slg": 0.64,
-        "bb": 7,
+        "slg": 0.571,
+        "bb": 9,
         "hbp": 2,
-        "so": 6,
+        "so": 8,
         "gdp": 0,
-        "obp": 0.471,
+        "obp": 0.462,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -618,22 +633,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 3,
-          "rbi": 6,
-          "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 6 RBI against Usc Upstate. Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 0/3 with 0 RBI against Ole Miss. Struggled at the plate but saw 2 walk(s)."
     },
     "eefed8df": {
       "id": "eefed8df",
@@ -645,11 +663,11 @@
       "num": "24.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.338,
-        "ops": 0.927,
-        "ab": 65,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.31,
+        "ops": 0.853,
+        "ab": 71,
         "r": 20,
         "h": 22,
         "doubles": 9,
@@ -657,12 +675,12 @@
         "hr": 0,
         "rbi": 13,
         "tb": 33,
-        "slg": 0.508,
+        "slg": 0.465,
         "bb": 8,
         "hbp": 1,
-        "so": 6,
+        "so": 9,
         "gdp": 2,
-        "obp": 0.419,
+        "obp": 0.388,
         "sf": 0,
         "sh": 1,
         "sb": 5,
@@ -670,22 +688,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 3,
-          "r": 3,
-          "h": 3,
+          "ab": 6,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "SS"
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/3 with 0 RBI against Usc Upstate. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/6 with 0 RBI against Ole Miss. Struggled to make contact."
     },
     "e3f6f66e": {
       "id": "e3f6f66e",
@@ -698,26 +719,42 @@
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 1.41,
+        "era": 2.84,
+        "whip": 1.58,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 5.2,
-        "h": 4,
-        "r": 0,
-        "er": 0,
-        "bb": 4,
+        "ip": 6.1,
+        "h": 5,
+        "r": 2,
+        "er": 2,
+        "bb": 5,
         "so": 9,
-        "hr": 0,
+        "hr": 1,
         "hbp": 3,
         "wp": 1,
-        "opp_avg": ".200"
+        "opp_avg": ".217"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Ole Miss, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "0eb45917": {
       "id": "0eb45917",
@@ -754,22 +791,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-03",
-        "opponent": "Houston Christian",
-        "result": "W 16-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/houston-christian/boxscore/17830",
+        "date": "2026-02-15",
+        "opponent": "UC Davis",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/uc-davis/boxscore/17824",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against UC Davis. Struggled to make contact."
     },
     "d5920e84": {
       "id": "d5920e84",
@@ -781,24 +821,24 @@
       "num": "31.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.352,
-        "ops": 1.193,
-        "ab": 54,
-        "r": 17,
-        "h": 19,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.356,
+        "ops": 1.213,
+        "ab": 59,
+        "r": 18,
+        "h": 21,
         "doubles": 5,
         "triples": 0,
-        "hr": 5,
-        "rbi": 19,
-        "tb": 39,
-        "slg": 0.722,
+        "hr": 6,
+        "rbi": 20,
+        "tb": 44,
+        "slg": 0.746,
         "bb": 13,
         "hbp": 1,
-        "so": 19,
+        "so": 22,
         "gdp": 0,
-        "obp": 0.471,
+        "obp": 0.467,
         "sf": 2,
         "sh": 1,
         "sb": 3,
@@ -806,22 +846,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 2,
-          "r": 3,
+          "ab": 5,
+          "r": 1,
           "h": 2,
-          "rbi": 5,
-          "bb": 1,
-          "so": 0,
-          "pos": "1B"
+          "rbi": 1,
+          "bb": 0,
+          "so": 3,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/2 with 5 RBI against Usc Upstate. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 2/5 with 1 RBI against Ole Miss. Hit 1 home run(s). Had an outstanding performance at the plate (0.400)."
     },
     "08b4822e": {
       "id": "08b4822e",
@@ -833,7 +876,7 @@
       "num": "32.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 1,
         "avg": 0.25,
         "ops": 1.25,
@@ -859,9 +902,9 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -869,11 +912,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Usc Upstate. Struggled to make contact."
+      "narrative": "Went 0/1 with 0 RBI against USC Upstate. Struggled to make contact."
     },
     "7b7e596c": {
       "id": "7b7e596c",
@@ -906,18 +952,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "batting": null,
         "pitching": {
           "ip": "2.1",
           "h": 1,
@@ -929,7 +967,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 2.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against USC Upstate, throwing 2.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "3178c6a2": {
       "id": "3178c6a2",
@@ -961,31 +999,23 @@
         "opp_avg": ".136"
       },
       "last_game": {
-        "date": "2026-03-03",
-        "opponent": "Houston Christian",
-        "result": "W 16-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/houston-christian/boxscore/17830",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Texas State",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/texas-state/boxscore/17834",
+        "batting": null,
         "pitching": {
-          "ip": "5.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 6,
+          "ip": "4.2",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 1
         }
       },
-      "narrative": "Took the mound against Houston Christian, throwing 5.0 innings. Struck out 6 while allowing just 1 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "Took the mound against Texas State, throwing 4.2 innings. Allowed 3 earned run(s) with 4 strikeout(s)."
     },
     "66dd230a": {
       "id": "66dd230a",
@@ -1022,22 +1052,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-03",
-        "opponent": "Houston Christian",
-        "result": "W 16-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/houston-christian/boxscore/17830",
+        "date": "2026-02-24",
+        "opponent": "UTRGV",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/utrgv/boxscore/17829",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "2B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against UTRGV. Struggled to make contact."
     },
     "ea6d4f18": {
       "id": "ea6d4f18",
@@ -1050,50 +1083,42 @@
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.37,
-        "whip": 1.22,
+        "era": 3.09,
+        "whip": 1.29,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 10.2,
-        "h": 8,
+        "ip": 11.2,
+        "h": 9,
         "r": 4,
         "er": 4,
-        "bb": 5,
+        "bb": 6,
         "so": 12,
         "hr": 0,
         "hbp": 1,
         "wp": 2,
-        "opp_avg": ".216"
+        "opp_avg": ".225"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "USC Upstate",
-        "result": "W 14-2",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17831",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
-          "r": 1,
-          "er": 1,
+          "r": 0,
+          "er": 0,
           "bb": 1,
-          "so": 3,
-          "wp": 1,
+          "so": 0,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against USC Upstate, throwing 1.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Ole Miss, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "4f62a1aa": {
       "id": "4f62a1aa",
@@ -1105,47 +1130,50 @@
       "num": "43.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.406,
-        "ops": 1.254,
-        "ab": 64,
-        "r": 21,
-        "h": 26,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.391,
+        "ops": 1.202,
+        "ab": 69,
+        "r": 23,
+        "h": 27,
         "doubles": 4,
         "triples": 1,
         "hr": 6,
         "rbi": 23,
-        "tb": 50,
-        "slg": 0.781,
-        "bb": 9,
+        "tb": 51,
+        "slg": 0.739,
+        "bb": 10,
         "hbp": 0,
-        "so": 13,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.473,
+        "obp": 0.463,
         "sf": 1,
         "sh": 0,
-        "sb": 4,
-        "sb_att": 4
+        "sb": 6,
+        "sb_att": 6
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 2,
-          "pos": "CF"
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Usc Upstate. Struggled to make contact."
+      "narrative": "Went 1/5 with 0 RBI against Ole Miss. Struggled at the plate but saw 1 walk(s)."
     },
     "b4c3664e": {
       "id": "b4c3664e",
@@ -1157,24 +1185,24 @@
       "num": "44.0",
       "school": "University of Texas at Austin",
       "season_batting": {
-        "g": 13,
+        "g": 14,
         "gs": 11,
-        "avg": 0.31,
-        "ops": 0.917,
-        "ab": 29,
+        "avg": 0.333,
+        "ops": 0.95,
+        "ab": 30,
         "r": 4,
-        "h": 9,
+        "h": 10,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
         "rbi": 8,
-        "tb": 15,
-        "slg": 0.517,
+        "tb": 16,
+        "slg": 0.533,
         "bb": 4,
         "hbp": 1,
         "so": 5,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.417,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -1182,22 +1210,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 0,
+          "ab": 1,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "LF"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Usc Upstate. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/1 with 0 RBI against Ole Miss. Had an outstanding performance at the plate (1.000)."
     },
     "8618bc19": {
       "id": "8618bc19",
@@ -1210,50 +1241,26 @@
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.18,
-        "whip": 1.24,
+        "era": 7.11,
+        "whip": 1.26,
         "w": 0,
         "l": 0,
         "sv": 2,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 5.2,
+        "ip": 6.1,
         "h": 3,
-        "r": 3,
-        "er": 2,
-        "bb": 4,
-        "so": 11,
+        "r": 6,
+        "er": 5,
+        "bb": 5,
+        "so": 12,
         "hr": 0,
-        "hbp": 0,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".150"
+        "opp_avg": ".136"
       },
-      "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
-        "pitching": {
-          "ip": "0.1",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
-          "wp": 1,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Usc Upstate, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "last_game": null,
+      "narrative": null
     },
     "6c7082ef": {
       "id": "6c7082ef",
@@ -1267,14 +1274,14 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.86,
+        "whip": 1.0,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 4.2,
-        "h": 2,
+        "ip": 5.0,
+        "h": 3,
         "r": 0,
         "er": 0,
         "bb": 2,
@@ -1282,34 +1289,26 @@
         "hr": 0,
         "hbp": 0,
         "wp": 1,
-        "opp_avg": ".125"
+        "opp_avg": ".167"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
+        "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "0.1",
+          "h": 1,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 3,
+          "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Ole Miss, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "f0849053": {
       "id": "f0849053",
@@ -1342,18 +1341,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 1,
@@ -1365,7 +1356,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against USC Upstate, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "0ec3874a": {
       "id": "0ec3874a",
@@ -1398,18 +1389,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
+        "batting": null,
         "pitching": {
           "ip": "4.2",
           "h": 7,
@@ -1421,7 +1404,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 4.2 innings. Allowed 2 earned run(s) with 7 strikeout(s)."
+      "narrative": "Took the mound against USC Upstate, throwing 4.2 innings. Allowed 2 earned run(s) with 7 strikeout(s)."
     },
     "ecd3dcc5": {
       "id": "ecd3dcc5",
@@ -1454,18 +1437,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Usc Upstate",
-        "result": "W 11-9",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
+        "batting": null,
         "pitching": {
           "ip": "1.2",
           "h": 3,
@@ -1477,7 +1452,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 1.2 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against USC Upstate, throwing 1.2 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
     },
     "b33db7b9": {
       "id": "b33db7b9",
@@ -1490,50 +1465,42 @@
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.69,
-        "whip": 0.38,
+        "era": 2.7,
+        "whip": 0.3,
         "w": 1,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 5.1,
+        "ip": 6.2,
         "h": 1,
-        "r": 1,
-        "er": 1,
+        "r": 2,
+        "er": 2,
         "bb": 1,
-        "so": 5,
+        "so": 9,
         "hr": 1,
-        "hbp": 0,
-        "wp": 1,
-        "opp_avg": ".056"
+        "hbp": 2,
+        "wp": 2,
+        "opp_avg": ".045"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Ole Miss",
+        "result": "L",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17835",
+        "batting": null,
         "pitching": {
-          "ip": "1.0",
+          "ip": "1.1",
           "h": 0,
-          "r": 0,
-          "er": 0,
+          "r": 1,
+          "er": 1,
           "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
+          "so": 4,
+          "wp": 1,
+          "hbp": 2
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Ole Miss, throwing 1.1 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     },
     "80d985a0": {
       "id": "80d985a0",
@@ -1566,18 +1533,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Usc Upstate",
-        "result": "W 13-3",
-        "boxscore_url": "https://texassports.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17833",
+        "batting": null,
         "pitching": {
           "ip": "4.2",
           "h": 6,
@@ -1589,7 +1548,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Usc Upstate, throwing 4.2 innings. Allowed 3 earned run(s) with 4 strikeout(s)."
+      "narrative": "Took the mound against USC Upstate, throwing 4.2 innings. Allowed 3 earned run(s) with 4 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

@@ -2,12 +2,12 @@
   "school": "University of Northern Colorado",
   "base_url": "https://uncbears.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:24:04.834333Z",
+  "generated_at": "2026-03-14T16:14:34.714774Z",
   "record": "2-17",
   "most_recent_game": {
     "date": "2026-03-09",
     "opponent": "Utah Valley",
-    "result": "W 5-1",
+    "result": "L",
     "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
     "recap_url": "https://uncbears.com/news/2026/3/9/baseball-northern-colorado-drops-series-finale-in-orem-prepares-for-first-home-series-hosting-st-thomas",
     "recap_headline": "University of Northern Colorado Athletics",
@@ -48,8 +48,26 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Utah Valley. Contributed at the plate in the team's L."
     },
     "920fb27d": {
       "id": "920fb27d",
@@ -85,8 +103,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against Utah Valley. Struggled to make contact."
     },
     "682f3f7b": {
       "id": "682f3f7b",
@@ -122,8 +158,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah Valley",
+        "result": "W",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14702",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Utah Valley. Struggled to make contact."
     },
     "3b2433f2": {
       "id": "3b2433f2",
@@ -159,8 +213,26 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Utah Valley. Struggled at the plate but saw 1 walk(s)."
     },
     "95be229f": {
       "id": "95be229f",
@@ -196,8 +268,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Utah Valley. Contributed at the plate in the team's L."
     },
     "9f90aa79": {
       "id": "9f90aa79",
@@ -233,8 +323,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Utah Valley. Struggled to make contact."
     },
     "ebdde206": {
       "id": "ebdde206",
@@ -270,8 +378,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Utah Valley. Struggled to make contact."
     },
     "c050dcf0": {
       "id": "c050dcf0",
@@ -307,8 +433,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 0 RBI against Utah Valley. Had an outstanding performance at the plate (0.667)."
     },
     "5a03b3b9": {
       "id": "5a03b3b9",
@@ -344,8 +488,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14703",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Utah Valley. Contributed at the plate in the team's L."
     },
     "2854f655": {
       "id": "2854f655",
@@ -376,8 +538,24 @@
         "wp": 1,
         "opp_avg": ".326"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 1.2 innings. Allowed 5 earned run(s) with 3 strikeout(s)."
     },
     "74dabfc7": {
       "id": "74dabfc7",
@@ -431,8 +609,24 @@
         "wp": 3,
         "opp_avg": ".306"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 4.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
     },
     "7908a637": {
       "id": "7908a637",
@@ -463,8 +657,24 @@
         "wp": 2,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14703",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 1.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "b6866a5a": {
       "id": "b6866a5a",
@@ -500,8 +710,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Utah Valley. Had an outstanding performance at the plate (0.500)."
     },
     "48c9f7bf": {
       "id": "48c9f7bf",
@@ -532,8 +760,24 @@
         "wp": 1,
         "opp_avg": ".269"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "22100450": {
       "id": "22100450",
@@ -569,8 +813,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14703",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Utah Valley. Had an outstanding performance at the plate (0.500)."
     },
     "7d78db65": {
       "id": "7d78db65",
@@ -601,8 +863,24 @@
         "wp": 1,
         "opp_avg": ".600"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14703",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 3,
+          "r": 4,
+          "er": 3,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 0.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "afba88da": {
       "id": "afba88da",
@@ -638,8 +916,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Utah Valley. Struggled at the plate but saw 1 walk(s)."
     },
     "c66a79a4": {
       "id": "c66a79a4",
@@ -670,8 +966,24 @@
         "wp": 4,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14803",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 2,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 1.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "2a8aa621": {
       "id": "2a8aa621",
@@ -707,8 +1019,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14803",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Utah Valley. Struggled to make contact."
     },
     "3eb7f50e": {
       "id": "3eb7f50e",
@@ -739,8 +1069,24 @@
         "wp": 2,
         "opp_avg": ".325"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14803",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 7,
+          "r": 8,
+          "er": 4,
+          "bb": 1,
+          "so": 6,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 3.2 innings. Allowed 4 earned run(s) with 6 strikeout(s)."
     },
     "2d1af367": {
       "id": "2d1af367",
@@ -771,8 +1117,24 @@
         "wp": 1,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "4dca7966": {
       "id": "4dca7966",
@@ -803,8 +1165,24 @@
         "wp": 1,
         "opp_avg": ".283"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14701",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 6,
+          "r": 5,
+          "er": 5,
+          "bb": 3,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 5.0 innings. Struck out 3 while allowing just 6 hit(s) and 5 earned run(s) in a quality start."
     },
     "410ce885": {
       "id": "410ce885",
@@ -858,8 +1236,26 @@
         "wp": 3,
         "opp_avg": ".306"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Utah Valley. Struggled at the plate but saw 1 walk(s)."
     },
     "c9e6cb61": {
       "id": "c9e6cb61",
@@ -895,8 +1291,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Wichita State",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/wichita-state/boxscore/14858",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Wichita State. Struggled to make contact."
     },
     "ae9974b6": {
       "id": "ae9974b6",
@@ -927,8 +1341,24 @@
         "wp": 2,
         "opp_avg": ".472"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14703",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 5,
+          "r": 5,
+          "er": 4,
+          "bb": 1,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 3.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
     },
     "f8d232a3": {
       "id": "f8d232a3",
@@ -959,8 +1389,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Utah Tech",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-tech/boxscore/14802",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Utah Tech, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "723d0f86": {
       "id": "723d0f86",
@@ -991,8 +1437,24 @@
         "wp": 2,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah Valley",
+        "result": "W",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14702",
+        "batting": null,
+        "pitching": {
+          "ip": "4.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 4,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 4.2 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
     },
     "ceaca188": {
       "id": "ceaca188",
@@ -1023,8 +1485,24 @@
         "wp": 0,
         "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14701",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "64374542": {
       "id": "64374542",
@@ -1056,22 +1534,23 @@
         "opp_avg": ".333"
       },
       "last_game": {
-        "date": "2026-03-09",
+        "date": "2026-03-07",
         "opponent": "Utah Valley",
-        "result": "W 5-1",
-        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14704",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
-          "pos": "CF"
-        },
-        "pitching": null
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14803",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 0/3 with 0 RBI against Utah Valley. Struggled to make contact."
+      "narrative": "Took the mound against Utah Valley, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "518cdf60": {
       "id": "518cdf60",
@@ -1102,8 +1581,24 @@
         "wp": 1,
         "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "New Mexico",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/new-mexico/boxscore/14697",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Mexico, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "21f99c31": {
       "id": "21f99c31",
@@ -1134,8 +1629,24 @@
         "wp": 0,
         "opp_avg": ".323"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "UNLV Rebels",
+        "result": "W",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/unlv-rebels/boxscore/14821",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 3,
+          "r": 3,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UNLV Rebels, throwing 0.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "3be30b53": {
       "id": "3be30b53",
@@ -1166,8 +1677,24 @@
         "wp": 0,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "New Mexico",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/new-mexico/boxscore/14695",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Mexico, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "e672d797": {
       "id": "e672d797",
@@ -1198,8 +1725,24 @@
         "wp": 2,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah Valley",
+        "result": "W",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14702",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 4,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 2.1 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
     },
     "88f3a793": {
       "id": "88f3a793",
@@ -1230,8 +1773,24 @@
         "wp": 2,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah Valley",
+        "result": "L",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/utah-valley/boxscore/14703",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Utah Valley, throwing 1.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "c245b4a6": {
       "id": "c245b4a6",
@@ -1267,8 +1826,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "UNLV Rebels",
+        "result": "W",
+        "boxscore_url": "https://uncbears.com/sports/baseball/stats/2026/unlv-rebels/boxscore/14821",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against UNLV Rebels. Contributed at the plate in the team's W."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

@@ -2,16 +2,16 @@
   "school": "Southern Illinois University at Carbondale",
   "base_url": "https://www.siusalukis.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:05:12.279964Z",
-  "record": "6-9",
+  "generated_at": "2026-03-14T15:34:56.754163Z",
+  "record": "7-9",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Siue",
-    "result": "W 16-6",
-    "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
-    "recap_url": "https://www.siusalukis.com/news/2026/3/10/baseball-cougars-run-away-from-salukis-late",
+    "date": "2026-03-13",
+    "opponent": "Southern Indiana",
+    "result": "W",
+    "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
+    "recap_url": "https://www.siusalukis.com/news/2026/3/13/dawgs-storm-out-of-the-gates-in-victory-over-usi",
     "recap_headline": "Southern Illinoise University Athletics",
-    "recap_text": "EDWARDSVILLE, Ill. -\nAfter a back-and-forth offensive showcase early, SIU could not create enough runs or stop a flurry from SIUE in a 16-6 loss to the Cougars Tuesday night in Edwardsville. The game was ended via run rule after the eighth inning.\nBoth offenses came out firing, with\nKye Watson\nand\nCecil Lofton\ngoing yard to put SIU up 3-0 in the top of the first. The Cougars got a run back on a solo home run from Mack Mitchell.\nEvery time Southern scored, SIUE had an answer.\nJaden Flores\nripped an RBI triple in the top of the second and was brought home on Watson's second RBI with a sacrifice fly.\nThe Cougars responded with three runs on their own, officially putting pressure on the Saluki offense, who would only score one other time on an RBI single from\nTim Simay\nin the top of the third.\nFrom that point onward, SIU would not cross the plate again, and SIUE would score at least one run in every inning, including a burst of nine runs in the sixth, seventh, and eighth innings, which were enough to end the game early in the eighth frame at 16-6.\nIt was a tough night for the Salukis all around, who were run-ruled for the second time this season.\nUP NEXT\nSouthern comes back home for a three-game set with Southern Indiana beginning Friday at Itchy Jones Stadium. First pitch is scheduled for 6 p.m.\nFOLLOW THE SALUKIS\nKeep up with all the latest news and information on the Salukis by following the team on X at\n@SIU_Baseball\n, on Facebook at\nFacebook.com/SalukiBaseball\n, and on Instagram at\n@SIU_Baseball\n. Fans can also download the \"Salukis\" Mobile App on the\nApp Store\nor\nGoogle Play Store\n."
+    "recap_text": "CARBONDALE, Ill. -\nSouthern Illinois tallied seven runs in the first two innings en route to a 10-7 win over Southern Indiana Friday night at Itchy Jones Stadium.\nThe Salukis wasted zero time making life difficult for USI starter Eben Hansen (L, 1-1).\nCecil Lofton\nstarted things off with an RBI double, then\nJulio Guerrero\nfollowed suit with an RBI base knock. After\nJackson Dibble\nwas hit by a pitch, the bases became loaded, and\nMason Schwalbach\nmoved the Salukis station to station to cash another run in.\nJaden Flores\nwas responsible for the final first-inning tally, drawing a bases-loaded walk to give Southern five runs and force Hansen from the game before he could complete an inning.\nGabe Petrucelli\nbegan his season-best night with a two-run double to right center field, plating Guererro and\nTim Simay\nas the Dawgs\u00a0went up 7-0 after two.\nThe deficit was more than enough for SIU starter and recently named Missouri Valley Conference Pitcher of the Week\nAndrew Evans\n(W, 3-1). The Kansas State transfer collected his third quality start of the season, pitching six innings while allowing three runs on six hits, five strikeouts and two walks. Evans powered through a bump in the road in the third and fourth innings, where the Screaming Eagles scored three runs, capped by a solo homer from catcher Micajah\u00a0Wall, the first big fly Evans has given up this season.\nUSI's pitching would settle in, but Guerrero and Petrucelli gave SIU three more runs on a two-run homer in the fourth, and a solo shot in the sixth to put the Salukis up 10-3 heading into the final three frames. Guerrero's homer was his first in a Saluki uniform. Little did the duo know how important their runs would be.\nSouthern's bullpen encountered a hiccup in the seventh, as two bases-loaded walks, a run-scoring wild pitch and a single gave USI life. With the bases loaded and the go-ahead run at the plate,\nJosh Hyneman\npicked up a key strikeout, ending the inning and keeping the deficit at three.\nHead Coach\nLance Rhodes\nturned to closer\nJack MacIntosh\nto close the final two innings, and the British Columbia native never let the tying run come to the plate as he earned his second save of the season. He credited support from his teammates in a conversation with Saluki Radio's\nLuke Martin\nafter the game.\n\"Especially tonight, I was able to hear the guys out there when I was on the bump,\" he said. \"It's so nice to just hear all the excitement, all the energy, 'cause I really feed off it.\"\nGuerrero, Petrucelli, and Simay each had three hits for the Dawgs, with Guerrero and\u00a0Petrucelli\u00a0each knocking in three runs.\nUP NEXT\nDue to impending weather on Sunday, March 15, SIU will now play Southern Indiana in a doubleheader beginning Saturday at 1 p.m.\nFOLLOW THE SALUKIS\nKeep up with all the latest news and information on the Salukis by following the team on Twitter at\n@SIU_Baseball\n, on Facebook at\nFacebook.com/SalukiBaseball\n, and on Instagram at\n@SIU_Baseball\n. Fans can also download the Salukis Mobile App on the\nApp Store\nor\nGoogle Play Store\n."
   },
   "players": {
     "f5bcc4bd": {
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-10",
+        "opponent": "SIUE",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
         "batting": {
-          "ab": 5,
+          "ab": 3,
           "r": 1,
-          "h": 1,
-          "rbi": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "2B"
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 1 RBI against South Dakota St . Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against SIUE. Struggled to make contact."
     },
     "644ccaf3": {
       "id": "644ccaf3",
@@ -102,8 +105,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
+        "opponent": "UNLV",
+        "result": "L",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
         "batting": {
           "ab": 2,
@@ -112,11 +115,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Unlv. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/2 with 0 RBI against UNLV. Had an outstanding performance at the plate (0.500)."
     },
     "0a55877a": {
       "id": "0a55877a",
@@ -128,47 +134,50 @@
       "num": "3.0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.288,
-        "ops": 0.784,
-        "ab": 59,
-        "r": 6,
-        "h": 17,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.313,
+        "ops": 0.861,
+        "ab": 64,
+        "r": 9,
+        "h": 20,
         "doubles": 5,
         "triples": 1,
-        "hr": 0,
-        "rbi": 8,
-        "tb": 24,
-        "slg": 0.407,
+        "hr": 1,
+        "rbi": 11,
+        "tb": 30,
+        "slg": 0.469,
         "bb": 5,
         "hbp": 4,
         "so": 10,
         "gdp": 2,
-        "obp": 0.377,
+        "obp": 0.392,
         "sf": 1,
         "sh": 0,
-        "sb": 11,
-        "sb_att": 12
+        "sb": 12,
+        "sb_att": 13
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 1,
-          "rbi": 2,
+          "ab": 5,
+          "r": 3,
+          "h": 3,
+          "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 2 RBI against South Dakota St . Contributed at the plate in the team's W 5-4."
+      "narrative": "Went 3/5 with 3 RBI against Southern Indiana. Hit 1 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "cb2a0053": {
       "id": "cb2a0053",
@@ -200,31 +209,23 @@
         "opp_avg": ".429"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-03",
+        "opponent": "North Dakota St.",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/north-dakota-st-/boxscore/13215",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 3,
-          "r": 5,
-          "er": 5,
-          "bb": 0,
-          "so": 0,
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
           "wp": 0,
-          "hbp": 2
+          "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against North Dakota St., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "a861ac84": {
       "id": "a861ac84",
@@ -236,24 +237,24 @@
       "num": "6.0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
-        "g": 10,
-        "gs": 9,
-        "avg": 0.194,
-        "ops": 0.665,
-        "ab": 31,
-        "r": 2,
-        "h": 6,
-        "doubles": 1,
+        "g": 11,
+        "gs": 10,
+        "avg": 0.265,
+        "ops": 0.919,
+        "ab": 34,
+        "r": 4,
+        "h": 9,
+        "doubles": 2,
         "triples": 0,
-        "hr": 1,
-        "rbi": 2,
-        "tb": 10,
-        "slg": 0.323,
-        "bb": 6,
+        "hr": 2,
+        "rbi": 5,
+        "tb": 17,
+        "slg": 0.5,
+        "bb": 8,
         "hbp": 1,
         "so": 6,
         "gdp": 4,
-        "obp": 0.342,
+        "obp": 0.419,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -261,22 +262,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 2,
-          "rbi": 1,
-          "bb": 1,
-          "so": 1,
-          "pos": "DH"
+          "ab": 3,
+          "r": 2,
+          "h": 3,
+          "rbi": 3,
+          "bb": 2,
+          "so": 0,
+          "hr": 1,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against South Dakota St . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 3/3 with 3 RBI against Southern Indiana. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
     },
     "bc3a0d52": {
       "id": "bc3a0d52",
@@ -313,22 +317,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-10",
+        "opponent": "SIUE",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "LF"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against South Dakota St . Contributed at the plate in the team's W 5-4."
+      "narrative": "Went 1/1 with 0 RBI against SIUE. Had an outstanding performance at the plate (1.000)."
     },
     "47e4fe18": {
       "id": "47e4fe18",
@@ -366,8 +373,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
+        "opponent": "UNLV",
+        "result": "L",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
         "batting": {
           "ab": 3,
@@ -376,11 +383,14 @@
           "rbi": 2,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 2 RBI against Unlv. Contributed at the plate in the team's L 8-16."
+      "narrative": "Went 1/3 with 2 RBI against UNLV. Contributed at the plate in the team's L."
     },
     "50cec61e": {
       "id": "50cec61e",
@@ -392,24 +402,24 @@
       "num": "9.0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
-        "g": 11,
-        "gs": 11,
-        "avg": 0.405,
-        "ops": 1.125,
-        "ab": 42,
-        "r": 10,
-        "h": 17,
+        "g": 12,
+        "gs": 12,
+        "avg": 0.391,
+        "ops": 1.083,
+        "ab": 46,
+        "r": 11,
+        "h": 18,
         "doubles": 2,
         "triples": 0,
         "hr": 3,
-        "rbi": 6,
-        "tb": 28,
-        "slg": 0.667,
-        "bb": 4,
+        "rbi": 7,
+        "tb": 29,
+        "slg": 0.63,
+        "bb": 5,
         "hbp": 1,
-        "so": 7,
+        "so": 8,
         "gdp": 0,
-        "obp": 0.458,
+        "obp": 0.453,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -417,22 +427,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
-          "ab": 5,
+          "ab": 4,
           "r": 1,
-          "h": 2,
-          "rbi": 0,
-          "bb": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against South Dakota St . Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 1/4 with 1 RBI against Southern Indiana. Contributed at the plate in the team's W."
     },
     "e5127d24": {
       "id": "e5127d24",
@@ -463,8 +476,24 @@
         "wp": 1,
         "opp_avg": ".290"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "vs Omaha",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/omaha/boxscore/13217",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against vs Omaha, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "34e59b0d": {
       "id": "34e59b0d",
@@ -476,11 +505,11 @@
       "num": "11.0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.171,
-        "ops": 0.417,
-        "ab": 41,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.152,
+        "ops": 0.374,
+        "ab": 46,
         "r": 4,
         "h": 7,
         "doubles": 1,
@@ -488,12 +517,12 @@
         "hr": 0,
         "rbi": 2,
         "tb": 8,
-        "slg": 0.195,
+        "slg": 0.174,
         "bb": 2,
         "hbp": 1,
-        "so": 7,
+        "so": 8,
         "gdp": 0,
-        "obp": 0.222,
+        "obp": 0.2,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -501,22 +530,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 5,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Unlv. Contributed at the plate in the team's L 8-16."
+      "narrative": "Went 0/5 with 0 RBI against Southern Indiana. Struggled to make contact."
     },
     "46e390c2": {
       "id": "46e390c2",
@@ -554,8 +586,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
+        "opponent": "UNLV",
+        "result": "L",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
         "batting": {
           "ab": 1,
@@ -564,11 +596,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Unlv. Struggled to make contact."
+      "narrative": "Went 0/1 with 0 RBI against UNLV. Struggled to make contact."
     },
     "30b799ef": {
       "id": "30b799ef",
@@ -605,22 +640,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-07",
+        "opponent": "UNLV",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PR"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 0 RBI against UNLV. Struggled to make contact."
     },
     "b0c5b6b3": {
       "id": "b0c5b6b3",
@@ -657,22 +695,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
-          "ab": 0,
-          "r": 1,
-          "h": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 3,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PR"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 3/5 with 0 RBI against Southern Indiana. Had an outstanding performance at the plate (0.600)."
     },
     "7ee75e22": {
       "id": "7ee75e22",
@@ -705,18 +746,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
+        "opponent": "UNLV",
+        "result": "L",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 0,
@@ -728,7 +761,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Unlv, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against UNLV, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "fff0815e": {
       "id": "fff0815e",
@@ -765,22 +798,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
+        "date": "2026-03-10",
+        "opponent": "SIUE",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 1 RBI against Unlv. Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against SIUE. Struggled to make contact."
     },
     "13339a8e": {
       "id": "13339a8e",
@@ -792,24 +828,24 @@
       "num": "17.0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
-        "g": 9,
-        "gs": 6,
-        "avg": 0.304,
-        "ops": 0.733,
-        "ab": 23,
+        "g": 10,
+        "gs": 7,
+        "avg": 0.296,
+        "ops": 0.7,
+        "ab": 27,
         "r": 3,
-        "h": 7,
+        "h": 8,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 0,
-        "tb": 8,
-        "slg": 0.348,
+        "rbi": 1,
+        "tb": 9,
+        "slg": 0.333,
         "bb": 2,
         "hbp": 1,
         "so": 5,
         "gdp": 0,
-        "obp": 0.385,
+        "obp": 0.367,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -817,22 +853,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 3,
-          "rbi": 0,
-          "bb": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 0 RBI against South Dakota St . Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 1/4 with 1 RBI against Southern Indiana. Contributed at the plate in the team's W."
     },
     "ee7b194e": {
       "id": "ee7b194e",
@@ -844,24 +883,24 @@
       "num": "18.0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.2,
-        "ops": 0.657,
-        "ab": 30,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.212,
+        "ops": 0.674,
+        "ab": 33,
         "r": 6,
-        "h": 6,
+        "h": 7,
         "doubles": 2,
         "triples": 1,
         "hr": 0,
-        "rbi": 5,
-        "tb": 10,
+        "rbi": 6,
+        "tb": 11,
         "slg": 0.333,
-        "bb": 3,
+        "bb": 4,
         "hbp": 3,
-        "so": 10,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.324,
+        "obp": 0.341,
         "sf": 1,
         "sh": 1,
         "sb": 3,
@@ -869,22 +908,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 1,
           "bb": 1,
           "so": 1,
-          "pos": "3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 1 RBI against South Dakota St . Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/3 with 1 RBI against Southern Indiana. Contributed at the plate in the team's W."
     },
     "c6fc955b": {
       "id": "c6fc955b",
@@ -917,18 +959,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
+        "opponent": "UNLV",
+        "result": "L",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -940,7 +974,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Unlv, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against UNLV, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "854872d5": {
       "id": "854872d5",
@@ -971,8 +1005,24 @@
         "wp": 0,
         "opp_avg": ".313"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "App State",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/app-state/boxscore/13210",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against App State, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "75184393": {
       "id": "75184393",
@@ -1003,8 +1053,24 @@
         "wp": 0,
         "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "App State",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/app-state/boxscore/13210",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against App State, throwing 3.1 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "90b6a093": {
       "id": "90b6a093",
@@ -1036,31 +1102,23 @@
         "opp_avg": ".200"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Siue",
-        "result": "W 16-6",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-07",
+        "opponent": "UNLV",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
+        "batting": null,
         "pitching": {
-          "ip": "2.0",
+          "ip": "1.2",
           "h": 4,
           "r": 5,
           "er": 5,
-          "bb": 0,
-          "so": 2,
-          "wp": 0,
-          "hbp": 2
+          "bb": 2,
+          "so": 3,
+          "wp": 4,
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Siue, throwing 2.0 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against UNLV, throwing 1.2 innings. Allowed 5 earned run(s) with 3 strikeout(s)."
     },
     "436d2871": {
       "id": "436d2871",
@@ -1091,8 +1149,24 @@
         "wp": 1,
         "opp_avg": ".233"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "SIUE",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 4,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against SIUE, throwing 3.0 innings. Allowed 5 earned run(s) with 1 strikeout(s)."
     },
     "29ae623a": {
       "id": "29ae623a",
@@ -1105,26 +1179,42 @@
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.96,
-        "whip": 0.96,
-        "w": 2,
+        "era": 2.48,
+        "whip": 1.03,
+        "w": 3,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 23.0,
-        "h": 15,
-        "r": 6,
-        "er": 5,
-        "bb": 7,
-        "so": 22,
-        "hr": 0,
+        "g": 5,
+        "gs": 5,
+        "ip": 29.0,
+        "h": 21,
+        "r": 9,
+        "er": 8,
+        "bb": 9,
+        "so": 27,
+        "hr": 1,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".188"
+        "opp_avg": ".206"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southern Indiana, throwing 6.0 innings. Struck out 5 while allowing just 6 hit(s) and 3 earned run(s) in a quality start."
     },
     "8cbd59a1": {
       "id": "8cbd59a1",
@@ -1155,8 +1245,24 @@
         "wp": 2,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "App State",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/app-state/boxscore/13210",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against App State, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "f3e01d99": {
       "id": "f3e01d99",
@@ -1189,18 +1295,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
+        "opponent": "South Dakota St.",
+        "result": "W",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.1",
           "h": 5,
@@ -1212,7 +1310,62 @@
           "hbp": 2
         }
       },
-      "narrative": "Took the mound against South Dakota St , throwing 5.1 innings. Struck out 5 while allowing just 5 hit(s) and 3 earned run(s) in a quality start."
+      "narrative": "Took the mound against South Dakota St., throwing 5.1 innings. Struck out 5 while allowing just 5 hit(s) and 3 earned run(s) in a quality start."
+    },
+    "bd20ef01": {
+      "id": "bd20ef01",
+      "name": "Jackson Dibble",
+      "fn": "Jackson",
+      "ln": "Dibble",
+      "pos": "OF",
+      "yr": "Jr.",
+      "num": "28.0",
+      "school": "Southern Illinois University at Carbondale",
+      "season_batting": {
+        "g": 1,
+        "gs": 1,
+        "avg": 0.0,
+        "ops": 0.2,
+        "ab": 4,
+        "r": 1,
+        "h": 0,
+        "doubles": 0,
+        "triples": 0,
+        "hr": 0,
+        "rbi": 0,
+        "tb": 0,
+        "slg": 0.0,
+        "bb": 0,
+        "hbp": 1,
+        "so": 1,
+        "gdp": 0,
+        "obp": 0.2,
+        "sf": 0,
+        "sh": 0,
+        "sb": 0,
+        "sb_att": 0
+      },
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Southern Indiana. Struggled to make contact."
     },
     "18eaf0a6": {
       "id": "18eaf0a6",
@@ -1243,8 +1396,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "SIUE",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against SIUE, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "108a97c2": {
       "id": "108a97c2",
@@ -1275,8 +1444,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "North Dakota St.",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/north-dakota-st-/boxscore/13215",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Dakota St., throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "f5c83d6e": {
       "id": "f5c83d6e",
@@ -1289,50 +1474,42 @@
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 1.0,
+        "era": 3.72,
+        "whip": 1.45,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 9.0,
-        "h": 5,
-        "r": 0,
-        "er": 0,
-        "bb": 4,
+        "ip": 9.2,
+        "h": 7,
+        "r": 4,
+        "er": 4,
+        "bb": 7,
         "so": 6,
         "hr": 0,
-        "hbp": 0,
-        "wp": 1,
-        "opp_avg": ".179"
+        "hbp": 1,
+        "wp": 3,
+        "opp_avg": ".219"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
+        "batting": null,
         "pitching": {
-          "ip": "3.1",
-          "h": 3,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0
+          "ip": "0.2",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 0,
+          "wp": 2,
+          "hbp": 1
         }
       },
-      "narrative": "Took the mound against Unlv, throwing 3.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Southern Indiana, throwing 0.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "c3c182dd": {
       "id": "c3c182dd",
@@ -1345,50 +1522,42 @@
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
-        "era": 13.5,
-        "whip": 1.93,
+        "era": 12.6,
+        "whip": 2.0,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 4.2,
+        "ip": 5.0,
         "h": 5,
         "r": 9,
         "er": 7,
-        "bb": 4,
-        "so": 2,
+        "bb": 5,
+        "so": 3,
         "hr": 2,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".278"
+        "opp_avg": ".263"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
+        "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
+          "ip": "0.1",
+          "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Unlv, throwing 2.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Southern Indiana, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "869b60bb": {
       "id": "869b60bb",
@@ -1426,8 +1595,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
+        "opponent": "UNLV",
+        "result": "L",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
         "batting": {
           "ab": 2,
@@ -1436,11 +1605,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Unlv. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/2 with 0 RBI against UNLV. Had an outstanding performance at the plate (0.500)."
     },
     "1dff8193": {
       "id": "1dff8193",
@@ -1454,49 +1626,41 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.6,
+        "whip": 0.67,
         "w": 2,
         "l": 1,
-        "sv": 1,
-        "g": 7,
+        "sv": 2,
+        "g": 8,
         "gs": 0,
-        "ip": 10.0,
-        "h": 3,
+        "ip": 12.0,
+        "h": 4,
         "r": 1,
         "er": 0,
-        "bb": 3,
-        "so": 11,
+        "bb": 4,
+        "so": 14,
         "hr": 0,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".094"
+        "opp_avg": ".103"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
+        "batting": null,
         "pitching": {
-          "ip": "3.2",
-          "h": 2,
+          "ip": "2.0",
+          "h": 1,
           "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 2,
+          "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against South Dakota St , throwing 3.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Southern Indiana, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "556db64b": {
       "id": "556db64b",
@@ -1551,22 +1715,23 @@
         "opp_avg": ".311"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
-        "batting": {
-          "ab": 0,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
+        "date": "2026-03-10",
+        "opponent": "SIUE",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
           "so": 0,
-          "pos": "PR"
-        },
-        "pitching": null
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against SIUE, throwing 1.0 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "f1098f10": {
       "id": "f1098f10",
@@ -1597,8 +1762,24 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "SIUE",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/siue/boxscore/13220",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against SIUE, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "7fa9dfa3": {
       "id": "7fa9dfa3",
@@ -1610,24 +1791,24 @@
       "num": "44.0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.283,
-        "ops": 0.954,
-        "ab": 53,
-        "r": 8,
-        "h": 15,
-        "doubles": 1,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.293,
+        "ops": 0.958,
+        "ab": 58,
+        "r": 9,
+        "h": 17,
+        "doubles": 2,
         "triples": 1,
         "hr": 4,
-        "rbi": 13,
-        "tb": 30,
-        "slg": 0.566,
+        "rbi": 14,
+        "tb": 33,
+        "slg": 0.569,
         "bb": 11,
         "hbp": 0,
         "so": 7,
         "gdp": 1,
-        "obp": 0.388,
+        "obp": 0.389,
         "sf": 3,
         "sh": 0,
         "sb": 3,
@@ -1635,22 +1816,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "South Dakota St ",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/south-dakota-st-/boxscore/13219",
+        "date": "2026-03-13",
+        "opponent": "Southern Indiana",
+        "result": "W",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/southern-indiana/boxscore/13221",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 1,
           "h": 2,
-          "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "1B"
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against South Dakota St . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/5 with 1 RBI against Southern Indiana. Had an outstanding performance at the plate (0.400)."
     },
     "475777e4": {
       "id": "475777e4",
@@ -1686,8 +1870,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "Miami (Ohio)",
+        "result": "L",
+        "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/miami-ohio-/boxscore/13211",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Miami (Ohio). Struggled to make contact."
     },
     "11c6e00d": {
       "id": "11c6e00d",
@@ -1720,18 +1922,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Unlv",
-        "result": "L 8-16",
+        "opponent": "UNLV",
+        "result": "L",
         "boxscore_url": "https://www.siusalukis.com/sports/baseball/stats/2026/unlv/boxscore/13218",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 3,
@@ -1743,7 +1937,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Unlv, throwing 0.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against UNLV, throwing 0.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

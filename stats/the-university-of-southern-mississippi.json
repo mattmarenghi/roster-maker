@@ -2,16 +2,16 @@
   "school": "The University of Southern Mississippi",
   "base_url": "https://www.southernmiss.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:09:54.619819Z",
-  "record": "15-2",
+  "generated_at": "2026-03-14T15:45:17.929932Z",
+  "record": "3-6",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Ole Miss",
-    "result": "W 2-1",
-    "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
-    "recap_url": "https://www.southernmiss.com/news/2026/3/10/stockmans-ninth-inning-single-lifts-baseball-over-ole-miss-2-1-tuesday-night",
+    "date": "2026-03-13",
+    "opponent": "Arkansas State",
+    "result": "L",
+    "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+    "recap_url": "https://www.southernmiss.com/news/2026/3/13/baseball-baeeball-drops-sun-belt-opener-8-5-at-arkansas-state",
     "recap_headline": "University of Southern Mississippi Athletics",
-    "recap_text": "HATTIESBURG, Miss. \u2013\nTucker Stockman\ncollected a ninth-inning, game-winning single to lead No. 7 Southern Miss to a 2-1 victory over Ole Miss Tuesday night at Pete Taylor Park/Hill Denson Field.\nA crowd of 5,775, the fifth largest crowd in the facility's history, saw the Golden Eagles (15-2) win their fourth-straight contest. The Rebels fell to 15-3.\nWith the game tied at 1-1 in the bottom of the ninth,\nDavis Gillespie\nsingled to open the final frame off reliever JP Robertson. After two were out, Ole Miss went to the pen for Landon Koenig. The final Rebel pitcher walked the first hitter he faced and then gave up the game-winning hit to Stockman on a 2-2 pitch.\nBoth starting pitchers kept each other's team off the board as Ole Miss's Taylor Rabe retired all eight hitters he faced and fanned one over 2 2/3 innings, while the Golden Eagles'\nThomas Crabtree\nwent three scoreless frames.\nThe two teams traded the game's only other runs as each team traded home runs in the fifth.\nTristan Bassetta led off the top of the inning with a shot to deep center for his eighth of the year, while\nKyle Morrison\ntied the score for the Golden Eagles in the bottom half with a solo shot to right center to open the frame and tie the score. It was his team-leading sixth of the campaign.\nThe Rebels tried to go ahead in the ninth as they collected a hit by pitch and a walk with one out, but Southern Miss closer\nCamden Clark\ncame in and got a flyout to center and a strikeout to end the threat. Clark was credited with the victory and improved to 3-0.\nRobertson, the fifth of six Ole Miss pitchers, suffered the loss and fell to 2-1.\nFive Golden Eagle pitchers fanned nine Rebels and allowed just one walk and one hit by pitch. The Rebels got five strikeouts from their pitching staff with three walks and two hit batters.\nStockman finished the game as the only player with two hits, as the Golden Eagles outhit the visitors 6-3.\nAfter completing this six-game homestand, the Golden Eagles take to the road this weekend to open Sun Belt play at Arkansas State. The series begins with a 6 p.m. contest on Friday."
+    "recap_text": "JONESBORO, Ark. \u2013\nArkansas State scored four times in the seventh to break a deadlocked score in upending No. 7 Southern Miss 8-5 Friday night at Tomlinson Stadium in both team's Sun Belt Conference opener.\nThe Golden Eagles (15-3, 0-1 Sun Belt) saw a four-game winning streak snapped as well as falling to the Red Wolves (14-5, 1-0) for the first time in 16 all-time meetings.\nWith the score tied at 3-3 in the seventh, the Red Wolves loaded the bases with one out on a pair of singles and a walk issued by\nCamden Sunstrom\n, who entered the game to start the frame. Aidan Houseworth then doubled to left to clear the bases and Cason Campbell followed with an RBI single to give the home squad a four-run cushion.\nSouthern Miss tried to rally in the eight with three consecutive singles by\nBen Higdon\n,\nDrey Barrett\nand\nKyle Morrison\n, but\nTucker Stockman\nfanned and\nSeth Smith\nflew out to right to end the inning.\nAfter A-State added an insurance run in the eight on a Parick Engskov RBI single, the visitors finally rallied in the ninth with two runs to close the final gap. Freshman\nGray Eubanks\n, in his first collegiate at bat, reached on a fielding error by the second baseman.\nJoey Urban\nthen singled. After a\nMatthew Russo\nground out to move both runners up a base,\nDavis Gillespie\ndrove in both runs with a single. The Golden Eagles then grounded out twice to end the game.\nSouthern Miss jumped out to an early 3-0 advantage in the third inning. Smith opened the stanza with a walk. After\nCaleb Stelly\nreached on a sacrifice bunt that was fielded by the pitcher and thrown wide to pull the first baseman off the bag to put two runners on, Urban blasted an opposite field home run to right for his sixth long ball of the campaign.\nThe Red Wolves, though, plated their first run in the bottom of the third on an RBI single by Lane Walton and then tied the game with a two-run shot by Kaden Amundson, for his first homer of the year.\nStarter\nColby Allen\nwent five innings for the Golden Eagles, allowing three runs on six hits with two walks and three strikeouts. After a scoreless frame by\nKros Sivley\n, Sunstrom (1-1) suffered the loss by giving up four runs on four hits with a walk and a strikeout.\nA-State reliever Tyler Weimber (3-0) threw 1 1/3 scoreless innings and allowed three hits with two strikeouts to earn the victory.\nThe two teams continue the series with a 6 p.m., Saturday contest. The game can be seen via ESPN+ as well as heard on an affiliate of the Southern Miss Sports Network."
   },
   "players": {
     "2a588962": {
@@ -24,24 +24,24 @@
       "num": "1.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.365,
-        "ops": 1.198,
-        "ab": 63,
-        "r": 19,
-        "h": 23,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.368,
+        "ops": 1.215,
+        "ab": 68,
+        "r": 21,
+        "h": 25,
         "doubles": 2,
         "triples": 2,
-        "hr": 5,
-        "rbi": 17,
-        "tb": 44,
-        "slg": 0.698,
+        "hr": 6,
+        "rbi": 20,
+        "tb": 49,
+        "slg": 0.721,
         "bb": 15,
         "hbp": 3,
         "so": 9,
         "gdp": 1,
-        "obp": 0.5,
+        "obp": 0.494,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 2,
+          "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Ole Miss. Contributed at the plate in the team's W 2-1."
+      "narrative": "Went 2/5 with 3 RBI against Arkansas State. Hit 1 home run(s). Had an outstanding performance at the plate (0.400)."
     },
     "ccfa475a": {
       "id": "ccfa475a",
@@ -76,47 +79,50 @@
       "num": "2.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.233,
-        "ops": 0.622,
-        "ab": 43,
-        "r": 4,
-        "h": 10,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.244,
+        "ops": 0.637,
+        "ab": 45,
+        "r": 5,
+        "h": 11,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 2,
-        "tb": 10,
-        "slg": 0.233,
+        "tb": 11,
+        "slg": 0.244,
         "bb": 11,
         "hbp": 0,
         "so": 10,
         "gdp": 3,
-        "obp": 0.389,
+        "obp": 0.393,
         "sf": 0,
-        "sh": 1,
+        "sh": 2,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
           "ab": 2,
-          "r": 0,
-          "h": 0,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "DH"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Ole Miss. Struggled to make contact."
+      "narrative": "Went 1/2 with 0 RBI against Arkansas State. Had an outstanding performance at the plate (0.500)."
     },
     "3409a976": {
       "id": "3409a976",
@@ -128,24 +134,24 @@
       "num": "3.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 15,
-        "gs": 12,
-        "avg": 0.341,
+        "g": 16,
+        "gs": 13,
+        "avg": 0.34,
         "ops": 0.857,
-        "ab": 44,
-        "r": 9,
-        "h": 15,
+        "ab": 47,
+        "r": 10,
+        "h": 16,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
         "rbi": 11,
-        "tb": 21,
-        "slg": 0.477,
-        "bb": 3,
+        "tb": 22,
+        "slg": 0.468,
+        "bb": 4,
         "hbp": 1,
         "so": 10,
         "gdp": 1,
-        "obp": 0.38,
+        "obp": 0.389,
         "sf": 2,
         "sh": 1,
         "sb": 1,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
-          "ab": 2,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "SS"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Ole Miss. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/3 with 0 RBI against Arkansas State. Contributed at the plate in the team's L."
     },
     "74431614": {
       "id": "74431614",
@@ -205,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-04",
+        "opponent": "Nicholls",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12091",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PR"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 0 RBI against Nicholls. Struggled to make contact."
     },
     "ad511466": {
       "id": "ad511466",
@@ -232,7 +244,7 @@
       "num": "5.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 6,
         "avg": 0.118,
         "ops": 0.612,
@@ -259,7 +271,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Ole Miss",
-        "result": "W 2-1",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
         "batting": {
           "ab": 1,
@@ -268,7 +280,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH/DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -285,26 +300,42 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.61,
-        "whip": 1.5,
+        "era": 3.16,
+        "whip": 1.56,
         "w": 1,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 20.2,
-        "h": 25,
-        "r": 10,
-        "er": 6,
-        "bb": 6,
-        "so": 18,
-        "hr": 2,
+        "g": 5,
+        "gs": 5,
+        "ip": 25.2,
+        "h": 31,
+        "r": 13,
+        "er": 9,
+        "bb": 9,
+        "so": 21,
+        "hr": 3,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".305"
+        "opp_avg": ".304"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Arkansas State, throwing 5.0 innings. Struck out 3 while allowing just 6 hit(s) and 3 earned run(s) in a quality start."
     },
     "010df996": {
       "id": "010df996",
@@ -316,47 +347,105 @@
       "num": "7.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.227,
-        "ops": 0.708,
-        "ab": 66,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.229,
+        "ops": 0.704,
+        "ab": 70,
         "r": 12,
-        "h": 15,
+        "h": 16,
         "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 6,
-        "tb": 25,
-        "slg": 0.379,
-        "bb": 8,
+        "tb": 26,
+        "slg": 0.371,
+        "bb": 9,
         "hbp": 2,
         "so": 15,
         "gdp": 1,
-        "obp": 0.329,
+        "obp": 0.333,
         "sf": 0,
         "sh": 4,
-        "sb": 0,
-        "sb_att": 1
+        "sb": 1,
+        "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "RF"
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Ole Miss. Struggled to make contact."
+      "narrative": "Went 1/4 with 0 RBI against Arkansas State. Contributed at the plate in the team's L."
+    },
+    "2cc8325f": {
+      "id": "2cc8325f",
+      "name": "Gray Eubanks",
+      "fn": "Gray",
+      "ln": "Eubanks",
+      "pos": "INF",
+      "yr": "Fr.",
+      "num": "8.0",
+      "school": "The University of Southern Mississippi",
+      "season_batting": {
+        "g": 1,
+        "gs": 0,
+        "avg": 0.0,
+        "ops": 0.0,
+        "ab": 1,
+        "r": 1,
+        "h": 0,
+        "doubles": 0,
+        "triples": 0,
+        "hr": 0,
+        "rbi": 0,
+        "tb": 0,
+        "slg": 0.0,
+        "bb": 0,
+        "hbp": 0,
+        "so": 0,
+        "gdp": 0,
+        "obp": 0.0,
+        "sf": 0,
+        "sh": 0,
+        "sb": 0,
+        "sb_att": 0
+      },
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Arkansas State. Struggled to make contact."
     },
     "f51e68dc": {
       "id": "f51e68dc",
@@ -395,7 +484,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "North Alabama",
-        "result": "W 9-2",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12094",
         "batting": {
           "ab": 3,
@@ -404,11 +493,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against North Alabama. Contributed at the plate in the team's W 9-2."
+      "narrative": "Went 1/3 with 0 RBI against North Alabama. Contributed at the plate in the team's W."
     },
     "51048dc8": {
       "id": "51048dc8",
@@ -420,24 +512,24 @@
       "num": "11.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.328,
-        "ops": 0.968,
-        "ab": 64,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.319,
+        "ops": 0.929,
+        "ab": 69,
         "r": 14,
-        "h": 21,
+        "h": 22,
         "doubles": 5,
         "triples": 0,
         "hr": 3,
-        "rbi": 11,
-        "tb": 35,
-        "slg": 0.547,
+        "rbi": 13,
+        "tb": 36,
+        "slg": 0.522,
         "bb": 11,
         "hbp": 0,
-        "so": 11,
+        "so": 12,
         "gdp": 1,
-        "obp": 0.421,
+        "obp": 0.407,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -445,22 +537,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 0,
           "h": 1,
-          "rbi": 0,
+          "rbi": 2,
           "bb": 0,
-          "so": 0,
-          "pos": "LF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Ole Miss. Contributed at the plate in the team's W 2-1."
+      "narrative": "Went 1/5 with 2 RBI against Arkansas State. Struggled to make contact."
     },
     "fe0bf929": {
       "id": "fe0bf929",
@@ -473,26 +568,42 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.2,
-        "whip": 1.2,
+        "era": 3.94,
+        "whip": 1.19,
         "w": 2,
         "l": 0,
         "sv": 1,
-        "g": 8,
+        "g": 9,
         "gs": 0,
-        "ip": 15.0,
-        "h": 15,
+        "ip": 16.0,
+        "h": 16,
         "r": 7,
         "er": 7,
         "bb": 3,
-        "so": 17,
+        "so": 19,
         "hr": 1,
         "hbp": 2,
         "wp": 0,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Arkansas State, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "098db3ab": {
       "id": "098db3ab",
@@ -505,50 +616,42 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.29,
-        "whip": 1.0,
+        "era": 2.91,
+        "whip": 1.2,
         "w": 1,
-        "l": 0,
+        "l": 1,
         "sv": 1,
-        "g": 7,
+        "g": 8,
         "gs": 1,
-        "ip": 21.0,
-        "h": 20,
-        "r": 4,
-        "er": 3,
-        "bb": 1,
-        "so": 26,
+        "ip": 21.2,
+        "h": 24,
+        "r": 8,
+        "er": 7,
+        "bb": 2,
+        "so": 27,
         "hr": 2,
         "hbp": 2,
         "wp": 1,
-        "opp_avg": ".250"
+        "opp_avg": ".279"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 2,
+          "ip": "0.2",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Ole Miss, throwing 3.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Arkansas State, throwing 0.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "e7236e57": {
       "id": "e7236e57",
@@ -560,24 +663,24 @@
       "num": "15.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.266,
-        "ops": 0.821,
-        "ab": 64,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.275,
+        "ops": 0.819,
+        "ab": 69,
         "r": 15,
-        "h": 17,
+        "h": 19,
         "doubles": 6,
         "triples": 0,
         "hr": 2,
         "rbi": 9,
-        "tb": 29,
-        "slg": 0.453,
+        "tb": 31,
+        "slg": 0.449,
         "bb": 10,
         "hbp": 1,
-        "so": 15,
+        "so": 16,
         "gdp": 1,
-        "obp": 0.368,
+        "obp": 0.37,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -585,22 +688,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
-          "ab": 3,
+          "ab": 5,
           "r": 0,
-          "h": 0,
+          "h": 2,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "3B"
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Ole Miss. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 2/5 with 0 RBI against Arkansas State. Had an outstanding performance at the plate (0.400)."
     },
     "48d0adee": {
       "id": "48d0adee",
@@ -634,17 +740,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "North Alabama",
-        "result": "W 6-1",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12093",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "7.0",
           "h": 3,
@@ -668,24 +766,24 @@
       "num": "17.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.339,
-        "ops": 1.254,
-        "ab": 56,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.333,
+        "ops": 1.207,
+        "ab": 60,
         "r": 17,
-        "h": 19,
+        "h": 20,
         "doubles": 2,
         "triples": 2,
         "hr": 6,
         "rbi": 20,
-        "tb": 43,
-        "slg": 0.768,
+        "tb": 44,
+        "slg": 0.733,
         "bb": 12,
         "hbp": 5,
-        "so": 15,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.486,
+        "obp": 0.474,
         "sf": 1,
         "sh": 1,
         "sb": 0,
@@ -693,22 +791,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 1,
-          "rbi": 1,
-          "bb": 1,
-          "so": 0,
-          "pos": "2B"
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Ole Miss. Contributed at the plate in the team's W 2-1."
+      "narrative": "Went 1/4 with 0 RBI against Arkansas State. Contributed at the plate in the team's L."
     },
     "d81134ea": {
       "id": "d81134ea",
@@ -742,17 +843,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Ole Miss",
-        "result": "W 2-1",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 1,
@@ -776,11 +869,11 @@
       "num": "19.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.254,
-        "ops": 0.793,
-        "ab": 67,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.239,
+        "ops": 0.759,
+        "ab": 71,
         "r": 11,
         "h": 17,
         "doubles": 2,
@@ -788,12 +881,12 @@
         "hr": 3,
         "rbi": 14,
         "tb": 28,
-        "slg": 0.418,
+        "slg": 0.394,
         "bb": 8,
-        "hbp": 5,
-        "so": 20,
+        "hbp": 6,
+        "so": 22,
         "gdp": 2,
-        "obp": 0.375,
+        "obp": 0.365,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -801,22 +894,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
-          "ab": 2,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "1B"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Ole Miss. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/4 with 0 RBI against Arkansas State. Struggled to make contact."
     },
     "b0b22877": {
       "id": "b0b22877",
@@ -850,17 +946,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Ole Miss",
-        "result": "W 2-1",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -906,17 +994,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "North Alabama",
-        "result": "W 9-2",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12094",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -959,8 +1039,24 @@
         "wp": 0,
         "opp_avg": ".667"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-24",
+        "opponent": "Alabama",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/alabama/boxscore/12095",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alabama, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "c51c3261": {
       "id": "c51c3261",
@@ -999,7 +1095,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "North Alabama",
-        "result": "W 6-1",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12093",
         "batting": {
           "ab": 2,
@@ -1008,11 +1104,44 @@
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
       "narrative": "Went 0/2 with 0 RBI against North Alabama. Struggled to make contact."
+    },
+    "37149ae8": {
+      "id": "37149ae8",
+      "name": "Kevin Landry Farr",
+      "fn": "Kevin",
+      "ln": "Landry Farr",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "28.0",
+      "school": "The University of Southern Mississippi",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Arkansas State, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "c2246c20": {
       "id": "c2246c20",
@@ -1043,8 +1172,24 @@
         "wp": 1,
         "opp_avg": ".125"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "vs Baylor",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/baylor/boxscore/12050",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against vs Baylor, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "173d8dba": {
       "id": "173d8dba",
@@ -1062,21 +1207,37 @@
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 1.0,
-        "h": 1,
+        "ip": 2.0,
+        "h": 2,
         "r": 0,
         "er": 0,
-        "bb": 1,
-        "so": 0,
+        "bb": 2,
+        "so": 1,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Arkansas State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "aaeb252b": {
       "id": "aaeb252b",
@@ -1110,17 +1271,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Ole Miss",
-        "result": "W 2-1",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 0,
@@ -1176,11 +1329,11 @@
       "num": "36.0",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 16,
-        "gs": 12,
-        "avg": 0.25,
-        "ops": 0.777,
-        "ab": 44,
+        "g": 17,
+        "gs": 13,
+        "avg": 0.229,
+        "ops": 0.718,
+        "ab": 48,
         "r": 5,
         "h": 11,
         "doubles": 2,
@@ -1188,12 +1341,12 @@
         "hr": 2,
         "rbi": 8,
         "tb": 19,
-        "slg": 0.432,
+        "slg": 0.396,
         "bb": 5,
         "hbp": 3,
-        "so": 15,
+        "so": 17,
         "gdp": 3,
-        "obp": 0.345,
+        "obp": 0.322,
         "sf": 3,
         "sh": 0,
         "sb": 0,
@@ -1201,22 +1354,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "date": "2026-03-13",
+        "opponent": "Arkansas State",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 2,
-          "rbi": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "C"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against Ole Miss. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/4 with 0 RBI against Arkansas State. Struggled to make contact."
     },
     "d5ba409d": {
       "id": "d5ba409d",
@@ -1247,8 +1403,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Louisiana Tech",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/louisiana-tech/boxscore/12097",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "4ba3e0ca": {
       "id": "4ba3e0ca",
@@ -1280,31 +1452,23 @@
         "opp_avg": ".071"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "North Alabama",
-        "result": "W 9-2",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12094",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-04",
+        "opponent": "Nicholls",
+        "result": "L",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12091",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 1,
-          "r": 2,
-          "er": 2,
-          "bb": 2,
-          "so": 0,
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Nicholls, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "bdde9ec5": {
       "id": "bdde9ec5",
@@ -1338,17 +1502,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "North Alabama",
-        "result": "W 9-2",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12094",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1394,17 +1550,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Ole Miss",
-        "result": "W 2-1",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1447,8 +1595,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-15",
+        "opponent": "UC Santa Barb.",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/uc-santa-barb-/boxscore/12087",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UC Santa Barb., throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "2a6ef802": {
       "id": "2a6ef802",
@@ -1482,17 +1646,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "North Alabama",
-        "result": "W 9-2",
+        "result": "W",
         "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12094",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 3,

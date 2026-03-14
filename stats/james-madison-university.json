@@ -2,16 +2,16 @@
   "school": "James Madison University",
   "base_url": "https://www.jmusports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:42:31.003446Z",
-  "record": "7-8",
+  "generated_at": "2026-03-14T14:57:25.159422Z",
+  "record": "49-55",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Radford",
-    "result": "W 4-2",
-    "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
-    "recap_url": "https://www.jmusports.com/news/2026/3/10/baseball-dukes-fall-as-radford-uses-three-run-inning",
+    "date": "2026-03-13",
+    "opponent": "Ga Southern",
+    "result": "W",
+    "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
+    "recap_url": "https://www.jmusports.com/news/2026/3/13/baseball-trio-of-homers-power-dukes-past-georgia-southern",
     "recap_headline": "James Madison University | Official Athletics Site",
-    "recap_text": "RADFORD, Va. \u2013\nRadford pushed three runs across in the fourth inning as James Madison baseball fell, 4-2, on Tuesday afternoon at Sherman Carter Memorial Stadium.\nThe Dukes dropped to 7-8 while the Highlanders improved to 8-6.\nJunior\nJosiah Seguin\nled the Dukes at the plate, going 2-for-4 with two runs scored and a home run.\nHow It Happened\nFourth Inning\nAfter the teams combined for three hits through the first three innings, JMU struck first as sophomore\nReece Moody\nlaid down a squeeze bunt with runners on the corners to bring home Seguin.\nRadford responded with four hits in the home half of the inning, bringing in three runs to take a 3-1 lead.\nSeventh Inning\nA walk and a single put runners on the corners to allow Radford to knock another run in on a groundout.\nEighth Inning\nThe Dukes took a run back, as Seguin smashed a home run to left field to make the score 4-2. It was his fourth homer in five games, the first Duke to do so since Fenwick Trimble did it April 21-28, 2024.\nHow It Happened\nWith\nJosiah Seguin's\nsingle in the fourth inning, the junior has now reached base in 14 games and has hit safely in 13 games through the opening 15 games of the season.\nBrode Susce\nset a new season high in innings pitched with 2.2 innings of relief.\nFor the first time this season,\nReece Moody\ndid not reach base safely. He also had his 10-game hitting streak snapped, the first hit streak of 10 or more games since 2024 for JMU.\nUp Next\nThe Dukes host Georgia Southern on March 13-15 at Veterans Memorial Park to begin Sun Belt Conference play."
+    "recap_text": "HARRISONBURG, Va. \u2013\nIn the Sun Belt Conference opener for both teams, James Madison baseball used a trio of homers to power past Georgia Southern, 14-6, on Friday afternoon at Veterans Memorial Park.\nThe Dukes evened their overall record to 8-8 and moved to 1-0 in Sun Belt play, while the Eagles dropped to 5-11 (0-1 Sun Belt).\nSenior\nWyatt Campbell\nled the Dukes at the plate, going 3-for-5 with a homer, two runs scored and two RBI. The three hits are a season best and his seventh career game of three hits or more.\nSenior\nJaden Kinsler\nimproved to 3-0 this season with a season-high 6.0 innings of relief, holding the Eagles to just two runs.\nHow It Happened\nFirst Inning\nThe Dukes struck first, bringing home a run on a sacrifice fly off the bat of sophomore\nReece Moody\n.\nSecond Inning\nJMU quadrupled its lead with three runs in the second, using base hits from Campbell and sophomore\nJack Anderson\nto scores run before a squeeze bunt from junior\nKyle Langley\nmade it 4-0.\nThird Inning\nThe Eagles got on the board with a fielder's choice with the bases loaded to score a run.\nFourth Inning\nA two-run homer from Nico Senese and a sacrifice fly tied the ball game at four for GS.\nFifth Inning\nSenior\nJack Guerrero\nbroke the tie with a squeeze bunt to score junior\nIke Schmidly\n, ahead of redshirt sophomore\nClay Thompson's\nRBI single to give JMU a 6-4 lead.\nSixth Inning\nA two-run single from Schmidly was the kick starter for a six-run inning for JMU to push the lead to eight runs. The Dukes then scored in three straight plate appearances, as Thompson drove in a run on a sacrifice fly. Pinch hitting, senior\nJack Cannizzaro\nhit a two-run homer for his first career long ball and was followed by a homer from Campbell to make the score 12-4.\nSeventh Inning\nSean White hit a solo shot to get another run on the board for GS.\nThe Dukes responded with their own homer, as Schmidly smashed a 426-foot-long two-run homer to give JMU a 14-5 lead.\nNinth Inning\nAn infield single brought in a run for the Eagles to make it 14-6.\nGame Notes\nIke Schmidly\ndrove in a career-high four RBI.\nThe Dukes homered for an eighth consecutive game.\nJMU has won back-to-back conference openers for the first time since 2021-22.\nThe 14 runs are the most runs scored in a regular-season conference game for the Dukes since May 16, 2024 at Troy.\nRyan Gocio's\nnine-game hit streak was snapped, but he improved his reached base streak to 10.\nUp Next\nThe Dukes and Eagles meet for the middle game of the series tomorrow, March 14 with a 4 p.m. first pitch."
   },
   "players": {
     "3bd6d17b": {
@@ -24,47 +24,50 @@
       "num": "1.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.346,
-        "ops": 0.981,
-        "ab": 52,
-        "r": 11,
-        "h": 18,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.339,
+        "ops": 0.942,
+        "ab": 56,
+        "r": 12,
+        "h": 19,
         "doubles": 3,
         "triples": 2,
         "hr": 1,
-        "rbi": 10,
-        "tb": 28,
-        "slg": 0.538,
+        "rbi": 11,
+        "tb": 29,
+        "slg": 0.518,
         "bb": 7,
         "hbp": 2,
         "so": 4,
         "gdp": 0,
-        "obp": 0.443,
-        "sf": 0,
+        "obp": 0.424,
+        "sf": 1,
         "sh": 3,
         "sb": 9,
         "sb_att": 9
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
-          "ab": 2,
-          "r": 0,
+          "ab": 4,
+          "r": 1,
           "h": 1,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against East Tenn St . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/4 with 1 RBI against Ga. Southern. Contributed at the plate in the team's W."
     },
     "0ac4950b": {
       "id": "0ac4950b",
@@ -76,47 +79,50 @@
       "num": "2.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.314,
-        "ops": 0.942,
-        "ab": 51,
-        "r": 12,
-        "h": 16,
-        "doubles": 3,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.327,
+        "ops": 0.971,
+        "ab": 55,
+        "r": 15,
+        "h": 18,
+        "doubles": 4,
         "triples": 1,
         "hr": 2,
-        "rbi": 13,
-        "tb": 27,
-        "slg": 0.529,
+        "rbi": 14,
+        "tb": 30,
+        "slg": 0.545,
         "bb": 9,
-        "hbp": 1,
-        "so": 10,
+        "hbp": 2,
+        "so": 11,
         "gdp": 1,
-        "obp": 0.413,
+        "obp": 0.426,
         "sf": 2,
         "sh": 4,
-        "sb": 6,
-        "sb_att": 7
+        "sb": 7,
+        "sb_att": 8
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
+          "r": 3,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "LF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against East Tenn St . Contributed at the plate in the team's L 0-13."
+      "narrative": "Went 2/4 with 1 RBI against Ga. Southern. Had an outstanding performance at the plate (0.500)."
     },
     "eff80450": {
       "id": "eff80450",
@@ -128,24 +134,24 @@
       "num": "3.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 13,
-        "gs": 9,
+        "g": 14,
+        "gs": 10,
         "avg": 0.333,
-        "ops": 0.826,
-        "ab": 33,
-        "r": 9,
-        "h": 11,
-        "doubles": 2,
+        "ops": 0.84,
+        "ab": 36,
+        "r": 10,
+        "h": 12,
+        "doubles": 3,
         "triples": 1,
         "hr": 0,
         "rbi": 3,
-        "tb": 15,
-        "slg": 0.455,
+        "tb": 17,
+        "slg": 0.472,
         "bb": 2,
         "hbp": 0,
-        "so": 4,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.371,
+        "obp": 0.368,
         "sf": 0,
         "sh": 0,
         "sb": 6,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 1/3 with 0 RBI against Ga. Southern. Contributed at the plate in the team's W."
     },
     "3178f75a": {
       "id": "3178f75a",
@@ -201,18 +210,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
+        "opponent": "East Tenn. St.",
+        "result": "L",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.2",
           "h": 6,
@@ -224,7 +225,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 4.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against East Tenn. St., throwing 4.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "e181c225": {
       "id": "e181c225",
@@ -236,24 +237,24 @@
       "num": "5.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 14,
-        "gs": 12,
-        "avg": 0.15,
-        "ops": 0.602,
-        "ab": 40,
-        "r": 6,
-        "h": 6,
+        "g": 15,
+        "gs": 13,
+        "avg": 0.2,
+        "ops": 0.73,
+        "ab": 45,
+        "r": 8,
+        "h": 9,
         "doubles": 1,
         "triples": 0,
-        "hr": 2,
-        "rbi": 5,
-        "tb": 13,
-        "slg": 0.325,
+        "hr": 3,
+        "rbi": 7,
+        "tb": 19,
+        "slg": 0.422,
         "bb": 6,
         "hbp": 1,
         "so": 13,
         "gdp": 0,
-        "obp": 0.277,
+        "obp": 0.308,
         "sf": 0,
         "sh": 0,
         "sb": 3,
@@ -261,22 +262,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 3,
+          "rbi": 2,
           "bb": 0,
           "so": 0,
-          "pos": "1B"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 3/5 with 2 RBI against Ga. Southern. Hit 1 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "3075f517": {
       "id": "3075f517",
@@ -309,18 +313,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
+        "opponent": "East Tenn. St.",
+        "result": "L",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 2,
@@ -332,7 +328,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against East Tenn. St., throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "01e34faf": {
       "id": "01e34faf",
@@ -344,47 +340,50 @@
       "num": "7.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.289,
-        "ops": 0.777,
-        "ab": 45,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.319,
+        "ops": 0.843,
+        "ab": 47,
         "r": 9,
-        "h": 13,
+        "h": 15,
         "doubles": 7,
         "triples": 0,
         "hr": 0,
-        "rbi": 5,
-        "tb": 20,
-        "slg": 0.444,
-        "bb": 2,
-        "hbp": 2,
+        "rbi": 7,
+        "tb": 22,
+        "slg": 0.468,
+        "bb": 3,
+        "hbp": 3,
         "so": 9,
         "gdp": 1,
-        "obp": 0.333,
-        "sf": 2,
+        "obp": 0.375,
+        "sf": 3,
         "sh": 0,
-        "sb": 4,
-        "sb_att": 4
+        "sb": 5,
+        "sb_att": 6
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
           "ab": 2,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
+          "h": 2,
+          "rbi": 2,
+          "bb": 1,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 2/2 with 2 RBI against Ga. Southern. Had an outstanding performance at the plate (1.000)."
     },
     "31eb3a34": {
       "id": "31eb3a34",
@@ -396,11 +395,11 @@
       "num": "8.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 3,
-        "avg": 0.091,
-        "ops": 0.377,
-        "ab": 11,
+        "avg": 0.083,
+        "ops": 0.35,
+        "ab": 12,
         "r": 2,
         "h": 1,
         "doubles": 0,
@@ -408,12 +407,12 @@
         "hr": 0,
         "rbi": 1,
         "tb": 1,
-        "slg": 0.091,
+        "slg": 0.083,
         "bb": 2,
         "hbp": 1,
         "so": 1,
         "gdp": 1,
-        "obp": 0.286,
+        "obp": 0.267,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -421,10 +420,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -432,11 +431,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 0/1 with 0 RBI against Ga. Southern. Struggled to make contact."
     },
     "183811f5": {
       "id": "183811f5",
@@ -474,8 +476,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
+        "opponent": "East Tenn. St.",
+        "result": "L",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
         "batting": {
           "ab": 1,
@@ -484,11 +486,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 0/1 with 0 RBI against East Tenn. St.. Struggled to make contact."
     },
     "3db607ad": {
       "id": "3db607ad",
@@ -521,18 +526,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "East Tenn St ",
-        "result": "W 6-4",
+        "opponent": "East Tenn. St.",
+        "result": "W",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20725",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 1,
@@ -544,7 +541,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 1.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against East Tenn. St., throwing 1.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "120c30de": {
       "id": "120c30de",
@@ -556,47 +553,50 @@
       "num": "11.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 11,
-        "gs": 11,
-        "avg": 0.355,
-        "ops": 0.816,
-        "ab": 31,
-        "r": 7,
+        "g": 12,
+        "gs": 12,
+        "avg": 0.333,
+        "ops": 0.785,
+        "ab": 33,
+        "r": 8,
         "h": 11,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 4,
         "tb": 12,
-        "slg": 0.387,
-        "bb": 4,
+        "slg": 0.364,
+        "bb": 5,
         "hbp": 0,
-        "so": 3,
+        "so": 4,
         "gdp": 0,
-        "obp": 0.429,
+        "obp": 0.421,
         "sf": 0,
-        "sh": 1,
+        "sh": 2,
         "sb": 3,
         "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 1,
+          "ab": 2,
+          "r": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "C"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 0 RBI against East Tenn St . Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/2 with 0 RBI against Ga. Southern. Struggled at the plate but saw 1 walk(s)."
     },
     "29907c20": {
       "id": "29907c20",
@@ -609,26 +609,42 @@
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.29,
-        "whip": 0.71,
+        "era": 3.6,
+        "whip": 1.2,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 3,
-        "gs": 3,
-        "ip": 7.0,
-        "h": 2,
-        "r": 1,
-        "er": 1,
-        "bb": 3,
-        "so": 8,
-        "hr": 0,
-        "hbp": 0,
+        "g": 4,
+        "gs": 4,
+        "ip": 10.0,
+        "h": 8,
+        "r": 4,
+        "er": 4,
+        "bb": 4,
+        "so": 9,
+        "hr": 1,
+        "hbp": 1,
         "wp": 1,
-        "opp_avg": ".083"
+        "opp_avg": ".211"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Ga. Southern, throwing 3.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "ca49790d": {
       "id": "ca49790d",
@@ -665,22 +681,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
         "batting": {
           "ab": 2,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "RF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against East Tenn St . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/2 with 0 RBI against Radford. Struggled to make contact."
     },
     "75f753ee": {
       "id": "75f753ee",
@@ -692,7 +711,7 @@
       "num": "14.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 2,
         "avg": 0.0,
         "ops": 0.091,
@@ -717,22 +736,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "SS"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Radford. Struggled to make contact."
     },
     "a3aa3f05": {
       "id": "a3aa3f05",
@@ -769,22 +791,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "East Tenn St ",
-        "result": "W 6-4",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20725",
+        "date": "2026-02-27",
+        "opponent": "vs Charleston",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/charleston/boxscore/20720",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "1B"
+          "rbi": 1,
+          "bb": 1,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/3 with 1 RBI against vs Charleston. Struggled at the plate but saw 1 walk(s)."
     },
     "2f5a6c5c": {
       "id": "2f5a6c5c",
@@ -817,18 +842,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
+        "opponent": "East Tenn. St.",
+        "result": "L",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 0,
@@ -840,7 +857,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against East Tenn. St., throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "a706fe6a": {
       "id": "a706fe6a",
@@ -852,24 +869,24 @@
       "num": "18.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 6,
-        "gs": 2,
-        "avg": 0.0,
-        "ops": 0.2,
-        "ab": 8,
-        "r": 0,
-        "h": 0,
-        "doubles": 0,
+        "g": 7,
+        "gs": 3,
+        "avg": 0.083,
+        "ops": 0.381,
+        "ab": 12,
+        "r": 1,
+        "h": 1,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 0,
-        "tb": 0,
-        "slg": 0.0,
+        "rbi": 1,
+        "tb": 2,
+        "slg": 0.167,
         "bb": 1,
         "hbp": 1,
-        "so": 5,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.2,
+        "obp": 0.214,
         "sf": 0,
         "sh": 2,
         "sb": 0,
@@ -877,22 +894,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "3B"
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 1/4 with 1 RBI against Ga. Southern. Contributed at the plate in the team's W."
     },
     "3a2ca62a": {
       "id": "3a2ca62a",
@@ -923,8 +943,24 @@
         "wp": 2,
         "opp_avg": ".615"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Le Moyne",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/le-moyne/boxscore/20716",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 4,
+          "r": 6,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Le Moyne, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "ab5a1e7b": {
       "id": "ab5a1e7b",
@@ -962,8 +998,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
+        "opponent": "East Tenn. St.",
+        "result": "L",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
         "batting": {
           "ab": 1,
@@ -972,11 +1008,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 0/1 with 0 RBI against East Tenn. St.. Struggled to make contact."
     },
     "90f2a6b6": {
       "id": "90f2a6b6",
@@ -1007,8 +1046,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Le Moyne",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/le-moyne/boxscore/20717",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Le Moyne, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "cae07fe7": {
       "id": "cae07fe7",
@@ -1020,47 +1075,50 @@
       "num": "24.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 14,
-        "gs": 13,
-        "avg": 0.283,
-        "ops": 0.763,
-        "ab": 46,
-        "r": 6,
-        "h": 13,
+        "g": 15,
+        "gs": 14,
+        "avg": 0.28,
+        "ops": 0.742,
+        "ab": 50,
+        "r": 7,
+        "h": 14,
         "doubles": 2,
         "triples": 0,
         "hr": 2,
-        "rbi": 11,
-        "tb": 21,
-        "slg": 0.457,
+        "rbi": 12,
+        "tb": 22,
+        "slg": 0.44,
         "bb": 2,
         "hbp": 0,
         "so": 8,
         "gdp": 0,
-        "obp": 0.306,
+        "obp": 0.302,
         "sf": 1,
-        "sh": 4,
+        "sh": 5,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
-          "pos": "3B/1B"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 1/4 with 1 RBI against Ga. Southern. Contributed at the plate in the team's W."
     },
     "fef88501": {
       "id": "fef88501",
@@ -1093,18 +1151,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
+        "opponent": "East Tenn. St.",
+        "result": "L",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 1,
@@ -1116,7 +1166,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 0.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against East Tenn. St., throwing 0.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "462395ad": {
       "id": "462395ad",
@@ -1153,22 +1203,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PH"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against East Tenn St . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/1 with 0 RBI against Radford. Struggled to make contact."
     },
     "a349d9e7": {
       "id": "a349d9e7",
@@ -1183,24 +1236,40 @@
       "season_pitching": {
         "era": 4.5,
         "whip": 1.17,
-        "w": 2,
+        "w": 3,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 12.0,
-        "h": 8,
-        "r": 7,
-        "er": 6,
-        "bb": 6,
-        "so": 13,
-        "hr": 0,
-        "hbp": 1,
+        "ip": 18.0,
+        "h": 13,
+        "r": 10,
+        "er": 9,
+        "bb": 8,
+        "so": 16,
+        "hr": 1,
+        "hbp": 2,
         "wp": 2,
-        "opp_avg": ".195"
+        "opp_avg": ".213"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 5,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Ga. Southern, throwing 6.0 innings. Struck out 3 while allowing just 5 hit(s) and 3 earned run(s) in a quality start."
     },
     "d18444ed": {
       "id": "d18444ed",
@@ -1232,31 +1301,23 @@
         "opp_avg": ".286"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
+          "ip": "0.1",
           "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Radford, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "81d6a1fb": {
       "id": "81d6a1fb",
@@ -1287,8 +1348,24 @@
         "wp": 0,
         "opp_avg": ".667"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Le Moyne",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/le-moyne/boxscore/20716",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Le Moyne, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "56d31e40": {
       "id": "56d31e40",
@@ -1320,31 +1397,23 @@
         "opp_avg": ".366"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
+        "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 1,
-          "r": 1,
-          "er": 1,
+          "ip": "1.1",
+          "h": 3,
+          "r": 3,
+          "er": 3,
           "bb": 0,
           "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Radford, throwing 1.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "d8cb6549": {
       "id": "d8cb6549",
@@ -1376,31 +1445,23 @@
         "opp_avg": ".161"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
+        "batting": null,
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
+          "ip": "2.2",
+          "h": 1,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Radford, throwing 2.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "f302eaf8": {
       "id": "f302eaf8",
@@ -1432,31 +1493,23 @@
         "opp_avg": ".303"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 3,
-          "r": 3,
-          "er": 3,
-          "bb": 0,
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
           "so": 0,
-          "wp": 2,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Radford, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "ad6dc530": {
       "id": "ad6dc530",
@@ -1468,24 +1521,24 @@
       "num": "37.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.4,
-        "ops": 1.124,
-        "ab": 50,
-        "r": 9,
-        "h": 20,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.407,
+        "ops": 1.18,
+        "ab": 54,
+        "r": 12,
+        "h": 22,
         "doubles": 5,
         "triples": 0,
-        "hr": 3,
-        "rbi": 10,
-        "tb": 34,
-        "slg": 0.68,
-        "bb": 4,
+        "hr": 4,
+        "rbi": 14,
+        "tb": 39,
+        "slg": 0.722,
+        "bb": 5,
         "hbp": 0,
-        "so": 10,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.444,
+        "obp": 0.458,
         "sf": 0,
         "sh": 0,
         "sb": 5,
@@ -1493,22 +1546,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
+          "ab": 4,
+          "r": 3,
+          "h": 2,
+          "rbi": 4,
+          "bb": 1,
           "so": 1,
-          "pos": "RF"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against East Tenn St . Struggled to make contact."
+      "narrative": "Went 2/4 with 4 RBI against Ga. Southern. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "1bc03863": {
       "id": "1bc03863",
@@ -1541,18 +1597,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
+        "opponent": "East Tenn. St.",
+        "result": "L",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 0,
@@ -1564,7 +1612,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against East Tenn. St., throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "28ad6d1c": {
       "id": "28ad6d1c",
@@ -1595,8 +1643,24 @@
         "wp": 2,
         "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Radford, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "8e450e22": {
       "id": "8e450e22",
@@ -1608,32 +1672,50 @@
       "num": "41.0",
       "school": "James Madison University",
       "season_batting": {
-        "g": 1,
+        "g": 2,
         "gs": 1,
-        "avg": 0.333,
-        "ops": 0.666,
-        "ab": 3,
-        "r": 1,
-        "h": 1,
+        "avg": 0.4,
+        "ops": 1.4,
+        "ab": 5,
+        "r": 2,
+        "h": 2,
         "doubles": 0,
         "triples": 0,
-        "hr": 0,
-        "rbi": 1,
-        "tb": 1,
-        "slg": 0.333,
+        "hr": 1,
+        "rbi": 3,
+        "tb": 5,
+        "slg": 1.0,
         "bb": 0,
         "hbp": 0,
         "so": 0,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.4,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Ga. Southern",
+        "result": "W",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/ga-southern/boxscore/20728",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 2 RBI against Ga. Southern. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "80e7d93a": {
       "id": "80e7d93a",
@@ -1665,31 +1747,23 @@
         "opp_avg": ".304"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
+          "ip": "0.2",
           "h": 1,
-          "r": 3,
-          "er": 3,
-          "bb": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
           "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Radford, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "c2719a0d": {
       "id": "c2719a0d",
@@ -1722,18 +1796,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "East Tenn St ",
-        "result": "W 6-4",
+        "opponent": "East Tenn. St.",
+        "result": "W",
         "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20725",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.1",
           "h": 3,
@@ -1745,7 +1811,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against East Tenn St , throwing 5.1 innings. Struck out 5 while allowing just 3 hit(s) and 3 earned run(s) in a quality start."
+      "narrative": "Took the mound against East Tenn. St., throwing 5.1 innings. Struck out 5 while allowing just 3 hit(s) and 3 earned run(s) in a quality start."
     },
     "7ed66a60": {
       "id": "7ed66a60",
@@ -1782,22 +1848,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "East Tenn St ",
-        "result": "L 0-13",
-        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/east-tenn-st-/boxscore/20726",
+        "date": "2026-03-10",
+        "opponent": "Radford",
+        "result": "L",
+        "boxscore_url": "https://www.jmusports.com/sports/baseball/stats/2026/radford/boxscore/20727",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
-          "pos": "SS"
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against East Tenn St . Contributed at the plate in the team's L 0-13."
+      "narrative": "Went 2/4 with 1 RBI against Radford. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

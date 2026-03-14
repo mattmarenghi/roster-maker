@@ -2,168 +2,17 @@
   "school": "Northwestern State University",
   "base_url": "https://www.nsudemons.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:55:55.580816Z",
-  "record": "10-7",
+  "generated_at": "2026-03-14T15:18:18.483629Z",
+  "record": "11-7",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Alcorn State",
-    "result": "W 13-2",
-    "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14491&path=baseball",
-    "recap_url": "https://www.nsudemons.com/news/2026/3/10/demon-baseball-demons-cruise-past-alcorn-in-seven.aspx",
-    "recap_headline": "Northwestern State University of Louisana",
+    "date": "2026-03-13",
+    "opponent": "Texas AM-Corpus Christi",
+    "result": "",
+    "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14493&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "d3f7bee1": {
-      "id": "d3f7bee1",
-      "name": "Jacob LeBlanc",
-      "fn": "Jacob",
-      "ln": "LeBlanc",
-      "pos": "LHP",
-      "yr": "",
-      "num": "6.0",
-      "school": "Northwestern State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Alcorn State",
-        "result": "W 13-2",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14491&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.1",
-          "h": 3,
-          "r": 1,
-          "er": 1,
-          "bb": 2,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Alcorn State, throwing 1.1 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
-    },
-    "5ddba6b8": {
-      "id": "5ddba6b8",
-      "name": "Chase Prestwich",
-      "fn": "Chase",
-      "ln": "Prestwich",
-      "pos": "RHP",
-      "yr": "",
-      "num": "27.0",
-      "school": "Northwestern State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Alcorn State",
-        "result": "W 13-2",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14491&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.2",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Alcorn State, throwing 1.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    },
-    "0321d113": {
-      "id": "0321d113",
-      "name": "Lucas Harrington",
-      "fn": "Lucas",
-      "ln": "Harrington",
-      "pos": "RHP",
-      "yr": "",
-      "num": "37.0",
-      "school": "Northwestern State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Alcorn State",
-        "result": "W 13-2",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14491&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Alcorn State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    },
-    "9149a1f0": {
-      "id": "9149a1f0",
-      "name": "Logan Trotter",
-      "fn": "Logan",
-      "ln": "Trotter",
-      "pos": "RHP",
-      "yr": "",
-      "num": "41.0",
-      "school": "Northwestern State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Alcorn State",
-        "result": "W 13-2",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14491&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Alcorn State, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
-    },
-    "acd02563": {
-      "id": "acd02563",
-      "name": "Caleb Muffoletto",
-      "fn": "Caleb",
-      "ln": "Muffoletto",
-      "pos": "RHP",
-      "yr": "",
-      "num": "46.0",
-      "school": "Northwestern State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Alcorn State",
-        "result": "W 13-2",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14491&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
-          "wp": 2,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Alcorn State, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

@@ -2,16 +2,16 @@
   "school": "Princeton University",
   "base_url": "https://www.goprincetontigers.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:58:38.298459Z",
-  "record": "3-9",
+  "generated_at": "2026-03-14T15:22:58.837934Z",
+  "record": "3-10",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Winthrop",
-    "result": "W 11-0",
-    "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
-    "recap_url": "https://www.goprincetontigers.com/news/2026/3/11/baseball-princeton-defeats-winthrop-10-3-in-strong-offensive-showing",
+    "date": "2026-03-13",
+    "opponent": "Wofford",
+    "result": "L",
+    "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+    "recap_url": "https://www.goprincetontigers.com/news/2026/3/13/baseball-princeton-drops-firs-game-t-of-series-to-wofford-12-1",
     "recap_headline": "Princeton University Athletics",
-    "recap_text": "ROCK HILL, S.C. -\nPrinceton baseball started off their series against Winthrop with a strong 10-3 win.\nPrinceton's offense erupted in the fourth inning with a seven-run rally.\nWill Robbins\nstarted by doubling down the left field line, bringing home\nJake Kernodle\nwhile\nJake Koonin\nadvanced to third. Moments later, Koonin scored on an error by Winthrop.\nIsaac Lamson\nextended the lead with an RBI double, bringing\u00a0in Robbins and\nDylan Zdunek\nto make it 4-0.\nGrant Werdesheim\nfollowed with an RBI single that scored\nBrady Kaufman\n, and following another error, Lamson and Werdesheim made it to home, making it 7-0.\nThe Tigers added insurance late in the game. In the eighth inning,\nJake Koonin\ndelivered an RBI single to score Kernodle, and Robbins added another run with an RBI groundout that brought home Bennet Crerar. Princeton closed out their scoring in the ninth when\nTommy Googins\ndrove in Kaufman with a groundout to make it 10-3.\nWinthrop attempted to rally late with three runs across the sixth and eighth innings, but could not inch closer.\nPrinceton starter\nJames Beasley\nallowed just five hits and one run.\nJackson Baldrate\nfinished the game with a scoreless ninth to secure the win.\nPrinceton continues its series against Winthrop Wednesday. First pitch is set for 4 p.m."
+    "recap_text": "SPARTANBURG, S.C. -\nOn their last stop of the Spring Break road trip, the Tigers fall 12-1 to the Wofford Terriers.\nThe Terriers opened up scoring in the game with two runs in the first inning.\nIn the second inning,\nWill Robbins\nscored with a home run, his second of the season, chipping away at the deficit for the Tigers.\nWofford's strong pitching and defense limited the Tigers to just one single run. The Terriers continued to put up 10 unanswered runs between the third and sixth innings.\nWill Sword\nstarted on the mound for the Tigers, allowing six runs and striking out three. Parker Codin took to the mound later in the game, also allowing 6 runs and earning one strikeout.\nJackson Baldrate\nwas sent to the mound to close out the game, not allowing any hits or runs.\nThe Tigers resume play tomorrow against Wofford in a doubleheader, with first pitch scheduled for 1 p.m. followed by the second game at 4 p.m."
   },
   "players": {
     "9fe6b2d3": {
@@ -48,8 +48,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Winthrop",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Winthrop. Struggled to make contact."
     },
     "18df225c": {
       "id": "18df225c",
@@ -80,8 +98,24 @@
         "wp": 2,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Winthrop",
+        "result": "W",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21357",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 5,
+          "r": 1,
+          "er": 1,
+          "bb": 4,
+          "so": 1,
+          "wp": 2,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Winthrop, throwing 7.0 innings. Struck out 1 while allowing just 5 hit(s) and 1 earned run(s) in a quality start."
     },
     "a29b423e": {
       "id": "a29b423e",
@@ -93,11 +127,11 @@
       "num": "3.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.273,
-        "ops": 0.742,
-        "ab": 44,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.261,
+        "ops": 0.724,
+        "ab": 46,
         "r": 6,
         "h": 12,
         "doubles": 3,
@@ -105,10 +139,10 @@
         "hr": 1,
         "rbi": 5,
         "tb": 18,
-        "slg": 0.409,
-        "bb": 2,
+        "slg": 0.391,
+        "bb": 3,
         "hbp": 2,
-        "so": 8,
+        "so": 9,
         "gdp": 0,
         "obp": 0.333,
         "sf": 0,
@@ -117,8 +151,26 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Wofford. Struggled at the plate but saw 1 walk(s)."
     },
     "d490469a": {
       "id": "d490469a",
@@ -154,8 +206,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/nc-state/boxscore/21348",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against NC State. Contributed at the plate in the team's L."
     },
     "ab1c7fdd": {
       "id": "ab1c7fdd",
@@ -191,8 +261,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Winthrop",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Winthrop. Struggled to make contact."
     },
     "5b99ee06": {
       "id": "5b99ee06",
@@ -223,8 +311,24 @@
         "wp": 3,
         "opp_avg": ".281"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "South Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/south-carolina/boxscore/21354",
+        "batting": null,
+        "pitching": {
+          "ip": "4.1",
+          "h": 8,
+          "r": 6,
+          "er": 6,
+          "bb": 2,
+          "so": 4,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Carolina, throwing 4.1 innings. Allowed 6 earned run(s) with 4 strikeout(s)."
     },
     "0cab2e72": {
       "id": "0cab2e72",
@@ -236,32 +340,50 @@
       "num": "7.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 11,
-        "gs": 10,
-        "avg": 0.15,
-        "ops": 0.465,
-        "ab": 40,
+        "g": 12,
+        "gs": 11,
+        "avg": 0.163,
+        "ops": 0.502,
+        "ab": 43,
         "r": 4,
-        "h": 6,
-        "doubles": 0,
+        "h": 7,
+        "doubles": 1,
         "triples": 1,
         "hr": 1,
         "rbi": 4,
-        "tb": 11,
-        "slg": 0.275,
+        "tb": 13,
+        "slg": 0.302,
         "bb": 1,
         "hbp": 1,
-        "so": 21,
+        "so": 22,
         "gdp": 1,
-        "obp": 0.19,
+        "obp": 0.2,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Wofford. Contributed at the plate in the team's L."
     },
     "d6c9ecc8": {
       "id": "d6c9ecc8",
@@ -292,8 +414,24 @@
         "wp": 0,
         "opp_avg": ".280"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Winthrop",
+        "result": "W",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21357",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Winthrop, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "b20f7ba1": {
       "id": "b20f7ba1",
@@ -329,8 +467,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "South Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/south-carolina/boxscore/21355",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against South Carolina. Struggled to make contact."
     },
     "63f7c444": {
       "id": "63f7c444",
@@ -342,24 +498,24 @@
       "num": "10.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 9,
-        "gs": 9,
-        "avg": 0.28,
-        "ops": 0.637,
-        "ab": 25,
+        "g": 10,
+        "gs": 10,
+        "avg": 0.286,
+        "ops": 0.676,
+        "ab": 28,
         "r": 5,
-        "h": 7,
-        "doubles": 0,
+        "h": 8,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 0,
-        "tb": 7,
-        "slg": 0.28,
+        "tb": 9,
+        "slg": 0.321,
         "bb": 2,
         "hbp": 1,
-        "so": 9,
+        "so": 10,
         "gdp": 2,
-        "obp": 0.357,
+        "obp": 0.355,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -384,8 +540,35 @@
         "wp": 2,
         "opp_avg": ".282"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 5,
+          "r": 6,
+          "er": 6,
+          "bb": 4,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Went 1/3 with 0 RBI against Wofford. Contributed at the plate in the team's L."
     },
     "d5a7a682": {
       "id": "d5a7a682",
@@ -397,11 +580,11 @@
       "num": "11.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 6,
-        "gs": 5,
-        "avg": 0.238,
-        "ops": 0.511,
-        "ab": 21,
+        "g": 7,
+        "gs": 6,
+        "avg": 0.208,
+        "ops": 0.448,
+        "ab": 24,
         "r": 1,
         "h": 5,
         "doubles": 0,
@@ -409,20 +592,38 @@
         "hr": 0,
         "rbi": 2,
         "tb": 5,
-        "slg": 0.238,
+        "slg": 0.208,
         "bb": 1,
         "hbp": 0,
-        "so": 4,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.273,
+        "obp": 0.24,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Wofford. Struggled to make contact."
     },
     "103261ce": {
       "id": "103261ce",
@@ -435,26 +636,42 @@
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.5,
-        "whip": 2.33,
+        "era": 9.9,
+        "whip": 2.5,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 3,
-        "gs": 0,
-        "ip": 6.0,
-        "h": 8,
-        "r": 5,
-        "er": 5,
-        "bb": 6,
-        "so": 6,
+        "g": 4,
+        "gs": 1,
+        "ip": 10.0,
+        "h": 16,
+        "r": 11,
+        "er": 11,
+        "bb": 9,
+        "so": 9,
         "hr": 0,
         "hbp": 2,
-        "wp": 0,
-        "opp_avg": ".320"
+        "wp": 2,
+        "opp_avg": ".381"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 8,
+          "r": 6,
+          "er": 6,
+          "bb": 3,
+          "so": 3,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 4.0 innings. Allowed 6 earned run(s) with 3 strikeout(s)."
     },
     "d7bb6fde": {
       "id": "d7bb6fde",
@@ -466,32 +683,50 @@
       "num": "14.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.2,
-        "ops": 0.595,
-        "ab": 45,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.229,
+        "ops": 0.641,
+        "ab": 48,
         "r": 5,
-        "h": 9,
+        "h": 11,
         "doubles": 2,
         "triples": 0,
         "hr": 2,
         "rbi": 4,
-        "tb": 17,
-        "slg": 0.378,
+        "tb": 19,
+        "slg": 0.396,
         "bb": 0,
         "hbp": 1,
-        "so": 17,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.217,
+        "obp": 0.245,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 0 RBI against Wofford. Had an outstanding performance at the plate (0.667)."
     },
     "c5d78e3f": {
       "id": "c5d78e3f",
@@ -522,8 +757,24 @@
         "wp": 1,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Winthrop",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Winthrop, throwing 2.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "11b9b953": {
       "id": "11b9b953",
@@ -535,32 +786,50 @@
       "num": "16.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.235,
-        "ops": 0.69,
-        "ab": 34,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.25,
+        "ops": 0.725,
+        "ab": 36,
         "r": 2,
-        "h": 8,
+        "h": 9,
         "doubles": 1,
         "triples": 1,
         "hr": 1,
         "rbi": 1,
-        "tb": 14,
-        "slg": 0.412,
-        "bb": 2,
+        "tb": 15,
+        "slg": 0.417,
+        "bb": 3,
         "hbp": 0,
         "so": 5,
         "gdp": 2,
-        "obp": 0.278,
+        "obp": 0.308,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Wofford. Had an outstanding performance at the plate (0.500)."
     },
     "9ef5c5a2": {
       "id": "9ef5c5a2",
@@ -572,11 +841,11 @@
       "num": "17.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 12,
-        "gs": 10,
-        "avg": 0.3,
-        "ops": 0.731,
-        "ab": 30,
+        "g": 13,
+        "gs": 11,
+        "avg": 0.265,
+        "ops": 0.648,
+        "ab": 34,
         "r": 4,
         "h": 9,
         "doubles": 2,
@@ -584,20 +853,38 @@
         "hr": 0,
         "rbi": 4,
         "tb": 11,
-        "slg": 0.367,
+        "slg": 0.324,
         "bb": 2,
         "hbp": 1,
-        "so": 11,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.364,
+        "obp": 0.324,
         "sf": 0,
         "sh": 2,
         "sb": 3,
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Wofford. Struggled to make contact."
     },
     "e0ac3b64": {
       "id": "e0ac3b64",
@@ -610,26 +897,42 @@
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
-        "era": 12.27,
-        "whip": 2.18,
+        "era": 11.25,
+        "whip": 2.25,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 3.2,
+        "ip": 4.0,
         "h": 6,
         "r": 5,
         "er": 5,
-        "bb": 2,
+        "bb": 3,
         "so": 2,
         "hr": 1,
-        "hbp": 1,
+        "hbp": 3,
         "wp": 1,
-        "opp_avg": ".429"
+        "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "722049df": {
       "id": "722049df",
@@ -660,8 +963,24 @@
         "wp": 2,
         "opp_avg": ".341"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "South Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/south-carolina/boxscore/21355",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against South Carolina, throwing 5.0 innings. Struck out 4 while allowing just 4 hit(s) and 2 earned run(s) in a quality start."
     },
     "2f0b4988": {
       "id": "2f0b4988",
@@ -673,32 +992,50 @@
       "num": "24.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 8,
-        "gs": 8,
-        "avg": 0.16,
-        "ops": 0.66,
-        "ab": 25,
-        "r": 4,
-        "h": 4,
+        "g": 9,
+        "gs": 9,
+        "avg": 0.179,
+        "ops": 0.767,
+        "ab": 28,
+        "r": 5,
+        "h": 5,
         "doubles": 2,
         "triples": 0,
-        "hr": 1,
-        "rbi": 5,
-        "tb": 9,
-        "slg": 0.36,
+        "hr": 2,
+        "rbi": 6,
+        "tb": 13,
+        "slg": 0.464,
         "bb": 5,
         "hbp": 0,
-        "so": 7,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.3,
+        "obp": 0.303,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against Wofford. Hit 1 home run(s). Contributed at the plate in the team's L."
     },
     "6f1d73d6": {
       "id": "6f1d73d6",
@@ -711,26 +1048,42 @@
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
-        "era": 21.6,
-        "whip": 3.6,
+        "era": 27.0,
+        "whip": 3.0,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 1.2,
-        "h": 4,
-        "r": 5,
-        "er": 4,
-        "bb": 2,
-        "so": 1,
+        "ip": 3.1,
+        "h": 5,
+        "r": 11,
+        "er": 10,
+        "bb": 5,
+        "so": 2,
         "hr": 0,
-        "hbp": 0,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".571"
+        "opp_avg": ".385"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 6,
+          "er": 6,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 1.2 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
     },
     "a0b08580": {
       "id": "a0b08580",
@@ -761,8 +1114,24 @@
         "wp": 1,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Winthrop",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Winthrop, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "739df057": {
       "id": "739df057",
@@ -793,8 +1162,24 @@
         "wp": 1,
         "opp_avg": ".254"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Winthrop",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 3,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 1,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against Winthrop, throwing 2.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "c6426d44": {
       "id": "c6426d44",
@@ -806,11 +1191,11 @@
       "num": "34.0",
       "school": "Princeton University",
       "season_batting": {
-        "g": 9,
-        "gs": 9,
-        "avg": 0.125,
-        "ops": 0.419,
-        "ab": 32,
+        "g": 10,
+        "gs": 10,
+        "avg": 0.118,
+        "ops": 0.415,
+        "ab": 34,
         "r": 4,
         "h": 4,
         "doubles": 1,
@@ -818,20 +1203,38 @@
         "hr": 0,
         "rbi": 5,
         "tb": 5,
-        "slg": 0.156,
+        "slg": 0.147,
         "bb": 3,
-        "hbp": 3,
-        "so": 15,
+        "hbp": 4,
+        "so": 16,
         "gdp": 0,
-        "obp": 0.263,
+        "obp": 0.268,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21359",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Wofford. Struggled to make contact."
     },
     "ed7767ad": {
       "id": "ed7767ad",
@@ -885,8 +1288,35 @@
         "wp": 2,
         "opp_avg": ".462"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Winthrop",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Went 0/3 with 0 RBI against Winthrop. Struggled to make contact."
     },
     "40b4511e": {
       "id": "40b4511e",
@@ -917,8 +1347,24 @@
         "wp": 0,
         "opp_avg": ".205"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Winthrop",
+        "result": "L",
+        "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/winthrop/boxscore/21358",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 3,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Winthrop, throwing 1.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

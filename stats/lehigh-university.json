@@ -2,16 +2,16 @@
   "school": "Lehigh University",
   "base_url": "https://www.lehighsports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:44:54.559697Z",
-  "record": "3-10",
+  "generated_at": "2026-03-14T15:01:27.768820Z",
+  "record": "8-11",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Saint Peter's",
-    "result": "L 3-12",
-    "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
-    "recap_url": "https://www.lehighsports.com/news/2026/3/11/baseball-mountain-hawks-drop-midweek-matchup-with-saint-peter-s",
+    "date": "2026-03-13",
+    "opponent": "Navy",
+    "result": "W",
+    "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
+    "recap_url": "https://www.lehighsports.com/news/2026/3/13/baseball-lehigh-defeats-navy-3-1-in-patriot-league-opener",
     "recap_headline": "Lehigh University Athletics",
-    "recap_text": "BETHLEHEM, Pa. \u2013 In its final tune-up before Patriot League play begins this weekend, Lehigh fell to Saint Peter's 12-3 Wednesday at J. David Walker Field.\nSenior\nTrystan Crawford\npaced the offense with two hits, but an early 5-0 deficit was too much to overcome.\nA Bobby Lavely three-run home run to right put the Peacocks up 5-0 in the top of the third inning.\nLehigh pulled a run back on a sacrifice fly off the bat of first-year\nMax Dantoni\n, that scored first-year\nSilvio Giardina\nin the bottom of the third.\nSophomore\nIan Wirtz\ntripled home Crawford in the fourth and then scored when junior\nRobbie Carvelli\nreached on an error to bring Lehigh within 6-3.\nSaint Peter's added two runs in the fifth, sixth and ninth innings to account for the final margin.\nFirst-year\nRyan Holman\nstarted on the mound and was charged with five runs over 2.2 innings. He walked two and struck out four. First-year\nDeclan Wilkes\nretired all six batters he faced over two scoreless innings.\nLehigh mustered six hits on the afternoon and was hurt by three errors in the field.\nLuke Schwartz joined Lavely with three RBIs for Saint Peter's.\nThe Mountain Hawks open Patriot League play at home this weekend with a three-game series against Navy, beginning with a contest Friday at 3 p.m."
+    "recap_text": "BETHLEHEM, Pa.\u00a0\u2013 Lehigh baseball opened Patriot League play on Friday afternoon from J. David Walker Field against the Navy Midshipmen. Stellar performances on the mound from starter\nSam Fairhurst\nand reliever\nChristopher Nell\nguided the Mountain Hawks to a 3-1 victory over the Mids.\nFairhurst earned the win for Lehigh (4-10, 1-0 PL), striking out seven batters while allowing four hits and one earned run in 5.0 innings pitched. Nell impressed with five strikeouts with only one hit in 4.0 scoreless innings. Navy starter Brady Bendik was credited with the loss despite a solid stat line of ten strikeouts with six hits and three earned runs in 7.0 complete innings.\nFairhurst and Bendik made quick work through the first two innings, as both pitchers only faced eight batter through the first and second innings. The Mountain Hawks broke the tie in the bottom of the third, plating three runs on RBIs from\nRaffaele Rogers\n,\nAidan Quinn\n, and\nRyan Cochran\n. Fairhurst then retired the side 1-2-3 in the top of the fourth inning.\nAfter several great innings from Fairhurst and Bendik, the Mids finally got on the board in the top of the sixth when Ty DePerno grounded into a double play that scored Mason Ceccarelli. Nell entered the game and limited Navy to only one run in the frame, keeping the score at 3-1. The Mids generated runners on third and first in the eighth, but Nell got the outs necessary to keep Navy off the board. A 1-2-3 inning in the top of the ninth for the first-year sealed Lehigh's league-opening victory.\nQuinn finished the day going 2-3 with a walk and an RBI.\nDom Patrizi\n,\nOwen Walewander\n,\nSilvio Giardina\n, and Rogers also recorded hits for the Mountain Hawks.\nThe Mountain Hawks return to J. David Walker Field for game two of the series on Saturday, March 14 at 1 p.m.\nLike Lehigh Baseball on\nFacebook\n, follow on\nX\n(formerly Twitter)\u00a0and\nInstagram\nfor exclusive content, team updates and more."
   },
   "players": {
     "c153bf27": {
@@ -24,24 +24,24 @@
       "num": "1.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.233,
-        "ops": 0.789,
-        "ab": 43,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.261,
+        "ops": 0.832,
+        "ab": 46,
         "r": 4,
-        "h": 10,
+        "h": 12,
         "doubles": 2,
         "triples": 0,
         "hr": 2,
-        "rbi": 7,
-        "tb": 18,
-        "slg": 0.419,
-        "bb": 8,
+        "rbi": 8,
+        "tb": 20,
+        "slg": 0.435,
+        "bb": 9,
         "hbp": 2,
         "so": 9,
         "gdp": 0,
-        "obp": 0.37,
+        "obp": 0.397,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "h": 2,
+          "rbi": 1,
           "bb": 1,
           "so": 0,
-          "pos": "3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Saint Peter's. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 2/3 with 1 RBI against Navy. Had an outstanding performance at the plate (0.667)."
     },
     "6289ca74": {
       "id": "6289ca74",
@@ -76,24 +79,24 @@
       "num": "2.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.234,
-        "ops": 0.67,
-        "ab": 47,
-        "r": 8,
-        "h": 11,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.235,
+        "ops": 0.658,
+        "ab": 51,
+        "r": 9,
+        "h": 12,
         "doubles": 1,
         "triples": 0,
         "hr": 1,
         "rbi": 6,
-        "tb": 15,
-        "slg": 0.319,
+        "tb": 16,
+        "slg": 0.314,
         "bb": 8,
         "hbp": 1,
-        "so": 18,
+        "so": 21,
         "gdp": 0,
-        "obp": 0.351,
+        "obp": 0.344,
         "sf": 1,
         "sh": 0,
         "sb": 4,
@@ -101,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
         "batting": {
           "ab": 4,
-          "r": 0,
+          "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "CF"
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Saint Peter's. Contributed at the plate in the team's L 3-12."
+      "narrative": "Went 1/4 with 0 RBI against Navy. Contributed at the plate in the team's W."
     },
     "980c74d6": {
       "id": "980c74d6",
@@ -128,32 +134,50 @@
       "num": "3.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 11,
-        "gs": 11,
-        "avg": 0.294,
-        "ops": 0.844,
-        "ab": 34,
+        "g": 12,
+        "gs": 12,
+        "avg": 0.27,
+        "ops": 0.774,
+        "ab": 37,
         "r": 7,
         "h": 10,
         "doubles": 4,
         "triples": 0,
         "hr": 0,
-        "rbi": 5,
+        "rbi": 6,
         "tb": 14,
-        "slg": 0.412,
+        "slg": 0.378,
         "bb": 6,
         "hbp": 3,
-        "so": 7,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.432,
-        "sf": 1,
+        "obp": 0.396,
+        "sf": 2,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 1 RBI against Navy. Struggled to make contact."
     },
     "94bd54bb": {
       "id": "94bd54bb",
@@ -165,24 +189,24 @@
       "num": "4.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.161,
-        "ops": 0.504,
-        "ab": 31,
-        "r": 3,
-        "h": 5,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.176,
+        "ops": 0.517,
+        "ab": 34,
+        "r": 4,
+        "h": 6,
         "doubles": 0,
         "triples": 1,
         "hr": 0,
         "rbi": 2,
-        "tb": 7,
-        "slg": 0.226,
+        "tb": 8,
+        "slg": 0.235,
         "bb": 5,
         "hbp": 0,
-        "so": 10,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.278,
+        "obp": 0.282,
         "sf": 0,
         "sh": 2,
         "sb": 1,
@@ -190,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 2,
-          "so": 1,
-          "pos": "SS"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Saint Peter's. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/3 with 0 RBI against Navy. Contributed at the plate in the team's W."
     },
     "b35a6025": {
       "id": "b35a6025",
@@ -217,24 +244,24 @@
       "num": "5.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 11,
-        "gs": 11,
-        "avg": 0.238,
-        "ops": 0.646,
-        "ab": 42,
+        "g": 12,
+        "gs": 12,
+        "avg": 0.239,
+        "ops": 0.656,
+        "ab": 46,
         "r": 4,
-        "h": 10,
-        "doubles": 2,
+        "h": 11,
+        "doubles": 3,
         "triples": 0,
         "hr": 1,
         "rbi": 3,
-        "tb": 15,
-        "slg": 0.357,
+        "tb": 17,
+        "slg": 0.37,
         "bb": 1,
         "hbp": 2,
-        "so": 14,
+        "so": 16,
         "gdp": 2,
-        "obp": 0.289,
+        "obp": 0.286,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -242,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "DH"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Saint Peter's. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/4 with 0 RBI against Navy. Contributed at the plate in the team's W."
     },
     "11744baa": {
       "id": "11744baa",
@@ -269,11 +299,11 @@
       "num": "6.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.302,
-        "ops": 0.868,
-        "ab": 43,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.289,
+        "ops": 0.843,
+        "ab": 45,
         "r": 7,
         "h": 13,
         "doubles": 3,
@@ -281,12 +311,12 @@
         "hr": 1,
         "rbi": 8,
         "tb": 19,
-        "slg": 0.442,
-        "bb": 9,
+        "slg": 0.422,
+        "bb": 10,
         "hbp": 1,
         "so": 14,
         "gdp": 0,
-        "obp": 0.426,
+        "obp": 0.421,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -294,22 +324,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 2,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 0 RBI against Saint Peter's. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 0/2 with 0 RBI against Navy. Struggled at the plate but saw 1 walk(s)."
     },
     "65ebdeb8": {
       "id": "65ebdeb8",
@@ -340,8 +373,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Muhlenberg",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/muhlenberg/boxscore/15844",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Muhlenberg, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "8d8c1d64": {
       "id": "8d8c1d64",
@@ -372,8 +421,24 @@
         "wp": 0,
         "opp_avg": ".350"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15847",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 4,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Davidson, throwing 1.1 innings. Allowed 5 earned run(s) with 1 strikeout(s)."
     },
     "26a23269": {
       "id": "26a23269",
@@ -385,11 +450,11 @@
       "num": "9.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 11,
-        "gs": 3,
-        "avg": 0.1,
-        "ops": 0.243,
-        "ab": 20,
+        "g": 12,
+        "gs": 4,
+        "avg": 0.087,
+        "ops": 0.212,
+        "ab": 23,
         "r": 1,
         "h": 2,
         "doubles": 0,
@@ -397,12 +462,12 @@
         "hr": 0,
         "rbi": 3,
         "tb": 2,
-        "slg": 0.1,
+        "slg": 0.087,
         "bb": 1,
         "hbp": 0,
         "so": 3,
         "gdp": 0,
-        "obp": 0.143,
+        "obp": 0.125,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -410,22 +475,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "RF"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Saint Peter's. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Navy. Struggled to make contact."
     },
     "63e3e9b3": {
       "id": "63e3e9b3",
@@ -464,7 +532,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
         "batting": {
           "ab": 2,
@@ -473,7 +541,10 @@
           "rbi": 1,
           "bb": 1,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -511,17 +582,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -569,8 +632,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15847",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Davidson. Struggled to make contact."
     },
     "fa5c4752": {
       "id": "fa5c4752",
@@ -583,26 +664,42 @@
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
-        "era": 8.56,
-        "whip": 1.61,
-        "w": 1,
+        "era": 6.75,
+        "whip": 1.5,
+        "w": 2,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 0,
-        "ip": 13.2,
-        "h": 18,
-        "r": 13,
-        "er": 13,
-        "bb": 4,
-        "so": 12,
+        "g": 5,
+        "gs": 1,
+        "ip": 18.2,
+        "h": 22,
+        "r": 14,
+        "er": 14,
+        "bb": 6,
+        "so": 19,
         "hr": 6,
-        "hbp": 3,
+        "hbp": 4,
         "wp": 0,
-        "opp_avg": ".316"
+        "opp_avg": ".293"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 7,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 5.0 innings. Struck out 7 while allowing just 4 hit(s) and 1 earned run(s) in a quality start."
     },
     "c49439ee": {
       "id": "c49439ee",
@@ -633,8 +730,24 @@
         "wp": 2,
         "opp_avg": ".800"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15847",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Davidson, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "e6e5126f": {
       "id": "e6e5126f",
@@ -646,32 +759,50 @@
       "num": "15.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 8,
-        "gs": 8,
-        "avg": 0.4,
-        "ops": 1.38,
-        "ab": 25,
-        "r": 8,
-        "h": 10,
-        "doubles": 0,
+        "g": 9,
+        "gs": 9,
+        "avg": 0.379,
+        "ops": 1.299,
+        "ab": 29,
+        "r": 9,
+        "h": 11,
+        "doubles": 1,
         "triples": 0,
         "hr": 4,
-        "rbi": 8,
-        "tb": 22,
-        "slg": 0.88,
+        "rbi": 9,
+        "tb": 24,
+        "slg": 0.828,
         "bb": 4,
         "hbp": 1,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.471,
         "sf": 0,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Navy. Contributed at the plate in the team's W."
     },
     "5f5bf44c": {
       "id": "5f5bf44c",
@@ -707,8 +838,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15847",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Davidson. Struggled to make contact."
     },
     "e9dc9f41": {
       "id": "e9dc9f41",
@@ -720,11 +869,11 @@
       "num": "18.0",
       "school": "Lehigh University",
       "season_batting": {
-        "g": 11,
-        "gs": 9,
-        "avg": 0.265,
-        "ops": 0.653,
-        "ab": 34,
+        "g": 12,
+        "gs": 10,
+        "avg": 0.25,
+        "ops": 0.619,
+        "ab": 36,
         "r": 5,
         "h": 9,
         "doubles": 1,
@@ -732,35 +881,38 @@
         "hr": 0,
         "rbi": 2,
         "tb": 10,
-        "slg": 0.294,
+        "slg": 0.278,
         "bb": 4,
         "hbp": 1,
-        "so": 9,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.359,
+        "obp": 0.341,
         "sf": 0,
-        "sh": 1,
+        "sh": 2,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
         "batting": {
           "ab": 2,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "RF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 1 RBI against Saint Peter's. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/2 with 0 RBI against Navy. Struggled to make contact."
     },
     "9751215a": {
       "id": "9751215a",
@@ -794,17 +946,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.2",
           "h": 5,
@@ -847,8 +991,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-13",
+        "opponent": "Miami FL",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/miami-fl/boxscore/15835",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Miami FL, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "b0a22f65": {
       "id": "b0a22f65",
@@ -879,8 +1039,24 @@
         "wp": 1,
         "opp_avg": ".233"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15846",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 4,
+          "er": 4,
+          "bb": 5,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Davidson, throwing 1.1 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
     },
     "80818172": {
       "id": "80818172",
@@ -919,7 +1095,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
         "batting": {
           "ab": 1,
@@ -928,7 +1104,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -971,7 +1150,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
         "batting": {
           "ab": 2,
@@ -980,7 +1159,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1018,17 +1200,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -1079,7 +1253,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
         "batting": {
           "ab": 2,
@@ -1088,7 +1262,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1126,17 +1303,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 1,
@@ -1182,17 +1351,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
@@ -1243,7 +1404,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
         "batting": {
           "ab": 1,
@@ -1252,7 +1413,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1295,7 +1459,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
         "batting": {
           "ab": 4,
@@ -1304,11 +1468,14 @@
           "rbi": 1,
           "bb": 0,
           "so": 1,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Saint Peter's. Contributed at the plate in the team's L 3-12."
+      "narrative": "Went 1/4 with 1 RBI against Saint Peter's. Contributed at the plate in the team's L."
     },
     "bfa35496": {
       "id": "bfa35496",
@@ -1339,8 +1506,24 @@
         "wp": 0,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15846",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Davidson, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "6c1d778b": {
       "id": "6c1d778b",
@@ -1379,7 +1562,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
         "batting": {
           "ab": 1,
@@ -1388,7 +1571,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1423,8 +1609,24 @@
         "wp": 1,
         "opp_avg": ".447"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15846",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 5,
+          "er": 4,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Davidson, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "1f6fbf09": {
       "id": "1f6fbf09",
@@ -1458,17 +1660,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Saint Peter's",
-        "result": "L 3-12",
+        "result": "L",
         "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -1511,8 +1705,24 @@
         "wp": 0,
         "opp_avg": ".231"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "George Washington",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/george-washington/boxscore/15840",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against George Washington, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "72d6c08c": {
       "id": "72d6c08c",
@@ -1543,8 +1753,24 @@
         "wp": 0,
         "opp_avg": ".343"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Davidson",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/davidson/boxscore/15845",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 6,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Davidson, throwing 3.0 innings. Allowed 2 earned run(s) with 6 strikeout(s)."
     },
     "9b62fbe7": {
       "id": "9b62fbe7",
@@ -1557,26 +1783,42 @@
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.94,
-        "whip": 1.97,
+        "era": 5.17,
+        "whip": 1.53,
         "w": 0,
         "l": 1,
-        "sv": 0,
-        "g": 4,
+        "sv": 1,
+        "g": 5,
         "gs": 3,
-        "ip": 11.2,
-        "h": 16,
+        "ip": 15.2,
+        "h": 17,
         "r": 9,
         "er": 9,
         "bb": 7,
-        "so": 14,
+        "so": 19,
         "hr": 0,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 4,
-        "opp_avg": ".320"
+        "opp_avg": ".274"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15849",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 4.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

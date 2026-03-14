@@ -2,16 +2,16 @@
   "school": "University of North Florida",
   "base_url": "https://www.unfospreys.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:23:46.764855Z",
-  "record": "8-10",
+  "generated_at": "2026-03-14T16:13:33.056289Z",
+  "record": "31-34",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Bethune-Cookman",
-    "result": "L 4-7",
-    "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
-    "recap_url": "https://www.unfospreys.com/news/2026/3/10/baseball-falls-in-midweek-meeting-with-bethune-cookman",
+    "date": "2026-03-13",
+    "opponent": "Stetson",
+    "result": "L",
+    "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
+    "recap_url": "https://www.unfospreys.com/news/2026/3/13/baseball-drops-game-1-at-stetson",
     "recap_headline": "University of North Florida",
-    "recap_text": "JACKSONVILLE, Fla. -\nNorth Florida Baseball dropped its midweek game against Bethune-Cookman, 7-4, at Harmon Stadium on Tuesday.\nJunior outfielder\nGialdri Gomez\nnotched his third multi-hit game in his last four outings. Gomez went 2-4 with two RBI and one walk against BCU.\nBethune-Cookman opened the scoring with two runs in the fourth inning and three in the fifth. However, North Florida showed immense fight to cut its deficit to just one.\nGomez drove in North Florida's first run of the game in the bottom of the sixth frame with a single to shortstop. North Florida's biggest inning at the dish came in the bottom of the seventh to bring it within one run of BCU.\nRedshirt sophomore outfielder\nCarter White\ncrushed an RBI triple off the wall in right field to plate senior\nSantiago Ordonez\nwho reached on a walk. White crossed home from third base on a fielding error by Bethune-Cookman. North Florida scored its final run of the inning\u00a0on Gomez' second single to shrink BCU's advantage to 5-4.\nBethune-Cookman responded with two runs in the eighth frame, bringing the score to its eventual final.\nNORTH FLORIDA 4, BETHUNE-COOKMAN 7\nPitchers of Record\nWin:\nJulian Carrasquilla (1-0)\nLoss:\nTyler Kozera\n(0-2)\nLine Scores\nBETHUNE-COOKMAN\n| 7 R, 11 H, 3 E\nNORTH FLORIDA\n| 4 R, 7 H, 2 E\nStatistical Leaders\nNORTH FLORIDA\nGialdri Gomez\n| 2-4, 2 RBI, 1 BB\nCarter White\n| 1-3, 1 RBI, 1 R, 1 BB\nSean Benjamin\n| 1-4, 1 RBI, 1 R, 1 BB\nBoone Hosey\n| 1-3, 2 BB\nTyler Kozera\n| 3.1 IP, 5 H, 2 R, 2 ER, 2 K, 1 BB\nBETHUNE-COOKMAN\nJeter Polledo | 2-5, 2 RBI, 2 RBI, 2 R\nJulian Carrasquilla | 5.1 IP, 2 H, 1 R, 1 ER, 4 K, 3 BB\nUP NEXT\nNorth Florida opens Atlantic Sun Conference play on the road at Stetson from March 13-15. First pitch for Game 1 on Friday is set for 6:30 p.m. ET."
+    "recap_text": "DELAND, Fla. -\nNorth Florida Baseball fell in Game 1 of its weekend series at\u00a0Stetson, 7-2, to open Atlantic Sun Conference play at Conrad Park on Friday.\nSophomore utility player\nSeth Alford\nbelted his third home run of the season in the top of the eighth inning. Alford's two-run homer cut North Florida's deficit to 6-2. He finished 1-3 with two RBI, one home run and one run.\nRedshirt junior utility player\nBoone Hosey\nand junior infielder\nMitchell Collins\nadded one single each on the night, respectively. Hosey improved his on-base streak to 10 games and has now tallied a hit in four straight games.\nFreshman right-handed pitcher\nJeremiah Stewart\ndealt 3.0 innings out of the bullpen and allowed just one run on four hits with three strikeouts.\nStetson scored one run in the first inning, five in the third and one in the eighth to bring the score to its eventual final margin.\nNORTH FLORIDA 2, STETSON 7\nPitchers of Record\nWin:\nJames Hays (2-0)\nLoss:\nDakota Stone\n(3-2)\nLine Scores\nSTETSON\n| 7 R, 13 H, 0 E\nNORTH FLORIDA\n| 2 R, 3 H, 1 E\nStatistical Leaders\nNORTH FLORIDA\nSeth Alford\n| 1-3, 1 HR, 2 RBI, 1 R\nJeremiah Stewart\n| 3.0 IP, 4 H, 1 R, 1 ER, 3 K, 1 BB\nSTETSON\nRenzo Gonzalez | 3-4, 2 RBI, 1 R\nUP NEXT\nNorth Florida remains at Conrad Park for Game 2 of its series at Stetson on Saturday, March 14 at 6:30 p.m. ET."
   },
   "players": {
     "0afd364a": {
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-04",
+        "opponent": "Villanova",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/villanova/boxscore/21184",
         "batting": {
-          "ab": 0,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "SS"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 0 RBI against Villanova. Struggled to make contact."
     },
     "4b848ee0": {
       "id": "4b848ee0",
@@ -76,32 +79,50 @@
       "num": "3.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 9,
-        "avg": 0.344,
-        "ops": 0.837,
-        "ab": 32,
+        "avg": 0.353,
+        "ops": 0.845,
+        "ab": 34,
         "r": 9,
-        "h": 11,
+        "h": 12,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 5,
-        "tb": 12,
-        "slg": 0.375,
+        "tb": 13,
+        "slg": 0.382,
         "bb": 6,
         "hbp": 1,
         "so": 5,
         "gdp": 0,
-        "obp": 0.462,
+        "obp": 0.463,
         "sf": 0,
         "sh": 0,
         "sb": 3,
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Stetson. Had an outstanding performance at the plate (0.500)."
     },
     "c3d5f6ea": {
       "id": "c3d5f6ea",
@@ -140,7 +161,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
         "batting": {
           "ab": 3,
@@ -149,11 +170,14 @@
           "rbi": 1,
           "bb": 1,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Bethune-Cookman. Contributed at the plate in the team's L 4-7."
+      "narrative": "Went 1/3 with 1 RBI against Bethune-Cookman. Contributed at the plate in the team's L."
     },
     "fce52c87": {
       "id": "fce52c87",
@@ -165,11 +189,11 @@
       "num": "6.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 17,
-        "gs": 16,
-        "avg": 0.356,
-        "ops": 0.899,
-        "ab": 59,
+        "g": 18,
+        "gs": 17,
+        "avg": 0.333,
+        "ops": 0.846,
+        "ab": 63,
         "r": 14,
         "h": 21,
         "doubles": 6,
@@ -177,12 +201,12 @@
         "hr": 0,
         "rbi": 10,
         "tb": 27,
-        "slg": 0.458,
+        "slg": 0.429,
         "bb": 5,
         "hbp": 4,
         "so": 7,
-        "gdp": 2,
-        "obp": 0.441,
+        "gdp": 3,
+        "obp": 0.417,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -190,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Bethune-Cookman. Contributed at the plate in the team's L 4-7."
+      "narrative": "Went 0/4 with 0 RBI against Stetson. Struggled to make contact."
     },
     "846c548e": {
       "id": "846c548e",
@@ -217,24 +244,24 @@
       "num": "7.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.2,
-        "ops": 0.637,
-        "ab": 60,
-        "r": 9,
-        "h": 12,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.206,
+        "ops": 0.687,
+        "ab": 63,
+        "r": 10,
+        "h": 13,
         "doubles": 2,
         "triples": 0,
-        "hr": 2,
-        "rbi": 7,
-        "tb": 20,
-        "slg": 0.333,
+        "hr": 3,
+        "rbi": 9,
+        "tb": 24,
+        "slg": 0.381,
         "bb": 9,
         "hbp": 0,
-        "so": 25,
+        "so": 26,
         "gdp": 1,
-        "obp": 0.304,
+        "obp": 0.306,
         "sf": 0,
         "sh": 0,
         "sb": 8,
@@ -242,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
           "bb": 0,
           "so": 1,
-          "pos": "2B"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Bethune-Cookman. Struggled to make contact."
+      "narrative": "Went 1/3 with 2 RBI against Stetson. Hit 1 home run(s). Contributed at the plate in the team's L."
     },
     "929be9d8": {
       "id": "929be9d8",
@@ -296,7 +326,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
         "batting": {
           "ab": 3,
@@ -305,11 +335,14 @@
           "rbi": 0,
           "bb": 2,
           "so": 1,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Bethune-Cookman. Contributed at the plate in the team's L 4-7."
+      "narrative": "Went 1/3 with 0 RBI against Bethune-Cookman. Contributed at the plate in the team's L."
     },
     "747d1c9a": {
       "id": "747d1c9a",
@@ -345,8 +378,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Quinnipiac",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/quinnipiac/boxscore/21154",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Quinnipiac. Struggled to make contact."
     },
     "d6beb076": {
       "id": "d6beb076",
@@ -358,11 +409,11 @@
       "num": "10.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.328,
-        "ops": 1.125,
-        "ab": 64,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.313,
+        "ops": 1.079,
+        "ab": 67,
         "r": 21,
         "h": 21,
         "doubles": 3,
@@ -370,12 +421,12 @@
         "hr": 6,
         "rbi": 17,
         "tb": 42,
-        "slg": 0.656,
+        "slg": 0.627,
         "bb": 14,
         "hbp": 3,
-        "so": 14,
+        "so": 16,
         "gdp": 2,
-        "obp": 0.469,
+        "obp": 0.452,
         "sf": 0,
         "sh": 0,
         "sb": 8,
@@ -383,22 +434,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
         "batting": {
-          "ab": 2,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "SS/3B"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Bethune-Cookman. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Stetson. Struggled to make contact."
     },
     "3ab444df": {
       "id": "3ab444df",
@@ -410,11 +464,11 @@
       "num": "11.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 5,
-        "gs": 2,
-        "avg": 0.2,
-        "ops": 0.5,
-        "ab": 10,
+        "g": 6,
+        "gs": 3,
+        "avg": 0.167,
+        "ops": 0.417,
+        "ab": 12,
         "r": 0,
         "h": 2,
         "doubles": 1,
@@ -422,20 +476,38 @@
         "hr": 0,
         "rbi": 0,
         "tb": 3,
-        "slg": 0.3,
+        "slg": 0.25,
         "bb": 0,
         "hbp": 0,
-        "so": 3,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.2,
+        "obp": 0.167,
         "sf": 0,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Stetson. Struggled to make contact."
     },
     "dc4c011c": {
       "id": "dc4c011c",
@@ -447,24 +519,24 @@
       "num": "13.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 13,
-        "gs": 12,
-        "avg": 0.333,
-        "ops": 0.985,
-        "ab": 39,
-        "r": 10,
+        "g": 14,
+        "gs": 13,
+        "avg": 0.317,
+        "ops": 0.952,
+        "ab": 41,
+        "r": 11,
         "h": 13,
         "doubles": 5,
         "triples": 0,
         "hr": 1,
         "rbi": 6,
         "tb": 21,
-        "slg": 0.538,
-        "bb": 8,
+        "slg": 0.512,
+        "bb": 9,
         "hbp": 0,
-        "so": 11,
+        "so": 12,
         "gdp": 2,
-        "obp": 0.447,
+        "obp": 0.44,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -472,22 +544,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 2,
-          "rbi": 2,
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 2 RBI against Bethune-Cookman. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/2 with 0 RBI against Stetson. Struggled at the plate but saw 1 walk(s)."
     },
     "35871967": {
       "id": "35871967",
@@ -499,11 +574,11 @@
       "num": "14.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 13,
-        "gs": 12,
-        "avg": 0.229,
-        "ops": 0.669,
-        "ab": 35,
+        "g": 14,
+        "gs": 13,
+        "avg": 0.211,
+        "ops": 0.626,
+        "ab": 38,
         "r": 6,
         "h": 8,
         "doubles": 0,
@@ -511,12 +586,12 @@
         "hr": 0,
         "rbi": 6,
         "tb": 8,
-        "slg": 0.229,
+        "slg": 0.211,
         "bb": 11,
         "hbp": 3,
         "so": 7,
-        "gdp": 4,
-        "obp": 0.44,
+        "gdp": 5,
+        "obp": 0.415,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -524,22 +599,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
         "batting": {
           "ab": 3,
-          "r": 1,
-          "h": 1,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "C"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Bethune-Cookman. Contributed at the plate in the team's L 4-7."
+      "narrative": "Went 0/3 with 0 RBI against Stetson. Struggled to make contact."
     },
     "ab99b15f": {
       "id": "ab99b15f",
@@ -578,7 +656,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
         "batting": {
           "ab": 1,
@@ -587,7 +665,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -603,11 +684,11 @@
       "num": "16.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.279,
-        "ops": 0.777,
-        "ab": 68,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.268,
+        "ops": 0.746,
+        "ab": 71,
         "r": 14,
         "h": 19,
         "doubles": 5,
@@ -615,12 +696,12 @@
         "hr": 1,
         "rbi": 15,
         "tb": 27,
-        "slg": 0.397,
+        "slg": 0.38,
         "bb": 8,
         "hbp": 3,
         "so": 19,
         "gdp": 1,
-        "obp": 0.38,
+        "obp": 0.366,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -628,22 +709,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "1B"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Bethune-Cookman. Contributed at the plate in the team's L 4-7."
+      "narrative": "Went 0/3 with 0 RBI against Stetson. Struggled to make contact."
     },
     "28e79c3d": {
       "id": "28e79c3d",
@@ -655,11 +739,11 @@
       "num": "17.0",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 12,
-        "gs": 7,
-        "avg": 0.269,
-        "ops": 0.675,
-        "ab": 26,
+        "g": 13,
+        "gs": 8,
+        "avg": 0.241,
+        "ops": 0.609,
+        "ab": 29,
         "r": 2,
         "h": 7,
         "doubles": 1,
@@ -667,12 +751,12 @@
         "hr": 0,
         "rbi": 7,
         "tb": 8,
-        "slg": 0.308,
+        "slg": 0.276,
         "bb": 2,
         "hbp": 2,
-        "so": 10,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.367,
+        "obp": 0.333,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -680,22 +764,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
         "batting": {
           "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "3B"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Bethune-Cookman. Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against Stetson. Struggled to make contact."
     },
     "ad8058b7": {
       "id": "ad8058b7",
@@ -731,8 +818,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Presbyterian",
+        "result": "W",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/presbyterian/boxscore/21180",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 3,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/5 with 3 RBI against Presbyterian. Had an outstanding performance at the plate (0.400)."
     },
     "21e5d3c9": {
       "id": "21e5d3c9",
@@ -766,17 +871,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.2",
           "h": 0,
@@ -819,8 +916,24 @@
         "wp": 1,
         "opp_avg": ".235"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21186",
+        "batting": null,
+        "pitching": {
+          "ip": "4.1",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alabama, throwing 4.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "22769639": {
       "id": "22769639",
@@ -851,8 +964,24 @@
         "wp": 2,
         "opp_avg": ".256"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21185",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alabama, throwing 2.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
     },
     "55381d09": {
       "id": "55381d09",
@@ -889,22 +1018,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
+        "date": "2026-03-01",
+        "opponent": "Presbyterian",
+        "result": "W",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/presbyterian/boxscore/21182",
         "batting": {
-          "ab": 0,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PR"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 0 RBI against Presbyterian. Struggled to make contact."
     },
     "e89261ff": {
       "id": "e89261ff",
@@ -935,8 +1067,24 @@
         "wp": 0,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21187",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alabama, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "d8165862": {
       "id": "d8165862",
@@ -967,8 +1115,24 @@
         "wp": 0,
         "opp_avg": ".211"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-15",
+        "opponent": "Sacred Heart",
+        "result": "W",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/sacred-heart/boxscore/21152",
+        "batting": null,
+        "pitching": {
+          "ip": "4.2",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Sacred Heart, throwing 4.2 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
     },
     "c2f76f4e": {
       "id": "c2f76f4e",
@@ -999,8 +1163,24 @@
         "wp": 0,
         "opp_avg": ".283"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21186",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 6,
+          "er": 6,
+          "bb": 4,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Alabama, throwing 0.2 innings. Allowed 6 earned run(s) with 0 strikeout(s)."
     },
     "ab283082": {
       "id": "ab283082",
@@ -1034,17 +1214,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 3,
@@ -1092,8 +1264,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21187",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against Alabama. Had an outstanding performance at the plate (1.000)."
     },
     "18b98e0e": {
       "id": "18b98e0e",
@@ -1106,26 +1296,42 @@
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.25,
-        "whip": 1.31,
+        "era": 3.86,
+        "whip": 1.48,
         "w": 3,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 4,
-        "gs": 1,
-        "ip": 16.0,
-        "h": 11,
-        "r": 4,
-        "er": 4,
-        "bb": 10,
-        "so": 27,
-        "hr": 0,
-        "hbp": 2,
-        "wp": 1,
-        "opp_avg": ".190"
+        "g": 5,
+        "gs": 2,
+        "ip": 21.0,
+        "h": 20,
+        "r": 10,
+        "er": 9,
+        "bb": 11,
+        "so": 34,
+        "hr": 1,
+        "hbp": 3,
+        "wp": 3,
+        "opp_avg": ".241"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 9,
+          "r": 6,
+          "er": 5,
+          "bb": 1,
+          "so": 7,
+          "wp": 2,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Stetson, throwing 5.0 innings. Struck out 7 while allowing just 9 hit(s) and 5 earned run(s) in a quality start."
     },
     "8f0c79ef": {
       "id": "8f0c79ef",
@@ -1156,8 +1362,24 @@
         "wp": 0,
         "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21187",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 2,
+          "er": 2,
+          "bb": 4,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Alabama, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "c2b0914b": {
       "id": "c2b0914b",
@@ -1191,17 +1413,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.2",
           "h": 1,
@@ -1245,31 +1459,23 @@
         "opp_avg": ".239"
       },
       "last_game": {
-        "date": "2026-03-07",
+        "date": "2026-03-08",
         "opponent": "Alabama",
-        "result": "W 9-3",
-        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21186",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21187",
+        "batting": null,
         "pitching": {
-          "ip": "5.0",
+          "ip": "3.0",
           "h": 5,
-          "r": 2,
-          "er": 2,
-          "bb": 2,
+          "r": 5,
+          "er": 4,
+          "bb": 3,
           "so": 4,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Alabama, throwing 5.0 innings. Struck out 4 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
+      "narrative": "Took the mound against Alabama, throwing 3.0 innings. Allowed 4 earned run(s) with 4 strikeout(s)."
     },
     "796646ac": {
       "id": "796646ac",
@@ -1305,8 +1511,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Presbyterian",
+        "result": "W",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/presbyterian/boxscore/21182",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Presbyterian. Struggled to make contact."
     },
     "277ed975": {
       "id": "277ed975",
@@ -1340,17 +1564,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.1",
           "h": 5,
@@ -1393,8 +1609,24 @@
         "wp": 1,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "Florida State",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/florida-state/boxscore/21178",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 0,
+          "wp": 1,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Florida State, throwing 1.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "41e90c26": {
       "id": "41e90c26",
@@ -1407,26 +1639,42 @@
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.48,
-        "whip": 1.44,
+        "era": 5.56,
+        "whip": 1.5,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 8.1,
-        "h": 8,
-        "r": 6,
-        "er": 6,
-        "bb": 4,
-        "so": 7,
+        "ip": 11.1,
+        "h": 12,
+        "r": 7,
+        "er": 7,
+        "bb": 5,
+        "so": 10,
         "hr": 0,
-        "hbp": 5,
+        "hbp": 6,
         "wp": 0,
-        "opp_avg": ".267"
+        "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stetson",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/stetson/boxscore/21192",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Stetson, throwing 3.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "e9f1b665": {
       "id": "e9f1b665",
@@ -1462,8 +1710,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21187",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Alabama. Struggled to make contact."
     },
     "56da2a1e": {
       "id": "56da2a1e",
@@ -1497,17 +1763,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bethune-Cookman",
-        "result": "L 4-7",
+        "result": "L",
         "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/bethune-cookman/boxscore/21190",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 2,
@@ -1550,8 +1808,24 @@
         "wp": 1,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.unfospreys.com/sports/baseball/stats/2026/alabama/boxscore/21185",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alabama, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

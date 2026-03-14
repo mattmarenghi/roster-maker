@@ -2,16 +2,16 @@
   "school": "St. John's University (New York)",
   "base_url": "https://www.redstormsports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:06:09.065617Z",
-  "record": "5-11",
+  "generated_at": "2026-03-14T15:36:34.466245Z",
+  "record": "6-11",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Marist",
-    "result": "W 3-1",
-    "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
-    "recap_url": "https://www.redstormsports.com/news/2026/3/11/baseball-agresti-walks-off-marist-with-two-run-blast-3-1",
+    "date": "2026-03-13",
+    "opponent": "Charlotte",
+    "result": "W",
+    "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
+    "recap_url": "https://www.redstormsports.com/news/2026/3/13/baseball-st-johns-bats-power-past-charlotte-in-series-opener-8-6",
     "recap_headline": "St. John's University Athletics",
-    "recap_text": "QUEENS, N.Y.\n\u2013 On a 3-2 pitch,\nAdam Agresti\ndelivered a walk-off two-run home run in the bottom of the ninth inning to lift the St. John's baseball team to a 3-1 victory over Marist on Wednesday afternoon. The redshirt sophomore has a two-run shot in each of the last three games at Jack Kaiser Stadium.\nWith the teams locked into a pitcher's duel, the Red Storm (5-11) used a fantastic outing from its bullpen to keep the Red Foxes (2-12) at bay.\nAgresti once again led the way offensively, going 2-for-4 from the plate with a single and the two-run walk off homer.\nDylan Fitzsimmons\nextended his on-base streak to a season-high eight games with a double in the bottom of the ninth.\nShaun McMillan\n,\nWill\nCowan\nand\nJayder Raifstanger\neach notched a hit for the Johnnies.\nAfter a slow start in the first inning,\nBrady Clark\nhad an efficient day on the mound, going 5.0 innings of one-run ball and allowing just one hit as the starter.\nNick Romer\nmade his collegiate debut and went 2.0 scoreless innings while allowing just one hit.\nTyler Longoria\npicked up his first save of the season, striking out five over 2.0 frames of scoreless relief.\nWith a runner on and two outs, the Red Foxes used three walks to plate the first run of the contest. Clark would settle in and not allow another run through the fifth inning.\nIn the bottom of the fifth frame, the Johnnies broke through with a two-out rally. After\nLewis Rodriguez\nworked a walk and\nJon LeGrande\ngot aboard on catcher's interference, Raifstanger lined a ball into center field to score Rodriguez. The Red Foxes worked their out of the inning with the game knotted at 1-1.\nIn the top of the eighth inning, Marist threatened with the bases loaded and no outs. Longoria came in and shut down the Red Foxes with a pair of strikeouts and a flyout to end the frame.\nDuring crunch time, Fitzsimmons worked a leadoff double to represent the game-winning run. Agresti's heroics sealed the deal with his team-leading fifth home run to secure the victory, 3-1.\nSt. John's now starts a seven-game road trip over the next 11 days, heading down to face Charlotte in a three-game series starting on Friday at 6 p.m."
+    "recap_text": "CHARLOTTE, N.C.\n\u2013 A late scoring surge lifted the St. John's baseball team to a series-opening victory over Charlotte, 8-6, on Friday night at Hayes Stadium.\nThe Red Storm (6-11) used a fantastic outing from starting pitcher\nLiam O'Leary\nand big offensive efforts from\nAdam Agresti\nand\nShaun McMillan\nto snap Charlotte's (12-5) four-game winning streak.\nAgresti stayed red-hot at the plate, launching a two-run homer in the top of the sixth before adding a three-run blast in the eighth to give the Red Storm a decisive edge and extend a four-game home run streak. The redshirt sophomore drove in six of St. John's eight runs, setting career highs with six RBIs and finishing 2-for-3 on the day. McMillan also contributed with a two-RBI double in the sixth inning.\nJon LeGrande\nmade his presence felt on the basepaths, swiping two bases and scoring three of the Johnnies' runs.\nOn the mound, O'Leary turned in six innings of impressive work, striking out five and allowing just one earned run to secure his first win of the season.\nJack Nestler\nand\nVictor Frederick\nboth appeared in relief in the contest, with Frederick notching his first save.\nAfter three scoreless innings in a tight pitching duel between O'Leary and Charlotte's Eddie Copper, the Johnnies broke through in the top of the fourth. Agresti brought LeGrande home with a sacrifice fly to give St. John's the early lead, 1-0.\nCharlotte threatened in the bottom half, placing two runners on and sending a single into shallow left field. The 49ers tried to score from second, but\nDylan Fitzsimmons\ndelivered a perfect throw from the outfield to Agresti at the plate, who applied the tag to end the inning and preserve the lead.\nIn the bottom of the fifth, Charlotte plated its first run when Spencer Nolan drove in a run with an RBI single to knot the contest at 1-1.\nSt. John's responded with a big rally in the sixth. McMillan lined a two-RBI double to right-center, scoring LeGrande and\nJayder Raifstanger\n, before Agresti followed with a two-run homer to extend the Red Storm lead to 5-1.\nCharlotte answered in the bottom of the inning with an RBI single, trimming the deficit to 5-2.\nAgresti added key insurance runs in the top of the eighth, launching a 424-foot three-run home run over the left-field wall, his seventh of the season, to make it 8-2.\nCharlotte mounted a late comeback in the bottom of the inning, scoring four runs to cut the deficit to 8-6.\nThe Red Storm bullpen held strong and fended off a late push from the 49ers, as Frederick struck out two batters in the closing moments to preserve the win.\nSt. John's continues the series at Charlotte with game two starting on Saturday at 4 p.m. at Hayes Stadium."
   },
   "players": {
     "ad92a095": {
@@ -46,17 +46,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Fairfield",
-        "result": "L 4-6",
+        "result": "L",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/fairfield/boxscore/15169",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
@@ -80,11 +72,11 @@
       "num": "2.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 5,
-        "gs": 5,
-        "avg": 0.143,
-        "ops": 0.536,
-        "ab": 21,
+        "g": 6,
+        "gs": 6,
+        "avg": 0.12,
+        "ops": 0.454,
+        "ab": 25,
         "r": 1,
         "h": 3,
         "doubles": 0,
@@ -92,12 +84,12 @@
         "hr": 1,
         "rbi": 1,
         "tb": 6,
-        "slg": 0.286,
+        "slg": 0.24,
         "bb": 3,
         "hbp": 0,
-        "so": 3,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.25,
+        "obp": 0.214,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -105,22 +97,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "2B"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Marist. Contributed at the plate in the team's W 3-1."
+      "narrative": "Went 0/4 with 0 RBI against Charlotte. Struggled to make contact."
     },
     "04588977": {
       "id": "04588977",
@@ -159,7 +154,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Fairfield",
-        "result": "L 4-6",
+        "result": "L",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/fairfield/boxscore/15169",
         "batting": {
           "ab": 4,
@@ -168,11 +163,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Fairfield. Contributed at the plate in the team's L 4-6."
+      "narrative": "Went 1/4 with 0 RBI against Fairfield. Contributed at the plate in the team's L."
     },
     "81105e06": {
       "id": "81105e06",
@@ -184,7 +182,7 @@
       "num": "4.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 4,
         "avg": 0.222,
         "ops": 0.489,
@@ -211,7 +209,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Fairfield",
-        "result": "L 4-6",
+        "result": "L",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/fairfield/boxscore/15169",
         "batting": {
           "ab": 4,
@@ -220,11 +218,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Fairfield. Contributed at the plate in the team's L 4-6."
+      "narrative": "Went 1/4 with 0 RBI against Fairfield. Contributed at the plate in the team's L."
     },
     "b3a1b624": {
       "id": "b3a1b624",
@@ -236,47 +237,50 @@
       "num": "6.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.164,
-        "ops": 0.503,
-        "ab": 55,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.169,
+        "ops": 0.502,
+        "ab": 59,
         "r": 5,
-        "h": 9,
+        "h": 10,
         "doubles": 1,
         "triples": 1,
         "hr": 1,
         "rbi": 4,
-        "tb": 15,
-        "slg": 0.273,
+        "tb": 16,
+        "slg": 0.271,
         "bb": 4,
         "hbp": 1,
         "so": 12,
         "gdp": 0,
-        "obp": 0.23,
+        "obp": 0.231,
         "sf": 1,
         "sh": 2,
-        "sb": 0,
-        "sb_att": 2
+        "sb": 1,
+        "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 0,
+          "ab": 4,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Marist. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/4 with 0 RBI against Charlotte. Contributed at the plate in the team's W."
     },
     "a3e63806": {
       "id": "a3e63806",
@@ -312,8 +316,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Arizona State",
+        "result": "L",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/arizona-state/boxscore/15158",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Arizona State. Struggled to make contact."
     },
     "9ad220cc": {
       "id": "9ad220cc",
@@ -325,47 +347,50 @@
       "num": "8.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.255,
-        "ops": 0.889,
-        "ab": 55,
-        "r": 7,
-        "h": 14,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.276,
+        "ops": 1.008,
+        "ab": 58,
+        "r": 9,
+        "h": 16,
         "doubles": 1,
         "triples": 0,
-        "hr": 5,
-        "rbi": 12,
-        "tb": 30,
-        "slg": 0.545,
+        "hr": 7,
+        "rbi": 18,
+        "tb": 38,
+        "slg": 0.655,
         "bb": 6,
         "hbp": 2,
         "so": 16,
         "gdp": 0,
-        "obp": 0.344,
-        "sf": 1,
+        "obp": 0.353,
+        "sf": 2,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
-          "ab": 4,
-          "r": 1,
+          "ab": 3,
+          "r": 2,
           "h": 2,
-          "rbi": 2,
+          "rbi": 6,
           "bb": 0,
-          "so": 1,
-          "pos": "1B"
+          "so": 0,
+          "hr": 2,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 2 RBI against Marist. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/3 with 6 RBI against Charlotte. Hit 2 home run(s). Had an outstanding performance at the plate (0.667)."
     },
     "819c3ad5": {
       "id": "819c3ad5",
@@ -377,47 +402,50 @@
       "num": "9.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.224,
-        "ops": 0.655,
-        "ab": 49,
-        "r": 6,
-        "h": 11,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.231,
+        "ops": 0.676,
+        "ab": 52,
+        "r": 9,
+        "h": 12,
         "doubles": 2,
         "triples": 0,
         "hr": 1,
         "rbi": 4,
-        "tb": 16,
+        "tb": 17,
         "slg": 0.327,
-        "bb": 6,
-        "hbp": 2,
+        "bb": 7,
+        "hbp": 3,
         "so": 13,
         "gdp": 0,
-        "obp": 0.328,
+        "obp": 0.349,
         "sf": 1,
         "sh": 2,
-        "sb": 6,
-        "sb_att": 8
+        "sb": 8,
+        "sb_att": 10
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
+          "r": 3,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Marist. Struggled to make contact."
+      "narrative": "Went 1/3 with 0 RBI against Charlotte. Contributed at the plate in the team's W."
     },
     "2e3179c3": {
       "id": "2e3179c3",
@@ -450,18 +478,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Ualbany",
-        "result": "W 4-3",
+        "opponent": "UAlbany",
+        "result": "W",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/ualbany/boxscore/15168",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.1",
           "h": 2,
@@ -473,7 +493,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Ualbany, throwing 3.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against UAlbany, throwing 3.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "9f53fa42": {
       "id": "9f53fa42",
@@ -485,47 +505,32 @@
       "num": "13.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.164,
-        "ops": 0.503,
-        "ab": 55,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.169,
+        "ops": 0.502,
+        "ab": 59,
         "r": 5,
-        "h": 9,
+        "h": 10,
         "doubles": 1,
         "triples": 1,
         "hr": 1,
         "rbi": 4,
-        "tb": 15,
-        "slg": 0.273,
+        "tb": 16,
+        "slg": 0.271,
         "bb": 4,
         "hbp": 1,
         "so": 12,
         "gdp": 0,
-        "obp": 0.23,
+        "obp": 0.231,
         "sf": 1,
         "sh": 2,
-        "sb": 0,
-        "sb_att": 2
+        "sb": 1,
+        "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
-        "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "LF"
-        },
-        "pitching": null
-      },
-      "narrative": "Went 0/2 with 0 RBI against Marist. Struggled at the plate but saw 1 walk(s)."
+      "last_game": null,
+      "narrative": null
     },
     "7e63bdde": {
       "id": "7e63bdde",
@@ -537,24 +542,24 @@
       "num": "14.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.224,
-        "ops": 0.607,
-        "ab": 58,
-        "r": 6,
-        "h": 13,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.226,
+        "ops": 0.6,
+        "ab": 62,
+        "r": 7,
+        "h": 14,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 4,
-        "tb": 15,
-        "slg": 0.259,
+        "tb": 16,
+        "slg": 0.258,
         "bb": 9,
         "hbp": 2,
         "so": 11,
         "gdp": 2,
-        "obp": 0.348,
+        "obp": 0.342,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -562,22 +567,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
           "ab": 4,
-          "r": 0,
+          "r": 1,
           "h": 1,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Marist. Contributed at the plate in the team's W 3-1."
+      "narrative": "Went 1/4 with 0 RBI against Charlotte. Contributed at the plate in the team's W."
     },
     "2de06c5d": {
       "id": "2de06c5d",
@@ -589,11 +597,11 @@
       "num": "15.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.298,
-        "ops": 0.763,
-        "ab": 57,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.279,
+        "ops": 0.717,
+        "ab": 61,
         "r": 5,
         "h": 17,
         "doubles": 3,
@@ -601,12 +609,12 @@
         "hr": 0,
         "rbi": 1,
         "tb": 20,
-        "slg": 0.351,
+        "slg": 0.328,
         "bb": 11,
         "hbp": 0,
-        "so": 15,
+        "so": 16,
         "gdp": 1,
-        "obp": 0.412,
+        "obp": 0.389,
         "sf": 0,
         "sh": 0,
         "sb": 3,
@@ -614,22 +622,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 1,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "RF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Marist. Contributed at the plate in the team's W 3-1."
+      "narrative": "Went 0/4 with 0 RBI against Charlotte. Struggled to make contact."
     },
     "489cba22": {
       "id": "489cba22",
@@ -663,17 +674,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Marist",
-        "result": "W 3-1",
+        "result": "W",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 1,
@@ -719,17 +722,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Fairfield",
-        "result": "L 4-6",
+        "result": "L",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/fairfield/boxscore/15169",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -772,8 +767,24 @@
         "wp": 1,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UAlbany",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/ualbany/boxscore/15167",
+        "batting": null,
+        "pitching": {
+          "ip": "5.2",
+          "h": 4,
+          "r": 4,
+          "er": 3,
+          "bb": 2,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UAlbany, throwing 5.2 innings. Struck out 5 while allowing just 4 hit(s) and 3 earned run(s) in a quality start."
     },
     "88e5e292": {
       "id": "88e5e292",
@@ -805,22 +816,23 @@
         "opp_avg": ".000"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Fairfield",
-        "result": "L 4-6",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/fairfield/boxscore/15169",
-        "batting": {
-          "ab": 0,
-          "r": 0,
+        "date": "2026-02-20",
+        "opponent": "Arizona State",
+        "result": "L",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/arizona-state/boxscore/15158",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
           "h": 0,
-          "rbi": 0,
-          "bb": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "PR"
-        },
-        "pitching": null
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Arizona State, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "5634b95e": {
       "id": "5634b95e",
@@ -832,11 +844,11 @@
       "num": "21.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.192,
-        "ops": 0.428,
-        "ab": 52,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.179,
+        "ops": 0.399,
+        "ab": 56,
         "r": 2,
         "h": 10,
         "doubles": 0,
@@ -844,12 +856,12 @@
         "hr": 0,
         "rbi": 5,
         "tb": 10,
-        "slg": 0.192,
+        "slg": 0.179,
         "bb": 2,
         "hbp": 1,
-        "so": 7,
+        "so": 8,
         "gdp": 3,
-        "obp": 0.236,
+        "obp": 0.22,
         "sf": 0,
         "sh": 2,
         "sb": 0,
@@ -857,22 +869,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "SS"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Marist. Struggled to make contact."
+      "narrative": "Went 0/4 with 0 RBI against Charlotte. Struggled to make contact."
     },
     "001c8f49": {
       "id": "001c8f49",
@@ -906,17 +921,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Fairfield",
-        "result": "L 4-6",
+        "result": "L",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/fairfield/boxscore/15169",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.0",
           "h": 3,
@@ -959,8 +966,24 @@
         "wp": 1,
         "opp_avg": ".143"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Ball St.",
+        "result": "L",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/ball-st-/boxscore/15156",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 1,
+          "r": 6,
+          "er": 6,
+          "bb": 7,
+          "so": 1,
+          "wp": 1,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Ball St., throwing 2.1 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
     },
     "0ef586a9": {
       "id": "0ef586a9",
@@ -993,18 +1016,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Ualbany",
-        "result": "W 4-3",
+        "opponent": "UAlbany",
+        "result": "W",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/ualbany/boxscore/15168",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 1,
@@ -1016,7 +1031,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Ualbany, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against UAlbany, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "337e5638": {
       "id": "337e5638",
@@ -1050,17 +1065,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Marist",
-        "result": "W 3-1",
+        "result": "W",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 1,
@@ -1084,24 +1091,24 @@
       "num": "27.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.295,
-        "ops": 0.761,
-        "ab": 61,
-        "r": 6,
-        "h": 18,
-        "doubles": 3,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.302,
+        "ops": 0.802,
+        "ab": 63,
+        "r": 8,
+        "h": 19,
+        "doubles": 4,
         "triples": 0,
         "hr": 1,
-        "rbi": 7,
-        "tb": 24,
-        "slg": 0.393,
-        "bb": 6,
+        "rbi": 9,
+        "tb": 26,
+        "slg": 0.413,
+        "bb": 8,
         "hbp": 1,
-        "so": 15,
+        "so": 16,
         "gdp": 1,
-        "obp": 0.368,
+        "obp": 0.389,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1109,22 +1116,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
         "batting": {
-          "ab": 4,
-          "r": 0,
+          "ab": 2,
+          "r": 2,
           "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "rbi": 2,
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Marist. Contributed at the plate in the team's W 3-1."
+      "narrative": "Went 1/2 with 2 RBI against Charlotte. Had an outstanding performance at the plate (0.500)."
     },
     "bb6905e3": {
       "id": "bb6905e3",
@@ -1137,26 +1147,42 @@
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.5,
+        "era": 3.09,
+        "whip": 0.86,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 10.0,
-        "h": 1,
-        "r": 0,
-        "er": 0,
-        "bb": 4,
+        "ip": 11.2,
+        "h": 4,
+        "r": 4,
+        "er": 4,
+        "bb": 6,
         "so": 4,
         "hr": 0,
         "hbp": 1,
-        "wp": 0,
-        "opp_avg": ".033"
+        "wp": 1,
+        "opp_avg": ".105"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Charlotte, throwing 1.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "3c498119": {
       "id": "3c498119",
@@ -1190,17 +1216,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Fairfield",
-        "result": "L 4-6",
+        "result": "L",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/fairfield/boxscore/15169",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 3,
@@ -1248,8 +1266,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/kentucky/boxscore/15161",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Kentucky. Struggled to make contact."
     },
     "6e301dfb": {
       "id": "6e301dfb",
@@ -1262,26 +1298,42 @@
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.04,
-        "whip": 1.18,
-        "w": 0,
+        "era": 2.73,
+        "whip": 1.21,
+        "w": 1,
         "l": 2,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 23.2,
-        "h": 22,
-        "r": 9,
-        "er": 8,
-        "bb": 6,
-        "so": 17,
+        "g": 5,
+        "gs": 5,
+        "ip": 29.2,
+        "h": 29,
+        "r": 11,
+        "er": 9,
+        "bb": 7,
+        "so": 22,
         "hr": 3,
-        "hbp": 2,
+        "hbp": 3,
         "wp": 0,
-        "opp_avg": ".244"
+        "opp_avg": ".257"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 7,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Charlotte, throwing 6.0 innings. Struck out 5 while allowing just 7 hit(s) and 1 earned run(s) in a quality start."
     },
     "051f8160": {
       "id": "051f8160",
@@ -1294,26 +1346,42 @@
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.28,
-        "whip": 1.88,
+        "era": 8.25,
+        "whip": 1.67,
         "w": 0,
         "l": 1,
-        "sv": 0,
-        "g": 4,
+        "sv": 1,
+        "g": 5,
         "gs": 2,
-        "ip": 10.2,
+        "ip": 12.0,
         "h": 13,
         "r": 11,
         "er": 11,
         "bb": 7,
-        "so": 9,
+        "so": 11,
         "hr": 0,
         "hbp": 4,
         "wp": 4,
-        "opp_avg": ".310"
+        "opp_avg": ".283"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Charlotte, throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "2f4e8ff7": {
       "id": "2f4e8ff7",
@@ -1346,18 +1414,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Ualbany",
-        "result": "W 4-3",
+        "opponent": "UAlbany",
+        "result": "W",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/ualbany/boxscore/15168",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 3,
@@ -1369,7 +1429,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Ualbany, throwing 5.0 innings. Struck out 6 while allowing just 3 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "Took the mound against UAlbany, throwing 5.0 innings. Struck out 6 while allowing just 3 hit(s) and 1 earned run(s) in a quality start."
     },
     "f161080b": {
       "id": "f161080b",
@@ -1381,32 +1441,50 @@
       "num": "43.0",
       "school": "St. John's University (New York)",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.214,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.217,
         "ops": 0.499,
-        "ab": 42,
+        "ab": 46,
         "r": 3,
-        "h": 9,
+        "h": 10,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 2,
-        "tb": 10,
-        "slg": 0.238,
+        "tb": 11,
+        "slg": 0.239,
         "bb": 2,
         "hbp": 1,
-        "so": 15,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.261,
+        "obp": 0.26,
         "sf": 1,
         "sh": 0,
         "sb": 0,
-        "sb_att": 0
+        "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/charlotte/boxscore/15171",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Charlotte. Contributed at the plate in the team's W."
     },
     "8eef88ee": {
       "id": "8eef88ee",
@@ -1440,17 +1518,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Marist",
-        "result": "W 3-1",
+        "result": "W",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
@@ -1493,8 +1563,24 @@
         "wp": 0,
         "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UAlbany",
+        "result": "W",
+        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/ualbany/boxscore/15167",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UAlbany, throwing 3.1 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
     },
     "3d91d5a1": {
       "id": "3d91d5a1",
@@ -1533,7 +1619,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Marist",
-        "result": "W 3-1",
+        "result": "W",
         "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
         "batting": {
           "ab": 2,
@@ -1542,7 +1628,10 @@
           "rbi": 0,
           "bb": 1,
           "so": 2,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1577,31 +1666,7 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Marist",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.redstormsports.com/sports/baseball/stats/2026/marist/boxscore/15170",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
-        "pitching": {
-          "ip": "0.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
+      "last_game": null,
       "narrative": null
     }
   },

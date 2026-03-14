@@ -2,16 +2,16 @@
   "school": "Ball State University",
   "base_url": "https://www.ballstatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:23:14.963189Z",
-  "record": "25-31",
+  "generated_at": "2026-03-14T14:23:24.846865Z",
+  "record": "26-32",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Kentucky",
-    "result": "W 10-3",
-    "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
-    "recap_url": "https://www.ballstatesports.com/news/2026/3/10/baseball-leads-early-but-falls-tuesday-night-at-kentucky",
+    "date": "2026-03-13",
+    "opponent": "Eastern Michigan",
+    "result": "W",
+    "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
+    "recap_url": "https://www.ballstatesports.com/news/2026/3/13/baseball-cardinals-score-18-runs-at-blustery-shebek-to-get-past-eastern-michigan",
     "recap_headline": "Ball State University Athletics",
-    "recap_text": "LEXINGTON, Ky. \u2013\nThe Ball State baseball team got out to a 2-0 lead but fell 10-3 to No. 25 Kentucky on Tuesday night at Kentucky Proud Park.\nThe Cardinals (7-8) got a sacrifice fly by\nRyan Muizelaar\nto plate\nBrayden Huebner\nin the third inning, and\nGavin Balius\nlater scored on a wild pitch to stake the visitors to the early 2-0 edge. Kentucky (15-2) responded with two runs in the bottom half of the frame and one in the fourth to take a 3-2 lead.\nBall State knotted the score at 3-3 in the fifth after Muizelaar doubled and scored on an RBI groundout from\nBrett Griffiths\n. The Wildcats crossed home plate five times in the bottom of the inning and once\neach in the seventh and eighth frames on their way to a home win.\nBalius, Muizelaar,\nJacob Gillis\n,\nTaber Stokes\nand\nMaalik Perkins\neach had a hit for the Cardinals, but the double from Muizelaar was the lone extra base hit of the night for the visitors.\nZach Kwasny\nstarted a staff game for Ball State and tossed a scoreless first inning.\nJeremy Jones\n(0-2) allowed five runs in an inning of work to suffer the loss.\nOliver Boone (1-0) was credited with the win after giving up one run in 2.0 innings out of the bullpen. Jayce Tharnish, Luke Lawrence, Ryan Schwartz and Tagger Tyson posted two hits each for the Wildcats.\n\"We made too many mistakes to beat a good team,\" Ball State head coach\nRich Maloney\nsaid. \"We take great pride in playing good defense and today we gave them too many free opportunities. We will regroup and get ready to play EMU.\"\nBall State returns home to host Eastern Michigan for three games starting Friday afternoon."
+    "recap_text": "MUNCIE, Ind. -- Ball State scored 17 runs on 18 hits Friday afternoon to earn a 17-13 decision in the first of a three-game series against Eastern Michigan at Shebek Stadium.\nBall State (8-8, 3-1 MAC) won its third straight home game and third straight game in the Mid-American Conference. The Eagles (4-14, 0-4 MAC) remained winless in the MAC.\nBattling blustery winds in the Muncie area that measured more than 50 miles per hour, heavy gusts blew out of the ballpark\u00a0to center and right field -- contributing to a combined 30 runs on 33 hits by the Cardinals and Eagles. The Cardinals also were the beneficiaries of five EMU errors. Reliever\nJohn Chambers\n(2-3) fired 6.1 innings for Ball State and quieted the EMU bats after the fourth inning to earn his second win of the season.\nBoth clubs traded runs in the early going, with EMU leading 2-0 in the top of the first and\nRyan Muizelaar's\nthree-run blast to right field putting Ball State ahead in the bottom half. EMU answered with six runs in the second inning, combining three singles with a pair of Cardinals errors, and Ball State added two on an RBI grounder by\nGavin Balius\nand a solo shot by\nJacob Gillis\n. Eastern led 8-5 threw two innings, but the scoring continued.\nIn the third, EMU struck for two to begin the inning. Ball State got four when the first two batters reached on errors, then\nKenskey Thomas\nbelted a two-run homer to right, and\nBrayden Huebner\nscampered home on a wild pitch. The Eagles added another pair in the fourth, for a 12-9 advantage, and kept the Cardinals off the scoreboard despite a single and hit-by-pitch to lead-off batters Muizelaar and\nBrett Griffiths\n.\nBall State took control in the fifth behind Chambers, though. Responsible for the Eagles' four runs in the third and fourth, he allowed just one hit in the fifth and two in the sixth, and kept EMU scoreless for four straight innings. EMU's 1-2-3 seventh inning was the windy game's only half-inning with a minimum three batters.\nFollowing EMU's scoreless fifth, Ball State batters went to work, sending nine Cardinals to the plate and scoring four, on five hits. Muizelaar's bases-loaded single drove in two Ball State runs and Gillis' sacrifice fly plated another. Thomas picked up his third RBI with a single to cap Ball State's scoring in the fifth. And after Gillis' double drove in Balius in the sixth, Thomas' second homer of the day -- a three-run, 448-foot no-doubter to right -- provided the proverbial nail in EMU's coffin in the seventh inning to deliver a 17-12 lead. The Eagles scored their final run in the ninth.\nThomas paced the Ball State hit parade with three hits and six RBI. Muizelaar added three hits and five RBI. Huebner, batting from the leadoff spot, batted 4-of=6 on the day. Gillis and Griffiths also added three hits as Ball State's first six hitters in the lineup combined to belt all 18 hits and bat .500 for the day (18-of-36).\nBall State and Eastern Michigan meet again Saturday at 1 p.m., for game two of the series."
   },
   "players": {
     "b5e60f27": {
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
         "batting": {
-          "ab": 0,
-          "r": 1,
-          "h": 0,
+          "ab": 1,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 1/1 with 0 RBI against Kentucky. Had an outstanding performance at the plate (1.000)."
     },
     "020b3781": {
       "id": "020b3781",
@@ -76,47 +79,50 @@
       "num": "3.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.295,
-        "ops": 0.843,
-        "ab": 61,
-        "r": 8,
-        "h": 18,
-        "doubles": 4,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.323,
+        "ops": 0.9,
+        "ab": 65,
+        "r": 10,
+        "h": 21,
+        "doubles": 5,
         "triples": 2,
         "hr": 1,
-        "rbi": 9,
-        "tb": 29,
-        "slg": 0.475,
+        "rbi": 10,
+        "tb": 33,
+        "slg": 0.508,
         "bb": 7,
-        "hbp": 0,
+        "hbp": 1,
         "so": 11,
         "gdp": 1,
-        "obp": 0.368,
-        "sf": 0,
+        "obp": 0.392,
+        "sf": 1,
         "sh": 1,
         "sb": 4,
         "sb_att": 6
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 2,
-          "rbi": 4,
+          "ab": 4,
+          "r": 2,
+          "h": 3,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
-          "pos": "SS"
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 4 RBI against Central Michigan. Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 3/4 with 1 RBI against Eastern Michigan. Had an outstanding performance at the plate (0.750)."
     },
     "7c2eb8f0": {
       "id": "7c2eb8f0",
@@ -128,24 +134,24 @@
       "num": "4.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.316,
-        "ops": 0.691,
-        "ab": 57,
-        "r": 11,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.295,
+        "ops": 0.666,
+        "ab": 61,
+        "r": 14,
         "h": 18,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
-        "rbi": 4,
+        "rbi": 5,
         "tb": 18,
-        "slg": 0.316,
-        "bb": 4,
+        "slg": 0.295,
+        "bb": 6,
         "hbp": 2,
         "so": 9,
         "gdp": 0,
-        "obp": 0.375,
+        "obp": 0.371,
         "sf": 1,
         "sh": 0,
         "sb": 13,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
+          "ab": 4,
+          "r": 3,
+          "h": 0,
+          "rbi": 1,
+          "bb": 2,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 0 RBI against Central Michigan. Struggled to make contact."
+      "narrative": "Went 0/4 with 1 RBI against Eastern Michigan. Struggled at the plate but saw 2 walk(s)."
     },
     "1ea018fe": {
       "id": "1ea018fe",
@@ -180,7 +189,7 @@
       "num": "5.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 8,
+        "g": 9,
         "gs": 6,
         "avg": 0.111,
         "ops": 0.349,
@@ -205,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Central Michigan",
-        "result": "W 11-6",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14248",
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
         "batting": {
           "ab": 2,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "2B"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Central Michigan. Struggled to make contact."
+      "narrative": "Went 1/2 with 0 RBI against Kentucky. Had an outstanding performance at the plate (0.500)."
     },
     "27d48123": {
       "id": "27d48123",
@@ -232,11 +244,11 @@
       "num": "7.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 14,
-        "gs": 13,
-        "avg": 0.167,
-        "ops": 0.726,
-        "ab": 42,
+        "g": 15,
+        "gs": 14,
+        "avg": 0.149,
+        "ops": 0.652,
+        "ab": 47,
         "r": 9,
         "h": 7,
         "doubles": 2,
@@ -244,12 +256,12 @@
         "hr": 3,
         "rbi": 10,
         "tb": 20,
-        "slg": 0.476,
+        "slg": 0.426,
         "bb": 2,
         "hbp": 3,
-        "so": 13,
+        "so": 15,
         "gdp": 2,
-        "obp": 0.25,
+        "obp": 0.226,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -257,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "RF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Central Michigan. Contributed at the plate in the team's W 11-10."
+      "narrative": "Went 0/5 with 0 RBI against Eastern Michigan. Struggled to make contact."
     },
     "84519987": {
       "id": "84519987",
@@ -284,24 +299,24 @@
       "num": "8.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 12,
-        "gs": 9,
-        "avg": 0.267,
-        "ops": 0.753,
-        "ab": 30,
-        "r": 6,
-        "h": 8,
+        "g": 13,
+        "gs": 10,
+        "avg": 0.278,
+        "ops": 0.739,
+        "ab": 36,
+        "r": 8,
+        "h": 10,
         "doubles": 1,
         "triples": 0,
         "hr": 1,
-        "rbi": 3,
-        "tb": 12,
-        "slg": 0.4,
+        "rbi": 4,
+        "tb": 14,
+        "slg": 0.389,
         "bb": 2,
         "hbp": 2,
         "so": 9,
         "gdp": 1,
-        "obp": 0.353,
+        "obp": 0.35,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -309,22 +324,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 6,
+          "r": 2,
           "h": 2,
           "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 1 RBI against Central Michigan. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 2/6 with 1 RBI against Eastern Michigan. Contributed at the plate in the team's W."
     },
     "7705fa25": {
       "id": "7705fa25",
@@ -336,24 +354,24 @@
       "num": "9.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.235,
-        "ops": 0.575,
-        "ab": 51,
-        "r": 4,
-        "h": 12,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.263,
+        "ops": 0.67,
+        "ab": 57,
+        "r": 6,
+        "h": 15,
         "doubles": 3,
         "triples": 0,
-        "hr": 0,
-        "rbi": 7,
-        "tb": 15,
-        "slg": 0.294,
+        "hr": 1,
+        "rbi": 12,
+        "tb": 21,
+        "slg": 0.368,
         "bb": 4,
         "hbp": 0,
         "so": 10,
         "gdp": 1,
-        "obp": 0.281,
+        "obp": 0.302,
         "sf": 2,
         "sh": 0,
         "sb": 0,
@@ -361,22 +379,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 4,
+          "ab": 6,
           "r": 2,
-          "h": 2,
-          "rbi": 0,
-          "bb": 1,
+          "h": 3,
+          "rbi": 5,
+          "bb": 0,
           "so": 0,
-          "pos": "3B"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against Central Michigan. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 3/6 with 5 RBI against Eastern Michigan. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "1d25eb0e": {
       "id": "1d25eb0e",
@@ -408,31 +429,23 @@
         "opp_avg": ".286"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Central Michigan",
-        "result": "W 11-6",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14248",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": null,
         "pitching": {
-          "ip": "3.2",
-          "h": 3,
+          "ip": "1.0",
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 5,
+          "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Central Michigan, throwing 3.2 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "e52e8d07": {
       "id": "e52e8d07",
@@ -466,17 +479,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Central Michigan",
-        "result": "W 11-10",
+        "result": "W",
         "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -500,47 +505,50 @@
       "num": "12.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 11,
-        "gs": 8,
-        "avg": 0.25,
-        "ops": 0.804,
-        "ab": 24,
-        "r": 6,
-        "h": 6,
+        "g": 12,
+        "gs": 9,
+        "avg": 0.333,
+        "ops": 0.965,
+        "ab": 30,
+        "r": 8,
+        "h": 10,
         "doubles": 1,
-        "triples": 0,
+        "triples": 1,
         "hr": 1,
         "rbi": 3,
-        "tb": 10,
-        "slg": 0.417,
+        "tb": 16,
+        "slg": 0.533,
         "bb": 4,
         "hbp": 2,
         "so": 8,
         "gdp": 0,
-        "obp": 0.387,
+        "obp": 0.432,
         "sf": 1,
         "sh": 0,
-        "sb": 3,
-        "sb_att": 4
+        "sb": 4,
+        "sb_att": 5
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
+          "ab": 6,
+          "r": 2,
+          "h": 4,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
-          "pos": "2B"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Central Michigan. Struggled to make contact."
+      "narrative": "Went 4/6 with 0 RBI against Eastern Michigan. Had an outstanding performance at the plate (0.667)."
     },
     "627c13f0": {
       "id": "627c13f0",
@@ -576,8 +584,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Central Michigan",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14247",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Central Michigan. Struggled to make contact."
     },
     "d22d15a2": {
       "id": "d22d15a2",
@@ -614,22 +640,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
         "batting": {
           "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
-          "pos": "PH/C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Central Michigan. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Kentucky. Struggled to make contact."
     },
     "0487b095": {
       "id": "0487b095",
@@ -660,8 +689,24 @@
         "wp": 1,
         "opp_avg": ".417"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "bc41c555": {
       "id": "bc41c555",
@@ -673,24 +718,24 @@
       "num": "19.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.358,
-        "ops": 1.03,
-        "ab": 53,
-        "r": 8,
-        "h": 19,
-        "doubles": 1,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.379,
+        "ops": 1.12,
+        "ab": 58,
+        "r": 11,
+        "h": 22,
+        "doubles": 2,
         "triples": 0,
-        "hr": 4,
-        "rbi": 11,
-        "tb": 32,
-        "slg": 0.604,
+        "hr": 5,
+        "rbi": 13,
+        "tb": 39,
+        "slg": 0.672,
         "bb": 6,
-        "hbp": 1,
-        "so": 8,
+        "hbp": 2,
+        "so": 9,
         "gdp": 2,
-        "obp": 0.426,
+        "obp": 0.448,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -698,22 +743,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
           "ab": 5,
-          "r": 1,
+          "r": 3,
           "h": 3,
-          "rbi": 0,
+          "rbi": 2,
           "bb": 0,
-          "so": 0,
-          "pos": "1B"
+          "so": 1,
+          "hr": 1,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/5 with 0 RBI against Central Michigan. Had an outstanding performance at the plate (0.600)."
+      "narrative": "Went 3/5 with 2 RBI against Eastern Michigan. Hit 1 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "717daa60": {
       "id": "717daa60",
@@ -747,17 +795,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Central Michigan",
-        "result": "W 11-10",
+        "result": "W",
         "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 5,
@@ -781,7 +821,7 @@
       "num": "21.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 9,
+        "g": 10,
         "gs": 4,
         "avg": 0.083,
         "ops": 0.35,
@@ -806,22 +846,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Central Michigan",
-        "result": "W 11-6",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14248",
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Kentucky. Struggled to make contact."
     },
     "18bf40a5": {
       "id": "18bf40a5",
@@ -852,8 +895,24 @@
         "wp": 1,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "bfdd65d6": {
       "id": "bfdd65d6",
@@ -885,31 +944,23 @@
         "opp_avg": ".231"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 1,
-          "r": 2,
+          "h": 2,
+          "r": 1,
           "er": 1,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
-          "wp": 1,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Central Michigan, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "09002579": {
       "id": "09002579",
@@ -943,17 +994,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Central Michigan",
-        "result": "W 11-6",
+        "result": "W",
         "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14248",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.2",
           "h": 3,
@@ -977,24 +1020,24 @@
       "num": "25.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 14,
-        "gs": 4,
-        "avg": 0.115,
-        "ops": 0.379,
-        "ab": 26,
-        "r": 1,
+        "g": 15,
+        "gs": 5,
+        "avg": 0.1,
+        "ops": 0.356,
+        "ab": 30,
+        "r": 2,
         "h": 3,
         "doubles": 0,
         "triples": 0,
         "hr": 1,
         "rbi": 2,
         "tb": 6,
-        "slg": 0.231,
+        "slg": 0.2,
         "bb": 1,
-        "hbp": 0,
-        "so": 8,
+        "hbp": 1,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.148,
+        "obp": 0.156,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1002,22 +1045,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 1,
-          "h": 2,
-          "rbi": 2,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PH/LF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 2 RBI against Central Michigan. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 0/4 with 0 RBI against Eastern Michigan. Struggled to make contact."
     },
     "ceaf0bab": {
       "id": "ceaf0bab",
@@ -1054,22 +1100,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
         "batting": {
-          "ab": 2,
-          "r": 1,
+          "ab": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Central Michigan. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Kentucky. Struggled to make contact."
     },
     "1f67cbc4": {
       "id": "1f67cbc4",
@@ -1082,50 +1131,42 @@
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.29,
-        "whip": 1.46,
-        "w": 1,
+        "era": 4.05,
+        "whip": 1.45,
+        "w": 2,
         "l": 3,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 1,
-        "ip": 13.2,
-        "h": 10,
-        "r": 9,
-        "er": 5,
-        "bb": 10,
-        "so": 16,
-        "hr": 0,
-        "hbp": 2,
-        "wp": 0,
-        "opp_avg": ".196"
+        "ip": 20.0,
+        "h": 18,
+        "r": 13,
+        "er": 9,
+        "bb": 11,
+        "so": 23,
+        "hr": 1,
+        "hbp": 3,
+        "wp": 1,
+        "opp_avg": ".237"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
+        "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
+          "ip": "6.1",
+          "h": 8,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 7,
+          "wp": 1,
+          "hbp": 1
         }
       },
-      "narrative": "Took the mound against Central Michigan, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Eastern Michigan, throwing 6.1 innings. Struck out 7 while allowing just 8 hit(s) and 4 earned run(s) in a quality start."
     },
     "c23dbfd9": {
       "id": "c23dbfd9",
@@ -1157,31 +1198,23 @@
         "opp_avg": ".271"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Central Michigan",
-        "result": "W 11-6",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14248",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 3,
-          "r": 3,
-          "er": 3,
-          "bb": 1,
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
           "so": 1,
-          "wp": 1,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Central Michigan, throwing 0.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "e929a7e7": {
       "id": "e929a7e7",
@@ -1217,8 +1250,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Kentucky. Struggled to make contact."
     },
     "91209378": {
       "id": "91209378",
@@ -1231,26 +1282,42 @@
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.2,
+        "era": 7.5,
         "whip": 2.0,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 3,
+        "g": 4,
         "gs": 0,
-        "ip": 5.0,
-        "h": 6,
-        "r": 4,
-        "er": 4,
+        "ip": 6.0,
+        "h": 8,
+        "r": 5,
+        "er": 5,
         "bb": 4,
-        "so": 7,
-        "hr": 0,
+        "so": 8,
+        "hr": 1,
         "hbp": 1,
-        "wp": 0,
-        "opp_avg": ".300"
+        "wp": 1,
+        "opp_avg": ".320"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Eastern Michigan, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "799e7db0": {
       "id": "799e7db0",
@@ -1305,22 +1372,23 @@
         "opp_avg": ".357"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Central Michigan",
-        "result": "W 11-6",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14248",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
           "bb": 1,
-          "so": 0,
-          "pos": "PH"
-        },
-        "pitching": null
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
       },
-      "narrative": null
+      "narrative": "Took the mound against Kentucky, throwing 2.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "c74502f1": {
       "id": "c74502f1",
@@ -1375,22 +1443,25 @@
         "opp_avg": ".357"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Central Michigan",
-        "result": "W 11-6",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14248",
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
         "batting": {
-          "ab": 0,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 0 RBI against Kentucky. Struggled to make contact."
     },
     "ef387c18": {
       "id": "ef387c18",
@@ -1403,26 +1474,42 @@
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.7,
-        "whip": 1.11,
+        "era": 5.54,
+        "whip": 1.35,
         "w": 2,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 24.1,
-        "h": 21,
-        "r": 10,
-        "er": 10,
-        "bb": 6,
-        "so": 21,
+        "g": 5,
+        "gs": 5,
+        "ip": 26.0,
+        "h": 26,
+        "r": 18,
+        "er": 16,
+        "bb": 9,
+        "so": 22,
         "hr": 2,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 2,
-        "opp_avg": ".236"
+        "opp_avg": ".260"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 5,
+          "r": 8,
+          "er": 6,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Eastern Michigan, throwing 1.2 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
     },
     "eba8203d": {
       "id": "eba8203d",
@@ -1434,24 +1521,24 @@
       "num": "38.0",
       "school": "Ball State University",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.219,
-        "ops": 0.655,
-        "ab": 32,
-        "r": 5,
-        "h": 7,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.27,
+        "ops": 0.886,
+        "ab": 37,
+        "r": 7,
+        "h": 10,
         "doubles": 0,
         "triples": 0,
-        "hr": 1,
-        "rbi": 6,
-        "tb": 10,
-        "slg": 0.313,
+        "hr": 3,
+        "rbi": 12,
+        "tb": 19,
+        "slg": 0.514,
         "bb": 4,
         "hbp": 2,
-        "so": 12,
+        "so": 14,
         "gdp": 1,
-        "obp": 0.342,
+        "obp": 0.372,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1459,22 +1546,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-13",
+        "opponent": "Eastern Michigan",
+        "result": "W",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14251",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 3,
+          "rbi": 6,
           "bb": 0,
-          "so": 1,
-          "pos": "LF"
+          "so": 2,
+          "hr": 2,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Central Michigan. Struggled to make contact."
+      "narrative": "Went 3/5 with 6 RBI against Eastern Michigan. Hit 2 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "a9145554": {
       "id": "a9145554",
@@ -1506,31 +1596,23 @@
         "opp_avg": ".340"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 3,
-          "r": 3,
-          "er": 3,
-          "bb": 0,
-          "so": 2,
+          "h": 4,
+          "r": 5,
+          "er": 4,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Central Michigan, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "6b9bb9ef": {
       "id": "6b9bb9ef",
@@ -1567,22 +1649,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Central Michigan",
-        "result": "W 11-10",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
+        "date": "2026-03-10",
+        "opponent": "Kentucky",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 1,
-          "rbi": 3,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PH/DH"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 3 RBI against Central Michigan. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/3 with 0 RBI against Kentucky. Struggled to make contact."
     },
     "996333fe": {
       "id": "996333fe",
@@ -1616,17 +1701,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Central Michigan",
-        "result": "W 11-10",
+        "result": "W",
         "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14249",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,

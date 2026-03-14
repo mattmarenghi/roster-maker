@@ -2,16 +2,16 @@
   "school": "Sam Houston State University",
   "base_url": "https://www.gobearkats.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:02:19.732577Z",
-  "record": "8-8",
+  "generated_at": "2026-03-14T15:30:21.160740Z",
+  "record": "40-53",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Baylor",
-    "result": "W 13-5",
-    "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
-    "recap_url": "https://www.gobearkats.com/news/2026/3/10/baseball-kats-drop-midweek-at-baylor",
+    "date": "2026-03-13",
+    "opponent": "Jax State",
+    "result": "L",
+    "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
+    "recap_url": "https://www.gobearkats.com/news/2026/3/13/baseball-jax-state-takes-series-opener",
     "recap_headline": "",
-    "recap_text": "WACO \u2013\nThe Sam Houston Bearkats saw their 4-game win streak come to an end on Tuesday night, dropping an 13-5 decision to Baylor at Baylor Ballpark.\nHunter Alvord\nand\nCade Corcoran\nhad two hits and an RBI apiece for the Kats (8-8), but the first seven Bearkat hits in the game were singles before back-to-back 2-out doubles by\nEaston Dean\nand\nKirby Orth\nto plate the game's final run; meanwhile, the Bears (10-6) had six of their 15 hits go for extra bases, including three homers.\nJakob Holzer\ngot his second midweek start of the year for Sam Houston and had four strikeouts but was tagged with the loss after allowing five runs on eight hits in 2.2 frames of work.\nCooper Harris\n,\nNoah Kendrick\n,\nJonathan Anders\nand\nConnor Mondey\ncombined for five\u00a0more punchouts, giving the SHSU staff nine strikeouts for the game.\nBaylor starter Cayden Baker got his first win of the year as the first of six Bear arms on a staff day, allowing one run in 2.0 innings before giving way to the bullpen.\nThe Kats manufactured a run in the opening inning on an RBI grounder by\nWes Baker\nbut Baylor immediately answered, tying it with two outs in the bottom of the first on a solo homer from Brady Janusek.\nThe Bears added on in each of next three innings, taking the lead on an RBI single by Travis Sanders in the second and pushing the lead to 5-1 in the third on a no-doubt solo homer by Tyce Armstrong, an RBI single by Brytton Clements and a Bearkat passed ball with a runner on third base.\nThe Kats put together a threat in the fourth with 1-out singles by Alvord and Corcoran but missed getting back on the scoreboard when Bear reliever Luke McLeod got\nNathan Fink\nto fly out to the wall in straightaway center field and then ended the threat with a strikeout of\nBlake Brown\n.\nHarris put up a zero in the fourth on the mound, but Baylor got its third solo home run of the game in the fifth when Hunter Snow greeted Kendrick with a blast to right field to push the lead to 6-1.\nSam Houston pushed three runs across to draw to within two at 6-4. Alvord and Corcoran each delivered RBI singles and the Kats had runners on the corners with nobody out, but Baylor reliever Cade McFaddin was able to kill the rally with a double-play grounder off the bat of Fink that scored a run but also cleared the bases.\nUnfortunately, the Bearkats were unable to put up a shutdown inning in the bottom half of the frame as the Bears answered right back with a matching 3-spot. Hits from JJ Kennett and Pearson Riebock got BU going, but the Kats were their own worst enemy in the inning, committing a pair of errors on a grounder off the bat of Janusek that allowed a pair of runs to come in and set up the third.\nBaylor biggest scoring inning of the night in the bottom of the eighth, capping the scoring with four runs on RBI hits from Janusek, Armstrong and Clements and the third Bearkat error of the night.\nUP NEXT\nSam Houston will return to Don Sanders Stadium this weekend, opening Conference USA play with three games against Jax State. The series is set to kick off Friday night with first pitch set for 6:35 p.m."
+    "recap_text": "HUNTSVILLE \u2013\nThe Sam Houston Bearkats' ninth-inning rally came up just short in a 3-1 loss to Jax State in the series opener on Friday night at Don Sanders Stadium.\nSam Houston (8-9, 0-1 CUSA) trailed the Gamecocks (15-3, 1-0 CUSA) 3-0 after five innings, but got a run back in the seventh and loaded the bases in the ninth before reliever Skyler Hutto struck out pinch hitter\nEaston Dean\nto close out his fourth save of the year.\nRyan Franden\nmade his return to the lineup and singled in his final two at-bats of the game, including a 1-out base hit in the ninth to start the rally.\nHunter Alvord\nfollowed with a single and\nCade Corcoran\nlater walked before Hutto finished it off.\nStaff ace\nRyan Peterson\ntook his third loss of the year, despite striking out eight hitters in 5.0 innings of work. But he was matched by JSU starter Eli Pillsbury who struck out six and did not issue a walk in 6.2 frames to move to 3-0 on the year. He retired the first 13 Bearkats he faced before the Kats finally got a runner on the basepaths on a catcher's interference in the fifth.\nPeterson had already struck out five hitters in the first two frames before Luke Williams got the Gamecocks on the board when he led off the third with a solo homer to right field. Two innings later a single, bunt and error set JSU up for more offense and the Gamecocks capitalized with runs on a sacrifice fly and a double to left field.\nThe Kats threatened with runners in scoring position in both the fifth and sixth innings but could not push anything across until the seventh when Corcoran lined an RBI single into left-center field to score Franden.\nUP NEXT\nSam Houston will look to even the series with Jax State on Saturday with first pitch set for 2:00 p.m."
   },
   "players": {
     "cc60df02": {
@@ -24,11 +24,11 @@
       "num": "1.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 14,
-        "gs": 12,
-        "avg": 0.143,
-        "ops": 0.469,
-        "ab": 35,
+        "g": 15,
+        "gs": 13,
+        "avg": 0.132,
+        "ops": 0.438,
+        "ab": 38,
         "r": 1,
         "h": 5,
         "doubles": 0,
@@ -36,12 +36,12 @@
         "hr": 0,
         "rbi": 7,
         "tb": 5,
-        "slg": 0.143,
+        "slg": 0.132,
         "bb": 10,
         "hbp": 0,
-        "so": 10,
-        "gdp": 0,
-        "obp": 0.326,
+        "so": 11,
+        "gdp": 1,
+        "obp": 0.306,
         "sf": 1,
         "sh": 0,
         "sb": 4,
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
-          "ab": 2,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 0,
-          "rbi": 1,
-          "bb": 2,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against Prairie View. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Jax State. Struggled to make contact."
     },
     "be543098": {
       "id": "be543098",
@@ -100,8 +103,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-17",
+        "opponent": "HCU",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/hcu/boxscore/15187",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against HCU. Struggled to make contact."
     },
     "8ccde9ac": {
       "id": "8ccde9ac",
@@ -113,7 +134,7 @@
       "num": "3.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 5,
         "avg": 0.1,
         "ops": 0.243,
@@ -140,7 +161,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Prairie View",
-        "result": "W 16-1",
+        "result": "W",
         "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
         "batting": {
           "ab": 4,
@@ -149,7 +170,10 @@
           "rbi": 1,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -165,11 +189,11 @@
       "num": "4.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.271,
-        "ops": 0.713,
-        "ab": 59,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.254,
+        "ops": 0.671,
+        "ab": 63,
         "r": 10,
         "h": 16,
         "doubles": 5,
@@ -177,12 +201,12 @@
         "hr": 0,
         "rbi": 5,
         "tb": 21,
-        "slg": 0.356,
+        "slg": 0.333,
         "bb": 7,
         "hbp": 2,
-        "so": 20,
+        "so": 21,
         "gdp": 1,
-        "obp": 0.357,
+        "obp": 0.338,
         "sf": 2,
         "sh": 0,
         "sb": 8,
@@ -190,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
           "ab": 4,
-          "r": 2,
-          "h": 3,
-          "rbi": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 2 RBI against Prairie View. Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 0/4 with 0 RBI against Jax State. Struggled to make contact."
     },
     "a3e52434": {
       "id": "a3e52434",
@@ -217,11 +244,11 @@
       "num": "5.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.219,
-        "ops": 0.77,
-        "ab": 32,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.2,
+        "ops": 0.713,
+        "ab": 35,
         "r": 5,
         "h": 7,
         "doubles": 2,
@@ -229,12 +256,12 @@
         "hr": 1,
         "rbi": 8,
         "tb": 12,
-        "slg": 0.375,
+        "slg": 0.343,
         "bb": 10,
         "hbp": 0,
-        "so": 9,
+        "so": 10,
         "gdp": 1,
-        "obp": 0.395,
+        "obp": 0.37,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -242,31 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Baylor",
-        "result": "W 13-5",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "P"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 3,
-          "wp": 1,
-          "hbp": 0
-        }
+        "pitching": null
       },
-      "narrative": "Took the mound against Baylor, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+      "narrative": "Went 0/3 with 0 RBI against Jax State. Struggled to make contact."
     },
     "a4023e0c": {
       "id": "a4023e0c",
@@ -278,22 +299,22 @@
       "num": "7.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 4,
-        "gs": 3,
-        "avg": 0.429,
-        "ops": 1.714,
-        "ab": 14,
-        "r": 4,
-        "h": 6,
+        "g": 5,
+        "gs": 4,
+        "avg": 0.444,
+        "ops": 1.556,
+        "ab": 18,
+        "r": 5,
+        "h": 8,
         "doubles": 0,
         "triples": 1,
         "hr": 3,
         "rbi": 10,
-        "tb": 17,
-        "slg": 1.214,
+        "tb": 19,
+        "slg": 1.056,
         "bb": 2,
         "hbp": 0,
-        "so": 3,
+        "so": 4,
         "gdp": 1,
         "obp": 0.5,
         "sf": 0,
@@ -302,8 +323,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Jax State. Had an outstanding performance at the plate (0.500)."
     },
     "b16cfe79": {
       "id": "b16cfe79",
@@ -315,24 +354,24 @@
       "num": "8.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.208,
-        "ops": 0.566,
-        "ab": 48,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.216,
+        "ops": 0.572,
+        "ab": 51,
         "r": 8,
-        "h": 10,
+        "h": 11,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 2,
-        "tb": 12,
-        "slg": 0.25,
+        "tb": 13,
+        "slg": 0.255,
         "bb": 8,
         "hbp": 0,
-        "so": 17,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.316,
+        "obp": 0.317,
         "sf": 1,
         "sh": 1,
         "sb": 5,
@@ -340,22 +379,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
-          "ab": 2,
-          "r": 2,
-          "h": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "3B"
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/2 with 0 RBI against Prairie View. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 1/3 with 0 RBI against Jax State. Contributed at the plate in the team's L."
     },
     "a1447050": {
       "id": "a1447050",
@@ -367,24 +409,24 @@
       "num": "9.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.283,
-        "ops": 0.861,
-        "ab": 60,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.281,
+        "ops": 0.841,
+        "ab": 64,
         "r": 16,
-        "h": 17,
+        "h": 18,
         "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 9,
-        "tb": 27,
-        "slg": 0.45,
+        "tb": 28,
+        "slg": 0.438,
         "bb": 13,
         "hbp": 0,
-        "so": 26,
+        "so": 27,
         "gdp": 0,
-        "obp": 0.411,
+        "obp": 0.403,
         "sf": 0,
         "sh": 0,
         "sb": 8,
@@ -392,22 +434,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
           "ab": 4,
-          "r": 4,
-          "h": 3,
-          "rbi": 3,
-          "bb": 1,
-          "so": 0,
-          "pos": "SS"
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 3 RBI against Prairie View. Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 1/4 with 0 RBI against Jax State. Contributed at the plate in the team's L."
     },
     "812f1299": {
       "id": "812f1299",
@@ -419,11 +464,11 @@
       "num": "10.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 2,
+        "g": 3,
         "gs": 1,
-        "avg": 0.4,
-        "ops": 1.6,
-        "ab": 5,
+        "avg": 0.333,
+        "ops": 1.333,
+        "ab": 6,
         "r": 2,
         "h": 2,
         "doubles": 1,
@@ -431,12 +476,12 @@
         "hr": 1,
         "rbi": 3,
         "tb": 6,
-        "slg": 1.2,
+        "slg": 1.0,
         "bb": 0,
         "hbp": 0,
-        "so": 0,
+        "so": 1,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.333,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -444,22 +489,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
           "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PH/C"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 3 RBI against Prairie View. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/1 with 0 RBI against Jax State. Struggled to make contact."
     },
     "a8b36935": {
       "id": "a8b36935",
@@ -496,22 +544,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-02-28",
+        "opponent": "Oklahoma State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/oklahoma-state/boxscore/15193",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Oklahoma State. Struggled to make contact."
     },
     "719f50c6": {
       "id": "719f50c6",
@@ -547,8 +598,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Prairie View",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15196",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 1 RBI against Prairie View. Struggled to make contact."
     },
     "33bfafa7": {
       "id": "33bfafa7",
@@ -560,11 +629,11 @@
       "num": "13.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.321,
-        "ops": 0.865,
-        "ab": 53,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.298,
+        "ops": 0.81,
+        "ab": 57,
         "r": 13,
         "h": 17,
         "doubles": 2,
@@ -572,12 +641,12 @@
         "hr": 0,
         "rbi": 3,
         "tb": 23,
-        "slg": 0.434,
+        "slg": 0.404,
         "bb": 7,
         "hbp": 4,
-        "so": 14,
+        "so": 16,
         "gdp": 1,
-        "obp": 0.431,
+        "obp": 0.406,
         "sf": 1,
         "sh": 3,
         "sb": 8,
@@ -585,22 +654,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
           "ab": 4,
-          "r": 2,
-          "h": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "CF"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against Prairie View. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/4 with 0 RBI against Jax State. Struggled to make contact."
     },
     "254ccd6b": {
       "id": "254ccd6b",
@@ -612,47 +684,50 @@
       "num": "14.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.283,
-        "ops": 0.744,
-        "ab": 60,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.302,
+        "ops": 0.778,
+        "ab": 63,
         "r": 8,
-        "h": 17,
+        "h": 19,
         "doubles": 2,
         "triples": 0,
         "hr": 1,
-        "rbi": 7,
-        "tb": 22,
-        "slg": 0.367,
-        "bb": 8,
+        "rbi": 8,
+        "tb": 24,
+        "slg": 0.381,
+        "bb": 9,
         "hbp": 1,
-        "so": 22,
+        "so": 23,
         "gdp": 0,
-        "obp": 0.377,
+        "obp": 0.397,
         "sf": 0,
         "sh": 0,
-        "sb": 1,
-        "sb_att": 1
+        "sb": 2,
+        "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 3,
-          "rbi": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
           "bb": 1,
-          "so": 0,
-          "pos": "1B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 2 RBI against Prairie View. Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 2/3 with 1 RBI against Jax State. Had an outstanding performance at the plate (0.667)."
     },
     "3134569a": {
       "id": "3134569a",
@@ -689,22 +764,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Prairie View",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15197",
+        "date": "2026-03-10",
+        "opponent": "Baylor",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 3,
-          "pos": "LF"
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Prairie View. Struggled to make contact."
+      "narrative": "Went 1/1 with 1 RBI against Baylor. Had an outstanding performance at the plate (1.000)."
     },
     "71f495b5": {
       "id": "71f495b5",
@@ -777,8 +855,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Prairie View",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15196",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Prairie View. Contributed at the plate in the team's W."
     },
     "8daef732": {
       "id": "8daef732",
@@ -809,8 +905,24 @@
         "wp": 1,
         "opp_avg": ".431"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Baylor",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 8,
+          "r": 5,
+          "er": 4,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Baylor, throwing 2.2 innings. Allowed 4 earned run(s) with 4 strikeout(s)."
     },
     "0a584116": {
       "id": "0a584116",
@@ -841,8 +953,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-24",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/houston/boxscore/15191",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "54fbf740": {
       "id": "54fbf740",
@@ -854,11 +982,11 @@
       "num": "25.0",
       "school": "Sam Houston State University",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.218,
-        "ops": 0.707,
-        "ab": 55,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.207,
+        "ops": 0.674,
+        "ab": 58,
         "r": 10,
         "h": 12,
         "doubles": 3,
@@ -866,12 +994,12 @@
         "hr": 1,
         "rbi": 8,
         "tb": 20,
-        "slg": 0.364,
+        "slg": 0.345,
         "bb": 9,
         "hbp": 2,
-        "so": 25,
+        "so": 26,
         "gdp": 2,
-        "obp": 0.343,
+        "obp": 0.329,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -879,22 +1007,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Prairie View",
-        "result": "W 16-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
         "batting": {
           "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Prairie View. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Jax State. Struggled to make contact."
     },
     "f86f9d2f": {
       "id": "f86f9d2f",
@@ -925,8 +1056,24 @@
         "wp": 1,
         "opp_avg": ".800"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-17",
+        "opponent": "HCU",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/hcu/boxscore/15187",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against HCU, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "5327dd0e": {
       "id": "5327dd0e",
@@ -939,50 +1086,42 @@
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.57,
-        "whip": 1.0,
+        "era": 1.93,
+        "whip": 1.04,
         "w": 1,
-        "l": 2,
+        "l": 3,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 23.0,
-        "h": 17,
-        "r": 5,
-        "er": 4,
-        "bb": 6,
-        "so": 35,
-        "hr": 2,
+        "g": 5,
+        "gs": 5,
+        "ip": 28.0,
+        "h": 22,
+        "r": 8,
+        "er": 6,
+        "bb": 7,
+        "so": 43,
+        "hr": 3,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".205"
+        "opp_avg": ".216"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Prairie View",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15197",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
+        "batting": null,
         "pitching": {
-          "ip": "6.0",
+          "ip": "5.0",
           "h": 5,
-          "r": 0,
-          "er": 0,
+          "r": 3,
+          "er": 2,
           "bb": 1,
           "so": 8,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Prairie View, throwing 6.0 innings. Struck out 8 while allowing just 5 hit(s) and 0 earned run(s) in a quality start."
+      "narrative": "Took the mound against Jax State, throwing 5.0 innings. Struck out 8 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
     },
     "f0a905b0": {
       "id": "f0a905b0",
@@ -995,14 +1134,14 @@
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.08,
-        "whip": 0.72,
+        "era": 0.96,
+        "whip": 0.64,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 8.1,
+        "ip": 9.1,
         "h": 2,
         "r": 1,
         "er": 1,
@@ -1011,10 +1150,26 @@
         "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".077"
+        "opp_avg": ".069"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Jax State, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "e52f7a60": {
       "id": "e52f7a60",
@@ -1045,8 +1200,24 @@
         "wp": 1,
         "opp_avg": ".154"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Baylor",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Baylor, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "2254fec5": {
       "id": "2254fec5",
@@ -1077,8 +1248,24 @@
         "wp": 3,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Prairie View",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15196",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Prairie View, throwing 3.2 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "bd1e8ae3": {
       "id": "bd1e8ae3",
@@ -1112,17 +1299,9 @@
       "last_game": {
         "date": "2026-03-06",
         "opponent": "Prairie View",
-        "result": "W 4-1",
+        "result": "W",
         "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15197",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 2,
@@ -1168,17 +1347,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Prairie View",
-        "result": "W 16-1",
+        "result": "W",
         "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 5,
@@ -1221,8 +1392,24 @@
         "wp": 2,
         "opp_avg": ".300"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Baylor",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 4,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Baylor, throwing 1.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "15c2c5d7": {
       "id": "15c2c5d7",
@@ -1235,26 +1422,42 @@
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.37,
-        "whip": 1.22,
+        "era": 2.63,
+        "whip": 1.1,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 1,
-        "ip": 10.2,
-        "h": 9,
+        "ip": 13.2,
+        "h": 10,
         "r": 4,
         "er": 4,
-        "bb": 4,
-        "so": 7,
+        "bb": 5,
+        "so": 8,
         "hr": 2,
-        "hbp": 0,
+        "hbp": 1,
         "wp": 1,
-        "opp_avg": ".225"
+        "opp_avg": ".204"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Jax State",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15200",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Jax State, throwing 3.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "db25e4ce": {
       "id": "db25e4ce",
@@ -1288,17 +1491,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Prairie View",
-        "result": "W 16-1",
+        "result": "W",
         "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1344,17 +1539,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Prairie View",
-        "result": "W 16-1",
+        "result": "W",
         "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15198",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1397,8 +1584,24 @@
         "wp": 1,
         "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Prairie View",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15196",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Prairie View, throwing 3.1 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
     },
     "0f662b64": {
       "id": "0f662b64",
@@ -1430,22 +1633,23 @@
         "opp_avg": ".280"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Baylor",
-        "result": "W 13-5",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
-        "batting": {
-          "ab": 4,
+        "date": "2026-03-06",
+        "opponent": "Prairie View",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15197",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "er": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "CF"
-        },
-        "pitching": null
+          "so": 0,
+          "wp": 1,
+          "hbp": 1
+        }
       },
-      "narrative": "Went 0/4 with 0 RBI against Baylor. Struggled to make contact."
+      "narrative": "Took the mound against Prairie View, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "8db5c374": {
       "id": "8db5c374",
@@ -1476,8 +1680,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Baylor",
+        "result": "L",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/baylor/boxscore/15199",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 2,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Baylor, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

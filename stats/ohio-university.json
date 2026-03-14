@@ -2,168 +2,17 @@
   "school": "Ohio University",
   "base_url": "https://www.ohiobobcats.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:56:31.099085Z",
-  "record": "3-15",
+  "generated_at": "2026-03-14T15:19:26.542395Z",
+  "record": "3-16",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Austin Peay",
-    "result": "W 18-5",
-    "boxscore_url": "https://www.ohiobobcats.com/boxscore.aspx?id=9626&path=baseball",
-    "recap_url": "https://www.ohiobobcats.com/news/2026/3/10/baseball-ohio-baseball-swept-in-doubleheader-at-austin-peay.aspx",
-    "recap_headline": "Ohio University",
+    "date": "2026-03-13",
+    "opponent": "Western Mich.",
+    "result": "",
+    "boxscore_url": "https://www.ohiobobcats.com/boxscore.aspx?id=9628&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "2c2621f3": {
-      "id": "2c2621f3",
-      "name": "Ethan Stewart",
-      "fn": "Ethan",
-      "ln": "Stewart",
-      "pos": "RHP",
-      "yr": "Jr.",
-      "num": "4.0",
-      "school": "Ohio University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Northern Ill.",
-        "result": "L 2-8",
-        "boxscore_url": "https://www.ohiobobcats.com/boxscore.aspx?id=9625&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "0.2",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Northern Ill., throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    },
-    "0fad5e65": {
-      "id": "0fad5e65",
-      "name": "Hunter Brooks",
-      "fn": "Hunter",
-      "ln": "Brooks",
-      "pos": "RHP",
-      "yr": "Jr.",
-      "num": "8.0",
-      "school": "Ohio University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Northern Ill.",
-        "result": "L 2-8",
-        "boxscore_url": "https://www.ohiobobcats.com/boxscore.aspx?id=9625&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Northern Ill., throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    },
-    "f0f6202b": {
-      "id": "f0f6202b",
-      "name": "Dillon Masters",
-      "fn": "Dillon",
-      "ln": "Masters",
-      "pos": "LHP",
-      "yr": "Sr.",
-      "num": "13.0",
-      "school": "Ohio University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Northern Ill.",
-        "result": "L 2-8",
-        "boxscore_url": "https://www.ohiobobcats.com/boxscore.aspx?id=9625&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.2",
-          "h": 3,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Northern Ill., throwing 1.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
-    },
-    "da0239f5": {
-      "id": "da0239f5",
-      "name": "AJ Dallmayer",
-      "fn": "AJ",
-      "ln": "Dallmayer",
-      "pos": "RHP",
-      "yr": "Jr.",
-      "num": "24.0",
-      "school": "Ohio University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Northern Ill.",
-        "result": "L 2-8",
-        "boxscore_url": "https://www.ohiobobcats.com/boxscore.aspx?id=9625&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "5.0",
-          "h": 5,
-          "r": 4,
-          "er": 4,
-          "bb": 4,
-          "so": 6,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Northern Ill., throwing 5.0 innings. Struck out 6 while allowing just 5 hit(s) and 4 earned run(s) in a quality start."
-    },
-    "4e3c2d9a": {
-      "id": "4e3c2d9a",
-      "name": "Hunter Winston",
-      "fn": "Hunter",
-      "ln": "Winston",
-      "pos": "LHP",
-      "yr": "So.",
-      "num": "30.0",
-      "school": "Ohio University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Northern Ill.",
-        "result": "L 2-8",
-        "boxscore_url": "https://www.ohiobobcats.com/boxscore.aspx?id=9625&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 3,
-          "er": 1,
-          "bb": 4,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Northern Ill., throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

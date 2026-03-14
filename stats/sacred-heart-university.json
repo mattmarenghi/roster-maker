@@ -2,12 +2,12 @@
   "school": "Sacred Heart University",
   "base_url": "https://sacredheartpioneers.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:01:06.258226Z",
+  "generated_at": "2026-03-14T15:27:55.973918Z",
   "record": "16-21",
   "most_recent_game": {
     "date": "2026-03-10",
     "opponent": "Yale",
-    "result": "W 4-2",
+    "result": "L",
     "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
     "recap_url": "https://sacredheartpioneers.com/news/2026/3/10/baseball-four-doubles-lead-pioneers-effort-in-4-2-loss-to-yale",
     "recap_headline": "Sacred Heart",
@@ -48,8 +48,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/nc-state/boxscore/16821",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against NC State. Struggled at the plate but saw 1 walk(s)."
     },
     "219a3a2f": {
       "id": "219a3a2f",
@@ -86,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 1,
+          "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Rider. Struggled to make contact."
+      "narrative": "Went 2/4 with 0 RBI against Yale. Had an outstanding performance at the plate (0.500)."
     },
     "7b979525": {
       "id": "7b979525",
@@ -138,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Rider",
-        "result": "L 3-9",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16824",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Rider. Struggled to make contact."
+      "narrative": "Went 0/4 with 0 RBI against Yale. Struggled to make contact."
     },
     "6ba7b488": {
       "id": "6ba7b488",
@@ -192,7 +216,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rider",
-        "result": "W 5-4",
+        "result": "W",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
         "batting": {
           "ab": 1,
@@ -201,7 +225,10 @@
           "rbi": 0,
           "bb": 1,
           "so": 0,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -239,17 +266,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Rider",
-        "result": "L 3-9",
+        "result": "L",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16824",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "6.0",
           "h": 6,
@@ -298,22 +317,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 2,
-          "rbi": 5,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
-          "so": 1,
-          "pos": "SS"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 5 RBI against Rider. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 0/2 with 0 RBI against Yale. Struggled at the plate but saw 1 walk(s)."
     },
     "3ca866c9": {
       "id": "3ca866c9",
@@ -350,22 +372,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 0,
-          "h": 1,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Rider. Contributed at the plate in the team's W 5-4."
+      "narrative": "Went 2/5 with 0 RBI against Yale. Had an outstanding performance at the plate (0.400)."
     },
     "88b4b14c": {
       "id": "88b4b14c",
@@ -402,22 +427,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Rider",
-        "result": "L 3-9",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16824",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "C"
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Rider. Contributed at the plate in the team's L 3-9."
+      "narrative": "Went 0/2 with 0 RBI against Yale. Struggled at the plate but saw 1 walk(s)."
     },
     "0face61c": {
       "id": "0face61c",
@@ -454,22 +482,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 3,
+          "ab": 5,
           "r": 1,
-          "h": 2,
-          "rbi": 5,
-          "bb": 1,
-          "so": 1,
-          "pos": "SS"
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 5 RBI against Rider. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 1/5 with 1 RBI against Yale. Struggled to make contact."
     },
     "7933b3ed": {
       "id": "7933b3ed",
@@ -503,17 +534,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rider",
-        "result": "W 5-4",
+        "result": "W",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 2,
@@ -561,8 +584,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "ETSU",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/etsu/boxscore/16817",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against ETSU. Struggled to make contact."
     },
     "59b1fa9a": {
       "id": "59b1fa9a",
@@ -601,7 +642,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rider",
-        "result": "W 5-4",
+        "result": "W",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
         "batting": {
           "ab": 3,
@@ -610,11 +651,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Rider. Contributed at the plate in the team's W 5-4."
+      "narrative": "Went 1/3 with 0 RBI against Rider. Contributed at the plate in the team's W."
     },
     "58950f3c": {
       "id": "58950f3c",
@@ -645,8 +689,24 @@
         "wp": 0,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 2,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Yale, throwing 2.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "a35044da": {
       "id": "a35044da",
@@ -680,17 +740,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rider",
-        "result": "W 5-4",
+        "result": "W",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.2",
           "h": 4,
@@ -739,22 +791,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 2,
-          "pos": "LF"
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Rider. Contributed at the plate in the team's W 5-4."
+      "narrative": "Went 0/3 with 0 RBI against Yale. Struggled at the plate but saw 1 walk(s)."
     },
     "8e71a3f9": {
       "id": "8e71a3f9",
@@ -785,8 +840,24 @@
         "wp": 1,
         "opp_avg": ".357"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Rider",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16823",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 9,
+          "r": 5,
+          "er": 5,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rider, throwing 5.0 innings. Struck out 4 while allowing just 9 hit(s) and 5 earned run(s) in a quality start."
     },
     "2d3a5ba2": {
       "id": "2d3a5ba2",
@@ -818,31 +889,23 @@
         "opp_avg": ".421"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Rider",
-        "result": "L 3-9",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16824",
-        "batting": {
-          "ab": 0,
-          "r": 0,
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
           "h": 0,
-          "rbi": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
           "so": 0,
-          "pos": "P"
-        },
-        "pitching": {
-          "ip": "0.1",
-          "h": 2,
-          "r": 3,
-          "er": 3,
-          "bb": 2,
-          "so": 1,
-          "wp": 1,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Rider, throwing 0.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Yale, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "03f926d4": {
       "id": "03f926d4",
@@ -878,8 +941,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "ETSU",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/etsu/boxscore/16816",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against ETSU. Struggled to make contact."
     },
     "dcf6475b": {
       "id": "dcf6475b",
@@ -916,22 +997,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
+          "ab": 1,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "C"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Rider. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/1 with 0 RBI against Yale. Had an outstanding performance at the plate (1.000)."
     },
     "22a20fa7": {
       "id": "22a20fa7",
@@ -962,8 +1046,24 @@
         "wp": 1,
         "opp_avg": ".583"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Yale, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "3ef51bb0": {
       "id": "3ef51bb0",
@@ -1000,22 +1100,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "RF"
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Rider. Struggled to make contact."
+      "narrative": "Went 1/3 with 0 RBI against Yale. Contributed at the plate in the team's L."
     },
     "e6b6ffa1": {
       "id": "e6b6ffa1",
@@ -1049,17 +1152,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Rider",
-        "result": "L 3-9",
+        "result": "L",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16824",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 3,
@@ -1110,7 +1205,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rider",
-        "result": "W 5-4",
+        "result": "W",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
         "batting": {
           "ab": 1,
@@ -1119,7 +1214,10 @@
           "rbi": 0,
           "bb": 1,
           "so": 0,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1154,8 +1252,24 @@
         "wp": 1,
         "opp_avg": ".292"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Yale, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "fe96e51d": {
       "id": "fe96e51d",
@@ -1189,17 +1303,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rider",
-        "result": "W 5-4",
+        "result": "W",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.1",
           "h": 2,
@@ -1245,17 +1351,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Rider",
-        "result": "L 3-9",
+        "result": "L",
         "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16824",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 0,
@@ -1304,22 +1402,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Rider",
-        "result": "W 5-4",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/rider/boxscore/16825",
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
+          "ab": 5,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "1B"
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Rider. Contributed at the plate in the team's W 5-4."
+      "narrative": "Went 0/5 with 0 RBI against Yale. Struggled to make contact."
     },
     "81c1cad6": {
       "id": "81c1cad6",
@@ -1350,8 +1451,24 @@
         "wp": 0,
         "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "ETSU",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/etsu/boxscore/16817",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against ETSU, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "bff899c6": {
       "id": "bff899c6",
@@ -1382,8 +1499,24 @@
         "wp": 1,
         "opp_avg": ".176"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Yale, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "71019cfb": {
       "id": "71019cfb",
@@ -1414,8 +1547,24 @@
         "wp": 1,
         "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Yale",
+        "result": "L",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/yale/boxscore/16826",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Yale, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

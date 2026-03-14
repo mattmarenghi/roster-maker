@@ -2,13 +2,13 @@
   "school": "University of Pittsburgh",
   "base_url": "https://www.pittsburghpanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:25:21.820749Z",
-  "record": "12-3",
+  "generated_at": "2026-03-14T16:17:27.704567Z",
+  "record": "17-21",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Santa Clara",
-    "result": "W 4-3",
-    "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/santa-clara/boxscore/15057",
+    "date": "2026-03-13",
+    "opponent": "Stanford",
+    "result": "L",
+    "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
@@ -24,32 +24,50 @@
       "num": "1.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.351,
-        "ops": 0.88,
-        "ab": 57,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.339,
+        "ops": 0.843,
+        "ab": 62,
         "r": 15,
-        "h": 20,
+        "h": 21,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
-        "rbi": 12,
-        "tb": 26,
-        "slg": 0.456,
+        "rbi": 13,
+        "tb": 27,
+        "slg": 0.435,
         "bb": 8,
         "hbp": 0,
-        "so": 7,
-        "gdp": 0,
-        "obp": 0.424,
+        "so": 8,
+        "gdp": 1,
+        "obp": 0.408,
         "sf": 1,
         "sh": 0,
         "sb": 4,
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 1 RBI against Stanford. Struggled to make contact."
     },
     "b3c03bc3": {
       "id": "b3c03bc3",
@@ -61,32 +79,50 @@
       "num": "2.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.339,
-        "ops": 0.869,
-        "ab": 56,
-        "r": 14,
-        "h": 19,
-        "doubles": 1,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.361,
+        "ops": 0.96,
+        "ab": 61,
+        "r": 15,
+        "h": 22,
+        "doubles": 2,
         "triples": 0,
-        "hr": 1,
-        "rbi": 12,
-        "tb": 23,
-        "slg": 0.411,
+        "hr": 2,
+        "rbi": 14,
+        "tb": 30,
+        "slg": 0.492,
         "bb": 11,
         "hbp": 3,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.458,
+        "obp": 0.468,
         "sf": 2,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 3,
+          "rbi": 2,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 3/5 with 2 RBI against Stanford. Hit 1 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "56b786d4": {
       "id": "56b786d4",
@@ -98,32 +134,50 @@
       "num": "3.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.39,
-        "ops": 1.18,
-        "ab": 59,
-        "r": 25,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.365,
+        "ops": 1.119,
+        "ab": 63,
+        "r": 26,
         "h": 23,
         "doubles": 1,
         "triples": 3,
         "hr": 3,
         "rbi": 12,
         "tb": 39,
-        "slg": 0.661,
-        "bb": 13,
+        "slg": 0.619,
+        "bb": 14,
         "hbp": 4,
-        "so": 7,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.519,
+        "obp": 0.5,
         "sf": 1,
         "sh": 0,
         "sb": 5,
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Stanford. Struggled at the plate but saw 1 walk(s)."
     },
     "b6274f6c": {
       "id": "b6274f6c",
@@ -159,8 +213,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Santa Clara",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/santa-clara/boxscore/15057",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Santa Clara. Contributed at the plate in the team's L."
     },
     "244b099b": {
       "id": "244b099b",
@@ -172,32 +244,50 @@
       "num": "5.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 13,
-        "gs": 11,
-        "avg": 0.294,
-        "ops": 1.0,
-        "ab": 34,
+        "g": 14,
+        "gs": 12,
+        "avg": 0.316,
+        "ops": 1.009,
+        "ab": 38,
         "r": 14,
-        "h": 10,
+        "h": 12,
         "doubles": 1,
         "triples": 0,
         "hr": 2,
         "rbi": 11,
-        "tb": 17,
+        "tb": 19,
         "slg": 0.5,
-        "bb": 12,
+        "bb": 13,
         "hbp": 3,
         "so": 7,
         "gdp": 4,
-        "obp": 0.5,
+        "obp": 0.509,
         "sf": 1,
         "sh": 3,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Stanford. Had an outstanding performance at the plate (0.500)."
     },
     "cf249443": {
       "id": "cf249443",
@@ -233,8 +323,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15054",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 1 RBI against San Jose State. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
     },
     "6f139ce3": {
       "id": "6f139ce3",
@@ -270,8 +378,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15054",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 1 RBI against San Jose State. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "ca46e6c0": {
       "id": "ca46e6c0",
@@ -283,32 +409,50 @@
       "num": "8.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.205,
-        "ops": 0.724,
-        "ab": 44,
-        "r": 17,
-        "h": 9,
-        "doubles": 1,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.224,
+        "ops": 0.753,
+        "ab": 49,
+        "r": 18,
+        "h": 11,
+        "doubles": 2,
         "triples": 0,
         "hr": 1,
         "rbi": 8,
-        "tb": 13,
-        "slg": 0.295,
+        "tb": 16,
+        "slg": 0.327,
         "bb": 17,
         "hbp": 1,
-        "so": 7,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.429,
+        "obp": 0.426,
         "sf": 1,
         "sh": 0,
         "sb": 1,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/5 with 0 RBI against Stanford. Had an outstanding performance at the plate (0.400)."
     },
     "4f1070b9": {
       "id": "4f1070b9",
@@ -344,8 +488,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15054",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against San Jose State. Struggled to make contact."
     },
     "c7806623": {
       "id": "c7806623",
@@ -381,8 +543,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Santa Clara",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/santa-clara/boxscore/15057",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Santa Clara. Struggled at the plate but saw 2 walk(s)."
     },
     "915bf11e": {
       "id": "915bf11e",
@@ -394,11 +574,11 @@
       "num": "13.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.388,
-        "ops": 1.054,
-        "ab": 49,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.358,
+        "ops": 0.98,
+        "ab": 53,
         "r": 15,
         "h": 19,
         "doubles": 6,
@@ -406,20 +586,38 @@
         "hr": 1,
         "rbi": 11,
         "tb": 28,
-        "slg": 0.571,
+        "slg": 0.528,
         "bb": 9,
         "hbp": 0,
-        "so": 8,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.483,
+        "obp": 0.452,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Stanford. Struggled to make contact."
     },
     "d3e2cf42": {
       "id": "d3e2cf42",
@@ -432,26 +630,42 @@
       "school": "University of Pittsburgh",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.29,
-        "whip": 1.43,
+        "era": 3.68,
+        "whip": 1.64,
         "w": 1,
         "l": 0,
         "sv": 1,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 7.0,
-        "h": 6,
-        "r": 1,
-        "er": 1,
+        "ip": 7.1,
+        "h": 8,
+        "r": 3,
+        "er": 3,
         "bb": 4,
         "so": 6,
-        "hr": 0,
+        "hr": 1,
         "hbp": 3,
         "wp": 1,
-        "opp_avg": ".214"
+        "opp_avg": ".258"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stanford, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "a3dace7c": {
       "id": "a3dace7c",
@@ -482,8 +696,24 @@
         "wp": 0,
         "opp_avg": ".314"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15056",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 5,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Jose State, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "4ad8c736": {
       "id": "4ad8c736",
@@ -496,26 +726,42 @@
       "school": "University of Pittsburgh",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.5,
+        "era": 3.0,
+        "whip": 1.67,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 2.0,
+        "ip": 3.0,
         "h": 2,
         "r": 1,
         "er": 1,
-        "bb": 1,
-        "so": 3,
+        "bb": 3,
+        "so": 5,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".250"
+        "opp_avg": ".182"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stanford, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "83ac8ad6": {
       "id": "83ac8ad6",
@@ -546,8 +792,24 @@
         "wp": 0,
         "opp_avg": ".100"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15056",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against San Jose State, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "3f320486": {
       "id": "3f320486",
@@ -559,32 +821,50 @@
       "num": "18.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.328,
-        "ops": 1.064,
-        "ab": 58,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.323,
+        "ops": 1.03,
+        "ab": 62,
         "r": 16,
-        "h": 19,
+        "h": 20,
         "doubles": 3,
         "triples": 0,
         "hr": 5,
         "rbi": 19,
-        "tb": 37,
-        "slg": 0.638,
+        "tb": 38,
+        "slg": 0.613,
         "bb": 7,
         "hbp": 3,
-        "so": 12,
+        "so": 14,
         "gdp": 2,
-        "obp": 0.426,
+        "obp": 0.417,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Stanford. Contributed at the plate in the team's L."
     },
     "f532cda0": {
       "id": "f532cda0",
@@ -615,8 +895,24 @@
         "wp": 0,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "Bucknell",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/bucknell/boxscore/15048",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bucknell, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "f1e0f652": {
       "id": "f1e0f652",
@@ -628,32 +924,50 @@
       "num": "23.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.491,
-        "ops": 1.694,
-        "ab": 53,
-        "r": 21,
-        "h": 26,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.509,
+        "ops": 1.827,
+        "ab": 55,
+        "r": 25,
+        "h": 28,
         "doubles": 4,
         "triples": 2,
-        "hr": 8,
-        "rbi": 38,
-        "tb": 58,
-        "slg": 1.094,
-        "bb": 15,
+        "hr": 10,
+        "rbi": 42,
+        "tb": 66,
+        "slg": 1.2,
+        "bb": 18,
         "hbp": 1,
         "so": 11,
         "gdp": 2,
-        "obp": 0.6,
+        "obp": 0.627,
         "sf": 1,
         "sh": 0,
         "sb": 3,
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 2,
+          "r": 4,
+          "h": 2,
+          "rbi": 4,
+          "bb": 3,
+          "so": 0,
+          "hr": 2,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/2 with 4 RBI against Stanford. Hit 2 home run(s). Had an outstanding performance at the plate (1.000)."
     },
     "a2139e93": {
       "id": "a2139e93",
@@ -684,8 +998,24 @@
         "wp": 1,
         "opp_avg": ".281"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Santa Clara",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/santa-clara/boxscore/15057",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 3.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "ed8ca681": {
       "id": "ed8ca681",
@@ -716,8 +1046,24 @@
         "wp": 0,
         "opp_avg": ".279"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15056",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against San Jose State, throwing 5.0 innings. Struck out 4 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
     },
     "6a783c08": {
       "id": "6a783c08",
@@ -731,25 +1077,41 @@
       "season_batting": null,
       "season_pitching": {
         "era": 6.0,
-        "whip": 1.33,
+        "whip": 1.67,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 3,
+        "g": 4,
         "gs": 0,
         "ip": 3.0,
-        "h": 4,
-        "r": 2,
+        "h": 5,
+        "r": 3,
         "er": 2,
         "bb": 0,
         "so": 4,
         "hr": 0,
         "hbp": 1,
         "wp": 2,
-        "opp_avg": ".308"
+        "opp_avg": ".357"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15054",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Jose State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "51ff50ec": {
       "id": "51ff50ec",
@@ -785,8 +1147,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15054",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against San Jose State. Struggled to make contact."
     },
     "86b6b916": {
       "id": "86b6b916",
@@ -817,8 +1197,24 @@
         "wp": 1,
         "opp_avg": ".180"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Santa Clara",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/santa-clara/boxscore/15057",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 2,
+          "r": 4,
+          "er": 2,
+          "bb": 4,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 2.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "8c93b24e": {
       "id": "8c93b24e",
@@ -831,26 +1227,42 @@
       "school": "University of Pittsburgh",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.12,
-        "whip": 1.12,
+        "era": 4.26,
+        "whip": 1.14,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 19.2,
-        "h": 19,
-        "r": 9,
-        "er": 9,
-        "bb": 3,
-        "so": 19,
-        "hr": 0,
+        "g": 5,
+        "gs": 5,
+        "ip": 25.1,
+        "h": 25,
+        "r": 12,
+        "er": 12,
+        "bb": 4,
+        "so": 25,
+        "hr": 1,
         "hbp": 2,
         "wp": 3,
-        "opp_avg": ".250"
+        "opp_avg": ".253"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": null,
+        "pitching": {
+          "ip": "5.2",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 6,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stanford, throwing 5.2 innings. Struck out 6 while allowing just 6 hit(s) and 3 earned run(s) in a quality start."
     },
     "18a9dfcf": {
       "id": "18a9dfcf",
@@ -881,8 +1293,24 @@
         "wp": 0,
         "opp_avg": ".176"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15055",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 3,
+          "r": 5,
+          "er": 4,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Jose State, throwing 4.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
     },
     "5db35d37": {
       "id": "5db35d37",
@@ -894,11 +1322,11 @@
       "num": "33.0",
       "school": "University of Pittsburgh",
       "season_batting": {
-        "g": 12,
-        "gs": 10,
-        "avg": 0.314,
-        "ops": 1.061,
-        "ab": 35,
+        "g": 13,
+        "gs": 11,
+        "avg": 0.282,
+        "ops": 0.96,
+        "ab": 39,
         "r": 9,
         "h": 11,
         "doubles": 2,
@@ -906,20 +1334,38 @@
         "hr": 3,
         "rbi": 15,
         "tb": 22,
-        "slg": 0.629,
+        "slg": 0.564,
         "bb": 8,
         "hbp": 0,
         "so": 8,
         "gdp": 1,
-        "obp": 0.432,
+        "obp": 0.396,
         "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Stanford. Struggled to make contact."
     },
     "24956de1": {
       "id": "24956de1",
@@ -955,8 +1401,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15054",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against San Jose State. Struggled to make contact."
     },
     "2bbc1492": {
       "id": "2bbc1492",
@@ -987,8 +1451,24 @@
         "wp": 0,
         "opp_avg": ".100"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15054",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Jose State, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "7e24b886": {
       "id": "7e24b886",
@@ -1019,8 +1499,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "UNCG",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/uncg/boxscore/15051",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UNCG, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "6e90b1b0": {
       "id": "6e90b1b0",
@@ -1033,26 +1529,42 @@
       "school": "University of Pittsburgh",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.6,
-        "whip": 0.9,
+        "era": 5.73,
+        "whip": 1.09,
         "w": 2,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 10.0,
-        "h": 7,
-        "r": 4,
-        "er": 4,
-        "bb": 2,
-        "so": 9,
+        "ip": 11.0,
+        "h": 8,
+        "r": 7,
+        "er": 7,
+        "bb": 4,
+        "so": 10,
         "hr": 0,
         "hbp": 1,
         "wp": 3,
-        "opp_avg": ".200"
+        "opp_avg": ".205"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stanford",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/stanford/boxscore/15058",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stanford, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "79323301": {
       "id": "79323301",
@@ -1083,8 +1595,24 @@
         "wp": 0,
         "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Santa Clara",
+        "result": "L",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/santa-clara/boxscore/15057",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 2.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "ae23c8d1": {
       "id": "ae23c8d1",
@@ -1120,8 +1648,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "San Jose State",
+        "result": "W",
+        "boxscore_url": "https://www.pittsburghpanthers.com/sports/baseball/stats/2026/san-jose-state/boxscore/15056",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against San Jose State. Struggled to make contact."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

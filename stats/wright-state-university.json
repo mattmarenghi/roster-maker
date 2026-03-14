@@ -2,12 +2,12 @@
   "school": "Wright State University",
   "base_url": "https://www.wsuraiders.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:36:20.173076Z",
+  "generated_at": "2026-03-14T16:37:00.384541Z",
   "record": "5-9",
   "most_recent_game": {
     "date": "2026-03-10",
     "opponent": "Indiana",
-    "result": "W 12-4",
+    "result": "L",
     "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
     "recap_url": "https://www.wsuraiders.com/news/2026/3/10/baseball-raiders-club-three-homers-in-loss-at-indiana-tuesday",
     "recap_headline": "Wright State University",
@@ -48,8 +48,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against Indiana. Had an outstanding performance at the plate (1.000)."
     },
     "10b57d70": {
       "id": "10b57d70",
@@ -85,8 +103,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 1 RBI against Indiana. Hit 1 home run(s). Struggled to make contact."
     },
     "4047b74c": {
       "id": "4047b74c",
@@ -122,8 +158,26 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against Indiana. Struggled to make contact."
     },
     "2757dbf3": {
       "id": "2757dbf3",
@@ -159,8 +213,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Indiana. Struggled at the plate but saw 1 walk(s)."
     },
     "490d1b39": {
       "id": "490d1b39",
@@ -196,8 +268,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Indiana. Struggled to make contact."
     },
     "ad5ae005": {
       "id": "ad5ae005",
@@ -233,8 +323,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Indiana. Struggled at the plate but saw 1 walk(s)."
     },
     "6496f851": {
       "id": "6496f851",
@@ -270,8 +378,26 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 1 RBI against Indiana. Had an outstanding performance at the plate (0.500)."
     },
     "6f7c8828": {
       "id": "6f7c8828",
@@ -302,8 +428,24 @@
         "wp": 2,
         "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Indiana, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "f41af0b0": {
       "id": "f41af0b0",
@@ -339,8 +481,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against Indiana. Hit 1 home run(s). Contributed at the plate in the team's L."
     },
     "c2f32e3a": {
       "id": "c2f32e3a",
@@ -376,8 +536,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against Indiana. Had an outstanding performance at the plate (1.000)."
     },
     "6285b36b": {
       "id": "6285b36b",
@@ -413,8 +591,26 @@
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Indiana. Contributed at the plate in the team's L."
     },
     "3d491a39": {
       "id": "3d491a39",
@@ -445,8 +641,24 @@
         "wp": 0,
         "opp_avg": ".229"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Tennessee",
+        "result": "W",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/tennessee/boxscore/10414",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 5,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee, throwing 7.0 innings. Struck out 4 while allowing just 5 hit(s) and 0 earned run(s) in a quality start."
     },
     "9fc76d5f": {
       "id": "9fc76d5f",
@@ -477,8 +689,24 @@
         "wp": 1,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Tennessee",
+        "result": "W",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/tennessee/boxscore/10414",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "b72d22f4": {
       "id": "b72d22f4",
@@ -509,8 +737,24 @@
         "wp": 1,
         "opp_avg": ".295"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Campbell",
+        "result": "W",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/campbell/boxscore/10410",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 7,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Campbell, throwing 4.0 innings. Allowed 0 earned run(s) with 7 strikeout(s)."
     },
     "7fe38c40": {
       "id": "7fe38c40",
@@ -541,8 +785,24 @@
         "wp": 1,
         "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Indiana, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "ec3fe0c2": {
       "id": "ec3fe0c2",
@@ -596,8 +856,26 @@
         "wp": 0,
         "opp_avg": ".280"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Indiana. Contributed at the plate in the team's L."
     },
     "c266b219": {
       "id": "c266b219",
@@ -628,8 +906,24 @@
         "wp": 0,
         "opp_avg": ".667"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Charlotte",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/charlotte/boxscore/10404",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Charlotte, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "70bfd5ba": {
       "id": "70bfd5ba",
@@ -665,8 +959,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Tennessee",
+        "result": "W",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/tennessee/boxscore/10414",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 2 RBI against Tennessee. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "d721b2cf": {
       "id": "d721b2cf",
@@ -697,8 +1009,24 @@
         "wp": 0,
         "opp_avg": ".364"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Indiana, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "045c92f3": {
       "id": "045c92f3",
@@ -729,8 +1057,24 @@
         "wp": 0,
         "opp_avg": ".625"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Charlotte",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/charlotte/boxscore/10404",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 3,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Charlotte, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "d89790ba": {
       "id": "d89790ba",
@@ -766,8 +1110,26 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against Indiana. Hit 1 home run(s). Contributed at the plate in the team's L."
     },
     "7f124b85": {
       "id": "7f124b85",
@@ -798,8 +1160,24 @@
         "wp": 0,
         "opp_avg": ".179"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/tennessee/boxscore/10412",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee, throwing 1.2 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "8e93f92a": {
       "id": "8e93f92a",
@@ -853,8 +1231,35 @@
         "wp": 1,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Went 0/4 with 0 RBI against Indiana. Struggled to make contact."
     },
     "dffa0050": {
       "id": "dffa0050",
@@ -885,8 +1290,24 @@
         "wp": 1,
         "opp_avg": ".270"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/tennessee/boxscore/10413",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 6,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee, throwing 4.0 innings. Allowed 5 earned run(s) with 3 strikeout(s)."
     },
     "ef6123c4": {
       "id": "ef6123c4",
@@ -917,8 +1338,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Charlotte",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/charlotte/boxscore/10404",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Charlotte, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "29b31c3c": {
       "id": "29b31c3c",
@@ -949,8 +1386,24 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Indiana, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "69ecc841": {
       "id": "69ecc841",
@@ -981,8 +1434,24 @@
         "wp": 3,
         "opp_avg": ".267"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Indiana, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "12122d6e": {
       "id": "12122d6e",
@@ -1013,8 +1482,24 @@
         "wp": 0,
         "opp_avg": ".241"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/tennessee/boxscore/10412",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee, throwing 4.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "7148eef3": {
       "id": "7148eef3",
@@ -1045,8 +1530,24 @@
         "wp": 0,
         "opp_avg": ".208"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Indiana, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "1c24c286": {
       "id": "1c24c286",
@@ -1100,8 +1601,24 @@
         "wp": 0,
         "opp_avg": ".280"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/tennessee/boxscore/10413",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "2d6e49d7": {
       "id": "2d6e49d7",
@@ -1132,8 +1649,24 @@
         "wp": 1,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Indiana",
+        "result": "L",
+        "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/indiana/boxscore/10415",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Indiana, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

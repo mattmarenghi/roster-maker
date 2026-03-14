@@ -2,16 +2,16 @@
   "school": "College of Charleston (South Carolina)",
   "base_url": "https://www.cofcsports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:31:18.481561Z",
-  "record": "17-26",
+  "generated_at": "2026-03-14T14:37:37.311879Z",
+  "record": "19-28",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Wofford",
-    "result": "W 13-9",
-    "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/wofford/boxscore/12698",
-    "recap_url": "https://www.cofcsports.com/news/2026/3/11/baseball-cofc-outlasted-in-slugfest",
+    "date": "2026-03-13",
+    "opponent": "Stony Brook",
+    "result": "L",
+    "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+    "recap_url": "https://www.cofcsports.com/news/2026/3/13/baseball-charleston-drops-opener",
     "recap_headline": "College of Charleston",
-    "recap_text": "SPARTANBURG, S.C. \u2013\nCollege of Charleston baseball lost to Wofford, 13-9, Wednesday evening at Russell C. King Field.\nDown 7-0, Charleston fought back, eventually leveling the contest at nine before surrendering four runs in the seventh.\nCRITICAL POINTS AGAINST WOFFORD:\nWofford came out swinging and paired with Charleston defensive miscues, held a 7-0 advantage after two.\nCofC's comeback efforts began in the third, scoring five in the frame backed behind sophomore\nAlex LaCoste's\ngrand slam.\nDown 9-6, redshirt junior\nBraeden Smith's\ntwo-run shot in the fifth put the Cougars within one.\nLaCoste came up clutch again the very next inning, singling up the middle to plate sophomore\nLandon Penfield\n.\nWofford regained the lead for good in the seventh, scoring four runs to break the tie.\nLaCoste went 2-for-4 in the game with a walk and career-best five RBI.\nPenfield and graduate\nReece Holbrook\nalso collected multi-hit efforts in the loss.\nOF NOTE:\nCharleston is now 41-13 against Wofford and 19-7 as the road team.\nCofC has slugged multiple home runs for the second straight game and third time this year.\nLaCoste hit the 66th grand slam in program history, becoming the 51st player to do so.\nThe Cougars have hit multiple grand slams in the same season 14 times.\nFreshman\nAustin Wiegandt\nappeared in his second ballgame on the mound, striking out a pair in a scoreless eighth.\nUP NEXT:\nCharleston hosts Stony Brook for a three-game conference series March 13-15 at Patriots Point. First pitch in the opener is set for 6 p.m.\nFor complete coverage of Charleston baseball, follow us X (@CofCBaseball) and Instagram (@CofC_Baseball)."
+    "recap_text": "MT PLEASANT, S.C. \u2013\nCollege of Charleston baseball lost the series opener Friday evening to Stony Brook, 3-1, at Patriots Point.\nWith the loss, the Cougars slip to 7-10 overall and 2-2 in the CAA while Stony Brook improves to 3-12 and 2-2 in league play.\nCRITICAL POINTS AGAINST STONY BROOK:\nStony Brook jumped out to an early 1-0 lead in the first before tacking on a pair of insurance markers in the sixth.\nCharleston chipped into the lead in the home half of the sixth when\nDylan Johnson\nbrought home freshman\nJake Amman\nwith a sacrifice fly.\nFreshman\nCarter Harrington\ntossed five innings in the loss, yielding an unearned run on five hits and two walks while striking out three.\nRedshirt sophomore\nRyan Hench\ntossed two scoreless frames out of the Cougar bullpen, fanning two Seawolves.\nOF NOTE:\nCharleston is now 8-2 against Stony Brook in the all-time series.\nAmman had his fourth multi-hit game of the year with two knocks Friday.\nHench appeared in his team-best ninth ballgame out of the bullpen, lowering his ERA to 0.87 in the process.\nUP NEXT:\nCharleston faces Stony Brook in the second game of the series Saturday with a 2 p.m. first pitch at Patriots Point.\nFor complete coverage of Charleston baseball, follow us X (@CofCBaseball) and Instagram (@CofC_Baseball)."
   },
   "players": {
     "6cefc018": {
@@ -24,11 +24,11 @@
       "num": "2.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.278,
-        "ops": 0.733,
-        "ab": 54,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.263,
+        "ops": 0.698,
+        "ab": 57,
         "r": 11,
         "h": 15,
         "doubles": 3,
@@ -36,20 +36,38 @@
         "hr": 0,
         "rbi": 1,
         "tb": 18,
-        "slg": 0.333,
+        "slg": 0.316,
         "bb": 9,
         "hbp": 2,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.382,
         "sf": 0,
         "sh": 0,
         "sb": 7,
         "sb_att": 9
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Stony Brook. Struggled to make contact."
     },
     "27a5f482": {
       "id": "27a5f482",
@@ -61,32 +79,50 @@
       "num": "3.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 14,
-        "gs": 11,
-        "avg": 0.319,
-        "ops": 0.836,
-        "ab": 47,
-        "r": 8,
-        "h": 15,
+        "g": 15,
+        "gs": 12,
+        "avg": 0.333,
+        "ops": 0.848,
+        "ab": 51,
+        "r": 9,
+        "h": 17,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
         "rbi": 8,
-        "tb": 21,
-        "slg": 0.447,
+        "tb": 23,
+        "slg": 0.451,
         "bb": 5,
         "hbp": 1,
-        "so": 16,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.389,
+        "obp": 0.397,
         "sf": 1,
         "sh": 0,
-        "sb": 3,
-        "sb_att": 4
+        "sb": 4,
+        "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Stony Brook. Had an outstanding performance at the plate (0.500)."
     },
     "e3fe61e8": {
       "id": "e3fe61e8",
@@ -98,11 +134,11 @@
       "num": "4.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.217,
-        "ops": 0.533,
-        "ab": 46,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.2,
+        "ops": 0.493,
+        "ab": 50,
         "r": 4,
         "h": 10,
         "doubles": 1,
@@ -110,20 +146,38 @@
         "hr": 0,
         "rbi": 4,
         "tb": 11,
-        "slg": 0.239,
+        "slg": 0.22,
         "bb": 5,
         "hbp": 0,
-        "so": 12,
+        "so": 14,
         "gdp": 2,
-        "obp": 0.294,
+        "obp": 0.273,
         "sf": 0,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Stony Brook. Struggled to make contact."
     },
     "b2bc573f": {
       "id": "b2bc573f",
@@ -159,8 +213,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Hofstra",
+        "result": "W",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/hofstra/boxscore/12697",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Hofstra. Had an outstanding performance at the plate (0.500)."
     },
     "985cfd06": {
       "id": "985cfd06",
@@ -196,8 +268,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/south-alabama/boxscore/12689",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against South Alabama. Had an outstanding performance at the plate (1.000)."
     },
     "d78f3706": {
       "id": "d78f3706",
@@ -233,8 +323,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Hofstra",
+        "result": "W",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/hofstra/boxscore/12695",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Hofstra. Contributed at the plate in the team's W."
     },
     "fb684c32": {
       "id": "fb684c32",
@@ -270,8 +378,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Hofstra",
+        "result": "W",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/hofstra/boxscore/12697",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Hofstra. Struggled to make contact."
     },
     "d37da53b": {
       "id": "d37da53b",
@@ -283,32 +409,50 @@
       "num": "9.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.304,
-        "ops": 0.909,
-        "ab": 56,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.305,
+        "ops": 0.892,
+        "ab": 59,
         "r": 9,
-        "h": 17,
+        "h": 18,
         "doubles": 6,
         "triples": 1,
         "hr": 1,
-        "rbi": 8,
-        "tb": 28,
-        "slg": 0.5,
+        "rbi": 9,
+        "tb": 29,
+        "slg": 0.492,
         "bb": 7,
         "hbp": 3,
         "so": 9,
         "gdp": 0,
-        "obp": 0.409,
-        "sf": 0,
+        "obp": 0.4,
+        "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against Stony Brook. Contributed at the plate in the team's L."
     },
     "78cf43ac": {
       "id": "78cf43ac",
@@ -339,8 +483,24 @@
         "wp": 0,
         "opp_avg": ".362"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/wofford/boxscore/12698",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 5,
+          "r": 6,
+          "er": 4,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "39787c38": {
       "id": "39787c38",
@@ -371,8 +531,24 @@
         "wp": 0,
         "opp_avg": ".318"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/wofford/boxscore/12698",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 3,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 1.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "eba9fe14": {
       "id": "eba9fe14",
@@ -403,8 +579,24 @@
         "wp": 0,
         "opp_avg": ".206"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/wofford/boxscore/12698",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 3.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "db1a7b09": {
       "id": "db1a7b09",
@@ -435,8 +627,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "vs East Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/east-carolina/boxscore/12693",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 3,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against vs East Carolina, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "63491f66": {
       "id": "63491f66",
@@ -448,11 +656,11 @@
       "num": "14.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 6,
-        "gs": 4,
-        "avg": 0.231,
-        "ops": 0.948,
-        "ab": 13,
+        "g": 7,
+        "gs": 5,
+        "avg": 0.188,
+        "ops": 0.778,
+        "ab": 16,
         "r": 3,
         "h": 3,
         "doubles": 2,
@@ -460,12 +668,12 @@
         "hr": 1,
         "rbi": 1,
         "tb": 8,
-        "slg": 0.615,
+        "slg": 0.5,
         "bb": 2,
         "hbp": 0,
-        "so": 5,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.278,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -490,8 +698,26 @@
         "wp": 0,
         "opp_avg": ".263"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Stony Brook. Struggled to make contact."
     },
     "234d920f": {
       "id": "234d920f",
@@ -503,32 +729,50 @@
       "num": "15.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.263,
-        "ops": 0.701,
-        "ab": 57,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.262,
+        "ops": 0.689,
+        "ab": 61,
         "r": 9,
-        "h": 15,
+        "h": 16,
         "doubles": 2,
         "triples": 1,
         "hr": 0,
         "rbi": 8,
-        "tb": 19,
-        "slg": 0.333,
+        "tb": 20,
+        "slg": 0.328,
         "bb": 6,
         "hbp": 4,
-        "so": 14,
+        "so": 15,
         "gdp": 1,
-        "obp": 0.368,
+        "obp": 0.361,
         "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Stony Brook. Contributed at the plate in the team's L."
     },
     "a5b7ba01": {
       "id": "a5b7ba01",
@@ -540,11 +784,11 @@
       "num": "16.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.257,
-        "ops": 0.835,
-        "ab": 35,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.237,
+        "ops": 0.788,
+        "ab": 38,
         "r": 5,
         "h": 9,
         "doubles": 2,
@@ -552,20 +796,38 @@
         "hr": 1,
         "rbi": 3,
         "tb": 14,
-        "slg": 0.4,
-        "bb": 10,
+        "slg": 0.368,
+        "bb": 11,
         "hbp": 1,
-        "so": 12,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.435,
+        "obp": 0.42,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Stony Brook. Struggled at the plate but saw 1 walk(s)."
     },
     "545074f6": {
       "id": "545074f6",
@@ -596,8 +858,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Hofstra",
+        "result": "W",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/hofstra/boxscore/12697",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 4,
+          "r": 2,
+          "er": 1,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Hofstra, throwing 3.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     },
     "003f9e95": {
       "id": "003f9e95",
@@ -628,8 +906,24 @@
         "wp": 0,
         "opp_avg": ".583"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Hofstra",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/hofstra/boxscore/12696",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Hofstra, throwing 1.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "9be552e4": {
       "id": "9be552e4",
@@ -660,8 +954,24 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/wofford/boxscore/12698",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Wofford, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "810d79e7": {
       "id": "810d79e7",
@@ -692,8 +1002,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/south-alabama/boxscore/12689",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Alabama, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "1cdf2e68": {
       "id": "1cdf2e68",
@@ -706,26 +1032,42 @@
       "school": "College of Charleston (South Carolina)",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.32,
-        "whip": 1.34,
+        "era": 7.02,
+        "whip": 1.5,
         "w": 2,
         "l": 1,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 15.2,
-        "h": 15,
-        "r": 11,
-        "er": 11,
-        "bb": 6,
-        "so": 8,
+        "ip": 16.2,
+        "h": 18,
+        "r": 13,
+        "er": 13,
+        "bb": 7,
+        "so": 10,
         "hr": 1,
         "hbp": 2,
         "wp": 1,
-        "opp_avg": ".268"
+        "opp_avg": ".290"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stony Brook, throwing 1.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "e58cdf5b": {
       "id": "e58cdf5b",
@@ -756,8 +1098,24 @@
         "wp": 1,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Hofstra",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/hofstra/boxscore/12696",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 8,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Hofstra, throwing 3.1 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "5e0cbac2": {
       "id": "5e0cbac2",
@@ -770,26 +1128,42 @@
       "school": "College of Charleston (South Carolina)",
       "season_batting": null,
       "season_pitching": {
-        "era": 12.79,
-        "whip": 2.05,
+        "era": 11.05,
+        "whip": 1.77,
         "w": 1,
         "l": 1,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 6.1,
+        "ip": 7.1,
         "h": 11,
         "r": 9,
         "er": 9,
         "bb": 2,
-        "so": 6,
+        "so": 8,
         "hr": 0,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".367"
+        "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stony Brook, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "3fd079e3": {
       "id": "3fd079e3",
@@ -802,26 +1176,42 @@
       "school": "College of Charleston (South Carolina)",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.08,
-        "whip": 0.96,
+        "era": 0.87,
+        "whip": 1.06,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 8,
+        "g": 9,
         "gs": 0,
-        "ip": 8.1,
+        "ip": 10.1,
         "h": 5,
         "r": 1,
         "er": 1,
-        "bb": 3,
-        "so": 8,
+        "bb": 6,
+        "so": 10,
         "hr": 1,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".172"
+        "opp_avg": ".147"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stony Brook, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "f772fc95": {
       "id": "f772fc95",
@@ -852,8 +1242,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-15",
+        "opponent": "Rutgers",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/rutgers/boxscore/12687",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rutgers, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "f796d18f": {
       "id": "f796d18f",
@@ -889,8 +1295,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Wofford",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/wofford/boxscore/12698",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 2 RBI against Wofford. Hit 1 home run(s). Struggled to make contact."
     },
     "d0eb9f60": {
       "id": "d0eb9f60",
@@ -921,8 +1345,24 @@
         "wp": 1,
         "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/south-alabama/boxscore/12689",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Alabama, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "6bc50026": {
       "id": "6bc50026",
@@ -935,26 +1375,42 @@
       "school": "College of Charleston (South Carolina)",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.88,
-        "whip": 1.47,
+        "era": 1.4,
+        "whip": 1.45,
         "w": 1,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 3,
-        "ip": 14.1,
-        "h": 14,
-        "r": 6,
+        "g": 5,
+        "gs": 4,
+        "ip": 19.1,
+        "h": 19,
+        "r": 7,
         "er": 3,
-        "bb": 7,
-        "so": 16,
+        "bb": 9,
+        "so": 19,
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".255"
+        "opp_avg": ".257"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 5,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Stony Brook, throwing 5.0 innings. Struck out 3 while allowing just 5 hit(s) and 0 earned run(s) in a quality start."
     },
     "f56286c7": {
       "id": "f56286c7",
@@ -966,32 +1422,50 @@
       "num": "33.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 8,
-        "gs": 4,
-        "avg": 0.2,
-        "ops": 1.0,
-        "ab": 15,
+        "g": 9,
+        "gs": 5,
+        "avg": 0.211,
+        "ops": 0.901,
+        "ab": 19,
         "r": 3,
-        "h": 3,
+        "h": 4,
         "doubles": 0,
         "triples": 0,
         "hr": 2,
         "rbi": 7,
-        "tb": 9,
-        "slg": 0.6,
+        "tb": 10,
+        "slg": 0.526,
         "bb": 4,
         "hbp": 1,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.375,
         "sf": 0,
         "sh": 0,
-        "sb": 0,
-        "sb_att": 0
+        "sb": 1,
+        "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Stony Brook. Contributed at the plate in the team's L."
     },
     "11e52bf4": {
       "id": "11e52bf4",
@@ -1003,11 +1477,11 @@
       "num": "36.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 6,
-        "gs": 4,
-        "avg": 0.231,
-        "ops": 0.948,
-        "ab": 13,
+        "g": 7,
+        "gs": 5,
+        "avg": 0.188,
+        "ops": 0.778,
+        "ab": 16,
         "r": 3,
         "h": 3,
         "doubles": 2,
@@ -1015,12 +1489,12 @@
         "hr": 1,
         "rbi": 1,
         "tb": 8,
-        "slg": 0.615,
+        "slg": 0.5,
         "bb": 2,
         "hbp": 0,
-        "so": 5,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.278,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1045,8 +1519,24 @@
         "wp": 0,
         "opp_avg": ".263"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Hofstra",
+        "result": "W",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/hofstra/boxscore/12697",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Hofstra, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "f7deab41": {
       "id": "f7deab41",
@@ -1058,11 +1548,11 @@
       "num": "37.0",
       "school": "College of Charleston (South Carolina)",
       "season_batting": {
-        "g": 5,
-        "gs": 4,
-        "avg": 0.176,
-        "ops": 0.352,
-        "ab": 17,
+        "g": 6,
+        "gs": 5,
+        "avg": 0.15,
+        "ops": 0.3,
+        "ab": 20,
         "r": 1,
         "h": 3,
         "doubles": 0,
@@ -1070,20 +1560,38 @@
         "hr": 0,
         "rbi": 1,
         "tb": 3,
-        "slg": 0.176,
+        "slg": 0.15,
         "bb": 0,
         "hbp": 0,
-        "so": 3,
+        "so": 4,
         "gdp": 0,
-        "obp": 0.176,
+        "obp": 0.15,
         "sf": 0,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Stony Brook",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12699",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Stony Brook. Struggled to make contact."
     },
     "a0ea72c4": {
       "id": "a0ea72c4",
@@ -1114,8 +1622,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "Presbyterian",
+        "result": "W",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/presbyterian/boxscore/12694",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Presbyterian, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "777bcfe6": {
       "id": "777bcfe6",
@@ -1146,8 +1670,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/south-alabama/boxscore/12689",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Alabama, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "c9babfc9": {
       "id": "c9babfc9",
@@ -1178,8 +1718,24 @@
         "wp": 0,
         "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "vs East Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/east-carolina/boxscore/12693",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against vs East Carolina, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "74a6a59e": {
       "id": "74a6a59e",
@@ -1210,8 +1766,24 @@
         "wp": 0,
         "opp_avg": ".438"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/south-alabama/boxscore/12689",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against South Alabama, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

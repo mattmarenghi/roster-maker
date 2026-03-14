@@ -2,16 +2,16 @@
   "school": "Rice University",
   "base_url": "https://www.riceowls.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:00:08.858473Z",
-  "record": "9-8",
+  "generated_at": "2026-03-14T15:26:00.082343Z",
+  "record": "11-8",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Houston",
-    "result": "W 13-1",
-    "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/houston/boxscore/28746",
-    "recap_url": "https://www.riceowls.com/news/2026/3/10/baseball-owls-fall-in-silver-glove-opener",
+    "date": "2026-03-13",
+    "opponent": "Saint Mary's",
+    "result": "W",
+    "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+    "recap_url": "https://www.riceowls.com/news/2026/3/13/baseball-owls-walk-off-saint-marys-to-open-arizona-slate",
     "recap_headline": "Rice University Athletics",
-    "recap_text": "Houston-\nHouston jumped on Rice early and rolled to a 13-1 win in the opening game of the 2026 Silver Glove Series at Schroeder Park on Tuesday night.\nHow it Happened:\nThe Cougars took an early lead with a two-run homer in the bottom of the first and went on to add runs in the third, fourth, and fifth before ending the game in the eighth with five. \u00a0\u00a0In the top of the eighth, the Owls cashed in on their best scoring chance.\nKutter-Gage Webb\nwalked, then moved to third on\nMason Ashlock's\nblistering double down the left field line. Landis Davilla then brought Webb in with a groundout to break the shutout.\nNext Up:\nRice heads west this weekend for a four-game weekend set of games featuring two against both Saint Mary's and Grand Canyon.\u00a0 The action opens with a doubleheader on Friday, facing Saint Mary's at 3 p.m. (central) and Grand Canyon at 8 p.m.\nNotes\nRice fell to 9-8 on the season, 3-5 on the road, and 0-3 on Tuesdays.\nThe Owls run in the eighth inning allowed them to avoid the first shutout in the Silver Glove Series since a 1-0 Cougar win in 2018.\nColin Robson\nled off the game with an infield single, and is hitting .363 this season leading off a game.\nAshlock has hit in five of his last six (.313, 5x16).\nReliever\nCarson Kuhn\nstruck out three in the seventh and has struck out seven this season in three innings.\n."
+    "recap_text": "Phoenix, AZ-\nGaret Boehm's\none-out single in the bottom of the ninth capped a furious late rally by Rice and gave the Owls a 6-5 win over Saint Mary's in Phoenix, Arizona, on Friday afternoon.\nHow it Happened:\nFirst-time starter\nTanner Wiggins\nheld the potent Gaels offense off the scoreboard despite seven hits in the first four innings but gave up solo runs in the fifth and sixth. At the same time, SMC starter John Damozonio held Rice hitless until Hiram Bocachica's two-out double in the bottom of the fifth. The Owls finally solved Damozonio in the sixth, packaging three straight hits to tie the game 2-2 on\nMason Ashlock's\ntwo-run double.\u00a0 Saint Mary's exploded for three runs in the top of the eighth but Rice had an immediate answer in its half of the inning.\nPaul Smith\nled off with a walk, and Boehm followed with a single. One out later,\nKutter-Gage Webb\nbrought in Smith with a single, and Boehm scored, and Webb moved to third on a sacrifice fly by\nLorenzo Rios\n. Freshman\nMasa Chilcutt\ntied the game with a single on a 3-1 pitch.\nJax Traeger\nset the stage for a walkoff in the ninth by retiring SMC in order for the first time in the game. Pinch hitter\nLandon West\nopened with a walk and was replaced by Daigre who moved to second on a sac bunt by\nCole Green\n.\u00a0 Smith was intentionally walked to set up a double play, but Boehm wasted no time for any further drama, lining the first pitch he saw into left center for the game-winner.\nNext Up:\nRice will be back in action Brazell Field at 8 p.m., facing \u00a0Grand Canyon.\nNotes\nRice improved to 10-8 on the season, 4-5 on the road, and 5-1 on Fridays, 4-1 in series openers, and 4-1 at Brazell Field.\nRice reached double figures in 18 games, the earliest in a season it has done so since the Owls were 10-8 in 2021.\nWiggins worked 6.1 innings in his first career start, the longest by an Owl this year in a series-opener.\nAshlock has hit in six of his last seven (.300, 6x20)."
   },
   "players": {
     "981879d0": {
@@ -24,32 +24,50 @@
       "num": "1.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 8,
-        "gs": 6,
-        "avg": 0.133,
-        "ops": 0.55,
-        "ab": 15,
+        "g": 10,
+        "gs": 8,
+        "avg": 0.174,
+        "ops": 0.611,
+        "ab": 23,
         "r": 5,
-        "h": 2,
-        "doubles": 0,
+        "h": 4,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 1,
-        "tb": 2,
-        "slg": 0.133,
+        "rbi": 2,
+        "tb": 5,
+        "slg": 0.217,
         "bb": 7,
-        "hbp": 1,
-        "so": 2,
+        "hbp": 2,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.417,
+        "obp": 0.394,
         "sf": 1,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against Saint Mary's. Contributed at the plate in the team's W."
     },
     "078865b1": {
       "id": "078865b1",
@@ -61,32 +79,50 @@
       "num": "2.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.344,
-        "ops": 0.883,
-        "ab": 61,
-        "r": 10,
-        "h": 21,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.328,
+        "ops": 0.862,
+        "ab": 67,
+        "r": 13,
+        "h": 22,
         "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 7,
-        "tb": 31,
-        "slg": 0.508,
-        "bb": 1,
+        "tb": 32,
+        "slg": 0.478,
+        "bb": 4,
         "hbp": 2,
-        "so": 12,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.375,
+        "obp": 0.384,
         "sf": 0,
-        "sh": 2,
-        "sb": 4,
-        "sb_att": 4
+        "sh": 3,
+        "sb": 5,
+        "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Saint Mary's. Struggled at the plate but saw 1 walk(s)."
     },
     "5ba72852": {
       "id": "5ba72852",
@@ -122,8 +158,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Abilene Christian",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28743",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Abilene Christian. Struggled to make contact."
     },
     "e8f7ea78": {
       "id": "e8f7ea78",
@@ -135,12 +189,12 @@
       "num": "4.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 13,
+        "g": 15,
         "gs": 4,
         "avg": 0.083,
         "ops": 0.297,
         "ab": 12,
-        "r": 3,
+        "r": 4,
         "h": 1,
         "doubles": 0,
         "triples": 0,
@@ -159,8 +213,26 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Abilene Christian",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28744",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 1 RBI against Abilene Christian. Struggled to make contact."
     },
     "e78d4a39": {
       "id": "e78d4a39",
@@ -172,32 +244,50 @@
       "num": "5.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 15,
+        "g": 16,
         "gs": 6,
-        "avg": 0.158,
-        "ops": 0.431,
-        "ab": 19,
-        "r": 1,
-        "h": 3,
+        "avg": 0.2,
+        "ops": 0.504,
+        "ab": 20,
+        "r": 2,
+        "h": 4,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 2,
-        "tb": 3,
-        "slg": 0.158,
+        "tb": 4,
+        "slg": 0.2,
         "bb": 1,
         "hbp": 2,
         "so": 6,
         "gdp": 0,
-        "obp": 0.273,
+        "obp": 0.304,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Grand Canyon",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/grand-canyon/boxscore/28748",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against Grand Canyon. Had an outstanding performance at the plate (1.000)."
     },
     "c599222a": {
       "id": "c599222a",
@@ -233,8 +323,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-24",
+        "opponent": "Houston Christian",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/houston-christian/boxscore/28739",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against Houston Christian. Contributed at the plate in the team's L."
     },
     "29b81fab": {
       "id": "29b81fab",
@@ -246,32 +354,50 @@
       "num": "8.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.2,
-        "ops": 0.603,
-        "ab": 50,
-        "r": 6,
-        "h": 10,
-        "doubles": 1,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.281,
+        "ops": 0.771,
+        "ab": 57,
+        "r": 8,
+        "h": 16,
+        "doubles": 2,
         "triples": 0,
         "hr": 1,
-        "rbi": 8,
-        "tb": 14,
-        "slg": 0.28,
-        "bb": 5,
+        "rbi": 14,
+        "tb": 21,
+        "slg": 0.368,
+        "bb": 8,
         "hbp": 5,
         "so": 16,
         "gdp": 1,
-        "obp": 0.323,
+        "obp": 0.403,
         "sf": 2,
         "sh": 2,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 1 RBI against Saint Mary's. Had an outstanding performance at the plate (0.667)."
     },
     "203c8fc0": {
       "id": "203c8fc0",
@@ -307,8 +433,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/harvard/boxscore/28741",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Harvard. Struggled to make contact."
     },
     "2f630f6e": {
       "id": "2f630f6e",
@@ -320,32 +464,50 @@
       "num": "10.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 16,
-        "gs": 14,
-        "avg": 0.275,
-        "ops": 0.922,
-        "ab": 51,
-        "r": 14,
-        "h": 14,
-        "doubles": 1,
+        "g": 18,
+        "gs": 16,
+        "avg": 0.305,
+        "ops": 0.99,
+        "ab": 59,
+        "r": 17,
+        "h": 18,
+        "doubles": 4,
         "triples": 0,
         "hr": 4,
         "rbi": 7,
-        "tb": 27,
-        "slg": 0.529,
+        "tb": 34,
+        "slg": 0.576,
         "bb": 9,
-        "hbp": 1,
-        "so": 14,
+        "hbp": 2,
+        "so": 16,
         "gdp": 2,
-        "obp": 0.393,
+        "obp": 0.414,
         "sf": 0,
         "sh": 1,
         "sb": 1,
-        "sb_att": 3
+        "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Saint Mary's. Contributed at the plate in the team's W."
     },
     "d1f304f9": {
       "id": "d1f304f9",
@@ -357,32 +519,50 @@
       "num": "12.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 9,
-        "gs": 9,
-        "avg": 0.292,
-        "ops": 0.808,
-        "ab": 24,
+        "g": 11,
+        "gs": 10,
+        "avg": 0.25,
+        "ops": 0.692,
+        "ab": 28,
         "r": 1,
         "h": 7,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
-        "rbi": 0,
+        "rbi": 1,
         "tb": 9,
-        "slg": 0.375,
+        "slg": 0.321,
         "bb": 2,
         "hbp": 4,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.433,
-        "sf": 0,
+        "obp": 0.371,
+        "sf": 1,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 1 RBI against Saint Mary's. Struggled to make contact."
     },
     "dc8d6b10": {
       "id": "dc8d6b10",
@@ -394,11 +574,11 @@
       "num": "13.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 3,
-        "gs": 0,
+        "g": 4,
+        "gs": 1,
         "avg": 0.0,
         "ops": 0.0,
-        "ab": 1,
+        "ab": 4,
         "r": 1,
         "h": 0,
         "doubles": 0,
@@ -409,7 +589,7 @@
         "slg": 0.0,
         "bb": 0,
         "hbp": 0,
-        "so": 1,
+        "so": 4,
         "gdp": 0,
         "obp": 0.0,
         "sf": 0,
@@ -418,8 +598,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Grand Canyon",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/grand-canyon/boxscore/28748",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Grand Canyon. Struggled to make contact."
     },
     "a1257263": {
       "id": "a1257263",
@@ -450,8 +648,24 @@
         "wp": 1,
         "opp_avg": ".182"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/houston/boxscore/28746",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "3bec95c5": {
       "id": "3bec95c5",
@@ -463,32 +677,50 @@
       "num": "16.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 16,
-        "gs": 13,
-        "avg": 0.212,
-        "ops": 0.851,
-        "ab": 52,
-        "r": 7,
-        "h": 11,
+        "g": 18,
+        "gs": 15,
+        "avg": 0.232,
+        "ops": 0.975,
+        "ab": 56,
+        "r": 13,
+        "h": 13,
         "doubles": 3,
         "triples": 0,
-        "hr": 5,
-        "rbi": 12,
-        "tb": 29,
-        "slg": 0.558,
-        "bb": 5,
+        "hr": 6,
+        "rbi": 15,
+        "tb": 34,
+        "slg": 0.607,
+        "bb": 11,
         "hbp": 1,
-        "so": 13,
+        "so": 14,
         "gdp": 5,
-        "obp": 0.293,
+        "obp": 0.368,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Saint Mary's. Contributed at the plate in the team's W."
     },
     "3ef509f6": {
       "id": "3ef509f6",
@@ -519,8 +751,24 @@
         "wp": 0,
         "opp_avg": ".148"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Abilene Christian",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28745",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 5,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 11,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Abilene Christian, throwing 6.0 innings. Struck out 11 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
     },
     "67266914": {
       "id": "67266914",
@@ -532,32 +780,50 @@
       "num": "18.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 9,
-        "gs": 5,
-        "avg": 0.111,
-        "ops": 0.384,
-        "ab": 18,
-        "r": 2,
-        "h": 2,
-        "doubles": 0,
+        "g": 10,
+        "gs": 6,
+        "avg": 0.136,
+        "ops": 0.451,
+        "ab": 22,
+        "r": 3,
+        "h": 3,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 0,
-        "tb": 2,
-        "slg": 0.111,
+        "tb": 4,
+        "slg": 0.182,
         "bb": 4,
         "hbp": 0,
         "so": 5,
         "gdp": 1,
-        "obp": 0.273,
+        "obp": 0.269,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Grand Canyon",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/grand-canyon/boxscore/28748",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Grand Canyon. Contributed at the plate in the team's W."
     },
     "51b7596f": {
       "id": "51b7596f",
@@ -569,32 +835,50 @@
       "num": "21.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 15,
-        "gs": 9,
-        "avg": 0.171,
-        "ops": 0.536,
-        "ab": 35,
-        "r": 3,
-        "h": 6,
-        "doubles": 1,
+        "g": 17,
+        "gs": 11,
+        "avg": 0.244,
+        "ops": 0.692,
+        "ab": 45,
+        "r": 6,
+        "h": 11,
+        "doubles": 3,
         "triples": 0,
         "hr": 1,
-        "rbi": 6,
-        "tb": 10,
-        "slg": 0.286,
-        "bb": 4,
+        "rbi": 10,
+        "tb": 17,
+        "slg": 0.378,
+        "bb": 5,
         "hbp": 0,
-        "so": 8,
-        "gdp": 0,
-        "obp": 0.25,
+        "so": 9,
+        "gdp": 1,
+        "obp": 0.314,
         "sf": 1,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/5 with 1 RBI against Saint Mary's. Had an outstanding performance at the plate (0.400)."
     },
     "ba86bd0e": {
       "id": "ba86bd0e",
@@ -607,26 +891,42 @@
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.13,
-        "whip": 1.03,
+        "era": 2.37,
+        "whip": 1.26,
         "w": 0,
         "l": 0,
         "sv": 2,
-        "g": 6,
-        "gs": 0,
-        "ip": 12.2,
-        "h": 10,
-        "r": 3,
-        "er": 3,
+        "g": 7,
+        "gs": 1,
+        "ip": 19.0,
+        "h": 21,
+        "r": 5,
+        "er": 5,
         "bb": 3,
-        "so": 9,
+        "so": 11,
         "hr": 1,
         "hbp": 4,
-        "wp": 1,
-        "opp_avg": ".227"
+        "wp": 3,
+        "opp_avg": ".300"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": null,
+        "pitching": {
+          "ip": "6.1",
+          "h": 11,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 2,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Mary's, throwing 6.1 innings. Struck out 2 while allowing just 11 hit(s) and 2 earned run(s) in a quality start."
     },
     "717bb049": {
       "id": "717bb049",
@@ -638,32 +938,50 @@
       "num": "24.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 5,
-        "avg": 0.19,
-        "ops": 0.451,
-        "ab": 21,
+        "avg": 0.174,
+        "ops": 0.405,
+        "ab": 23,
         "r": 1,
         "h": 4,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
-        "rbi": 3,
+        "rbi": 4,
         "tb": 4,
-        "slg": 0.19,
+        "slg": 0.174,
         "bb": 0,
         "hbp": 2,
-        "so": 4,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.261,
-        "sf": 0,
+        "obp": 0.231,
+        "sf": 1,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Grand Canyon",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/grand-canyon/boxscore/28748",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 1 RBI against Grand Canyon. Struggled to make contact."
     },
     "49981bbd": {
       "id": "49981bbd",
@@ -694,8 +1012,24 @@
         "wp": 0,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Abilene Christian",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28744",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 5,
+          "r": 3,
+          "er": 3,
+          "bb": 4,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Abilene Christian, throwing 3.1 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "abf0e97d": {
       "id": "abf0e97d",
@@ -726,8 +1060,24 @@
         "wp": 0,
         "opp_avg": ".219"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/houston/boxscore/28746",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "72118be7": {
       "id": "72118be7",
@@ -739,32 +1089,50 @@
       "num": "27.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 13,
-        "gs": 11,
-        "avg": 0.184,
-        "ops": 0.532,
-        "ab": 38,
-        "r": 1,
-        "h": 7,
-        "doubles": 2,
+        "g": 15,
+        "gs": 12,
+        "avg": 0.209,
+        "ops": 0.585,
+        "ab": 43,
+        "r": 2,
+        "h": 9,
+        "doubles": 3,
         "triples": 0,
         "hr": 0,
-        "rbi": 4,
-        "tb": 9,
-        "slg": 0.237,
+        "rbi": 6,
+        "tb": 12,
+        "slg": 0.279,
         "bb": 5,
         "hbp": 1,
         "so": 9,
         "gdp": 0,
-        "obp": 0.295,
+        "obp": 0.306,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 2 RBI against Saint Mary's. Contributed at the plate in the team's W."
     },
     "029e8d32": {
       "id": "029e8d32",
@@ -776,11 +1144,11 @@
       "num": "28.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 10,
+        "g": 12,
         "gs": 5,
-        "avg": 0.118,
-        "ops": 0.368,
-        "ab": 17,
+        "avg": 0.105,
+        "ops": 0.366,
+        "ab": 19,
         "r": 0,
         "h": 2,
         "doubles": 0,
@@ -788,20 +1156,38 @@
         "hr": 0,
         "rbi": 0,
         "tb": 2,
-        "slg": 0.118,
-        "bb": 3,
+        "slg": 0.105,
+        "bb": 4,
         "hbp": 0,
-        "so": 10,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.25,
+        "obp": 0.261,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Grand Canyon",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/grand-canyon/boxscore/28748",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Grand Canyon. Struggled to make contact."
     },
     "a8f32422": {
       "id": "a8f32422",
@@ -832,8 +1218,24 @@
         "wp": 1,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Abilene Christian",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28745",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Abilene Christian, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "72b5023f": {
       "id": "72b5023f",
@@ -864,8 +1266,24 @@
         "wp": 1,
         "opp_avg": ".257"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Abilene Christian",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28743",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against Abilene Christian, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "de1c03a4": {
       "id": "de1c03a4",
@@ -878,26 +1296,90 @@
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.95,
-        "whip": 1.32,
+        "era": 5.28,
+        "whip": 1.5,
         "w": 1,
         "l": 1,
         "sv": 2,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 13.2,
-        "h": 9,
-        "r": 7,
-        "er": 6,
-        "bb": 9,
+        "ip": 15.1,
+        "h": 13,
+        "r": 10,
+        "er": 9,
+        "bb": 10,
         "so": 13,
         "hr": 1,
-        "hbp": 1,
-        "wp": 6,
-        "opp_avg": ".191"
+        "hbp": 3,
+        "wp": 7,
+        "opp_avg": ".236"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Saint Mary's, throwing 1.2 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+    },
+    "bcfa1e3a": {
+      "id": "bcfa1e3a",
+      "name": "Nolan Roycraft",
+      "fn": "Nolan",
+      "ln": "Roycraft",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "33.0",
+      "school": "Rice University",
+      "season_batting": null,
+      "season_pitching": {
+        "era": 0.0,
+        "whip": 1.5,
+        "w": 0,
+        "l": 0,
+        "sv": 0,
+        "g": 1,
+        "gs": 0,
+        "ip": 2.0,
+        "h": 1,
+        "r": 0,
+        "er": 0,
+        "bb": 2,
+        "so": 3,
+        "hr": 0,
+        "hbp": 1,
+        "wp": 0,
+        "opp_avg": ".143"
+      },
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Grand Canyon",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/grand-canyon/boxscore/28748",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Grand Canyon, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "2f9d673f": {
       "id": "2f9d673f",
@@ -910,26 +1392,42 @@
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.92,
-        "whip": 1.54,
-        "w": 2,
+        "era": 7.5,
+        "whip": 1.67,
+        "w": 3,
         "l": 1,
         "sv": 0,
-        "g": 5,
-        "gs": 1,
-        "ip": 13.0,
-        "h": 13,
-        "r": 10,
-        "er": 10,
-        "bb": 7,
-        "so": 14,
-        "hr": 1,
+        "g": 6,
+        "gs": 2,
+        "ip": 18.0,
+        "h": 21,
+        "r": 15,
+        "er": 15,
+        "bb": 9,
+        "so": 16,
+        "hr": 2,
         "hbp": 1,
-        "wp": 1,
-        "opp_avg": ".265"
+        "wp": 2,
+        "opp_avg": ".292"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Grand Canyon",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/grand-canyon/boxscore/28748",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 8,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Grand Canyon, throwing 5.0 innings. Struck out 2 while allowing just 8 hit(s) and 5 earned run(s) in a quality start."
     },
     "fc5cbeda": {
       "id": "fc5cbeda",
@@ -960,8 +1458,24 @@
         "wp": 2,
         "opp_avg": ".254"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Abilene Christian",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28743",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 5,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Abilene Christian, throwing 2.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
     },
     "31f89745": {
       "id": "31f89745",
@@ -974,26 +1488,42 @@
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
-        "era": 13.5,
-        "whip": 4.5,
-        "w": 0,
+        "era": 2.45,
+        "whip": 1.64,
+        "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 1,
+        "g": 3,
         "gs": 0,
-        "ip": 0.2,
+        "ip": 3.2,
         "h": 1,
         "r": 1,
         "er": 1,
-        "bb": 2,
-        "so": 1,
+        "bb": 5,
+        "so": 3,
         "hr": 0,
         "hbp": 0,
-        "wp": 0,
-        "opp_avg": ".333"
+        "wp": 1,
+        "opp_avg": ".083"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Saint Mary's, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "d4251bad": {
       "id": "d4251bad",
@@ -1024,8 +1554,24 @@
         "wp": 1,
         "opp_avg": ".329"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/houston/boxscore/28746",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 8,
+          "r": 5,
+          "er": 3,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 3.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "acd3d106": {
       "id": "acd3d106",
@@ -1037,32 +1583,50 @@
       "num": "44.0",
       "school": "Rice University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.094,
-        "ops": 0.373,
-        "ab": 53,
-        "r": 6,
-        "h": 5,
-        "doubles": 0,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.097,
+        "ops": 0.391,
+        "ab": 62,
+        "r": 7,
+        "h": 6,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 3,
-        "tb": 5,
-        "slg": 0.094,
-        "bb": 12,
-        "hbp": 2,
-        "so": 12,
+        "tb": 7,
+        "slg": 0.113,
+        "bb": 13,
+        "hbp": 3,
+        "so": 13,
         "gdp": 2,
-        "obp": 0.279,
+        "obp": 0.278,
         "sf": 1,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Saint Mary's",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28747",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Saint Mary's. Contributed at the plate in the team's W."
     },
     "2057c35a": {
       "id": "2057c35a",
@@ -1093,8 +1657,24 @@
         "wp": 0,
         "opp_avg": ".462"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/houston/boxscore/28746",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 0.2 innings. Allowed 5 earned run(s) with 0 strikeout(s)."
     },
     "2ff76b9a": {
       "id": "2ff76b9a",
@@ -1125,8 +1705,24 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Abilene Christian",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/abilene-christian/boxscore/28745",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Abilene Christian, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "c5b333a9": {
       "id": "c5b333a9",
@@ -1157,8 +1753,24 @@
         "wp": 0,
         "opp_avg": ".310"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/houston/boxscore/28746",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 2.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

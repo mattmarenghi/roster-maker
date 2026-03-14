@@ -2,16 +2,16 @@
   "school": "California Baptist University",
   "base_url": "https://www.cbulancers.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:27:16.337978Z",
-  "record": "14-4",
+  "generated_at": "2026-03-14T14:31:01.435759Z",
+  "record": "15-4",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Lmu Ca ",
-    "result": "W 7-2",
-    "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
-    "recap_url": "https://www.cbulancers.com/news/2026/3/10/baseball-cbu-falls-to-lmu-during-midweek-match",
+    "date": "2026-03-13",
+    "opponent": "Harvard",
+    "result": "W",
+    "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+    "recap_url": "https://www.cbulancers.com/news/2026/3/13/baseball-lancers-earn-first-game-of-series-against-harvard",
     "recap_headline": "California Baptist University",
-    "recap_text": "LOS ANGELES, CA---\nCalifornia Baptist baseball traveled to Los Angeles on Tuesday evening after spending the weekend in Utah for a midweek match-up versus Loyola Marymount. In an uncharacteristic night for the Lancers, CBU struggled both offensively and defensively despite taking an early lead. California Baptist moves to 14-4 on the season after the 7-2 loss.\nCole Hansen\nstarted things off strong for the Lancers in the second inning with a solo shot before another run would come home thanks to an RBI single from\nRiley Hunsaker\n. It was in the bottom of the second that LMU would take control of the game after\nRyne Palmer\ncouldn't get out of a bases-loaded jam and gave up a grand slam for the LMU lead.\nThe Lancers would accrue eight hits against the Lions' pitching staff and struggled to bring runners home, while the visiting pitcher staff battled on the mound against an ever-moving strike zone.\nKody Smathers\nand\nAndrew Rudd\nlead the way with three strikeouts each of the team's 11.\nCalifornia Baptist will return home to Riverside this weekend to host Harvard in a four-game series, which will be a nice change of pace for the Lancers. The series is set to begin on Friday evening at 6 p.m."
+    "recap_text": "RIVERSIDE---\nThe California Baptist baseball program returned home this weekend to welcome Harvard University for a four-game series, and kicked off the weekend with a 5-1 win. Highlighted by a four-run fourth inning, the Lancers keep the Crimson from earning their first win this season as the home squad improves to 15-4 this year.\nA scoreless first three innings went by quickly before the Lancers capitalized on Harvard's throwing error to bring home\nBen Castelli\nfor the first run of the game. With the bases loaded,\nRyder Dykstra\nknocked a bases-clearing double to stack three more runs on their lead. The Crimson made their way on the board in the sixth inning, courtesy of a throwing error by the Lancers, but CBU righted their wrong with a sacrifice fly from Dykstra to improve their lead to 5-1.\nCole Hansen\nand Dyktra both accumulated two hits each on Friday, but\nMichael Malki\nwas the talk of the town. The sophomore delivered six innings of solid work from the mound, allowing just two hits and 1 unearned run while striking out eight batters.\nHarvard will return to Totman Stadium tomorrow evening at 6 p.m. for the second installment of the weekend series."
   },
   "players": {
     "323d6402": {
@@ -24,11 +24,11 @@
       "num": "1.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 18,
-        "gs": 17,
-        "avg": 0.328,
-        "ops": 0.939,
-        "ab": 67,
+        "g": 19,
+        "gs": 18,
+        "avg": 0.31,
+        "ops": 0.897,
+        "ab": 71,
         "r": 18,
         "h": 22,
         "doubles": 5,
@@ -36,20 +36,38 @@
         "hr": 2,
         "rbi": 9,
         "tb": 33,
-        "slg": 0.493,
+        "slg": 0.465,
         "bb": 13,
-        "hbp": 2,
-        "so": 6,
+        "hbp": 3,
+        "so": 7,
         "gdp": 2,
-        "obp": 0.446,
+        "obp": 0.432,
         "sf": 1,
         "sh": 0,
-        "sb": 6,
-        "sb_att": 10
+        "sb": 7,
+        "sb_att": 11
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Harvard. Struggled to make contact."
     },
     "601b67a1": {
       "id": "601b67a1",
@@ -61,7 +79,7 @@
       "num": "2.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 18,
+        "g": 19,
         "gs": 12,
         "avg": 0.179,
         "ops": 0.599,
@@ -85,8 +103,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against LMU (CA). Struggled to make contact."
     },
     "58dae028": {
       "id": "58dae028",
@@ -99,26 +135,42 @@
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.0,
-        "whip": 1.33,
-        "w": 3,
+        "era": 2.25,
+        "whip": 1.17,
+        "w": 4,
         "l": 0,
         "sv": 0,
-        "g": 5,
-        "gs": 4,
-        "ip": 18.0,
-        "h": 11,
-        "r": 6,
+        "g": 6,
+        "gs": 5,
+        "ip": 24.0,
+        "h": 13,
+        "r": 7,
         "er": 6,
-        "bb": 13,
-        "so": 31,
+        "bb": 15,
+        "so": 39,
         "hr": 2,
         "hbp": 3,
-        "wp": 5,
-        "opp_avg": ".172"
+        "wp": 6,
+        "opp_avg": ".155"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 2,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 8,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Harvard, throwing 6.0 innings. Struck out 8 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."
     },
     "aaa11670": {
       "id": "aaa11670",
@@ -130,47 +182,50 @@
       "num": "4.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 14,
-        "gs": 11,
-        "avg": 0.404,
-        "ops": 1.112,
-        "ab": 47,
-        "r": 6,
-        "h": 19,
+        "g": 15,
+        "gs": 12,
+        "avg": 0.412,
+        "ops": 1.103,
+        "ab": 51,
+        "r": 7,
+        "h": 21,
         "doubles": 5,
         "triples": 1,
         "hr": 2,
         "rbi": 13,
-        "tb": 32,
-        "slg": 0.681,
+        "tb": 34,
+        "slg": 0.667,
         "bb": 2,
         "hbp": 1,
-        "so": 6,
+        "so": 7,
         "gdp": 1,
-        "obp": 0.431,
+        "obp": 0.436,
         "sf": 1,
         "sh": 1,
-        "sb": 0,
-        "sb_att": 0
+        "sb": 1,
+        "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Byu",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Byu. Contributed at the plate in the team's L 7-11."
+      "narrative": "Went 2/4 with 0 RBI against Harvard. Had an outstanding performance at the plate (0.500)."
     },
     "430ccb2e": {
       "id": "430ccb2e",
@@ -182,32 +237,50 @@
       "num": "5.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 12,
-        "gs": 4,
-        "avg": 0.238,
-        "ops": 0.693,
-        "ab": 21,
+        "g": 13,
+        "gs": 5,
+        "avg": 0.304,
+        "ops": 0.843,
+        "ab": 23,
         "r": 4,
-        "h": 5,
-        "doubles": 1,
+        "h": 7,
+        "doubles": 2,
         "triples": 0,
         "hr": 0,
-        "rbi": 1,
-        "tb": 6,
-        "slg": 0.286,
-        "bb": 5,
+        "rbi": 5,
+        "tb": 9,
+        "slg": 0.391,
+        "bb": 6,
         "hbp": 1,
         "so": 4,
         "gdp": 0,
-        "obp": 0.407,
-        "sf": 0,
+        "obp": 0.452,
+        "sf": 1,
         "sh": 4,
-        "sb": 0,
-        "sb_att": 1
+        "sb": 1,
+        "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 2,
+          "rbi": 4,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/2 with 4 RBI against Harvard. Had an outstanding performance at the plate (1.000)."
     },
     "a10f0247": {
       "id": "a10f0247",
@@ -219,11 +292,11 @@
       "num": "7.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 17,
-        "gs": 16,
-        "avg": 0.364,
-        "ops": 1.102,
-        "ab": 55,
+        "g": 18,
+        "gs": 17,
+        "avg": 0.345,
+        "ops": 1.058,
+        "ab": 58,
         "r": 16,
         "h": 20,
         "doubles": 3,
@@ -231,20 +304,38 @@
         "hr": 3,
         "rbi": 11,
         "tb": 32,
-        "slg": 0.582,
-        "bb": 13,
+        "slg": 0.552,
+        "bb": 14,
         "hbp": 6,
-        "so": 16,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.52,
+        "obp": 0.506,
         "sf": 1,
         "sh": 0,
         "sb": 4,
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against LMU (CA). Had an outstanding performance at the plate (0.500)."
     },
     "88ec7d2b": {
       "id": "88ec7d2b",
@@ -256,11 +347,11 @@
       "num": "8.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.338,
-        "ops": 1.018,
-        "ab": 80,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.321,
+        "ops": 0.971,
+        "ab": 84,
         "r": 18,
         "h": 27,
         "doubles": 8,
@@ -268,20 +359,38 @@
         "hr": 5,
         "rbi": 22,
         "tb": 50,
-        "slg": 0.625,
+        "slg": 0.595,
         "bb": 5,
         "hbp": 3,
-        "so": 16,
-        "gdp": 1,
-        "obp": 0.393,
+        "so": 17,
+        "gdp": 2,
+        "obp": 0.376,
         "sf": 1,
         "sh": 0,
         "sb": 5,
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Harvard. Struggled to make contact."
     },
     "5001d933": {
       "id": "5001d933",
@@ -317,8 +426,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-26",
+        "opponent": "San Francisco",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/san-francisco/boxscore/16951",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against San Francisco. Had an outstanding performance at the plate (0.500)."
     },
     "93e79a94": {
       "id": "93e79a94",
@@ -354,8 +481,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "San Francisco",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/san-francisco/boxscore/16952",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against San Francisco. Struggled to make contact."
     },
     "15d91dc2": {
       "id": "15d91dc2",
@@ -367,32 +512,50 @@
       "num": "12.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 12,
-        "gs": 9,
-        "avg": 0.379,
-        "ops": 0.955,
-        "ab": 29,
-        "r": 5,
+        "g": 13,
+        "gs": 10,
+        "avg": 0.355,
+        "ops": 0.913,
+        "ab": 31,
+        "r": 6,
         "h": 11,
         "doubles": 1,
         "triples": 0,
         "hr": 1,
         "rbi": 9,
         "tb": 15,
-        "slg": 0.517,
-        "bb": 3,
+        "slg": 0.484,
+        "bb": 4,
         "hbp": 0,
         "so": 11,
         "gdp": 1,
-        "obp": 0.438,
+        "obp": 0.429,
         "sf": 0,
-        "sh": 0,
+        "sh": 1,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Harvard. Struggled at the plate but saw 1 walk(s)."
     },
     "e7704870": {
       "id": "e7704870",
@@ -404,32 +567,50 @@
       "num": "13.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 18,
-        "gs": 14,
-        "avg": 0.364,
-        "ops": 0.972,
-        "ab": 55,
-        "r": 11,
+        "g": 19,
+        "gs": 15,
+        "avg": 0.351,
+        "ops": 0.956,
+        "ab": 57,
+        "r": 13,
         "h": 20,
         "doubles": 3,
         "triples": 1,
         "hr": 1,
         "rbi": 7,
         "tb": 28,
-        "slg": 0.509,
-        "bb": 10,
+        "slg": 0.491,
+        "bb": 12,
         "hbp": 1,
         "so": 10,
         "gdp": 1,
-        "obp": 0.463,
+        "obp": 0.465,
         "sf": 1,
         "sh": 0,
         "sb": 3,
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": {
+          "ab": 2,
+          "r": 2,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Harvard. Struggled at the plate but saw 2 walk(s)."
     },
     "a24ea87e": {
       "id": "a24ea87e",
@@ -460,8 +641,24 @@
         "wp": 1,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against LMU (CA), throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "1df606af": {
       "id": "1df606af",
@@ -492,8 +689,24 @@
         "wp": 0,
         "opp_avg": ".272"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Brigham Young",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/brigham-young/boxscore/16957",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 9,
+          "r": 5,
+          "er": 5,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Brigham Young, throwing 3.1 innings. Allowed 5 earned run(s) with 3 strikeout(s)."
     },
     "b29b3475": {
       "id": "b29b3475",
@@ -529,8 +742,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against LMU (CA). Struggled to make contact."
     },
     "6ffa1bc4": {
       "id": "6ffa1bc4",
@@ -561,8 +792,24 @@
         "wp": 0,
         "opp_avg": ".156"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Brigham Young",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/brigham-young/boxscore/16957",
+        "batting": null,
+        "pitching": {
+          "ip": "5.1",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 8,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Brigham Young, throwing 5.1 innings. Struck out 8 while allowing just 3 hit(s) and 2 earned run(s) in a quality start."
     },
     "2c2bf732": {
       "id": "2c2bf732",
@@ -575,26 +822,42 @@
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
-        "era": 13.5,
-        "whip": 1.5,
+        "era": 5.4,
+        "whip": 0.6,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 0.2,
+        "ip": 1.2,
         "h": 1,
         "r": 1,
         "er": 1,
         "bb": 0,
-        "so": 1,
+        "so": 4,
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".333"
+        "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Harvard, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "3e46cad4": {
       "id": "3e46cad4",
@@ -625,8 +888,24 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 5,
+          "er": 5,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against LMU (CA), throwing 1.1 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
     },
     "40f51146": {
       "id": "40f51146",
@@ -662,8 +941,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "San Francisco",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/san-francisco/boxscore/16953",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against San Francisco. Contributed at the plate in the team's L."
     },
     "5e0ef034": {
       "id": "5e0ef034",
@@ -694,8 +991,24 @@
         "wp": 0,
         "opp_avg": ".273"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-13",
+        "opponent": "Cal State Fullerton",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/cal-state-fullerton/boxscore/16942",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Cal State Fullerton, throwing 2.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "4ab4aa36": {
       "id": "4ab4aa36",
@@ -763,8 +1076,24 @@
         "wp": 0,
         "opp_avg": ".213"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "BYU",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against BYU, throwing 1.1 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
     },
     "7a16004e": {
       "id": "7a16004e",
@@ -795,8 +1124,24 @@
         "wp": 0,
         "opp_avg": ".220"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "BYU",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 6,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against BYU, throwing 2.2 innings. Allowed 0 earned run(s) with 6 strikeout(s)."
     },
     "91cb8ec7": {
       "id": "91cb8ec7",
@@ -808,32 +1153,50 @@
       "num": "25.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.311,
-        "ops": 0.955,
-        "ab": 74,
-        "r": 14,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.307,
+        "ops": 0.962,
+        "ab": 75,
+        "r": 15,
         "h": 23,
         "doubles": 5,
         "triples": 0,
         "hr": 4,
         "rbi": 12,
         "tb": 40,
-        "slg": 0.541,
-        "bb": 10,
-        "hbp": 3,
+        "slg": 0.533,
+        "bb": 11,
+        "hbp": 5,
         "so": 21,
         "gdp": 1,
-        "obp": 0.414,
+        "obp": 0.429,
         "sf": 0,
         "sh": 0,
         "sb": 2,
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against LMU (CA). Struggled to make contact."
     },
     "982ec439": {
       "id": "982ec439",
@@ -864,8 +1227,24 @@
         "wp": 0,
         "opp_avg": ".191"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against LMU (CA), throwing 1.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "2bd0326d": {
       "id": "2bd0326d",
@@ -901,8 +1280,26 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "BYU",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/5 with 0 RBI against BYU. Had an outstanding performance at the plate (0.400)."
     },
     "af46a085": {
       "id": "af46a085",
@@ -938,8 +1335,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Brigham Young",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/brigham-young/boxscore/16957",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Brigham Young. Struggled to make contact."
     },
     "e28c4398": {
       "id": "e28c4398",
@@ -953,25 +1368,41 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.55,
+        "whip": 0.43,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 3,
+        "g": 4,
         "gs": 0,
-        "ip": 3.2,
+        "ip": 4.2,
         "h": 1,
         "r": 0,
         "er": 0,
         "bb": 1,
-        "so": 4,
+        "so": 6,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".091"
+        "opp_avg": ".071"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Harvard, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "d4956ae2": {
       "id": "d4956ae2",
@@ -1002,8 +1433,24 @@
         "wp": 0,
         "opp_avg": ".280"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "LMU (CA)",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against LMU (CA), throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "d18265a0": {
       "id": "d18265a0",
@@ -1016,26 +1463,42 @@
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.0,
-        "whip": 1.22,
+        "era": 5.4,
+        "whip": 1.3,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 9.0,
-        "h": 6,
+        "ip": 10.0,
+        "h": 7,
         "r": 6,
         "er": 6,
-        "bb": 5,
-        "so": 15,
+        "bb": 6,
+        "so": 18,
         "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".182"
+        "opp_avg": ".189"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Harvard, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "78a692bb": {
       "id": "78a692bb",
@@ -1071,8 +1534,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "San Francisco",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/san-francisco/boxscore/16954",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against San Francisco. Contributed at the plate in the team's W."
     },
     "a8837292": {
       "id": "a8837292",
@@ -1084,32 +1565,50 @@
       "num": "39.0",
       "school": "California Baptist University",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.2,
-        "ops": 0.715,
-        "ab": 40,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.205,
+        "ops": 0.697,
+        "ab": 44,
         "r": 8,
-        "h": 8,
+        "h": 9,
         "doubles": 2,
         "triples": 1,
         "hr": 1,
         "rbi": 7,
-        "tb": 15,
-        "slg": 0.375,
+        "tb": 16,
+        "slg": 0.364,
         "bb": 6,
         "hbp": 3,
         "so": 7,
         "gdp": 4,
-        "obp": 0.34,
+        "obp": 0.333,
         "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Harvard. Contributed at the plate in the team's W."
     },
     "5907116e": {
       "id": "5907116e",
@@ -1140,8 +1639,24 @@
         "wp": 2,
         "opp_avg": ".208"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "BYU",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against BYU, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "38f93c88": {
       "id": "38f93c88",
@@ -1172,8 +1687,24 @@
         "wp": 0,
         "opp_avg": ".158"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "BYU",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against BYU, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

@@ -2,168 +2,17 @@
   "school": "Bellarmine University",
   "base_url": "https://athletics.bellarmine.edu",
   "season": "2026",
-  "generated_at": "2026-03-13T02:23:46.423317Z",
-  "record": "4-11",
+  "generated_at": "2026-03-14T14:24:44.067416Z",
+  "record": "4-12",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Butler",
-    "result": "W 17-10",
-    "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8786&path=baseball",
-    "recap_url": "https://athletics.bellarmine.edu/news/2026/3/10/baseball-knights-rally-for-17-10-win-over-butler-swader-hits-two-home-runs.aspx",
-    "recap_headline": "Bellarmine University Athletics",
+    "date": "2026-03-13",
+    "opponent": "Austin Peay",
+    "result": "",
+    "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8787&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "2da1ccd2": {
-      "id": "2da1ccd2",
-      "name": "Presley Monteforte",
-      "fn": "Presley",
-      "ln": "Monteforte",
-      "pos": "LHP",
-      "yr": "Sr.",
-      "num": "",
-      "school": "Bellarmine University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Butler",
-        "result": "W 17-10",
-        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8786&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Butler, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
-    },
-    "09202edc": {
-      "id": "09202edc",
-      "name": "Cade Rusch",
-      "fn": "Cade",
-      "ln": "Rusch",
-      "pos": "RHP",
-      "yr": "Sr.",
-      "num": "",
-      "school": "Bellarmine University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Butler",
-        "result": "W 17-10",
-        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8786&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 3,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Butler, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
-    },
-    "813b7def": {
-      "id": "813b7def",
-      "name": "Austin Egan",
-      "fn": "Austin",
-      "ln": "Egan",
-      "pos": "RHP",
-      "yr": "Jr.",
-      "num": "",
-      "school": "Bellarmine University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Butler",
-        "result": "W 17-10",
-        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8786&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Butler, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
-    },
-    "4f292a47": {
-      "id": "4f292a47",
-      "name": "Nikau Heeney",
-      "fn": "Nikau",
-      "ln": "Heeney",
-      "pos": "LHP",
-      "yr": "Jr.",
-      "num": "",
-      "school": "Bellarmine University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Butler",
-        "result": "W 17-10",
-        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8786&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Butler, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    },
-    "14c72c5a": {
-      "id": "14c72c5a",
-      "name": "Evan Hart",
-      "fn": "Evan",
-      "ln": "Hart",
-      "pos": "LHP",
-      "yr": "Jr.",
-      "num": "",
-      "school": "Bellarmine University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Butler",
-        "result": "W 17-10",
-        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8786&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "3.0",
-          "h": 9,
-          "r": 7,
-          "er": 7,
-          "bb": 3,
-          "so": 0,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Butler, throwing 3.0 innings. Allowed 7 earned run(s) with 0 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

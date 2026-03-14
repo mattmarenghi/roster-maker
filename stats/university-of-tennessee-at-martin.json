@@ -2,16 +2,16 @@
   "school": "University of Tennessee at Martin",
   "base_url": "https://www.utmsports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:28:12.792156Z",
-  "record": "8-8",
+  "generated_at": "2026-03-14T16:23:32.877798Z",
+  "record": "9-8",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Union",
-    "result": "W 6-3",
-    "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-    "recap_url": "https://www.utmsports.com/news/2026/3/10/baseball-skyhawks-triumph-6-3-against-union",
+    "date": "2026-03-13",
+    "opponent": "The Citadel",
+    "result": "W",
+    "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
+    "recap_url": "https://www.utmsports.com/news/2026/3/13/baseball-skyhawks-ride-clutch-pitching-in-3-2-win-over-the-citadel",
     "recap_headline": "",
-    "recap_text": "MARTIN, Tenn.-\nThe University of Tennessee at Martin baseball team recorded four extra-base hits and seven shutout innings in its 6-3 win over Union in the midweek contest at Skyhawk Field.\nTJ Dunsford\nled UT Martin (8-8) in hits with three and\nColten Payton\n(two runs scored) notched his second home run and triple of the season.\nCameron Greene\nled the team in RBIs (two) while\nTJ Grines\n(run scored, stolen base),\nJT Popick\n(double, run scored) and Bo Strikland landed hits for the Skyhawks.\nDrake Bayles\nstarted the contest going two innings without allowing a run or a walk. Out of the bullpen, seven UT Martin pitchers worked including\nWill Turner\n(2-0, two innings, two strikeouts, no runs, no walks),\nGabe Bryant\n(one inning, no walks, one strikeout),\nZach Wager\n(one inning, no hits, no runs),\nTrevor Busyn\n(one inning, one strikeout, no walks),\nGehrig Wright\n(one inning, no runs, no hits, no walks, two strikeouts) and\nMason Little\n(save, one inning, no runs, no walks, two strikeouts).\nGallery:\n(3-10-2026) Baseball vs. Union\nWith two runners on and two outs in the opening frame, Anderson helped close the inning on an assist from centerfield to nab a runner trying to score from second. Bayles worked well in the following inning to get back-to-back zeros on the board with a flyout, runner caught stealing by Box and a groundout to third.\nTurner left two runners stranded in the third to keep the score tied at zero, heading into the home half where the Skyhawk offense grabbed the initial lead. Grines stole second which caused a throwing error that allowed Strickland to score, and on the next play Grines was able to touch home plate after a wild pitch.\nWith a 2-0 lead in the fourth, Turner made quick work of the Bulldogs (10-12) in 1-2-3 fashion. Greene drove in Popick and Dunsford on the third straight hit to start the home half and gave UT Martin a 4-0 edge. The Skyhawks answered runs from Union in the top of the fifth off a tape measure shot from Payton to get the lead back to three.\nWager started his season with a scoreless inning in the sixth when he induced a 5-4-3 double play ball and a foul out to Payton. Wright came in for the eighth and pounded the strike zone for two punchouts and a foul out.\nPayton led off the eighth with a triple and came home courtesy of Dunsford's third single of the game. Little earned his team-best third save of the season from two strikeouts and a lineout that made it a 6-3 win for UT Martin.\nThe Skyhawks close out a 12-game homestand starting this weekend when they begin a three-game series with The Citadel on Friday, March 13 at 5 p.m."
+    "recap_text": "MARTIN, Tenn.-\nThe University of Tennessee at Martin baseball team captured a 3-2 pitcher's duel victory over The Citadel in the first game of the weekend series at Skyhawk Field.\nTJ Grines\nbooked his ninth multi-hit game of the season with two doubles and also tallied an RBI and a stolen base.\nAndrew Davis\n(walk, RBI, stolen base) kept his 17-game on-base streak alive while\nColten Payton\nextended his team-best hitting streak to 16 games.\nJT Popick\nnotched a base hit and\nCullen Box\nhad a team-high two walks.\nTJ Dunsford\ndrove in the game-winning run in the bottom of the eighth inning.\nJacob Sitton\nthrew 6.2 innings and punched out six batters while only allowing one earned run.\nGehrig Wright\n(1-2, 1.1 innings, no runs allowed, no hits allowed) and\nMason Little\n(save, one inning, strikeout, no hits, no runs) were clutch out of the bullpen to get UT Martin (9-8) into the win column.\nGallery:\n(3-13-2026) Baseball vs. The Citadel\nThe Citadel (6-9) put pressure on the Skyhawks in the first by loading the bases, but the righty Sitton escaped with only one run allowed. UT Martin leveled the score in the bottom part of the frame from a Davis sacrifice fly to score Grines who doubled to lead off the inning.\nAfter a scoreless second and third frame, Sitton faced another bases-loaded jam in the fourth and shutdown the Bulldogs for a second time by forcing a flyout to centerfield. The Skyhawks took their first lead of the game in the fifth when Grines doubled for the second time that allowed Box to score for a 2-1 advantage.\nThe Bulldogs evened things up in the sixth and loaded the bases once more in the seventh, but Wright disposed the chance off a fielder's choice to second base to keep the contest knotted up. Three straight groundballs meant a perfect inning by Wright in the eighth to give UT Martin an opportunity to take the lead.\nDavis drew the leadoff walk on a 3-2 count and stole second to get into scoring position for Dunsford. The Grand Bay, Ala native punched a single up the middle for the Skyhawks to claim a 3-2 lead and put themselves three outs away from the victory.\nThe tying run for The Citadel got on base in the ninth and sat 90 feet away from tying the ballgame up with two outs. Little bore down and got the second out of the frame from a strikeout looking and gained his fourth save of the season by fielding his position and tossing a groundball to his first baseman Payton to close out the contest.\nGame 2 of the weekend series takes place tomorrow at 3 p.m. from Skyhawk Field."
   },
   "players": {
     "3371be8d": {
@@ -51,7 +51,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Union",
-        "result": "W 6-3",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
         "batting": {
           "ab": 2,
@@ -60,7 +60,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -76,7 +79,7 @@
       "num": "2.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 12,
+        "g": 13,
         "gs": 10,
         "avg": 0.438,
         "ops": 1.519,
@@ -121,7 +124,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Union",
-        "result": "W 6-3",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
         "batting": {
           "ab": 2,
@@ -130,9 +133,21 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": null
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
       },
       "narrative": "Went 0/2 with 0 RBI against Union. Struggled to make contact."
     },
@@ -146,47 +161,50 @@
       "num": "3.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.319,
-        "ops": 0.847,
-        "ab": 72,
-        "r": 21,
-        "h": 23,
-        "doubles": 6,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.329,
+        "ops": 0.881,
+        "ab": 76,
+        "r": 22,
+        "h": 25,
+        "doubles": 8,
         "triples": 1,
         "hr": 1,
-        "rbi": 17,
-        "tb": 34,
-        "slg": 0.472,
+        "rbi": 18,
+        "tb": 38,
+        "slg": 0.5,
         "bb": 4,
         "hbp": 3,
-        "so": 10,
+        "so": 11,
         "gdp": 2,
-        "obp": 0.375,
+        "obp": 0.381,
         "sf": 1,
         "sh": 0,
-        "sb": 18,
-        "sb_att": 21
+        "sb": 19,
+        "sb_att": 22
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
           "ab": 4,
           "r": 1,
-          "h": 1,
-          "rbi": 0,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "RF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 2,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Union. Contributed at the plate in the team's W 6-3."
+      "narrative": "Went 2/4 with 1 RBI against The Citadel. Had an outstanding performance at the plate (0.500)."
     },
     "86391178": {
       "id": "86391178",
@@ -198,47 +216,50 @@
       "num": "4.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.3,
-        "ops": 0.793,
-        "ab": 60,
-        "r": 16,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.29,
+        "ops": 0.773,
+        "ab": 62,
+        "r": 17,
         "h": 18,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
-        "rbi": 8,
+        "rbi": 9,
         "tb": 21,
-        "slg": 0.35,
-        "bb": 14,
+        "slg": 0.339,
+        "bb": 15,
         "hbp": 3,
-        "so": 15,
+        "so": 16,
         "gdp": 0,
-        "obp": 0.443,
-        "sf": 2,
+        "obp": 0.434,
+        "sf": 3,
         "sh": 0,
-        "sb": 12,
-        "sb_att": 15
+        "sb": 13,
+        "sb_att": 16
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
-          "ab": 3,
-          "r": 0,
+          "ab": 2,
+          "r": 1,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 1,
           "so": 1,
-          "pos": "SS"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Union. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/2 with 1 RBI against The Citadel. Struggled at the plate but saw 1 walk(s)."
     },
     "59567df0": {
       "id": "59567df0",
@@ -274,8 +295,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Mississippi Val.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13673",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Mississippi Val.. Struggled to make contact."
     },
     "666e4658": {
       "id": "666e4658",
@@ -287,11 +326,11 @@
       "num": "7.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 13,
-        "gs": 12,
-        "avg": 0.293,
-        "ops": 0.883,
-        "ab": 41,
+        "g": 14,
+        "gs": 13,
+        "avg": 0.267,
+        "ops": 0.811,
+        "ab": 45,
         "r": 9,
         "h": 12,
         "doubles": 2,
@@ -299,12 +338,12 @@
         "hr": 1,
         "rbi": 8,
         "tb": 19,
-        "slg": 0.463,
+        "slg": 0.422,
         "bb": 6,
         "hbp": 3,
-        "so": 12,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.42,
+        "obp": 0.389,
         "sf": 0,
         "sh": 2,
         "sb": 2,
@@ -312,22 +351,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
-          "pos": "3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 2 RBI against Union. Contributed at the plate in the team's W 6-3."
+      "narrative": "Went 0/4 with 0 RBI against The Citadel. Struggled to make contact."
     },
     "5c83cc43": {
       "id": "5c83cc43",
@@ -339,11 +381,11 @@
       "num": "8.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.298,
-        "ops": 0.831,
-        "ab": 57,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.283,
+        "ops": 0.791,
+        "ab": 60,
         "r": 10,
         "h": 17,
         "doubles": 7,
@@ -351,12 +393,12 @@
         "hr": 0,
         "rbi": 12,
         "tb": 26,
-        "slg": 0.456,
+        "slg": 0.433,
         "bb": 6,
         "hbp": 1,
-        "so": 8,
+        "so": 10,
         "gdp": 2,
-        "obp": 0.375,
+        "obp": 0.358,
         "sf": 0,
         "sh": 2,
         "sb": 4,
@@ -364,22 +406,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
           "ab": 3,
-          "r": 1,
-          "h": 1,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "LF/CF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Union. Contributed at the plate in the team's W 6-3."
+      "narrative": "Went 0/3 with 0 RBI against The Citadel. Struggled to make contact."
     },
     "2b087773": {
       "id": "2b087773",
@@ -392,14 +437,14 @@
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.68,
-        "whip": 1.58,
-        "w": 0,
+        "era": 4.7,
+        "whip": 1.3,
+        "w": 1,
         "l": 2,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 6.1,
+        "ip": 7.2,
         "h": 6,
         "r": 5,
         "er": 4,
@@ -408,34 +453,26 @@
         "hr": 1,
         "hbp": 3,
         "wp": 2,
-        "opp_avg": ".240"
+        "opp_avg": ".207"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
+        "batting": null,
         "pitching": {
-          "ip": "1.0",
+          "ip": "1.1",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Union, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against The Citadel, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "3b3fec08": {
       "id": "3b3fec08",
@@ -466,8 +503,24 @@
         "wp": 1,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Bradley",
+        "result": "L",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/bradley/boxscore/13569",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 3,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "ccaab385": {
       "id": "ccaab385",
@@ -479,10 +532,10 @@
       "num": "12.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 7,
-        "gs": 7,
+        "g": 8,
+        "gs": 8,
         "avg": 0.318,
-        "ops": 0.741,
+        "ops": 0.762,
         "ab": 22,
         "r": 6,
         "h": 7,
@@ -493,18 +546,36 @@
         "tb": 7,
         "slg": 0.318,
         "bb": 3,
-        "hbp": 1,
+        "hbp": 2,
         "so": 3,
         "gdp": 1,
-        "obp": 0.423,
+        "obp": 0.444,
         "sf": 0,
-        "sh": 2,
+        "sh": 4,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Bradley",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/bradley/boxscore/13568",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against Bradley. Had an outstanding performance at the plate (1.000)."
     },
     "d5b23189": {
       "id": "d5b23189",
@@ -538,17 +609,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Union",
-        "result": "W 6-3",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 2,
@@ -591,8 +654,24 @@
         "wp": 1,
         "opp_avg": ".538"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Mississippi Val.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13673",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "2d183189": {
       "id": "2d183189",
@@ -604,24 +683,24 @@
       "num": "16.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 11,
-        "gs": 9,
-        "avg": 0.29,
-        "ops": 1.02,
-        "ab": 31,
-        "r": 7,
+        "g": 12,
+        "gs": 10,
+        "avg": 0.273,
+        "ops": 0.989,
+        "ab": 33,
+        "r": 8,
         "h": 9,
         "doubles": 1,
         "triples": 1,
         "hr": 2,
         "rbi": 6,
         "tb": 18,
-        "slg": 0.581,
-        "bb": 5,
+        "slg": 0.545,
+        "bb": 7,
         "hbp": 4,
-        "so": 3,
+        "so": 4,
         "gdp": 0,
-        "obp": 0.439,
+        "obp": 0.444,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -629,22 +708,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
           "ab": 2,
-          "r": 0,
+          "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "C"
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Union. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/2 with 0 RBI against The Citadel. Struggled at the plate but saw 2 walk(s)."
     },
     "31ab23c3": {
       "id": "31ab23c3",
@@ -675,8 +757,24 @@
         "wp": 4,
         "opp_avg": ".353"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Mississippi Val.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13673",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "d431e6ec": {
       "id": "d431e6ec",
@@ -689,26 +787,42 @@
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.96,
-        "whip": 1.35,
+        "era": 1.82,
+        "whip": 1.42,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 23.0,
-        "h": 18,
-        "r": 9,
-        "er": 5,
-        "bb": 13,
-        "so": 25,
+        "g": 5,
+        "gs": 5,
+        "ip": 29.2,
+        "h": 26,
+        "r": 11,
+        "er": 6,
+        "bb": 16,
+        "so": 31,
         "hr": 2,
-        "hbp": 1,
+        "hbp": 4,
         "wp": 3,
-        "opp_avg": ".212"
+        "opp_avg": ".234"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
+        "batting": null,
+        "pitching": {
+          "ip": "6.2",
+          "h": 8,
+          "r": 2,
+          "er": 1,
+          "bb": 3,
+          "so": 6,
+          "wp": 0,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against The Citadel, throwing 6.2 innings. Struck out 6 while allowing just 8 hit(s) and 1 earned run(s) in a quality start."
     },
     "6ae58e9e": {
       "id": "6ae58e9e",
@@ -741,18 +855,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Mississippi Val ",
-        "result": "L 3-5",
+        "opponent": "Mississippi Val.",
+        "result": "L",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13573",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 3,
@@ -764,7 +870,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Mississippi Val , throwing 5.0 innings. Struck out 4 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
+      "narrative": "Took the mound against Mississippi Val., throwing 5.0 innings. Struck out 4 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
     },
     "b8589ce1": {
       "id": "b8589ce1",
@@ -798,17 +904,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Union",
-        "result": "W 6-3",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 3,
@@ -832,24 +930,24 @@
       "num": "22.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.302,
-        "ops": 0.906,
-        "ab": 63,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.303,
+        "ops": 0.903,
+        "ab": 66,
         "r": 13,
-        "h": 19,
+        "h": 20,
         "doubles": 6,
         "triples": 0,
         "hr": 3,
-        "rbi": 18,
-        "tb": 34,
-        "slg": 0.54,
+        "rbi": 19,
+        "tb": 35,
+        "slg": 0.53,
         "bb": 5,
-        "hbp": 2,
-        "so": 14,
+        "hbp": 3,
+        "so": 15,
         "gdp": 3,
-        "obp": 0.366,
+        "obp": 0.373,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -857,22 +955,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 3,
+          "ab": 3,
+          "r": 0,
+          "h": 1,
           "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 1 RBI against Union. Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 1/3 with 1 RBI against The Citadel. Contributed at the plate in the team's W."
     },
     "e5cc6bdd": {
       "id": "e5cc6bdd",
@@ -884,24 +985,24 @@
       "num": "23.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.313,
-        "ops": 0.866,
-        "ab": 64,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.309,
+        "ops": 0.845,
+        "ab": 68,
         "r": 15,
-        "h": 20,
+        "h": 21,
         "doubles": 6,
         "triples": 0,
         "hr": 2,
         "rbi": 13,
-        "tb": 32,
-        "slg": 0.5,
+        "tb": 33,
+        "slg": 0.485,
         "bb": 5,
         "hbp": 1,
         "so": 10,
         "gdp": 0,
-        "obp": 0.366,
+        "obp": 0.36,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -909,22 +1010,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
           "ab": 4,
-          "r": 1,
+          "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Union. Contributed at the plate in the team's W 6-3."
+      "narrative": "Went 1/4 with 0 RBI against The Citadel. Contributed at the plate in the team's W."
     },
     "b102f0f4": {
       "id": "b102f0f4",
@@ -936,24 +1040,24 @@
       "num": "25.0",
       "school": "University of Tennessee at Martin",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.389,
-        "ops": 1.027,
-        "ab": 72,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.382,
+        "ops": 0.999,
+        "ab": 76,
         "r": 14,
-        "h": 28,
+        "h": 29,
         "doubles": 6,
         "triples": 2,
         "hr": 2,
         "rbi": 19,
-        "tb": 44,
-        "slg": 0.611,
+        "tb": 45,
+        "slg": 0.592,
         "bb": 2,
         "hbp": 2,
-        "so": 15,
+        "so": 16,
         "gdp": 2,
-        "obp": 0.416,
+        "obp": 0.407,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -961,22 +1065,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
         "batting": {
           "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "1B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against Union. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/4 with 0 RBI against The Citadel. Contributed at the plate in the team's W."
     },
     "dcbdfc6d": {
       "id": "dcbdfc6d",
@@ -1007,8 +1114,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Nicholls",
+        "result": "L",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/nicholls/boxscore/13566",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Nicholls, throwing 0.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "7ed5d3b8": {
       "id": "7ed5d3b8",
@@ -1021,50 +1144,42 @@
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.7,
-        "whip": 1.2,
+        "era": 2.35,
+        "whip": 1.04,
         "w": 1,
         "l": 0,
-        "sv": 3,
-        "g": 6,
+        "sv": 4,
+        "g": 7,
         "gs": 0,
-        "ip": 6.2,
+        "ip": 7.2,
         "h": 4,
         "r": 3,
         "er": 2,
         "bb": 4,
-        "so": 6,
+        "so": 7,
         "hr": 2,
-        "hbp": 0,
+        "hbp": 1,
         "wp": 3,
-        "opp_avg": ".167"
+        "opp_avg": ".148"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Union",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "The Citadel",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13575",
+        "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 1,
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 2,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 1
         }
       },
-      "narrative": "Took the mound against Union, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against The Citadel, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "1b5bf561": {
       "id": "1b5bf561",
@@ -1095,8 +1210,24 @@
         "wp": 1,
         "opp_avg": ".368"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Mississippi Val.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13673",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "c7de9cd8": {
       "id": "c7de9cd8",
@@ -1129,18 +1260,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Mississippi Val ",
-        "result": "L 3-5",
+        "opponent": "Mississippi Val.",
+        "result": "L",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13573",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -1152,7 +1275,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Mississippi Val , throwing 1.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "f44e1f8b": {
       "id": "f44e1f8b",
@@ -1186,17 +1309,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Union",
-        "result": "W 6-3",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -1242,17 +1357,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Union",
-        "result": "W 6-3",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -1297,18 +1404,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Mississippi Val ",
-        "result": "W 9-1",
+        "opponent": "Mississippi Val.",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13572",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "7.0",
           "h": 5,
@@ -1320,7 +1419,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Mississippi Val , throwing 7.0 innings. Struck out 7 while allowing just 5 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "Took the mound against Mississippi Val., throwing 7.0 innings. Struck out 7 while allowing just 5 hit(s) and 1 earned run(s) in a quality start."
     },
     "d14f4844": {
       "id": "d14f4844",
@@ -1351,8 +1450,24 @@
         "wp": 0,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Bradley",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/bradley/boxscore/13568",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "d55d66a3": {
       "id": "d55d66a3",
@@ -1386,17 +1501,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Union",
-        "result": "W 6-3",
+        "result": "W",
         "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/union/boxscore/13574",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,

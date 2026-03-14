@@ -2,16 +2,16 @@
   "school": "University of Kansas",
   "base_url": "https://kuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:17:43.178474Z",
-  "record": "10-6",
+  "generated_at": "2026-03-14T16:00:47.660087Z",
+  "record": "17-18",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Tcu",
-    "result": "W 9-4",
-    "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/tcu/boxscore/20360",
-    "recap_url": "https://kuathletics.com/news/2026/3/10/baseball-kansas-and-no-17-tcu-suspended-in-the-9th-inning",
+    "date": "2026-03-13",
+    "opponent": "Texas Tech",
+    "result": "L",
+    "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
+    "recap_url": "https://kuathletics.com/news/2026/3/13/baseball-kansas-suffers-setback-in-big-12-opener-at-texas-tech",
     "recap_headline": "University of Kansas Athletics",
-    "recap_text": "FORT WORTH, Texas \u2013\nKansas and No. 17 TCU were in the top of the ninth inning Tuesday before inclement weather moved into the area to halt play. The game will be resumed on Wednesday at 12 p.m. CT.\nWhen the game resumes, Kansas will trail 9-2 with one out in the top of the ninth.\nDylan Schlotterback\nwill be at the plate, with\nDariel Osoria\nat third base and\nAugusto Mungarrieta\nat second base.\nHOW IT HAPPENED\n\u2022 TCU scored an unearned run in the first inning on a sacrifice fly to take a 1-0 lead.\n\u2022 The Horned Frogs extended their advantage to 3-0 in the second inning. The first run came in to score on a throwing error and another run scored on a balk.\n\u2022 TCU stretched its lead with a five-run fourth inning. A run scored on an RBI single by Cole Cramer and Chase Brunson hit a grand slam to make it an 8-0 game.\n\u2022 Another run scored in the sixth inning on an RBI triple off the bat of Sawyer Strosnider. That brought the score to 9-0.\n\u2022 Kansas scored two runs in the top of the ninth inning before weather rolled in. Osoria had an RBI single and Mungarrieta hit an RBI double to make it 9-2."
+    "recap_text": "LUBBOCK, Texas \u2013\nKansas baseball dropped the conference opener 11-4 to Texas Tech on Friday night at Dan Law Field at Rip Griffin Park.\nBrady Ballinger\nhit his first home run of the season despite the defeat.\nThe Jayhawks used five pitchers on Friday evening.\nMason Cook\ngot the start and went two innings and allowed two runs. The bullpen was unable to stop the Red Raiders bats as they had nine runs on 10 hits over the next seven innings.\nHOW IT HAPPENED\n\u2022 Texas Tech (12-5, 1-0 Big 12) got on the scoreboard in the first inning. The Red Raiders had an RBI groundout and Logan Hughes hit a solo home run to make it a 2-0 game.\n\u2022 Kansas (10-7, 0-1 Big 12) was able to cut the deficit in half in the top of the fourth inning. Ballinger hit a solo home run, his first blast of the season.\n\u2022 The Red Raiders had an immediate response with five runs in the bottom of the fourth. Robin Villeneuve\u00a0hit a two-run homer and then a two-run single by Linkin Garcia and a sacrifice fly stretched the lead to 7-1.\n\u2022 The teams traded runs in the fifth inning with an RBI single from\nDylan Schlotterback\nand Texas Tech matching it with a sacrifice bunt. At the end of five innings, Texas Tech led 8-2.\n\u2022 Kansas trimmed\u00a0the Red Raiders lead in the sixth with two runs.\nCade Baldridge\nscored on a throwing error and the other run came in on an RBI single off the bat of\nAugusto Mungarrieta\n.\n\u2022 However, the Red Raiders got one of those runs back in the bottom half of the sixth on an RBI single. That made it a 9-4 game.\n\u2022 Texas Tech added two unearned runs in the eighth inning to bring the score to 11-4.\nPITCHERS OF RECORD\nWin: Lukas Pirko (3-1)\nFinal line: 5.2 IP, 6 H, 4 R, 2 ER, 1 BB, 7 SO\nLoss:\nMason Cook\n(1-1)\nFinal line: 2.0 IP, 3 H, 2 R, 2 BB, 2 SO\nQUOTABLES & NOTABLES\n\"They were fantastic offensively tonight and we weren't great on the mound. It was great to see Brady connect on a long one and he hammered that ball down the first base line as well. Their offense is very momentum driven and they did a really good job of passing the bat onto the next guy in the fourth inning. The good news is we play tomorrow. The bad news is this game doesn't feel sorry for anyone, so we have got to adjust and come out tomorrow and play solid baseball and be ready to compete again.\" \u2013 Head Coach\nDan Fitzgerald\n\u2022 Kansas was defeated in the conference opener for the first time since the 2023 season.\n\u2022 Ballinger hit his first home run of the season. He tallied his fifth multi-hit game of the season.\nUP NEXT\nKansas will play the second game of the three-game series on Saturday afternoon. First pitch is set for 2 p.m. CT and the game will be broadcast on ESPN+."
   },
   "players": {
     "0b5dc07d": {
@@ -24,11 +24,11 @@
       "num": "2.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.207,
-        "ops": 0.769,
-        "ab": 58,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.194,
+        "ops": 0.723,
+        "ab": 62,
         "r": 10,
         "h": 12,
         "doubles": 2,
@@ -36,12 +36,12 @@
         "hr": 3,
         "rbi": 13,
         "tb": 25,
-        "slg": 0.431,
+        "slg": 0.403,
         "bb": 9,
         "hbp": 3,
-        "so": 15,
+        "so": 17,
         "gdp": 0,
-        "obp": 0.338,
+        "obp": 0.32,
         "sf": 1,
         "sh": 3,
         "sb": 3,
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 0,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "SS"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 1 RBI against St Thomas. Struggled to make contact."
+      "narrative": "Went 0/4 with 0 RBI against Texas Tech. Struggled to make contact."
     },
     "b1488682": {
       "id": "b1488682",
@@ -100,8 +103,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Minnesota",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/minnesota/boxscore/20354",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Minnesota. Struggled to make contact."
     },
     "424cee14": {
       "id": "424cee14",
@@ -138,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-10",
+        "opponent": "TCU",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/tcu/boxscore/20360",
         "batting": {
-          "ab": 1,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PH"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against St Thomas. Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against TCU. Struggled to make contact."
     },
     "4532ffd9": {
       "id": "4532ffd9",
@@ -190,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-10",
+        "opponent": "TCU",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/tcu/boxscore/20360",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "LF"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against St Thomas. Struggled to make contact."
+      "narrative": "Went 0/1 with 0 RBI against TCU. Struggled to make contact."
     },
     "23e825d4": {
       "id": "23e825d4",
@@ -217,24 +244,24 @@
       "num": "7.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 14,
-        "avg": 0.24,
-        "ops": 0.719,
-        "ab": 50,
+        "g": 17,
+        "gs": 15,
+        "avg": 0.259,
+        "ops": 0.738,
+        "ab": 54,
         "r": 9,
-        "h": 12,
+        "h": 14,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
-        "rbi": 6,
-        "tb": 19,
-        "slg": 0.38,
+        "rbi": 7,
+        "tb": 21,
+        "slg": 0.389,
         "bb": 7,
         "hbp": 1,
         "so": 15,
         "gdp": 0,
-        "obp": 0.339,
+        "obp": 0.349,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -242,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
-          "pos": "3B"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against St Thomas. Struggled to make contact."
+      "narrative": "Went 2/4 with 1 RBI against Texas Tech. Had an outstanding performance at the plate (0.500)."
     },
     "4eb0769b": {
       "id": "4eb0769b",
@@ -269,47 +299,32 @@
       "num": "8.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 14,
-        "avg": 0.24,
-        "ops": 0.719,
-        "ab": 50,
+        "g": 17,
+        "gs": 15,
+        "avg": 0.259,
+        "ops": 0.738,
+        "ab": 54,
         "r": 9,
-        "h": 12,
+        "h": 14,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
-        "rbi": 6,
-        "tb": 19,
-        "slg": 0.38,
+        "rbi": 7,
+        "tb": 21,
+        "slg": 0.389,
         "bb": 7,
         "hbp": 1,
         "so": 15,
         "gdp": 0,
-        "obp": 0.339,
+        "obp": 0.349,
         "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
-          "pos": "3B"
-        },
-        "pitching": null
-      },
-      "narrative": "Went 0/3 with 0 RBI against St Thomas. Struggled to make contact."
+      "last_game": null,
+      "narrative": null
     },
     "57549d89": {
       "id": "57549d89",
@@ -321,24 +336,24 @@
       "num": "9.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.267,
-        "ops": 0.825,
-        "ab": 60,
-        "r": 12,
-        "h": 16,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.266,
+        "ops": 0.807,
+        "ab": 64,
+        "r": 13,
+        "h": 17,
         "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 8,
-        "tb": 26,
-        "slg": 0.433,
+        "tb": 27,
+        "slg": 0.422,
         "bb": 7,
         "hbp": 6,
         "so": 17,
         "gdp": 0,
-        "obp": 0.392,
+        "obp": 0.385,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -346,22 +361,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 1,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against St Thomas. Struggled to make contact."
+      "narrative": "Went 1/4 with 0 RBI against Texas Tech. Contributed at the plate in the team's L."
     },
     "e6db88ed": {
       "id": "e6db88ed",
@@ -373,11 +391,11 @@
       "num": "10.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 3,
-        "gs": 0,
-        "avg": 0.5,
-        "ops": 1.0,
-        "ab": 4,
+        "g": 4,
+        "gs": 1,
+        "avg": 0.25,
+        "ops": 0.5,
+        "ab": 8,
         "r": 2,
         "h": 2,
         "doubles": 0,
@@ -385,20 +403,38 @@
         "hr": 0,
         "rbi": 2,
         "tb": 2,
-        "slg": 0.5,
+        "slg": 0.25,
         "bb": 0,
         "hbp": 0,
-        "so": 2,
-        "gdp": 0,
-        "obp": 0.5,
+        "so": 3,
+        "gdp": 1,
+        "obp": 0.25,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Texas Tech. Struggled to make contact."
     },
     "12f151f7": {
       "id": "12f151f7",
@@ -411,50 +447,42 @@
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 10.38,
-        "whip": 1.62,
+        "era": 7.11,
+        "whip": 1.42,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 4.1,
-        "h": 3,
-        "r": 5,
+        "ip": 6.1,
+        "h": 4,
+        "r": 7,
         "er": 5,
-        "bb": 4,
-        "so": 6,
+        "bb": 5,
+        "so": 9,
         "hr": 0,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".200"
+        "opp_avg": ".182"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
+          "ip": "2.0",
           "h": 1,
-          "r": 3,
-          "er": 3,
-          "bb": 2,
-          "so": 0,
-          "wp": 1,
-          "hbp": 0
+          "r": 2,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Texas Tech, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "f3d32e1d": {
       "id": "f3d32e1d",
@@ -485,8 +513,24 @@
         "wp": 0,
         "opp_avg": ".288"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "St. Thomas",
+        "result": "W",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20357",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 7,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 7,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against St. Thomas, throwing 5.0 innings. Struck out 7 while allowing just 7 hit(s) and 4 earned run(s) in a quality start."
     },
     "afaf7a44": {
       "id": "afaf7a44",
@@ -519,18 +563,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
+        "opponent": "St. Thomas",
+        "result": "L",
         "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 3,
@@ -542,7 +578,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 0.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against St. Thomas, throwing 0.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "9e6a36fd": {
       "id": "9e6a36fd",
@@ -554,11 +590,11 @@
       "num": "16.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 15,
-        "gs": 11,
-        "avg": 0.2,
-        "ops": 0.622,
-        "ab": 45,
+        "g": 16,
+        "gs": 12,
+        "avg": 0.188,
+        "ops": 0.599,
+        "ab": 48,
         "r": 6,
         "h": 9,
         "doubles": 1,
@@ -566,12 +602,12 @@
         "hr": 1,
         "rbi": 7,
         "tb": 13,
-        "slg": 0.289,
-        "bb": 9,
+        "slg": 0.271,
+        "bb": 10,
         "hbp": 0,
-        "so": 13,
+        "so": 15,
         "gdp": 1,
-        "obp": 0.333,
+        "obp": 0.328,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -597,22 +633,34 @@
         "opp_avg": ".500"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 1,
-          "pos": "1B"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": null
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 0/2 with 0 RBI against St Thomas. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Texas Tech. Struggled at the plate but saw 1 walk(s)."
     },
     "ff666cc0": {
       "id": "ff666cc0",
@@ -643,8 +691,24 @@
         "wp": 0,
         "opp_avg": ".280"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "TCU",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/tcu/boxscore/20360",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 3,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against TCU, throwing 1.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "d63862c9": {
       "id": "d63862c9",
@@ -676,31 +740,23 @@
         "opp_avg": ".176"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "TCU",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/tcu/boxscore/20360",
+        "batting": null,
         "pitching": {
-          "ip": "2.1",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 1,
+          "ip": "1.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 2.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against TCU, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "97cd51cb": {
       "id": "97cd51cb",
@@ -712,24 +768,24 @@
       "num": "21.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 13,
-        "avg": 0.269,
-        "ops": 0.884,
-        "ab": 52,
+        "g": 17,
+        "gs": 14,
+        "avg": 0.273,
+        "ops": 0.882,
+        "ab": 55,
         "r": 10,
-        "h": 14,
+        "h": 15,
         "doubles": 4,
         "triples": 0,
         "hr": 3,
-        "rbi": 12,
-        "tb": 27,
-        "slg": 0.519,
-        "bb": 4,
+        "rbi": 13,
+        "tb": 28,
+        "slg": 0.509,
+        "bb": 5,
         "hbp": 5,
-        "so": 15,
+        "so": 16,
         "gdp": 0,
-        "obp": 0.365,
+        "obp": 0.373,
         "sf": 2,
         "sh": 0,
         "sb": 1,
@@ -737,22 +793,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "C"
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against St Thomas. Struggled to make contact."
+      "narrative": "Went 1/3 with 1 RBI against Texas Tech. Contributed at the plate in the team's L."
     },
     "d33bc1ee": {
       "id": "d33bc1ee",
@@ -764,47 +823,50 @@
       "num": "23.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.172,
-        "ops": 0.494,
-        "ab": 64,
-        "r": 7,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.164,
+        "ops": 0.483,
+        "ab": 67,
+        "r": 8,
         "h": 11,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 8,
         "tb": 13,
-        "slg": 0.203,
+        "slg": 0.194,
         "bb": 10,
-        "hbp": 2,
+        "hbp": 3,
         "so": 11,
-        "gdp": 0,
-        "obp": 0.291,
+        "gdp": 1,
+        "obp": 0.289,
         "sf": 3,
         "sh": 0,
-        "sb": 2,
-        "sb_att": 2
+        "sb": 3,
+        "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
-          "ab": 2,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
-          "so": 1,
-          "pos": "2B"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against St Thomas. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Texas Tech. Struggled to make contact."
     },
     "e7aceea6": {
       "id": "e7aceea6",
@@ -817,50 +879,42 @@
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.86,
-        "whip": 1.14,
+        "era": 6.19,
+        "whip": 1.5,
         "w": 2,
         "l": 1,
         "sv": 0,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 14.0,
-        "h": 12,
-        "r": 7,
-        "er": 6,
-        "bb": 4,
+        "ip": 16.0,
+        "h": 19,
+        "r": 12,
+        "er": 11,
+        "bb": 5,
         "so": 17,
-        "hr": 1,
+        "hr": 2,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".226"
+        "opp_avg": ".297"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
+        "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
+          "ip": "2.0",
+          "h": 7,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Texas Tech, throwing 2.0 innings. Allowed 5 earned run(s) with 0 strikeout(s)."
     },
     "831372d2": {
       "id": "831372d2",
@@ -872,24 +926,24 @@
       "num": "26.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.29,
-        "ops": 0.813,
-        "ab": 62,
-        "r": 13,
-        "h": 18,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.303,
+        "ops": 0.87,
+        "ab": 66,
+        "r": 15,
+        "h": 20,
         "doubles": 5,
         "triples": 1,
-        "hr": 0,
-        "rbi": 12,
-        "tb": 25,
-        "slg": 0.403,
+        "hr": 1,
+        "rbi": 13,
+        "tb": 30,
+        "slg": 0.455,
         "bb": 12,
         "hbp": 2,
-        "so": 15,
+        "so": 16,
         "gdp": 1,
-        "obp": 0.41,
+        "obp": 0.415,
         "sf": 2,
         "sh": 0,
         "sb": 1,
@@ -897,22 +951,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 1,
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
           "so": 1,
-          "pos": "DH"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against St Thomas. Contributed at the plate in the team's L 2-13."
+      "narrative": "Went 2/4 with 1 RBI against Texas Tech. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "9e7caf53": {
       "id": "9e7caf53",
@@ -945,18 +1002,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "St Thomas",
-        "result": "W 9-8",
+        "opponent": "St. Thomas",
+        "result": "W",
         "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20358",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 2,
@@ -968,7 +1017,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against St. Thomas, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "603d53b4": {
       "id": "603d53b4",
@@ -980,24 +1029,24 @@
       "num": "31.0",
       "school": "University of Kansas",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.373,
-        "ops": 1.192,
-        "ab": 59,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.371,
+        "ops": 1.174,
+        "ab": 62,
         "r": 21,
-        "h": 22,
+        "h": 23,
         "doubles": 5,
         "triples": 0,
         "hr": 4,
         "rbi": 12,
-        "tb": 39,
-        "slg": 0.661,
-        "bb": 19,
+        "tb": 40,
+        "slg": 0.645,
+        "bb": 20,
         "hbp": 2,
-        "so": 11,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.531,
+        "obp": 0.529,
         "sf": 1,
         "sh": 0,
         "sb": 5,
@@ -1005,22 +1054,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 1,
-          "so": 1,
-          "pos": "RF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against St Thomas. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/3 with 0 RBI against Texas Tech. Contributed at the plate in the team's L."
     },
     "5f70f4e4": {
       "id": "5f70f4e4",
@@ -1052,31 +1104,23 @@
         "opp_avg": ".278"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "TCU",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/tcu/boxscore/20360",
+        "batting": null,
         "pitching": {
-          "ip": "1.1",
+          "ip": "2.0",
           "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
-          "so": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 1
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 1.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against TCU, throwing 2.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     },
     "6fd4a7f0": {
       "id": "6fd4a7f0",
@@ -1109,18 +1153,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "St Thomas",
-        "result": "W 9-8",
+        "opponent": "St. Thomas",
+        "result": "W",
         "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20358",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.1",
           "h": 5,
@@ -1132,7 +1168,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 4.1 innings. Allowed 3 earned run(s) with 7 strikeout(s)."
+      "narrative": "Took the mound against St. Thomas, throwing 4.1 innings. Allowed 3 earned run(s) with 7 strikeout(s)."
     },
     "2608bc09": {
       "id": "2608bc09",
@@ -1145,15 +1181,15 @@
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.94,
-        "whip": 2.12,
+        "era": 7.5,
+        "whip": 2.17,
         "w": 0,
         "l": 0,
         "sv": 2,
-        "g": 8,
+        "g": 9,
         "gs": 0,
-        "ip": 5.2,
-        "h": 7,
+        "ip": 6.0,
+        "h": 8,
         "r": 5,
         "er": 5,
         "bb": 5,
@@ -1161,24 +1197,16 @@
         "hr": 2,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".292"
+        "opp_avg": ".308"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
+        "batting": null,
         "pitching": {
-          "ip": "0.2",
+          "ip": "0.1",
           "h": 1,
           "r": 0,
           "er": 0,
@@ -1188,7 +1216,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Texas Tech, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "53fb71b6": {
       "id": "53fb71b6",
@@ -1220,31 +1248,23 @@
         "opp_avg": ".500"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-02-27",
+        "opponent": "Minnesota",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/minnesota/boxscore/20353",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
+          "ip": "0.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Minnesota, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "5c0067c0": {
       "id": "5c0067c0",
@@ -1275,8 +1295,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Minnesota",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/minnesota/boxscore/20353",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Minnesota, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "2e13566d": {
       "id": "2e13566d",
@@ -1289,26 +1325,42 @@
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.6,
-        "whip": 1.33,
+        "era": 4.24,
+        "whip": 1.47,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 3,
-        "ip": 15.0,
-        "h": 15,
-        "r": 6,
-        "er": 6,
-        "bb": 5,
-        "so": 13,
-        "hr": 3,
-        "hbp": 3,
+        "g": 5,
+        "gs": 4,
+        "ip": 17.0,
+        "h": 18,
+        "r": 8,
+        "er": 8,
+        "bb": 7,
+        "so": 15,
+        "hr": 4,
+        "hbp": 4,
         "wp": 0,
-        "opp_avg": ".259"
+        "opp_avg": ".273"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Texas Tech, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "d492729b": {
       "id": "d492729b",
@@ -1321,26 +1373,42 @@
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.36,
-        "whip": 1.64,
+        "era": 8.44,
+        "whip": 1.5,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 3.2,
-        "h": 4,
-        "r": 4,
-        "er": 3,
-        "bb": 2,
-        "so": 4,
+        "ip": 5.1,
+        "h": 5,
+        "r": 6,
+        "er": 5,
+        "bb": 3,
+        "so": 7,
         "hr": 1,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".308"
+        "opp_avg": ".278"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Texas Tech",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20361",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Texas Tech, throwing 1.2 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
     },
     "23e58ee9": {
       "id": "23e58ee9",
@@ -1372,31 +1440,23 @@
         "opp_avg": ".333"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
-        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "TCU",
+        "result": "L",
+        "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/tcu/boxscore/20360",
+        "batting": null,
         "pitching": {
           "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against TCU, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "8154d8aa": {
       "id": "8154d8aa",
@@ -1429,18 +1489,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "St Thomas",
-        "result": "L 2-13",
+        "opponent": "St. Thomas",
+        "result": "L",
         "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/st-thomas/boxscore/20359",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 4,
@@ -1452,7 +1504,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Thomas, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against St. Thomas, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

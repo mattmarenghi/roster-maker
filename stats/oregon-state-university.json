@@ -2,16 +2,16 @@
   "school": "Oregon State University",
   "base_url": "https://osubeavers.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:57:19.407304Z",
-  "record": "11-4",
+  "generated_at": "2026-03-14T15:21:17.388005Z",
+  "record": "12-4",
   "most_recent_game": {
-    "date": "2026-03-09",
-    "opponent": "Xavier",
-    "result": "W 7-2",
-    "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
-    "recap_url": "https://osubeavers.com/news/2026/3/9/baseball-beavers-rally-to-complete-four-game-sweep",
+    "date": "2026-03-13",
+    "opponent": "San Diego",
+    "result": "W",
+    "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
+    "recap_url": "https://osubeavers.com/news/2026/3/13/baseball-beavers-four-homers-pave-the-way-to-7-5-win",
     "recap_headline": "Oregon State University Athletics",
-    "recap_text": "CORVALLIS, Ore.\n\u2013 Oregon State's six-run seventh inning pushed the Beavers to a 7-2 win over Xavier Monday at Goss Stadium at Coleman Field, giving Oregon State the four-game sweep.\nTyler Inge\ndrove a two-run double to tie the game after Oregon State found itself entering the inning down 2-0.\nAdam Haight\nthen blooped in the game-winning, scored on a wild pitch, and then watched\nJacob Galloway\ndrive in the fifth run of the inning on a double to short center.\nBryce Hubbard\ncapped off Oregon State's (11-4 overall) scoring on a single to right.\nThe Beavers added on a seventh run in the eighth on another wild pitch and just like that the comeback was complete, ensuring Oregon State's sixth-consecutive win. Xavier, meanwhile, dropped to 5-11 on the year.\nAJ Hutcheson\ncame on in relief in the top of the seventh, and got out of a bases-loaded jam. He induced a 5-2 fielder's choice for out No. 2, then picked up a strikeout to close out the win. He eventually earned the win after the Beavers' come-from-behind victory.\nGalloway had two of the Beavers' six hits on the night.\nConnor Mendez\nstarted for the Beavers, and the first of five OSU pitchers worked four innings, scattering a hit and a run with five strikeouts. His lone blemish was a solo home run by Clay Burdette.\nBurdette put Xavier up 2-0 with a sixth-inning sacrifice fly.\nThe Beavers hit the road for an eight-game road trip that starts Friday in San Diego. The Beavers and Toreros get underway from Fowler Park at 6 p.m. PT. The game will air live on the Beaver Sports Network and ESPN+.\nFollow Us On Social\nFor more information on the Oregon State baseball team, follow the club's official X account at X.com/BeaverBaseball, by Facebook at Facebook.com/OregonStateBaseball, at BeaverBaseball.OSUBeavers.com on BlueSky or on Instagram at Instagram.com/BeaverBaseball.\nOUR MISSION\nOregon State Athletics strives to Build Excellent Authentic Visionary Student-Athletes (Go BEAVS)."
+    "recap_text": "SAN DIEGO, Calif.\n\u2013 Four different Beavers hit home runs \u2013 setting a season-high \u2013 to pace 18\nth\n-ranked Oregon State to a 7-5 series-opening win over San Diego Friday night at Fowler Park and Cunningham Field.\nThe win, Oregon State's seventh in-a-row, was also the Beavers' 10\nth\nconsecutive against the Toreros dating back to 2016. OSU (12-4 overall) is 15-10 all-time against San Diego.\nEaston Talt\nand\nJosh Proctor\nhit back-to-back home runs in the first. Talt, the game's third batter, hit his first of the year to make it a 2-0 OSU lead. Proctor made it 3-0 with a shot to left, his third long ball of the season.\nPaul Vazquez\nfollowed those long balls up with a fifth-inning solo shot. His second home run of the season hit off the batter's eye in center field.\nJacob Krieg\nbelted the 27\nth\nof his career in the seventh, sending the first pitch he saw over the fence in left center. His 27 tie him for ninth all-time at Oregon State.\nSan Diego (7-10), down 7-2 entering the eighth, pulled to within two thanks to a groundout by Gage Mestas and single by Jayton Greer.\nNoah Scott\n, who worked one inning, was able to get out of the frame with no more damage, inducing a fly ball to end the frame. That led to\nAlbert Roblez\nthrowing in the ninth, picking up his sixth save of the season.\nDax Whitney\nstarted for the Beavers and the right-hander improved to 3-0 on the year after five innings of work. He struck out nine \u2013 and has 54 on the year \u2013 while scattering three hits, two walks and an unearned run.\nSan Diego's Diego Gutierrez started and allowed five hits and four runs in five innings of work. He took the loss to drop to 1-2 on the year.\nJacob Galloway\nextended his hit streak to 10 games with a 2-for-5 night. Talt, Vazquez and\nAJ Singer\nall had two hits as well.\nThe teams continue the three-game series Friday at Fowler Park and Cunningham Field. First pitch is scheduled for 5 p.m. PT and it will air live on ESPN+ and the Beaver Sports Network.\nFollow Us On Social\nFor more information on the Oregon State baseball team, follow the club's official X account at X.com/BeaverBaseball, by Facebook at Facebook.com/OregonStateBaseball, at BeaverBaseball.OSUBeavers.com on BlueSky or on Instagram at Instagram.com/BeaverBaseball.\nOUR MISSION\nOregon State Athletics strives to Build Excellent Authentic Visionary Student-Athletes (Go BEAVS)."
   },
   "players": {
     "6c2a6c6a": {
@@ -46,17 +46,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22541",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -105,22 +97,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-06",
         "opponent": "Xavier",
-        "result": "W 17-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22540",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 1,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR/SS"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/3 with 0 RBI against Xavier. Struggled to make contact."
     },
     "4aeb822a": {
       "id": "4aeb822a",
@@ -159,7 +154,7 @@
       "last_game": {
         "date": "2026-03-09",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
         "batting": {
           "ab": 1,
@@ -168,7 +163,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "PR/CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -184,11 +182,11 @@
       "num": "4.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 11,
-        "gs": 11,
-        "avg": 0.333,
-        "ops": 0.917,
-        "ab": 42,
+        "g": 12,
+        "gs": 12,
+        "avg": 0.298,
+        "ops": 0.824,
+        "ab": 47,
         "r": 9,
         "h": 14,
         "doubles": 1,
@@ -196,12 +194,12 @@
         "hr": 2,
         "rbi": 7,
         "tb": 21,
-        "slg": 0.5,
+        "slg": 0.447,
         "bb": 2,
         "hbp": 4,
-        "so": 12,
+        "so": 15,
         "gdp": 1,
-        "obp": 0.417,
+        "obp": 0.377,
         "sf": 0,
         "sh": 1,
         "sb": 1,
@@ -209,22 +207,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
           "ab": 5,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "RF/LF"
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 1 RBI against Xavier. Struggled to make contact."
+      "narrative": "Went 0/5 with 0 RBI against San Diego. Struggled to make contact."
     },
     "20a0a173": {
       "id": "20a0a173",
@@ -236,24 +237,24 @@
       "num": "6.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.246,
-        "ops": 0.708,
-        "ab": 57,
-        "r": 8,
-        "h": 14,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.262,
+        "ops": 0.775,
+        "ab": 61,
+        "r": 10,
+        "h": 16,
         "doubles": 4,
         "triples": 1,
-        "hr": 0,
-        "rbi": 13,
-        "tb": 20,
-        "slg": 0.351,
+        "hr": 1,
+        "rbi": 15,
+        "tb": 25,
+        "slg": 0.41,
         "bb": 11,
         "hbp": 0,
-        "so": 8,
+        "so": 9,
         "gdp": 2,
-        "obp": 0.357,
+        "obp": 0.365,
         "sf": 2,
         "sh": 0,
         "sb": 4,
@@ -261,22 +262,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 2,
-          "h": 0,
-          "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "CF/RF"
+          "h": 2,
+          "rbi": 2,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Xavier. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 2/4 with 2 RBI against San Diego. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "e8f3222a": {
       "id": "e8f3222a",
@@ -288,24 +292,24 @@
       "num": "7.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.161,
-        "ops": 0.438,
-        "ab": 56,
-        "r": 10,
-        "h": 9,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.183,
+        "ops": 0.473,
+        "ab": 60,
+        "r": 11,
+        "h": 11,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
-        "rbi": 2,
-        "tb": 9,
-        "slg": 0.161,
+        "rbi": 3,
+        "tb": 11,
+        "slg": 0.183,
         "bb": 8,
         "hbp": 1,
         "so": 8,
         "gdp": 2,
-        "obp": 0.277,
+        "obp": 0.29,
         "sf": 0,
         "sh": 3,
         "sb": 1,
@@ -313,22 +317,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Xavier. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 2/4 with 1 RBI against San Diego. Had an outstanding performance at the plate (0.500)."
     },
     "99e35923": {
       "id": "99e35923",
@@ -341,26 +348,42 @@
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.11,
-        "whip": 0.82,
-        "w": 2,
+        "era": 0.92,
+        "whip": 0.85,
+        "w": 3,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 24.1,
-        "h": 12,
-        "r": 3,
+        "g": 5,
+        "gs": 5,
+        "ip": 29.1,
+        "h": 15,
+        "r": 4,
         "er": 3,
-        "bb": 8,
-        "so": 45,
+        "bb": 10,
+        "so": 54,
         "hr": 2,
         "hbp": 1,
-        "wp": 1,
-        "opp_avg": ".146"
+        "wp": 2,
+        "opp_avg": ".152"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 3,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 9,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego, throwing 5.0 innings. Struck out 9 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
     },
     "816d2d8b": {
       "id": "816d2d8b",
@@ -372,11 +395,11 @@
       "num": "10.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 15,
-        "gs": 11,
-        "avg": 0.333,
-        "ops": 0.99,
-        "ab": 39,
+        "g": 16,
+        "gs": 12,
+        "avg": 0.31,
+        "ops": 0.924,
+        "ab": 42,
         "r": 7,
         "h": 13,
         "doubles": 0,
@@ -384,12 +407,12 @@
         "hr": 3,
         "rbi": 9,
         "tb": 22,
-        "slg": 0.564,
+        "slg": 0.524,
         "bb": 5,
         "hbp": 2,
-        "so": 8,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.426,
+        "obp": 0.4,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -397,22 +420,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Xavier. Contributed at the plate in the team's W 7-2."
+      "narrative": "Went 0/3 with 0 RBI against San Diego. Struggled to make contact."
     },
     "6ebadb60": {
       "id": "6ebadb60",
@@ -446,17 +472,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Xavier",
-        "result": "W 17-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -480,24 +498,24 @@
       "num": "13.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.426,
-        "ops": 1.107,
-        "ab": 47,
-        "r": 11,
-        "h": 20,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.423,
+        "ops": 1.081,
+        "ab": 52,
+        "r": 12,
+        "h": 22,
         "doubles": 7,
         "triples": 0,
         "hr": 0,
         "rbi": 10,
-        "tb": 27,
-        "slg": 0.574,
+        "tb": 29,
+        "slg": 0.558,
         "bb": 6,
         "hbp": 6,
         "so": 3,
         "gdp": 1,
-        "obp": 0.533,
+        "obp": 0.523,
         "sf": 1,
         "sh": 5,
         "sb": 0,
@@ -505,22 +523,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
           "ab": 5,
           "r": 1,
           "h": 2,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "C"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 1 RBI against Xavier. Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 2/5 with 0 RBI against San Diego. Had an outstanding performance at the plate (0.400)."
     },
     "f0235ae9": {
       "id": "f0235ae9",
@@ -532,11 +553,11 @@
       "num": "14.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 14,
-        "gs": 10,
-        "avg": 0.29,
-        "ops": 0.855,
-        "ab": 31,
+        "g": 15,
+        "gs": 11,
+        "avg": 0.265,
+        "ops": 0.787,
+        "ab": 34,
         "r": 11,
         "h": 9,
         "doubles": 2,
@@ -544,35 +565,38 @@
         "hr": 0,
         "rbi": 5,
         "tb": 13,
-        "slg": 0.419,
+        "slg": 0.382,
         "bb": 7,
         "hbp": 1,
-        "so": 10,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.436,
+        "obp": 0.405,
         "sf": 0,
-        "sh": 1,
+        "sh": 2,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "SS"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 2 RBI against Xavier. Contributed at the plate in the team's W 7-2."
+      "narrative": "Went 0/3 with 0 RBI against San Diego. Struggled to make contact."
     },
     "77f37e4d": {
       "id": "77f37e4d",
@@ -611,7 +635,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Xavier",
-        "result": "W 17-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
         "batting": {
           "ab": 3,
@@ -620,11 +644,14 @@
           "rbi": 1,
           "bb": 0,
           "so": 1,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Xavier. Contributed at the plate in the team's W 17-2."
+      "narrative": "Went 1/3 with 1 RBI against Xavier. Contributed at the plate in the team's W."
     },
     "b6ee8fd0": {
       "id": "b6ee8fd0",
@@ -658,17 +685,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Xavier",
-        "result": "W 17-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.2",
           "h": 6,
@@ -692,11 +711,11 @@
       "num": "17.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 4,
-        "avg": 0.222,
-        "ops": 0.921,
-        "ab": 9,
+        "avg": 0.2,
+        "ops": 0.856,
+        "ab": 10,
         "r": 4,
         "h": 2,
         "doubles": 1,
@@ -704,12 +723,12 @@
         "hr": 0,
         "rbi": 0,
         "tb": 3,
-        "slg": 0.333,
+        "slg": 0.3,
         "bb": 6,
         "hbp": 2,
         "so": 2,
         "gdp": 0,
-        "obp": 0.588,
+        "obp": 0.556,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -717,22 +736,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Xavier",
-        "result": "W 17-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against San Diego. Struggled to make contact."
     },
     "4d5a1289": {
       "id": "4d5a1289",
@@ -745,26 +767,42 @@
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.48,
-        "whip": 1.06,
+        "era": 3.65,
+        "whip": 1.14,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 10.1,
-        "h": 10,
-        "r": 5,
-        "er": 4,
-        "bb": 1,
-        "so": 17,
+        "ip": 12.1,
+        "h": 12,
+        "r": 6,
+        "er": 5,
+        "bb": 2,
+        "so": 21,
         "hr": 1,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".244"
+        "opp_avg": ".245"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego, throwing 2.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     },
     "f5890983": {
       "id": "f5890983",
@@ -803,7 +841,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Xavier",
-        "result": "W 17-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
         "batting": {
           "ab": 2,
@@ -812,7 +850,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "PH/DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -828,24 +869,24 @@
       "num": "21.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 12,
-        "gs": 10,
-        "avg": 0.279,
-        "ops": 0.852,
-        "ab": 43,
-        "r": 7,
-        "h": 12,
+        "g": 13,
+        "gs": 11,
+        "avg": 0.283,
+        "ops": 0.918,
+        "ab": 46,
+        "r": 8,
+        "h": 13,
         "doubles": 4,
         "triples": 0,
-        "hr": 2,
-        "rbi": 11,
-        "tb": 22,
-        "slg": 0.512,
+        "hr": 3,
+        "rbi": 12,
+        "tb": 26,
+        "slg": 0.565,
         "bb": 4,
-        "hbp": 0,
+        "hbp": 1,
         "so": 10,
         "gdp": 1,
-        "obp": 0.34,
+        "obp": 0.353,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -853,22 +894,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "LF"
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Xavier. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/3 with 1 RBI against San Diego. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "693700ba": {
       "id": "693700ba",
@@ -880,24 +924,24 @@
       "num": "22.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 15,
-        "gs": 12,
-        "avg": 0.205,
-        "ops": 0.711,
-        "ab": 39,
-        "r": 5,
-        "h": 8,
+        "g": 16,
+        "gs": 13,
+        "avg": 0.209,
+        "ops": 0.762,
+        "ab": 43,
+        "r": 6,
+        "h": 9,
         "doubles": 1,
         "triples": 0,
-        "hr": 2,
-        "rbi": 8,
-        "tb": 15,
-        "slg": 0.385,
+        "hr": 3,
+        "rbi": 10,
+        "tb": 19,
+        "slg": 0.442,
         "bb": 5,
         "hbp": 2,
-        "so": 14,
+        "so": 16,
         "gdp": 1,
-        "obp": 0.326,
+        "obp": 0.32,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -905,22 +949,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
-          "ab": 2,
+          "ab": 4,
           "r": 1,
           "h": 1,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "1B"
+          "rbi": 2,
+          "bb": 0,
+          "so": 2,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Xavier. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/4 with 2 RBI against San Diego. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "53c49fb2": {
       "id": "53c49fb2",
@@ -954,17 +1001,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22541",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 4,
@@ -1012,8 +1051,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "vs Baylor",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/baylor/boxscore/22533",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against vs Baylor. Struggled to make contact."
     },
     "52907ae4": {
       "id": "52907ae4",
@@ -1025,24 +1082,24 @@
       "num": "27.0",
       "school": "Oregon State University",
       "season_batting": {
-        "g": 9,
-        "gs": 9,
-        "avg": 0.235,
-        "ops": 0.61,
-        "ab": 34,
-        "r": 2,
-        "h": 8,
-        "doubles": 1,
+        "g": 10,
+        "gs": 10,
+        "avg": 0.263,
+        "ops": 0.756,
+        "ab": 38,
+        "r": 3,
+        "h": 10,
+        "doubles": 2,
         "triples": 0,
-        "hr": 1,
-        "rbi": 3,
-        "tb": 12,
-        "slg": 0.353,
+        "hr": 2,
+        "rbi": 4,
+        "tb": 18,
+        "slg": 0.474,
         "bb": 1,
         "hbp": 0,
         "so": 12,
         "gdp": 2,
-        "obp": 0.257,
+        "obp": 0.282,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -1050,22 +1107,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
-          "pos": "3B"
+          "so": 0,
+          "hr": 1,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Xavier. Struggled to make contact."
+      "narrative": "Went 2/4 with 1 RBI against San Diego. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "66e3464c": {
       "id": "66e3464c",
@@ -1099,17 +1159,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Xavier",
-        "result": "W 17-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -1134,26 +1186,42 @@
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.42,
+        "era": 1.23,
         "whip": 0.95,
         "w": 0,
         "l": 0,
-        "sv": 5,
-        "g": 6,
+        "sv": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 6.1,
+        "ip": 7.1,
         "h": 6,
         "r": 1,
         "er": 1,
-        "bb": 0,
-        "so": 12,
+        "bb": 1,
+        "so": 14,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".250"
+        "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "60c0dc09": {
       "id": "60c0dc09",
@@ -1187,17 +1255,9 @@
       "last_game": {
         "date": "2026-03-09",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 1,
@@ -1243,17 +1303,9 @@
       "last_game": {
         "date": "2026-03-09",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1278,50 +1330,42 @@
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.8,
-        "whip": 1.1,
+        "era": 4.09,
+        "whip": 1.36,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 10.0,
-        "h": 6,
-        "r": 2,
-        "er": 2,
-        "bb": 5,
-        "so": 11,
+        "ip": 11.0,
+        "h": 9,
+        "r": 5,
+        "er": 5,
+        "bb": 6,
+        "so": 12,
         "hr": 0,
         "hbp": 2,
         "wp": 2,
-        "opp_avg": ".176"
+        "opp_avg": ".225"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Xavier",
-        "result": "W 7-2",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22541",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "San Diego",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22544",
+        "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
+          "ip": "1.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
           "bb": 1,
-          "so": 2,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Xavier, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against San Diego, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "0831d194": {
       "id": "0831d194",
@@ -1355,17 +1399,9 @@
       "last_game": {
         "date": "2026-03-09",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 2,
@@ -1411,17 +1447,9 @@
       "last_game": {
         "date": "2026-03-09",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -1469,8 +1497,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "Oregon",
+        "result": "W",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/oregon/boxscore/22539",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Oregon. Struggled to make contact."
     },
     "8541eb02": {
       "id": "8541eb02",
@@ -1504,17 +1550,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Xavier",
-        "result": "W 17-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22542",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.2",
           "h": 2,
@@ -1560,17 +1598,9 @@
       "last_game": {
         "date": "2026-03-09",
         "opponent": "Xavier",
-        "result": "W 7-2",
+        "result": "W",
         "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/xavier/boxscore/22543",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.0",
           "h": 1,

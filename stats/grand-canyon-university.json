@@ -2,16 +2,16 @@
   "school": "Grand Canyon University",
   "base_url": "https://www.gculopes.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:38:59.741427Z",
-  "record": "6-11",
+  "generated_at": "2026-03-14T14:52:32.732950Z",
+  "record": "6-12",
   "most_recent_game": {
-    "date": "2026-03-09",
-    "opponent": "Utah",
-    "result": "W 7-2",
-    "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
-    "recap_url": "https://www.gculopes.com/news/2026/3/9/baseball-grand-canyon-falls-in-finale-at-utah",
+    "date": "2026-03-13",
+    "opponent": "Rice",
+    "result": "L",
+    "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+    "recap_url": "https://www.gculopes.com/news/2026/3/13/baseball-gcu-drops-weekend-opener-to-rice",
     "recap_headline": "Grand Canyon University Athletics",
-    "recap_text": "SALT LAKE CITY \u2014\nGrand Canyon generated an early spark but could not sustain the momentum Monday afternoon, falling 7-2 to Utah at Charlie Monfort Field at America First Ballpark to close a four-game road series.\nThe Lopes' highlight came in the second inning when graduate catcher\nMito Perez\nopened the frame with a double to left-center, setting the stage for senior designated hitter\nDominic Chacon\n. Chacon followed by launching a two-run home run to left field, his second of the season, to give GCU a brief lead and supply the team's offensive production for the afternoon.\nPerez's extra-base hit ignited the rally, and Chacon quickly capitalized, driving a 389-foot shot over the left-field wall that scored two runs and put the Lopes ahead early. The inning also featured another extra-base hit when junior shortstop\nTroy Sanders\ndoubled later in the frame as GCU collected three hits in the inning.\nUtah answered in the bottom of the third and gradually pulled away, but the Lopes continued to battle throughout the afternoon. Sanders finished with a two-hit day, while Perez, Chacon, junior third baseman\nBilly Scaldeferri\nand junior left fielder\nCarson Ohland\nadded one hit apiece as GCU totaled six hits in the finale.\nOn the mound, GCU used five pitchers with junior\u00a0right-hander\nNicholas Robb\ndrawing the start before freshman\nCody Kiemele\n, sophomore\nBilly Gregory\n, graduate\nAidan Lee\nand senior\nElijah Higginbottom\ncombined to cover the final five innings. Higginbottom delivered a clean eighth inning to close the pitching effort.\nThe Lopes now return home to Brazell Field at GCU Ballpark looking to return to the win column with four games this weekend. GCU will host Saint Mary's and Rice for two games apiece, beginning Friday night as the Lopes open a homestand that provides an opportunity to reset and continue developing early in the season."
+    "recap_text": "Grand Canyon dropped its weekend opener to Rice 16-5 on Friday night at Brazell Field at GCU Ballpark despite several productive offensive performances from the Lopes lineup.\nRice (11-8) used early offense with three runs in the first and four in the second to build a lead it would not relinquish, finishing with 16 hits and 10 walks in the win.\nGCU (6-12) showed offensive flashes throughout the night, beginning with a run in the first inning before adding two in the fifth and two more in the sixth.\nSophomore second baseman\nJake Sanko\nled the Lopes with a 2-for-4 performance and two runs scored, while junior right fielder\nBilly Scaldeferri\nwent 2 for 4 with an RBI triple. Senior designated hitter\nDominic Chacon\nalso delivered a bright spot with a solo home run in the sixth inning, his third of the season.\nGraduate catcher\nMito Perez\n, junior first baseman\nCannon Peery\nand junior shortstop\nTroy Sanders\neach added a hit as the Lopes totaled nine hits and drew seven walks, but GCU struggled to convert scoring opportunities, finishing 1 for 13 with runners in scoring position and leaving 12 runners on base.\nJunior right-hander\nGarrett Ahern\ntook the loss after starting the game for GCU, while the Lopes bullpen combined to cover the final 5 1/3 innings. Senior righty\nBrock Toney\nprovided a clean inning in relief in the eighth, striking out one and allowing no baserunners.\nGCU will quickly get back to the diamond with a pair of games on Saturday. The Lopes will play Saint Mary's at 1 p.m. and rematch with Rice at 6 p.m."
   },
   "players": {
     "d4d4e613": {
@@ -48,8 +48,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Pacific",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/pacific/boxscore/20850",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Pacific. Struggled to make contact."
     },
     "25be1753": {
       "id": "25be1753",
@@ -85,8 +103,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20855",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Utah. Struggled to make contact."
     },
     "e429f15a": {
       "id": "e429f15a",
@@ -135,32 +171,50 @@
       "num": "6.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 16,
-        "gs": 14,
-        "avg": 0.245,
-        "ops": 0.717,
-        "ab": 53,
+        "g": 17,
+        "gs": 15,
+        "avg": 0.25,
+        "ops": 0.715,
+        "ab": 56,
         "r": 12,
-        "h": 13,
+        "h": 14,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
         "rbi": 3,
-        "tb": 19,
-        "slg": 0.358,
+        "tb": 20,
+        "slg": 0.357,
         "bb": 6,
         "hbp": 4,
         "so": 3,
-        "gdp": 1,
-        "obp": 0.359,
+        "gdp": 2,
+        "obp": 0.358,
         "sf": 1,
         "sh": 1,
         "sb": 4,
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Rice. Contributed at the plate in the team's L."
     },
     "c73a3a27": {
       "id": "c73a3a27",
@@ -196,8 +250,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20854",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Utah. Struggled to make contact."
     },
     "bee951ee": {
       "id": "bee951ee",
@@ -209,32 +281,50 @@
       "num": "8.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.372,
-        "ops": 0.859,
-        "ab": 43,
-        "r": 5,
-        "h": 16,
-        "doubles": 2,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.383,
+        "ops": 0.902,
+        "ab": 47,
+        "r": 7,
+        "h": 18,
+        "doubles": 3,
         "triples": 0,
         "hr": 0,
         "rbi": 8,
-        "tb": 18,
-        "slg": 0.419,
-        "bb": 5,
+        "tb": 21,
+        "slg": 0.447,
+        "bb": 6,
         "hbp": 1,
-        "so": 8,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.44,
+        "obp": 0.455,
         "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Rice. Had an outstanding performance at the plate (0.500)."
     },
     "a04c63f5": {
       "id": "a04c63f5",
@@ -246,32 +336,50 @@
       "num": "11.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.357,
-        "ops": 1.054,
-        "ab": 56,
-        "r": 7,
-        "h": 20,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.367,
+        "ops": 1.092,
+        "ab": 60,
+        "r": 8,
+        "h": 22,
         "doubles": 6,
-        "triples": 1,
+        "triples": 2,
         "hr": 3,
-        "rbi": 16,
-        "tb": 37,
-        "slg": 0.661,
-        "bb": 3,
+        "rbi": 17,
+        "tb": 41,
+        "slg": 0.683,
+        "bb": 4,
         "hbp": 1,
-        "so": 8,
+        "so": 10,
         "gdp": 2,
-        "obp": 0.393,
+        "obp": 0.409,
         "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 1 RBI against Rice. Had an outstanding performance at the plate (0.500)."
     },
     "802d88c3": {
       "id": "802d88c3",
@@ -307,8 +415,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Utah. Contributed at the plate in the team's L."
     },
     "cccef2de": {
       "id": "cccef2de",
@@ -339,8 +465,24 @@
         "wp": 1,
         "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "6fe86ec0": {
       "id": "6fe86ec0",
@@ -376,8 +518,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20855",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Utah. Struggled to make contact."
     },
     "c08c758f": {
       "id": "c08c758f",
@@ -413,8 +573,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Utah. Struggled at the plate but saw 1 walk(s)."
     },
     "b3fd3cbd": {
       "id": "b3fd3cbd",
@@ -427,26 +605,42 @@
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.6,
-        "whip": 1.6,
+        "era": 3.86,
+        "whip": 1.71,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 3,
+        "g": 4,
         "gs": 0,
-        "ip": 5.0,
-        "h": 4,
-        "r": 2,
-        "er": 2,
-        "bb": 4,
+        "ip": 7.0,
+        "h": 6,
+        "r": 3,
+        "er": 3,
+        "bb": 6,
         "so": 4,
         "hr": 1,
         "hbp": 1,
         "wp": 2,
-        "opp_avg": ".211"
+        "opp_avg": ".231"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20853",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "5aad7ca5": {
       "id": "5aad7ca5",
@@ -459,26 +653,97 @@
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.0,
+        "era": 13.5,
+        "whip": 4.5,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 1,
+        "g": 2,
         "gs": 0,
-        "ip": 0.1,
-        "h": 0,
-        "r": 0,
-        "er": 0,
-        "bb": 0,
-        "so": 0,
+        "ip": 0.2,
+        "h": 1,
+        "r": 1,
+        "er": 1,
+        "bb": 2,
+        "so": 1,
         "hr": 0,
         "hbp": 0,
-        "wp": 0,
-        "opp_avg": ".000"
+        "wp": 1,
+        "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rice, throwing 0.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "476f051d": {
+      "id": "476f051d",
+      "name": "Gunnar Penzkover",
+      "fn": "Gunnar",
+      "ln": "Penzkover",
+      "pos": "RHP/OF",
+      "yr": "So.",
+      "num": "21.0",
+      "school": "Grand Canyon University",
+      "season_batting": {
+        "g": 1,
+        "gs": 1,
+        "avg": 0.25,
+        "ops": 0.65,
+        "ab": 4,
+        "r": 0,
+        "h": 1,
+        "doubles": 0,
+        "triples": 0,
+        "hr": 0,
+        "rbi": 0,
+        "tb": 1,
+        "slg": 0.25,
+        "bb": 1,
+        "hbp": 0,
+        "so": 1,
+        "gdp": 0,
+        "obp": 0.4,
+        "sf": 0,
+        "sh": 0,
+        "sb": 0,
+        "sb_att": 0
+      },
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Rice. Contributed at the plate in the team's L."
     },
     "17d7cb74": {
       "id": "17d7cb74",
@@ -491,26 +756,42 @@
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.06,
-        "whip": 1.5,
+        "era": 4.26,
+        "whip": 1.26,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 5.1,
+        "ip": 6.1,
         "h": 5,
         "r": 3,
         "er": 3,
         "bb": 3,
-        "so": 6,
+        "so": 7,
         "hr": 0,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".278"
+        "opp_avg": ".238"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rice, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "2b2c0a4e": {
       "id": "2b2c0a4e",
@@ -522,32 +803,50 @@
       "num": "23.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.279,
-        "ops": 0.925,
-        "ab": 61,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.281,
+        "ops": 0.944,
+        "ab": 64,
         "r": 8,
-        "h": 17,
-        "doubles": 3,
+        "h": 18,
+        "doubles": 4,
         "triples": 0,
         "hr": 4,
         "rbi": 11,
-        "tb": 32,
-        "slg": 0.525,
-        "bb": 9,
-        "hbp": 4,
+        "tb": 34,
+        "slg": 0.531,
+        "bb": 10,
+        "hbp": 5,
         "so": 17,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.413,
         "sf": 1,
         "sh": 0,
-        "sb": 2,
-        "sb_att": 2
+        "sb": 4,
+        "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Utah. Struggled to make contact."
     },
     "74b52533": {
       "id": "74b52533",
@@ -578,8 +877,24 @@
         "wp": 2,
         "opp_avg": ".279"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20854",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 8,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 6,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 6.0 innings. Struck out 6 while allowing just 8 hit(s) and 1 earned run(s) in a quality start."
     },
     "b08792f4": {
       "id": "b08792f4",
@@ -611,22 +926,23 @@
         "opp_avg": ".243"
       },
       "last_game": {
-        "date": "2026-03-07",
+        "date": "2026-03-06",
         "opponent": "Utah",
-        "result": "W 1-0",
-        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20854",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "C"
-        },
-        "pitching": null
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20853",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 0/3 with 0 RBI against Utah. Struggled to make contact."
+      "narrative": "Took the mound against Utah, throwing 2.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "50ad74e4": {
       "id": "50ad74e4",
@@ -657,8 +973,24 @@
         "wp": 1,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20855",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 2.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "f3ef2729": {
       "id": "f3ef2729",
@@ -694,8 +1026,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Oklahoma State",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/oklahoma-state/boxscore/20846",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Oklahoma State. Struggled to make contact."
     },
     "1cc845d2": {
       "id": "1cc845d2",
@@ -726,8 +1076,24 @@
         "wp": 0,
         "opp_avg": ".241"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20854",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 2.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "9e1f4e3b": {
       "id": "9e1f4e3b",
@@ -739,32 +1105,50 @@
       "num": "30.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 15,
-        "gs": 13,
-        "avg": 0.213,
-        "ops": 0.689,
-        "ab": 47,
-        "r": 10,
-        "h": 10,
+        "g": 16,
+        "gs": 14,
+        "avg": 0.224,
+        "ops": 0.796,
+        "ab": 49,
+        "r": 11,
+        "h": 11,
         "doubles": 1,
         "triples": 0,
-        "hr": 2,
-        "rbi": 5,
-        "tb": 17,
-        "slg": 0.362,
-        "bb": 7,
+        "hr": 3,
+        "rbi": 6,
+        "tb": 21,
+        "slg": 0.429,
+        "bb": 10,
         "hbp": 1,
         "so": 17,
         "gdp": 0,
-        "obp": 0.327,
+        "obp": 0.367,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 2,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 2 RBI against Utah. Hit 1 home run(s). Contributed at the plate in the team's L."
     },
     "68e247b4": {
       "id": "68e247b4",
@@ -777,26 +1161,42 @@
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.0,
-        "whip": 1.75,
+        "era": 10.38,
+        "whip": 2.0,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 2,
-        "ip": 12.0,
-        "h": 19,
-        "r": 12,
-        "er": 12,
-        "bb": 2,
-        "so": 8,
+        "ip": 13.0,
+        "h": 22,
+        "r": 15,
+        "er": 15,
+        "bb": 4,
+        "so": 10,
         "hr": 2,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".365"
+        "opp_avg": ".379"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rice, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "86f7c4cf": {
       "id": "86f7c4cf",
@@ -809,26 +1209,42 @@
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.91,
-        "whip": 1.58,
+        "era": 5.73,
+        "whip": 1.77,
         "w": 1,
-        "l": 2,
+        "l": 3,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 18.1,
-        "h": 20,
-        "r": 12,
-        "er": 10,
-        "bb": 9,
-        "so": 20,
-        "hr": 1,
-        "hbp": 1,
+        "g": 5,
+        "gs": 5,
+        "ip": 22.0,
+        "h": 27,
+        "r": 20,
+        "er": 14,
+        "bb": 12,
+        "so": 25,
+        "hr": 2,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".274"
+        "opp_avg": ".297"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 7,
+          "r": 8,
+          "er": 4,
+          "bb": 3,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Rice, throwing 3.2 innings. Allowed 4 earned run(s) with 5 strikeout(s)."
     },
     "6c587c60": {
       "id": "6c587c60",
@@ -859,8 +1275,24 @@
         "wp": 0,
         "opp_avg": ".339"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20855",
+        "batting": null,
+        "pitching": {
+          "ip": "5.1",
+          "h": 7,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 5.1 innings. Struck out 5 while allowing just 7 hit(s) and 3 earned run(s) in a quality start."
     },
     "849e3d95": {
       "id": "849e3d95",
@@ -896,8 +1328,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Penn State",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/penn-state/boxscore/21048",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Penn State. Struggled to make contact."
     },
     "1de5c2df": {
       "id": "1de5c2df",
@@ -910,26 +1360,42 @@
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.82,
-        "whip": 2.73,
+        "era": 13.5,
+        "whip": 3.0,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 3,
+        "g": 4,
         "gs": 0,
-        "ip": 3.2,
-        "h": 7,
-        "r": 4,
-        "er": 4,
-        "bb": 3,
-        "so": 1,
+        "ip": 4.2,
+        "h": 10,
+        "r": 7,
+        "er": 7,
+        "bb": 4,
+        "so": 3,
         "hr": 0,
         "hbp": 0,
         "wp": 1,
-        "opp_avg": ".389"
+        "opp_avg": ".435"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rice, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "69ab8b8f": {
       "id": "69ab8b8f",
@@ -941,11 +1407,11 @@
       "num": "37.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 12,
+        "g": 13,
         "gs": 6,
-        "avg": 0.174,
-        "ops": 0.519,
-        "ab": 23,
+        "avg": 0.16,
+        "ops": 0.483,
+        "ab": 25,
         "r": 3,
         "h": 4,
         "doubles": 0,
@@ -953,20 +1419,38 @@
         "hr": 0,
         "rbi": 3,
         "tb": 4,
-        "slg": 0.174,
+        "slg": 0.16,
         "bb": 3,
         "hbp": 3,
         "so": 5,
         "gdp": 1,
-        "obp": 0.345,
+        "obp": 0.323,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20855",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Utah. Struggled to make contact."
     },
     "4cb29365": {
       "id": "4cb29365",
@@ -1002,8 +1486,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Pacific",
+        "result": "W",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/pacific/boxscore/20851",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Pacific. Struggled at the plate but saw 1 walk(s)."
     },
     "e3c9eaa4": {
       "id": "e3c9eaa4",
@@ -1015,32 +1517,50 @@
       "num": "42.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 15,
-        "gs": 13,
-        "avg": 0.286,
-        "ops": 0.737,
-        "ab": 42,
-        "r": 4,
-        "h": 12,
-        "doubles": 3,
+        "g": 16,
+        "gs": 14,
+        "avg": 0.277,
+        "ops": 0.726,
+        "ab": 47,
+        "r": 5,
+        "h": 13,
+        "doubles": 4,
         "triples": 0,
         "hr": 0,
         "rbi": 4,
-        "tb": 15,
-        "slg": 0.357,
+        "tb": 17,
+        "slg": 0.362,
         "bb": 6,
         "hbp": 1,
         "so": 10,
         "gdp": 0,
-        "obp": 0.38,
+        "obp": 0.364,
         "sf": 1,
         "sh": 2,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against Rice. Struggled to make contact."
     },
     "6c4dcbbc": {
       "id": "6c4dcbbc",
@@ -1071,8 +1591,24 @@
         "wp": 1,
         "opp_avg": ".320"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "58084068": {
       "id": "58084068",
@@ -1084,11 +1620,11 @@
       "num": "46.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 4,
-        "gs": 1,
-        "avg": 0.2,
-        "ops": 0.4,
-        "ab": 5,
+        "g": 5,
+        "gs": 2,
+        "avg": 0.1,
+        "ops": 0.2,
+        "ab": 10,
         "r": 0,
         "h": 1,
         "doubles": 0,
@@ -1096,20 +1632,38 @@
         "hr": 0,
         "rbi": 0,
         "tb": 1,
-        "slg": 0.2,
+        "slg": 0.1,
         "bb": 0,
         "hbp": 0,
-        "so": 2,
+        "so": 3,
         "gdp": 1,
-        "obp": 0.2,
+        "obp": 0.1,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/5 with 0 RBI against Rice. Struggled to make contact."
     },
     "8e0268c0": {
       "id": "8e0268c0",
@@ -1140,8 +1694,24 @@
         "wp": 1,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Oklahoma State",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/oklahoma-state/boxscore/20845",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Oklahoma State, throwing 0.1 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "92a2f09a": {
       "id": "92a2f09a",
@@ -1172,8 +1742,24 @@
         "wp": 1,
         "opp_avg": ".345"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 2.1 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "a059b190": {
       "id": "a059b190",
@@ -1209,8 +1795,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20853",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Utah. Struggled to make contact."
     },
     "577a2d31": {
       "id": "577a2d31",
@@ -1222,32 +1826,50 @@
       "num": "53.0",
       "school": "Grand Canyon University",
       "season_batting": {
-        "g": 7,
-        "gs": 3,
-        "avg": 0.167,
-        "ops": 0.542,
-        "ab": 6,
+        "g": 8,
+        "gs": 4,
+        "avg": 0.1,
+        "ops": 0.35,
+        "ab": 10,
         "r": 2,
         "h": 1,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
-        "rbi": 0,
+        "rbi": 1,
         "tb": 1,
-        "slg": 0.167,
+        "slg": 0.1,
         "bb": 2,
         "hbp": 0,
-        "so": 3,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.375,
+        "obp": 0.25,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Rice",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20858",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 1 RBI against Rice. Struggled to make contact."
     },
     "b918d11b": {
       "id": "b918d11b",
@@ -1278,8 +1900,24 @@
         "wp": 0,
         "opp_avg": ".309"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 5,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 3.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "fef10425": {
       "id": "fef10425",
@@ -1315,8 +1953,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-09",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Utah. Struggled at the plate but saw 1 walk(s)."
     },
     "fd8194b5": {
       "id": "fd8194b5",
@@ -1347,8 +2003,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Oklahoma State",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/oklahoma-state/boxscore/20846",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Oklahoma State, throwing 0.2 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

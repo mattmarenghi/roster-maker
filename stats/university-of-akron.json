@@ -2,16 +2,16 @@
   "school": "University of Akron",
   "base_url": "https://gozips.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:12:47.804959Z",
-  "record": "39-44",
+  "generated_at": "2026-03-14T15:50:11.680195Z",
+  "record": "45-50",
   "most_recent_game": {
-    "date": "2026-03-08",
-    "opponent": "Western Mich ",
-    "result": "W 3-2",
-    "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
-    "recap_url": "https://gozips.com/news/2026/3/8/baseball-akron-secures-3-2-walk-off-win-over-western-michigan",
+    "date": "2026-03-13",
+    "opponent": "Massachusetts",
+    "result": "W",
+    "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
+    "recap_url": "https://gozips.com/news/2026/3/13/baseball-all-akron-starters-reach-base-in-12-2-win-over-umass",
     "recap_headline": "Akron Athletics",
-    "recap_text": "AKRON, Ohio -\nTied 2-2 in the bottom of the ninth,\nBrady Bowen\nrecorded his first collegiate home run to lift the Akron Zips to a 3-2 victory over Western Michigan on Sunday.\nBrady led the offense with two hits, one being a home run, and one RBI.\nBlake Bowen\nhit a home run as well, while\nBrody Chrisman\nrecorded one hit and an RBI.\nJosiah Ross\n(1-2) picked up the victory out of the bullpen for Akron (7-9, 1-2). The right-hander went three innings, giving up one run on two hits, allowing one walk and striking out two.\nTrieg Matthews\nalso made an impact on the mound for the Zips, throwing five shutout innings while allowing no hits.\nHOW IT HAPPENED\nThe Zips were trailing 1-0 in the second inning when they first put runs on the board.\nBlake Bowen\nput Akron on the board with a leadoff home run off R. Kidd.\nThe Broncos broke the tie and re-took the lead heading into the eighth inning, when the Zips got back on the scoreboard. Akron scored once on an RBI single off the bat of\nBrody Chrisman\n, which evened the score at 2-2.\nThe game remained tied until the bottom of the ninth, when Akron walked it off on\nBrady Bowen's\none-out solo home run off of Wizceb.\nGAME NOTES\n\u00bb Akron's highest scoring inning was the ninth, when it pushed one run across.\n\u00bb The Zips out-hit the Broncos at a 5-2 clip.\n\u00bb\nGabe Mathison\nstole two bases in Sunday's game.\n\u00bb Akron pitchers limited Western Michigan to just 1-for-7 (.143) with runners in scoring position.\n\u00bb Akron pitchers faced 35 Western Michigan hitters in the game, allowing 14 ground balls and eight fly balls while striking out two.\n\u00bb The Zips drew four walks from Western Michigan pitching.\n\u00bb\nBrady Bowen\nled the Zips at the plate, going 2 for 4 with a home run and an RBI.\nWHAT'S NEXT?\nAkron hosts Oakland at Skeeles Field on Wednesday, March 11, for a 2 p.m. start."
+    "recap_text": "AKRON, Ohio --\nAkron got contributions from every part of their lineup, as all nine starters reached base safely, helping the Zips put 12 runs on the board and beat the UMass Minutemen 12-2 Friday.\nJosiah Ross\n(2-1) got the win for Akron (8-9, 2-2). The right-hander went four innings, giving up two runs, one earned, on four hits, allowing four walks and striking out four.\nBrady Bowen\nalso pitched well, going three shutout innings while allowing three hits.\nAt the plate, the Zips were led by\nHenry Hayman\n, who went 2-for-4 on the day with a double and two RBI.\nBlake Bowen\nfurnished a standout effort as well, going 2-for-2 with two walks and an RBI.\nBrody Chrisman\nalso chipped in for Akron, putting together two hits in four trips to the plate while adding two RBIs.\nGio Melchione\nput together three hits while scoring twice and driving in a run.\nHOW IT HAPPENED\nThe Zips got the scoring started early, putting one run on the board in the bottom the first inning with the game still scoreless. Akron scored twice, with one run coming across on Hayman's single.\nThe Zips then lost some of their lead, expanding on their advantage in the third inning after the Minutemen cut it to 2-1. The Akron offense exploded for five runs, highlighted by a one-run single off the bat of\nGio Melchione\n, which brought the Zips lead to 7-1.\nUMass narrowed Akron's lead to 7-2 before the Zips stretched the advantage to 11-2 in the sixth inning. The Zips bats heated up in the inning, scoring four runs, including a two-run single off the bat of Chrisman.\nAkron held the Minutemen without a run before their offense got things rolling the next inning. Melchione crossed home plate with the lone run of the inning for the Zips, bringing the Akron advantage to 12-2. The score remained 12-2 for the rest of the game, as the Zips coasted to the win.\nGAME NOTES\n\u00bb Melchione compiled three base knocks in the game for Akron.\n\u00bb Every Akron starter reached base safely in the win.\n\u00bb Akron's highest scoring inning was the third, when it pushed five runs across.\n\u00bb Akron grabbed a 2-0 lead in the bottom half of the first and didn't surrender that lead for the remainder of the game.\n\u00bb Four Zips had multiple hits in the ballgame.\n\u00bb The Zips out-hit the Minutemen at an 11-7 clip.\n\u00bb Both\nTucker Biehl\nand Chrisman stole two bases in Friday's game.\n\u00bb The Zips stole six bases as a team.\n\u00bb Akron went 8-for-14 (.571) with runners in scoring position.\n\u00bb Akron pitchers faced 31 UMass hitters in the game, allowing 10 ground balls and four fly balls while striking out four.\n\u00bb The Zips drew five walks from UMass pitching.\nWHAT'S NEXT?\nAkron and UMass resume the series on Saturday, March 14, for a 1 p.m. start."
   },
   "players": {
     "03526af5": {
@@ -43,8 +43,24 @@
         "wp": 2,
         "opp_avg": ".182"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Dayton",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/dayton/boxscore/11121",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Dayton, throwing 1.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "2f795f45": {
       "id": "2f795f45",
@@ -82,8 +98,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Western Mich ",
-        "result": "L 1-4",
+        "opponent": "Western Mich.",
+        "result": "L",
         "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11123",
         "batting": {
           "ab": 4,
@@ -92,11 +108,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Western Mich . Struggled to make contact."
+      "narrative": "Went 0/4 with 0 RBI against Western Mich.. Struggled to make contact."
     },
     "a4f3aea2": {
       "id": "a4f3aea2",
@@ -108,24 +127,24 @@
       "num": "2.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.245,
-        "ops": 0.626,
-        "ab": 53,
-        "r": 6,
-        "h": 13,
-        "doubles": 5,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.246,
+        "ops": 0.634,
+        "ab": 57,
+        "r": 7,
+        "h": 14,
+        "doubles": 6,
         "triples": 0,
         "hr": 0,
-        "rbi": 8,
-        "tb": 18,
-        "slg": 0.34,
+        "rbi": 9,
+        "tb": 20,
+        "slg": 0.351,
         "bb": 2,
         "hbp": 1,
-        "so": 11,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.286,
+        "obp": 0.283,
         "sf": 0,
         "sh": 3,
         "sb": 3,
@@ -133,22 +152,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "2B"
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Western Mich . Struggled to make contact."
+      "narrative": "Went 1/4 with 1 RBI against Massachusetts. Contributed at the plate in the team's W."
     },
     "e52d9a27": {
       "id": "e52d9a27",
@@ -160,24 +182,24 @@
       "num": "3.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 10,
-        "gs": 7,
-        "avg": 0.08,
-        "ops": 0.268,
-        "ab": 25,
-        "r": 1,
-        "h": 2,
+        "g": 11,
+        "gs": 8,
+        "avg": 0.172,
+        "ops": 0.433,
+        "ab": 29,
+        "r": 3,
+        "h": 5,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 2,
-        "tb": 3,
-        "slg": 0.12,
+        "rbi": 3,
+        "tb": 6,
+        "slg": 0.207,
         "bb": 1,
         "hbp": 1,
         "so": 3,
         "gdp": 0,
-        "obp": 0.148,
+        "obp": 0.226,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -185,22 +207,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 4,
+          "r": 2,
+          "h": 3,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Western Mich . Struggled to make contact."
+      "narrative": "Went 3/4 with 1 RBI against Massachusetts. Had an outstanding performance at the plate (0.750)."
     },
     "20f5cff7": {
       "id": "20f5cff7",
@@ -232,31 +257,23 @@
         "opp_avg": ".333"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Western Mich.",
-        "result": "L 3-4",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11122",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-02-28",
+        "opponent": "North Carolina A&T",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/north-carolina-a-t/boxscore/11120",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 0,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
+          "ip": "0.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
           "so": 0,
-          "wp": 1,
-          "hbp": 3
+          "wp": 0,
+          "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against North Carolina A&T, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "b60081d3": {
       "id": "b60081d3",
@@ -268,47 +285,50 @@
       "num": "5.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.306,
-        "ops": 0.961,
-        "ab": 62,
-        "r": 12,
-        "h": 19,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.318,
+        "ops": 0.963,
+        "ab": 66,
+        "r": 14,
+        "h": 21,
         "doubles": 5,
         "triples": 0,
         "hr": 4,
-        "rbi": 16,
-        "tb": 36,
-        "slg": 0.581,
+        "rbi": 18,
+        "tb": 38,
+        "slg": 0.576,
         "bb": 7,
         "hbp": 1,
-        "so": 11,
+        "so": 12,
         "gdp": 3,
-        "obp": 0.38,
+        "obp": 0.387,
         "sf": 1,
         "sh": 0,
-        "sb": 9,
-        "sb_att": 9
+        "sb": 11,
+        "sb_att": 11
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 1,
-          "rbi": 1,
+          "r": 2,
+          "h": 2,
+          "rbi": 2,
           "bb": 0,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Western Mich . Contributed at the plate in the team's W 3-2."
+      "narrative": "Went 2/4 with 2 RBI against Massachusetts. Had an outstanding performance at the plate (0.500)."
     },
     "e8102c9d": {
       "id": "e8102c9d",
@@ -344,8 +364,26 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/nc-state/boxscore/11117",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 1 RBI against NC State. Struggled at the plate but saw 1 walk(s)."
     },
     "e6715b03": {
       "id": "e6715b03",
@@ -381,8 +419,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/nc-state/boxscore/11117",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against NC State. Struggled to make contact."
     },
     "e4c9b8c9": {
       "id": "e4c9b8c9",
@@ -413,8 +469,24 @@
         "wp": 1,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-24",
+        "opponent": "Western Carolina",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-carolina/boxscore/11116",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Western Carolina, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "a9efc6ac": {
       "id": "a9efc6ac",
@@ -447,18 +519,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Western Mich ",
-        "result": "L 1-4",
+        "opponent": "Western Mich.",
+        "result": "L",
         "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11123",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "7.0",
           "h": 5,
@@ -470,7 +534,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Western Mich , throwing 7.0 innings. Struck out 4 while allowing just 5 hit(s) and 0 earned run(s) in a quality start."
+      "narrative": "Took the mound against Western Mich., throwing 7.0 innings. Struck out 4 while allowing just 5 hit(s) and 0 earned run(s) in a quality start."
     },
     "9389a1f2": {
       "id": "9389a1f2",
@@ -482,47 +546,50 @@
       "num": "12.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 12,
-        "gs": 9,
-        "avg": 0.241,
-        "ops": 0.712,
-        "ab": 29,
-        "r": 7,
-        "h": 7,
+        "g": 13,
+        "gs": 10,
+        "avg": 0.25,
+        "ops": 0.723,
+        "ab": 32,
+        "r": 9,
+        "h": 8,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 1,
-        "tb": 8,
-        "slg": 0.276,
+        "tb": 9,
+        "slg": 0.281,
         "bb": 7,
-        "hbp": 3,
-        "so": 8,
+        "hbp": 4,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.436,
+        "obp": 0.442,
         "sf": 0,
-        "sh": 1,
-        "sb": 5,
-        "sb_att": 7
+        "sh": 2,
+        "sb": 7,
+        "sb_att": 9
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
+          "ab": 3,
+          "r": 2,
+          "h": 1,
           "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "SS"
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Western Mich . Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 1/3 with 0 RBI against Massachusetts. Contributed at the plate in the team's W."
     },
     "f10f255a": {
       "id": "f10f255a",
@@ -558,8 +625,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Dayton",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/dayton/boxscore/11121",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Dayton. Contributed at the plate in the team's L."
     },
     "941aaa80": {
       "id": "941aaa80",
@@ -590,8 +675,24 @@
         "wp": 0,
         "opp_avg": ".385"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Dayton",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/dayton/boxscore/11121",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 5,
+          "r": 5,
+          "er": 5,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Dayton, throwing 2.0 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
     },
     "726efee9": {
       "id": "726efee9",
@@ -622,8 +723,24 @@
         "wp": 0,
         "opp_avg": ".393"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Dayton",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/dayton/boxscore/11121",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Dayton, throwing 2.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "3364ca3c": {
       "id": "3364ca3c",
@@ -654,8 +771,24 @@
         "wp": 1,
         "opp_avg": ".300"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Dayton",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/dayton/boxscore/11121",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Dayton, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "d919489a": {
       "id": "d919489a",
@@ -668,50 +801,42 @@
       "school": "University of Akron",
       "season_batting": null,
       "season_pitching": {
-        "era": 15.43,
-        "whip": 2.43,
-        "w": 1,
+        "era": 10.64,
+        "whip": 2.27,
+        "w": 2,
         "l": 2,
         "sv": 0,
-        "g": 8,
-        "gs": 0,
-        "ip": 7.0,
-        "h": 9,
-        "r": 13,
-        "er": 12,
-        "bb": 8,
-        "so": 8,
+        "g": 9,
+        "gs": 1,
+        "ip": 11.0,
+        "h": 13,
+        "r": 15,
+        "er": 13,
+        "bb": 12,
+        "so": 12,
         "hr": 2,
         "hbp": 2,
-        "wp": 0,
-        "opp_avg": ".321"
+        "wp": 1,
+        "opp_avg": ".302"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
+        "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 2,
-          "r": 1,
+          "ip": "4.0",
+          "h": 4,
+          "r": 2,
           "er": 1,
-          "bb": 1,
-          "so": 2,
-          "wp": 0,
+          "bb": 4,
+          "so": 4,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Western Mich , throwing 3.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Massachusetts, throwing 4.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     },
     "d9dfa215": {
       "id": "d9dfa215",
@@ -742,8 +867,24 @@
         "wp": 1,
         "opp_avg": ".396"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "North Carolina A&T",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/north-carolina-a-t/boxscore/11118",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 6,
+          "r": 8,
+          "er": 6,
+          "bb": 3,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against North Carolina A&T, throwing 3.1 innings. Allowed 6 earned run(s) with 4 strikeout(s)."
     },
     "d1ebd1c0": {
       "id": "d1ebd1c0",
@@ -774,8 +915,24 @@
         "wp": 1,
         "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Dayton",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/dayton/boxscore/11121",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Dayton, throwing 1.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "22e6d053": {
       "id": "22e6d053",
@@ -787,47 +944,50 @@
       "num": "21.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.353,
-        "ops": 1.011,
-        "ab": 51,
-        "r": 9,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.34,
+        "ops": 0.998,
+        "ab": 53,
+        "r": 11,
         "h": 18,
         "doubles": 7,
         "triples": 0,
         "hr": 0,
-        "rbi": 16,
+        "rbi": 17,
         "tb": 25,
-        "slg": 0.49,
-        "bb": 15,
-        "hbp": 4,
-        "so": 7,
+        "slg": 0.472,
+        "bb": 16,
+        "hbp": 6,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.521,
+        "obp": 0.526,
         "sf": 1,
         "sh": 0,
-        "sb": 1,
-        "sb_att": 3
+        "sb": 2,
+        "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "3B"
+          "ab": 2,
+          "r": 2,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Western Mich . Contributed at the plate in the team's W 3-2."
+      "narrative": "Went 0/2 with 1 RBI against Massachusetts. Struggled at the plate but saw 1 walk(s)."
     },
     "892263d4": {
       "id": "892263d4",
@@ -860,18 +1020,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Western Mich ",
-        "result": "L 1-4",
+        "opponent": "Western Mich.",
+        "result": "L",
         "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11123",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 4,
@@ -883,7 +1035,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Western Mich , throwing 1.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Western Mich., throwing 1.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "408fb4dd": {
       "id": "408fb4dd",
@@ -895,24 +1047,24 @@
       "num": "23.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.196,
-        "ops": 0.962,
-        "ab": 46,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.184,
+        "ops": 0.919,
+        "ab": 49,
         "r": 13,
         "h": 9,
         "doubles": 3,
         "triples": 1,
         "hr": 4,
-        "rbi": 13,
+        "rbi": 14,
         "tb": 26,
-        "slg": 0.565,
-        "bb": 12,
+        "slg": 0.531,
+        "bb": 13,
         "hbp": 4,
-        "so": 20,
+        "so": 22,
         "gdp": 0,
-        "obp": 0.397,
+        "obp": 0.388,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -920,22 +1072,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Western Mich.",
-        "result": "L 3-4",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11122",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 1,
-          "so": 1,
-          "pos": "1B"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Western Mich.. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 1 RBI against Massachusetts. Struggled at the plate but saw 1 walk(s)."
     },
     "bdcbc6a0": {
       "id": "bdcbc6a0",
@@ -947,7 +1102,7 @@
       "num": "24.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 4,
+        "g": 5,
         "gs": 1,
         "avg": 0.2,
         "ops": 0.533,
@@ -971,8 +1126,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "North Carolina AT",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/north-carolina-at/boxscore/11119",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against North Carolina AT. Contributed at the plate in the team's W."
     },
     "0d7904ef": {
       "id": "0d7904ef",
@@ -1005,18 +1178,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
+        "opponent": "Western Mich.",
+        "result": "W",
         "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1028,7 +1193,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Western Mich , throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Western Mich., throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "1a4fc819": {
       "id": "1a4fc819",
@@ -1064,8 +1229,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "North Carolina A&T",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/north-carolina-a-t/boxscore/11118",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against North Carolina A&T. Struggled at the plate but saw 2 walk(s)."
     },
     "d89af934": {
       "id": "d89af934",
@@ -1077,7 +1260,7 @@
       "num": "27.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 3,
         "avg": 0.2,
         "ops": 0.7,
@@ -1101,41 +1284,44 @@
         "sb_att": 0
       },
       "season_pitching": {
-        "era": 0.71,
-        "whip": 0.71,
+        "era": 0.57,
+        "whip": 0.83,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 12.2,
-        "h": 6,
+        "ip": 15.2,
+        "h": 9,
         "r": 1,
         "er": 1,
-        "bb": 3,
+        "bb": 4,
         "so": 8,
         "hr": 1,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".154"
+        "opp_avg": ".180"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 1,
           "h": 2,
           "rbi": 1,
-          "bb": 0,
+          "bb": 2,
           "so": 0,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against Western Mich . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/2 with 1 RBI against Massachusetts. Had an outstanding performance at the plate (1.000)."
     },
     "ff24e4b9": {
       "id": "ff24e4b9",
@@ -1147,7 +1333,7 @@
       "num": "29.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 3,
         "avg": 0.2,
         "ops": 0.7,
@@ -1171,29 +1357,29 @@
         "sb_att": 0
       },
       "season_pitching": {
-        "era": 0.71,
-        "whip": 0.71,
+        "era": 0.57,
+        "whip": 0.83,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 12.2,
-        "h": 6,
+        "ip": 15.2,
+        "h": 9,
         "r": 1,
         "er": 1,
-        "bb": 3,
+        "bb": 4,
         "so": 8,
         "hr": 1,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".154"
+        "opp_avg": ".180"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1201,11 +1387,23 @@
           "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "DH"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": null
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 2/4 with 1 RBI against Western Mich . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/4 with 1 RBI against Massachusetts. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "5b0f4065": {
       "id": "5b0f4065",
@@ -1217,24 +1415,24 @@
       "num": "30.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 9,
-        "gs": 3,
-        "avg": 0.286,
-        "ops": 0.76,
-        "ab": 14,
-        "r": 5,
+        "g": 10,
+        "gs": 4,
+        "avg": 0.235,
+        "ops": 0.693,
+        "ab": 17,
+        "r": 6,
         "h": 4,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 3,
         "tb": 4,
-        "slg": 0.286,
-        "bb": 2,
-        "hbp": 3,
-        "so": 5,
+        "slg": 0.235,
+        "bb": 3,
+        "hbp": 4,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.474,
+        "obp": 0.458,
         "sf": 0,
         "sh": 1,
         "sb": 4,
@@ -1242,22 +1440,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 1,
           "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "CF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Western Mich . Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Massachusetts. Struggled at the plate but saw 1 walk(s)."
     },
     "f3368fb6": {
       "id": "f3368fb6",
@@ -1293,8 +1494,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/nc-state/boxscore/11117",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against NC State. Had an outstanding performance at the plate (1.000)."
     },
     "cce19a11": {
       "id": "cce19a11",
@@ -1327,18 +1546,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Western Mich ",
-        "result": "L 1-4",
+        "opponent": "Western Mich.",
+        "result": "L",
         "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11123",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -1350,7 +1561,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Western Mich , throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Western Mich., throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "cb09c59c": {
       "id": "cb09c59c",
@@ -1381,8 +1592,24 @@
         "wp": 0,
         "opp_avg": ".412"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-24",
+        "opponent": "Western Carolina",
+        "result": "L",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-carolina/boxscore/11116",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Western Carolina, throwing 2.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
     },
     "cf575c76": {
       "id": "cf575c76",
@@ -1415,18 +1642,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
+        "opponent": "Western Mich.",
+        "result": "W",
         "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 0,
@@ -1438,7 +1657,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Western Mich , throwing 5.0 innings. Struck out 0 while allowing just 0 hit(s) and 0 earned run(s) in a quality start."
+      "narrative": "Took the mound against Western Mich., throwing 5.0 innings. Struck out 0 while allowing just 0 hit(s) and 0 earned run(s) in a quality start."
     },
     "33c7b375": {
       "id": "33c7b375",
@@ -1450,24 +1669,24 @@
       "num": "40.0",
       "school": "University of Akron",
       "season_batting": {
-        "g": 13,
-        "gs": 12,
-        "avg": 0.25,
-        "ops": 0.729,
-        "ab": 44,
-        "r": 8,
-        "h": 11,
-        "doubles": 4,
+        "g": 14,
+        "gs": 13,
+        "avg": 0.271,
+        "ops": 0.771,
+        "ab": 48,
+        "r": 9,
+        "h": 13,
+        "doubles": 5,
         "triples": 0,
         "hr": 1,
-        "rbi": 4,
-        "tb": 18,
-        "slg": 0.409,
+        "rbi": 6,
+        "tb": 21,
+        "slg": 0.438,
         "bb": 5,
         "hbp": 0,
         "so": 10,
         "gdp": 0,
-        "obp": 0.32,
+        "obp": 0.333,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -1475,22 +1694,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Western Mich ",
-        "result": "L 1-4",
-        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11123",
+        "date": "2026-03-13",
+        "opponent": "Massachusetts",
+        "result": "W",
+        "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/massachusetts/boxscore/11126",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
+          "r": 1,
+          "h": 2,
+          "rbi": 2,
           "bb": 0,
           "so": 0,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Western Mich . Contributed at the plate in the team's L 1-4."
+      "narrative": "Went 2/4 with 2 RBI against Massachusetts. Had an outstanding performance at the plate (0.500)."
     },
     "9278d5d0": {
       "id": "9278d5d0",
@@ -1528,8 +1750,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Western Mich ",
-        "result": "W 3-2",
+        "opponent": "Western Mich.",
+        "result": "W",
         "boxscore_url": "https://gozips.com/sports/baseball/stats/2026/western-mich-/boxscore/11124",
         "batting": {
           "ab": 3,
@@ -1538,11 +1760,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Western Mich . Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against Western Mich.. Struggled to make contact."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

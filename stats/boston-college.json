@@ -2,16 +2,16 @@
   "school": "Boston College",
   "base_url": "https://www.bceagles.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:25:25.926813Z",
-  "record": "35-40",
+  "generated_at": "2026-03-14T14:26:55.453013Z",
+  "record": "36-41",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "UConn",
-    "result": "L 19-26",
-    "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
-    "recap_url": "https://www.bceagles.com/news/2026/3/10/baseball-eagles-defeat-uconn-in-midweek-high-scoring-contest",
+    "date": "2026-03-13",
+    "opponent": "NC State",
+    "result": "L",
+    "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+    "recap_url": "https://www.bceagles.com/news/2026/3/13/baseball-eagles-drop-series-opener-to-no-10-nc-state",
     "recap_headline": "Boston College Athletics",
-    "recap_text": "STORRS, Conn. -\nBoston College Baseball (10-6, 2-1 ACC) defeated UConn (7-9) on Tuesday afternoon in a high-scoring, 26-19 contest.\nDrew Grumbles\nstarted for the Eagles and went two and a third innings before being replaced by\nJacob Burnham\nand\nJohn D Mitchell\n, who combined to go three innings.\nLuke D'Ancona\n,\nChase Hartsell\n, and\nSean Hard\nclosed out the game for Boston College as Grumbles earned his second win of the season.\nThe Eagles immediately got on the board after\nTy Mainolfi\nsingled.\nNick Wang\nlaunched his sixth home run of the year to make it 2-0. Immediately after the home run,\nJack Toomey\nlaunched his fourth triple of the season before being brought in on a sacrifice fly by\nEsteban Garcia\n.\nBoston College added five runs in the second as they jumped out to an early 8-0 lead. Mainolfi brought in the first two runs of the inning when his two RBI single scored both Danny Suroweic and\nColin Larson\n. Wang made it three runs in the inning when his sac fly scored\nJulio Solier\nfrom third. The final two runs of the inning came from RBI singles courtesy of Garcia and\nLuke Gallo\n.\nThe Eagles made it 10-0 before the Huskies eventually scored in the bottom half of the third inning. Boston College's two runs came off a two-run home run courtesy of Larson that brought in Suroweic as well. UConn made it 10-3 after the third inning courtesy of two RBI doubles and an RBI single that chased Grumbles from the game.\nBoston College made it 14-3 in the top half of the fourth inning, beginning with a sacrifice fly from Luke Gallo for the first run of the inning. Suroweic walked after the Gallo flew out, but the Eagles tacked on a second run when Toomey was called safe after stealing home.\nEaston Masse\nforced an error from the UConn defense, which allowed Garcia to score. The final run of the inning came on a bases-loaded walk from Mainolfi, which pushed the score to 14-3. The Huskies added a solo shot to make it 14-4 heading into the fifth.\nThe Eagles added just one run in the fifth when Suroweic singled home\nJack Toomey\nand then kept UConn off the board in the bottom half.\nIn the sixth and seventh, Boston College would tack on a combined eight more, with Wang driving in two more via his second home run, as well as Mainolfi and Solier each driving in a run of their own. The Huskies, who would add 13 over those two innings, including eight in the bottom of the seventh, to prevent the run-rule.\nThe Eagles would be held scoreless in the eighth, the only inning in which they were held scoreless the whole game.\nIn the ninth, Boston College would tack on three more in the top of the ninth courtesy of Wang's third home run of the game, which also gave a career high eight on the evening. Both the home runs and RBIs were single-game highs for him. UConn would add two more runs in the bottom of the ninth against Hard, but the Eagles would hold on for the win.\nUp Next:\nThe Eagles will return to action on March 13th when they travel to North Carolina to take on NC State at 3:00 p.m. on ACCNX."
+    "recap_text": "RALEIGH, N.C. -\nBoston College Baseball (10-7, 2-2 ACC) fell to NC State (15-3, 1-0 ACC) on Friday afternoon, 4-2.\nA.J. Colarusso\nstarted for the Eagles and went six innings while giving up three earned runs and striking out four.\nCesar Gonzalez\ncame on in relief and threw two scoreless innings, allowing one hit while striking out two.\nThe game started as a pitcher's duel, with both pitchers allowing only one hit through the first three innings. Finally, in the fourth inning, the Wolfpack got one run across the plate. Colarusso struck out the first batter of the inning, but then NC State loaded the bases and proceeded to get one run across on a sacrifice fly to right field. He escaped runners on second and third by inducing a flyout to center field to end the inning.\nIn the fifth inning, the Wolfpack plated a second run when they lined a single down the right field line to score a runner from second. NC State would get two more in the sixth off a solo shot to lead off the inning, as well as an infield single following a triple after the home run.\nBoston College would get its first run of the game when\nTy Mainolfi\nbrought in\nJulio Solier\nwith an RBI double. They would plate one more run in the ninth off a sacrifice fly from Jace Roosien that would score\nJack Toomey\n.\nUp Next:\nThe Eagles will return to action tomorrow at 2:00 p.m. for the middle game of the three-game series against the Wolfpack."
   },
   "players": {
     "0aa2fe12": {
@@ -48,8 +48,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "FGCU",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/fgcu/boxscore/26559",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against FGCU. Struggled to make contact."
     },
     "b4a9028a": {
       "id": "b4a9028a",
@@ -61,32 +79,50 @@
       "num": "2.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.338,
-        "ops": 0.891,
-        "ab": 65,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.333,
+        "ops": 0.884,
+        "ab": 69,
         "r": 19,
-        "h": 22,
-        "doubles": 6,
+        "h": 23,
+        "doubles": 7,
         "triples": 1,
         "hr": 0,
-        "rbi": 13,
-        "tb": 30,
-        "slg": 0.462,
+        "rbi": 14,
+        "tb": 32,
+        "slg": 0.464,
         "bb": 10,
         "hbp": 1,
-        "so": 11,
+        "so": 12,
         "gdp": 2,
-        "obp": 0.429,
+        "obp": 0.42,
         "sf": 1,
         "sh": 0,
         "sb": 5,
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against NC State. Contributed at the plate in the team's L."
     },
     "9565c3b9": {
       "id": "9565c3b9",
@@ -98,10 +134,10 @@
       "num": "7.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 12,
+        "g": 13,
         "gs": 3,
         "avg": 0.105,
-        "ops": 0.374,
+        "ops": 0.401,
         "ab": 19,
         "r": 6,
         "h": 2,
@@ -111,19 +147,37 @@
         "rbi": 4,
         "tb": 2,
         "slg": 0.105,
-        "bb": 3,
+        "bb": 4,
         "hbp": 2,
         "so": 2,
         "gdp": 0,
-        "obp": 0.269,
+        "obp": 0.296,
         "sf": 2,
         "sh": 1,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 2 RBI against UConn. Contributed at the plate in the team's W."
     },
     "0f80d4d0": {
       "id": "0f80d4d0",
@@ -136,26 +190,42 @@
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.32,
-        "whip": 1.44,
+        "era": 4.37,
+        "whip": 1.46,
         "w": 1,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 16.2,
-        "h": 18,
-        "r": 13,
-        "er": 8,
-        "bb": 6,
-        "so": 18,
-        "hr": 2,
+        "g": 5,
+        "gs": 5,
+        "ip": 22.2,
+        "h": 25,
+        "r": 17,
+        "er": 11,
+        "bb": 8,
+        "so": 22,
+        "hr": 3,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".269"
+        "opp_avg": ".278"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 7,
+          "r": 4,
+          "er": 3,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against NC State, throwing 6.0 innings. Struck out 4 while allowing just 7 hit(s) and 3 earned run(s) in a quality start."
     },
     "3c2fef03": {
       "id": "3c2fef03",
@@ -167,7 +237,7 @@
       "num": "10.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 14,
+        "g": 15,
         "gs": 11,
         "avg": 0.167,
         "ops": 0.672,
@@ -191,8 +261,26 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": {
+          "ab": 3,
+          "r": 4,
+          "h": 2,
+          "rbi": 2,
+          "bb": 2,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 2 RBI against UConn. Hit 1 home run(s). Had an outstanding performance at the plate (0.667)."
     },
     "7f02718b": {
       "id": "7f02718b",
@@ -204,11 +292,11 @@
       "num": "11.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 13,
-        "gs": 10,
-        "avg": 0.262,
-        "ops": 0.878,
-        "ab": 42,
+        "g": 14,
+        "gs": 11,
+        "avg": 0.239,
+        "ops": 0.805,
+        "ab": 46,
         "r": 7,
         "h": 11,
         "doubles": 5,
@@ -216,20 +304,38 @@
         "hr": 2,
         "rbi": 8,
         "tb": 22,
-        "slg": 0.524,
+        "slg": 0.478,
         "bb": 4,
         "hbp": 2,
-        "so": 12,
+        "so": 14,
         "gdp": 1,
-        "obp": 0.354,
+        "obp": 0.327,
         "sf": 0,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against NC State. Struggled to make contact."
     },
     "e87db89a": {
       "id": "e87db89a",
@@ -241,32 +347,50 @@
       "num": "12.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 10,
-        "gs": 9,
-        "avg": 0.12,
-        "ops": 0.447,
-        "ab": 25,
+        "g": 11,
+        "gs": 10,
+        "avg": 0.143,
+        "ops": 0.505,
+        "ab": 28,
         "r": 5,
-        "h": 3,
-        "doubles": 0,
+        "h": 4,
+        "doubles": 1,
         "triples": 0,
         "hr": 1,
         "rbi": 4,
-        "tb": 6,
-        "slg": 0.24,
+        "tb": 8,
+        "slg": 0.286,
         "bb": 2,
         "hbp": 1,
         "so": 11,
         "gdp": 0,
-        "obp": 0.207,
+        "obp": 0.219,
         "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against NC State. Contributed at the plate in the team's L."
     },
     "6503501c": {
       "id": "6503501c",
@@ -278,32 +402,50 @@
       "num": "14.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 11,
-        "gs": 6,
-        "avg": 0.269,
-        "ops": 0.663,
-        "ab": 26,
+        "g": 12,
+        "gs": 7,
+        "avg": 0.286,
+        "ops": 0.721,
+        "ab": 28,
         "r": 1,
-        "h": 7,
+        "h": 8,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 7,
-        "tb": 8,
-        "slg": 0.308,
-        "bb": 2,
-        "hbp": 2,
+        "tb": 9,
+        "slg": 0.321,
+        "bb": 3,
+        "hbp": 3,
         "so": 3,
         "gdp": 1,
-        "obp": 0.355,
+        "obp": 0.4,
         "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against NC State. Had an outstanding performance at the plate (0.500)."
     },
     "eeff0ccc": {
       "id": "eeff0ccc",
@@ -315,11 +457,11 @@
       "num": "15.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "avg": 0.333,
-        "ops": 0.666,
-        "ab": 3,
+        "avg": 0.25,
+        "ops": 0.5,
+        "ab": 4,
         "r": 1,
         "h": 1,
         "doubles": 0,
@@ -327,20 +469,38 @@
         "hr": 0,
         "rbi": 0,
         "tb": 1,
-        "slg": 0.333,
+        "slg": 0.25,
         "bb": 0,
         "hbp": 0,
         "so": 1,
-        "gdp": 0,
-        "obp": 0.333,
+        "gdp": 1,
+        "obp": 0.25,
         "sf": 0,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against NC State. Struggled to make contact."
     },
     "5316b16a": {
       "id": "5316b16a",
@@ -352,32 +512,50 @@
       "num": "16.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.426,
-        "ops": 1.04,
-        "ab": 68,
-        "r": 19,
-        "h": 29,
-        "doubles": 5,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.423,
+        "ops": 1.044,
+        "ab": 71,
+        "r": 20,
+        "h": 30,
+        "doubles": 6,
         "triples": 2,
         "hr": 0,
         "rbi": 7,
-        "tb": 38,
-        "slg": 0.559,
-        "bb": 8,
+        "tb": 40,
+        "slg": 0.563,
+        "bb": 9,
         "hbp": 0,
         "so": 11,
-        "gdp": 0,
+        "gdp": 1,
         "obp": 0.481,
         "sf": 1,
         "sh": 1,
-        "sb": 7,
-        "sb_att": 8
+        "sb": 8,
+        "sb_att": 9
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against NC State. Contributed at the plate in the team's L."
     },
     "07ae70ef": {
       "id": "07ae70ef",
@@ -408,8 +586,24 @@
         "wp": 0,
         "opp_avg": ".207"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "FGCU",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/fgcu/boxscore/26557",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 6,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against FGCU, throwing 3.0 innings. Allowed 0 earned run(s) with 6 strikeout(s)."
     },
     "9bb072a4": {
       "id": "9bb072a4",
@@ -421,11 +615,11 @@
       "num": "18.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 13,
-        "gs": 11,
-        "avg": 0.143,
-        "ops": 0.483,
-        "ab": 35,
+        "g": 14,
+        "gs": 12,
+        "avg": 0.132,
+        "ops": 0.449,
+        "ab": 38,
         "r": 2,
         "h": 5,
         "doubles": 2,
@@ -433,20 +627,38 @@
         "hr": 0,
         "rbi": 8,
         "tb": 7,
-        "slg": 0.2,
+        "slg": 0.184,
         "bb": 5,
         "hbp": 3,
         "so": 6,
-        "gdp": 0,
-        "obp": 0.283,
+        "gdp": 1,
+        "obp": 0.265,
         "sf": 3,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against NC State. Struggled to make contact."
     },
     "0decce6a": {
       "id": "0decce6a",
@@ -458,11 +670,11 @@
       "num": "19.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 16,
-        "gs": 8,
-        "avg": 0.091,
-        "ops": 0.258,
-        "ab": 33,
+        "g": 17,
+        "gs": 9,
+        "avg": 0.088,
+        "ops": 0.272,
+        "ab": 34,
         "r": 5,
         "h": 3,
         "doubles": 0,
@@ -470,12 +682,12 @@
         "hr": 0,
         "rbi": 4,
         "tb": 3,
-        "slg": 0.091,
-        "bb": 3,
+        "slg": 0.088,
+        "bb": 4,
         "hbp": 0,
         "so": 18,
         "gdp": 0,
-        "obp": 0.167,
+        "obp": 0.184,
         "sf": 0,
         "sh": 2,
         "sb": 1,
@@ -483,22 +695,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Miami Fl",
-        "result": "L 5-9",
-        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/miami-fl/boxscore/26564",
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 2,
-          "rbi": 2,
-          "bb": 0,
-          "so": 2,
-          "pos": "DH"
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 2 RBI against Miami Fl. Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 0/1 with 0 RBI against NC State. Struggled at the plate but saw 1 walk(s)."
     },
     "eea7ec67": {
       "id": "eea7ec67",
@@ -529,8 +744,24 @@
         "wp": 0,
         "opp_avg": ".254"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Miami FL",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/miami-fl/boxscore/26563",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 5,
+          "er": 4,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Miami FL, throwing 4.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
     },
     "51f20414": {
       "id": "51f20414",
@@ -566,8 +797,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against UConn. Struggled to make contact."
     },
     "d598108c": {
       "id": "d598108c",
@@ -598,8 +847,24 @@
         "wp": 0,
         "opp_avg": ".176"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/miami-fl/boxscore/26564",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Miami FL, throwing 3.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     },
     "a4d23d29": {
       "id": "a4d23d29",
@@ -635,26 +900,53 @@
         "sb_att": 0
       },
       "season_pitching": {
-        "era": 2.08,
-        "whip": 1.38,
+        "era": 1.69,
+        "whip": 1.22,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 8.2,
-        "h": 8,
+        "ip": 10.2,
+        "h": 9,
         "r": 2,
         "er": 2,
         "bb": 4,
-        "so": 14,
+        "so": 16,
         "hr": 1,
         "hbp": 2,
         "wp": 1,
-        "opp_avg": ".250"
+        "opp_avg": ".231"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Went 0/1 with 0 RBI against NC State. Struggled to make contact."
     },
     "a124e0e3": {
       "id": "a124e0e3",
@@ -685,8 +977,24 @@
         "wp": 0,
         "opp_avg": ".361"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UConn, throwing 1.1 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
     },
     "760a79f8": {
       "id": "760a79f8",
@@ -717,8 +1025,54 @@
         "wp": 0,
         "opp_avg": ".296"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UConn, throwing 1.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "98d555be": {
+      "id": "98d555be",
+      "name": "John D Mitchell",
+      "fn": "John",
+      "ln": "D Mitchell",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "30.0",
+      "school": "Boston College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UConn, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "175c1bd1": {
       "id": "175c1bd1",
@@ -754,8 +1108,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/houston/boxscore/26551",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Houston. Had an outstanding performance at the plate (0.500)."
     },
     "bd638c34": {
       "id": "bd638c34",
@@ -786,8 +1158,24 @@
         "wp": 1,
         "opp_avg": ".237"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UConn, throwing 1.2 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
     },
     "a0a52a10": {
       "id": "a0a52a10",
@@ -818,8 +1206,24 @@
         "wp": 0,
         "opp_avg": ".279"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 6,
+          "er": 6,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UConn, throwing 0.2 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
     },
     "9820a6e7": {
       "id": "9820a6e7",
@@ -850,8 +1254,24 @@
         "wp": 1,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/houston/boxscore/26551",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "3b7f77fa": {
       "id": "3b7f77fa",
@@ -882,8 +1302,24 @@
         "wp": 0,
         "opp_avg": ".265"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/miami-fl/boxscore/26564",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Miami FL, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "93126f9f": {
       "id": "93126f9f",
@@ -895,32 +1331,50 @@
       "num": "38.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.271,
-        "ops": 1.003,
-        "ab": 59,
-        "r": 17,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.262,
+        "ops": 0.987,
+        "ab": 61,
+        "r": 18,
         "h": 16,
         "doubles": 4,
         "triples": 4,
         "hr": 2,
         "rbi": 6,
         "tb": 34,
-        "slg": 0.576,
-        "bb": 15,
+        "slg": 0.557,
+        "bb": 17,
         "hbp": 1,
-        "so": 15,
+        "so": 17,
         "gdp": 1,
-        "obp": 0.427,
+        "obp": 0.43,
         "sf": 0,
         "sh": 0,
         "sb": 6,
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against NC State. Struggled at the plate but saw 2 walk(s)."
     },
     "e77c1ecb": {
       "id": "e77c1ecb",
@@ -951,8 +1405,24 @@
         "wp": 1,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Northwestern",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/northwestern/boxscore/26751",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northwestern, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "02ff1d9d": {
       "id": "02ff1d9d",
@@ -964,32 +1434,50 @@
       "num": "44.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.317,
-        "ops": 1.17,
-        "ab": 60,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.313,
+        "ops": 1.129,
+        "ab": 64,
         "r": 14,
-        "h": 19,
+        "h": 20,
         "doubles": 3,
         "triples": 0,
         "hr": 8,
         "rbi": 29,
-        "tb": 46,
-        "slg": 0.767,
+        "tb": 47,
+        "slg": 0.734,
         "bb": 10,
         "hbp": 2,
-        "so": 19,
+        "so": 20,
         "gdp": 1,
-        "obp": 0.403,
+        "obp": 0.395,
         "sf": 5,
         "sh": 0,
         "sb": 1,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against NC State. Contributed at the plate in the team's L."
     },
     "089d0ea1": {
       "id": "089d0ea1",
@@ -1020,8 +1508,24 @@
         "wp": 4,
         "opp_avg": ".158"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "UConn",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/uconn/boxscore/26565",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 5,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 0,
+          "wp": 2,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against UConn, throwing 2.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "a2b7638a": {
       "id": "a2b7638a",
@@ -1052,8 +1556,24 @@
         "wp": 1,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/miami-fl/boxscore/26564",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Miami FL, throwing 4.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "96b3fcd4": {
       "id": "96b3fcd4",
@@ -1084,8 +1604,24 @@
         "wp": 1,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Houston",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/houston/boxscore/26551",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Houston, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "1253f6eb": {
       "id": "1253f6eb",
@@ -1116,8 +1652,24 @@
         "wp": 0,
         "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "FIU",
+        "result": "W",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/fiu/boxscore/26561",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against FIU, throwing 0.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "abde0a00": {
       "id": "abde0a00",
@@ -1129,11 +1681,11 @@
       "num": "55.0",
       "school": "Boston College",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 3,
-        "avg": 0.364,
-        "ops": 1.078,
-        "ab": 11,
+        "avg": 0.333,
+        "ops": 1.0,
+        "ab": 12,
         "r": 5,
         "h": 4,
         "doubles": 2,
@@ -1141,20 +1693,38 @@
         "hr": 0,
         "rbi": 1,
         "tb": 6,
-        "slg": 0.545,
+        "slg": 0.5,
         "bb": 3,
         "hbp": 1,
-        "so": 3,
+        "so": 4,
         "gdp": 0,
-        "obp": 0.533,
+        "obp": 0.5,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "NC State",
+        "result": "L",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against NC State. Struggled to make contact."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

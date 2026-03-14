@@ -2,138 +2,17 @@
   "school": "Loyola Marymount University",
   "base_url": "https://www.LMULions.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:47:10.775074Z",
-  "record": "6-13",
+  "generated_at": "2026-03-14T15:04:55.294853Z",
+  "record": "7-13",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "California Baptist",
-    "result": "W 7-2",
-    "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17443&path=baseball",
-    "recap_url": "https://www.LMULions.com/news/2026/3/10/baseball-klosek-slam-powers-lions-past-lancers.aspx",
-    "recap_headline": "Loyola Marymount University Athletics",
+    "date": "2026-03-13",
+    "opponent": "Abilene Christian",
+    "result": "",
+    "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17336&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "3791704c": {
-      "id": "3791704c",
-      "name": "Zach DenDekker",
-      "fn": "Zach",
-      "ln": "DenDekker",
-      "pos": "RHP",
-      "yr": "Jr.",
-      "num": "14.0",
-      "school": "Loyola Marymount University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "California Baptist",
-        "result": "W 7-2",
-        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17443&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "4.0",
-          "h": 3,
-          "r": 0,
-          "er": 0,
-          "bb": 2,
-          "so": 5,
-          "wp": 1,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against California Baptist, throwing 4.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
-    },
-    "600785cf": {
-      "id": "600785cf",
-      "name": "Jake Geis",
-      "fn": "Jake",
-      "ln": "Geis",
-      "pos": "RHP",
-      "yr": "Gr.",
-      "num": "20.0",
-      "school": "Loyola Marymount University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "California Baptist",
-        "result": "W 7-2",
-        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17443&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against California Baptist, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    },
-    "c0515138": {
-      "id": "c0515138",
-      "name": "Jonah Johnson",
-      "fn": "Jonah",
-      "ln": "Johnson",
-      "pos": "RHP",
-      "yr": "Sr.",
-      "num": "23.0",
-      "school": "Loyola Marymount University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "California Baptist",
-        "result": "W 7-2",
-        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17443&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "4.0",
-          "h": 5,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against California Baptist, throwing 4.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
-    },
-    "91cc25f7": {
-      "id": "91cc25f7",
-      "name": "Alec Johnson",
-      "fn": "Alec",
-      "ln": "Johnson",
-      "pos": "LHP",
-      "yr": "So.",
-      "num": "31.0",
-      "school": "Loyola Marymount University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "California Baptist",
-        "result": "W 7-2",
-        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17443&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "4.0",
-          "h": 5,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against California Baptist, throwing 4.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

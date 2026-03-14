@@ -2,16 +2,16 @@
   "school": "The Ohio State University",
   "base_url": "https://ohiostatebuckeyes.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:08:53.752525Z",
-  "record": "22-29",
+  "generated_at": "2026-03-14T15:42:54.698156Z",
+  "record": "22-30",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Kent St.",
-    "result": "L 5-8",
-    "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-    "recap_url": "https://ohiostatebuckeyes.com/news/2026/3/10/baseball-late-lead-not-enough-as-buckeyes-fall-to-kent-state",
-    "recap_headline": "Ohio State Buckeyes | Ohio State University Athletics",
-    "recap_text": "COLUMBUS, Ohio\n\u2013 The Ohio State baseball team (5-10) was defeated by Kent State (12-4), 8-5, Tuesday at Bill Davis Stadium.\nGame Recap\nKent State took an early 2-0 lead in the top of the first inning, scoring on a passed ball and an RBI single.\nThe Buckeyes got on the board in the bottom of the third inning after\nLee Ellis\nsmashed his first home run at Bill Davis Stadium this season, cutting the Golden Flashes' lead to one, 2-1.\nIn the bottom of the fourth,\nMason Eckelman\nled off with a single to right field and advanced on a Kent State error. A sacrifice bunt from\nAlex Bemis\nadvanced Eckelman to third, and he scored a sacrifice fly from\nDane Harvey\nto tie the score, 2-2.\nIn the bottom of the sixth,\nHenry Kaczmar\nshot a double to left field to lead off the inning. With two outs on the board, Bemis hit his first home run as a Buckeye, scoring Kaczmar and giving Ohio State a two-run lead, 4-2.\nKent State grabbed a run in the seventh inning after a sacrifice fly to cut the Buckeye lead to one, 4-3.\nIn the bottom of the eighth, Kaczmar went yard for the first time since rejoining the Scarlet and Gray. His solo home run put the Buckeyes back ahead by two, 5-3.\nKent State, however, mounted a ninth-inning comeback, scoring five runs off of a two-run home run and a three-RBI double to take the lead, 8-5.\nIn the bottom of the ninth with one out,\nMaddix Simpson\nsingled to right field, but he was left on base as the Golden Flashes came away with the win.\nBuckeyes by the Numbers\nBemis and Kaczmar led the Buckeyes in hits with two each.\nBemis led the team in RBIs with two.\nRyan Zamora\nfanned three in 2.0 scoreless innings of relief.\nAndrew Edrington\n(0-1) took the loss on the mound. He gave up two runs on two hits in less than an inning pitched.\nUp Next\nOhio State travels to Seattle to take on Washington for the first time since the Huskies joined the Big Ten March 13-15.\n#GoBucks"
+    "date": "2026-03-13",
+    "opponent": "Washington",
+    "result": "W",
+    "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
   },
   "players": {
     "e457b223": {
@@ -24,47 +24,50 @@
       "num": "1.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.241,
-        "ops": 0.863,
-        "ab": 54,
-        "r": 13,
-        "h": 13,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.254,
+        "ops": 0.909,
+        "ab": 59,
+        "r": 15,
+        "h": 15,
         "doubles": 3,
         "triples": 2,
-        "hr": 2,
-        "rbi": 12,
-        "tb": 26,
-        "slg": 0.481,
+        "hr": 3,
+        "rbi": 13,
+        "tb": 31,
+        "slg": 0.525,
         "bb": 7,
         "hbp": 6,
-        "so": 19,
+        "so": 20,
         "gdp": 1,
-        "obp": 0.382,
+        "obp": 0.384,
         "sf": 1,
-        "sh": 1,
+        "sh": 2,
         "sb": 7,
         "sb_att": 8
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 5,
+          "r": 2,
+          "h": 2,
           "rbi": 1,
-          "bb": 1,
-          "so": 2,
-          "pos": "SS"
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Kent St.. Contributed at the plate in the team's L 5-8."
+      "narrative": "Went 2/5 with 1 RBI against Washington. Hit 1 home run(s). Had an outstanding performance at the plate (0.400)."
     },
     "9ae8c794": {
       "id": "9ae8c794",
@@ -76,47 +79,50 @@
       "num": "2.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.271,
-        "ops": 0.765,
-        "ab": 59,
-        "r": 9,
-        "h": 16,
-        "doubles": 5,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.286,
+        "ops": 0.819,
+        "ab": 63,
+        "r": 10,
+        "h": 18,
+        "doubles": 7,
         "triples": 0,
         "hr": 1,
-        "rbi": 4,
-        "tb": 24,
-        "slg": 0.407,
-        "bb": 6,
+        "rbi": 7,
+        "tb": 28,
+        "slg": 0.444,
+        "bb": 7,
         "hbp": 2,
-        "so": 17,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.358,
+        "obp": 0.375,
         "sf": 0,
-        "sh": 0,
+        "sh": 1,
         "sb": 3,
         "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
           "ab": 4,
-          "r": 2,
+          "r": 1,
           "h": 2,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "2B"
+          "rbi": 3,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 2,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against Kent St.. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/4 with 3 RBI against Washington. Had an outstanding performance at the plate (0.500)."
     },
     "9a096f66": {
       "id": "9a096f66",
@@ -128,24 +134,24 @@
       "num": "4.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 14,
-        "gs": 13,
-        "avg": 0.262,
-        "ops": 0.761,
-        "ab": 42,
-        "r": 8,
-        "h": 11,
-        "doubles": 2,
+        "g": 15,
+        "gs": 14,
+        "avg": 0.267,
+        "ops": 0.8,
+        "ab": 45,
+        "r": 9,
+        "h": 12,
+        "doubles": 3,
         "triples": 0,
         "hr": 1,
-        "rbi": 4,
-        "tb": 16,
-        "slg": 0.381,
-        "bb": 7,
+        "rbi": 5,
+        "tb": 18,
+        "slg": 0.4,
+        "bb": 9,
         "hbp": 1,
-        "so": 17,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.38,
+        "obp": 0.4,
         "sf": 0,
         "sh": 1,
         "sb": 3,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
           "ab": 3,
           "r": 1,
-          "h": 2,
-          "rbi": 2,
-          "bb": 0,
-          "so": 0,
-          "pos": "LF"
+          "h": 1,
+          "rbi": 1,
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 2 RBI against Kent St.. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 1/3 with 1 RBI against Washington. Contributed at the plate in the team's W."
     },
     "3bc6f810": {
       "id": "3bc6f810",
@@ -180,11 +189,11 @@
       "num": "6.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.235,
-        "ops": 0.643,
-        "ab": 51,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.218,
+        "ops": 0.611,
+        "ab": 55,
         "r": 4,
         "h": 12,
         "doubles": 3,
@@ -192,12 +201,12 @@
         "hr": 0,
         "rbi": 5,
         "tb": 17,
-        "slg": 0.333,
-        "bb": 6,
+        "slg": 0.309,
+        "bb": 7,
         "hbp": 0,
-        "so": 15,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.31,
+        "obp": 0.302,
         "sf": 1,
         "sh": 2,
         "sb": 1,
@@ -205,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 2,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "3B"
+          "bb": 1,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against Kent St.. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/4 with 0 RBI against Washington. Struggled at the plate but saw 1 walk(s)."
     },
     "1d3fa897": {
       "id": "1d3fa897",
@@ -232,24 +244,24 @@
       "num": "8.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.291,
-        "ops": 0.921,
-        "ab": 55,
-        "r": 7,
-        "h": 16,
-        "doubles": 4,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.305,
+        "ops": 0.959,
+        "ab": 59,
+        "r": 8,
+        "h": 18,
+        "doubles": 5,
         "triples": 0,
         "hr": 3,
-        "rbi": 10,
-        "tb": 29,
-        "slg": 0.527,
-        "bb": 8,
+        "rbi": 12,
+        "tb": 32,
+        "slg": 0.542,
+        "bb": 10,
         "hbp": 2,
-        "so": 18,
+        "so": 19,
         "gdp": 0,
-        "obp": 0.394,
+        "obp": 0.417,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -257,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 4,
-          "pos": "RF"
+          "r": 1,
+          "h": 2,
+          "rbi": 2,
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Kent St.. Struggled to make contact."
+      "narrative": "Went 2/4 with 2 RBI against Washington. Had an outstanding performance at the plate (0.500)."
     },
     "b33165e2": {
       "id": "b33165e2",
@@ -308,8 +323,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Texas",
+        "result": "L",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/texas/boxscore/21882",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Texas. Struggled to make contact."
     },
     "398c3c2d": {
       "id": "398c3c2d",
@@ -342,18 +375,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Ucla",
-        "result": "L 6-19",
+        "opponent": "UCLA",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21406",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -365,7 +390,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Ucla, throwing 0.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against UCLA, throwing 0.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "35d7dd80": {
       "id": "35d7dd80",
@@ -377,47 +402,50 @@
       "num": "11.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.245,
-        "ops": 0.679,
-        "ab": 49,
-        "r": 9,
-        "h": 12,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.264,
+        "ops": 0.749,
+        "ab": 53,
+        "r": 11,
+        "h": 14,
         "doubles": 2,
-        "triples": 0,
+        "triples": 1,
         "hr": 0,
         "rbi": 5,
-        "tb": 14,
-        "slg": 0.286,
+        "tb": 18,
+        "slg": 0.34,
         "bb": 9,
-        "hbp": 3,
-        "so": 17,
+        "hbp": 4,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.393,
+        "obp": 0.409,
         "sf": 0,
         "sh": 3,
         "sb": 3,
-        "sb_att": 4
+        "sb_att": 5
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 0,
+          "r": 2,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Kent St.. Struggled to make contact."
+      "narrative": "Went 2/4 with 0 RBI against Washington. Had an outstanding performance at the plate (0.500)."
     },
     "27ce786a": {
       "id": "27ce786a",
@@ -453,8 +481,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Saint Louis",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/saint-louis/boxscore/21871",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Saint Louis. Struggled at the plate but saw 1 walk(s)."
     },
     "818edfd3": {
       "id": "818edfd3",
@@ -486,31 +532,23 @@
         "opp_avg": ".348"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-08",
+        "opponent": "UCLA",
+        "result": "L",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21407",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 0,
+          "ip": "1.1",
+          "h": 3,
+          "r": 3,
+          "er": 0,
+          "bb": 3,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against UCLA, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "a858b410": {
       "id": "a858b410",
@@ -544,17 +582,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kent St.",
-        "result": "L 5-8",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 2,
@@ -578,24 +608,24 @@
       "num": "16.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.259,
-        "ops": 0.826,
-        "ab": 58,
-        "r": 9,
-        "h": 15,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.25,
+        "ops": 0.782,
+        "ab": 64,
+        "r": 10,
+        "h": 16,
         "doubles": 2,
         "triples": 1,
         "hr": 3,
-        "rbi": 15,
-        "tb": 28,
-        "slg": 0.483,
+        "rbi": 16,
+        "tb": 29,
+        "slg": 0.453,
         "bb": 7,
         "hbp": 1,
-        "so": 13,
+        "so": 15,
         "gdp": 0,
-        "obp": 0.343,
+        "obp": 0.329,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -603,22 +633,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
-          "ab": 4,
+          "ab": 6,
           "r": 1,
           "h": 1,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "C"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Kent St.. Contributed at the plate in the team's L 5-8."
+      "narrative": "Went 1/6 with 1 RBI against Washington. Struggled to make contact."
     },
     "aa0ca4a5": {
       "id": "aa0ca4a5",
@@ -649,8 +682,24 @@
         "wp": 1,
         "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "UCLA",
+        "result": "L",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21405",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UCLA, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "363f6d3c": {
       "id": "363f6d3c",
@@ -662,24 +711,24 @@
       "num": "19.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 9,
-        "gs": 6,
-        "avg": 0.32,
+        "g": 10,
+        "gs": 7,
+        "avg": 0.333,
         "ops": 0.997,
-        "ab": 25,
+        "ab": 30,
         "r": 2,
-        "h": 8,
-        "doubles": 2,
+        "h": 10,
+        "doubles": 3,
         "triples": 0,
         "hr": 2,
-        "rbi": 7,
-        "tb": 16,
-        "slg": 0.64,
+        "rbi": 8,
+        "tb": 19,
+        "slg": 0.633,
         "bb": 0,
         "hbp": 2,
-        "so": 7,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.357,
+        "obp": 0.364,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -687,22 +736,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
-          "ab": 2,
+          "ab": 5,
           "r": 0,
-          "h": 0,
+          "h": 2,
           "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "so": 3,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against Kent St.. Struggled to make contact."
+      "narrative": "Went 2/5 with 1 RBI against Washington. Had an outstanding performance at the plate (0.400)."
     },
     "3491a939": {
       "id": "3491a939",
@@ -735,18 +787,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Ucla",
-        "result": "L 6-19",
+        "opponent": "UCLA",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21406",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.1",
           "h": 8,
@@ -758,7 +802,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Ucla, throwing 2.1 innings. Allowed 9 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against UCLA, throwing 2.1 innings. Allowed 9 earned run(s) with 3 strikeout(s)."
     },
     "89ef33bf": {
       "id": "89ef33bf",
@@ -771,50 +815,42 @@
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.6,
-        "whip": 1.3,
-        "w": 1,
+        "era": 2.77,
+        "whip": 1.38,
+        "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 10.0,
-        "h": 7,
-        "r": 5,
+        "ip": 13.0,
+        "h": 11,
+        "r": 7,
         "er": 4,
-        "bb": 6,
-        "so": 11,
+        "bb": 7,
+        "so": 14,
         "hr": 0,
         "hbp": 4,
         "wp": 2,
-        "opp_avg": ".200"
+        "opp_avg": ".220"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
+        "batting": null,
         "pitching": {
-          "ip": "3.1",
-          "h": 1,
-          "r": 1,
-          "er": 1,
+          "ip": "3.0",
+          "h": 4,
+          "r": 2,
+          "er": 0,
           "bb": 1,
-          "so": 2,
+          "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Kent St., throwing 3.1 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Washington, throwing 3.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "4d720aa3": {
       "id": "4d720aa3",
@@ -847,18 +883,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Ucla",
-        "result": "L 7-10",
+        "opponent": "UCLA",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21407",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.1",
           "h": 6,
@@ -870,7 +898,7 @@
           "hbp": 4
         }
       },
-      "narrative": "Took the mound against Ucla, throwing 4.1 innings. Allowed 1 earned run(s) with 5 strikeout(s)."
+      "narrative": "Took the mound against UCLA, throwing 4.1 innings. Allowed 1 earned run(s) with 5 strikeout(s)."
     },
     "a3f87aa3": {
       "id": "a3f87aa3",
@@ -883,50 +911,42 @@
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.38,
-        "whip": 1.13,
+        "era": 4.26,
+        "whip": 1.11,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 5.1,
-        "h": 4,
-        "r": 3,
-        "er": 2,
+        "ip": 6.1,
+        "h": 5,
+        "r": 5,
+        "er": 3,
         "bb": 2,
-        "so": 7,
-        "hr": 0,
-        "hbp": 0,
+        "so": 8,
+        "hr": 1,
+        "hbp": 1,
         "wp": 1,
-        "opp_avg": ".211"
+        "opp_avg": ".208"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
+        "batting": null,
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 1,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 1
         }
       },
-      "narrative": "Took the mound against Kent St., throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Washington, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "cef3bf9c": {
       "id": "cef3bf9c",
@@ -960,17 +980,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kent St.",
-        "result": "L 5-8",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -1015,18 +1027,10 @@
       },
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Ucla",
-        "result": "L 6-19",
+        "opponent": "UCLA",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21406",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 1,
@@ -1038,7 +1042,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Ucla, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against UCLA, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "1ad92ae7": {
       "id": "1ad92ae7",
@@ -1070,31 +1074,23 @@
         "opp_avg": ".000"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Ucla",
-        "result": "L 6-19",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21406",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-02-14",
+        "opponent": "Saint Louis",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/saint-louis/boxscore/21872",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
+          "ip": "0.2",
           "h": 0,
-          "r": 3,
-          "er": 3,
-          "bb": 3,
-          "so": 0,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 1
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Saint Louis, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "d2e7482a": {
       "id": "d2e7482a",
@@ -1106,24 +1102,24 @@
       "num": "34.0",
       "school": "The Ohio State University",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.136,
-        "ops": 0.429,
-        "ab": 44,
-        "r": 3,
-        "h": 6,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.146,
+        "ops": 0.449,
+        "ab": 48,
+        "r": 5,
+        "h": 7,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
         "rbi": 4,
-        "tb": 9,
-        "slg": 0.205,
-        "bb": 4,
+        "tb": 10,
+        "slg": 0.208,
+        "bb": 5,
         "hbp": 1,
-        "so": 16,
+        "so": 19,
         "gdp": 1,
-        "obp": 0.224,
+        "obp": 0.241,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -1131,22 +1127,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 0,
+          "r": 2,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "1B"
+          "bb": 1,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Kent St.. Struggled to make contact."
+      "narrative": "Went 1/4 with 0 RBI against Washington. Contributed at the plate in the team's W."
     },
     "ec99caa6": {
       "id": "ec99caa6",
@@ -1180,17 +1179,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kent St.",
-        "result": "L 5-8",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -1238,8 +1229,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Texas",
+        "result": "L",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/texas/boxscore/21882",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Texas. Struggled to make contact."
     },
     "4917f88b": {
       "id": "4917f88b",
@@ -1275,8 +1284,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Xavier",
+        "result": "L",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/xavier/boxscore/22339",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against Xavier. Struggled to make contact."
     },
     "a6a48f6a": {
       "id": "a6a48f6a",
@@ -1310,17 +1337,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kent St.",
-        "result": "L 5-8",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 1,
@@ -1363,8 +1382,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Memphis",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/memphis/boxscore/21876",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Memphis, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "3e6b0ef6": {
       "id": "3e6b0ef6",
@@ -1397,18 +1432,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Ucla",
-        "result": "L 7-10",
+        "opponent": "UCLA",
+        "result": "L",
         "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21407",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 0,
@@ -1420,7 +1447,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Ucla, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against UCLA, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "54b27546": {
       "id": "54b27546",
@@ -1433,26 +1460,42 @@
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.5,
-        "whip": 1.67,
+        "era": 5.7,
+        "whip": 1.73,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 18.0,
-        "h": 19,
-        "r": 15,
-        "er": 11,
-        "bb": 11,
-        "so": 22,
-        "hr": 2,
+        "g": 5,
+        "gs": 5,
+        "ip": 23.2,
+        "h": 26,
+        "r": 20,
+        "er": 15,
+        "bb": 15,
+        "so": 26,
+        "hr": 5,
         "hbp": 2,
-        "wp": 4,
-        "opp_avg": ".253"
+        "wp": 5,
+        "opp_avg": ".265"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
+        "batting": null,
+        "pitching": {
+          "ip": "5.2",
+          "h": 7,
+          "r": 5,
+          "er": 4,
+          "bb": 4,
+          "so": 4,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Washington, throwing 5.2 innings. Struck out 4 while allowing just 7 hit(s) and 4 earned run(s) in a quality start."
     },
     "440a1998": {
       "id": "440a1998",
@@ -1483,8 +1526,24 @@
         "wp": 0,
         "opp_avg": ".283"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Xavier",
+        "result": "L",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/xavier/boxscore/22339",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 2,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Xavier, throwing 3.1 innings. Allowed 5 earned run(s) with 4 strikeout(s)."
     },
     "85d65e64": {
       "id": "85d65e64",
@@ -1520,8 +1579,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Memphis",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/memphis/boxscore/21876",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Memphis. Struggled at the plate but saw 1 walk(s)."
     },
     "9f29c7d3": {
       "id": "9f29c7d3",
@@ -1553,31 +1630,23 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Ucla",
-        "result": "L 7-10",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/ucla/boxscore/21407",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-01",
+        "opponent": "Texas",
+        "result": "L",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/texas/boxscore/21882",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 1,
-          "r": 3,
-          "er": 3,
+          "ip": "1.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
           "bb": 2,
-          "so": 0,
+          "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Texas, throwing 1.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "0620ca7f": {
       "id": "0620ca7f",
@@ -1590,50 +1659,42 @@
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.84,
-        "whip": 1.26,
+        "era": 2.7,
+        "whip": 1.35,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 6.1,
+        "ip": 6.2,
         "h": 6,
         "r": 2,
         "er": 2,
-        "bb": 2,
-        "so": 8,
+        "bb": 3,
+        "so": 9,
         "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".273"
+        "opp_avg": ".261"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kent St.",
-        "result": "L 5-8",
-        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/kent-st-/boxscore/21884",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Washington",
+        "result": "W",
+        "boxscore_url": "https://ohiostatebuckeyes.com/sports/baseball/stats/2026/washington/boxscore/21408",
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Kent St., throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Washington, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

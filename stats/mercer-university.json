@@ -2,16 +2,16 @@
   "school": "Mercer University",
   "base_url": "https://www.mercerbears.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:48:46.409242Z",
-  "record": "15-2",
+  "generated_at": "2026-03-14T15:07:52.184947Z",
+  "record": "16-2",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Georgia St.",
-    "result": "L 6-16",
-    "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
-    "recap_url": "https://www.mercerbears.com/news/2026/3/10/baseball-bats-explode-in-blowout-victory-over-georgia-state",
-    "recap_headline": "Mercer University",
-    "recap_text": "DECATUR\n, Ga. \u2013 The Bears tied their season high of 17 hits in a dominant 16-6 win over in-state rival Georgia State (10-8) on Tuesday night at the GSU Baseball Complex.\nDecisive Plays:\nThe Bears came off the bus swinging on Tuesday night.\nChris Katz\npowered an RBI double to score\nLogan Shepherd\nin the top of the first. Mercer would play station-to-station and plate three more runs later in the frame. Georgia State scored its first run of the game with a sacrifice fly in the third. The Panthers scored four runs and took the lead in the fourth inning.\nDylan LaPointe\ntied the game in the fifth with an RBI single before\nEli Stephens\npushed the Bears back in front with a sacrifice fly of his own.\nMichael Graziano\nextended Mercer's lead with his second RBI base knock of the night before Katz mashed his second double of the night to tally on two more runs.\nBrant Baughcum\nblasted his first home run of the season, a three-run shot to left field, to cap off the scoring in the fifth. Graziano left the yard for the second time this season to start the sixth and\nBraydon Kersey\nbounced his sixth home run of the season off the top of the scoreboard to make it 16-5. The Panthers picked up a run in the bottom of the seventh before Kersey retired the next two batters to end the game.\nNotable Players:\nBraydon Kersey\n:\n2-for-2, HR, 3 RBI, 2 R, 2 BB\nBrant Baughcum\n:\n3-for-5, HR, 3 RBI, 3 R\nChris Katz\n:\n3-for-5, 2 2Bs, 3 RBI, 3 R\nMichael Graziano\n:\n4-for-5, HR, 3 RBI, 2 R\nNoteworthy:\nMercer has outscored its opponents 67-17 over the last four games. The Bears tied their season high of 17 hits on Tuesday night against Georgia State.\nBraydon Kersey\nmashed his sixth home run of the season and now leads the Bears for the most homers on the team.\nChris Katz\nwent 3-for-5 with three RBI and two doubles on Tuesday night at the GSU Baseball Complex. Katz now has nine multi-hit games and six multi-RBI games since transferring to Mercer.\nNext Game:\nThe Bears continue their road trip with a three-game series at Tennesee Tech (7-9) this weekend. First pitch for Friday, March 13 is scheduled for 7:00 p.m. Pitching matchups are TBD. Live stats will be available\nhere\n."
+    "date": "2026-03-13",
+    "opponent": "Tennessee Tech",
+    "result": "W",
+    "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
   },
   "players": {
     "c2f57389": {
@@ -49,14 +49,14 @@
       },
       "season_pitching": {
         "era": 0.0,
-        "whip": 1.0,
+        "whip": 1.25,
         "w": 1,
         "l": 0,
         "sv": 1,
-        "g": 7,
+        "g": 8,
         "gs": 0,
         "ip": 8.0,
-        "h": 2,
+        "h": 4,
         "r": 0,
         "er": 0,
         "bb": 6,
@@ -64,13 +64,13 @@
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".077"
+        "opp_avg": ".143"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -78,11 +78,23 @@
           "rbi": 2,
           "bb": 1,
           "so": 0,
-          "pos": "PH/CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": null
+        "pitching": {
+          "ip": "1.1",
+          "h": 6,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 0/1 with 2 RBI against Alcorn State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/1 with 2 RBI against Tennessee Tech. Struggled at the plate but saw 1 walk(s)."
     },
     "1778a522": {
       "id": "1778a522",
@@ -113,8 +125,24 @@
         "wp": 0,
         "opp_avg": ".267"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Alcorn State",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18647",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alcorn State, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "f4d90a8c": {
       "id": "f4d90a8c",
@@ -126,32 +154,50 @@
       "num": "4.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.521,
-        "ops": 1.401,
-        "ab": 48,
-        "r": 14,
-        "h": 25,
-        "doubles": 10,
-        "triples": 0,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.519,
+        "ops": 1.441,
+        "ab": 52,
+        "r": 15,
+        "h": 27,
+        "doubles": 11,
+        "triples": 1,
         "hr": 1,
-        "rbi": 13,
-        "tb": 38,
-        "slg": 0.792,
-        "bb": 13,
+        "rbi": 14,
+        "tb": 43,
+        "slg": 0.827,
+        "bb": 15,
         "hbp": 1,
-        "so": 4,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.609,
+        "obp": 0.614,
         "sf": 2,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 2,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 1,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 1 RBI against Tennessee Tech. Had an outstanding performance at the plate (0.500)."
     },
     "e8e14810": {
       "id": "e8e14810",
@@ -185,17 +231,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Alcorn State",
-        "result": "W 25-2",
+        "result": "W",
         "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 1,
@@ -219,24 +257,24 @@
       "num": "6.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 17,
-        "gs": 16,
-        "avg": 0.261,
-        "ops": 0.863,
-        "ab": 46,
-        "r": 12,
-        "h": 12,
+        "g": 18,
+        "gs": 17,
+        "avg": 0.269,
+        "ops": 0.902,
+        "ab": 52,
+        "r": 14,
+        "h": 14,
         "doubles": 2,
         "triples": 0,
-        "hr": 1,
-        "rbi": 9,
-        "tb": 17,
-        "slg": 0.37,
+        "hr": 2,
+        "rbi": 10,
+        "tb": 22,
+        "slg": 0.423,
         "bb": 7,
         "hbp": 14,
-        "so": 12,
-        "gdp": 2,
-        "obp": 0.493,
+        "so": 13,
+        "gdp": 3,
+        "obp": 0.479,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -244,22 +282,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "C"
+          "ab": 6,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Alcorn State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 2/6 with 1 RBI against Tennessee Tech. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "5e23ff45": {
       "id": "5e23ff45",
@@ -271,47 +312,50 @@
       "num": "7.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.271,
-        "ops": 0.767,
-        "ab": 59,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.266,
+        "ops": 0.749,
+        "ab": 64,
         "r": 17,
-        "h": 16,
+        "h": 17,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
-        "rbi": 13,
-        "tb": 22,
-        "slg": 0.373,
-        "bb": 4,
+        "rbi": 14,
+        "tb": 23,
+        "slg": 0.359,
+        "bb": 5,
         "hbp": 8,
-        "so": 10,
-        "gdp": 0,
-        "obp": 0.394,
+        "so": 11,
+        "gdp": 1,
+        "obp": 0.39,
         "sf": 0,
-        "sh": 2,
+        "sh": 3,
         "sb": 4,
         "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
         "batting": {
-          "ab": 0,
+          "ab": 5,
           "r": 3,
-          "h": 0,
-          "rbi": 2,
+          "h": 3,
+          "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "3B"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 3/5 with 3 RBI against Georgia St.. Hit 1 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "740de919": {
       "id": "740de919",
@@ -348,22 +392,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
         "batting": {
           "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
           "bb": 1,
-          "so": 1,
-          "pos": "PR/2B"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against Alcorn State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/2 with 0 RBI against Georgia St.. Had an outstanding performance at the plate (0.500)."
     },
     "b2b93f8b": {
       "id": "b2b93f8b",
@@ -375,24 +422,24 @@
       "num": "9.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.32,
-        "ops": 0.783,
-        "ab": 50,
-        "r": 11,
-        "h": 16,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.321,
+        "ops": 0.826,
+        "ab": 56,
+        "r": 14,
+        "h": 18,
         "doubles": 1,
         "triples": 0,
-        "hr": 0,
-        "rbi": 6,
-        "tb": 17,
-        "slg": 0.34,
+        "hr": 1,
+        "rbi": 9,
+        "tb": 22,
+        "slg": 0.393,
         "bb": 9,
         "hbp": 2,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.443,
+        "obp": 0.433,
         "sf": 0,
         "sh": 1,
         "sb": 1,
@@ -400,22 +447,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "2B"
+          "ab": 6,
+          "r": 3,
+          "h": 2,
+          "rbi": 3,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Alcorn State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 2/6 with 3 RBI against Tennessee Tech. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "e27f8acf": {
       "id": "e27f8acf",
@@ -470,22 +520,25 @@
         "opp_avg": ".229"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "PH/3B"
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Alcorn State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Georgia St.. Struggled to make contact."
     },
     "0c634840": {
       "id": "0c634840",
@@ -498,38 +551,30 @@
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.19,
-        "whip": 1.62,
+        "era": 6.23,
+        "whip": 1.73,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 1,
         "ip": 8.2,
-        "h": 8,
-        "r": 5,
-        "er": 5,
+        "h": 9,
+        "r": 6,
+        "er": 6,
         "bb": 6,
         "so": 7,
-        "hr": 1,
+        "hr": 2,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".235"
+        "opp_avg": ".257"
       },
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Alcorn State",
-        "result": "W 25-2",
+        "result": "W",
         "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -553,24 +598,24 @@
       "num": "12.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.382,
-        "ops": 1.353,
-        "ab": 34,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.368,
+        "ops": 1.269,
+        "ab": 38,
         "r": 12,
-        "h": 13,
+        "h": 14,
         "doubles": 1,
         "triples": 0,
         "hr": 5,
         "rbi": 17,
-        "tb": 29,
-        "slg": 0.853,
+        "tb": 30,
+        "slg": 0.789,
         "bb": 9,
         "hbp": 1,
-        "so": 11,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.48,
         "sf": 2,
         "sh": 0,
         "sb": 0,
@@ -578,22 +623,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 2,
-          "rbi": 4,
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "RF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 4 RBI against Alcorn State. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 1/4 with 0 RBI against Tennessee Tech. Contributed at the plate in the team's W."
     },
     "a14099cc": {
       "id": "a14099cc",
@@ -632,7 +680,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Alcorn State",
-        "result": "W 25-2",
+        "result": "W",
         "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
         "batting": {
           "ab": 2,
@@ -641,7 +689,10 @@
           "rbi": 2,
           "bb": 0,
           "so": 0,
-          "pos": "PH/DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -682,22 +733,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-06",
         "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18647",
         "batting": {
-          "ab": 0,
-          "r": 2,
-          "h": 0,
-          "rbi": 1,
-          "bb": 2,
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 1/1 with 0 RBI against Alcorn State. Had an outstanding performance at the plate (1.000)."
     },
     "5e6e73a2": {
       "id": "5e6e73a2",
@@ -709,24 +763,24 @@
       "num": "15.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.306,
-        "ops": 1.085,
-        "ab": 62,
-        "r": 19,
-        "h": 19,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.338,
+        "ops": 1.109,
+        "ab": 68,
+        "r": 21,
+        "h": 23,
         "doubles": 5,
         "triples": 0,
         "hr": 5,
-        "rbi": 16,
-        "tb": 39,
-        "slg": 0.629,
-        "bb": 14,
+        "rbi": 18,
+        "tb": 43,
+        "slg": 0.632,
+        "bb": 15,
         "hbp": 3,
-        "so": 18,
+        "so": 19,
         "gdp": 1,
-        "obp": 0.456,
+        "obp": 0.477,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -734,22 +788,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
+          "ab": 6,
+          "r": 2,
+          "h": 4,
+          "rbi": 2,
           "bb": 1,
-          "so": 2,
-          "pos": "1B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Alcorn State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 4/6 with 2 RBI against Tennessee Tech. Had an outstanding performance at the plate (0.667)."
     },
     "77530475": {
       "id": "77530475",
@@ -781,31 +838,23 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Alcorn State",
-        "result": "W 10-5",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18648",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 1,
-          "r": 2,
-          "er": 2,
+          "ip": "1.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 0,
-          "wp": 1,
-          "hbp": 2
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Georgia St., throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "c8e3d21c": {
       "id": "c8e3d21c",
@@ -818,26 +867,42 @@
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.75,
-        "whip": 1.88,
+        "era": 4.15,
+        "whip": 1.38,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 2.2,
-        "h": 3,
+        "ip": 4.1,
+        "h": 4,
         "r": 2,
         "er": 2,
         "bb": 2,
-        "so": 1,
+        "so": 3,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".300"
+        "opp_avg": ".267"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee Tech, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "24738b58": {
       "id": "24738b58",
@@ -850,50 +915,42 @@
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.85,
-        "whip": 1.69,
+        "era": 5.28,
+        "whip": 1.7,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 3,
-        "ip": 13.0,
-        "h": 13,
-        "r": 7,
-        "er": 7,
-        "bb": 9,
-        "so": 20,
+        "ip": 15.1,
+        "h": 14,
+        "r": 9,
+        "er": 9,
+        "bb": 12,
+        "so": 24,
         "hr": 1,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".250"
+        "opp_avg": ".233"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
+        "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 5,
+          "ip": "2.1",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Alcorn State, throwing 2.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+      "narrative": "Took the mound against Tennessee Tech, throwing 2.1 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
     },
     "d15e6c06": {
       "id": "d15e6c06",
@@ -932,7 +989,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Alcorn State",
-        "result": "W 25-2",
+        "result": "W",
         "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
         "batting": {
           "ab": 4,
@@ -941,7 +998,10 @@
           "rbi": 3,
           "bb": 1,
           "so": 0,
-          "pos": "SS"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -976,8 +1036,24 @@
         "wp": 0,
         "opp_avg": ".533"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Florida State",
+        "result": "L",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/florida-state/boxscore/18646",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Florida State, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "13387844": {
       "id": "13387844",
@@ -1011,17 +1087,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Alcorn State",
-        "result": "W 10-5",
+        "result": "W",
         "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18648",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 5,
@@ -1088,22 +1156,23 @@
         "opp_avg": ".229"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
-        "batting": {
-          "ab": 2,
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "PH/3B"
-        },
-        "pitching": null
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 0/2 with 0 RBI against Alcorn State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Took the mound against Georgia St., throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "af80cb78": {
       "id": "af80cb78",
@@ -1115,24 +1184,24 @@
       "num": "25.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.4,
-        "ops": 1.21,
-        "ab": 35,
-        "r": 14,
-        "h": 14,
-        "doubles": 3,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.39,
+        "ops": 1.162,
+        "ab": 41,
+        "r": 16,
+        "h": 16,
+        "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 14,
-        "tb": 23,
-        "slg": 0.657,
+        "tb": 26,
+        "slg": 0.634,
         "bb": 11,
         "hbp": 1,
         "so": 5,
         "gdp": 1,
-        "obp": 0.553,
+        "obp": 0.528,
         "sf": 0,
         "sh": 1,
         "sb": 2,
@@ -1140,22 +1209,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
-          "ab": 0,
+          "ab": 6,
           "r": 2,
-          "h": 0,
+          "h": 2,
           "rbi": 0,
-          "bb": 3,
+          "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 2/6 with 0 RBI against Tennessee Tech. Contributed at the plate in the team's W."
     },
     "c9ce850a": {
       "id": "c9ce850a",
@@ -1186,8 +1258,24 @@
         "wp": 3,
         "opp_avg": ".273"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgia St., throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "b2e2c770": {
       "id": "b2e2c770",
@@ -1199,65 +1287,77 @@
       "num": "27.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.344,
-        "ops": 1.143,
-        "ab": 64,
-        "r": 17,
-        "h": 22,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.343,
+        "ops": 1.146,
+        "ab": 70,
+        "r": 19,
+        "h": 24,
         "doubles": 5,
         "triples": 0,
-        "hr": 6,
-        "rbi": 24,
-        "tb": 45,
-        "slg": 0.703,
+        "hr": 7,
+        "rbi": 26,
+        "tb": 50,
+        "slg": 0.714,
         "bb": 9,
         "hbp": 2,
-        "so": 19,
+        "so": 21,
         "gdp": 1,
-        "obp": 0.44,
+        "obp": 0.432,
         "sf": 0,
         "sh": 0,
-        "sb": 4,
-        "sb_att": 4
+        "sb": 5,
+        "sb_att": 5
       },
       "season_pitching": {
-        "era": 3.0,
-        "whip": 0.67,
+        "era": 6.14,
+        "whip": 1.23,
         "w": 1,
         "l": 0,
         "sv": 2,
-        "g": 6,
+        "g": 7,
         "gs": 1,
-        "ip": 6.0,
-        "h": 4,
-        "r": 2,
-        "er": 2,
-        "bb": 0,
-        "so": 8,
+        "ip": 7.1,
+        "h": 8,
+        "r": 5,
+        "er": 5,
+        "bb": 1,
+        "so": 10,
         "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".182"
+        "opp_avg": ".276"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
-          "ab": 3,
+          "ab": 6,
           "r": 2,
           "h": 2,
-          "rbi": 5,
+          "rbi": 2,
           "bb": 0,
-          "so": 1,
-          "pos": "DH"
+          "so": 2,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": null
+        "pitching": {
+          "ip": "1.1",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 2/3 with 5 RBI against Alcorn State. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 2/6 with 2 RBI against Tennessee Tech. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "4a8b8370": {
       "id": "4a8b8370",
@@ -1270,50 +1370,42 @@
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.76,
-        "whip": 1.59,
-        "w": 0,
+        "era": 3.52,
+        "whip": 1.57,
+        "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 5.2,
-        "h": 5,
+        "ip": 7.2,
+        "h": 6,
         "r": 4,
         "er": 3,
-        "bb": 4,
-        "so": 6,
+        "bb": 6,
+        "so": 9,
         "hr": 1,
         "hbp": 0,
         "wp": 1,
-        "opp_avg": ".208"
+        "opp_avg": ".194"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
+        "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "2.0",
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 0,
+          "bb": 2,
+          "so": 3,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Alcorn State, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Tennessee Tech, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "49c81625": {
       "id": "49c81625",
@@ -1344,8 +1436,24 @@
         "wp": 0,
         "opp_avg": ".143"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Alcorn State",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18647",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alcorn State, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "f441583d": {
       "id": "f441583d",
@@ -1358,26 +1466,42 @@
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.32,
-        "whip": 1.32,
+        "era": 5.85,
+        "whip": 1.55,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 16.2,
-        "h": 13,
-        "r": 11,
-        "er": 8,
-        "bb": 9,
-        "so": 26,
+        "g": 5,
+        "gs": 5,
+        "ip": 20.0,
+        "h": 17,
+        "r": 16,
+        "er": 13,
+        "bb": 14,
+        "so": 29,
         "hr": 2,
         "hbp": 3,
-        "wp": 1,
-        "opp_avg": ".210"
+        "wp": 2,
+        "opp_avg": ".224"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 4,
+          "r": 5,
+          "er": 5,
+          "bb": 5,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Tennessee Tech, throwing 3.1 innings. Allowed 5 earned run(s) with 3 strikeout(s)."
     },
     "701d9a40": {
       "id": "701d9a40",
@@ -1414,22 +1538,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
         "batting": {
           "ab": 1,
-          "r": 2,
+          "r": 0,
           "h": 0,
-          "rbi": 1,
-          "bb": 2,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 1 RBI against Alcorn State. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Georgia St.. Struggled to make contact."
     },
     "613c2ea5": {
       "id": "613c2ea5",
@@ -1460,8 +1587,24 @@
         "wp": 0,
         "opp_avg": ".267"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Florida State",
+        "result": "L",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/florida-state/boxscore/18646",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 5,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Florida State, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "5ec0589b": {
       "id": "5ec0589b",
@@ -1474,50 +1617,42 @@
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.86,
-        "whip": 1.0,
+        "era": 3.68,
+        "whip": 1.09,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 7.0,
+        "ip": 7.1,
         "h": 4,
         "r": 4,
         "er": 3,
-        "bb": 3,
+        "bb": 4,
         "so": 12,
         "hr": 0,
         "hbp": 1,
-        "wp": 0,
-        "opp_avg": ".167"
+        "wp": 1,
+        "opp_avg": ".160"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Alcorn State",
-        "result": "W 10-5",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18648",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
+        "batting": null,
         "pitching": {
           "ip": "0.1",
-          "h": 1,
-          "r": 3,
-          "er": 3,
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 1
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Alcorn State, throwing 0.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Tennessee Tech, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "05e6d596": {
       "id": "05e6d596",
@@ -1556,7 +1691,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Alcorn State",
-        "result": "W 25-2",
+        "result": "W",
         "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
         "batting": {
           "ab": 1,
@@ -1565,7 +1700,10 @@
           "rbi": 2,
           "bb": 2,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1581,11 +1719,11 @@
       "num": "35.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 16,
+        "g": 17,
         "gs": 7,
-        "avg": 0.316,
-        "ops": 0.974,
-        "ab": 19,
+        "avg": 0.286,
+        "ops": 0.898,
+        "ab": 21,
         "r": 9,
         "h": 6,
         "doubles": 0,
@@ -1593,12 +1731,12 @@
         "hr": 1,
         "rbi": 5,
         "tb": 9,
-        "slg": 0.474,
+        "slg": 0.429,
         "bb": 2,
         "hbp": 7,
-        "so": 9,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.469,
         "sf": 2,
         "sh": 0,
         "sb": 0,
@@ -1606,22 +1744,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
           "ab": 2,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "LF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 1 RBI against Alcorn State. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/2 with 0 RBI against Tennessee Tech. Struggled to make contact."
     },
     "3e0cf15d": {
       "id": "3e0cf15d",
@@ -1652,8 +1793,24 @@
         "wp": 0,
         "opp_avg": ".318"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/georgia-st-/boxscore/18650",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgia St., throwing 0.2 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
     },
     "95fb7676": {
       "id": "95fb7676",
@@ -1684,8 +1841,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Columbia",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/columbia/boxscore/18635",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Columbia, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "7c625d36": {
       "id": "7c625d36",
@@ -1716,8 +1889,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Alcorn State",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18647",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Alcorn State, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "9f9b1135": {
       "id": "9f9b1135",
@@ -1748,8 +1937,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Florida State",
+        "result": "L",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/florida-state/boxscore/18646",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Florida State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "113bd913": {
       "id": "113bd913",
@@ -1761,24 +1966,24 @@
       "num": "44.0",
       "school": "Mercer University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.424,
-        "ops": 1.255,
-        "ab": 66,
-        "r": 23,
-        "h": 28,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.444,
+        "ops": 1.307,
+        "ab": 72,
+        "r": 25,
+        "h": 32,
         "doubles": 6,
         "triples": 0,
-        "hr": 5,
-        "rbi": 20,
-        "tb": 49,
-        "slg": 0.742,
-        "bb": 12,
+        "hr": 6,
+        "rbi": 23,
+        "tb": 56,
+        "slg": 0.778,
+        "bb": 13,
         "hbp": 1,
-        "so": 4,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.513,
+        "obp": 0.529,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -1786,22 +1991,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Alcorn State",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/alcorn-state/boxscore/18649",
+        "date": "2026-03-13",
+        "opponent": "Tennessee Tech",
+        "result": "W",
+        "boxscore_url": "https://www.mercerbears.com/sports/baseball/stats/2026/tennessee-tech/boxscore/18651",
         "batting": {
-          "ab": 1,
+          "ab": 6,
           "r": 2,
-          "h": 0,
-          "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "LF"
+          "h": 4,
+          "rbi": 3,
+          "bb": 1,
+          "so": 2,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Alcorn State. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 4/6 with 3 RBI against Tennessee Tech. Hit 1 home run(s). Had an outstanding performance at the plate (0.667)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

@@ -2,16 +2,16 @@
   "school": "Rutgers, The State University of New Jersey, New Brunswick",
   "base_url": "https://www.scarletknights.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:00:48.910343Z",
-  "record": "9-7",
+  "generated_at": "2026-03-14T15:27:07.879634Z",
+  "record": "20-24",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Fordham",
-    "result": "L 7-8",
-    "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
-    "recap_url": "https://www.scarletknights.com/news/2026/3/11/baseball-loses-to-fordham",
+    "date": "2026-03-13",
+    "opponent": "Michigan St.",
+    "result": "W",
+    "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
+    "recap_url": "https://www.scarletknights.com/news/2026/3/13/baseball-beats-michigan-state-in-series-opener",
     "recap_headline": "Rutgers University",
-    "recap_text": "PISCATAWAY, N.J. \u2013\nRutgers baseball lost to Fordham on Wednesday by a score of 8-7 at Bainton Field.\nThe Rams (6-9) used three runs in the top of the seventh to jump ahead of the Scarlet Knights (9-7) and earn the victory.\nRU battled back from multiple three-run deficits take a 7-5 lead but did not have a second comeback in them in the later innings.\nFordham strung together three hits in the first to take a 3-0 lead. In the bottom half, an RBI groundout and RBI double from\nCharlie Meglio\ngot it back within a run at 3-2.\nThe Rams built up a lead on RBI singles in the third and fourth innings to get back ahead 5-2. The Scarlet Knights put together a four-run rally in the fourth with no hits, scoring on a bases-loaded hit-by-pitch, passed ball, fielder's choice and sac fly.\nGabriel Rivera\ncollected his first career RBI in the fifth on a sac fly.\nIn the top of the seventh, Fordham scored with a bases-loaded walk, sac fly and RBI single to take an 8-7 advantage.\nThe RU bats were held without a hit in the final three innings and could not complete the comeback.\nRutgers now shifts its focus to Big Ten play, with the conference opener against Michigan State set for 4 p.m. Friday at Bainton Field.\nFollow Rutgers Baseball on Social Media\nX\n|\nInstagram\n|\nFacebook"
+    "recap_text": "PISCATAWAY, N.J. \u2013\nRutgers baseball used a balanced effort to\u00a0defeat\u00a0Michigan State by a score of 9-4 in its Big Ten opener Friday at Bainton Field.\nThe Scarlet Knights (10-7, 1-0) used a strong offensive attack, and the pitching combination of\nDallin Harrison\nand\nVincent Borghese\nkept the Spartans (4-12, 0-4) off balance at the plate.\nHarrison delivered his longest outing in a Rutgers uniform, going 5.2 innings. He allowed four runs, with just two of them earned, striking out five with five hits allowed. He exited the game with two outs in the sixth, turning the ball over to Borghese to close things out.\nIt marked the second straight week the two combined to pitch the full Friday night, doing the same in last Friday's 6-3 win over Bryant.\nBorghese was once again stellar out of the bullpen, pitching a scoreless 3.2 innings to earn the save, allowing four hits and striking out four with no walks.\nOffensively, RU got off to a quick start and scored a pair in the first thanks to an error and a fielder's choice.\nAfter MSU tied things up in the top of the third, the Scarlet Knights plated four in the bottom half to take back control.\nA sac fly from\nTrey Wells\n, RBI singles from\nYomar Carreras\nand\nMatt Chatelle\nand a fielder's choice from\nRyan Jaros\neach scored a run to make it 6-2.\nDespite the Spartans adding a pair in the sixth to make it 6-4, a Chatelle single in the seventh and a two-run triple from Wells in the eighth made it 9-4.\nBorghese then finished things off with a quick 1-2-3 ninth, giving Rutgers the series-opening victory.\nRutgers is back in action tomorrow against Michigan State, with first pitch set for 2 p.m. at Bainton Field. \u00a0.\nFollow Rutgers Baseball on Social Media\nX\n|\nInstagram\n|\nFacebook"
   },
   "players": {
     "59532793": {
@@ -46,17 +46,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -99,8 +91,24 @@
         "wp": 2,
         "opp_avg": ".278"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Wagner",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/wagner/boxscore/16142",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Wagner, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "bcae8f24": {
       "id": "bcae8f24",
@@ -112,24 +120,24 @@
       "num": "3.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
+        "g": 17,
+        "gs": 17,
         "avg": 0.254,
-        "ops": 0.798,
-        "ab": 63,
-        "r": 13,
-        "h": 16,
+        "ops": 0.79,
+        "ab": 67,
+        "r": 14,
+        "h": 17,
         "doubles": 4,
         "triples": 0,
         "hr": 3,
         "rbi": 17,
-        "tb": 29,
-        "slg": 0.46,
-        "bb": 7,
+        "tb": 30,
+        "slg": 0.448,
+        "bb": 8,
         "hbp": 2,
-        "so": 17,
+        "so": 18,
         "gdp": 3,
-        "obp": 0.338,
+        "obp": 0.342,
         "sf": 2,
         "sh": 0,
         "sb": 2,
@@ -137,22 +145,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
           "ab": 4,
-          "r": 0,
+          "r": 1,
           "h": 1,
-          "rbi": 2,
-          "bb": 0,
-          "so": 2,
-          "pos": "3B"
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 2 RBI against Fordham. Contributed at the plate in the team's L 7-8."
+      "narrative": "Went 1/4 with 0 RBI against Michigan St.. Contributed at the plate in the team's W."
     },
     "b75bc65b": {
       "id": "b75bc65b",
@@ -164,47 +175,50 @@
       "num": "4.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.323,
-        "ops": 0.928,
-        "ab": 65,
-        "r": 16,
-        "h": 21,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.333,
+        "ops": 0.956,
+        "ab": 69,
+        "r": 18,
+        "h": 23,
         "doubles": 5,
-        "triples": 1,
+        "triples": 2,
         "hr": 2,
-        "rbi": 12,
-        "tb": 34,
-        "slg": 0.523,
+        "rbi": 15,
+        "tb": 38,
+        "slg": 0.551,
         "bb": 6,
         "hbp": 3,
         "so": 13,
-        "gdp": 2,
+        "gdp": 3,
         "obp": 0.405,
-        "sf": 0,
+        "sf": 1,
         "sh": 0,
         "sb": 3,
         "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
-          "ab": 5,
-          "r": 1,
+          "ab": 4,
+          "r": 2,
           "h": 2,
-          "rbi": 0,
+          "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against Fordham. Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 2/4 with 3 RBI against Michigan St.. Had an outstanding performance at the plate (0.500)."
     },
     "e5365aa3": {
       "id": "e5365aa3",
@@ -216,47 +230,50 @@
       "num": "5.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.254,
-        "ops": 0.77,
-        "ab": 59,
-        "r": 14,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.242,
+        "ops": 0.744,
+        "ab": 62,
+        "r": 15,
         "h": 15,
         "doubles": 2,
         "triples": 0,
         "hr": 2,
         "rbi": 6,
         "tb": 23,
-        "slg": 0.39,
+        "slg": 0.371,
         "bb": 10,
-        "hbp": 2,
-        "so": 14,
+        "hbp": 3,
+        "so": 15,
         "gdp": 2,
-        "obp": 0.38,
+        "obp": 0.373,
         "sf": 0,
-        "sh": 0,
+        "sh": 1,
         "sb": 3,
         "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Wagner",
-        "result": "W 8-5",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/wagner/boxscore/16142",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
           "ab": 3,
-          "r": 0,
+          "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Wagner. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Michigan St.. Struggled to make contact."
     },
     "d4c6cf94": {
       "id": "d4c6cf94",
@@ -268,24 +285,24 @@
       "num": "7.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.353,
-        "ops": 1.006,
-        "ab": 51,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.327,
+        "ops": 0.94,
+        "ab": 55,
         "r": 13,
         "h": 18,
         "doubles": 4,
         "triples": 1,
         "hr": 1,
-        "rbi": 7,
+        "rbi": 8,
         "tb": 27,
-        "slg": 0.529,
+        "slg": 0.491,
         "bb": 9,
         "hbp": 4,
-        "so": 13,
+        "so": 14,
         "gdp": 1,
-        "obp": 0.477,
+        "obp": 0.449,
         "sf": 1,
         "sh": 2,
         "sb": 1,
@@ -293,22 +310,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 3,
-          "pos": "1B"
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Fordham. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/4 with 1 RBI against Michigan St.. Struggled to make contact."
     },
     "c83c8bad": {
       "id": "c83c8bad",
@@ -342,17 +362,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.2",
           "h": 4,
@@ -376,24 +388,24 @@
       "num": "9.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 10,
-        "gs": 7,
-        "avg": 0.304,
-        "ops": 0.885,
-        "ab": 23,
-        "r": 6,
+        "g": 11,
+        "gs": 8,
+        "avg": 0.269,
+        "ops": 0.81,
+        "ab": 26,
+        "r": 7,
         "h": 7,
         "doubles": 1,
         "triples": 0,
         "hr": 1,
         "rbi": 4,
         "tb": 11,
-        "slg": 0.478,
-        "bb": 3,
+        "slg": 0.423,
+        "bb": 4,
         "hbp": 1,
         "so": 7,
         "gdp": 0,
-        "obp": 0.407,
+        "obp": 0.387,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -401,22 +413,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Wagner",
-        "result": "W 8-5",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/wagner/boxscore/16142",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 2,
-          "rbi": 1,
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against Wagner. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/3 with 0 RBI against Michigan St.. Struggled at the plate but saw 1 walk(s)."
     },
     "76a800a0": {
       "id": "76a800a0",
@@ -428,24 +443,24 @@
       "num": "12.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 14,
-        "gs": 13,
-        "avg": 0.304,
-        "ops": 0.766,
-        "ab": 56,
-        "r": 9,
-        "h": 17,
+        "g": 15,
+        "gs": 14,
+        "avg": 0.317,
+        "ops": 0.79,
+        "ab": 60,
+        "r": 10,
+        "h": 19,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
-        "rbi": 11,
-        "tb": 23,
-        "slg": 0.411,
-        "bb": 5,
+        "rbi": 13,
+        "tb": 25,
+        "slg": 0.417,
+        "bb": 6,
         "hbp": 0,
         "so": 5,
         "gdp": 0,
-        "obp": 0.355,
+        "obp": 0.373,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -453,22 +468,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 1,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
           "rbi": 2,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "SS"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 2 RBI against Fordham. Struggled to make contact."
+      "narrative": "Went 2/4 with 2 RBI against Michigan St.. Had an outstanding performance at the plate (0.500)."
     },
     "3ac19a10": {
       "id": "3ac19a10",
@@ -507,7 +525,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
         "batting": {
           "ab": 3,
@@ -516,7 +534,10 @@
           "rbi": 0,
           "bb": 1,
           "so": 1,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -554,17 +575,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -589,26 +602,42 @@
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.07,
-        "whip": 2.14,
-        "w": 1,
+        "era": 5.95,
+        "whip": 1.93,
+        "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 14.0,
-        "h": 22,
-        "r": 12,
-        "er": 11,
-        "bb": 8,
-        "so": 16,
+        "g": 5,
+        "gs": 5,
+        "ip": 19.2,
+        "h": 27,
+        "r": 16,
+        "er": 13,
+        "bb": 11,
+        "so": 21,
         "hr": 2,
         "hbp": 3,
-        "wp": 0,
-        "opp_avg": ".367"
+        "wp": 1,
+        "opp_avg": ".325"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
+        "batting": null,
+        "pitching": {
+          "ip": "5.2",
+          "h": 5,
+          "r": 4,
+          "er": 2,
+          "bb": 3,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Michigan St., throwing 5.2 innings. Struck out 5 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
     },
     "12d42f37": {
       "id": "12d42f37",
@@ -620,11 +649,11 @@
       "num": "18.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 2,
-        "avg": 0.273,
-        "ops": 0.606,
-        "ab": 11,
+        "avg": 0.25,
+        "ops": 0.558,
+        "ab": 12,
         "r": 3,
         "h": 3,
         "doubles": 0,
@@ -632,12 +661,12 @@
         "hr": 0,
         "rbi": 1,
         "tb": 3,
-        "slg": 0.273,
+        "slg": 0.25,
         "bb": 1,
         "hbp": 0,
         "so": 6,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.308,
         "sf": 0,
         "sh": 1,
         "sb": 1,
@@ -645,22 +674,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "RF"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "Went 0/1 with 0 RBI against Michigan St.. Struggled to make contact."
     },
     "e60dc711": {
       "id": "e60dc711",
@@ -691,8 +723,24 @@
         "wp": 0,
         "opp_avg": ".139"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Bryant",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/bryant/boxscore/16140",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bryant, throwing 5.0 innings. Struck out 5 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."
     },
     "e3c6eaec": {
       "id": "e3c6eaec",
@@ -705,26 +753,42 @@
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.13,
-        "whip": 1.26,
+        "era": 1.69,
+        "whip": 1.19,
         "w": 1,
         "l": 1,
-        "sv": 0,
-        "g": 4,
+        "sv": 1,
+        "g": 5,
         "gs": 0,
-        "ip": 12.2,
-        "h": 9,
+        "ip": 16.0,
+        "h": 12,
         "r": 3,
         "er": 3,
         "bb": 7,
-        "so": 19,
+        "so": 23,
         "hr": 0,
         "hbp": 0,
-        "wp": 1,
-        "opp_avg": ".188"
+        "wp": 2,
+        "opp_avg": ".197"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Michigan St., throwing 3.1 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
     },
     "049d3db8": {
       "id": "049d3db8",
@@ -758,17 +822,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Wagner",
-        "result": "W 8-5",
+        "result": "W",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/wagner/boxscore/16142",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.1",
           "h": 1,
@@ -814,17 +870,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.1",
           "h": 3,
@@ -848,47 +896,50 @@
       "num": "25.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.379,
-        "ops": 1.044,
-        "ab": 66,
-        "r": 17,
-        "h": 25,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.414,
+        "ops": 1.1,
+        "ab": 70,
+        "r": 20,
+        "h": 29,
         "doubles": 4,
         "triples": 0,
         "hr": 3,
         "rbi": 16,
-        "tb": 38,
-        "slg": 0.576,
+        "tb": 42,
+        "slg": 0.6,
         "bb": 9,
-        "hbp": 2,
+        "hbp": 3,
         "so": 11,
         "gdp": 0,
-        "obp": 0.468,
+        "obp": 0.5,
         "sf": 0,
         "sh": 1,
-        "sb": 6,
-        "sb_att": 7
+        "sb": 8,
+        "sb_att": 9
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 0,
+          "ab": 4,
+          "r": 3,
+          "h": 4,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Fordham. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 4/4 with 0 RBI against Michigan St.. Had an outstanding performance at the plate (1.000)."
     },
     "64f79dd4": {
       "id": "64f79dd4",
@@ -927,7 +978,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
         "batting": {
           "ab": 3,
@@ -936,7 +987,10 @@
           "rbi": 1,
           "bb": 1,
           "so": 2,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -952,47 +1006,50 @@
       "num": "28.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 9,
-        "gs": 9,
-        "avg": 0.294,
-        "ops": 0.797,
-        "ab": 34,
+        "g": 10,
+        "gs": 10,
+        "avg": 0.308,
+        "ops": 0.798,
+        "ab": 39,
         "r": 6,
-        "h": 10,
+        "h": 12,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
-        "rbi": 8,
-        "tb": 13,
-        "slg": 0.382,
+        "rbi": 9,
+        "tb": 15,
+        "slg": 0.385,
         "bb": 6,
         "hbp": 1,
-        "so": 9,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.415,
+        "obp": 0.413,
         "sf": 0,
         "sh": 1,
         "sb": 0,
-        "sb_att": 0
+        "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Wagner",
-        "result": "W 8-5",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/wagner/boxscore/16142",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 0,
           "h": 2,
-          "rbi": 3,
-          "bb": 1,
-          "so": 0,
-          "pos": "C"
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 3 RBI against Wagner. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/5 with 1 RBI against Michigan St.. Had an outstanding performance at the plate (0.400)."
     },
     "ca694152": {
       "id": "ca694152",
@@ -1004,11 +1061,11 @@
       "num": "31.0",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
-        "g": 13,
-        "gs": 10,
-        "avg": 0.188,
-        "ops": 0.722,
-        "ab": 32,
+        "g": 14,
+        "gs": 11,
+        "avg": 0.176,
+        "ops": 0.698,
+        "ab": 34,
         "r": 7,
         "h": 6,
         "doubles": 1,
@@ -1016,12 +1073,12 @@
         "hr": 1,
         "rbi": 7,
         "tb": 10,
-        "slg": 0.313,
-        "bb": 9,
+        "slg": 0.294,
+        "bb": 10,
         "hbp": 3,
-        "so": 7,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.409,
+        "obp": 0.404,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1029,22 +1086,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-13",
+        "opponent": "Michigan St.",
+        "result": "W",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/michigan-st-/boxscore/16144",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "LF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Fordham. Contributed at the plate in the team's L 7-8."
+      "narrative": "Went 0/2 with 0 RBI against Michigan St.. Struggled at the plate but saw 1 walk(s)."
     },
     "cbf66282": {
       "id": "cbf66282",
@@ -1081,22 +1141,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Fordham",
-        "result": "L 7-8",
-        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
+        "date": "2026-03-08",
+        "opponent": "Bryant",
+        "result": "L",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/bryant/boxscore/16141",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "PH/RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Bryant. Struggled to make contact."
     },
     "3d00c7d3": {
       "id": "3d00c7d3",
@@ -1135,7 +1198,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Bryant",
-        "result": "L 4-5",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/bryant/boxscore/16141",
         "batting": {
           "ab": 1,
@@ -1144,7 +1207,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1182,17 +1248,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Bryant",
-        "result": "L 4-5",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/bryant/boxscore/16141",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.1",
           "h": 4,
@@ -1238,17 +1296,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Wagner",
-        "result": "W 8-5",
+        "result": "W",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/wagner/boxscore/16142",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.1",
           "h": 1,
@@ -1294,17 +1344,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.2",
           "h": 1,
@@ -1350,17 +1392,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "Fordham",
-        "result": "L 7-8",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/fordham/boxscore/16305",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -1406,17 +1440,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Bryant",
-        "result": "L 4-5",
+        "result": "L",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/bryant/boxscore/16141",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 5,
@@ -1462,17 +1488,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Wagner",
-        "result": "W 8-5",
+        "result": "W",
         "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/wagner/boxscore/16142",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -1520,8 +1538,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Troy",
+        "result": "L",
+        "boxscore_url": "https://www.scarletknights.com/sports/baseball/stats/2026/troy/boxscore/16137",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Troy. Struggled to make contact."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

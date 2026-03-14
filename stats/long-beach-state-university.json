@@ -2,16 +2,16 @@
   "school": "Long Beach State University",
   "base_url": "https://longbeachstate.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:46:12.637932Z",
-  "record": "24-32",
+  "generated_at": "2026-03-14T15:03:51.554523Z",
+  "record": "24-33",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "USC",
-    "result": "W 6-1",
-    "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
-    "recap_url": "https://longbeachstate.com/news/2026/3/10/baseball-long-beach-state-falls-to-no-25-usc-in-midweek-matchup-at-dedeaux-field",
+    "date": "2026-03-13",
+    "opponent": "Hawaii",
+    "result": "L",
+    "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+    "recap_url": "https://longbeachstate.com/news/2026/3/13/baseball-dirtbags-drop-series-opener-to-hawai-i",
     "recap_headline": "Long Beach State University Athletics",
-    "recap_text": "LOS ANGELES, Calif.\n-- Long Beach State (4-12, 0-3) stayed within striking distance through the middle innings Tuesday night but fell 1-6\u00a0to No. 25 USC Trojans (16-0, 3-0) at Dedeaux Field, where USC is playing on its newly renovated home field during the 2026 season. The Dirtbags held the Trojans scoreless in five innings and received strong relief work after an early USC surge.\nLong Beach State opened the night by matching USC through the first inning after\nVan Larson\nretired the Trojans in order, including a strikeout to begin the bottom half. USC broke through in the second when Kevin Takeuchi doubled and Andrew Lamb followed later in the inning with a three-run home run to right field for a 3-0 lead.\nThe Trojans added one more in the third after Abbrie Covarrubias led off with a ground-rule double and Maximo Martinez drove him in with a single to center, extending the lead to 4-0. Larson worked 2.2 innings before\nBrad Grindlinger\nentered to strand two runners and limit further damage in the inning.\nThe Dirtbags answered in the fourth.\nJake Evans\nsingled to center, moved to second on a wild pitch and advanced to third on a flyout before\nDylan Lina\nlined a two-out RBI single to right field, cutting the deficit to 4-1. Long Beach State threatened again in the sixth when\nTrevor Goldenetz\nsingled and Evans reached after being hit by a pitch, putting two aboard with one out, but USC escaped the inning to hold the three-run advantage.\nLong Beach State's bullpen kept USC quiet through the middle frames.\nJoey Iglesias\ndelivered 2.2 hitless innings with two strikeouts, while\nCaleb Anderson\nadded a scoreless seventh inning. USC added two insurance runs in the eighth on a sacrifice fly and RBI double before the Dirtbags were retired in order in the ninth.\nEvans finished 1-for-2, scored the Dirtbags' lone run and reached base three times after being hit twice. Goldenetz and Lina also recorded hits, with Lina driving in Long Beach State's only run.\nOn the mound Long Beach State received effective bullpen work after the early innings, with\nJoey Iglesias\nand\nCaleb Anderson\ncombining for 3.2 scoreless innings to keep the Dirtbags within reach late. Iglesias retired eight of the nine batters he faced over 2.2 hitless innings with two strikeouts, while Anderson added a clean seventh inning with one strikeout.\nVan Larson\ntook the loss after allowing four runs over 2.2 innings, and\nBrad Grindlinger\nbridged the third by stranding inherited runners before\nTyler Gebb\nworked the eighth inning.\nLong Beach State returns to Big West Conference play this weekend against Hawai?i Rainbow Warriors baseball at Bohl Diamond at Blair Field. First pitch for Friday's opener is scheduled for 6:05 p.m., with the game streaming on ESPN+."
+    "recap_text": "LONG BEACH, Calif.\n\u2014\nJake Evans\ngave Long Beach State an early spark with a first-inning solo home run, but Hawai'i answered with six runs in the second inning and pulled away for an 11-1 win Friday night in Big West action at Bohl Diamond at Blair Field.\nEvans accounted for the Dirtbags' lone run with his first homer of the season, while\nTrevor Goldenetz\nand\nSmith Chandler\neach collected two hits in the loss. Hawai'i starter Isaiah Magdaleno held Long Beach State to one run over six innings and struck out nine.\nAfter\nJake Fields\nstarted and recorded two strikeouts in the opening inning, the Dirtbags turned to\nJoey Iglesias\n,\nCaleb Anderson\n,\nKa'imi Kahalekai\nand\nMason Tymick\nout of the bullpen. Anderson worked 4.1 innings and struck out five, while Tymick closed the final two innings without allowing a hit and added two strikeouts.\nIn the eighth inning,\nDamon Valdez\ncame off the bench to bat against his brother, Hawai'i reliever Derek Valdez, grounding out in the family matchup.\nLong Beach State will look to bounce back in Game 2 of the series Saturday, with first pitch set for 6:05 p.m. on ESPN+."
   },
   "players": {
     "c83db2e3": {
@@ -24,11 +24,11 @@
       "num": "1.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 1,
+        "g": 2,
         "gs": 0,
         "avg": 0.0,
         "ops": 0.0,
-        "ab": 1,
+        "ab": 2,
         "r": 0,
         "h": 0,
         "doubles": 0,
@@ -48,8 +48,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Hawaii. Struggled to make contact."
     },
     "42c4f7dc": {
       "id": "42c4f7dc",
@@ -61,32 +79,50 @@
       "num": "3.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 8,
+        "g": 9,
         "gs": 6,
-        "avg": 0.2,
-        "ops": 0.585,
-        "ab": 20,
+        "avg": 0.227,
+        "ops": 0.62,
+        "ab": 22,
         "r": 4,
-        "h": 4,
+        "h": 5,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 2,
-        "tb": 4,
-        "slg": 0.2,
+        "tb": 5,
+        "slg": 0.227,
         "bb": 6,
         "hbp": 0,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.385,
+        "obp": 0.393,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against USC. Struggled to make contact."
     },
     "605e2568": {
       "id": "605e2568",
@@ -98,32 +134,50 @@
       "num": "5.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 16,
-        "gs": 13,
-        "avg": 0.378,
-        "ops": 0.975,
-        "ab": 45,
-        "r": 9,
-        "h": 17,
+        "g": 17,
+        "gs": 14,
+        "avg": 0.367,
+        "ops": 1.002,
+        "ab": 49,
+        "r": 10,
+        "h": 18,
         "doubles": 4,
         "triples": 0,
-        "hr": 0,
-        "rbi": 5,
-        "tb": 21,
-        "slg": 0.467,
+        "hr": 1,
+        "rbi": 6,
+        "tb": 25,
+        "slg": 0.51,
         "bb": 8,
         "hbp": 6,
-        "so": 8,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.508,
+        "obp": 0.492,
         "sf": 2,
         "sh": 0,
         "sb": 2,
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Hawaii. Hit 1 home run(s). Contributed at the plate in the team's L."
     },
     "3091021b": {
       "id": "3091021b",
@@ -135,11 +189,11 @@
       "num": "6.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 4,
-        "gs": 2,
-        "avg": 0.6,
-        "ops": 1.314,
-        "ab": 5,
+        "g": 5,
+        "gs": 3,
+        "avg": 0.429,
+        "ops": 0.985,
+        "ab": 7,
         "r": 0,
         "h": 3,
         "doubles": 0,
@@ -147,20 +201,38 @@
         "hr": 0,
         "rbi": 2,
         "tb": 3,
-        "slg": 0.6,
+        "slg": 0.429,
         "bb": 2,
         "hbp": 0,
-        "so": 0,
+        "so": 1,
         "gdp": 0,
-        "obp": 0.714,
+        "obp": 0.556,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "CSU Bakersfield",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/csu-bakersfield/boxscore/10252",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 1 RBI against CSU Bakersfield. Had an outstanding performance at the plate (0.667)."
     },
     "339e796c": {
       "id": "339e796c",
@@ -172,11 +244,11 @@
       "num": "7.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 3,
+        "g": 4,
         "gs": 1,
-        "avg": 0.286,
-        "ops": 0.572,
-        "ab": 7,
+        "avg": 0.25,
+        "ops": 0.5,
+        "ab": 8,
         "r": 0,
         "h": 2,
         "doubles": 0,
@@ -184,20 +256,38 @@
         "hr": 0,
         "rbi": 0,
         "tb": 2,
-        "slg": 0.286,
+        "slg": 0.25,
         "bb": 0,
         "hbp": 0,
         "so": 3,
-        "gdp": 0,
-        "obp": 0.286,
+        "gdp": 1,
+        "obp": 0.25,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UC Santa Barbara",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/uc-santa-barbara/boxscore/10078",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against UC Santa Barbara. Struggled to make contact."
     },
     "f01d04c5": {
       "id": "f01d04c5",
@@ -233,8 +323,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "San Diego State",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/san-diego-state/boxscore/10075",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against San Diego State. Struggled to make contact."
     },
     "5a5536a7": {
       "id": "5a5536a7",
@@ -246,32 +354,50 @@
       "num": "9.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 10,
-        "gs": 7,
-        "avg": 0.32,
-        "ops": 0.829,
-        "ab": 25,
+        "g": 11,
+        "gs": 8,
+        "avg": 0.357,
+        "ops": 0.893,
+        "ab": 28,
         "r": 3,
-        "h": 8,
+        "h": 10,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 5,
-        "tb": 9,
-        "slg": 0.36,
-        "bb": 5,
+        "tb": 11,
+        "slg": 0.393,
+        "bb": 6,
         "hbp": 2,
-        "so": 7,
+        "so": 8,
         "gdp": 0,
-        "obp": 0.469,
+        "obp": 0.5,
         "sf": 0,
         "sh": 1,
         "sb": 3,
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 0 RBI against Hawaii. Had an outstanding performance at the plate (0.667)."
     },
     "36c8f3f9": {
       "id": "36c8f3f9",
@@ -315,11 +441,11 @@
       "num": "12.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 12,
-        "gs": 6,
-        "avg": 0.296,
-        "ops": 0.811,
-        "ab": 27,
+        "g": 13,
+        "gs": 7,
+        "avg": 0.276,
+        "ops": 0.758,
+        "ab": 29,
         "r": 4,
         "h": 8,
         "doubles": 1,
@@ -327,12 +453,12 @@
         "hr": 1,
         "rbi": 3,
         "tb": 12,
-        "slg": 0.444,
+        "slg": 0.414,
         "bb": 1,
         "hbp": 2,
         "so": 10,
         "gdp": 0,
-        "obp": 0.367,
+        "obp": 0.344,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -340,31 +466,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Uc Santa Barbara",
-        "result": "W 6-2",
-        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/uc-santa-barbara/boxscore/10079",
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
         "batting": {
-          "ab": 0,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "P"
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": {
-          "ip": "6.0",
-          "h": 5,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 8,
-          "wp": 1,
-          "hbp": 1
-        }
+        "pitching": null
       },
-      "narrative": "Took the mound against Uc Santa Barbara, throwing 6.0 innings. Struck out 8 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
+      "narrative": "Went 0/4 with 0 RBI against USC. Struggled to make contact."
     },
     "12912b5c": {
       "id": "12912b5c",
@@ -376,11 +496,11 @@
       "num": "13.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 15,
+        "g": 16,
         "gs": 15,
-        "avg": 0.218,
-        "ops": 0.789,
-        "ab": 55,
+        "avg": 0.214,
+        "ops": 0.786,
+        "ab": 56,
         "r": 7,
         "h": 12,
         "doubles": 2,
@@ -388,20 +508,38 @@
         "hr": 3,
         "rbi": 20,
         "tb": 23,
-        "slg": 0.418,
+        "slg": 0.411,
         "bb": 7,
-        "hbp": 7,
-        "so": 14,
+        "hbp": 8,
+        "so": 15,
         "gdp": 5,
-        "obp": 0.371,
+        "obp": 0.375,
         "sf": 1,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 1 RBI against USC. Contributed at the plate in the team's L."
     },
     "9a8fd89c": {
       "id": "9a8fd89c",
@@ -413,11 +551,11 @@
       "num": "15.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.192,
-        "ops": 0.559,
-        "ab": 52,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.185,
+        "ops": 0.54,
+        "ab": 54,
         "r": 3,
         "h": 10,
         "doubles": 2,
@@ -425,20 +563,38 @@
         "hr": 1,
         "rbi": 5,
         "tb": 15,
-        "slg": 0.288,
+        "slg": 0.278,
         "bb": 5,
         "hbp": 1,
-        "so": 17,
+        "so": 19,
         "gdp": 1,
-        "obp": 0.271,
+        "obp": 0.262,
         "sf": 1,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against USC. Struggled to make contact."
     },
     "cc5f36c0": {
       "id": "cc5f36c0",
@@ -450,11 +606,11 @@
       "num": "16.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 8,
-        "avg": 0.2,
-        "ops": 0.459,
-        "ab": 25,
+        "avg": 0.192,
+        "ops": 0.442,
+        "ab": 26,
         "r": 4,
         "h": 5,
         "doubles": 0,
@@ -462,20 +618,38 @@
         "hr": 0,
         "rbi": 5,
         "tb": 5,
-        "slg": 0.2,
+        "slg": 0.192,
         "bb": 2,
         "hbp": 0,
         "so": 4,
         "gdp": 0,
-        "obp": 0.259,
+        "obp": 0.25,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Hawaii. Struggled to make contact."
     },
     "10c789df": {
       "id": "10c789df",
@@ -506,8 +680,24 @@
         "wp": 1,
         "opp_avg": ".314"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Santa Barbara",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/uc-santa-barbara/boxscore/10079",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UC Santa Barbara, throwing 1.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "c70d15be": {
       "id": "c70d15be",
@@ -543,8 +733,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against USC. Struggled to make contact."
     },
     "d6f91179": {
       "id": "d6f91179",
@@ -556,11 +764,11 @@
       "num": "23.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 15,
-        "gs": 13,
-        "avg": 0.196,
-        "ops": 0.647,
-        "ab": 51,
+        "g": 16,
+        "gs": 14,
+        "avg": 0.185,
+        "ops": 0.614,
+        "ab": 54,
         "r": 7,
         "h": 10,
         "doubles": 4,
@@ -568,20 +776,38 @@
         "hr": 0,
         "rbi": 4,
         "tb": 16,
-        "slg": 0.314,
+        "slg": 0.296,
         "bb": 3,
         "hbp": 8,
-        "so": 15,
+        "so": 17,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.318,
         "sf": 1,
         "sh": 0,
         "sb": 5,
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Hawaii. Struggled to make contact."
     },
     "9580b6d0": {
       "id": "9580b6d0",
@@ -593,11 +819,11 @@
       "num": "24.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.27,
-        "ops": 0.763,
-        "ab": 63,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.254,
+        "ops": 0.721,
+        "ab": 67,
         "r": 8,
         "h": 17,
         "doubles": 7,
@@ -605,20 +831,38 @@
         "hr": 0,
         "rbi": 14,
         "tb": 24,
-        "slg": 0.381,
+        "slg": 0.358,
         "bb": 9,
         "hbp": 3,
-        "so": 10,
+        "so": 11,
         "gdp": 3,
-        "obp": 0.382,
+        "obp": 0.363,
         "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Hawaii. Struggled to make contact."
     },
     "4916358f": {
       "id": "4916358f",
@@ -631,26 +875,42 @@
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.04,
-        "whip": 1.43,
+        "era": 8.64,
+        "whip": 1.8,
         "w": 0,
         "l": 2,
         "sv": 2,
-        "g": 8,
+        "g": 9,
         "gs": 0,
-        "ip": 7.2,
-        "h": 6,
-        "r": 6,
-        "er": 6,
-        "bb": 5,
+        "ip": 8.1,
+        "h": 9,
+        "r": 8,
+        "er": 8,
+        "bb": 6,
         "so": 8,
         "hr": 2,
         "hbp": 4,
         "wp": 2,
-        "opp_avg": ".200"
+        "opp_avg": ".257"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Hawaii, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "8fa3c85a": {
       "id": "8fa3c85a",
@@ -662,32 +922,50 @@
       "num": "27.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.379,
-        "ops": 0.921,
-        "ab": 58,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.393,
+        "ops": 0.939,
+        "ab": 61,
         "r": 10,
-        "h": 22,
+        "h": 24,
         "doubles": 0,
         "triples": 1,
         "hr": 0,
         "rbi": 5,
-        "tb": 24,
-        "slg": 0.414,
+        "tb": 26,
+        "slg": 0.426,
         "bb": 12,
         "hbp": 4,
         "so": 9,
         "gdp": 0,
-        "obp": 0.507,
+        "obp": 0.513,
         "sf": 1,
         "sh": 4,
         "sb": 7,
-        "sb_att": 11
+        "sb_att": 12
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 0 RBI against Hawaii. Had an outstanding performance at the plate (0.667)."
     },
     "c20e8583": {
       "id": "c20e8583",
@@ -718,8 +996,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against USC, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "6ad953ef": {
       "id": "6ad953ef",
@@ -750,8 +1044,24 @@
         "wp": 0,
         "opp_avg": ".429"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Texas AM-Corpus Christi",
+        "result": "W",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/texas-am-corpus-christi/boxscore/10251",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Texas AM-Corpus Christi, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "f0b091f0": {
       "id": "f0b091f0",
@@ -764,26 +1074,42 @@
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 15.0,
-        "whip": 3.0,
+        "era": 9.0,
+        "whip": 2.2,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 3.0,
+        "ip": 5.0,
         "h": 5,
         "r": 5,
         "er": 5,
-        "bb": 4,
-        "so": 4,
+        "bb": 6,
+        "so": 6,
         "hr": 0,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 0,
-        "opp_avg": ".417"
+        "opp_avg": ".278"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Washington State",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/washington-state/boxscore/10073",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Washington State, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "4e4e996f": {
       "id": "4e4e996f",
@@ -814,8 +1140,24 @@
         "wp": 1,
         "opp_avg": ".303"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against USC, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "2d55c3fb": {
       "id": "2d55c3fb",
@@ -846,8 +1188,24 @@
         "wp": 1,
         "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "San Diego State",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/san-diego-state/boxscore/10075",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 5,
+          "r": 8,
+          "er": 6,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against San Diego State, throwing 0.2 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
     },
     "b8dc144e": {
       "id": "b8dc144e",
@@ -860,26 +1218,42 @@
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.15,
-        "whip": 1.59,
+        "era": 6.89,
+        "whip": 1.47,
         "w": 0,
         "l": 2,
         "sv": 0,
-        "g": 10,
+        "g": 11,
         "gs": 0,
-        "ip": 11.1,
-        "h": 15,
-        "r": 10,
-        "er": 9,
-        "bb": 3,
-        "so": 15,
+        "ip": 15.2,
+        "h": 18,
+        "r": 13,
+        "er": 12,
+        "bb": 5,
+        "so": 20,
         "hr": 0,
-        "hbp": 3,
+        "hbp": 4,
         "wp": 1,
-        "opp_avg": ".300"
+        "opp_avg": ".277"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": null,
+        "pitching": {
+          "ip": "4.1",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Hawaii, throwing 4.1 innings. Allowed 3 earned run(s) with 5 strikeout(s)."
     },
     "45bd0f6b": {
       "id": "45bd0f6b",
@@ -910,8 +1284,24 @@
         "wp": 2,
         "opp_avg": ".226"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Santa Barbara",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/uc-santa-barbara/boxscore/10079",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UC Santa Barbara, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "ab29b501": {
       "id": "ab29b501",
@@ -924,26 +1314,42 @@
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.03,
-        "whip": 1.42,
+        "era": 6.1,
+        "whip": 1.6,
         "w": 1,
-        "l": 2,
+        "l": 3,
         "sv": 0,
-        "g": 4,
-        "gs": 3,
-        "ip": 19.2,
+        "g": 5,
+        "gs": 4,
+        "ip": 20.2,
         "h": 10,
-        "r": 12,
-        "er": 11,
-        "bb": 18,
-        "so": 17,
+        "r": 15,
+        "er": 14,
+        "bb": 23,
+        "so": 19,
         "hr": 1,
         "hbp": 5,
         "wp": 5,
-        "opp_avg": ".156"
+        "opp_avg": ".149"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 3,
+          "er": 3,
+          "bb": 5,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Hawaii, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "06b2b4c8": {
       "id": "06b2b4c8",
@@ -974,8 +1380,24 @@
         "wp": 1,
         "opp_avg": ".246"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UC Santa Barbara",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/uc-santa-barbara/boxscore/10079",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against UC Santa Barbara, throwing 3.2 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
     },
     "c01956b8": {
       "id": "c01956b8",
@@ -987,7 +1409,7 @@
       "num": "42.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 4,
+        "g": 5,
         "gs": 1,
         "avg": 0.0,
         "ops": 0.333,
@@ -1011,8 +1433,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Washington State",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/washington-state/boxscore/10073",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Washington State. Struggled to make contact."
     },
     "35436e1a": {
       "id": "35436e1a",
@@ -1024,11 +1464,11 @@
       "num": "44.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 3,
+        "g": 4,
         "gs": 2,
         "avg": 0.0,
-        "ops": 0.143,
-        "ab": 6,
+        "ops": 0.125,
+        "ab": 7,
         "r": 1,
         "h": 0,
         "doubles": 0,
@@ -1040,16 +1480,34 @@
         "bb": 1,
         "hbp": 0,
         "so": 2,
-        "gdp": 0,
-        "obp": 0.143,
+        "gdp": 1,
+        "obp": 0.125,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Hawaii. Struggled to make contact."
     },
     "69535dbf": {
       "id": "69535dbf",
@@ -1085,8 +1543,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Washington State",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/washington-state/boxscore/10073",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Washington State. Struggled to make contact."
     },
     "b7f6dedd": {
       "id": "b7f6dedd",
@@ -1098,32 +1574,50 @@
       "num": "48.0",
       "school": "Long Beach State University",
       "season_batting": {
-        "g": 8,
-        "gs": 7,
-        "avg": 0.192,
-        "ops": 0.515,
-        "ab": 26,
+        "g": 9,
+        "gs": 8,
+        "avg": 0.214,
+        "ops": 0.547,
+        "ab": 28,
         "r": 4,
-        "h": 5,
+        "h": 6,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 0,
-        "tb": 5,
-        "slg": 0.192,
+        "tb": 6,
+        "slg": 0.214,
         "bb": 2,
         "hbp": 3,
-        "so": 3,
+        "so": 4,
         "gdp": 0,
-        "obp": 0.323,
+        "obp": 0.333,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Hawaii. Had an outstanding performance at the plate (0.500)."
     },
     "336116fa": {
       "id": "336116fa",
@@ -1154,8 +1648,24 @@
         "wp": 2,
         "opp_avg": ".230"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UC Santa Barbara",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/uc-santa-barbara/boxscore/10078",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 7,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UC Santa Barbara, throwing 6.0 innings. Struck out 7 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
     },
     "ccd5507b": {
       "id": "ccd5507b",
@@ -1186,8 +1696,24 @@
         "wp": 0,
         "opp_avg": ".429"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "USC",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/usc/boxscore/10080",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against USC, throwing 2.2 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
     },
     "4c67afc2": {
       "id": "4c67afc2",
@@ -1200,26 +1726,42 @@
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.56,
-        "whip": 1.41,
+        "era": 7.3,
+        "whip": 1.62,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 11.1,
-        "h": 11,
-        "r": 7,
-        "er": 7,
+        "ip": 12.1,
+        "h": 15,
+        "r": 10,
+        "er": 10,
         "bb": 5,
-        "so": 10,
+        "so": 11,
         "hr": 1,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".275"
+        "opp_avg": ".326"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Hawaii",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/hawaii/boxscore/10081",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Hawaii, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "52a2b9a8": {
       "id": "52a2b9a8",
@@ -1250,8 +1792,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Washington State",
+        "result": "L",
+        "boxscore_url": "https://longbeachstate.com/sports/baseball/stats/2026/washington-state/boxscore/10073",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Washington State, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

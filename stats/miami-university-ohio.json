@@ -2,16 +2,16 @@
   "school": "Miami University (Ohio)",
   "base_url": "https://www.miamiredhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:49:50.146840Z",
-  "record": "37-48",
+  "generated_at": "2026-03-14T15:09:40.047487Z",
+  "record": "37-49",
   "most_recent_game": {
-    "date": "2026-03-08",
-    "opponent": "Eastern Mich ",
-    "result": "W 9-4",
-    "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
-    "recap_url": "https://www.miamiredhawks.com/news/2026/3/8/baseball-redhawks-lead-eagles-in-game-three",
+    "date": "2026-03-13",
+    "opponent": "Bowling Green",
+    "result": "W",
+    "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
+    "recap_url": "https://www.miamiredhawks.com/news/2026/3/13/baseball-redhawks-blow-past-falcons-in-8-5-victory",
     "recap_headline": "Miami Ohio University Athletics",
-    "recap_text": "OXFORD, Ohio \u2013\nThe Miami University baseball team completed a sweep of the Eastern Michigan Eagles Sunday, winning a 9-4 contest after hitting two home runs.\nIgnacio Gonzalez\nhad a four-RBI game for the RedHawks that included a three-run homer in the first inning. The RedHawks move\u00a0to 11-4 (3-0 MAC) with the win while EMU drops to 4-12 (0-3 MAC).\nHOW IT HAPPENED\nClayton Burke\ntook the mound to start for Miami and immediately sent down all three batters on strikes in the top of the first.\nMiami jumped to a 4-0 lead in the bottom of the frame. The RedHawks scored one run after two walks, a wild pitch and a passed ball. Gonzalez then cleared the bags with a three-run homer to left field.\nA walk and back-to-back doubles for the Eagles made it a 4-2 ballgame in the top of the second.\nDiego Cruz\nand\nMarcus Dierks\neach singled in the bottom of the second and\nRyan Novak\nwalked to load the bases.\nTommy Harrison\ntook a HBP to force one run home and make it 5-2.\nA 440-foot home run pulled the Eagles back within two in the top of the third.\nSingles by Dierks and\nRyan Novak\nled to an insurance run for the RedHawks, making it 6-3.\nJake Tedesco\nthrew three strikeouts in the top of the sixth to fend off the Eagles.\nCruz fired off his first homer of the season in the bottom of the sixth, a solo shot, to make it 7-3 in favor of the RedHawks.\nHarrison singled in the bottom of the seventh, setting up\nCarson Raether\nfor an RBI double. Gonzalez followed with a single to score Raether, bringing the score to 9-3.\nThe RedHawks let up three hits in the top of the eighth but managed to surrender just one run and maintain a five-run advantage.\nAustin Berggren\nrecorded the final three outs to round out the 9-4 win and secure a sweep for Miami.\nMIAMI GAME NOTES:\nDierks went 2-for-5 with a run.\nGonzalez went 2-for-4 with four RBIs and a run.\nCruz went 2-for-4 with an RBI and two runs.\nTedesco pitched 4.0 scoreless\u00a0innings in relief and notched five strikeouts.\nUP NEXT:\nThe RedHawks' schedule includes four home games this week with the first coming as a standalone game versus Evansville on Wednesday at 3 p.m. Beginning on Friday, Miami will face Bowling Green at McKie\u00a0Field for a three-game conference series."
+    "recap_text": "OXFORD, Ohio \u2013\nThe RedHawks defeated Bowling Green Friday 8-5 in a windy night game after a scoreless seven-inning start on the mound from\nZac Sohosky\n.\nEvan Appelwick\nhit two home runs during the contest, bringing him to nine on the season. Miami moves to 12-4 (4-0 MAC) with the win while Bowling Green drops to 4-11 (1-3 MAC).\nHOW IT HAPPENED\nThe RedHawks notched three quick outs, including a double play, with just nine pitches from Sohosky to start the game.\nAppelwick smacked a home run to right-center, his eighth of the season, to bring in two runs for Miami in the bottom of the first.\nSohosky sent three straight batters down with two strikeouts and a flyout in the second. He also held the Falcons scoreless in the third and fourth innings, striking out the final two batters to get out of a jam with two runners in scoring position.\nSohosky struck out two more batters in the fifth in a three up, three down inning.\nTwo walks and a bunt single by\nDiego Cruz\nloaded the bases in the bottom of the fifth.\nMarcus Dierks\ntook an RBI HBP to make it 3-0.\nRyan Novak\npushed a sac fly to the left-center wall to bring in one more.\nStill with one out, Appelwick crushed a 442-footer to left-center to bring in three runs for the RedHawks. This made it 7-0.\nSohosky completed his sixth full inning on the mound and his ninth strikeout to ward off the Falcons yet again. In the seventh he earned his 10th strikeout while sending down three straight batters.\nNovak led off the bottom of the seventh with a single, and a walk and an HBP loaded the bases.\nDominic Krupinski\ntook an HBP to extend the lead to 8-0.\nBowling Green hit a three-run homer in the eighth inning after a single and a walk to pull within five runs.\nIn the ninth, Bowling Green scored one run on a triple and one on a wild pitch, but\nCarson Byers\nmanaged to record the final three outs for the RedHawks to lock down an 8-5 victory.\nMIAMI GAME NOTES:\nNovak went 2-for-4 with two runs and an RBI.\nAppelwick went 2-for-4 with two runs and fve RBI.\nCruz went 2-for-4 with one run.\nSohosky struck out 10 of the 25 batters he faced in seven full innings of work. He held opponents to just two hits and one walk during the win.\nUP NEXT:\nMiami will face the Falcons for game two of the series tomorrow. First pitch is scheduled for 3 p.m."
   },
   "players": {
     "cea34a24": {
@@ -43,8 +43,24 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Southeast Missouri",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20777",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeast Missouri, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "4fcc3a02": {
       "id": "4fcc3a02",
@@ -56,24 +72,24 @@
       "num": "2.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.364,
-        "ops": 0.965,
-        "ab": 44,
-        "r": 10,
-        "h": 16,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.375,
+        "ops": 0.967,
+        "ab": 48,
+        "r": 11,
+        "h": 18,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
         "rbi": 7,
-        "tb": 23,
-        "slg": 0.523,
+        "tb": 25,
+        "slg": 0.521,
         "bb": 4,
         "hbp": 3,
-        "so": 13,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.442,
+        "obp": 0.446,
         "sf": 1,
         "sh": 0,
         "sb": 8,
@@ -81,22 +97,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
           "ab": 4,
-          "r": 2,
+          "r": 1,
           "h": 2,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "2B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against Eastern Mich . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/4 with 0 RBI against Bowling Green. Had an outstanding performance at the plate (0.500)."
     },
     "e6d33905": {
       "id": "e6d33905",
@@ -132,8 +151,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "vs Indiana St.",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/indiana-st-/boxscore/20726",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against vs Indiana St.. Struggled to make contact."
     },
     "bc9a7eaa": {
       "id": "bc9a7eaa",
@@ -169,8 +206,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Southern U.",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southern-u-/boxscore/20724",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 3,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 3 RBI against Southern U.. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
     },
     "54b2c1b2": {
       "id": "54b2c1b2",
@@ -203,18 +258,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
+        "opponent": "Eastern Mich.",
+        "result": "W",
         "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 3,
@@ -226,7 +273,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Eastern Mich , throwing 3.0 innings. Allowed 3 earned run(s) with 5 strikeout(s)."
+      "narrative": "Took the mound against Eastern Mich., throwing 3.0 innings. Allowed 3 earned run(s) with 5 strikeout(s)."
     },
     "ca745279": {
       "id": "ca745279",
@@ -262,8 +309,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Southeast Missouri",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20777",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against Southeast Missouri. Struggled to make contact."
     },
     "7599c9c7": {
       "id": "7599c9c7",
@@ -276,50 +341,42 @@
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.92,
-        "whip": 1.96,
+        "era": 10.0,
+        "whip": 1.89,
         "w": 2,
         "l": 1,
         "sv": 1,
-        "g": 5,
+        "g": 6,
         "gs": 3,
-        "ip": 16.1,
-        "h": 26,
-        "r": 19,
-        "er": 18,
+        "ip": 18.0,
+        "h": 28,
+        "r": 21,
+        "er": 20,
         "bb": 6,
-        "so": 9,
+        "so": 11,
         "hr": 3,
         "hbp": 2,
-        "wp": 3,
-        "opp_avg": ".356"
+        "wp": 4,
+        "opp_avg": ".350"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Eastern Mich ",
-        "result": "W 8-5",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20735",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
+        "batting": null,
         "pitching": {
-          "ip": "4.0",
-          "h": 5,
-          "r": 3,
+          "ip": "1.2",
+          "h": 2,
+          "r": 2,
           "er": 2,
-          "bb": 3,
-          "so": 3,
-          "wp": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Eastern Mich , throwing 4.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Bowling Green, throwing 1.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "0542bc81": {
       "id": "0542bc81",
@@ -350,8 +407,24 @@
         "wp": 0,
         "opp_avg": ".143"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Southeast Missouri",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20731",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeast Missouri, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "30396292": {
       "id": "30396292",
@@ -388,22 +461,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-02-14",
+        "opponent": "Southern U.",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southern-u-/boxscore/20724",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "RF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Southern U.. Struggled to make contact."
     },
     "2401f204": {
       "id": "2401f204",
@@ -415,24 +491,24 @@
       "num": "10.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.276,
-        "ops": 0.885,
-        "ab": 58,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.262,
+        "ops": 0.853,
+        "ab": 61,
         "r": 15,
         "h": 16,
         "doubles": 2,
         "triples": 0,
         "hr": 3,
-        "rbi": 14,
+        "rbi": 15,
         "tb": 27,
-        "slg": 0.466,
+        "slg": 0.443,
         "bb": 10,
-        "hbp": 5,
-        "so": 17,
+        "hbp": 6,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.419,
+        "obp": 0.41,
         "sf": 1,
         "sh": 1,
         "sb": 2,
@@ -440,22 +516,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
-          "pos": "SS"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Eastern Mich . Struggled to make contact."
+      "narrative": "Went 0/3 with 1 RBI against Bowling Green. Struggled to make contact."
     },
     "808dc8e3": {
       "id": "808dc8e3",
@@ -467,47 +546,50 @@
       "num": "12.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.442,
-        "ops": 1.09,
-        "ab": 52,
-        "r": 18,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.418,
+        "ops": 1.045,
+        "ab": 55,
+        "r": 19,
         "h": 23,
         "doubles": 2,
         "triples": 1,
         "hr": 0,
-        "rbi": 8,
+        "rbi": 9,
         "tb": 27,
-        "slg": 0.519,
+        "slg": 0.491,
         "bb": 9,
-        "hbp": 8,
-        "so": 10,
+        "hbp": 9,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.571,
+        "obp": 0.554,
         "sf": 1,
-        "sh": 2,
+        "sh": 3,
         "sb": 13,
         "sb_att": 16
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 5,
+          "ab": 3,
           "r": 1,
-          "h": 2,
-          "rbi": 0,
+          "h": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
-          "pos": "CF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against Eastern Mich . Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 0/3 with 1 RBI against Bowling Green. Struggled to make contact."
     },
     "7110a0c5": {
       "id": "7110a0c5",
@@ -519,8 +601,8 @@
       "num": "13.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 6,
-        "gs": 6,
+        "g": 7,
+        "gs": 7,
         "avg": 0.143,
         "ops": 0.543,
         "ab": 7,
@@ -543,50 +625,53 @@
         "sb_att": 0
       },
       "season_pitching": {
-        "era": 3.78,
-        "whip": 1.68,
-        "w": 1,
+        "era": 2.66,
+        "whip": 1.31,
+        "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 16.2,
-        "h": 19,
+        "g": 5,
+        "gs": 5,
+        "ip": 23.2,
+        "h": 21,
         "r": 15,
         "er": 7,
-        "bb": 9,
-        "so": 15,
+        "bb": 10,
+        "so": 25,
         "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".279"
+        "opp_avg": ".231"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Eastern Mich.",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20734",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 0,
+          "ab": 5,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "P"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": {
-          "ip": "5.0",
+          "ip": "7.0",
           "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 4,
-          "so": 4,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 10,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Eastern Mich., throwing 5.0 innings. Struck out 4 while allowing just 2 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "Went 1/5 with 1 RBI against Bowling Green. Struggled to make contact."
     },
     "58fd6397": {
       "id": "58fd6397",
@@ -598,11 +683,11 @@
       "num": "14.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.324,
-        "ops": 1.222,
-        "ab": 37,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.308,
+        "ops": 1.185,
+        "ab": 39,
         "r": 12,
         "h": 12,
         "doubles": 4,
@@ -610,12 +695,12 @@
         "hr": 2,
         "rbi": 16,
         "tb": 26,
-        "slg": 0.703,
-        "bb": 11,
-        "hbp": 4,
+        "slg": 0.667,
+        "bb": 12,
+        "hbp": 5,
         "so": 11,
         "gdp": 0,
-        "obp": 0.519,
+        "obp": 0.518,
         "sf": 0,
         "sh": 1,
         "sb": 4,
@@ -623,22 +708,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 0,
-          "so": 3,
-          "pos": "DH"
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 1 RBI against Eastern Mich . Struggled to make contact."
+      "narrative": "Went 0/2 with 0 RBI against Bowling Green. Struggled at the plate but saw 1 walk(s)."
     },
     "cae5d4af": {
       "id": "cae5d4af",
@@ -676,8 +764,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-07",
-        "opponent": "Eastern Mich ",
-        "result": "W 8-5",
+        "opponent": "Eastern Mich.",
+        "result": "W",
         "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20735",
         "batting": {
           "ab": 3,
@@ -686,11 +774,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Eastern Mich . Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against Eastern Mich.. Struggled to make contact."
     },
     "c13c378e": {
       "id": "c13c378e",
@@ -702,22 +793,22 @@
       "num": "16.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.288,
-        "ops": 1.212,
-        "ab": 52,
-        "r": 21,
-        "h": 15,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.304,
+        "ops": 1.304,
+        "ab": 56,
+        "r": 23,
+        "h": 17,
         "doubles": 1,
         "triples": 0,
-        "hr": 7,
-        "rbi": 16,
-        "tb": 37,
-        "slg": 0.712,
+        "hr": 9,
+        "rbi": 21,
+        "tb": 45,
+        "slg": 0.804,
         "bb": 19,
         "hbp": 3,
-        "so": 15,
+        "so": 17,
         "gdp": 0,
         "obp": 0.5,
         "sf": 0,
@@ -727,22 +818,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 2,
-          "so": 3,
-          "pos": "1B"
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 5,
+          "bb": 0,
+          "so": 2,
+          "hr": 2,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Eastern Mich . Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 2/4 with 5 RBI against Bowling Green. Hit 2 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "efd39dc2": {
       "id": "efd39dc2",
@@ -773,8 +867,24 @@
         "wp": 0,
         "opp_avg": ".406"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Southeast Missouri",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20731",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeast Missouri, throwing 1.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "79223184": {
       "id": "79223184",
@@ -842,8 +952,24 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Southeast Missouri",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20731",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeast Missouri, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "16b1a5bb": {
       "id": "16b1a5bb",
@@ -855,47 +981,50 @@
       "num": "21.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 13,
-        "gs": 12,
-        "avg": 0.25,
-        "ops": 0.833,
-        "ab": 48,
-        "r": 6,
-        "h": 12,
+        "g": 14,
+        "gs": 13,
+        "avg": 0.255,
+        "ops": 0.835,
+        "ab": 51,
+        "r": 7,
+        "h": 13,
         "doubles": 3,
         "triples": 0,
         "hr": 3,
         "rbi": 13,
-        "tb": 24,
-        "slg": 0.5,
-        "bb": 6,
+        "tb": 25,
+        "slg": 0.49,
+        "bb": 7,
         "hbp": 0,
-        "so": 19,
+        "so": 21,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.345,
         "sf": 0,
         "sh": 0,
         "sb": 1,
-        "sb_att": 2
+        "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 1,
-          "h": 2,
-          "rbi": 4,
-          "bb": 0,
-          "so": 1,
-          "pos": "3B"
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 4 RBI against Eastern Mich . Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/3 with 0 RBI against Bowling Green. Contributed at the plate in the team's W."
     },
     "c6e70a7e": {
       "id": "c6e70a7e",
@@ -926,8 +1055,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "Southern Ill.",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southern-ill-/boxscore/20729",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southern Ill., throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "2354bb78": {
       "id": "2354bb78",
@@ -960,18 +1105,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
+        "opponent": "Eastern Mich.",
+        "result": "W",
         "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.0",
           "h": 3,
@@ -983,7 +1120,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Eastern Mich , throwing 4.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+      "narrative": "Took the mound against Eastern Mich., throwing 4.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
     },
     "f066480d": {
       "id": "f066480d",
@@ -995,22 +1132,22 @@
       "num": "24.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 6,
-        "avg": 0.304,
-        "ops": 0.768,
-        "ab": 23,
-        "r": 5,
+        "avg": 0.28,
+        "ops": 0.733,
+        "ab": 25,
+        "r": 6,
         "h": 7,
         "doubles": 0,
         "triples": 0,
         "hr": 1,
         "rbi": 8,
         "tb": 10,
-        "slg": 0.435,
-        "bb": 1,
+        "slg": 0.4,
+        "bb": 2,
         "hbp": 0,
-        "so": 5,
+        "so": 6,
         "gdp": 0,
         "obp": 0.333,
         "sf": 0,
@@ -1019,8 +1156,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Bowling Green. Struggled at the plate but saw 1 walk(s)."
     },
     "594e6be5": {
       "id": "594e6be5",
@@ -1032,11 +1187,11 @@
       "num": "25.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.442,
-        "ops": 1.349,
-        "ab": 52,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.426,
+        "ops": 1.316,
+        "ab": 54,
         "r": 20,
         "h": 23,
         "doubles": 6,
@@ -1044,12 +1199,12 @@
         "hr": 4,
         "rbi": 21,
         "tb": 41,
-        "slg": 0.788,
-        "bb": 11,
+        "slg": 0.759,
+        "bb": 13,
         "hbp": 3,
         "so": 7,
         "gdp": 1,
-        "obp": 0.561,
+        "obp": 0.557,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -1057,22 +1212,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
           "so": 0,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Eastern Mich . Contributed at the plate in the team's W 9-4."
+      "narrative": "Went 0/2 with 0 RBI against Bowling Green. Struggled at the plate but saw 2 walk(s)."
     },
     "636089f7": {
       "id": "636089f7",
@@ -1084,11 +1242,11 @@
       "num": "26.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 6,
-        "gs": 4,
-        "avg": 0.133,
-        "ops": 0.433,
-        "ab": 15,
+        "g": 7,
+        "gs": 5,
+        "avg": 0.125,
+        "ops": 0.411,
+        "ab": 16,
         "r": 4,
         "h": 2,
         "doubles": 0,
@@ -1096,12 +1254,12 @@
         "hr": 0,
         "rbi": 4,
         "tb": 2,
-        "slg": 0.133,
+        "slg": 0.125,
         "bb": 4,
         "hbp": 0,
         "so": 4,
         "gdp": 1,
-        "obp": 0.3,
+        "obp": 0.286,
         "sf": 1,
         "sh": 1,
         "sb": 0,
@@ -1109,22 +1267,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Eastern Mich.",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20734",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
-          "rbi": 1,
-          "bb": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against Eastern Mich.. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Bowling Green. Struggled to make contact."
     },
     "5f7aae28": {
       "id": "5f7aae28",
@@ -1155,8 +1316,24 @@
         "wp": 1,
         "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Southeast Missouri",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20731",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Southeast Missouri, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "355c1544": {
       "id": "355c1544",
@@ -1194,8 +1371,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
+        "opponent": "Eastern Mich.",
+        "result": "W",
         "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
         "batting": {
           "ab": 4,
@@ -1204,11 +1381,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 3,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Eastern Mich . Struggled to make contact."
+      "narrative": "Went 0/4 with 0 RBI against Eastern Mich.. Struggled to make contact."
     },
     "ce567f06": {
       "id": "ce567f06",
@@ -1239,8 +1419,24 @@
         "wp": 0,
         "opp_avg": ".444"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Southeast Missouri",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20731",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Southeast Missouri, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "79a64a50": {
       "id": "79a64a50",
@@ -1252,25 +1448,25 @@
       "num": "31.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.204,
-        "ops": 0.771,
-        "ab": 54,
-        "r": 13,
-        "h": 11,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.224,
+        "ops": 0.78,
+        "ab": 58,
+        "r": 15,
+        "h": 13,
         "doubles": 5,
         "triples": 0,
         "hr": 1,
-        "rbi": 11,
-        "tb": 19,
-        "slg": 0.352,
+        "rbi": 12,
+        "tb": 21,
+        "slg": 0.362,
         "bb": 15,
         "hbp": 5,
         "so": 13,
         "gdp": 1,
-        "obp": 0.419,
-        "sf": 0,
+        "obp": 0.418,
+        "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 3
@@ -1295,22 +1491,25 @@
         "opp_avg": ".190"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 4,
+          "r": 2,
+          "h": 2,
           "rbi": 1,
-          "bb": 2,
-          "so": 1,
-          "pos": "LF"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Eastern Mich . Contributed at the plate in the team's W 9-4."
+      "narrative": "Went 2/4 with 1 RBI against Bowling Green. Had an outstanding performance at the plate (0.500)."
     },
     "d7112040": {
       "id": "d7112040",
@@ -1346,8 +1545,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Southeast Missouri",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20732",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Southeast Missouri. Struggled to make contact."
     },
     "47e40c01": {
       "id": "47e40c01",
@@ -1359,25 +1576,25 @@
       "num": "34.0",
       "school": "Miami University (Ohio)",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.204,
-        "ops": 0.771,
-        "ab": 54,
-        "r": 13,
-        "h": 11,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.224,
+        "ops": 0.78,
+        "ab": 58,
+        "r": 15,
+        "h": 13,
         "doubles": 5,
         "triples": 0,
         "hr": 1,
-        "rbi": 11,
-        "tb": 19,
-        "slg": 0.352,
+        "rbi": 12,
+        "tb": 21,
+        "slg": 0.362,
         "bb": 15,
         "hbp": 5,
         "so": 13,
         "gdp": 1,
-        "obp": 0.419,
-        "sf": 0,
+        "obp": 0.418,
+        "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 3
@@ -1402,22 +1619,23 @@
         "opp_avg": ".190"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
-        "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 2,
-          "so": 1,
-          "pos": "LF"
-        },
-        "pitching": null
+        "date": "2026-03-07",
+        "opponent": "Eastern Mich.",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20735",
+        "batting": null,
+        "pitching": {
+          "ip": "4.2",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 6,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 1/3 with 1 RBI against Eastern Mich . Contributed at the plate in the team's W 9-4."
+      "narrative": "Took the mound against Eastern Mich., throwing 4.2 innings. Allowed 2 earned run(s) with 6 strikeout(s)."
     },
     "e3893c97": {
       "id": "e3893c97",
@@ -1450,18 +1668,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "Eastern Mich ",
-        "result": "W 9-4",
+        "opponent": "Eastern Mich.",
+        "result": "W",
         "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 4,
@@ -1473,7 +1683,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Eastern Mich , throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Eastern Mich., throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "e751fa28": {
       "id": "e751fa28",
@@ -1504,8 +1714,24 @@
         "wp": 1,
         "opp_avg": ".271"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Southeast Missouri",
+        "result": "L",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20730",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 6,
+          "r": 6,
+          "er": 6,
+          "bb": 3,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Southeast Missouri, throwing 4.0 innings. Allowed 6 earned run(s) with 3 strikeout(s)."
     },
     "6a2842e2": {
       "id": "6a2842e2",
@@ -1536,8 +1762,24 @@
         "wp": 0,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "UMass Lowell",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/umass-lowell/boxscore/20727",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMass Lowell, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "63333d1f": {
       "id": "63333d1f",
@@ -1550,50 +1792,42 @@
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.48,
-        "whip": 1.55,
+        "era": 5.91,
+        "whip": 1.78,
         "w": 1,
         "l": 0,
         "sv": 1,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 10.1,
-        "h": 8,
-        "r": 8,
-        "er": 4,
-        "bb": 8,
-        "so": 16,
-        "hr": 0,
+        "ip": 10.2,
+        "h": 10,
+        "r": 11,
+        "er": 7,
+        "bb": 9,
+        "so": 17,
+        "hr": 1,
         "hbp": 0,
         "wp": 5,
-        "opp_avg": ".205"
+        "opp_avg": ".238"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Eastern Mich.",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20734",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Bowling Green",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/bowling-green/boxscore/20738",
+        "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 5,
-          "r": 2,
-          "er": 1,
+          "ip": "0.1",
+          "h": 2,
+          "r": 3,
+          "er": 3,
           "bb": 1,
-          "so": 4,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Eastern Mich., throwing 3.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
+      "narrative": "Took the mound against Bowling Green, throwing 0.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

@@ -2,138 +2,17 @@
   "school": "La Salle University",
   "base_url": "https://www.goexplorers.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:43:25.545831Z",
-  "record": "9-7",
+  "generated_at": "2026-03-14T14:59:25.242290Z",
+  "record": "9-8",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Lafayette",
-    "result": "W 16-11",
-    "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12226&path=baseball",
-    "recap_url": "https://www.goexplorers.com/news/2026/3/11/groen-matches-single-game-rbi-record-as-baseball-defeats-lafayette-16-11.aspx",
-    "recap_headline": "La Salle University Athletics",
+    "date": "2026-03-13",
+    "opponent": "VCU",
+    "result": "",
+    "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12236&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "58d59d73": {
-      "id": "58d59d73",
-      "name": "Shawn Karpaitis",
-      "fn": "Shawn",
-      "ln": "Karpaitis",
-      "pos": "1B/RHP",
-      "yr": "",
-      "num": "11.0",
-      "school": "La Salle University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Lafayette",
-        "result": "W 16-11",
-        "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12226&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Lafayette, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
-    },
-    "9c58345a": {
-      "id": "9c58345a",
-      "name": "Aidan Zakarewicz",
-      "fn": "Aidan",
-      "ln": "Zakarewicz",
-      "pos": "INF/RHP",
-      "yr": "",
-      "num": "15.0",
-      "school": "La Salle University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Lafayette",
-        "result": "W 16-11",
-        "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12226&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "3.0",
-          "h": 2,
-          "r": 6,
-          "er": 4,
-          "bb": 4,
-          "so": 1,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Lafayette, throwing 3.0 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
-    },
-    "f064a9cb": {
-      "id": "f064a9cb",
-      "name": "Lucas Edwards",
-      "fn": "Lucas",
-      "ln": "Edwards",
-      "pos": "RHP",
-      "yr": "",
-      "num": "22.0",
-      "school": "La Salle University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Lafayette",
-        "result": "W 16-11",
-        "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12226&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 4,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Lafayette, throwing 2.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
-    },
-    "113dd0e8": {
-      "id": "113dd0e8",
-      "name": "Marco Levari",
-      "fn": "Marco",
-      "ln": "Levari",
-      "pos": "RHP",
-      "yr": "",
-      "num": "38.0",
-      "school": "La Salle University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Lafayette",
-        "result": "W 16-11",
-        "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12226&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "3.0",
-          "h": 3,
-          "r": 4,
-          "er": 4,
-          "bb": 5,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Lafayette, throwing 3.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

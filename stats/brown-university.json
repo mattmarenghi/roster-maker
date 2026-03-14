@@ -2,16 +2,16 @@
   "school": "Brown University",
   "base_url": "https://www.brownbears.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:26:12.803245Z",
-  "record": "4-6",
+  "generated_at": "2026-03-14T14:28:50.363429Z",
+  "record": "4-7",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Quinnipiac",
-    "result": "W 4-1",
-    "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
-    "recap_url": "https://www.brownbears.com/news/2026/3/10/baseball-uses-one-hitter-to-top-quinnipiac",
+    "date": "2026-03-13",
+    "opponent": "Seton Hall",
+    "result": "L",
+    "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
+    "recap_url": "https://www.brownbears.com/news/2026/3/13/baseball-drops-series-opener-at-seton-hall",
     "recap_headline": "Brown University Athletics",
-    "recap_text": "PROVIDENCE, R.I. \u2013\nFour Brown pitchers combined to twirl a one-hitter on Tuesday afternoon in a 4-1 win over Quinnipiac at Attanasio Family Field at Murray Stadium.\nIan Keusch\n,\nMatt Wilmarth\n,\nBrenden Kline\nand\nChristian Keel\nheld the Bobcats hitless over the final eight innings as the Bears offense took the lead with three runs in the seventh.\nSix different Brown players combined for six hits, with freshman\nMatt Luigs\nand senior\nDJ Dillehay\neach collecting two RBIs. Junior\nAndrew Hanlon\nreached base three times and scored a run.\nKeusch went the first 3.1 innings and allowed one run on one hit. Willmarth tossed 1.2 scoreless innings, Kline used a big double play to toss a scoreless sixth inning, and Keel earned the win by tossing the final three inning and also compiled the only three strikeouts for the Bears' pitching staff in the game.\nThe Bobcats took a 1-0 lead in the first inning with an RBI single sandwiched around three walks. Hanlon tagged a runner out at the plate on a wild pitch that bounced off the backstop and right back towards the box to help Brown escape the inning.\nAlex Benevento\nled off the bottom of the fourth by reaching third base after an error on the right fielder, but a strikeout and double play kept Brown off the board.\nThe Bears evened the score in the fifth when\nJack Edmunds\nled off with a single and later scored on a sac fly by Luigs.\nThe Bears took the lead with three runs on three hits in the seventh. With runners on second and third with nobody out, Luigs lined one off the pitcher for an RBI single to give Brown the lead. Three batters later with two outs, Dillehay laced one through the left side to score Luigs and\nLogan Meusy\nwith two key insurance runs to spot the Bears a 4-1 lead.\nIN DJ WE TRUST!!\nDillehay gives Brown some cushion with a BIG two-out, two-run single to push it to 4-1!\nWatch on ESPN+\npic.twitter.com/Ys2byPjnwm\n\u2014 Brown Baseball (@BrownU_Baseball)\nMarch 10, 2026\nThe Bears will return to action this Friday-Sunday, March 13-15 with a three-game series at Seton Hall.\nBROWN UNIVERSITY SPORTS FOUNDATION\nThe Brown University Sports Foundation (BUSF) is the backbone of our athletics program, playing a crucial role in enhancing the student-athlete experience.\u00a0This\u00a0is possible through philanthropic support from our alumni, parents, fans, and friends.\u00a0Your\u00a0gift through the Sports Foundation can immediately impact today's Brown Bears, helping them excel in the classroom, in competition, and, most importantly, in the community. Please click\nhere\nto learn more about how\u00a0you\u00a0can support the Bears.\nFOLLOW US ON SOCIAL\nFor the latest on Brown Athletics, please follow\n@BrownU_Bears\non X and\n@BrownU_Bears\non Instagram. Like\nBrownUBears\non Facebook and subscribe to the\nBrownAthletics\nYouTube channel."
+    "recap_text": "SOUTH ORANGE, N.J. \u2013\nA three-run sixth inning for Seton Hall helped the Pirates defeat Brown baseball by a score of 5-2 on Friday afternoon. Seton Hall outhit Brown 9-8 in the game as seven different Bears recorded hits.\nSenior\nDJ Dillehay\nhad two hits for Brown, sophomore\nChristian Butera\nhad an RBI single, senior\nLogan Meusy\nadded an RBI double, while junior\nAndrew Hanlon\nand sophomore\nAlex Benevento\neach had a hit and run scored. Sophomore\nMatt Wilmarth\ntossed 1.2 scoreless innings of relief, without issuing a walk.\nBrown struck for single runs in both the third and fourth innings to take a 2-0 lead. Hanlon singled and later scored on a double by Meusy in the third. Benevento then led off the fourth with a single, stole second and came home on a single up the middle by Butera.\nSeton Hall got on the board in the fifth with a leadoff triple and a sac fly. The Pirates then took control with three runs in the sixth. Following a leadoff walk and a groundout, SHU used four consecutive hits including a two-run double and a single to take a 4-2 lead before a double play got Brown out of the inning.\nA leadoff walk and two-out single plated another insurance run for SHU in the eighth.\nThe same two teams will continue their three-game weekend series tomorrow afternoon, March 14 with the first pitch scheduled for 1 p.m.\nBROWN UNIVERSITY SPORTS FOUNDATION\nThe Brown University Sports Foundation (BUSF) is the backbone of our athletics program, playing a crucial role in enhancing the student-athlete experience.\u00a0This\u00a0is possible through philanthropic support from our alumni, parents, fans, and friends.\u00a0Your\u00a0gift through the Sports Foundation can immediately impact today's Brown Bears, helping them excel in the classroom, in competition, and, most importantly, in the community. Please click\nhere\nto learn more about how\u00a0you\u00a0can support the Bears.\nFOLLOW US ON SOCIAL\nFor the latest on Brown Athletics, please follow\n@BrownU_Bears\non X and\n@BrownU_Bears\non Instagram. Like\nBrownUBears\non Facebook and subscribe to the\nBrownAthletics\nYouTube channel."
   },
   "players": {
     "7a5bbf68": {
@@ -24,47 +24,50 @@
       "num": "1.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.143,
-        "ops": 0.349,
-        "ab": 42,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.156,
+        "ops": 0.386,
+        "ab": 45,
         "r": 6,
-        "h": 6,
+        "h": 7,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 5,
-        "tb": 7,
-        "slg": 0.167,
-        "bb": 2,
+        "tb": 8,
+        "slg": 0.178,
+        "bb": 3,
         "hbp": 0,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.182,
+        "obp": 0.208,
         "sf": 0,
         "sh": 2,
-        "sb": 1,
-        "sb_att": 1
+        "sb": 2,
+        "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 1,
           "so": 1,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Quinnipiac. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/3 with 0 RBI against Seton Hall. Contributed at the plate in the team's L."
     },
     "7ba3e5a2": {
       "id": "7ba3e5a2",
@@ -76,11 +79,11 @@
       "num": "2.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.359,
-        "ops": 0.857,
-        "ab": 39,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.326,
+        "ops": 0.784,
+        "ab": 43,
         "r": 10,
         "h": 14,
         "doubles": 2,
@@ -88,12 +91,12 @@
         "hr": 0,
         "rbi": 6,
         "tb": 16,
-        "slg": 0.41,
+        "slg": 0.372,
         "bb": 6,
         "hbp": 1,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.447,
+        "obp": 0.412,
         "sf": 1,
         "sh": 0,
         "sb": 6,
@@ -101,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
-          "so": 0,
-          "pos": "SS"
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 2 RBI against Quinnipiac. Contributed at the plate in the team's W 4-1."
+      "narrative": "Went 0/4 with 0 RBI against Seton Hall. Struggled to make contact."
     },
     "0111b32c": {
       "id": "0111b32c",
@@ -128,24 +134,24 @@
       "num": "3.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 3,
-        "gs": 2,
-        "avg": 0.333,
-        "ops": 0.833,
-        "ab": 6,
-        "r": 1,
-        "h": 2,
+        "g": 4,
+        "gs": 3,
+        "avg": 0.3,
+        "ops": 0.717,
+        "ab": 10,
+        "r": 2,
+        "h": 3,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 0,
-        "tb": 2,
-        "slg": 0.333,
+        "tb": 3,
+        "slg": 0.3,
         "bb": 2,
         "hbp": 0,
         "so": 2,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.417,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 2,
+          "ab": 4,
           "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Quinnipiac. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/4 with 0 RBI against Seton Hall. Contributed at the plate in the team's L."
     },
     "015631ca": {
       "id": "015631ca",
@@ -180,24 +189,24 @@
       "num": "4.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.265,
-        "ops": 0.934,
-        "ab": 34,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.27,
+        "ops": 0.927,
+        "ab": 37,
         "r": 8,
-        "h": 9,
+        "h": 10,
         "doubles": 1,
         "triples": 1,
         "hr": 2,
-        "rbi": 8,
-        "tb": 18,
-        "slg": 0.529,
-        "bb": 4,
+        "rbi": 9,
+        "tb": 19,
+        "slg": 0.514,
+        "bb": 5,
         "hbp": 4,
-        "so": 17,
+        "so": 19,
         "gdp": 1,
-        "obp": 0.405,
+        "obp": 0.413,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -205,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "1B"
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Quinnipiac. Struggled to make contact."
+      "narrative": "Went 1/3 with 1 RBI against Seton Hall. Contributed at the plate in the team's L."
     },
     "d6048f8c": {
       "id": "d6048f8c",
@@ -232,47 +244,50 @@
       "num": "5.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.389,
-        "ops": 1.083,
-        "ab": 36,
-        "r": 11,
-        "h": 14,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.375,
+        "ops": 1.029,
+        "ab": 40,
+        "r": 12,
+        "h": 15,
         "doubles": 1,
         "triples": 0,
         "hr": 2,
         "rbi": 6,
-        "tb": 21,
-        "slg": 0.583,
+        "tb": 22,
+        "slg": 0.55,
         "bb": 7,
         "hbp": 1,
         "so": 8,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.479,
         "sf": 0,
         "sh": 0,
-        "sb": 5,
-        "sb_att": 6
+        "sb": 6,
+        "sb_att": 7
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "RF"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Quinnipiac. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/4 with 0 RBI against Seton Hall. Contributed at the plate in the team's L."
     },
     "8a510141": {
       "id": "8a510141",
@@ -308,8 +323,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "vs Illinois St.",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/illinois-st-/boxscore/20352",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against vs Illinois St.. Had an outstanding performance at the plate (0.500)."
     },
     "0d8e379d": {
       "id": "0d8e379d",
@@ -321,11 +354,11 @@
       "num": "7.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 4,
+        "g": 5,
         "gs": 2,
-        "avg": 0.333,
-        "ops": 1.0,
-        "ab": 6,
+        "avg": 0.286,
+        "ops": 0.873,
+        "ab": 7,
         "r": 1,
         "h": 2,
         "doubles": 1,
@@ -333,20 +366,38 @@
         "hr": 0,
         "rbi": 0,
         "tb": 3,
-        "slg": 0.5,
+        "slg": 0.429,
         "bb": 2,
         "hbp": 0,
-        "so": 0,
+        "so": 1,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.444,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Seton Hall. Struggled to make contact."
     },
     "fc9e09f8": {
       "id": "fc9e09f8",
@@ -358,11 +409,11 @@
       "num": "8.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 8,
-        "gs": 8,
-        "avg": 0.259,
-        "ops": 0.805,
-        "ab": 27,
+        "g": 9,
+        "gs": 9,
+        "avg": 0.233,
+        "ops": 0.725,
+        "ab": 30,
         "r": 3,
         "h": 7,
         "doubles": 1,
@@ -370,12 +421,12 @@
         "hr": 2,
         "rbi": 7,
         "tb": 14,
-        "slg": 0.519,
+        "slg": 0.467,
         "bb": 1,
         "hbp": 0,
-        "so": 11,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.286,
+        "obp": 0.258,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -383,22 +434,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Quinnipiac. Contributed at the plate in the team's W 4-1."
+      "narrative": "Went 0/3 with 0 RBI against Seton Hall. Struggled to make contact."
     },
     "5985c9a6": {
       "id": "5985c9a6",
@@ -410,24 +464,24 @@
       "num": "9.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 10,
-        "gs": 9,
-        "avg": 0.321,
-        "ops": 0.977,
-        "ab": 28,
+        "g": 11,
+        "gs": 10,
+        "avg": 0.313,
+        "ops": 0.952,
+        "ab": 32,
         "r": 4,
-        "h": 9,
-        "doubles": 3,
+        "h": 10,
+        "doubles": 4,
         "triples": 0,
         "hr": 1,
-        "rbi": 4,
-        "tb": 15,
-        "slg": 0.536,
+        "rbi": 5,
+        "tb": 17,
+        "slg": 0.531,
         "bb": 3,
         "hbp": 3,
-        "so": 5,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.441,
+        "obp": 0.421,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -435,22 +489,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 1,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 1,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "LF"
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 0 RBI against Quinnipiac. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 1/4 with 1 RBI against Seton Hall. Contributed at the plate in the team's L."
     },
     "e25f6063": {
       "id": "e25f6063",
@@ -462,47 +519,50 @@
       "num": "10.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.289,
-        "ops": 0.86,
-        "ab": 38,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.286,
+        "ops": 0.827,
+        "ab": 42,
         "r": 8,
-        "h": 11,
+        "h": 12,
         "doubles": 1,
         "triples": 0,
         "hr": 2,
         "rbi": 10,
-        "tb": 18,
-        "slg": 0.474,
+        "tb": 19,
+        "slg": 0.452,
         "bb": 6,
         "hbp": 0,
         "so": 4,
         "gdp": 0,
-        "obp": 0.386,
+        "obp": 0.375,
         "sf": 0,
         "sh": 0,
         "sb": 0,
-        "sb_att": 0
+        "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
           "h": 1,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Quinnipiac. Contributed at the plate in the team's W 4-1."
+      "narrative": "Went 1/4 with 0 RBI against Seton Hall. Contributed at the plate in the team's L."
     },
     "bfa852a0": {
       "id": "bfa852a0",
@@ -536,17 +596,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rhode Island",
-        "result": "L 9-19",
+        "result": "L",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20357",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 1,
@@ -594,8 +646,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Charleston Southern",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/charleston-southern/boxscore/20354",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 1 RBI against Charleston Southern. Struggled at the plate but saw 1 walk(s)."
     },
     "4fbdde94": {
       "id": "4fbdde94",
@@ -631,8 +701,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Charleston Southern",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/charleston-southern/boxscore/20356",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Charleston Southern. Struggled at the plate but saw 1 walk(s)."
     },
     "27e97786": {
       "id": "27e97786",
@@ -645,50 +733,42 @@
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.57,
+        "era": 5.12,
+        "whip": 1.66,
         "w": 1,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 3,
-        "gs": 3,
-        "ip": 14.0,
-        "h": 14,
-        "r": 11,
-        "er": 7,
-        "bb": 8,
-        "so": 14,
+        "g": 4,
+        "gs": 4,
+        "ip": 19.1,
+        "h": 21,
+        "r": 15,
+        "er": 11,
+        "bb": 11,
+        "so": 19,
         "hr": 1,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".264"
+        "opp_avg": ".284"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Rhode Island",
-        "result": "W 3-2",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20358",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
+        "batting": null,
         "pitching": {
-          "ip": "5.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
+          "ip": "5.1",
+          "h": 7,
+          "r": 4,
+          "er": 4,
           "bb": 3,
-          "so": 9,
+          "so": 5,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Rhode Island, throwing 5.0 innings. Struck out 9 while allowing just 2 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "Took the mound against Seton Hall, throwing 5.1 innings. Struck out 5 while allowing just 7 hit(s) and 4 earned run(s) in a quality start."
     },
     "2bc70c3e": {
       "id": "2bc70c3e",
@@ -700,24 +780,24 @@
       "num": "17.0",
       "school": "Brown University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.256,
-        "ops": 0.649,
-        "ab": 39,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.279,
+        "ops": 0.68,
+        "ab": 43,
         "r": 6,
-        "h": 10,
+        "h": 12,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 9,
-        "tb": 12,
-        "slg": 0.308,
+        "tb": 14,
+        "slg": 0.326,
         "bb": 2,
         "hbp": 3,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.341,
+        "obp": 0.354,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -725,22 +805,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 1,
-          "rbi": 2,
+          "h": 2,
+          "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "3B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 2 RBI against Quinnipiac. Contributed at the plate in the team's W 4-1."
+      "narrative": "Went 2/4 with 0 RBI against Seton Hall. Had an outstanding performance at the plate (0.500)."
     },
     "29ffd9a0": {
       "id": "29ffd9a0",
@@ -774,17 +857,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rhode Island",
-        "result": "L 9-19",
+        "result": "L",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20357",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.2",
           "h": 8,
@@ -830,17 +905,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Quinnipiac",
-        "result": "W 4-1",
+        "result": "W",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -883,8 +950,24 @@
         "wp": 1,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Indiana St.",
+        "result": "W",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/indiana-st-/boxscore/20353",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 2,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Indiana St., throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "36e25c83": {
       "id": "36e25c83",
@@ -915,8 +998,24 @@
         "wp": 0,
         "opp_avg": ".318"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Charleston Southern",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/charleston-southern/boxscore/20355",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Charleston Southern, throwing 2.2 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     },
     "e444e6e9": {
       "id": "e444e6e9",
@@ -970,8 +1069,35 @@
         "wp": 0,
         "opp_avg": ".667"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Charleston Southern",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/charleston-southern/boxscore/20355",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Went 0/1 with 0 RBI against Charleston Southern. Struggled to make contact."
     },
     "3076911b": {
       "id": "3076911b",
@@ -1010,7 +1136,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rhode Island",
-        "result": "L 9-19",
+        "result": "L",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20357",
         "batting": {
           "ab": 4,
@@ -1019,11 +1145,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Rhode Island. Contributed at the plate in the team's L 9-19."
+      "narrative": "Went 1/4 with 0 RBI against Rhode Island. Contributed at the plate in the team's L."
     },
     "f5da83a9": {
       "id": "f5da83a9",
@@ -1054,8 +1183,24 @@
         "wp": 1,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Rhode Island",
+        "result": "W",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20359",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rhode Island, throwing 1.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "9cb57113": {
       "id": "9cb57113",
@@ -1089,17 +1234,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rhode Island",
-        "result": "L 9-19",
+        "result": "L",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20357",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 6,
@@ -1145,17 +1282,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Quinnipiac",
-        "result": "W 4-1",
+        "result": "W",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.1",
           "h": 1,
@@ -1180,26 +1309,42 @@
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.4,
-        "whip": 3.6,
+        "era": 6.75,
+        "whip": 3.0,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 1.2,
-        "h": 3,
-        "r": 3,
-        "er": 1,
-        "bb": 3,
+        "ip": 2.2,
+        "h": 4,
+        "r": 4,
+        "er": 2,
+        "bb": 4,
         "so": 2,
         "hr": 0,
         "hbp": 1,
-        "wp": 0,
-        "opp_avg": ".375"
+        "wp": 1,
+        "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Seton Hall, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "7589cb42": {
       "id": "7589cb42",
@@ -1233,17 +1378,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Quinnipiac",
-        "result": "W 4-1",
+        "result": "W",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 0,
@@ -1286,8 +1423,24 @@
         "wp": 3,
         "opp_avg": ".357"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Rhode Island",
+        "result": "W",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20359",
+        "batting": null,
+        "pitching": {
+          "ip": "5.1",
+          "h": 7,
+          "r": 4,
+          "er": 4,
+          "bb": 4,
+          "so": 1,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Rhode Island, throwing 5.1 innings. Struck out 1 while allowing just 7 hit(s) and 4 earned run(s) in a quality start."
     },
     "77f04255": {
       "id": "77f04255",
@@ -1321,17 +1474,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Rhode Island",
-        "result": "L 9-19",
+        "result": "L",
         "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/rhode-island/boxscore/20357",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.2",
           "h": 5,
@@ -1356,15 +1501,15 @@
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.59,
-        "whip": 1.59,
+        "era": 1.23,
+        "whip": 1.36,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 5.2,
-        "h": 6,
+        "ip": 7.1,
+        "h": 7,
         "r": 1,
         "er": 1,
         "bb": 3,
@@ -1372,34 +1517,26 @@
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".286"
+        "opp_avg": ".280"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Quinnipiac",
-        "result": "W 4-1",
-        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/quinnipiac/boxscore/20663",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Seton Hall",
+        "result": "L",
+        "boxscore_url": "https://www.brownbears.com/sports/baseball/stats/2026/seton-hall/boxscore/20360",
+        "batting": null,
         "pitching": {
           "ip": "1.2",
-          "h": 0,
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Quinnipiac, throwing 1.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Seton Hall, throwing 1.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

@@ -2,48 +2,17 @@
   "school": "University of California, San Diego",
   "base_url": "https://www.ucsdtritons.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:15:00.267656Z",
-  "record": "4-10",
+  "generated_at": "2026-03-14T15:54:00.377489Z",
+  "record": "5-10",
   "most_recent_game": {
-    "date": "2026-03-08",
-    "opponent": "Cincinnati",
-    "result": "W 9-8",
-    "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11942&path=baseball",
-    "recap_url": "https://www.ucsdtritons.com/news/2026/3/8/baseball-extra-innings-finale-goes-to-bearcats.aspx",
-    "recap_headline": "UC San Diego",
+    "date": "2026-03-13",
+    "opponent": "CSUN",
+    "result": "",
+    "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "4aeb33ba": {
-      "id": "4aeb33ba",
-      "name": "Quincey Brown",
-      "fn": "Quincey",
-      "ln": "Brown",
-      "pos": "RHP",
-      "yr": "Fr.",
-      "num": "11.0",
-      "school": "University of California, San Diego",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Cincinnati",
-        "result": "W 9-8",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11942&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Cincinnati, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

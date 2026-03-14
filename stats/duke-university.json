@@ -2,16 +2,16 @@
   "school": "Duke University",
   "base_url": "https://www.goduke.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:33:48.212856Z",
-  "record": "85-94",
+  "generated_at": "2026-03-14T14:43:08.812727Z",
+  "record": "86-96",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "High Point",
-    "result": "W 12-6",
-    "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
-    "recap_url": "https://www.goduke.com/news/2026/3/10/baseball-blue-devils-drop-road-contest-12-6-at-high-point",
+    "date": "2026-03-13",
+    "opponent": "Miami FL",
+    "result": "W",
+    "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
+    "recap_url": "https://www.goduke.com/news/2026/3/13/baseball-duke-opens-series-with-4-0-shutout-of-miami",
     "recap_headline": "Duke University Athletics",
-    "recap_text": "HIGH POINT, N.C.\n- Duke fell behind early and couldn't catch High Point, eventually falling, 12-6, at Williard Stadium on Tuesday, March 10. The Panthers (10-7) scored six runs in the first inning, and the Blue Devils (13-6) got within three, 6-3, in the third inning, but couldn't complete the rally.\nCollin Anderson\nand\nJake Lambdin\nboth left the yard for Duke, while\nKaden Smith\nled the Blue Devils' offense with three RBI.\nTyler Albright\nworked four walks, his new career high for free passes in a game.\nHOW IT HAPPENED\nHigh Point got on the board first, scoring six runs in the bottom of the first.\nAfter a clean second frame for both teams, the Blue Devils cut the deficit in half with three runs in the top of the third.\nCollin Anderson\nled off the inning with a home run to left-center field, his second time going yard this season.\nAfter a\nJake Lambdin\ndouble and swipe of third,\nTyler Albright\nworked a walk to put two on for\nKaden Smith\n, who brought both home with a double, to make it a 6-3 affair.\nThe hosts responded with three runs of their own in the bottom of the fourth, with a pair of RBI singles and a third run coming home after a throwing error.\nAnother RBI double from Smith, once again scoring Albright, made it a 9-4 ballgame in the top of the fifth\nThe Panthers expanded the margin back to six runs, 10-4, after a balk brought home a run in the bottom\u00a0half of the frame.\nAnderson continued his strong day at the plate in the top of the sixth, driving in\nAnthony Runfola\nwith an RBI single.\nHigh Point moved in front, 12-5, with a pair of run-scoring singles in the bottom of the sixth.\nThe Blue Devils scored the final run of the contest in the top of the eighth, with a two-out homer from Lambdin on a full count, for the final scoreline of 12-6.\nUP NEXT\nDuke (13-6, 1-2 ACC) returns home to host Miami (12-4, 1-2 ACC). The Blue Devils and Hurricanes will start the series with a 6 p.m. first pitch on Friday, March 13.\nFor more information on Duke baseball, follow the Blue Devils on\nTwitter\n,\nFacebook\nand\nInstagram\nby searching for \"DukeBASE\".\n#GoDuke"
+    "recap_text": "DURHAM, N.C. \u2013\nDuke baseball opened the weekend with a combined shutout, as\nAidan Weaver\n,\nPeter Lemke\n,\nBen Dean\nand\nAiden O'Connell\nallowed only two hits as Duke topped Miami 4-0 on Friday at Jack Coombs Field.\nWeaver went six innings and surrendered a pair of hits and a walk while fanning eight and hitting one. Lemke came in for the next two frames, yielding only two walks and striking out two. Dean recorded the first two outs in the ninth before O'Connell came in with the bases loaded and ended the game with a strikeout.\nWeaver improved to 4-1 while O'Connell registered his fourth save of the campaign. Weaver has gone five or more innings while surrendering two or fewer runs and fanning eight or more in three of his five starts this spring. With the victory, Duke ups its record to 14-6 overall and 2-2 in ACC action while Miami dips to 13-5 and 1-3 in league play.\nTyler Albright\ndid the heavy lifting for Duke's offense with a solo home run and bases-loaded walk.\nHOW IT HAPPENED\nTyler Albright\nled off the bottom of the first with a solo home run to give Duke an immediate lead.\nAidan Weaver\nfaced just one over the minimum through the first four innings, thanks in part to a pair of double plays.\nWeaver got all the extra run support he needed in the bottom of the fourth as the Blue Devils pushed across three to go ahead 4-0.\nKaden Smith\nand\nMatthew Strand\nled off the bottom of the fourth with consecutive singles. A sacrifice bunt attempt by\nBen Petrone\nscored Smith as Miami starting pitcher AJ Ciscar threw wide to first base. Strand advanced to third on the play with Petrone safe at first.\nAfter a fielder's choice, walk and strikeout left the bases loaded with two outs, Albright walked to force in Petrone for a 3-0 Duke lead. A balk brought in the final run.\nWeaver sent down the Hurricanes in order in the fifth, backed by a pair of diving stop by\nColtin Quagliano\nand\nJake Lambdin\n.\u00a0The senior exited after the sixth, having allowed a leadoff single in the second and sixth as his only hits surrendered.\nMiami put a runner on in the seventh with a leadoff walk and the eighth on a free pass with one out, but neither runner advanced to second base.\nBen Dean\nand\nAiden O'Connell\nwiggled out of trouble in the ninth to preserve the Duke victory. After a strikeout and fly out started the inning, Dean walked the next three to fill the bases. O'Connell entered in a save situation and struck out Dylan Dubovik on three pitches to end the contest.\nUP NEXT\nDuke goes for the series victory on Saturday with a 4 p.m. first pitch on ACC Network Extra.\nFans can purchase tickets\nhere\n.\nFor more information on Duke baseball, follow the Blue Devils on\nTwitter\n,\nFacebook\nand\nInstagram\nby searching for \"DukeBASE\".\n#GoDuke"
   },
   "players": {
     "fafe023d": {
@@ -48,8 +48,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against High Point. Struggled to make contact."
     },
     "1082d2c4": {
       "id": "1082d2c4",
@@ -88,7 +106,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Notre Dame",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
         "batting": {
           "ab": 3,
@@ -97,11 +115,14 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Notre Dame. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 1/3 with 0 RBI against Notre Dame. Contributed at the plate in the team's L."
     },
     "82657e7c": {
       "id": "82657e7c",
@@ -113,47 +134,50 @@
       "num": "3.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.302,
-        "ops": 0.764,
-        "ab": 53,
-        "r": 16,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.286,
+        "ops": 0.727,
+        "ab": 56,
+        "r": 17,
         "h": 16,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 2,
         "tb": 18,
-        "slg": 0.34,
+        "slg": 0.321,
         "bb": 8,
         "hbp": 4,
-        "so": 12,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.424,
+        "obp": 0.406,
         "sf": 1,
         "sh": 1,
         "sb": 4,
-        "sb_att": 5
+        "sb_att": 6
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 1,
+          "r": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
-          "pos": "3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Notre Dame. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 0/3 with 0 RBI against Miami FL. Struggled to make contact."
     },
     "ea475a8a": {
       "id": "ea475a8a",
@@ -165,24 +189,24 @@
       "num": "4.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.292,
-        "ops": 0.892,
-        "ab": 48,
-        "r": 14,
-        "h": 14,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.314,
+        "ops": 0.979,
+        "ab": 51,
+        "r": 15,
+        "h": 16,
         "doubles": 3,
         "triples": 0,
-        "hr": 0,
-        "rbi": 13,
-        "tb": 17,
-        "slg": 0.354,
-        "bb": 26,
+        "hr": 1,
+        "rbi": 15,
+        "tb": 22,
+        "slg": 0.431,
+        "bb": 27,
         "hbp": 3,
-        "so": 14,
+        "so": 15,
         "gdp": 2,
-        "obp": 0.538,
+        "obp": 0.548,
         "sf": 3,
         "sh": 1,
         "sb": 15,
@@ -190,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 2,
           "bb": 1,
-          "so": 3,
-          "pos": "LF"
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Notre Dame. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 2/3 with 2 RBI against Miami FL. Hit 1 home run(s). Had an outstanding performance at the plate (0.667)."
     },
     "8478bd88": {
       "id": "8478bd88",
@@ -217,24 +244,24 @@
       "num": "5.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.286,
-        "ops": 0.99,
-        "ab": 35,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.282,
+        "ops": 0.942,
+        "ab": 39,
         "r": 11,
-        "h": 10,
+        "h": 11,
         "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 6,
-        "tb": 20,
-        "slg": 0.571,
+        "tb": 21,
+        "slg": 0.538,
         "bb": 8,
         "hbp": 0,
-        "so": 7,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.419,
+        "obp": 0.404,
         "sf": 0,
         "sh": 0,
         "sb": 5,
@@ -242,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "C"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Notre Dame. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 1/4 with 0 RBI against Miami FL. Contributed at the plate in the team's W."
     },
     "156b7173": {
       "id": "156b7173",
@@ -269,11 +299,11 @@
       "num": "6.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.29,
-        "ops": 1.006,
-        "ab": 69,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.274,
+        "ops": 0.955,
+        "ab": 73,
         "r": 24,
         "h": 20,
         "doubles": 9,
@@ -281,12 +311,12 @@
         "hr": 4,
         "rbi": 11,
         "tb": 41,
-        "slg": 0.594,
+        "slg": 0.562,
         "bb": 10,
         "hbp": 5,
-        "so": 15,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.412,
+        "obp": 0.393,
         "sf": 1,
         "sh": 0,
         "sb": 12,
@@ -294,22 +324,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "SS"
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Notre Dame. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 0/4 with 0 RBI against Miami FL. Struggled to make contact."
     },
     "dce3bddb": {
       "id": "dce3bddb",
@@ -340,8 +373,24 @@
         "wp": 0,
         "opp_avg": ".364"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 5,
+          "r": 6,
+          "er": 6,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against High Point, throwing 0.2 innings. Allowed 6 earned run(s) with 0 strikeout(s)."
     },
     "ce2ee4c7": {
       "id": "ce2ee4c7",
@@ -378,22 +427,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 2,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against Notre Dame. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/3 with 0 RBI against High Point. Contributed at the plate in the team's L."
     },
     "d9cc0d8b": {
       "id": "d9cc0d8b",
@@ -405,24 +457,24 @@
       "num": "9.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 4,
-        "gs": 1,
-        "avg": 0.2,
-        "ops": 0.367,
-        "ab": 5,
-        "r": 1,
-        "h": 1,
-        "doubles": 0,
+        "g": 5,
+        "gs": 2,
+        "avg": 0.25,
+        "ops": 0.597,
+        "ab": 8,
+        "r": 2,
+        "h": 2,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 1,
-        "tb": 1,
-        "slg": 0.2,
+        "tb": 3,
+        "slg": 0.375,
         "bb": 0,
         "hbp": 0,
         "so": 1,
         "gdp": 0,
-        "obp": 0.167,
+        "obp": 0.222,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -430,22 +482,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "PH"
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Notre Dame. Struggled to make contact."
+      "narrative": "Went 1/3 with 0 RBI against Miami FL. Contributed at the plate in the team's W."
     },
     "95eb4bd3": {
       "id": "95eb4bd3",
@@ -458,26 +513,42 @@
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.57,
-        "whip": 1.11,
-        "w": 3,
+        "era": 3.58,
+        "whip": 0.98,
+        "w": 4,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 21.2,
-        "h": 17,
+        "g": 5,
+        "gs": 5,
+        "ip": 27.2,
+        "h": 19,
         "r": 11,
         "er": 11,
-        "bb": 7,
-        "so": 24,
+        "bb": 8,
+        "so": 32,
         "hr": 5,
-        "hbp": 0,
-        "wp": 0,
-        "opp_avg": ".207"
+        "hbp": 1,
+        "wp": 1,
+        "opp_avg": ".190"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 8,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Miami FL, throwing 6.0 innings. Struck out 8 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."
     },
     "06324faf": {
       "id": "06324faf",
@@ -508,8 +579,24 @@
         "wp": 0,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Notre Dame",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24580",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Notre Dame, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "5f13c6f4": {
       "id": "5f13c6f4",
@@ -546,22 +633,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-02-20",
+        "opponent": "Milwaukee",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/milwaukee/boxscore/24571",
         "batting": {
-          "ab": 0,
-          "r": 0,
+          "ab": 1,
+          "r": 1,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Milwaukee. Struggled to make contact."
     },
     "f828c713": {
       "id": "f828c713",
@@ -598,22 +688,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "High Point",
-        "result": "W 12-6",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "date": "2026-03-06",
+        "opponent": "Notre Dame",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24580",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "1B"
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against High Point. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Notre Dame. Struggled to make contact."
     },
     "601a9476": {
       "id": "601a9476",
@@ -650,22 +743,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Notre Dame. Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against High Point. Struggled to make contact."
     },
     "63deb6ff": {
       "id": "63deb6ff",
@@ -701,8 +797,26 @@
         "sb_att": 10
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Princeton",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/princeton/boxscore/24578",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against Princeton. Had an outstanding performance at the plate (1.000)."
     },
     "a2be0cdb": {
       "id": "a2be0cdb",
@@ -738,8 +852,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against High Point. Struggled at the plate but saw 2 walk(s)."
     },
     "b7f486cd": {
       "id": "b7f486cd",
@@ -751,11 +883,11 @@
       "num": "19.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.178,
-        "ops": 0.512,
-        "ab": 73,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.171,
+        "ops": 0.492,
+        "ab": 76,
         "r": 8,
         "h": 13,
         "doubles": 1,
@@ -763,12 +895,12 @@
         "hr": 2,
         "rbi": 12,
         "tb": 22,
-        "slg": 0.301,
+        "slg": 0.289,
         "bb": 3,
         "hbp": 0,
-        "so": 23,
+        "so": 24,
         "gdp": 1,
-        "obp": 0.211,
+        "obp": 0.203,
         "sf": 0,
         "sh": 0,
         "sb": 7,
@@ -776,22 +908,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "CF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Notre Dame. Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against Miami FL. Struggled to make contact."
     },
     "4da5e11a": {
       "id": "4da5e11a",
@@ -803,10 +938,10 @@
       "num": "20.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 8,
+        "g": 9,
         "gs": 3,
         "avg": 0.286,
-        "ops": 0.841,
+        "ops": 0.873,
         "ab": 14,
         "r": 2,
         "h": 4,
@@ -816,34 +951,37 @@
         "rbi": 2,
         "tb": 6,
         "slg": 0.429,
-        "bb": 3,
+        "bb": 4,
         "hbp": 0,
         "so": 5,
         "gdp": 0,
-        "obp": 0.412,
+        "obp": 0.444,
         "sf": 0,
         "sh": 0,
-        "sb": 3,
-        "sb_att": 4
+        "sb": 4,
+        "sb_att": 5
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-07",
         "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24581",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PR/RF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/3 with 0 RBI against Notre Dame. Struggled to make contact."
     },
     "6ae436b7": {
       "id": "6ae436b7",
@@ -874,8 +1012,24 @@
         "wp": 0,
         "opp_avg": ".143"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "Gardner-Webb",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/gardner-webb/boxscore/24579",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Gardner-Webb, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "a3186d5c": {
       "id": "a3186d5c",
@@ -887,11 +1041,11 @@
       "num": "22.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 15,
-        "gs": 12,
-        "avg": 0.243,
-        "ops": 0.85,
-        "ab": 37,
+        "g": 16,
+        "gs": 13,
+        "avg": 0.231,
+        "ops": 0.823,
+        "ab": 39,
         "r": 10,
         "h": 9,
         "doubles": 0,
@@ -899,20 +1053,38 @@
         "hr": 1,
         "rbi": 3,
         "tb": 14,
-        "slg": 0.378,
-        "bb": 15,
+        "slg": 0.359,
+        "bb": 16,
         "hbp": 1,
         "so": 15,
         "gdp": 0,
-        "obp": 0.472,
+        "obp": 0.464,
         "sf": 0,
         "sh": 0,
         "sb": 9,
         "sb_att": 11
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Miami FL. Struggled at the plate but saw 1 walk(s)."
     },
     "627fd26a": {
       "id": "627fd26a",
@@ -949,22 +1121,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "High Point",
-        "result": "W 12-6",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "date": "2026-02-13",
+        "opponent": "Maine",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/maine/boxscore/24566",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against High Point. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 0/4 with 0 RBI against Maine. Struggled to make contact."
     },
     "fe4fa01d": {
       "id": "fe4fa01d",
@@ -976,24 +1151,24 @@
       "num": "24.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 6,
-        "gs": 2,
-        "avg": 0.308,
-        "ops": 1.323,
-        "ab": 13,
+        "g": 7,
+        "gs": 3,
+        "avg": 0.294,
+        "ops": 1.133,
+        "ab": 17,
         "r": 5,
-        "h": 4,
+        "h": 5,
         "doubles": 0,
         "triples": 1,
         "hr": 2,
         "rbi": 5,
-        "tb": 12,
-        "slg": 0.923,
+        "tb": 13,
+        "slg": 0.765,
         "bb": 2,
         "hbp": 0,
-        "so": 6,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.368,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -1019,22 +1194,23 @@
         "opp_avg": ".231"
       },
       "last_game": {
-        "date": "2026-03-07",
+        "date": "2026-03-06",
         "opponent": "Notre Dame",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24581",
-        "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24580",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 3,
+          "er": 3,
           "bb": 0,
-          "so": 0,
-          "pos": "PH"
-        },
-        "pitching": null
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
       },
-      "narrative": "Went 0/1 with 0 RBI against Notre Dame. Struggled to make contact."
+      "narrative": "Took the mound against Notre Dame, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "47fb492e": {
       "id": "47fb492e",
@@ -1047,50 +1223,42 @@
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.84,
-        "whip": 1.26,
+        "era": 2.45,
+        "whip": 1.23,
         "w": 0,
         "l": 2,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 12.2,
+        "ip": 14.2,
         "h": 5,
         "r": 4,
         "er": 4,
-        "bb": 11,
-        "so": 21,
+        "bb": 13,
+        "so": 23,
         "hr": 0,
         "hbp": 3,
         "wp": 0,
-        "opp_avg": ".128"
+        "opp_avg": ".111"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Notre Dame",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24581",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
+        "batting": null,
         "pitching": {
-          "ip": "2.2",
+          "ip": "2.0",
           "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 3,
-          "so": 5,
+          "bb": 2,
+          "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Notre Dame, throwing 2.2 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+      "narrative": "Took the mound against Miami FL, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "82faa2d3": {
       "id": "82faa2d3",
@@ -1121,8 +1289,24 @@
         "wp": 0,
         "opp_avg": ".240"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against High Point, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "7ca13062": {
       "id": "7ca13062",
@@ -1156,17 +1340,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Notre Dame",
-        "result": "W 6-5",
+        "result": "W",
         "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24581",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.1",
           "h": 6,
@@ -1191,50 +1367,42 @@
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.66,
-        "whip": 1.03,
+        "era": 4.5,
+        "whip": 1.0,
         "w": 0,
         "l": 0,
-        "sv": 3,
-        "g": 6,
+        "sv": 4,
+        "g": 7,
         "gs": 0,
-        "ip": 9.2,
+        "ip": 10.0,
         "h": 6,
         "r": 5,
         "er": 5,
         "bb": 4,
-        "so": 15,
+        "so": 16,
         "hr": 0,
         "hbp": 2,
         "wp": 1,
-        "opp_avg": ".188"
+        "opp_avg": ".182"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Notre Dame",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24581",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
+        "batting": null,
         "pitching": {
-          "ip": "1.2",
-          "h": 1,
-          "r": 1,
-          "er": 1,
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Notre Dame, throwing 1.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Took the mound against Miami FL, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "cea9aa42": {
       "id": "cea9aa42",
@@ -1268,17 +1436,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Notre Dame",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 4,
@@ -1326,8 +1486,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against High Point. Struggled to make contact."
     },
     "0f0057b8": {
       "id": "0f0057b8",
@@ -1339,24 +1517,24 @@
       "num": "32.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 6,
-        "gs": 2,
-        "avg": 0.308,
-        "ops": 1.323,
-        "ab": 13,
+        "g": 7,
+        "gs": 3,
+        "avg": 0.294,
+        "ops": 1.133,
+        "ab": 17,
         "r": 5,
-        "h": 4,
+        "h": 5,
         "doubles": 0,
         "triples": 1,
         "hr": 2,
         "rbi": 5,
-        "tb": 12,
-        "slg": 0.923,
+        "tb": 13,
+        "slg": 0.765,
         "bb": 2,
         "hbp": 0,
-        "so": 6,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.368,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -1382,22 +1560,25 @@
         "opp_avg": ".231"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Notre Dame",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24581",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 0,
+          "ab": 4,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PH"
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Notre Dame. Struggled to make contact."
+      "narrative": "Went 1/4 with 0 RBI against Miami FL. Contributed at the plate in the team's W."
     },
     "7b31a3fe": {
       "id": "7b31a3fe",
@@ -1428,8 +1609,24 @@
         "wp": 2,
         "opp_avg": ".240"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against High Point, throwing 1.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "dc5e5222": {
       "id": "dc5e5222",
@@ -1492,8 +1689,24 @@
         "wp": 2,
         "opp_avg": ".268"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against High Point, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "6f4b08b5": {
       "id": "6f4b08b5",
@@ -1527,17 +1740,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Notre Dame",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.0",
           "h": 3,
@@ -1562,50 +1767,42 @@
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.25,
-        "whip": 1.06,
+        "era": 2.16,
+        "whip": 1.2,
         "w": 3,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 3,
-        "ip": 16.0,
+        "ip": 16.2,
         "h": 11,
         "r": 7,
         "er": 4,
-        "bb": 6,
-        "so": 28,
+        "bb": 9,
+        "so": 29,
         "hr": 3,
         "hbp": 1,
         "wp": 2,
-        "opp_avg": ".186"
+        "opp_avg": ".180"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Notre Dame",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24581",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
+        "batting": null,
         "pitching": {
-          "ip": "1.1",
+          "ip": "0.2",
           "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 3,
-          "wp": 1,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Notre Dame, throwing 1.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Miami FL, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "401b3ba9": {
       "id": "401b3ba9",
@@ -1641,8 +1838,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Milwaukee",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/milwaukee/boxscore/24571",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 1 RBI against Milwaukee. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
     },
     "10c8d3a0": {
       "id": "10c8d3a0",
@@ -1673,8 +1888,24 @@
         "wp": 2,
         "opp_avg": ".091"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against High Point, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "d94c9d9c": {
       "id": "d94c9d9c",
@@ -1686,24 +1917,24 @@
       "num": "49.0",
       "school": "Duke University",
       "season_batting": {
-        "g": 7,
-        "gs": 7,
-        "avg": 0.32,
-        "ops": 1.189,
-        "ab": 25,
-        "r": 2,
-        "h": 8,
+        "g": 8,
+        "gs": 8,
+        "avg": 0.31,
+        "ops": 1.099,
+        "ab": 29,
+        "r": 3,
+        "h": 9,
         "doubles": 2,
         "triples": 1,
         "hr": 2,
         "rbi": 8,
-        "tb": 18,
-        "slg": 0.72,
+        "tb": 19,
+        "slg": 0.655,
         "bb": 5,
         "hbp": 2,
-        "so": 9,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.469,
+        "obp": 0.444,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1711,22 +1942,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Notre Dame",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24582",
+        "date": "2026-03-13",
+        "opponent": "Miami FL",
+        "result": "W",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24584",
         "batting": {
-          "ab": 3,
-          "r": 0,
+          "ab": 4,
+          "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "DH"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Notre Dame. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 1/4 with 0 RBI against Miami FL. Contributed at the plate in the team's W."
     },
     "8cc84cfe": {
       "id": "8cc84cfe",
@@ -1757,8 +1991,24 @@
         "wp": 0,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "High Point",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against High Point, throwing 2.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

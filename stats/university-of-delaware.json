@@ -2,16 +2,16 @@
   "school": "University of Delaware",
   "base_url": "https://www.bluehens.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:16:23.866615Z",
-  "record": "8-9",
+  "generated_at": "2026-03-14T15:56:39.710913Z",
+  "record": "21-23",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "PENN",
-    "result": "L 3-5",
-    "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
-    "recap_url": "https://www.bluehens.com/news/2026/3/10/baseball-picks-up-road-win-at-penn",
+    "date": "2026-03-13",
+    "opponent": "Louisiana Tech",
+    "result": "L",
+    "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
+    "recap_url": "https://www.bluehens.com/news/2026/3/13/baseball-drops-weekend-series-opener-at-la-tech",
     "recap_headline": "University of Delaware Athletics",
-    "recap_text": "PHILADELPHIA -\nThe University of Delaware baseball program picked up its first road win of the season over Penn by a score of 5-3 on Tuesday.\nThe Fightin' Blue Hens overall record improves to 8-9 on the season.\nHEN HIGHLIGHTS\nSal Mineo\nled the Blue Hens offense, going 2-for-3 with two walks and an RBI. He extended his hit streak to 12 games.\nLT Cockrill\nreached base three times, all three were walks.\nUD had six pitcher appearances in Tuesday's win.\nDoug Marose\nstarted the game, followed by\nEthan Shaub\n,\nRyan McLaughlin\n,\nAndrew Callaway\nand\nJackson Hulcher\n. The six combined to strikeout seven batters, allowed five hits and three earned runs. Marose picked up the win and is now 1-1.\nHOW IT HAPPENED\nUD took an early lead when\nJeremy Wolf\nwas hit by a pitch with the bases loaded, and scored Mineo in the first inning. The following inning, Mineo had an RBI single up the middle and scored\nAnthony DeCesare\n. In the bottom half of the second, Penn cut the Blue Hen lead down to 2-1.\nIn the fifth inning,\nAnthony Charles\nhad an RBI single, and scored Wolf. Charles also scored on a wild pitch later that inning.\nVincent Davis\nreached after the Penn shortstop dropped a fly ball with the bases loaded. Mineo scored on the play to make it 5-1 in the sixth inning.\nIn the bottom half of the sixth, the Quakers cut the Blue Hen lead to 5-3 after they drove in a run on a fielders choice and sacrifice fly.\nThe Blue Hens pitchers had three-straight scoreless innings on the mound to close out the game.\nUP NEXT\nDelaware will open Conference USA play and travels to Ruston, Louisiana for a three-game series at LA Tech from March 13-15. Fans can catch the entire series on ESPN+.\nTICKETS\nSeason and individual tickets are available for all of Delaware's 2026 home games.\nClick here\nto secure your seats for the next game.\nFOLLOW ON SOCIAL\nFor the latest on Delaware baseball, follow the Blue Hens on\nX\n,\nInstagram\n, and like on\nFacebook\n."
+    "recap_text": ""
   },
   "players": {
     "c2ed5dde": {
@@ -24,11 +24,11 @@
       "num": "1.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.29,
-        "ops": 0.743,
-        "ab": 69,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.274,
+        "ops": 0.705,
+        "ab": 73,
         "r": 18,
         "h": 20,
         "doubles": 2,
@@ -36,12 +36,12 @@
         "hr": 0,
         "rbi": 7,
         "tb": 24,
-        "slg": 0.348,
+        "slg": 0.329,
         "bb": 9,
         "hbp": 3,
         "so": 13,
         "gdp": 0,
-        "obp": 0.395,
+        "obp": 0.376,
         "sf": 0,
         "sh": 0,
         "sb": 7,
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Canisius. Contributed at the plate in the team's W 10-0."
+      "narrative": "Went 0/4 with 0 RBI against Louisiana Tech. Struggled to make contact."
     },
     "bda77105": {
       "id": "bda77105",
@@ -103,7 +106,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Canisius",
-        "result": "W 10-0",
+        "result": "W",
         "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
         "batting": {
           "ab": 1,
@@ -112,7 +115,10 @@
           "rbi": 0,
           "bb": 1,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -128,24 +134,24 @@
       "num": "3.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.203,
-        "ops": 0.548,
-        "ab": 59,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.21,
+        "ops": 0.553,
+        "ab": 62,
         "r": 7,
-        "h": 12,
+        "h": 13,
         "doubles": 1,
         "triples": 0,
         "hr": 1,
         "rbi": 5,
-        "tb": 16,
-        "slg": 0.271,
+        "tb": 17,
+        "slg": 0.274,
         "bb": 5,
         "hbp": 1,
-        "so": 14,
+        "so": 15,
         "gdp": 1,
-        "obp": 0.277,
+        "obp": 0.279,
         "sf": 0,
         "sh": 1,
         "sb": 3,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "SS"
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Canisius. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/3 with 0 RBI against Louisiana Tech. Contributed at the plate in the team's L."
     },
     "90eae3a7": {
       "id": "90eae3a7",
@@ -180,24 +189,24 @@
       "num": "5.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.308,
-        "ops": 1.054,
-        "ab": 52,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.309,
+        "ops": 1.043,
+        "ab": 55,
         "r": 16,
-        "h": 16,
+        "h": 17,
         "doubles": 5,
         "triples": 1,
         "hr": 3,
         "rbi": 12,
-        "tb": 32,
-        "slg": 0.615,
-        "bb": 5,
+        "tb": 33,
+        "slg": 0.6,
+        "bb": 6,
         "hbp": 8,
-        "so": 12,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.439,
+        "obp": 0.443,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -205,22 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
           "ab": 3,
-          "r": 3,
-          "h": 2,
-          "rbi": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "2B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 1 RBI against Canisius. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 1/3 with 0 RBI against Louisiana Tech. Contributed at the plate in the team's L."
     },
     "5dd3ac64": {
       "id": "5dd3ac64",
@@ -232,11 +244,11 @@
       "num": "6.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.254,
-        "ops": 0.794,
-        "ab": 59,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.238,
+        "ops": 0.749,
+        "ab": 63,
         "r": 9,
         "h": 15,
         "doubles": 4,
@@ -244,12 +256,12 @@
         "hr": 1,
         "rbi": 6,
         "tb": 22,
-        "slg": 0.373,
+        "slg": 0.349,
         "bb": 16,
         "hbp": 1,
-        "so": 16,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.421,
+        "obp": 0.4,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -257,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "DH"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Canisius. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/4 with 0 RBI against Louisiana Tech. Struggled to make contact."
     },
     "b59e506b": {
       "id": "b59e506b",
@@ -284,11 +299,11 @@
       "num": "7.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.344,
-        "ops": 1.092,
-        "ab": 64,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.328,
+        "ops": 1.054,
+        "ab": 67,
         "r": 15,
         "h": 22,
         "doubles": 5,
@@ -296,12 +311,12 @@
         "hr": 5,
         "rbi": 16,
         "tb": 42,
-        "slg": 0.656,
-        "bb": 11,
+        "slg": 0.627,
+        "bb": 12,
         "hbp": 1,
         "so": 8,
         "gdp": 1,
-        "obp": 0.436,
+        "obp": 0.427,
         "sf": 2,
         "sh": 0,
         "sb": 2,
@@ -309,22 +324,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 3,
-          "bb": 0,
-          "so": 1,
-          "pos": "3B/1B"
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 3 RBI against Canisius. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/3 with 0 RBI against Louisiana Tech. Struggled at the plate but saw 1 walk(s)."
     },
     "e8763579": {
       "id": "e8763579",
@@ -336,11 +354,11 @@
       "num": "8.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 12,
-        "gs": 9,
-        "avg": 0.429,
-        "ops": 1.079,
-        "ab": 28,
+        "g": 13,
+        "gs": 10,
+        "avg": 0.387,
+        "ops": 0.984,
+        "ab": 31,
         "r": 5,
         "h": 12,
         "doubles": 3,
@@ -348,12 +366,12 @@
         "hr": 0,
         "rbi": 5,
         "tb": 15,
-        "slg": 0.536,
+        "slg": 0.484,
         "bb": 7,
         "hbp": 0,
         "so": 6,
         "gdp": 1,
-        "obp": 0.543,
+        "obp": 0.5,
         "sf": 0,
         "sh": 0,
         "sb": 3,
@@ -361,22 +379,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 2,
-          "rbi": 1,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/2 with 1 RBI against Canisius. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/3 with 0 RBI against Louisiana Tech. Struggled to make contact."
     },
     "8bcc0b73": {
       "id": "8bcc0b73",
@@ -407,8 +428,24 @@
         "wp": 1,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "PENN",
+        "result": "W",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against PENN, throwing 1.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "f3a48474": {
       "id": "f3a48474",
@@ -444,8 +481,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Mississippi State",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/mississippi-state/boxscore/34942",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Mississippi State. Struggled to make contact."
     },
     "efe29b7d": {
       "id": "efe29b7d",
@@ -476,8 +531,24 @@
         "wp": 1,
         "opp_avg": ".188"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Mississippi State",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/mississippi-state/boxscore/34942",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Mississippi State, throwing 1.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "5373a04e": {
       "id": "5373a04e",
@@ -489,11 +560,11 @@
       "num": "14.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 13,
-        "gs": 12,
-        "avg": 0.216,
-        "ops": 0.653,
-        "ab": 37,
+        "g": 14,
+        "gs": 13,
+        "avg": 0.2,
+        "ops": 0.61,
+        "ab": 40,
         "r": 4,
         "h": 8,
         "doubles": 2,
@@ -501,20 +572,38 @@
         "hr": 0,
         "rbi": 4,
         "tb": 10,
-        "slg": 0.27,
+        "slg": 0.25,
         "bb": 10,
         "hbp": 0,
-        "so": 12,
+        "so": 13,
         "gdp": 1,
-        "obp": 0.383,
+        "obp": 0.36,
         "sf": 0,
         "sh": 0,
         "sb": 3,
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Louisiana Tech. Struggled to make contact."
     },
     "f9c2f80e": {
       "id": "f9c2f80e",
@@ -548,17 +637,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Canisius",
-        "result": "W 14-1",
+        "result": "W",
         "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34951",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
@@ -582,24 +663,24 @@
       "num": "16.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.328,
-        "ops": 1.004,
-        "ab": 61,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.323,
+        "ops": 0.989,
+        "ab": 65,
         "r": 12,
-        "h": 20,
-        "doubles": 3,
+        "h": 21,
+        "doubles": 4,
         "triples": 1,
         "hr": 4,
         "rbi": 16,
-        "tb": 37,
-        "slg": 0.607,
+        "tb": 39,
+        "slg": 0.6,
         "bb": 3,
         "hbp": 4,
-        "so": 16,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.397,
+        "obp": 0.389,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -607,22 +688,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 1,
-          "rbi": 2,
+          "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 2 RBI against Canisius. Contributed at the plate in the team's W 10-0."
+      "narrative": "Went 1/4 with 0 RBI against Louisiana Tech. Contributed at the plate in the team's L."
     },
     "931f80a7": {
       "id": "931f80a7",
@@ -634,11 +718,11 @@
       "num": "17.0",
       "school": "University of Delaware",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.194,
-        "ops": 0.614,
-        "ab": 62,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.185,
+        "ops": 0.586,
+        "ab": 65,
         "r": 5,
         "h": 12,
         "doubles": 1,
@@ -646,12 +730,12 @@
         "hr": 3,
         "rbi": 17,
         "tb": 24,
-        "slg": 0.387,
+        "slg": 0.369,
         "bb": 2,
         "hbp": 1,
-        "so": 20,
+        "so": 22,
         "gdp": 2,
-        "obp": 0.227,
+        "obp": 0.217,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -659,22 +743,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 2,
-          "rbi": 2,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "LF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 2 RBI against Canisius. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/3 with 0 RBI against Louisiana Tech. Struggled to make contact."
     },
     "19799433": {
       "id": "19799433",
@@ -705,8 +792,24 @@
         "wp": 3,
         "opp_avg": ".216"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "PENN",
+        "result": "W",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against PENN, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "e52b9a51": {
       "id": "e52b9a51",
@@ -737,8 +840,24 @@
         "wp": 0,
         "opp_avg": ".308"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "PENN",
+        "result": "W",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against PENN, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "06a8be6f": {
       "id": "06a8be6f",
@@ -772,17 +891,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Canisius",
-        "result": "W 10-0",
+        "result": "W",
         "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 2,
@@ -833,7 +944,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Canisius",
-        "result": "W 10-0",
+        "result": "W",
         "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
         "batting": {
           "ab": 1,
@@ -842,7 +953,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -877,8 +991,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "PENN",
+        "result": "W",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against PENN, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "169f79e3": {
       "id": "169f79e3",
@@ -912,17 +1042,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Canisius",
-        "result": "W 10-0",
+        "result": "W",
         "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 0,
@@ -971,22 +1093,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
+        "date": "2026-03-10",
+        "opponent": "PENN",
+        "result": "W",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "C"
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 1 RBI against Canisius. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/3 with 0 RBI against PENN. Contributed at the plate in the team's W."
     },
     "056daab8": {
       "id": "056daab8",
@@ -999,50 +1124,42 @@
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.15,
+        "era": 3.94,
         "whip": 1.31,
         "w": 1,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 5,
-        "gs": 3,
-        "ip": 13.0,
-        "h": 10,
-        "r": 7,
-        "er": 6,
-        "bb": 7,
-        "so": 9,
-        "hr": 0,
+        "g": 6,
+        "gs": 4,
+        "ip": 16.0,
+        "h": 13,
+        "r": 8,
+        "er": 7,
+        "bb": 8,
+        "so": 10,
+        "hr": 1,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".217"
+        "opp_avg": ".228"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Canisius",
-        "result": "W 14-1",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34951",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
+        "batting": null,
         "pitching": {
-          "ip": "4.0",
-          "h": 2,
+          "ip": "3.0",
+          "h": 3,
           "r": 1,
           "er": 1,
-          "bb": 2,
-          "so": 4,
-          "wp": 1,
-          "hbp": 1
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Canisius, throwing 4.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
+      "narrative": "Took the mound against Louisiana Tech, throwing 3.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "7f24cc82": {
       "id": "7f24cc82",
@@ -1105,8 +1222,24 @@
         "wp": 2,
         "opp_avg": ".154"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Maryland",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/maryland/boxscore/34949",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 4,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Maryland, throwing 2.1 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
     },
     "d2d43600": {
       "id": "d2d43600",
@@ -1137,8 +1270,24 @@
         "wp": 0,
         "opp_avg": ".254"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "PENN",
+        "result": "W",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against PENN, throwing 3.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "f97773c8": {
       "id": "f97773c8",
@@ -1151,26 +1300,42 @@
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.06,
-        "whip": 1.5,
+        "era": 6.35,
+        "whip": 1.85,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 10.2,
-        "h": 12,
-        "r": 6,
-        "er": 6,
-        "bb": 4,
+        "ip": 11.1,
+        "h": 14,
+        "r": 8,
+        "er": 8,
+        "bb": 7,
         "so": 10,
         "hr": 0,
-        "hbp": 0,
+        "hbp": 1,
         "wp": 1,
-        "opp_avg": ".293"
+        "opp_avg": ".318"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "852ce219": {
       "id": "852ce219",
@@ -1183,50 +1348,42 @@
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.0,
-        "whip": 2.11,
+        "era": 7.36,
+        "whip": 1.82,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 9.0,
+        "ip": 11.0,
         "h": 12,
         "r": 9,
         "er": 9,
-        "bb": 7,
-        "so": 11,
+        "bb": 8,
+        "so": 12,
         "hr": 1,
         "hbp": 0,
-        "wp": 0,
-        "opp_avg": ".324"
+        "wp": 1,
+        "opp_avg": ".286"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Canisius",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34952",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 3,
-          "wp": 0,
+          "so": 1,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Canisius, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Louisiana Tech, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "8294cb3b": {
       "id": "8294cb3b",
@@ -1260,17 +1417,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Canisius",
-        "result": "W 14-1",
+        "result": "W",
         "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/canisius/boxscore/34951",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1295,26 +1444,42 @@
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
-        "era": 28.69,
-        "whip": 4.5,
+        "era": 22.3,
+        "whip": 3.65,
         "w": 0,
         "l": 2,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 2,
-        "ip": 5.1,
-        "h": 16,
-        "r": 17,
-        "er": 17,
-        "bb": 8,
-        "so": 4,
-        "hr": 2,
+        "ip": 7.2,
+        "h": 18,
+        "r": 19,
+        "er": 19,
+        "bb": 10,
+        "so": 6,
+        "hr": 3,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".516"
+        "opp_avg": ".439"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Louisiana Tech",
+        "result": "L",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/louisiana-tech/boxscore/34954",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisiana Tech, throwing 2.1 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "df3cd0d1": {
       "id": "df3cd0d1",
@@ -1345,8 +1510,24 @@
         "wp": 4,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "PENN",
+        "result": "W",
+        "boxscore_url": "https://www.bluehens.com/sports/baseball/stats/2026/penn/boxscore/34953",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against PENN, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

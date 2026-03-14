@@ -2,16 +2,16 @@
   "school": "University of Southern California",
   "base_url": "https://usctrojans.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:27:18.081473Z",
+  "generated_at": "2026-03-14T16:21:18.169719Z",
   "record": "20-26",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "San Diego",
-    "result": "W 7-6",
-    "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-    "recap_url": "https://usctrojans.com/news/2026/3/11/no-12-usc-baseball-walks-off-san-diego-7-6-in-the-10th",
+    "date": "2026-03-13",
+    "opponent": "Northwestern",
+    "result": "W",
+    "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
+    "recap_url": "https://usctrojans.com/news/2026/3/13/no-12-usc-baseball-run-rules-northwestern-15-1",
     "recap_headline": "Baseball",
-    "recap_text": "LOS ANGELES\n\u2013 The No. 12 USC baseball team kept its perfect record intact with a 7-6 walkoff victory in the 10\nth\ninning against San Diego on Wednesday night at Dedeaux Field.\nAdrian Lopez\nhit a sacrifice fly to center, scoring\nLogan Honma\nfrom third to move the Trojans to 17-0 on the season. USC's 17-game winning streak is the second longest in program history, trailing only the 1955 team's 19-game winning streak. San Diego falls to 7-9 with the loss.\nThe Trojans took a 5-3 lead into the seventh, but San Diego came up with three runs in the top of the inning to grab a 6-5 advantage.\nWill Stickney\ntied the game with a pinch-hit RBI single in the bottom of the seventh to even it up for USC.\nThe Trojans had the bases loaded with no outs in the ninth, but were unable to push across a run to end the game in regulation. USC again loaded the bases in the 10\nth\n, and this time Lopez came through, plating Honma on a medium depth fly ball to center.\nEight USC pitchers took the mound in the game, with\nAdam Troy\npicking up the victory after tossing a scoreless top of the 10\nth\n.\nBen Cushnie\nworked scoreless eighth and ninth innings for the Trojans in his season debut.\nAce Whitehead\nalso had a scoreless outing, getting the start and tossing 2.0 innings in his USC debut.\nThe Toreros scored twice in the fourth inning to take a 2-1 lead, but for the second game in a row,\nAndrew Lamb\nsparked the offense with a three-run homer in the bottom half of the inning. It was Lamb's third homer of the year.\nThe visitors cut it back to a one-run game in the fifth, loading the bases and scoring on a wild pitch, but\nPaul Grossman\ngot out of the inning with a flyout to center.\nAugie Lopez\ndoubled off the wall in right to score\nJack Basseer\nin the bottom of the sixth to push it to a 5-3 USC lead.\nTOP PERFORMERS\nAndrew Lamb\n: 1-for-4, 3-R HR, BB\nMaximo Martinez\n: 3-for-5, RBI, R, BB, 2 2B\nAce Whitehead\n: 2.0 IP, 0H, 0R, 0BB, K\nBen Cushnie\n: 2.0 IP, H, 0R, 2BB\nCOMING UP\nUSC hits the road against Northwestern this weekend, with all three games broadcast on B1G+."
+    "recap_text": "EVANSTON, Ill.\n\u2013 The No. 12 USC baseball team hit four home runs to take down Northwestern, 15-1, in seven innings on Friday afternoon in Evanston, moving to 18-0 on the season.\nUSC had 13 hits and also got another stellar performance on the mound from\nMason Edwards\nto move to 4-0 in Big Ten play. Northwestern falls to 6-8-1 overall and 0-1 in conference action.\nAbbrie Covarrubias\nand\nAdrian Lopez\neach hit two-run homers in the third inning as USC would score in each of the last five frames to pick up their third run-rule victory of the season. Lopez finished with three hits and four RBI, falling just a double short of a cycle.\nAndrew Lamb\nhomered in the fourth and\nRichard Tejeda\nhomered in the fifth. Tejeda's two-run shot in the fifth was part of a six-run innings for USC. Lamb has now homered in three straight games.\nEdwards tossed 6.0 innings, giving up three hits and just his first run of the season on a wind-aided home run to center. Edwards struck out 10 batters and walked just one. Through five starts on the year, he now owns a 0.30 ERA, with 52 strikeouts and 11 walks.\nFour Trojans had multiple hits and RBI in the game. Lopez's four RBI led the way, followed by Tejeda with three, and Covarrubias and\nKevin Takeuchi\nwith two.\nHenry Chabot\nset the side down in order in the seventh to end the game.\nTOP PERFORMERS\nAdrian Lopez\n: 3-for-4, 4 RBI, 3R, 2-R HR, 3B, BB\nAbbrie Covarrubias\n: 2-for-5, 2 RBI, 2R, 2-R HR\nRichard Tejeda\n: 1-for-3, 3 RBI, 2R, 2-R HR\nMason Edwards\n: 6.0 IP, 3H, R, BB, 10K\nCOMING UP\nUSC and Northwestern will wrap their series up with a doubleheader on Saturday. Both games will be broadcast on B1G+."
   },
   "players": {
     "9ac4bd58": {
@@ -48,8 +48,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Cal Poly",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/cal-poly/boxscore/35059",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Cal Poly. Struggled to make contact."
     },
     "faa9ae8a": {
       "id": "faa9ae8a",
@@ -106,7 +124,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
         "batting": {
           "ab": 1,
@@ -115,9 +133,21 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": null
+        "pitching": {
+          "ip": "1.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
       },
       "narrative": "Went 0/1 with 0 RBI against San Diego. Struggled to make contact."
     },
@@ -131,24 +161,24 @@
       "num": "5.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 13,
-        "gs": 11,
-        "avg": 0.237,
-        "ops": 0.828,
-        "ab": 38,
-        "r": 6,
-        "h": 9,
-        "doubles": 5,
+        "g": 14,
+        "gs": 12,
+        "avg": 0.244,
+        "ops": 0.856,
+        "ab": 41,
+        "r": 7,
+        "h": 10,
+        "doubles": 6,
         "triples": 0,
         "hr": 2,
         "rbi": 12,
-        "tb": 20,
-        "slg": 0.526,
-        "bb": 4,
+        "tb": 22,
+        "slg": 0.537,
+        "bb": 5,
         "hbp": 0,
-        "so": 12,
+        "so": 13,
         "gdp": 1,
-        "obp": 0.302,
+        "obp": 0.319,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -156,22 +186,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 2,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "ab": 4,
+          "r": 3,
+          "h": 3,
+          "rbi": 4,
+          "bb": 1,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 1 RBI against San Diego. Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 3/4 with 4 RBI against Northwestern. Hit 1 home run(s). Had an outstanding performance at the plate (0.750)."
     },
     "a5f901fc": {
       "id": "a5f901fc",
@@ -210,7 +243,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Long Beach State",
-        "result": "W 6-1",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/long-beach-state/boxscore/35066",
         "batting": {
           "ab": 3,
@@ -219,7 +252,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -235,19 +271,19 @@
       "num": "7.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.294,
-        "ops": 0.797,
-        "ab": 68,
-        "r": 19,
-        "h": 20,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.301,
+        "ops": 0.838,
+        "ab": 73,
+        "r": 21,
+        "h": 22,
         "doubles": 2,
         "triples": 1,
-        "hr": 1,
-        "rbi": 5,
-        "tb": 27,
-        "slg": 0.397,
+        "hr": 2,
+        "rbi": 7,
+        "tb": 32,
+        "slg": 0.438,
         "bb": 11,
         "hbp": 1,
         "so": 13,
@@ -260,22 +296,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
           "ab": 5,
-          "r": 0,
+          "r": 2,
           "h": 2,
-          "rbi": 0,
-          "bb": 1,
+          "rbi": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against San Diego. Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 2/5 with 2 RBI against Northwestern. Hit 1 home run(s). Had an outstanding performance at the plate (0.400)."
     },
     "67459076": {
       "id": "67459076",
@@ -287,24 +326,24 @@
       "num": "8.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.371,
-        "ops": 1.074,
-        "ab": 62,
-        "r": 16,
-        "h": 23,
-        "doubles": 6,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.358,
+        "ops": 1.041,
+        "ab": 67,
+        "r": 17,
+        "h": 24,
+        "doubles": 7,
         "triples": 3,
         "hr": 1,
-        "rbi": 13,
-        "tb": 38,
-        "slg": 0.613,
+        "rbi": 15,
+        "tb": 40,
+        "slg": 0.597,
         "bb": 10,
         "hbp": 2,
-        "so": 10,
+        "so": 11,
         "gdp": 1,
-        "obp": 0.461,
+        "obp": 0.444,
         "sf": 2,
         "sh": 0,
         "sb": 5,
@@ -312,22 +351,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 1,
-          "h": 2,
-          "rbi": 0,
-          "bb": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
           "so": 1,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against San Diego. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/5 with 2 RBI against Northwestern. Struggled to make contact."
     },
     "b565f58d": {
       "id": "b565f58d",
@@ -339,47 +381,50 @@
       "num": "9.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.25,
-        "ops": 0.599,
-        "ab": 56,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.237,
+        "ops": 0.569,
+        "ab": 59,
         "r": 5,
         "h": 14,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
-        "rbi": 9,
+        "rbi": 10,
         "tb": 17,
-        "slg": 0.304,
+        "slg": 0.288,
         "bb": 4,
         "hbp": 0,
         "so": 5,
         "gdp": 1,
-        "obp": 0.295,
+        "obp": 0.281,
         "sf": 1,
-        "sh": 4,
+        "sh": 5,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
-          "pos": "SS"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against San Diego. Contributed at the plate in the team's W 7-6."
+      "narrative": "Went 0/3 with 1 RBI against Northwestern. Struggled to make contact."
     },
     "4bbaa6c0": {
       "id": "4bbaa6c0",
@@ -391,24 +436,24 @@
       "num": "10.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 11,
-        "gs": 9,
-        "avg": 0.385,
-        "ops": 1.082,
-        "ab": 39,
-        "r": 9,
-        "h": 15,
+        "g": 12,
+        "gs": 10,
+        "avg": 0.386,
+        "ops": 1.051,
+        "ab": 44,
+        "r": 11,
+        "h": 17,
         "doubles": 6,
         "triples": 0,
         "hr": 1,
         "rbi": 10,
-        "tb": 24,
-        "slg": 0.615,
+        "tb": 26,
+        "slg": 0.591,
         "bb": 6,
         "hbp": 0,
         "so": 7,
         "gdp": 0,
-        "obp": 0.467,
+        "obp": 0.46,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -416,22 +461,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
           "ab": 5,
-          "r": 1,
-          "h": 3,
-          "rbi": 1,
-          "bb": 1,
-          "so": 1,
-          "pos": "3B"
+          "r": 2,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/5 with 1 RBI against San Diego. Had an outstanding performance at the plate (0.600)."
+      "narrative": "Went 2/5 with 0 RBI against Northwestern. Had an outstanding performance at the plate (0.400)."
     },
     "00ee6308": {
       "id": "00ee6308",
@@ -468,22 +516,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-02-28",
+        "opponent": "Cal Poly",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/cal-poly/boxscore/35059",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PR"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 0 RBI against Cal Poly. Struggled to make contact."
     },
     "060c5828": {
       "id": "060c5828",
@@ -517,17 +568,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Illinois",
-        "result": "W 5-3",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/illinois/boxscore/35065",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.2",
           "h": 5,
@@ -551,24 +594,24 @@
       "num": "14.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.35,
-        "ops": 1.244,
-        "ab": 40,
-        "r": 14,
-        "h": 14,
-        "doubles": 3,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.349,
+        "ops": 1.239,
+        "ab": 43,
+        "r": 16,
+        "h": 15,
+        "doubles": 4,
         "triples": 1,
         "hr": 4,
-        "rbi": 11,
-        "tb": 31,
-        "slg": 0.775,
-        "bb": 5,
+        "rbi": 12,
+        "tb": 33,
+        "slg": 0.767,
+        "bb": 6,
         "hbp": 4,
         "so": 10,
         "gdp": 0,
-        "obp": 0.469,
+        "obp": 0.472,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -576,22 +619,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
           "ab": 3,
           "r": 2,
           "h": 1,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 1,
-          "so": 2,
-          "pos": "RF"
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against San Diego. Contributed at the plate in the team's W 7-6."
+      "narrative": "Went 1/3 with 1 RBI against Northwestern. Contributed at the plate in the team's W."
     },
     "71c56694": {
       "id": "71c56694",
@@ -628,22 +674,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-06",
+        "opponent": "Illinois",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/illinois/boxscore/35063",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "LF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Illinois. Struggled to make contact."
     },
     "e8d72b5b": {
       "id": "e8d72b5b",
@@ -679,8 +728,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Cal Poly",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/cal-poly/boxscore/35059",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Cal Poly. Had an outstanding performance at the plate (0.500)."
     },
     "1f4c98ac": {
       "id": "1f4c98ac",
@@ -719,7 +786,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
         "batting": {
           "ab": 2,
@@ -728,7 +795,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -768,8 +838,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Cal Poly",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/cal-poly/boxscore/35059",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Cal Poly. Struggled to make contact."
     },
     "3770dc1e": {
       "id": "3770dc1e",
@@ -803,17 +891,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Long Beach State",
-        "result": "W 6-1",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/long-beach-state/boxscore/35066",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -837,24 +917,24 @@
       "num": "24.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 13,
-        "gs": 11,
-        "avg": 0.237,
-        "ops": 0.828,
-        "ab": 38,
-        "r": 6,
-        "h": 9,
-        "doubles": 5,
+        "g": 14,
+        "gs": 12,
+        "avg": 0.244,
+        "ops": 0.856,
+        "ab": 41,
+        "r": 7,
+        "h": 10,
+        "doubles": 6,
         "triples": 0,
         "hr": 2,
         "rbi": 12,
-        "tb": 20,
-        "slg": 0.526,
-        "bb": 4,
+        "tb": 22,
+        "slg": 0.537,
+        "bb": 5,
         "hbp": 0,
-        "so": 12,
+        "so": 13,
         "gdp": 1,
-        "obp": 0.302,
+        "obp": 0.319,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -862,22 +942,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 2,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "DH"
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 1 RBI against San Diego. Had an outstanding performance at the plate (0.400)."
+      "narrative": "Went 1/3 with 0 RBI against Northwestern. Contributed at the plate in the team's W."
     },
     "a5f6c5ba": {
       "id": "a5f6c5ba",
@@ -911,17 +994,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 1,
@@ -946,14 +1021,14 @@
       "school": "University of Southern California",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.45,
-        "whip": 1.09,
+        "era": 1.93,
+        "whip": 0.86,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 3.2,
+        "ip": 4.2,
         "h": 1,
         "r": 1,
         "er": 1,
@@ -962,34 +1037,26 @@
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".091"
+        "opp_avg": ".071"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Long Beach State",
-        "result": "W 6-1",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/long-beach-state/boxscore/35066",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
+        "batting": null,
         "pitching": {
-          "ip": "2.1",
+          "ip": "1.0",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 3,
+          "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Long Beach State, throwing 2.1 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Northwestern, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "3b947ff1": {
       "id": "3b947ff1",
@@ -1023,17 +1090,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
@@ -1079,17 +1138,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Illinois",
-        "result": "W 5-3",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/illinois/boxscore/35065",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 2,
@@ -1113,24 +1164,24 @@
       "num": "29.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 10,
-        "gs": 10,
-        "avg": 0.25,
-        "ops": 0.96,
-        "ab": 28,
-        "r": 6,
-        "h": 7,
+        "g": 11,
+        "gs": 11,
+        "avg": 0.281,
+        "ops": 1.056,
+        "ab": 32,
+        "r": 8,
+        "h": 9,
         "doubles": 0,
         "triples": 0,
-        "hr": 3,
-        "rbi": 9,
-        "tb": 16,
-        "slg": 0.571,
+        "hr": 4,
+        "rbi": 10,
+        "tb": 21,
+        "slg": 0.656,
         "bb": 4,
         "hbp": 3,
         "so": 6,
         "gdp": 0,
-        "obp": 0.389,
+        "obp": 0.4,
         "sf": 1,
         "sh": 1,
         "sb": 1,
@@ -1138,22 +1189,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 3,
-          "bb": 1,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "LF/C"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 3 RBI against San Diego. Contributed at the plate in the team's W 7-6."
+      "narrative": "Went 2/4 with 1 RBI against Northwestern. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
     },
     "0bf53e5c": {
       "id": "0bf53e5c",
@@ -1166,26 +1220,42 @@
       "school": "University of Southern California",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.54,
-        "w": 3,
+        "era": 0.3,
+        "whip": 0.57,
+        "w": 4,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 24.0,
-        "h": 3,
-        "r": 0,
-        "er": 0,
-        "bb": 10,
-        "so": 42,
-        "hr": 0,
+        "g": 5,
+        "gs": 5,
+        "ip": 30.0,
+        "h": 6,
+        "r": 1,
+        "er": 1,
+        "bb": 11,
+        "so": 52,
+        "hr": 1,
         "hbp": 1,
-        "wp": 1,
-        "opp_avg": ".039"
+        "wp": 2,
+        "opp_avg": ".061"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 10,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Northwestern, throwing 6.0 innings. Struck out 10 while allowing just 3 hit(s) and 1 earned run(s) in a quality start."
     },
     "c330b261": {
       "id": "c330b261",
@@ -1197,24 +1267,24 @@
       "num": "32.0",
       "school": "University of Southern California",
       "season_batting": {
-        "g": 12,
-        "gs": 8,
-        "avg": 0.308,
-        "ops": 0.746,
-        "ab": 26,
-        "r": 2,
-        "h": 8,
+        "g": 13,
+        "gs": 9,
+        "avg": 0.31,
+        "ops": 0.86,
+        "ab": 29,
+        "r": 4,
+        "h": 9,
         "doubles": 1,
         "triples": 0,
-        "hr": 0,
-        "rbi": 5,
-        "tb": 9,
-        "slg": 0.346,
+        "hr": 1,
+        "rbi": 8,
+        "tb": 13,
+        "slg": 0.448,
         "bb": 1,
-        "hbp": 3,
+        "hbp": 4,
         "so": 8,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.412,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -1222,22 +1292,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "San Diego",
-        "result": "W 7-6",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
+        "date": "2026-03-13",
+        "opponent": "Northwestern",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/northwestern/boxscore/35068",
         "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 3,
+          "r": 2,
+          "h": 1,
+          "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 1/3 with 3 RBI against Northwestern. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "09d23d67": {
       "id": "09d23d67",
@@ -1271,17 +1344,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -1327,17 +1392,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 1,
@@ -1383,17 +1440,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 0,
@@ -1436,8 +1485,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-18",
+        "opponent": "Loyola Marymount",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/loyola-marymount/boxscore/35053",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Loyola Marymount, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "9ad0c364": {
       "id": "9ad0c364",
@@ -1471,17 +1536,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 0,
@@ -1532,7 +1589,7 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
         "batting": {
           "ab": 1,
@@ -1541,7 +1598,10 @@
           "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1579,17 +1639,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 1,
@@ -1635,17 +1687,9 @@
       "last_game": {
         "date": "2026-03-11",
         "opponent": "San Diego",
-        "result": "W 7-6",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego/boxscore/35067",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.2",
           "h": 2,
@@ -1691,17 +1735,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Long Beach State",
-        "result": "W 6-1",
+        "result": "W",
         "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/long-beach-state/boxscore/35066",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.2",
           "h": 3,
@@ -1744,8 +1780,24 @@
         "wp": 0,
         "opp_avg": ".126"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Illinois",
+        "result": "W",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/illinois/boxscore/35064",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 6,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Illinois, throwing 7.0 innings. Struck out 2 while allowing just 6 hit(s) and 0 earned run(s) in a quality start."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

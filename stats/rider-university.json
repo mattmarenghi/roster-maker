@@ -2,48 +2,17 @@
   "school": "Rider University",
   "base_url": "https://www.gobroncs.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:00:30.687530Z",
-  "record": "6-5",
+  "generated_at": "2026-03-14T15:26:19.707104Z",
+  "record": "7-5",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Hofstra",
-    "result": "W 16-6",
-    "boxscore_url": "https://www.gobroncs.com/boxscore.aspx?id=13418&path=",
-    "recap_url": "https://www.gobroncs.com/news/2026/3/11/baseball-falls-at-hofstra-in-midweek-matchup.aspx",
-    "recap_headline": "Rider University Athletics",
+    "date": "2026-03-13",
+    "opponent": "SIENA",
+    "result": "",
+    "boxscore_url": "https://www.gobroncs.com/boxscore.aspx?id=13363&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "9e5f54e2": {
-      "id": "9e5f54e2",
-      "name": "Alex D'Ambrosio",
-      "fn": "Alex",
-      "ln": "D'Ambrosio",
-      "pos": "P",
-      "yr": "Jr.",
-      "num": "19.0",
-      "school": "Rider University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Hofstra",
-        "result": "W 16-6",
-        "boxscore_url": "https://www.gobroncs.com/boxscore.aspx?id=13418&path=",
-        "batting": null,
-        "pitching": {
-          "ip": "1.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 2,
-          "so": 1,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Hofstra, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

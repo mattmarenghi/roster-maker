@@ -2,12 +2,12 @@
   "school": "Dartmouth College",
   "base_url": "https://www.dartmouthsports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:33:10.825184Z",
+  "generated_at": "2026-03-14T14:40:58.952664Z",
   "record": "3-7",
   "most_recent_game": {
     "date": "2026-03-08",
     "opponent": "Navy",
-    "result": "W 4-3",
+    "result": "L",
     "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
     "recap_url": "https://www.dartmouthsports.com/news/2026/3/8/baseball-navy-defeats-dartmouth-in-first-extra-inning-game-of-season",
     "recap_headline": "",
@@ -48,8 +48,26 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/5 with 0 RBI against Navy. Struggled to make contact."
     },
     "15d4cc5b": {
       "id": "15d4cc5b",
@@ -85,8 +103,26 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Navy. Struggled to make contact."
     },
     "6aaf469e": {
       "id": "6aaf469e",
@@ -122,8 +158,26 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Navy. Contributed at the plate in the team's L."
     },
     "dc679e47": {
       "id": "dc679e47",
@@ -159,8 +213,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 1 RBI against Navy. Had an outstanding performance at the plate (0.500)."
     },
     "d3eb6899": {
       "id": "d3eb6899",
@@ -196,8 +268,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Navy. Struggled to make contact."
     },
     "ed31da94": {
       "id": "ed31da94",
@@ -233,8 +323,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31372",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Navy. Struggled to make contact."
     },
     "db79d1df": {
       "id": "db79d1df",
@@ -270,8 +378,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Navy. Struggled at the plate but saw 1 walk(s)."
     },
     "62612333": {
       "id": "62612333",
@@ -307,8 +433,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Navy. Struggled to make contact."
     },
     "69661254": {
       "id": "69661254",
@@ -339,8 +483,24 @@
         "wp": 0,
         "opp_avg": ".385"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "LSU",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/lsu/boxscore/31370",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against LSU, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "f0192ac7": {
       "id": "f0192ac7",
@@ -371,8 +531,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31372",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 4,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "150a9c1a": {
       "id": "150a9c1a",
@@ -403,8 +579,24 @@
         "wp": 1,
         "opp_avg": ".189"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "LSU",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/lsu/boxscore/31370",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 3,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 8,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against LSU, throwing 7.0 innings. Struck out 8 while allowing just 3 hit(s) and 1 earned run(s) in a quality start."
     },
     "74eec976": {
       "id": "74eec976",
@@ -440,8 +632,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31373",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Navy. Struggled to make contact."
     },
     "7c72e95b": {
       "id": "7c72e95b",
@@ -477,8 +687,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Navy. Had an outstanding performance at the plate (0.500)."
     },
     "ef5401c0": {
       "id": "ef5401c0",
@@ -514,8 +742,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Navy. Contributed at the plate in the team's L."
     },
     "59b206a8": {
       "id": "59b206a8",
@@ -551,8 +797,26 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31372",
+        "batting": {
+          "ab": 2,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Navy. Had an outstanding performance at the plate (0.500)."
     },
     "0a0afa4f": {
       "id": "0a0afa4f",
@@ -583,8 +847,24 @@
         "wp": 0,
         "opp_avg": ".278"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 2.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "0a4640d5": {
       "id": "0a4640d5",
@@ -615,8 +895,24 @@
         "wp": 0,
         "opp_avg": ".232"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31372",
+        "batting": null,
+        "pitching": {
+          "ip": "6.1",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 8,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 6.1 innings. Struck out 8 while allowing just 4 hit(s) and 2 earned run(s) in a quality start."
     },
     "6f291b50": {
       "id": "6f291b50",
@@ -647,8 +943,24 @@
         "wp": 2,
         "opp_avg": ".136"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "6dfcb8bb": {
       "id": "6dfcb8bb",
@@ -684,8 +996,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Navy. Struggled to make contact."
     },
     "44d205be": {
       "id": "44d205be",
@@ -721,8 +1051,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Navy. Struggled to make contact."
     },
     "e036857d": {
       "id": "e036857d",
@@ -753,8 +1101,24 @@
         "wp": 4,
         "opp_avg": ".267"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31371",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 4,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 4.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "21bd9af9": {
       "id": "21bd9af9",
@@ -785,8 +1149,24 @@
         "wp": 1,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31373",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 4.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
     },
     "f4ed8ef1": {
       "id": "f4ed8ef1",
@@ -817,8 +1197,24 @@
         "wp": 2,
         "opp_avg": ".152"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Navy",
+        "result": "W",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31371",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 3.2 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
     },
     "5cf254d2": {
       "id": "5cf254d2",
@@ -849,8 +1245,24 @@
         "wp": 1,
         "opp_avg": ".325"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31373",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 9,
+          "r": 7,
+          "er": 6,
+          "bb": 3,
+          "so": 5,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 4.0 innings. Allowed 6 earned run(s) with 5 strikeout(s)."
     },
     "ec29fa21": {
       "id": "ec29fa21",
@@ -881,8 +1293,24 @@
         "wp": 0,
         "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.dartmouthsports.com/sports/baseball/stats/2026/navy/boxscore/31374",
+        "batting": null,
+        "pitching": {
+          "ip": "4.1",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Navy, throwing 4.1 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
     },
     "760b3b34": {
       "id": "760b3b34",

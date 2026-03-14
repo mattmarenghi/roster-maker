@@ -2,16 +2,16 @@
   "school": "California State University, Fresno",
   "base_url": "https://www.gobulldogs.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:28:22.354170Z",
-  "record": "7-8",
+  "generated_at": "2026-03-14T14:32:52.827980Z",
+  "record": "24-31",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Cal Poly",
-    "result": "W 13-3",
-    "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
-    "recap_url": "https://www.gobulldogs.com/news/2026/3/10/baseball-dogs-drop-midweek-at-cal-poly-13-3",
+    "date": "2026-03-13",
+    "opponent": "Nevada",
+    "result": "L",
+    "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+    "recap_url": "https://www.gobulldogs.com/news/2026/3/13/baseball-late-nevada-surge-sends-bulldogs-to-9-4-loss-in-mw-opener",
     "recap_headline": "Fresno State Athletics",
-    "recap_text": "SAN LUIS OBISPO, Calif.\n\u2013 The Fresno State baseball team dropped a midweek contest to Cal Poly, 13\u20133, on Tuesday evening at Baggett Stadium.\nThe Bulldogs recorded seven hits in the game and built an early lead, but the Mustangs broke the game open in the middle innings to pull away. Fresno State moved to 7\u20138 on the season with the loss.\nHOW IT HAPPENED\nAfter a scoreless first inning, Fresno State struck first in the second. The Bulldogs pushed across two runs to take an early advantage, with\nMarcus Nolen\ndriving in a run and\nSky Collins\nlater adding an RBI to give Fresno State a 2\u20130 lead.\nCal Poly responded in the bottom half of the inning to trim the deficit, but the Bulldogs added another run in the third inning to extend the lead to 3\u20131.\nGriffen Sotomayor\nand\nJett Ruby\nhelped spark the offense early as Fresno State collected multiple hits through the first three innings.\nThe Mustangs seized control beginning in the third inning, stringing together hits to score multiple runs and flip the momentum. Cal Poly continued to capitalize on opportunities in the fourth and fifth innings, scoring in bunches to take a commanding lead. Fresno State's bullpen worked through the late innings to stabilize things, but the early surge by the Mustangs proved decisive.\nFresno State finished with three runs on seven hits while Cal Poly totaled 13 runs on 12 hits.\nNOTES\nFresno State totaled seven hits and drew three walks.\nSky Collins\nrecorded the Bulldogs' lone RBI hit with runners in scoring position.\nFresno State stole two bases in the game.\nUP NEXT\nThe Bulldogs will open conference play this weekend at home against preseason favorite Nevada. Game one is set for Friday at 6:05 p.m. PT."
+    "recap_text": "FRESNO, Calif. \u2013\nThe Nevada Wolf Pack used early power and a late offensive surge to defeat the Fresno State baseball team, 9\u20134, on Friday night at Pete Beiden Field at Bob Bennett Stadium in the Mountain West opener for both teams.\nWith the loss, Fresno State dropped to 7\u20139 overall and 0\u20131 in conference play, while Nevada improved to 9\u20136 and 1\u20130 in the Mountain West.\nGriffen Sotomayor\nled the Bulldogs offensively, going 3-for-4 with two home runs, three RBIs and three runs scored.\nJett Ruby\nadded two hits and an RBI, while\nBrady Hewitt\nfinished with two hits and a double.\nNevada starter Alvaro Castro earned the win after allowing three runs over five innings, while reliever Brainard picked up the save with four innings of work. Fresno State starter\nTyler Patrick\nwas charged with the loss.\nHOW IT HAPPENED\nNevada jumped out to an early lead in the opening inning. After reaching on an error, the Wolf Pack capitalized with back-to-back home runs from Kwon and Matsuzaki to take a 3\u20130 advantage.\nFresno State answered in the bottom half when\nGriffen Sotomayor\nlaunched a solo home run to right field to put the Bulldogs on the board.\nThe Bulldogs tied the game in the third inning.\nBrady Hewitt\nsparked the rally with a ground-rule double before Sotomayor struck again, blasting a two-run homer to deep left to make it 3\u20133.\nNevada regained the lead in the fourth inning, taking advantage of a pair of defensive miscues and a run-scoring single from Blythe to go back in front 5\u20133.\nFresno State trimmed the deficit to one in the sixth inning when Sotomayor singled and later scored on an RBI single from\nJett Ruby\n, cutting the Wolf Pack lead to 5\u20134.\nNevada pulled away in the eighth inning. Matsuzaki led off with his second home run of the game, and the Wolf Pack added three more runs on a double by Harvey, a sacrifice fly from Quiban and an error that allowed another run to score, extending the lead to 9\u20134.\nThe Bulldogs put two runners aboard in the ninth but were unable to mount a comeback as Nevada closed out the series opener.\nNOTES\nGriffen Sotomayor\nrecorded his first multi-home run game of the season.\nSotomayor finished 3-for-4 with three runs and three RBIs.\nBrady Hewitt\ncollected two hits, including a double.\nJett Ruby\ndrove in a run with a sixth-inning single.\nFresno State committed three errors in the game.\nUP NEXT\nThe Bulldogs will continue the series against the Wolf Pack on Saturday, March 14, at 3:05 p.m. PT."
   },
   "players": {
     "849e02f1": {
@@ -43,8 +43,24 @@
         "wp": 2,
         "opp_avg": ".304"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/arizona/boxscore/18991",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Arizona, throwing 2.0 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "6fb1ddc2": {
       "id": "6fb1ddc2",
@@ -56,32 +72,50 @@
       "num": "9.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.298,
-        "ops": 0.719,
-        "ab": 57,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.311,
+        "ops": 0.736,
+        "ab": 61,
         "r": 11,
-        "h": 17,
+        "h": 19,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 7,
-        "tb": 18,
-        "slg": 0.316,
+        "rbi": 8,
+        "tb": 20,
+        "slg": 0.328,
         "bb": 8,
         "hbp": 2,
         "so": 7,
         "gdp": 1,
-        "obp": 0.403,
+        "obp": 0.408,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 1 RBI against Nevada. Had an outstanding performance at the plate (0.500)."
     },
     "a0193886": {
       "id": "a0193886",
@@ -93,32 +127,50 @@
       "num": "10.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.286,
-        "ops": 0.825,
-        "ab": 56,
-        "r": 14,
-        "h": 16,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.317,
+        "ops": 0.965,
+        "ab": 60,
+        "r": 17,
+        "h": 19,
         "doubles": 4,
         "triples": 0,
-        "hr": 1,
-        "rbi": 11,
-        "tb": 23,
-        "slg": 0.411,
+        "hr": 3,
+        "rbi": 14,
+        "tb": 32,
+        "slg": 0.533,
         "bb": 11,
         "hbp": 2,
-        "so": 11,
+        "so": 12,
         "gdp": 4,
-        "obp": 0.414,
+        "obp": 0.432,
         "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 4,
+          "r": 3,
+          "h": 3,
+          "rbi": 3,
+          "bb": 0,
+          "so": 1,
+          "hr": 2,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 3/4 with 3 RBI against Nevada. Hit 2 home run(s). Had an outstanding performance at the plate (0.750)."
     },
     "e8d1ea4b": {
       "id": "e8d1ea4b",
@@ -130,32 +182,50 @@
       "num": "11.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.333,
-        "ops": 0.962,
-        "ab": 63,
-        "r": 11,
-        "h": 21,
-        "doubles": 6,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.343,
+        "ops": 0.979,
+        "ab": 67,
+        "r": 12,
+        "h": 23,
+        "doubles": 7,
         "triples": 3,
         "hr": 1,
         "rbi": 4,
-        "tb": 36,
-        "slg": 0.571,
+        "tb": 39,
+        "slg": 0.582,
         "bb": 6,
         "hbp": 0,
-        "so": 12,
+        "so": 13,
         "gdp": 1,
-        "obp": 0.391,
+        "obp": 0.397,
         "sf": 0,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 0 RBI against Nevada. Had an outstanding performance at the plate (0.500)."
     },
     "29606be4": {
       "id": "29606be4",
@@ -167,10 +237,10 @@
       "num": "12.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 5,
+        "g": 6,
         "gs": 0,
         "avg": 0.0,
-        "ops": 0.2,
+        "ops": 0.333,
         "ab": 4,
         "r": 0,
         "h": 0,
@@ -180,19 +250,37 @@
         "rbi": 0,
         "tb": 0,
         "slg": 0.0,
-        "bb": 0,
+        "bb": 1,
         "hbp": 1,
         "so": 0,
         "gdp": 0,
-        "obp": 0.2,
+        "obp": 0.333,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/arizona/boxscore/18988",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Arizona. Struggled to make contact."
     },
     "f4a506eb": {
       "id": "f4a506eb",
@@ -228,8 +316,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Cal Poly",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Cal Poly. Struggled to make contact."
     },
     "6fcc4ee0": {
       "id": "6fcc4ee0",
@@ -241,11 +347,11 @@
       "num": "14.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 4,
-        "gs": 4,
-        "avg": 0.313,
-        "ops": 0.646,
-        "ab": 16,
+        "g": 5,
+        "gs": 5,
+        "avg": 0.25,
+        "ops": 0.523,
+        "ab": 20,
         "r": 1,
         "h": 5,
         "doubles": 0,
@@ -253,20 +359,38 @@
         "hr": 0,
         "rbi": 4,
         "tb": 5,
-        "slg": 0.313,
+        "slg": 0.25,
         "bb": 1,
         "hbp": 0,
         "so": 1,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.273,
         "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Nevada. Struggled to make contact."
     },
     "8616aeb7": {
       "id": "8616aeb7",
@@ -279,26 +403,42 @@
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.78,
+        "era": 2.08,
+        "whip": 0.85,
         "w": 0,
         "l": 0,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 9.0,
-        "h": 4,
-        "r": 1,
-        "er": 0,
-        "bb": 3,
-        "so": 7,
-        "hr": 0,
-        "hbp": 5,
-        "wp": 1,
-        "opp_avg": ".138"
+        "ip": 13.0,
+        "h": 6,
+        "r": 5,
+        "er": 3,
+        "bb": 5,
+        "so": 12,
+        "hr": 1,
+        "hbp": 7,
+        "wp": 2,
+        "opp_avg": ".140"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 2,
+          "r": 4,
+          "er": 3,
+          "bb": 2,
+          "so": 5,
+          "wp": 1,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Nevada, throwing 4.0 innings. Allowed 3 earned run(s) with 5 strikeout(s)."
     },
     "11b554d9": {
       "id": "11b554d9",
@@ -310,11 +450,11 @@
       "num": "21.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.294,
-        "ops": 0.727,
-        "ab": 51,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.268,
+        "ops": 0.668,
+        "ab": 56,
         "r": 19,
         "h": 15,
         "doubles": 1,
@@ -322,20 +462,38 @@
         "hr": 0,
         "rbi": 4,
         "tb": 16,
-        "slg": 0.314,
+        "slg": 0.286,
         "bb": 7,
         "hbp": 4,
-        "so": 8,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.413,
+        "obp": 0.382,
         "sf": 1,
         "sh": 0,
         "sb": 3,
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/5 with 0 RBI against Nevada. Struggled to make contact."
     },
     "6857ff4e": {
       "id": "6857ff4e",
@@ -347,11 +505,11 @@
       "num": "30.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.351,
-        "ops": 0.87,
-        "ab": 57,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.333,
+        "ops": 0.837,
+        "ab": 60,
         "r": 12,
         "h": 20,
         "doubles": 3,
@@ -359,20 +517,38 @@
         "hr": 0,
         "rbi": 10,
         "tb": 25,
-        "slg": 0.439,
+        "slg": 0.417,
         "bb": 4,
-        "hbp": 4,
-        "so": 15,
+        "hbp": 5,
+        "so": 16,
         "gdp": 0,
-        "obp": 0.431,
+        "obp": 0.42,
         "sf": 0,
         "sh": 1,
         "sb": 7,
         "sb_att": 9
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Nevada. Struggled to make contact."
     },
     "705b9c86": {
       "id": "705b9c86",
@@ -408,8 +584,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/arizona/boxscore/18991",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Arizona. Struggled to make contact."
     },
     "8c62b19f": {
       "id": "8c62b19f",
@@ -421,11 +615,11 @@
       "num": "32.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 14,
-        "gs": 10,
-        "avg": 0.395,
-        "ops": 1.015,
-        "ab": 43,
+        "g": 15,
+        "gs": 11,
+        "avg": 0.37,
+        "ops": 0.963,
+        "ab": 46,
         "r": 10,
         "h": 17,
         "doubles": 4,
@@ -433,20 +627,38 @@
         "hr": 0,
         "rbi": 12,
         "tb": 23,
-        "slg": 0.535,
+        "slg": 0.5,
         "bb": 4,
-        "hbp": 3,
+        "hbp": 4,
         "so": 6,
         "gdp": 0,
-        "obp": 0.48,
+        "obp": 0.463,
         "sf": 0,
         "sh": 0,
         "sb": 4,
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Nevada. Struggled to make contact."
     },
     "8af69f0f": {
       "id": "8af69f0f",
@@ -458,11 +670,11 @@
       "num": "33.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.214,
-        "ops": 0.674,
-        "ab": 56,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.203,
+        "ops": 0.652,
+        "ab": 59,
         "r": 10,
         "h": 12,
         "doubles": 2,
@@ -470,20 +682,38 @@
         "hr": 2,
         "rbi": 16,
         "tb": 22,
-        "slg": 0.393,
-        "bb": 5,
+        "slg": 0.373,
+        "bb": 6,
         "hbp": 1,
-        "so": 18,
+        "so": 20,
         "gdp": 0,
-        "obp": 0.281,
+        "obp": 0.279,
         "sf": 2,
         "sh": 1,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Nevada. Struggled at the plate but saw 1 walk(s)."
     },
     "8e1b26fc": {
       "id": "8e1b26fc",
@@ -517,20 +747,21 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Cal Poly",
-        "result": "W 13-3",
+        "result": "L",
         "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
-        "batting": {
-          "ab": 4,
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
           "r": 0,
-          "h": 4,
-          "rbi": 3,
+          "er": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "DH"
-        },
-        "pitching": null
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 4/4 with 3 RBI against Cal Poly. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Took the mound against Cal Poly, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "847f625a": {
       "id": "847f625a",
@@ -566,8 +797,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/arizona/boxscore/18991",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Arizona. Struggled to make contact."
     },
     "e233689e": {
       "id": "e233689e",
@@ -579,11 +828,11 @@
       "num": "36.0",
       "school": "California State University, Fresno",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.194,
-        "ops": 0.518,
-        "ab": 36,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.179,
+        "ops": 0.481,
+        "ab": 39,
         "r": 1,
         "h": 7,
         "doubles": 2,
@@ -591,20 +840,38 @@
         "hr": 0,
         "rbi": 6,
         "tb": 9,
-        "slg": 0.25,
+        "slg": 0.231,
         "bb": 4,
         "hbp": 0,
-        "so": 8,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.268,
+        "obp": 0.25,
         "sf": 1,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Nevada. Struggled to make contact."
     },
     "9ad61f09": {
       "id": "9ad61f09",
@@ -635,8 +902,24 @@
         "wp": 0,
         "opp_avg": ".154"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Cal Poly",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Cal Poly, throwing 0.2 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "b27a4546": {
       "id": "b27a4546",
@@ -649,26 +932,42 @@
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.23,
-        "whip": 2.04,
+        "era": 6.55,
+        "whip": 2.09,
         "w": 1,
-        "l": 2,
+        "l": 3,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 18.2,
-        "h": 32,
-        "r": 16,
-        "er": 15,
-        "bb": 6,
-        "so": 11,
-        "hr": 4,
+        "g": 5,
+        "gs": 5,
+        "ip": 22.0,
+        "h": 39,
+        "r": 21,
+        "er": 16,
+        "bb": 7,
+        "so": 14,
+        "hr": 6,
         "hbp": 3,
-        "wp": 0,
-        "opp_avg": ".381"
+        "wp": 1,
+        "opp_avg": ".386"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Nevada",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18993",
+        "batting": null,
+        "pitching": {
+          "ip": "3.1",
+          "h": 7,
+          "r": 5,
+          "er": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Nevada, throwing 3.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
     },
     "7858d1cd": {
       "id": "7858d1cd",
@@ -699,8 +998,24 @@
         "wp": 3,
         "opp_avg": ".429"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Cal Poly",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Cal Poly, throwing 1.2 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "8cbbbff8": {
       "id": "8cbbbff8",
@@ -736,8 +1051,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-20",
+        "opponent": "Pepperdine",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/pepperdine/boxscore/18979",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Pepperdine. Struggled to make contact."
     },
     "3bc1b79d": {
       "id": "3bc1b79d",
@@ -768,8 +1101,24 @@
         "wp": 3,
         "opp_avg": ".429"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Cal Poly",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Cal Poly, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "23c2c50b": {
       "id": "23c2c50b",
@@ -800,8 +1149,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/arizona/boxscore/18991",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Arizona, throwing 0.2 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
     },
     "a962eb5a": {
       "id": "a962eb5a",
@@ -832,8 +1197,24 @@
         "wp": 1,
         "opp_avg": ".284"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/arizona/boxscore/18991",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 8,
+          "r": 7,
+          "er": 7,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Arizona, throwing 4.0 innings. Allowed 7 earned run(s) with 1 strikeout(s)."
     },
     "98f5d685": {
       "id": "98f5d685",
@@ -864,8 +1245,24 @@
         "wp": 1,
         "opp_avg": ".094"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/arizona/boxscore/18988",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Arizona, throwing 3.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "54eeb4eb": {
       "id": "54eeb4eb",
@@ -878,26 +1275,42 @@
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.35,
-        "whip": 0.91,
+        "era": 1.93,
+        "whip": 0.75,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 1,
-        "ip": 7.2,
+        "ip": 9.1,
         "h": 4,
         "r": 2,
         "er": 2,
         "bb": 3,
-        "so": 7,
+        "so": 8,
         "hr": 0,
         "hbp": 4,
-        "wp": 2,
-        "opp_avg": ".154"
+        "wp": 3,
+        "opp_avg": ".129"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Cal Poly",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Cal Poly, throwing 2.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "0c39540d": {
       "id": "0c39540d",
@@ -928,8 +1341,24 @@
         "wp": 0,
         "opp_avg": ".212"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Cal Poly",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Cal Poly, throwing 0.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "66e9c7aa": {
       "id": "66e9c7aa",
@@ -960,8 +1389,24 @@
         "wp": 3,
         "opp_avg": ".205"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Cal Poly",
+        "result": "L",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/cal-poly/boxscore/18992",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Cal Poly, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "a6c3f5e0": {
       "id": "a6c3f5e0",
@@ -992,8 +1437,24 @@
         "wp": 0,
         "opp_avg": ".389"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-15",
+        "opponent": "Utah",
+        "result": "W",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/utah/boxscore/18977",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 7,
+          "r": 7,
+          "er": 6,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Utah, throwing 3.0 innings. Allowed 6 earned run(s) with 4 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

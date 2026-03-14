@@ -2,16 +2,16 @@
   "school": "Marshall University",
   "base_url": "https://www.herdzone.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:48:10.111670Z",
-  "record": "8-8",
+  "generated_at": "2026-03-14T15:06:35.326097Z",
+  "record": "13-22",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "Louisville",
-    "result": "W 18-8",
-    "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
-    "recap_url": "https://www.herdzone.com/news/2026/3/11/marshall-baseball-falls-on-wednesday-afternoon-in-louisville",
+    "date": "2026-03-13",
+    "opponent": "Georgia St.",
+    "result": "W",
+    "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
+    "recap_url": "https://www.herdzone.com/news/2026/3/13/herd-baseball-opens-sbc-action-with-win-over-georgia-state",
     "recap_headline": "Marshall University Athletics",
-    "recap_text": "Buy Tickets Here\n|\nBox Score (PDF)\n|\nChampionship Fund\nLOUISVILLE, Ky. \u2013\nThe Marshall University Baseball team (8-8) dropped an 18-8 decision in seven innings in Louisville on Wednesday afternoon.\n\"Obviously, we had a tough two days here in Louisville especially on the mound,\" Herd Baseball Head Coach\nGreg Beals\nsaid. \"They have a strong offense and with the wind blowing out we didn't handle it very well. We pitched behind on count entirely too much and we paid for it.\"\nEvan Bottone\n,\nCam Harthan\n,\nAJ Havrilla\n,\nJack Smith\nand\nWil Gubba\nall had multi-hit efforts for the Herd. All five also tallied an RBI with Harthan registering two on a pair of singles.\nMarshall tallied a run in the first, second and fifth innings with the run in the fifth coming on Bottone's team-leading fifth homer of the season. The visitors also tallied three runs in the sixth and a pair in the seventh.\nTim Baird\nhurled a scoreless bottom of the fifth out of the bullpen.\n\"Our preseason has ended and we start conference play Friday. At 8-8 we need to take the lessons of these first 16 games and learn from the good and the bad. It is time to freshen up and begin a new season - sunbelt season,\" Beals said.\nThe Cardinals scored one run in the first, seven in the second, four in the third, five in the fourth and one in the sixth.\nLouisville's offense was led by Tague Davis, who had three hits including a pair of home runs, with eight RBI as he leads the NCAA with 39 this season.\nUP NEXT\nThe Herd prepares to begin Sun Belt Conference action on Friday to start a three-game series against Georgia State at Jack Cook Field.\nTo donate to the Championship Fund for Marshall baseball, please click\nHERE\n. All proceeds go directly to the Marshall baseball team.\nPar Mar is the presenting sponsor of the 2026 Marshall baseball team. Par Mar is the official convenience store of Marshall Athletics.\nFor all the latest information about Marshall baseball, follow @herdbaseball on Twitter and Instagram.\nTo follow all Thundering Herd sports and get live stats, schedules and free live audio, download the Marshall Athletics App for iOS and Android.\n---HerdZone.com---"
+    "recap_text": "Buy Tickets Here\n|\nBox Score (PDF)\n|\nChampionship Fund\nHUNTINGTON, W.Va. \u2013\nThe Marshall University Baseball team (9-8, 1-0 SBC) opened Sun Belt Conference play with a 5-2 win over the Georgia State Panthers on Friday evening at Jack Cook Field.\n\"It's great to get the first one of the series and Sun Belt play,\" Herd Baseball Head Coach\nGreg Beals\nsaid. \"I really like how we played. We had competitive at bats. We played great defense. Obviously,\nBryce Blevins\nwas really good today, took us all the way into the ninth inning, and then\nCharlie Krebs\ncame in and did what he did. Got a punch out and an out to shut it down for us. Really good ballgame all the way around and good to be on the winning side.\"\nStarting pitcher\nBryce Blevins\nearned his fourth win of the season with 8.1 innings on the bump allowing just two runs on five hits and a walk with 10 strikeouts.\nCharlie Krebs\ncame on from the bullpen retiring the two batters he faced for his third save of the season.\nAt the plate,\nEvan Bottone\nand\nCooper Hinson\neach had multi-hit contests with\nCleary Simpson\ndriving in two runs.\nThe Herd gave Blevins run support early with a pair of runs in the bottom of the first with Botton scoring on a two-out single by Hinson and\nEthan Murdoch\nscoring\nAJ Havrilla\nwith a two-out double down the right-field line.\nThen in the fifth,\nTyler Kamerer\nand\nJackson Golden\nscored on a Simpson double down the right-field line. Simpson then crossed home on a Havrilla single to center to make it 5-0.\nBlevins had 1-2-3 third, fourth and sixth innings.\nGeorgia State tallied both of its runs in the ninth, but Krebs came on for the final two outs and stranded a runner at second to end the game.\nUP NEXT\nThe Herd is set for game two against the Panthers on Saturday at 4 p.m.\nTo donate to the Championship Fund for Marshall baseball, please click\nHERE\n. All proceeds go directly to the Marshall baseball team.\nPar Mar is the presenting sponsor of the 2026 Marshall baseball team. Par Mar is the official convenience store of Marshall Athletics.\nFor all the latest information about Marshall baseball, follow @herdbaseball on Twitter and Instagram.\nTo follow all Thundering Herd sports and get live stats, schedules and free live audio, download the Marshall Athletics App for iOS and Android.\n---HerdZone.com---"
   },
   "players": {
     "45a9127e": {
@@ -24,24 +24,24 @@
       "num": "2.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.359,
-        "ops": 0.964,
-        "ab": 64,
-        "r": 17,
-        "h": 23,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.353,
+        "ops": 0.937,
+        "ab": 68,
+        "r": 18,
+        "h": 24,
         "doubles": 9,
         "triples": 0,
         "hr": 1,
         "rbi": 12,
-        "tb": 35,
-        "slg": 0.547,
+        "tb": 36,
+        "slg": 0.529,
         "bb": 6,
         "hbp": 1,
         "so": 7,
         "gdp": 1,
-        "obp": 0.417,
+        "obp": 0.408,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
         "batting": {
-          "ab": 3,
-          "r": 3,
-          "h": 2,
-          "rbi": 2,
-          "bb": 1,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 2 RBI against St Bonaventure. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 1/4 with 0 RBI against Georgia St.. Contributed at the plate in the team's W."
     },
     "b7f29336": {
       "id": "b7f29336",
@@ -76,24 +79,24 @@
       "num": "3.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.418,
-        "ops": 1.249,
-        "ab": 55,
-        "r": 20,
-        "h": 23,
-        "doubles": 0,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.431,
+        "ops": 1.276,
+        "ab": 58,
+        "r": 21,
+        "h": 25,
+        "doubles": 1,
         "triples": 1,
         "hr": 5,
         "rbi": 14,
-        "tb": 40,
-        "slg": 0.727,
+        "tb": 43,
+        "slg": 0.741,
         "bb": 7,
-        "hbp": 5,
+        "hbp": 6,
         "so": 10,
         "gdp": 1,
-        "obp": 0.522,
+        "obp": 0.535,
         "sf": 0,
         "sh": 2,
         "sb": 4,
@@ -101,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
         "batting": {
           "ab": 3,
-          "r": 3,
+          "r": 1,
           "h": 2,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 0 RBI against St Bonaventure. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 2/3 with 0 RBI against Georgia St.. Had an outstanding performance at the plate (0.667)."
     },
     "6aac889b": {
       "id": "6aac889b",
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-10",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11358",
         "batting": {
           "ab": 3,
-          "r": 3,
-          "h": 2,
-          "rbi": 4,
-          "bb": 1,
-          "so": 0,
-          "pos": "RF"
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 4 RBI against St Bonaventure. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 0/3 with 0 RBI against Louisville. Struggled to make contact."
     },
     "2e9ab64d": {
       "id": "2e9ab64d",
@@ -199,8 +208,24 @@
         "wp": 0,
         "opp_avg": ".313"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 6,
+          "r": 6,
+          "er": 6,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisville, throwing 1.1 innings. Allowed 6 earned run(s) with 0 strikeout(s)."
     },
     "2da8a32c": {
       "id": "2da8a32c",
@@ -238,8 +263,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
+        "opponent": "St. Bonaventure",
+        "result": "W",
         "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
         "batting": {
           "ab": 1,
@@ -248,11 +273,14 @@
           "rbi": 1,
           "bb": 1,
           "so": 0,
-          "pos": "RF"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 1 RBI against St Bonaventure. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 1/1 with 1 RBI against St. Bonaventure. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
     },
     "afb7f239": {
       "id": "afb7f239",
@@ -264,20 +292,20 @@
       "num": "7.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 11,
-        "gs": 11,
-        "avg": 0.308,
-        "ops": 0.751,
-        "ab": 39,
-        "r": 4,
+        "g": 12,
+        "gs": 12,
+        "avg": 0.293,
+        "ops": 0.731,
+        "ab": 41,
+        "r": 5,
         "h": 12,
         "doubles": 4,
         "triples": 0,
         "hr": 0,
         "rbi": 3,
         "tb": 16,
-        "slg": 0.41,
-        "bb": 0,
+        "slg": 0.39,
+        "bb": 1,
         "hbp": 2,
         "so": 6,
         "gdp": 0,
@@ -289,22 +317,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 1,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against St Bonaventure. Contributed at the plate in the team's W 25-2."
+      "narrative": "Went 0/2 with 0 RBI against Georgia St.. Struggled at the plate but saw 1 walk(s)."
     },
     "9b9b74fa": {
       "id": "9b9b74fa",
@@ -317,26 +348,42 @@
       "school": "Marshall University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.28,
-        "whip": 1.01,
-        "w": 3,
+        "era": 2.25,
+        "whip": 0.94,
+        "w": 4,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 27.2,
-        "h": 26,
-        "r": 11,
-        "er": 7,
-        "bb": 2,
-        "so": 30,
+        "g": 5,
+        "gs": 5,
+        "ip": 36.0,
+        "h": 31,
+        "r": 13,
+        "er": 9,
+        "bb": 3,
+        "so": 40,
         "hr": 2,
-        "hbp": 2,
+        "hbp": 4,
         "wp": 0,
-        "opp_avg": ".250"
+        "opp_avg": ".233"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
+        "batting": null,
+        "pitching": {
+          "ip": "8.1",
+          "h": 5,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 10,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Georgia St., throwing 8.1 innings. Struck out 10 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
     },
     "b60d2233": {
       "id": "b60d2233",
@@ -367,8 +414,24 @@
         "wp": 0,
         "opp_avg": ".220"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11358",
+        "batting": null,
+        "pitching": {
+          "ip": "2.1",
+          "h": 6,
+          "r": 7,
+          "er": 6,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Louisville, throwing 2.1 innings. Allowed 6 earned run(s) with 2 strikeout(s)."
     },
     "3021cd4e": {
       "id": "3021cd4e",
@@ -381,26 +444,42 @@
       "school": "Marshall University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.87,
-        "whip": 2.09,
+        "era": 5.4,
+        "whip": 1.92,
         "w": 0,
         "l": 0,
-        "sv": 2,
-        "g": 6,
+        "sv": 3,
+        "g": 7,
         "gs": 0,
-        "ip": 7.2,
+        "ip": 8.1,
         "h": 13,
         "r": 5,
         "er": 5,
         "bb": 3,
-        "so": 12,
+        "so": 13,
         "hr": 2,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".371"
+        "opp_avg": ".351"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Georgia St., throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "61ab1393": {
       "id": "61ab1393",
@@ -432,31 +511,23 @@
         "opp_avg": ".400"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-10",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11358",
+        "batting": null,
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
+          "ip": "1.2",
+          "h": 4,
+          "r": 3,
+          "er": 3,
           "bb": 0,
-          "so": 0,
-          "wp": 0,
+          "so": 1,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Bonaventure, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Louisville, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "a38eacb2": {
       "id": "a38eacb2",
@@ -487,8 +558,24 @@
         "wp": 6,
         "opp_avg": ".305"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "St. Bonaventure",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11372",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 7,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against St. Bonaventure, throwing 7.0 innings. Struck out 4 while allowing just 7 hit(s) and 1 earned run(s) in a quality start."
     },
     "2f47d6b0": {
       "id": "2f47d6b0",
@@ -500,24 +587,24 @@
       "num": "15.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.298,
-        "ops": 0.89,
-        "ab": 47,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.314,
+        "ops": 0.917,
+        "ab": 51,
         "r": 9,
-        "h": 14,
-        "doubles": 5,
+        "h": 16,
+        "doubles": 6,
         "triples": 0,
         "hr": 2,
-        "rbi": 18,
-        "tb": 25,
-        "slg": 0.532,
+        "rbi": 19,
+        "tb": 28,
+        "slg": 0.549,
         "bb": 2,
         "hbp": 3,
         "so": 8,
-        "gdp": 1,
-        "obp": 0.358,
+        "gdp": 2,
+        "obp": 0.368,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -525,22 +612,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
         "batting": {
-          "ab": 2,
-          "r": 2,
-          "h": 1,
-          "rbi": 3,
-          "bb": 1,
-          "so": 1,
-          "pos": "LF"
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 3 RBI against St Bonaventure. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 2/4 with 1 RBI against Georgia St.. Had an outstanding performance at the plate (0.500)."
     },
     "43c7783e": {
       "id": "43c7783e",
@@ -552,24 +642,24 @@
       "num": "16.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 13,
-        "gs": 13,
-        "avg": 0.289,
-        "ops": 0.9,
-        "ab": 38,
-        "r": 5,
-        "h": 11,
-        "doubles": 4,
+        "g": 14,
+        "gs": 14,
+        "avg": 0.286,
+        "ops": 0.888,
+        "ab": 42,
+        "r": 6,
+        "h": 12,
+        "doubles": 5,
         "triples": 0,
         "hr": 1,
-        "rbi": 5,
-        "tb": 18,
-        "slg": 0.474,
+        "rbi": 7,
+        "tb": 20,
+        "slg": 0.476,
         "bb": 7,
         "hbp": 2,
-        "so": 7,
+        "so": 8,
         "gdp": 2,
-        "obp": 0.426,
+        "obp": 0.412,
         "sf": 0,
         "sh": 2,
         "sb": 1,
@@ -577,22 +667,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 2,
-          "rbi": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
           "bb": 0,
-          "so": 0,
-          "pos": "3B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against St Bonaventure. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/4 with 2 RBI against Georgia St.. Contributed at the plate in the team's W."
     },
     "bfc4312b": {
       "id": "bfc4312b",
@@ -604,11 +697,11 @@
       "num": "17.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.214,
-        "ops": 0.675,
-        "ab": 42,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.2,
+        "ops": 0.634,
+        "ab": 45,
         "r": 7,
         "h": 9,
         "doubles": 1,
@@ -616,20 +709,38 @@
         "hr": 1,
         "rbi": 2,
         "tb": 13,
-        "slg": 0.31,
+        "slg": 0.289,
         "bb": 8,
         "hbp": 2,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.365,
+        "obp": 0.345,
         "sf": 0,
         "sh": 0,
         "sb": 4,
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Georgia St.. Struggled to make contact."
     },
     "2cf2f7a4": {
       "id": "2cf2f7a4",
@@ -660,8 +771,24 @@
         "wp": 0,
         "opp_avg": ".370"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 5,
+          "r": 6,
+          "er": 6,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisville, throwing 1.1 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
     },
     "9b62141f": {
       "id": "9b62141f",
@@ -692,8 +819,24 @@
         "wp": 0,
         "opp_avg": ".136"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisville, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "5ac00d5f": {
       "id": "5ac00d5f",
@@ -730,22 +873,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 1,
-          "h": 0,
+          "h": 2,
           "rbi": 1,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 2/3 with 1 RBI against Louisville. Had an outstanding performance at the plate (0.667)."
     },
     "bfc2cb8c": {
       "id": "bfc2cb8c",
@@ -757,7 +903,7 @@
       "num": "22.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 7,
         "avg": 0.233,
         "ops": 0.559,
@@ -777,27 +923,30 @@
         "obp": 0.226,
         "sf": 1,
         "sh": 0,
-        "sb": 0,
-        "sb_att": 0
+        "sb": 1,
+        "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
         "batting": {
-          "ab": 5,
-          "r": 2,
-          "h": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 2,
           "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "SS"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/5 with 1 RBI against St Bonaventure. Struggled to make contact."
+      "narrative": "Went 2/3 with 1 RBI against Louisville. Had an outstanding performance at the plate (0.667)."
     },
     "2e3f2793": {
       "id": "2e3f2793",
@@ -809,24 +958,24 @@
       "num": "23.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.294,
-        "ops": 0.878,
-        "ab": 51,
-        "r": 13,
-        "h": 15,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.302,
+        "ops": 0.896,
+        "ab": 53,
+        "r": 14,
+        "h": 16,
         "doubles": 2,
         "triples": 0,
         "hr": 1,
-        "rbi": 5,
-        "tb": 20,
-        "slg": 0.392,
-        "bb": 19,
-        "hbp": 1,
+        "rbi": 6,
+        "tb": 21,
+        "slg": 0.396,
+        "bb": 20,
+        "hbp": 2,
         "so": 11,
         "gdp": 1,
-        "obp": 0.486,
+        "obp": 0.5,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -834,22 +983,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
         "batting": {
           "ab": 2,
-          "r": 3,
+          "r": 1,
           "h": 1,
           "rbi": 1,
-          "bb": 2,
+          "bb": 1,
           "so": 0,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 1 RBI against St Bonaventure. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 1/2 with 1 RBI against Georgia St.. Had an outstanding performance at the plate (0.500)."
     },
     "dff2ab3e": {
       "id": "dff2ab3e",
@@ -885,8 +1037,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Navy",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/navy/boxscore/11352",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Navy. Struggled to make contact."
     },
     "becb2009": {
       "id": "becb2009",
@@ -898,11 +1068,11 @@
       "num": "25.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 12,
-        "gs": 3,
-        "avg": 0.333,
-        "ops": 0.733,
-        "ab": 18,
+        "g": 13,
+        "gs": 4,
+        "avg": 0.273,
+        "ops": 0.606,
+        "ab": 22,
         "r": 3,
         "h": 6,
         "doubles": 0,
@@ -910,12 +1080,12 @@
         "hr": 0,
         "rbi": 2,
         "tb": 6,
-        "slg": 0.333,
+        "slg": 0.273,
         "bb": 1,
         "hbp": 1,
         "so": 1,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.333,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -923,22 +1093,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
         "batting": {
-          "ab": 1,
-          "r": 2,
-          "h": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 0 RBI against St Bonaventure. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/4 with 0 RBI against Georgia St.. Struggled to make contact."
     },
     "50c617b7": {
       "id": "50c617b7",
@@ -969,8 +1142,24 @@
         "wp": 0,
         "opp_avg": ".400"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Kennesaw St.",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/11348",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Kennesaw St., throwing 2.0 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "275e8497": {
       "id": "275e8497",
@@ -1007,22 +1196,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
         "batting": {
           "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 2 RBI against St Bonaventure. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/1 with 0 RBI against Louisville. Struggled to make contact."
     },
     "d9ecfd75": {
       "id": "d9ecfd75",
@@ -1059,22 +1251,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "2B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 1 RBI against Louisville. Struggled to make contact."
     },
     "b030619f": {
       "id": "b030619f",
@@ -1128,8 +1323,35 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Went 0/1 with 0 RBI against Louisville. Struggled to make contact."
     },
     "c324f2ba": {
       "id": "c324f2ba",
@@ -1162,18 +1384,10 @@
       },
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
+        "opponent": "St. Bonaventure",
+        "result": "W",
         "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "6.0",
           "h": 3,
@@ -1185,7 +1399,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Bonaventure, throwing 6.0 innings. Struck out 7 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
+      "narrative": "Took the mound against St. Bonaventure, throwing 6.0 innings. Struck out 7 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
     },
     "d13689ad": {
       "id": "d13689ad",
@@ -1216,8 +1430,24 @@
         "wp": 2,
         "opp_avg": ".353"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11358",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Louisville, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "4af16eaf": {
       "id": "4af16eaf",
@@ -1229,32 +1459,50 @@
       "num": "34.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.271,
-        "ops": 0.793,
-        "ab": 48,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.269,
+        "ops": 0.79,
+        "ab": 52,
         "r": 11,
-        "h": 13,
-        "doubles": 1,
+        "h": 14,
+        "doubles": 2,
         "triples": 0,
         "hr": 3,
-        "rbi": 10,
-        "tb": 23,
-        "slg": 0.479,
+        "rbi": 11,
+        "tb": 25,
+        "slg": 0.481,
         "bb": 3,
         "hbp": 0,
-        "so": 10,
+        "so": 11,
         "gdp": 3,
-        "obp": 0.314,
+        "obp": 0.309,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Georgia St.",
+        "result": "W",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/georgia-st-/boxscore/11375",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Georgia St.. Contributed at the plate in the team's W."
     },
     "7e90cddf": {
       "id": "7e90cddf",
@@ -1292,8 +1540,8 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
+        "opponent": "St. Bonaventure",
+        "result": "W",
         "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
         "batting": {
           "ab": 1,
@@ -1302,11 +1550,14 @@
           "rbi": 1,
           "bb": 1,
           "so": 1,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 1 RBI against St Bonaventure. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/1 with 1 RBI against St. Bonaventure. Struggled at the plate but saw 1 walk(s)."
     },
     "6a87464f": {
       "id": "6a87464f",
@@ -1318,10 +1569,10 @@
       "num": "42.0",
       "school": "Marshall University",
       "season_batting": {
-        "g": 9,
+        "g": 10,
         "gs": 8,
         "avg": 0.36,
-        "ops": 1.158,
+        "ops": 1.175,
         "ab": 25,
         "r": 4,
         "h": 9,
@@ -1331,11 +1582,11 @@
         "rbi": 10,
         "tb": 18,
         "slg": 0.72,
-        "bb": 2,
+        "bb": 3,
         "hbp": 3,
         "so": 8,
         "gdp": 0,
-        "obp": 0.438,
+        "obp": 0.455,
         "sf": 2,
         "sh": 0,
         "sb": 0,
@@ -1343,22 +1594,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 0,
-          "h": 2,
-          "rbi": 6,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 6 RBI against St Bonaventure. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 0/2 with 0 RBI against Louisville. Struggled to make contact."
     },
     "b1446007": {
       "id": "b1446007",
@@ -1390,31 +1644,23 @@
         "opp_avg": ".467"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "St Bonaventure",
-        "result": "W 25-2",
-        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/st-bonaventure/boxscore/11373",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
+        "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 1,
+          "ip": "1.0",
+          "h": 3,
           "r": 1,
           "er": 1,
-          "bb": 2,
-          "so": 2,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against St Bonaventure, throwing 0.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against Louisville, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "7b17d5ce": {
       "id": "7b17d5ce",
@@ -1445,8 +1691,24 @@
         "wp": 3,
         "opp_avg": ".364"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Louisville",
+        "result": "L",
+        "boxscore_url": "https://www.herdzone.com/sports/baseball/stats/2026/louisville/boxscore/11359",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 4,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Louisville, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

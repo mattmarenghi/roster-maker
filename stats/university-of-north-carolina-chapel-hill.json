@@ -2,16 +2,16 @@
   "school": "University of North Carolina, Chapel Hill",
   "base_url": "https://www.goheels.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:23:28.493086Z",
+  "generated_at": "2026-03-14T16:12:25.543742Z",
   "record": "13-17",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Bucknell",
-    "result": "W 13-3",
-    "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
-    "recap_url": "https://www.goheels.com/news/2026/3/10/baseball-takes-patient-win-13-3-over-bucknell",
-    "recap_headline": "University of North Carolina Athletics",
-    "recap_text": "CHAPEL HILL, N.C.\n\u2013 Eight runs in the bottom of the seventh inning propelled Carolina baseball to a 13-3, run-rule win over Bucknell on Tuesday afternoon in Boshamer Stadium.\nThe No. 15 Tar Heels (14-3-1) picked up their eighth win via mercy rule, tying their single season high barely a week into March. The win improves their record to 2-0 against Patriot League opposition under head coach\nScott Forbes\n.\nIt was the first ever meeting between the two programs. Including the sweep of Indiana, Carolina is now 4-0 in games against foes they had not faced prior to this season.\nMacon Winslow\nkick started the scoring with a bang, launching the team's longest home run of the year (427 feet) over the scoreboard in left to put Carolina up 2-0 in the first. The man behind the dish went 2-2 on the day with four runs scored and three RBIs on the homer, a single, and three walks.\nThe middle frames would see the teams go back and forth answering each other's blows. Bucknell got a two RBI single in the third to match the homer. Then a\nColin Hynek\nsac fly put Carolina up one before the Bison squared it up again in the top of the fifth. UNC would take the final lead with two runs in their half of the fifth on RBIs from Hynek and\nTyler Howe\n.\nUp two\u00a0entering the seventh, the Heels put up eight runs in the one frame to \"walk-off\" the run-rule. It was an erratic inning from the Bison, who threw three different pitchers that combined for five walks, three hits, two HBPs, and just two outs.\nAll eight Carolina runs were scored with two outs. Hynek popped up again for the final blow, a first pitch single through the left side of the infield that scored Winslow from second.\nSophomore reliever\nWalker McDuffie\nfinished the game and earned the win, throwing 3.0 shutout frames with four strikeouts with just one hit.\nThe Tar Heels will now gear up for their first true road trip of the season as they head west to face the Cal Golden Bears. First pitch from Berkley is scheduled for 9 p.m. ET (6 p.m. PT) with streaming available on ACCNX."
+    "date": "2026-03-13",
+    "opponent": "California",
+    "result": "W",
+    "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
+    "recap_url": null,
+    "recap_headline": "",
+    "recap_text": ""
   },
   "players": {
     "6e9b37fe": {
@@ -24,11 +24,11 @@
       "num": "1.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.191,
-        "ops": 0.868,
-        "ab": 47,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.176,
+        "ops": 0.808,
+        "ab": 51,
         "r": 14,
         "h": 9,
         "doubles": 4,
@@ -36,12 +36,12 @@
         "hr": 3,
         "rbi": 15,
         "tb": 22,
-        "slg": 0.468,
+        "slg": 0.431,
         "bb": 11,
         "hbp": 6,
-        "so": 12,
-        "gdp": 1,
-        "obp": 0.4,
+        "so": 14,
+        "gdp": 2,
+        "obp": 0.377,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -49,22 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "3B"
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Bucknell. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/4 with 0 RBI against California. Struggled to make contact."
     },
     "75305acc": {
       "id": "75305acc",
@@ -76,24 +79,24 @@
       "num": "2.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.361,
-        "ops": 1.123,
-        "ab": 61,
-        "r": 20,
-        "h": 22,
-        "doubles": 4,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.379,
+        "ops": 1.187,
+        "ab": 66,
+        "r": 22,
+        "h": 25,
+        "doubles": 5,
         "triples": 4,
-        "hr": 2,
-        "rbi": 14,
-        "tb": 40,
-        "slg": 0.656,
+        "hr": 3,
+        "rbi": 15,
+        "tb": 47,
+        "slg": 0.712,
         "bb": 7,
         "hbp": 6,
         "so": 3,
         "gdp": 1,
-        "obp": 0.467,
+        "obp": 0.475,
         "sf": 1,
         "sh": 0,
         "sb": 7,
@@ -101,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 3,
           "rbi": 1,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "SS"
+          "hr": 1,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against Bucknell. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "Went 3/5 with 1 RBI against California. Hit 1 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "19e67769": {
       "id": "19e67769",
@@ -153,9 +159,9 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "W 8-7",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26657",
         "batting": {
           "ab": 1,
@@ -164,7 +170,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH/2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -207,7 +216,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "L 2-9",
+        "result": "L",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26656",
         "batting": {
           "ab": 1,
@@ -216,7 +225,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "PH/LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -232,24 +244,24 @@
       "num": "5.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.279,
-        "ops": 0.899,
-        "ab": 68,
-        "r": 19,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.268,
+        "ops": 0.879,
+        "ab": 71,
+        "r": 21,
         "h": 19,
         "doubles": 3,
         "triples": 1,
         "hr": 4,
         "rbi": 16,
         "tb": 36,
-        "slg": 0.529,
-        "bb": 10,
-        "hbp": 1,
+        "slg": 0.507,
+        "bb": 11,
+        "hbp": 2,
         "so": 13,
         "gdp": 1,
-        "obp": 0.37,
+        "obp": 0.372,
         "sf": 2,
         "sh": 0,
         "sb": 0,
@@ -257,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 2,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 2,
-          "pos": "2B"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Bucknell. Contributed at the plate in the team's W 13-3."
+      "narrative": "Went 0/3 with 0 RBI against California. Struggled at the plate but saw 1 walk(s)."
     },
     "5e4dcc6d": {
       "id": "5e4dcc6d",
@@ -284,47 +299,50 @@
       "num": "6.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.351,
-        "ops": 1.057,
-        "ab": 57,
-        "r": 24,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.339,
+        "ops": 1.031,
+        "ab": 59,
+        "r": 25,
         "h": 20,
         "doubles": 2,
         "triples": 0,
         "hr": 3,
-        "rbi": 14,
+        "rbi": 16,
         "tb": 31,
-        "slg": 0.544,
-        "bb": 15,
+        "slg": 0.525,
+        "bb": 17,
         "hbp": 6,
         "so": 7,
         "gdp": 1,
-        "obp": 0.513,
-        "sf": 2,
+        "obp": 0.506,
+        "sf": 3,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
           "ab": 2,
-          "r": 4,
-          "h": 2,
-          "rbi": 3,
-          "bb": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 2,
+          "bb": 2,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/2 with 3 RBI against Bucknell. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/2 with 2 RBI against California. Struggled at the plate but saw 2 walk(s)."
     },
     "4051548f": {
       "id": "4051548f",
@@ -361,22 +379,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Virginia",
-        "result": "W 8-7",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26657",
+        "date": "2026-03-01",
+        "opponent": "Le Moyne",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/le-moyne/boxscore/26643",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/2 with 0 RBI against Le Moyne. Struggled to make contact."
     },
     "d7d09e7e": {
       "id": "d7d09e7e",
@@ -388,24 +409,24 @@
       "num": "8.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.304,
-        "ops": 0.897,
-        "ab": 56,
-        "r": 14,
-        "h": 17,
-        "doubles": 4,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.328,
+        "ops": 0.935,
+        "ab": 61,
+        "r": 15,
+        "h": 20,
+        "doubles": 5,
         "triples": 0,
         "hr": 1,
-        "rbi": 15,
-        "tb": 24,
-        "slg": 0.429,
+        "rbi": 17,
+        "tb": 28,
+        "slg": 0.459,
         "bb": 16,
         "hbp": 3,
         "so": 11,
         "gdp": 0,
-        "obp": 0.468,
+        "obp": 0.476,
         "sf": 2,
         "sh": 0,
         "sb": 3,
@@ -413,22 +434,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 1,
           "h": 3,
           "rbi": 2,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 2 RBI against Bucknell. Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 3/5 with 2 RBI against California. Had an outstanding performance at the plate (0.600)."
     },
     "32067dd8": {
       "id": "32067dd8",
@@ -462,17 +486,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "L 2-9",
+        "result": "L",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26656",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 5,
@@ -496,24 +512,24 @@
       "num": "12.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 16,
-        "gs": 11,
-        "avg": 0.275,
-        "ops": 0.731,
-        "ab": 40,
+        "g": 17,
+        "gs": 12,
+        "avg": 0.273,
+        "ops": 0.724,
+        "ab": 44,
         "r": 8,
-        "h": 11,
+        "h": 12,
         "doubles": 1,
         "triples": 0,
         "hr": 1,
-        "rbi": 7,
-        "tb": 15,
-        "slg": 0.375,
-        "bb": 2,
+        "rbi": 9,
+        "tb": 16,
+        "slg": 0.364,
+        "bb": 3,
         "hbp": 3,
-        "so": 7,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.356,
+        "obp": 0.36,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -521,22 +537,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 1,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "RF"
+          "rbi": 2,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Bucknell. Contributed at the plate in the team's W 13-3."
+      "narrative": "Went 1/4 with 2 RBI against California. Contributed at the plate in the team's W."
     },
     "55f2695c": {
       "id": "55f2695c",
@@ -575,7 +594,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bucknell",
-        "result": "W 13-3",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
         "batting": {
           "ab": 2,
@@ -584,7 +603,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -619,8 +641,24 @@
         "wp": 1,
         "opp_avg": ".324"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Virginia",
+        "result": "L",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26655",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Virginia, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "3db7d23c": {
       "id": "3db7d23c",
@@ -651,8 +689,24 @@
         "wp": 0,
         "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Virginia",
+        "result": "L",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26655",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Virginia, throwing 1.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "406f5eca": {
       "id": "406f5eca",
@@ -664,24 +718,24 @@
       "num": "18.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 14,
-        "gs": 8,
-        "avg": 0.192,
-        "ops": 0.512,
-        "ab": 26,
-        "r": 5,
+        "g": 15,
+        "gs": 9,
+        "avg": 0.172,
+        "ops": 0.485,
+        "ab": 29,
+        "r": 6,
         "h": 5,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 6,
         "tb": 6,
-        "slg": 0.231,
-        "bb": 3,
+        "slg": 0.207,
+        "bb": 4,
         "hbp": 1,
-        "so": 4,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.281,
+        "obp": 0.278,
         "sf": 2,
         "sh": 0,
         "sb": 2,
@@ -689,22 +743,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 1,
           "h": 0,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "PH/LF"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 1 RBI against Bucknell. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against California. Struggled at the plate but saw 1 walk(s)."
     },
     "1089146e": {
       "id": "1089146e",
@@ -735,8 +792,24 @@
         "wp": 1,
         "opp_avg": ".143"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-24",
+        "opponent": "North Carolina AT",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/north-carolina-at/boxscore/26639",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against North Carolina AT, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "0adb657a": {
       "id": "0adb657a",
@@ -773,9 +846,9 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "W 8-7",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26657",
         "batting": {
           "ab": 1,
@@ -784,7 +857,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH/3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -800,24 +876,24 @@
       "num": "23.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.339,
-        "ops": 1.056,
-        "ab": 56,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.328,
+        "ops": 1.006,
+        "ab": 61,
         "r": 13,
-        "h": 19,
+        "h": 20,
         "doubles": 5,
         "triples": 2,
         "hr": 2,
         "rbi": 23,
-        "tb": 34,
-        "slg": 0.607,
+        "tb": 35,
+        "slg": 0.574,
         "bb": 12,
         "hbp": 0,
-        "so": 9,
+        "so": 10,
         "gdp": 2,
-        "obp": 0.449,
+        "obp": 0.432,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -825,22 +901,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 3,
+          "ab": 5,
           "r": 0,
-          "h": 2,
-          "rbi": 3,
-          "bb": 1,
-          "so": 0,
-          "pos": "DH"
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 3 RBI against Bucknell. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 1/5 with 0 RBI against California. Struggled to make contact."
     },
     "2b79defc": {
       "id": "2b79defc",
@@ -872,19 +951,11 @@
         "opp_avg": ".200"
       },
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "W 8-7",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26657",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.1",
           "h": 2,
@@ -933,22 +1004,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "W 8-7",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26657",
+        "result": "L",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26656",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Virginia. Struggled to make contact."
+      "narrative": "Went 1/3 with 0 RBI against Virginia. Contributed at the plate in the team's L."
     },
     "e7e8ff96": {
       "id": "e7e8ff96",
@@ -979,8 +1053,24 @@
         "wp": 4,
         "opp_avg": ".227"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Virginia",
+        "result": "L",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26655",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 3,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Virginia, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "9da698c1": {
       "id": "9da698c1",
@@ -993,50 +1083,42 @@
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.16,
-        "whip": 1.08,
+        "era": 1.83,
+        "whip": 1.12,
         "w": 1,
         "l": 0,
-        "sv": 0,
-        "g": 6,
+        "sv": 1,
+        "g": 7,
         "gs": 1,
-        "ip": 16.2,
-        "h": 9,
+        "ip": 19.2,
+        "h": 12,
         "r": 7,
         "er": 4,
-        "bb": 9,
-        "so": 22,
+        "bb": 10,
+        "so": 24,
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".158"
+        "opp_avg": ".176"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Virginia",
-        "result": "W 8-7",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26657",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
+        "batting": null,
         "pitching": {
-          "ip": "5.1",
+          "ip": "3.0",
           "h": 3,
-          "r": 2,
-          "er": 1,
+          "r": 0,
+          "er": 0,
           "bb": 1,
-          "so": 8,
+          "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Virginia, throwing 5.1 innings. Struck out 8 while allowing just 3 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "Took the mound against California, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "1ee437b5": {
       "id": "1ee437b5",
@@ -1075,7 +1157,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "L 2-9",
+        "result": "L",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26656",
         "batting": {
           "ab": 2,
@@ -1084,7 +1166,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1101,26 +1186,42 @@
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.71,
-        "whip": 1.38,
-        "w": 3,
+        "era": 1.67,
+        "whip": 1.33,
+        "w": 4,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 21.0,
-        "h": 22,
-        "r": 8,
-        "er": 4,
-        "bb": 7,
-        "so": 21,
-        "hr": 1,
-        "hbp": 1,
+        "g": 5,
+        "gs": 5,
+        "ip": 27.0,
+        "h": 27,
+        "r": 9,
+        "er": 5,
+        "bb": 9,
+        "so": 23,
+        "hr": 2,
+        "hbp": 2,
         "wp": 3,
-        "opp_avg": ".272"
+        "opp_avg": ".265"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
+        "batting": null,
+        "pitching": {
+          "ip": "6.0",
+          "h": 5,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against California, throwing 6.0 innings. Struck out 2 while allowing just 5 hit(s) and 1 earned run(s) in a quality start."
     },
     "8a1d7aea": {
       "id": "8a1d7aea",
@@ -1154,17 +1255,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bucknell",
-        "result": "W 13-3",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 2,
@@ -1208,19 +1301,11 @@
         "opp_avg": ".282"
       },
       "last_game": {
-        "date": "2026-03-08",
+        "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "W 8-7",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26657",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 6,
@@ -1266,17 +1351,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bucknell",
-        "result": "W 13-3",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 2,
@@ -1322,17 +1399,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Bucknell",
-        "result": "W 13-3",
+        "result": "W",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 1,
@@ -1378,17 +1447,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "L 2-9",
+        "result": "L",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26656",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 1,
@@ -1431,8 +1492,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Le Moyne",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/le-moyne/boxscore/26641",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Le Moyne, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "65cbdcee": {
       "id": "65cbdcee",
@@ -1444,24 +1521,24 @@
       "num": "44.0",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.328,
-        "ops": 1.132,
-        "ab": 58,
-        "r": 24,
-        "h": 19,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.339,
+        "ops": 1.129,
+        "ab": 62,
+        "r": 25,
+        "h": 21,
         "doubles": 3,
         "triples": 0,
         "hr": 5,
-        "rbi": 20,
-        "tb": 37,
-        "slg": 0.638,
-        "bb": 14,
+        "rbi": 21,
+        "tb": 39,
+        "slg": 0.629,
+        "bb": 15,
         "hbp": 5,
-        "so": 9,
-        "gdp": 1,
-        "obp": 0.494,
+        "so": 10,
+        "gdp": 2,
+        "obp": 0.5,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1469,22 +1546,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Bucknell",
-        "result": "W 13-3",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/bucknell/boxscore/26658",
+        "date": "2026-03-13",
+        "opponent": "California",
+        "result": "W",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26659",
         "batting": {
-          "ab": 2,
-          "r": 3,
-          "h": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
           "rbi": 1,
-          "bb": 3,
-          "so": 0,
-          "pos": "1B"
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against Bucknell. Struggled at the plate but saw 3 walk(s)."
+      "narrative": "Went 2/4 with 1 RBI against California. Had an outstanding performance at the plate (0.500)."
     },
     "889d9cfe": {
       "id": "889d9cfe",
@@ -1518,17 +1598,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Virginia",
-        "result": "L 2-9",
+        "result": "L",
         "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/virginia/boxscore/26656",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "4.0",
           "h": 6,

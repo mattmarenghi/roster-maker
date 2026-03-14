@@ -2,16 +2,16 @@
   "school": "Murray State University",
   "base_url": "https://www.goracers.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:52:55.804243Z",
-  "record": "11-6",
+  "generated_at": "2026-03-14T15:14:34.974393Z",
+  "record": "11-7",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Kentucky St.",
-    "result": "W 26-2",
-    "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-    "recap_url": "https://www.goracers.com/news/2026/3/10/baseball-mistone-drives-in-nine-as-racers-rout-kentucky-state",
+    "date": "2026-03-13",
+    "opponent": "Lindenwood",
+    "result": "L",
+    "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
+    "recap_url": "https://www.goracers.com/news/2026/3/13/baseball-racers-drop-series-opener-at-lindenwood",
     "recap_headline": "Murray State University Athletics",
-    "recap_text": "PADUCAH, Ky. -\nMurray State baseball dominated Kentucky State 26-2 on Tuesday, powered by a career-best performance from\nLuke Mistone\n. The Racers set several team season highs in the victory, including runs scored (26), hits (20), and RBIs (24).\n\"We talked about just having a good process; it doesn't matter who we play,\" Head Coach\nDan Skirka\nsaid. \"I really thought our pregame, they were as locked in as if we were playing the Yankees today. So, I was proud of them for that.\"\nMistone was the catalyst for the offensive outburst, finishing 5-for-6 at the plate. The performance established new career highs for the junior in hits (5), RBIs (9), and runs scored (4). With his nine RBIs on the night, Mistone brought his season total to 25, which leads the Missouri Valley Conference by seven over teammate\nDaylan Pena\n.\n\"You need guys to step up, and he's just such a professional hitter with a great approach and mindset and really just sets the tone for our offense,\" Skirka said of Mistone.\nFive different Racers recorded multiple hits in the lopsided affair. Pena finished the night with three hits and 18 RBIs on the season, while\nEaston Romero\n,\nKingsley Guthrie\n, and\nJake Slade\neach notched two hits to help secure the win.\nHow it Happened\nThe Racer offense clicked from the opening pitch, finding gaps and capitalizing on Kentucky State miscues to post a season-high 26 runs. The 20-hit barrage was spread across the lineup, but it was Mistone who provided the heaviest lifting with a pair of run-scoring knocks that broke the game open early.\nWhile the bats took center stage, the Murray State pitching staff remained efficient, limiting the Thorobreds to just two runs over nine innings. The victory marks a significant momentum builder as the team continues its conference slate.\nThe Racers will look to carry this offensive rhythm into their next matchup, sitting atop several MVC individual and team statistical categories following the record-breaking performance in Paducah.\nBox Score Notes\nLuke Mistone\nCareer single-game highs in hits, runs, RBI.\nMistone recorded his 10\nth\nmulti hit game of the season\nJake Slade\nRecorded third multi-hit game of the season\nCareer high single-game runs scored\nCareer high single-game walks drawn\nJaxon Diamond\nCareer high walks drawn (3)\nEaston Romero\nCareer high in hits (2)\nCareer high in RBI (4)\nCareer high doubles (2)\nTyler Butina\nFirst career HR\nDaylan Pena\nTied career high in single-game hits, set new season high"
+    "recap_text": "ST. CHARLES, Mo.\n- Murray State baseball was unable to overcome a dominant pitching performance from Lindenwood on Friday afternoon, falling 4-0 in the opening game of a three-game weekend set at Lou Brock Sports Complex.\nThe Racers (11-7) struggled to find a rhythm at the plate, managing just three hits on the day. After\nKristofer Hokenson\nrecorded a single in the first inning, the Lindenwood (9-9) pitching staff took command, retiring 20 consecutive Murray State batters.\nThe drought lasted until the eighth inning when\nDaylan Pena\nbroke the streak with a single.\nLuke Mistone\nadded the Racers' third and final hit of the contest in the ninth, but the rally stopped there.\nOn the mound,\nNic Schutte\n(2-2) took the loss for Murray State. Schutte logged 4.0 innings and allowed four runs, three of them earned. He struggled with command at times, hitting three batters to tie his season high.\nJackson Ugo\nprovided a bright spot for the Racers out of the bullpen. Ugo tossed 4.0 scoreless innings of relief, surrendering just two hits while striking out four. It marked the best outing of the season for Ugo.\nMurray State will look to even the series tomorrow in game two. First pitch is scheduled for 1 p.m. CST."
   },
   "players": {
     "d9150717": {
@@ -48,8 +48,26 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-01",
+        "opponent": "Mercyhurst",
+        "result": "W",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/mercyhurst/boxscore/11751",
+        "batting": {
+          "ab": 2,
+          "r": 3,
+          "h": 2,
+          "rbi": 1,
+          "bb": 2,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/2 with 1 RBI against Mercyhurst. Had an outstanding performance at the plate (1.000)."
     },
     "99eab092": {
       "id": "99eab092",
@@ -62,26 +80,42 @@
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.68,
-        "whip": 1.14,
+        "era": 4.15,
+        "whip": 1.23,
         "w": 3,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 22.0,
-        "h": 19,
-        "r": 10,
-        "er": 9,
-        "bb": 6,
-        "so": 21,
+        "g": 5,
+        "gs": 5,
+        "ip": 26.0,
+        "h": 24,
+        "r": 14,
+        "er": 12,
+        "bb": 8,
+        "so": 24,
         "hr": 1,
-        "hbp": 5,
+        "hbp": 8,
         "wp": 1,
-        "opp_avg": ".221"
+        "opp_avg": ".233"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 5,
+          "r": 4,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against Lindenwood, throwing 4.0 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
     },
     "cdb99bae": {
       "id": "cdb99bae",
@@ -117,22 +151,7 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 2,
-          "h": 0,
-          "rbi": 1,
-          "bb": 2,
-          "so": 0,
-          "pos": "CF"
-        },
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "d5c86665": {
@@ -145,11 +164,11 @@
       "num": "4.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 17,
-        "gs": 16,
-        "avg": 0.268,
-        "ops": 0.91,
-        "ab": 56,
+        "g": 18,
+        "gs": 17,
+        "avg": 0.25,
+        "ops": 0.856,
+        "ab": 60,
         "r": 18,
         "h": 15,
         "doubles": 3,
@@ -157,12 +176,12 @@
         "hr": 2,
         "rbi": 10,
         "tb": 26,
-        "slg": 0.464,
+        "slg": 0.433,
         "bb": 15,
         "hbp": 3,
         "so": 8,
         "gdp": 0,
-        "obp": 0.446,
+        "obp": 0.423,
         "sf": 0,
         "sh": 0,
         "sb": 9,
@@ -170,22 +189,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
-          "ab": 1,
-          "r": 2,
-          "h": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "2B/DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 0 RBI against Kentucky St.. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/4 with 0 RBI against Lindenwood. Struggled to make contact."
     },
     "1d2940cf": {
       "id": "1d2940cf",
@@ -197,28 +219,28 @@
       "num": "5.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.311,
-        "ops": 0.864,
-        "ab": 61,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.308,
+        "ops": 0.844,
+        "ab": 65,
         "r": 13,
-        "h": 19,
+        "h": 20,
         "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 10,
-        "tb": 29,
-        "slg": 0.475,
+        "tb": 30,
+        "slg": 0.462,
         "bb": 7,
         "hbp": 2,
-        "so": 14,
+        "so": 15,
         "gdp": 0,
-        "obp": 0.389,
+        "obp": 0.382,
         "sf": 2,
         "sh": 1,
         "sb": 8,
-        "sb_att": 8
+        "sb_att": 9
       },
       "season_pitching": {
         "era": 20.25,
@@ -240,22 +262,34 @@
         "opp_avg": ".500"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
-        "pitching": null
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
       },
-      "narrative": "Went 1/3 with 0 RBI against Kentucky St.. Contributed at the plate in the team's W 26-2."
+      "narrative": "Went 1/4 with 0 RBI against Lindenwood. Contributed at the plate in the team's L."
     },
     "9b9ee4f5": {
       "id": "9b9ee4f5",
@@ -267,11 +301,11 @@
       "num": "7.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.231,
-        "ops": 0.708,
-        "ab": 39,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.22,
+        "ops": 0.678,
+        "ab": 41,
         "r": 12,
         "h": 9,
         "doubles": 0,
@@ -279,12 +313,12 @@
         "hr": 1,
         "rbi": 6,
         "tb": 12,
-        "slg": 0.308,
+        "slg": 0.293,
         "bb": 5,
         "hbp": 6,
-        "so": 17,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.4,
+        "obp": 0.385,
         "sf": 0,
         "sh": 3,
         "sb": 1,
@@ -292,22 +326,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
-          "ab": 3,
-          "r": 4,
-          "h": 2,
-          "rbi": 1,
-          "bb": 2,
-          "so": 0,
-          "pos": "SS"
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 1 RBI against Kentucky St.. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 0/2 with 0 RBI against Lindenwood. Struggled to make contact."
     },
     "af904a71": {
       "id": "af904a71",
@@ -319,11 +356,11 @@
       "num": "10.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 14,
-        "gs": 12,
-        "avg": 0.333,
-        "ops": 0.905,
-        "ab": 42,
+        "g": 15,
+        "gs": 13,
+        "avg": 0.318,
+        "ops": 0.878,
+        "ab": 44,
         "r": 9,
         "h": 14,
         "doubles": 2,
@@ -331,20 +368,38 @@
         "hr": 1,
         "rbi": 14,
         "tb": 19,
-        "slg": 0.452,
+        "slg": 0.432,
         "bb": 8,
-        "hbp": 2,
-        "so": 9,
+        "hbp": 3,
+        "so": 10,
         "gdp": 1,
-        "obp": 0.453,
+        "obp": 0.446,
         "sf": 1,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Lindenwood. Struggled to make contact."
     },
     "1a87e974": {
       "id": "1a87e974",
@@ -356,11 +411,11 @@
       "num": "11.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "avg": 0.5,
-        "ops": 1.3,
-        "ab": 2,
+        "avg": 0.333,
+        "ops": 1.0,
+        "ab": 3,
         "r": 2,
         "h": 1,
         "doubles": 0,
@@ -368,12 +423,12 @@
         "hr": 0,
         "rbi": 1,
         "tb": 1,
-        "slg": 0.5,
+        "slg": 0.333,
         "bb": 3,
         "hbp": 0,
         "so": 0,
         "gdp": 0,
-        "obp": 0.8,
+        "obp": 0.667,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -381,22 +436,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
           "ab": 1,
-          "r": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 3,
+          "bb": 0,
           "so": 0,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Kentucky St.. Struggled at the plate but saw 3 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Lindenwood. Struggled to make contact."
     },
     "7999495c": {
       "id": "7999495c",
@@ -435,7 +493,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
         "batting": {
           "ab": 2,
@@ -444,7 +502,10 @@
           "rbi": 4,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 2,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -484,8 +545,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "Middle Tenn.",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/middle-tenn-/boxscore/11659",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Middle Tenn.. Struggled to make contact."
     },
     "a48385be": {
       "id": "a48385be",
@@ -497,11 +576,11 @@
       "num": "15.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.313,
-        "ops": 1.03,
-        "ab": 64,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.299,
+        "ops": 0.987,
+        "ab": 67,
         "r": 22,
         "h": 20,
         "doubles": 4,
@@ -509,12 +588,12 @@
         "hr": 4,
         "rbi": 12,
         "tb": 40,
-        "slg": 0.625,
+        "slg": 0.597,
         "bb": 9,
         "hbp": 1,
-        "so": 22,
+        "so": 23,
         "gdp": 0,
-        "obp": 0.405,
+        "obp": 0.39,
         "sf": 0,
         "sh": 0,
         "sb": 5,
@@ -522,22 +601,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
-          "ab": 2,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
-          "so": 0,
-          "pos": "CF"
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 1 RBI against Kentucky St.. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/3 with 0 RBI against Lindenwood. Struggled to make contact."
     },
     "c5679032": {
       "id": "c5679032",
@@ -571,17 +653,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 1,
@@ -624,8 +698,24 @@
         "wp": 3,
         "opp_avg": ".217"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11662",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 3,
+          "r": 1,
+          "er": 0,
+          "bb": 4,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 5.0 innings. Struck out 2 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
     },
     "056a714a": {
       "id": "056a714a",
@@ -656,8 +746,24 @@
         "wp": 0,
         "opp_avg": ".340"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11663",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 1.1 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
     },
     "4e469b3c": {
       "id": "4e469b3c",
@@ -688,8 +794,24 @@
         "wp": 1,
         "opp_avg": ".231"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11661",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 0.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
     },
     "d8fcb5af": {
       "id": "d8fcb5af",
@@ -701,11 +823,11 @@
       "num": "22.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 13,
-        "gs": 8,
-        "avg": 0.3,
-        "ops": 0.932,
-        "ab": 30,
+        "g": 14,
+        "gs": 9,
+        "avg": 0.273,
+        "ops": 0.855,
+        "ab": 33,
         "r": 7,
         "h": 9,
         "doubles": 3,
@@ -713,12 +835,12 @@
         "hr": 1,
         "rbi": 7,
         "tb": 15,
-        "slg": 0.5,
+        "slg": 0.455,
         "bb": 7,
         "hbp": 0,
-        "so": 5,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.432,
+        "obp": 0.4,
         "sf": 0,
         "sh": 0,
         "sb": 3,
@@ -726,22 +848,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
-          "so": 2,
-          "pos": "3B"
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 1 RBI against Kentucky St.. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against Lindenwood. Struggled to make contact."
     },
     "6c820f44": {
       "id": "6c820f44",
@@ -753,24 +878,24 @@
       "num": "23.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.241,
-        "ops": 0.772,
-        "ab": 58,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.246,
+        "ops": 0.766,
+        "ab": 61,
         "r": 12,
-        "h": 14,
+        "h": 15,
         "doubles": 3,
         "triples": 0,
         "hr": 2,
         "rbi": 18,
-        "tb": 23,
-        "slg": 0.397,
+        "tb": 24,
+        "slg": 0.393,
         "bb": 10,
         "hbp": 3,
         "so": 9,
         "gdp": 1,
-        "obp": 0.375,
+        "obp": 0.373,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -778,22 +903,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
           "ab": 3,
-          "r": 1,
-          "h": 3,
-          "rbi": 3,
-          "bb": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/3 with 3 RBI against Kentucky St.. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 1/3 with 0 RBI against Lindenwood. Contributed at the plate in the team's L."
     },
     "8fd39729": {
       "id": "8fd39729",
@@ -832,7 +960,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
         "batting": {
           "ab": 5,
@@ -841,7 +969,10 @@
           "rbi": 0,
           "bb": 1,
           "so": 1,
-          "pos": "C/LF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -857,24 +988,24 @@
       "num": "25.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.425,
-        "ops": 0.991,
-        "ab": 73,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.416,
+        "ops": 0.966,
+        "ab": 77,
         "r": 16,
-        "h": 31,
+        "h": 32,
         "doubles": 5,
         "triples": 0,
         "hr": 1,
         "rbi": 25,
-        "tb": 39,
-        "slg": 0.534,
+        "tb": 40,
+        "slg": 0.519,
         "bb": 3,
         "hbp": 3,
         "so": 2,
         "gdp": 1,
-        "obp": 0.457,
+        "obp": 0.447,
         "sf": 2,
         "sh": 0,
         "sb": 5,
@@ -882,22 +1013,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
-          "ab": 6,
-          "r": 4,
-          "h": 5,
-          "rbi": 9,
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "1B/2B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 5/6 with 9 RBI against Kentucky St.. Had an outstanding performance at the plate (0.833)."
+      "narrative": "Went 1/4 with 0 RBI against Lindenwood. Contributed at the plate in the team's L."
     },
     "a27f3a25": {
       "id": "a27f3a25",
@@ -933,8 +1067,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "Middle Tenn.",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/middle-tenn-/boxscore/11659",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Middle Tenn.. Struggled at the plate but saw 1 walk(s)."
     },
     "208536a8": {
       "id": "208536a8",
@@ -965,8 +1117,24 @@
         "wp": 0,
         "opp_avg": ".243"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11662",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 3,
+          "er": 2,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 1.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
     },
     "a58b97ca": {
       "id": "a58b97ca",
@@ -1005,7 +1173,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
         "batting": {
           "ab": 1,
@@ -1014,7 +1182,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1049,8 +1220,24 @@
         "wp": 0,
         "opp_avg": ".231"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11663",
+        "batting": null,
+        "pitching": {
+          "ip": "3.2",
+          "h": 5,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 3.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "1e7e1c9e": {
       "id": "1e7e1c9e",
@@ -1084,17 +1271,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 1,
@@ -1137,8 +1316,24 @@
         "wp": 0,
         "opp_avg": ".259"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11662",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "1f0d1eb2": {
       "id": "1f0d1eb2",
@@ -1169,8 +1364,24 @@
         "wp": 0,
         "opp_avg": ".396"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11663",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 3.0 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "8e8a8c98": {
       "id": "8e8a8c98",
@@ -1204,17 +1415,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 2,
@@ -1238,11 +1441,11 @@
       "num": "34.0",
       "school": "Murray State University",
       "season_batting": {
-        "g": 7,
-        "gs": 3,
-        "avg": 0.267,
-        "ops": 1.02,
-        "ab": 15,
+        "g": 8,
+        "gs": 4,
+        "avg": 0.222,
+        "ops": 0.856,
+        "ab": 18,
         "r": 3,
         "h": 4,
         "doubles": 3,
@@ -1250,12 +1453,12 @@
         "hr": 1,
         "rbi": 6,
         "tb": 10,
-        "slg": 0.667,
+        "slg": 0.556,
         "bb": 1,
         "hbp": 1,
         "so": 3,
         "gdp": 1,
-        "obp": 0.353,
+        "obp": 0.3,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1263,22 +1466,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "date": "2026-03-13",
+        "opponent": "Lindenwood",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11665",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 1,
-          "rbi": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "DH"
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 2 RBI against Kentucky St.. Contributed at the plate in the team's W 26-2."
+      "narrative": "Went 0/3 with 0 RBI against Lindenwood. Struggled to make contact."
     },
     "e6523b67": {
       "id": "e6523b67",
@@ -1312,17 +1518,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.1",
           "h": 0,
@@ -1365,32 +1563,8 @@
         "wp": 3,
         "opp_avg": ".000"
       },
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
-        "result": "W 26-2",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 0,
-          "r": 2,
-          "er": 2,
-          "bb": 4,
-          "so": 1,
-          "wp": 3,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Kentucky St., throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "last_game": null,
+      "narrative": null
     },
     "e59787fd": {
       "id": "e59787fd",
@@ -1424,17 +1598,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1459,23 +1625,23 @@
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.42,
-        "whip": 1.42,
+        "era": 0.87,
+        "whip": 1.06,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 6.1,
-        "h": 6,
+        "ip": 10.1,
+        "h": 8,
         "r": 2,
         "er": 1,
         "bb": 3,
-        "so": 7,
+        "so": 11,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".250"
+        "opp_avg": ".211"
       },
       "last_game": null,
       "narrative": null
@@ -1517,7 +1683,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
         "batting": {
           "ab": 2,
@@ -1526,7 +1692,10 @@
           "rbi": 2,
           "bb": 0,
           "so": 0,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1561,8 +1730,24 @@
         "wp": 1,
         "opp_avg": ".294"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "UCF",
+        "result": "L",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/ucf/boxscore/11661",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UCF, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "98057343": {
       "id": "98057343",
@@ -1596,17 +1781,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Kentucky St.",
-        "result": "W 26-2",
+        "result": "W",
         "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,

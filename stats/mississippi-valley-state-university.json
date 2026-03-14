@@ -2,78 +2,17 @@
   "school": "Mississippi Valley State University",
   "base_url": "https://www.mvsusports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:51:13.740100Z",
-  "record": "4-11",
+  "generated_at": "2026-03-14T15:12:18.152415Z",
+  "record": "4-12",
   "most_recent_game": {
-    "date": "2026-03-11",
-    "opponent": "New Orleans",
-    "result": "L 7-9",
-    "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=10212&path=baseball",
-    "recap_url": "https://www.mvsusports.com/news/2026/3/11/baseball-haynes-goes-yard-twice-to-lead-valley-to-comeback-win-at-uno.aspx",
-    "recap_headline": "Mississippi Valley State University Athletics",
+    "date": "2026-03-13",
+    "opponent": "Arkansas-Pine Bluff",
+    "result": "",
+    "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "7f5a6554": {
-      "id": "7f5a6554",
-      "name": "Jordan Jones",
-      "fn": "Jordan",
-      "ln": "Jones",
-      "pos": "Infield",
-      "yr": "So.",
-      "num": "9.0",
-      "school": "Mississippi Valley State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "New Orleans",
-        "result": "W 14-0",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9049&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against New Orleans, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
-    },
-    "36a97ada": {
-      "id": "36a97ada",
-      "name": "Jace Jones",
-      "fn": "Jace",
-      "ln": "Jones",
-      "pos": "Pitcher / Infield",
-      "yr": "Sr.",
-      "num": "21.0",
-      "school": "Mississippi Valley State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "New Orleans",
-        "result": "W 14-0",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9049&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against New Orleans, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

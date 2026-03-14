@@ -2,138 +2,17 @@
   "school": "North Carolina Central University",
   "base_url": "https://www.nccueaglepride.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:54:58.040158Z",
+  "generated_at": "2026-03-14T15:16:39.811494Z",
   "record": "27-20",
   "most_recent_game": {
     "date": "2021-05-22",
     "opponent": "Norfolk State",
-    "result": "W 7-6",
+    "result": "",
     "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6953&path=baseball",
-    "recap_url": "https://www.nccueaglepride.com/news/2021/5/22/baseball-eagles-hold-off-florida-am-to-advance-to-final.aspx",
-    "recap_headline": "North Carolina Central University Athletics",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
-  "players": {
-    "d2754c70": {
-      "id": "d2754c70",
-      "name": "Caleb McRoy",
-      "fn": "Caleb",
-      "ln": "McRoy",
-      "pos": "LHP",
-      "yr": "R-So.",
-      "num": "",
-      "school": "North Carolina Central University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2021-05-21",
-        "opponent": "Florida A&M",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6952&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Florida A&M, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
-    },
-    "70618919": {
-      "id": "70618919",
-      "name": "Scott Meylan",
-      "fn": "Scott",
-      "ln": "Meylan",
-      "pos": "RHP",
-      "yr": "R-Jr.",
-      "num": "",
-      "school": "North Carolina Central University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2021-05-21",
-        "opponent": "Florida A&M",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6952&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "0.0",
-          "h": 1,
-          "r": 2,
-          "er": 2,
-          "bb": 3,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": null
-    },
-    "8af9f09b": {
-      "id": "8af9f09b",
-      "name": "Shawn Runey",
-      "fn": "Shawn",
-      "ln": "Runey",
-      "pos": "RHP",
-      "yr": "R-Jr.",
-      "num": "",
-      "school": "North Carolina Central University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2021-05-21",
-        "opponent": "Florida A&M",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6952&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "7.0",
-          "h": 2,
-          "r": 1,
-          "er": 0,
-          "bb": 2,
-          "so": 5,
-          "wp": 0,
-          "hbp": 3
-        }
-      },
-      "narrative": "Took the mound against Florida A&M, throwing 7.0 innings. Struck out 5 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."
-    },
-    "c56c6483": {
-      "id": "c56c6483",
-      "name": "Sam Murchison",
-      "fn": "Sam",
-      "ln": "Murchison",
-      "pos": "RHP",
-      "yr": "Fr.",
-      "num": "",
-      "school": "North Carolina Central University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2021-05-21",
-        "opponent": "Florida A&M",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6952&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 2,
-          "wp": 1,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Florida A&M, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

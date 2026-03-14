@@ -2,12 +2,12 @@
   "school": "University of St. Thomas (Minnesota)",
   "base_url": "https://www.Tommiesports.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:27:54.872755Z",
+  "generated_at": "2026-03-14T16:22:37.637447Z",
   "record": "3-13",
   "most_recent_game": {
     "date": "2026-03-10",
     "opponent": "Iowa",
-    "result": "W 7-2",
+    "result": "L",
     "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
     "recap_url": "https://www.Tommiesports.com/news/2026/3/10/baseball-tommies-fall-in-iowa-city",
     "recap_headline": "University of St. Thomas Athletics",
@@ -48,8 +48,26 @@
         "sb_att": 12
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Iowa. Struggled to make contact."
     },
     "1ccd1746": {
       "id": "1ccd1746",
@@ -85,8 +103,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Iowa. Struggled to make contact."
     },
     "2c2b01d4": {
       "id": "2c2b01d4",
@@ -122,8 +158,26 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Iowa. Struggled to make contact."
     },
     "add5b2d7": {
       "id": "add5b2d7",
@@ -159,8 +213,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Iowa. Struggled to make contact."
     },
     "c4f132e0": {
       "id": "c4f132e0",
@@ -196,8 +268,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Iowa. Struggled to make contact."
     },
     "86ea9d3d": {
       "id": "86ea9d3d",
@@ -228,8 +318,24 @@
         "wp": 1,
         "opp_avg": ".261"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "vs Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9777",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 5,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against vs Kansas, throwing 5.0 innings. Struck out 3 while allowing just 4 hit(s) and 2 earned run(s) in a quality start."
     },
     "fcc67672": {
       "id": "fcc67672",
@@ -265,8 +371,26 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 2,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 1 RBI against Iowa. Had an outstanding performance at the plate (0.500)."
     },
     "f17604fd": {
       "id": "f17604fd",
@@ -297,8 +421,24 @@
         "wp": 2,
         "opp_avg": ".300"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iowa, throwing 3.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "dcf000a0": {
       "id": "dcf000a0",
@@ -352,8 +492,35 @@
         "wp": 2,
         "opp_avg": ".238"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-05",
+        "opponent": "Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9775",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "5.1",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 6,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Went 1/1 with 1 RBI against Kansas. Had an outstanding performance at the plate (1.000)."
     },
     "e2b76428": {
       "id": "e2b76428",
@@ -389,8 +556,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "vs Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9777",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against vs Kansas. Struggled to make contact."
     },
     "9d24a126": {
       "id": "9d24a126",
@@ -426,8 +611,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Iowa. Struggled to make contact."
     },
     "e311e637": {
       "id": "e311e637",
@@ -463,8 +666,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "vs Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9777",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against vs Kansas. Contributed at the plate in the team's L."
     },
     "f2c4817f": {
       "id": "f2c4817f",
@@ -500,8 +721,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Iowa. Struggled at the plate but saw 1 walk(s)."
     },
     "a679537d": {
       "id": "a679537d",
@@ -532,8 +771,24 @@
         "wp": 4,
         "opp_avg": ".320"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Kansas",
+        "result": "W",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9778",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 2,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Kansas, throwing 4.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "c5951cdc": {
       "id": "c5951cdc",
@@ -569,8 +824,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Iowa. Struggled at the plate but saw 2 walk(s)."
     },
     "13a8f4ac": {
       "id": "13a8f4ac",
@@ -601,8 +874,24 @@
         "wp": 4,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9776",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 5,
+          "r": 5,
+          "er": 5,
+          "bb": 4,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Kansas, throwing 5.0 innings. Struck out 5 while allowing just 5 hit(s) and 5 earned run(s) in a quality start."
     },
     "321e200e": {
       "id": "321e200e",
@@ -638,8 +927,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-15",
+        "opponent": "Abilene Christian",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/abilene-christian/boxscore/9766",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Abilene Christian. Struggled to make contact."
     },
     "de6e80a2": {
       "id": "de6e80a2",
@@ -670,8 +977,24 @@
         "wp": 1,
         "opp_avg": ".321"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "vs Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9777",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against vs Kansas, throwing 2.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
     "c25176f4": {
       "id": "c25176f4",
@@ -725,8 +1048,35 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Went 0/1 with 0 RBI against Iowa. Struggled to make contact."
     },
     "e510a13e": {
       "id": "e510a13e",
@@ -757,8 +1107,24 @@
         "wp": 0,
         "opp_avg": ".385"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iowa, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "a1f91107": {
       "id": "a1f91107",
@@ -789,8 +1155,24 @@
         "wp": 0,
         "opp_avg": ".326"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9776",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 5,
+          "r": 5,
+          "er": 5,
+          "bb": 3,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Kansas, throwing 1.1 innings. Allowed 5 earned run(s) with 1 strikeout(s)."
     },
     "cc605616": {
       "id": "cc605616",
@@ -821,8 +1203,24 @@
         "wp": 0,
         "opp_avg": ".125"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-05",
+        "opponent": "Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9775",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Kansas, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "2d313764": {
       "id": "2d313764",
@@ -853,8 +1251,24 @@
         "wp": 1,
         "opp_avg": ".243"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Kansas",
+        "result": "W",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9778",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Kansas, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "54194462": {
       "id": "54194462",
@@ -885,8 +1299,24 @@
         "wp": 1,
         "opp_avg": ".409"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iowa, throwing 0.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "89751e8e": {
       "id": "89751e8e",
@@ -917,8 +1347,24 @@
         "wp": 0,
         "opp_avg": ".296"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "vs Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9777",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against vs Kansas, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "5811b19e": {
       "id": "5811b19e",
@@ -949,8 +1395,24 @@
         "wp": 1,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iowa, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "8ff5c919": {
       "id": "8ff5c919",
@@ -986,8 +1448,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Iowa. Struggled at the plate but saw 1 walk(s)."
     },
     "91fa5dc4": {
       "id": "91fa5dc4",
@@ -1018,8 +1498,24 @@
         "wp": 2,
         "opp_avg": ".304"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Iowa",
+        "result": "L",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/iowa/boxscore/9780",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 2,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Iowa, throwing 1.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "3f9cea33": {
       "id": "3f9cea33",
@@ -1050,8 +1546,24 @@
         "wp": 0,
         "opp_avg": ".111"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Kansas",
+        "result": "W",
+        "boxscore_url": "https://www.Tommiesports.com/sports/baseball/stats/2026/kansas/boxscore/9778",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Kansas, throwing 2.2 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

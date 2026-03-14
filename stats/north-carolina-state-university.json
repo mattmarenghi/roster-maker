@@ -2,16 +2,16 @@
   "school": "North Carolina State University",
   "base_url": "https://www.gopack.com",
   "season": "2026",
-  "generated_at": "2026-03-13T02:55:15.101993Z",
-  "record": "14-3",
+  "generated_at": "2026-03-14T15:17:36.714371Z",
+  "record": "46-52",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Elon",
-    "result": "L 0-2",
-    "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
-    "recap_url": "https://www.gopack.com/news/2026/3/10/baseball-wolfpack-can-t-find-its-offense-in-2-0-loss-to-elon",
+    "date": "2026-03-13",
+    "opponent": "Boston College",
+    "result": "W",
+    "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
+    "recap_url": "https://www.gopack.com/news/2026/3/13/baseball-marohn-leads-wolfpack-to-first-conference-win-of-the-season",
     "recap_headline": "North Carolina State University Athletics",
-    "recap_text": "RALEIGH, N.C. \u2013\nIn the 60th all-time meeting between Elon and No. 10 NC State, the visiting Phoenix left with a 2-0 victory over the Wolfpack at the Doak Tuesday afternoon. It was Elon's first shutout against NC State.\nThe Wolfpack (14-3) lost its first midweek game of the season, suffering a second shutout of the year. The last time NC State was shut out twice within the first 17 games was in 2016.\nThe game featured only eight hits combined, with Elon (9-7) scoring in the first and third innings. NC State's four hits were all singles, with one walk and five strikeouts.\nRyder Garino\n(1-1) made his first start for the Wolfpack. He pitched two innings, allowing one run on no hits, with two walks and three strikeouts in the loss.\nDanny Heintz\nreplaced Garino, allowing the second run on two hits and two walks, with one strikeout.\nA trio of freshmen\u2014\nAiden Kitchings\n,\nSam Harris\n, and\nLuke Hemric\n\u2014came on after Heintz and shut down the Phoenix, keeping the game close. They combined to pitch six innings, allowing just three baserunners and striking out five.\nElon starting pitcher Owen Winebarger (1-1) kept the Wolfpack in check for 6.1 innings, allowing all four NC State hits, with just one walk and four strikeouts. The Phoenix staff retired 20 of the last 23 Wolfpack batters.\nA leadoff walk to start the game scored Elon's first run. A wild pitch, a steal of third, and a sacrifice fly later made it 1-0.\nIn the third, Heintz got two quick outs on four pitches. A two-out single and a steal put a runner in scoring position, and Elon scored its second run with a single up the middle.\nIn the seventh, NC State had its best chance to score as\nSherman Johnson\ndrew a walk and\nMikey Ryan\nsingled, putting runners on with one out. Brayden Frassman nearly tied the game with a foul line double attempt that landed just foul. He then grounded into a double play.\nNC State will now turn its attention to ACC play as Boston College visits the Doak for a three-game series beginning on Friday, March 13\nth\nat 3 p.m."
+    "recap_text": "RALEIGH, N.C. \u2013\nBehind\nRyan Marohn's\nseven scoreless innings, No. 10 NC State baseball opened conference play with a 4-2 victory over Boston College Friday afternoon at Doak Field.\nMarohn (3-0) made his fourth start of the season after missing last week's game, but he didn't miss a beat. He went seven scoreless innings, allowing just three hits and three walks while striking out six in the victory.\nBoston College (10-7, 2-2) had an opportunity in the ninth to tie the game, as the Eagles had the bases loaded with one out.\nCollins Black\n(2) came on and earned the save as the Wolfpack (15-3, 1-0) turned a heads-up 9-3-5 double play to end the game.\nOffensively,\nBrayden Fraasman\nwent 2-for-3 with an RBI and his second career triple.\nRett Johnson\nhad an RBI single, using his speed to beat out an infield hit in a 2-for-3 day.\nLuke Nixon\nhit his second home run of the season, an opposite-field shot as well.\nThe Wolfpack tagged Eagles starter AJ Colarusso (1-1) for all four runs on seven hits, with two walks and four strikeouts. Boston College scored both its runs in the final two frames after back-to-back doubles in the eighth, and in the ninth, the second run crossed home plate before the double play was recorded.\nIt was a scoreless three innings to start the contest until the Wolfpack broke through in the fourth, after a Fraasman sacrifice fly down the right field line in foul territory scored a speedy\nMikey Ryan\nfrom third.\nThe fourth inning was the first of three straight innings in which the Wolfpack put up runs. In the bottom of the fifth, designated hitter\nDalton Bargo\nsingled Johnson home, who reached base from his first infield single and moved to second following a\nTy Head\nsacrifice bunt.\nTwo important runs in the bottom of the sixth made it 4-0 Wolfpack, as Nixon took the first pitch of the inning 351 feet to right field for a homer. Shortly after, Fraasman tripled and scored after another infield single from Johnson, giving him his 14th RBI of the season.\nNC State is now 3-1 in two-run games and 9-0 when scoring first.\nThe series continues Saturday, March 14th, at 2 p.m. at Doak Field and will be available on ACCNX."
   },
   "players": {
     "48f856c8": {
@@ -24,47 +24,50 @@
       "num": "0.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.386,
-        "ops": 1.067,
-        "ab": 57,
-        "r": 22,
-        "h": 22,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.383,
+        "ops": 1.099,
+        "ab": 60,
+        "r": 23,
+        "h": 23,
         "doubles": 7,
         "triples": 1,
-        "hr": 1,
-        "rbi": 16,
-        "tb": 34,
-        "slg": 0.596,
+        "hr": 2,
+        "rbi": 17,
+        "tb": 38,
+        "slg": 0.633,
         "bb": 9,
         "hbp": 2,
         "so": 8,
         "gdp": 1,
-        "obp": 0.471,
+        "obp": 0.466,
         "sf": 2,
-        "sh": 2,
+        "sh": 3,
         "sb": 9,
         "sb_att": 10
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 4,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 1,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "2B"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Elon. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 1/3 with 1 RBI against Boston College. Hit 1 home run(s). Contributed at the plate in the team's W."
     },
     "642e522f": {
       "id": "642e522f",
@@ -76,24 +79,24 @@
       "num": "1.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.362,
-        "ops": 0.969,
-        "ab": 47,
-        "r": 16,
-        "h": 17,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.38,
+        "ops": 0.988,
+        "ab": 50,
+        "r": 17,
+        "h": 19,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
-        "rbi": 13,
-        "tb": 24,
-        "slg": 0.511,
+        "rbi": 14,
+        "tb": 26,
+        "slg": 0.52,
         "bb": 9,
         "hbp": 1,
         "so": 5,
         "gdp": 1,
-        "obp": 0.458,
+        "obp": 0.468,
         "sf": 2,
         "sh": 0,
         "sb": 4,
@@ -101,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Elon. Struggled to make contact."
+      "narrative": "Went 2/3 with 1 RBI against Boston College. Had an outstanding performance at the plate (0.667)."
     },
     "0983074d": {
       "id": "0983074d",
@@ -128,24 +134,24 @@
       "num": "2.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.315,
-        "ops": 1.079,
-        "ab": 54,
-        "r": 18,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.298,
+        "ops": 1.034,
+        "ab": 57,
+        "r": 19,
         "h": 17,
         "doubles": 1,
         "triples": 1,
         "hr": 5,
         "rbi": 13,
         "tb": 35,
-        "slg": 0.648,
-        "bb": 10,
+        "slg": 0.614,
+        "bb": 11,
         "hbp": 1,
-        "so": 8,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.431,
+        "obp": 0.42,
         "sf": 0,
         "sh": 1,
         "sb": 3,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 1,
+          "r": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "SS"
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Elon. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 0/3 with 0 RBI against Boston College. Struggled at the plate but saw 1 walk(s)."
     },
     "82b03a55": {
       "id": "82b03a55",
@@ -204,8 +213,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Queens NC",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/queens-nc/boxscore/24288",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 1 RBI against Queens NC. Struggled to make contact."
     },
     "dcc6ae8c": {
       "id": "dcc6ae8c",
@@ -217,24 +244,24 @@
       "num": "5.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 15,
-        "gs": 14,
-        "avg": 0.362,
-        "ops": 0.969,
-        "ab": 47,
-        "r": 16,
-        "h": 17,
+        "g": 16,
+        "gs": 15,
+        "avg": 0.38,
+        "ops": 0.988,
+        "ab": 50,
+        "r": 17,
+        "h": 19,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
-        "rbi": 13,
-        "tb": 24,
-        "slg": 0.511,
+        "rbi": 14,
+        "tb": 26,
+        "slg": 0.52,
         "bb": 9,
         "hbp": 1,
         "so": 5,
         "gdp": 1,
-        "obp": 0.458,
+        "obp": 0.468,
         "sf": 2,
         "sh": 0,
         "sb": 4,
@@ -242,22 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 1,
+          "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "LF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Elon. Struggled to make contact."
+      "narrative": "Went 2/4 with 0 RBI against Boston College. Had an outstanding performance at the plate (0.500)."
     },
     "ae2158d9": {
       "id": "ae2158d9",
@@ -269,24 +299,24 @@
       "num": "6.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 10,
-        "gs": 9,
-        "avg": 0.361,
-        "ops": 1.221,
-        "ab": 36,
+        "g": 11,
+        "gs": 10,
+        "avg": 0.359,
+        "ops": 1.191,
+        "ab": 39,
         "r": 9,
-        "h": 13,
+        "h": 14,
         "doubles": 1,
         "triples": 0,
         "hr": 5,
-        "rbi": 14,
-        "tb": 29,
-        "slg": 0.806,
-        "bb": 4,
+        "rbi": 15,
+        "tb": 30,
+        "slg": 0.769,
+        "bb": 5,
         "hbp": 0,
-        "so": 7,
+        "so": 9,
         "gdp": 3,
-        "obp": 0.415,
+        "obp": 0.422,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -294,22 +324,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "PH/DH"
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Elon. Struggled to make contact."
+      "narrative": "Went 1/3 with 1 RBI against Boston College. Contributed at the plate in the team's W."
     },
     "6d4f5733": {
       "id": "6d4f5733",
@@ -321,47 +354,50 @@
       "num": "7.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.322,
-        "ops": 0.833,
-        "ab": 59,
-        "r": 14,
-        "h": 19,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.339,
+        "ops": 0.882,
+        "ab": 62,
+        "r": 15,
+        "h": 21,
         "doubles": 5,
-        "triples": 0,
+        "triples": 1,
         "hr": 1,
-        "rbi": 8,
-        "tb": 27,
-        "slg": 0.458,
+        "rbi": 9,
+        "tb": 31,
+        "slg": 0.5,
         "bb": 5,
         "hbp": 0,
         "so": 10,
         "gdp": 2,
-        "obp": 0.375,
-        "sf": 0,
+        "obp": 0.382,
+        "sf": 1,
         "sh": 1,
         "sb": 4,
         "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 1,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Elon. Contributed at the plate in the team's L 0-2."
+      "narrative": "Went 2/3 with 1 RBI against Boston College. Had an outstanding performance at the plate (0.667)."
     },
     "515a5bc2": {
       "id": "515a5bc2",
@@ -395,17 +431,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Elon",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
@@ -448,8 +476,24 @@
         "wp": 0,
         "opp_avg": ".125"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Princeton",
+        "result": "L",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/princeton/boxscore/24281",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Princeton, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "47fb37dd": {
       "id": "47fb37dd",
@@ -461,11 +505,11 @@
       "num": "11.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 9,
-        "gs": 3,
-        "avg": 0.3,
-        "ops": 1.429,
-        "ab": 10,
+        "g": 10,
+        "gs": 4,
+        "avg": 0.25,
+        "ops": 1.208,
+        "ab": 12,
         "r": 6,
         "h": 3,
         "doubles": 1,
@@ -473,12 +517,12 @@
         "hr": 2,
         "rbi": 6,
         "tb": 10,
-        "slg": 1.0,
+        "slg": 0.833,
         "bb": 2,
         "hbp": 1,
         "so": 2,
         "gdp": 0,
-        "obp": 0.429,
+        "obp": 0.375,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -486,22 +530,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Elon. Struggled to make contact."
+      "narrative": "Went 0/2 with 0 RBI against Boston College. Struggled to make contact."
     },
     "8720608e": {
       "id": "8720608e",
@@ -537,8 +584,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-24",
+        "opponent": "Richmond",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/richmond/boxscore/24282",
+        "batting": {
+          "ab": 2,
+          "r": 2,
+          "h": 2,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/2 with 2 RBI against Richmond. Had an outstanding performance at the plate (1.000)."
     },
     "5a7c3b53": {
       "id": "5a7c3b53",
@@ -577,7 +642,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Lafayette",
-        "result": "W 10-4",
+        "result": "W",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/lafayette/boxscore/24290",
         "batting": {
           "ab": 1,
@@ -586,7 +651,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -602,11 +670,11 @@
       "num": "14.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.278,
-        "ops": 1.196,
-        "ab": 54,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.263,
+        "ops": 1.14,
+        "ab": 57,
         "r": 23,
         "h": 15,
         "doubles": 3,
@@ -614,35 +682,38 @@
         "hr": 7,
         "rbi": 22,
         "tb": 39,
-        "slg": 0.722,
+        "slg": 0.684,
         "bb": 19,
         "hbp": 2,
-        "so": 4,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.474,
+        "obp": 0.456,
         "sf": 1,
-        "sh": 2,
+        "sh": 3,
         "sb": 12,
         "sb_att": 14
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Elon. Struggled to make contact."
+      "narrative": "Went 0/3 with 0 RBI against Boston College. Struggled to make contact."
     },
     "130ef7ad": {
       "id": "130ef7ad",
@@ -654,11 +725,11 @@
       "num": "15.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 15,
+        "g": 16,
         "gs": 13,
-        "avg": 0.179,
-        "ops": 0.66,
-        "ab": 39,
+        "avg": 0.175,
+        "ops": 0.646,
+        "ab": 40,
         "r": 10,
         "h": 7,
         "doubles": 3,
@@ -666,12 +737,12 @@
         "hr": 1,
         "rbi": 11,
         "tb": 13,
-        "slg": 0.333,
+        "slg": 0.325,
         "bb": 10,
         "hbp": 0,
-        "so": 4,
+        "so": 5,
         "gdp": 2,
-        "obp": 0.327,
+        "obp": 0.321,
         "sf": 3,
         "sh": 0,
         "sb": 0,
@@ -679,22 +750,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Lafayette",
-        "result": "W 10-4",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/lafayette/boxscore/24290",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Lafayette. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/1 with 0 RBI against Boston College. Struggled to make contact."
     },
     "fb1869b8": {
       "id": "fb1869b8",
@@ -707,50 +781,42 @@
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.86,
-        "whip": 1.0,
+        "era": 3.52,
+        "whip": 1.04,
         "w": 2,
         "l": 0,
-        "sv": 1,
-        "g": 4,
+        "sv": 2,
+        "g": 5,
         "gs": 0,
-        "ip": 7.0,
+        "ip": 7.2,
         "h": 4,
         "r": 5,
         "er": 3,
-        "bb": 3,
+        "bb": 4,
         "so": 12,
         "hr": 2,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".160"
+        "opp_avg": ".154"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Lafayette",
-        "result": "W 10-4",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/lafayette/boxscore/24290",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
+        "batting": null,
         "pitching": {
-          "ip": "2.1",
-          "h": 1,
-          "r": 3,
-          "er": 3,
-          "bb": 2,
-          "so": 3,
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Lafayette, throwing 2.1 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
+      "narrative": "Took the mound against Boston College, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "95898fbd": {
       "id": "95898fbd",
@@ -807,16 +873,19 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Elon",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "P"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": {
           "ip": "2.0",
@@ -829,7 +898,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Elon, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "Went 0/1 with 0 RBI against Elon. Struggled to make contact."
     },
     "8d9fa55b": {
       "id": "8d9fa55b",
@@ -841,11 +910,11 @@
       "num": "18.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 13,
+        "g": 14,
         "gs": 7,
-        "avg": 0.423,
-        "ops": 1.117,
-        "ab": 26,
+        "avg": 0.407,
+        "ops": 1.083,
+        "ab": 27,
         "r": 11,
         "h": 11,
         "doubles": 3,
@@ -853,12 +922,12 @@
         "hr": 0,
         "rbi": 8,
         "tb": 14,
-        "slg": 0.538,
+        "slg": 0.519,
         "bb": 10,
         "hbp": 1,
         "so": 4,
         "gdp": 0,
-        "obp": 0.579,
+        "obp": 0.564,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -866,22 +935,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH/3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Elon. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/1 with 0 RBI against Boston College. Struggled to make contact."
     },
     "c803cc34": {
       "id": "c803cc34",
@@ -912,8 +984,24 @@
         "wp": 1,
         "opp_avg": ".196"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-03",
+        "opponent": "Coastal Carolina",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/coastal-carolina/boxscore/24287",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Coastal Carolina, throwing 5.0 innings. Struck out 4 while allowing just 4 hit(s) and 2 earned run(s) in a quality start."
     },
     "fc70fa8e": {
       "id": "fc70fa8e",
@@ -926,26 +1014,42 @@
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.32,
-        "whip": 1.39,
-        "w": 2,
+        "era": 0.87,
+        "whip": 1.21,
+        "w": 3,
         "l": 0,
         "sv": 0,
-        "g": 3,
-        "gs": 3,
-        "ip": 13.2,
-        "h": 13,
+        "g": 4,
+        "gs": 4,
+        "ip": 20.2,
+        "h": 16,
         "r": 6,
         "er": 2,
-        "bb": 6,
-        "so": 20,
+        "bb": 9,
+        "so": 26,
         "hr": 1,
-        "hbp": 2,
-        "wp": 0,
-        "opp_avg": ".265"
+        "hbp": 3,
+        "wp": 1,
+        "opp_avg": ".225"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 6,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Boston College, throwing 7.0 innings. Struck out 6 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
     },
     "1e166766": {
       "id": "1e166766",
@@ -979,17 +1083,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Elon",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1037,8 +1133,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Queens NC",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/queens-nc/boxscore/24288",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Queens NC. Struggled to make contact."
     },
     "015c1d6a": {
       "id": "015c1d6a",
@@ -1074,8 +1188,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Sacred Heart",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/sacred-heart/boxscore/24285",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Sacred Heart. Struggled to make contact."
     },
     "1ec94ea1": {
       "id": "1ec94ea1",
@@ -1109,17 +1241,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Elon",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 2,
@@ -1143,11 +1267,11 @@
       "num": "27.0",
       "school": "North Carolina State University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.418,
-        "ops": 1.257,
-        "ab": 67,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.394,
+        "ops": 1.189,
+        "ab": 71,
         "r": 20,
         "h": 28,
         "doubles": 4,
@@ -1155,12 +1279,12 @@
         "hr": 6,
         "rbi": 22,
         "tb": 52,
-        "slg": 0.776,
+        "slg": 0.732,
         "bb": 8,
         "hbp": 1,
-        "so": 10,
+        "so": 11,
         "gdp": 2,
-        "obp": 0.481,
+        "obp": 0.457,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -1168,22 +1292,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Elon",
-        "result": "L 0-2",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
-          "pos": "1B"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Elon. Struggled to make contact."
+      "narrative": "Went 0/4 with 0 RBI against Boston College. Struggled to make contact."
     },
     "80e59815": {
       "id": "80e59815",
@@ -1217,17 +1344,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Lafayette",
-        "result": "W 14-4",
+        "result": "W",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/lafayette/boxscore/24292",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "6.0",
           "h": 4,
@@ -1270,8 +1389,24 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Lafayette",
+        "result": "L",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/lafayette/boxscore/24289",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Lafayette, throwing 1.0 innings. Allowed 5 earned run(s) with 0 strikeout(s)."
     },
     "a1782cf8": {
       "id": "a1782cf8",
@@ -1284,26 +1419,42 @@
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.91,
-        "whip": 1.18,
+        "era": 5.84,
+        "whip": 1.38,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 11.0,
-        "h": 9,
-        "r": 6,
-        "er": 6,
-        "bb": 4,
-        "so": 12,
+        "ip": 12.1,
+        "h": 11,
+        "r": 8,
+        "er": 8,
+        "bb": 6,
+        "so": 13,
         "hr": 3,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".220"
+        "opp_avg": ".239"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Boston College",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/boston-college/boxscore/24294",
+        "batting": null,
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Boston College, throwing 1.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "b8d54909": {
       "id": "b8d54909",
@@ -1334,8 +1485,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Princeton",
+        "result": "W",
+        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/princeton/boxscore/24280",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 3,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Princeton, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "d9c0433c": {
       "id": "d9c0433c",
@@ -1369,17 +1536,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Lafayette",
-        "result": "W 10-4",
+        "result": "W",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/lafayette/boxscore/24290",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "6.2",
           "h": 4,
@@ -1425,17 +1584,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Elon",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "3.0",
           "h": 1,
@@ -1486,7 +1637,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Elon",
-        "result": "L 0-2",
+        "result": "L",
         "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/elon/boxscore/24293",
         "batting": {
           "ab": 2,
@@ -1495,7 +1646,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1553,31 +1707,7 @@
         "wp": 0,
         "opp_avg": "1.000"
       },
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Lafayette",
-        "result": "W 14-4",
-        "boxscore_url": "https://www.gopack.com/sports/baseball/stats/2026/lafayette/boxscore/24292",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
-        "pitching": {
-          "ip": "0.0",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
+      "last_game": null,
       "narrative": null
     }
   },

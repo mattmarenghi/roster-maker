@@ -2,16 +2,16 @@
   "school": "University of Georgia",
   "base_url": "https://www.georgiadogs.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:17:03.825316Z",
-  "record": "15-3",
+  "generated_at": "2026-03-14T15:59:08.440241Z",
+  "record": "22-23",
   "most_recent_game": {
-    "date": "2026-03-08",
-    "opponent": "Queens",
-    "result": "W 14-3",
-    "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
-    "recap_url": "https://www.georgiadogs.com/news/2026/3/8/baseball-georgia-wins-finale-13-3-to-sweep-queens",
+    "date": "2026-03-13",
+    "opponent": "Tennessee",
+    "result": "L",
+    "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
+    "recap_url": "https://www.georgiadogs.com/news/2026/3/13/baseball-georgia-drops-sec-opener-to-tennessee-7-4",
     "recap_headline": "University of Georgia Athletics",
-    "recap_text": "ATHENS \u2013\nThe eighth-ranked Georgia baseball team completed a four-game sweep over Queens with a 13-3 seven-inning series finale on Sunday afternoon at Foley Field.\nFast Facts\nMatt Scott\n(2-0) got the start on the bump on a staff afternoon for the Bulldogs, providing 2.0 innings while allowing two runs with four strikeouts for the win. Redshirt-junior\nCaleb Jameson\nrelieved Scott in the second and tossed one inning of no-hit ball, striking out all three batters faced.\nGeorgia (15-3) opened scoring in the bottom of the first inning as junior\nDaniel Jackson\n(3-5, 6 RBI, 2 HR) tallied his third home run of the series with a two-run shot to right field.\nQueens (4-12) answered with a two-run home run of their own in the second to tie the score 2-2. The Bulldogs regained the lead in the bottom of the frame off an RBI single from junior\nTre Phelps\n.\nIn the bottom of the third, senior\nKolby Branch\n(1-2, RBI, HR) hit his fourth home run of the series, his eighth of the season. Senior\nBrennan Hudson\n(1-3, 2 RBI, HR)\u00a0followed suit with this third home run of the season, marking his 10\nth\nof the season, to give Georgia a 5-2 lead.\nAfter a scoreless fourth inning, sophomore\nHenry Allen\n(1-4, 3 RBI, HR) smashed a three-run long ball to left field to boost Georgia's lead 8-2.\nThe Royals added another run in the seventh off a solo home run to cut the Bulldogs' lead to five, 8-3.\nFive-straight walks in the bottom of the seventh provided two runs and bases loaded for Jackson. The junior blasted his second grand slam of the week to invoke the 10-run rule and secure the series sweep.\nJackson leads the nation with 14 home runs, and the Bulldogs lead the country with 61 home runs.\nQuotes\nIke Cousins Head Baseball Coach\nWes Johnson\nOn where the team is at this point in the season...\n\"We just finished 11 games in 12 days. Obviously, by design. We're on spring break, so the guys will get a full day off tomorrow. I really like where we're at. That's why I scheduled it that way. You want to find out a lot about your team. I think we have. I think we know what most of the pieces are that we need to put in place. Not only at the mound, but at the plate. Defensively, I really think we've got a lot of options there as well. You're as ready as you can get going into conference play.\"\n#9\nKolby Branch\n| Sr. | INF\nOn today's game...\n\"Everybody's killing it. You look at the scoreboard, just homer after homer, a ton of RBIs, moving the ball around. Doing a good job of that right now.\"\nOn preparing for the start of SEC play next weekend...\n\"You got to take it one day at a time. Take your rest days. It's been a long \u2014 I don't know how long \u2014 14 days, but we've played a ton. You got to take your off days.\"\nUp Next\nGeorgia will return to action for SEC Opening Weekend to host No. 17 Tennessee. First pitch on Friday is set for 6 p.m. The game will be live on SEC Network+ and the Georgia Bulldog Sports Network."
+    "recap_text": "ATHENS \u2013\nSixth-ranked Georgia fell to No. 21 Tennessee, 7-4, on opening day of Southeastern Conference play on Friday at Foley Field.\nFast Facts\nJunior\nJoey Volchko\ngot the start on the mound for Georgia (15-4, 0-1 SEC) and tossed five\u00a0innings of two-run ball with eight strikeouts. Tennessee's Brandon Arvidson (1-0) received the win, while junior\nJustin Byrd\n(0-1) was credited with the loss.\nTennessee (14-4, 1-0 SEC) opened scoring in the third inning with two runs off an RBI single.\nThe Bulldogs broke open in the bottom of the fifth with four runs. With two outs on the board, junior\nRyan Black\nstepped to the plate and launched his fourth home run of the season to give Georgia its first run. Sophomore\nRylan Lujo\nsingled and stole second before an RBI single from\nBrennan Hudson\nplated him to knot the board. Junior\nTre Phelps\nextended his on-base streak to 16 games with a double to left center before he and Hudson scoring off a\nDaniel Jackson\ntwo-RBI single to give the Bulldogs a 4-2 boost.\nAfter two scoreless innings for the Volunteers, they answered in the top of the sixth with a two-RBI double to tie it, 4-4. Tennessee then had back-to-back home run innings with a solo in the seventh and two in the eighth, to take a 7-4 lead to win it.\nQuotes\nIke Cousins Head Baseball Coach\nWes Johnson\nOn the team's performance\u2026\n\"We've got to do a better job of executing with two strikes. We can't miss our spot as bad as we did. You've got to tip your hat to them. They're hitters. We have some of the same pitches, but we didn't do damage on them. When you're playing quality teams in our league on Friday night, it's going to come down to the guys who can hit the mistakes, and the guys that can't do that usually don't come out on top. Tonight, we didn't. We had one inning where we mustered something together, but we've got to do a better job of grinding out at bats and executing pitches in the areas we're trying to get them to with two strikes.\"\nUp Next\nThe Bulldogs will return to action tomorrow evening for the second game of the series against the Volunteers. First pitch is set for 5 p.m. The game will be live at SEC Network and on the Georgia Bulldogs Sports Network."
   },
   "players": {
     "c807af9d": {
@@ -24,7 +24,7 @@
       "num": "0.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 15,
+        "g": 16,
         "gs": 3,
         "avg": 0.375,
         "ops": 1.15,
@@ -51,7 +51,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Queens",
-        "result": "W 13-5",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
         "batting": {
           "ab": 2,
@@ -60,11 +60,14 @@
           "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "PH/2B"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/2 with 3 RBI against Queens. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 2/2 with 3 RBI against Queens. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
     },
     "02bb372e": {
       "id": "02bb372e",
@@ -76,24 +79,24 @@
       "num": "1.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
+        "g": 19,
+        "gs": 19,
         "avg": 0.406,
-        "ops": 1.396,
-        "ab": 64,
-        "r": 30,
-        "h": 26,
-        "doubles": 4,
+        "ops": 1.369,
+        "ab": 69,
+        "r": 31,
+        "h": 28,
+        "doubles": 5,
         "triples": 0,
         "hr": 8,
         "rbi": 22,
-        "tb": 54,
-        "slg": 0.844,
+        "tb": 57,
+        "slg": 0.826,
         "bb": 8,
         "hbp": 14,
-        "so": 8,
+        "so": 10,
         "gdp": 1,
-        "obp": 0.552,
+        "obp": 0.543,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -101,22 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 3,
-          "r": 2,
+          "ab": 5,
+          "r": 1,
           "h": 2,
-          "rbi": 2,
-          "bb": 1,
-          "so": 0,
-          "pos": "3B"
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 2 RBI against Queens. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 2/5 with 0 RBI against Tennessee. Had an outstanding performance at the plate (0.400)."
     },
     "d8f99fcf": {
       "id": "d8f99fcf",
@@ -128,24 +134,24 @@
       "num": "2.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
+        "g": 15,
+        "gs": 15,
         "avg": 0.327,
-        "ops": 1.02,
-        "ab": 49,
-        "r": 17,
-        "h": 16,
+        "ops": 1.059,
+        "ab": 52,
+        "r": 18,
+        "h": 17,
         "doubles": 2,
         "triples": 0,
-        "hr": 3,
-        "rbi": 10,
-        "tb": 27,
-        "slg": 0.551,
+        "hr": 4,
+        "rbi": 11,
+        "tb": 31,
+        "slg": 0.596,
         "bb": 13,
         "hbp": 1,
-        "so": 10,
+        "so": 12,
         "gdp": 1,
-        "obp": 0.469,
+        "obp": 0.463,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -153,22 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Queens",
-        "result": "W 13-5",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 5,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 1,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "2B/RF"
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 0 RBI against Queens. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/3 with 1 RBI against Tennessee. Hit 1 home run(s). Contributed at the plate in the team's L."
     },
     "160ec659": {
       "id": "160ec659",
@@ -180,47 +189,50 @@
       "num": "3.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.408,
-        "ops": 1.544,
-        "ab": 71,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.413,
+        "ops": 1.516,
+        "ab": 75,
         "r": 31,
-        "h": 29,
+        "h": 31,
         "doubles": 2,
         "triples": 1,
         "hr": 14,
-        "rbi": 33,
-        "tb": 75,
-        "slg": 1.056,
+        "rbi": 35,
+        "tb": 77,
+        "slg": 1.027,
         "bb": 9,
         "hbp": 3,
-        "so": 10,
-        "gdp": 2,
-        "obp": 0.488,
+        "so": 11,
+        "gdp": 3,
+        "obp": 0.489,
         "sf": 1,
         "sh": 0,
-        "sb": 10,
-        "sb_att": 10
+        "sb": 11,
+        "sb_att": 11
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 5,
-          "r": 3,
-          "h": 3,
-          "rbi": 6,
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 2,
           "bb": 0,
-          "so": 0,
-          "pos": "C"
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/5 with 6 RBI against Queens. Had an outstanding performance at the plate (0.600)."
+      "narrative": "Went 2/4 with 2 RBI against Tennessee. Had an outstanding performance at the plate (0.500)."
     },
     "f76da8fe": {
       "id": "f76da8fe",
@@ -259,7 +271,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Queens",
-        "result": "W 13-5",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
         "batting": {
           "ab": 4,
@@ -268,11 +280,14 @@
           "rbi": 1,
           "bb": 0,
           "so": 2,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Queens. Contributed at the plate in the team's W 13-5."
+      "narrative": "Went 1/4 with 1 RBI against Queens. Contributed at the plate in the team's W."
     },
     "edc86d0d": {
       "id": "edc86d0d",
@@ -285,50 +300,42 @@
       "school": "University of Georgia",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.88,
-        "whip": 0.56,
+        "era": 2.95,
+        "whip": 0.65,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 1,
-        "ip": 14.1,
-        "h": 7,
-        "r": 3,
-        "er": 3,
+        "ip": 18.1,
+        "h": 11,
+        "r": 6,
+        "er": 6,
         "bb": 1,
-        "so": 15,
-        "hr": 2,
+        "so": 21,
+        "hr": 5,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".143"
+        "opp_avg": ".169"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Queens",
-        "result": "W 13-5",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
+        "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
+          "ip": "4.0",
+          "h": 4,
+          "r": 3,
+          "er": 3,
           "bb": 0,
-          "so": 4,
+          "so": 6,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Queens, throwing 3.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+      "narrative": "Took the mound against Tennessee, throwing 4.0 innings. Allowed 3 earned run(s) with 6 strikeout(s)."
     },
     "ef393dd2": {
       "id": "ef393dd2",
@@ -359,8 +366,24 @@
         "wp": 2,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Western Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/western-carolina/boxscore/26222",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Western Carolina, throwing 1.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     },
     "2f2f717f": {
       "id": "2f2f717f",
@@ -399,7 +422,7 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Queens",
-        "result": "W 14-3",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
         "batting": {
           "ab": 3,
@@ -408,7 +431,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 2,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -424,47 +450,50 @@
       "num": "8.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 14,
-        "gs": 10,
-        "avg": 0.361,
-        "ops": 1.122,
-        "ab": 36,
-        "r": 14,
-        "h": 13,
+        "g": 15,
+        "gs": 11,
+        "avg": 0.35,
+        "ops": 1.065,
+        "ab": 40,
+        "r": 15,
+        "h": 14,
         "doubles": 3,
         "triples": 0,
         "hr": 2,
         "rbi": 10,
-        "tb": 22,
-        "slg": 0.611,
+        "tb": 23,
+        "slg": 0.575,
         "bb": 9,
         "hbp": 2,
         "so": 3,
         "gdp": 0,
-        "obp": 0.511,
+        "obp": 0.49,
         "sf": 0,
         "sh": 0,
-        "sb": 1,
-        "sb_att": 1
+        "sb": 2,
+        "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 1,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
-          "pos": "2B"
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Queens. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 1/4 with 0 RBI against Tennessee. Contributed at the plate in the team's L."
     },
     "b970d255": {
       "id": "b970d255",
@@ -476,11 +505,11 @@
       "num": "9.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.283,
-        "ops": 1.177,
-        "ab": 60,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.266,
+        "ops": 1.108,
+        "ab": 64,
         "r": 20,
         "h": 17,
         "doubles": 4,
@@ -488,12 +517,12 @@
         "hr": 8,
         "rbi": 21,
         "tb": 45,
-        "slg": 0.75,
+        "slg": 0.703,
         "bb": 14,
         "hbp": 1,
-        "so": 17,
+        "so": 18,
         "gdp": 2,
-        "obp": 0.427,
+        "obp": 0.405,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -501,22 +530,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 2,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
-          "bb": 2,
-          "so": 0,
-          "pos": "SS"
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 1 RBI against Queens. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/4 with 0 RBI against Tennessee. Struggled to make contact."
     },
     "9eed19de": {
       "id": "9eed19de",
@@ -550,17 +582,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Queens",
-        "result": "W 14-3",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 2,
@@ -611,7 +635,7 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Queens",
-        "result": "W 13-5",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
         "batting": {
           "ab": 2,
@@ -620,7 +644,10 @@
           "rbi": 0,
           "bb": 2,
           "so": 0,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -658,17 +685,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Queens",
-        "result": "W 13-5",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 8,
@@ -717,22 +736,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Queens",
-        "result": "W 13-5",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
+        "date": "2026-02-28",
+        "opponent": "Oakland",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/oakland/boxscore/26219",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Oakland. Struggled to make contact."
     },
     "66e508d0": {
       "id": "66e508d0",
@@ -786,8 +808,35 @@
         "wp": 0,
         "opp_avg": ".071"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-18",
+        "opponent": "USC Upstate",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/usc-upstate/boxscore/26212",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": {
+          "ip": "4.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 8,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Went 0/1 with 0 RBI against USC Upstate. Struggled to make contact."
     },
     "223403ad": {
       "id": "223403ad",
@@ -824,22 +873,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Queens",
-        "result": "W 13-5",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
+        "date": "2026-02-28",
+        "opponent": "Oakland",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/oakland/boxscore/26219",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "Went 0/1 with 0 RBI against Oakland. Struggled to make contact."
     },
     "4b4b8fa9": {
       "id": "4b4b8fa9",
@@ -873,17 +925,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Queens",
-        "result": "W 14-3",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "2.0",
           "h": 0,
@@ -929,17 +973,9 @@
       "last_game": {
         "date": "2026-03-07",
         "opponent": "Queens",
-        "result": "W 13-5",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26403",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -987,8 +1023,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Oakland",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/oakland/boxscore/26219",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Oakland. Struggled to make contact."
     },
     "68143998": {
       "id": "68143998",
@@ -1022,17 +1076,9 @@
       "last_game": {
         "date": "2026-03-06",
         "opponent": "Queens",
-        "result": "W 12-2",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26223",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -1056,11 +1102,11 @@
       "num": "21.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 13,
-        "gs": 11,
-        "avg": 0.351,
-        "ops": 1.101,
-        "ab": 37,
+        "g": 14,
+        "gs": 12,
+        "avg": 0.325,
+        "ops": 1.037,
+        "ab": 40,
         "r": 7,
         "h": 13,
         "doubles": 4,
@@ -1068,12 +1114,12 @@
         "hr": 2,
         "rbi": 12,
         "tb": 23,
-        "slg": 0.622,
-        "bb": 5,
+        "slg": 0.575,
+        "bb": 6,
         "hbp": 5,
         "so": 3,
         "gdp": 0,
-        "obp": 0.479,
+        "obp": 0.462,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -1081,22 +1127,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 1,
           "so": 0,
-          "pos": "DH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/2 with 0 RBI against Queens. Had an outstanding performance at the plate (1.000)."
+      "narrative": "Went 0/3 with 0 RBI against Tennessee. Struggled at the plate but saw 1 walk(s)."
     },
     "b1efe09f": {
       "id": "b1efe09f",
@@ -1108,11 +1157,11 @@
       "num": "22.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 17,
-        "gs": 16,
-        "avg": 0.415,
-        "ops": 1.441,
-        "ab": 53,
+        "g": 18,
+        "gs": 17,
+        "avg": 0.393,
+        "ops": 1.377,
+        "ab": 56,
         "r": 20,
         "h": 22,
         "doubles": 5,
@@ -1120,12 +1169,12 @@
         "hr": 7,
         "rbi": 26,
         "tb": 48,
-        "slg": 0.906,
-        "bb": 12,
+        "slg": 0.857,
+        "bb": 13,
         "hbp": 4,
         "so": 10,
         "gdp": 3,
-        "obp": 0.535,
+        "obp": 0.52,
         "sf": 2,
         "sh": 0,
         "sb": 2,
@@ -1133,22 +1182,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 3,
-          "bb": 0,
-          "so": 1,
-          "pos": "LF"
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 3 RBI against Queens. Contributed at the plate in the team's W 14-3."
+      "narrative": "Went 0/3 with 0 RBI against Tennessee. Struggled at the plate but saw 1 walk(s)."
     },
     "02ee69cb": {
       "id": "02ee69cb",
@@ -1160,11 +1212,11 @@
       "num": "23.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 14,
-        "gs": 11,
-        "avg": 0.41,
-        "ops": 1.029,
-        "ab": 39,
+        "g": 15,
+        "gs": 12,
+        "avg": 0.381,
+        "ops": 0.971,
+        "ab": 42,
         "r": 10,
         "h": 16,
         "doubles": 6,
@@ -1172,35 +1224,38 @@
         "hr": 0,
         "rbi": 7,
         "tb": 22,
-        "slg": 0.564,
-        "bb": 3,
+        "slg": 0.524,
+        "bb": 4,
         "hbp": 1,
-        "so": 6,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.465,
+        "obp": 0.447,
         "sf": 0,
         "sh": 0,
-        "sb": 0,
-        "sb_att": 0
+        "sb": 1,
+        "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 2,
-          "r": 2,
-          "h": 1,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "CF"
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Queens. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Went 0/3 with 0 RBI against Tennessee. Struggled at the plate but saw 1 walk(s)."
     },
     "fec33607": {
       "id": "fec33607",
@@ -1232,31 +1287,23 @@
         "opp_avg": ".143"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-02-28",
+        "opponent": "Oakland",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/oakland/boxscore/26219",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 2,
-          "so": 0,
-          "wp": 0,
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 2,
           "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Oakland, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "a3c74001": {
       "id": "a3c74001",
@@ -1287,8 +1334,24 @@
         "wp": 0,
         "opp_avg": ".164"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Queens",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26224",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 11,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Queens, throwing 7.0 innings. Struck out 11 while allowing just 1 hit(s) and 0 earned run(s) in a quality start."
     },
     "c6d2cfc3": {
       "id": "c6d2cfc3",
@@ -1300,24 +1363,24 @@
       "num": "28.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 16,
-        "gs": 13,
-        "avg": 0.351,
-        "ops": 1.681,
-        "ab": 37,
-        "r": 17,
-        "h": 13,
+        "g": 17,
+        "gs": 14,
+        "avg": 0.357,
+        "ops": 1.579,
+        "ab": 42,
+        "r": 18,
+        "h": 15,
         "doubles": 0,
         "triples": 0,
         "hr": 10,
-        "rbi": 22,
-        "tb": 43,
-        "slg": 1.162,
+        "rbi": 23,
+        "tb": 45,
+        "slg": 1.071,
         "bb": 10,
         "hbp": 5,
-        "so": 8,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.519,
+        "obp": 0.508,
         "sf": 2,
         "sh": 0,
         "sb": 0,
@@ -1325,22 +1388,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Queens",
-        "result": "W 14-3",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 2,
-          "bb": 2,
-          "so": 1,
-          "pos": "1B"
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 2 RBI against Queens. Contributed at the plate in the team's W 14-3."
+      "narrative": "Went 2/5 with 1 RBI against Tennessee. Had an outstanding performance at the plate (0.400)."
     },
     "38903a8a": {
       "id": "38903a8a",
@@ -1371,8 +1437,24 @@
         "wp": 0,
         "opp_avg": ".188"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Western Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/western-carolina/boxscore/26222",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Western Carolina, throwing 0.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "fc9aa4af": {
       "id": "fc9aa4af",
@@ -1403,8 +1485,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "Oakland",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/oakland/boxscore/26402",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Oakland, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "dfb62d27": {
       "id": "dfb62d27",
@@ -1438,17 +1536,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Queens",
-        "result": "W 14-3",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1494,17 +1584,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Queens",
-        "result": "W 14-3",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1529,50 +1611,42 @@
       "school": "University of Georgia",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.0,
-        "whip": 1.19,
+        "era": 3.81,
+        "whip": 1.27,
         "w": 4,
         "l": 0,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 21.0,
-        "h": 17,
-        "r": 7,
-        "er": 7,
-        "bb": 8,
-        "so": 24,
+        "g": 5,
+        "gs": 5,
+        "ip": 26.0,
+        "h": 23,
+        "r": 11,
+        "er": 11,
+        "bb": 10,
+        "so": 32,
         "hr": 1,
         "hbp": 0,
         "wp": 3,
-        "opp_avg": ".221"
+        "opp_avg": ".237"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Queens",
-        "result": "W 12-2",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26223",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
+        "batting": null,
         "pitching": {
-          "ip": "6.0",
-          "h": 4,
-          "r": 2,
-          "er": 2,
-          "bb": 3,
-          "so": 6,
-          "wp": 1,
+          "ip": "5.0",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 8,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Queens, throwing 6.0 innings. Struck out 6 while allowing just 4 hit(s) and 2 earned run(s) in a quality start."
+      "narrative": "Took the mound against Tennessee, throwing 5.0 innings. Struck out 8 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
     },
     "8eaf63a9": {
       "id": "8eaf63a9",
@@ -1606,17 +1680,9 @@
       "last_game": {
         "date": "2026-03-08",
         "opponent": "Queens",
-        "result": "W 14-3",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26226",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1672,32 +1738,50 @@
       "num": "44.0",
       "school": "University of Georgia",
       "season_batting": {
-        "g": 6,
+        "g": 7,
         "gs": 1,
-        "avg": 0.5,
-        "ops": 1.125,
-        "ab": 6,
+        "avg": 0.571,
+        "ops": 1.238,
+        "ab": 7,
         "r": 1,
-        "h": 3,
+        "h": 4,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 1,
-        "tb": 3,
-        "slg": 0.5,
+        "tb": 4,
+        "slg": 0.571,
         "bb": 2,
         "hbp": 0,
         "so": 0,
         "gdp": 1,
-        "obp": 0.625,
+        "obp": 0.667,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Tennessee",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26227",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against Tennessee. Had an outstanding performance at the plate (1.000)."
     },
     "de037303": {
       "id": "de037303",
@@ -1760,8 +1844,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Oakland",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/oakland/boxscore/26218",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Oakland, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "f44f153a": {
       "id": "f44f153a",
@@ -1792,8 +1892,24 @@
         "wp": 0,
         "opp_avg": ".318"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "Western Carolina",
+        "result": "L",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/western-carolina/boxscore/26222",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Western Carolina, throwing 1.0 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
     },
     "3dcc4a4e": {
       "id": "3dcc4a4e",
@@ -1829,8 +1945,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-22",
+        "opponent": "Samford",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/samford/boxscore/26215",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Samford. Struggled to make contact."
     },
     "d9c1140a": {
       "id": "d9c1140a",
@@ -1861,8 +1995,24 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-27",
+        "opponent": "Oakland",
+        "result": "W",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/oakland/boxscore/26218",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Oakland, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
     },
     "0489c0c9": {
       "id": "0489c0c9",
@@ -1896,17 +2046,9 @@
       "last_game": {
         "date": "2026-03-06",
         "opponent": "Queens",
-        "result": "W 12-2",
+        "result": "W",
         "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/queens/boxscore/26223",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,

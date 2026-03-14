@@ -2,12 +2,12 @@
   "school": "University of Connecticut",
   "base_url": "https://www.uconnhuskies.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:16:06.534558Z",
+  "generated_at": "2026-03-14T15:55:50.859552Z",
   "record": "7-9",
   "most_recent_game": {
     "date": "2026-03-10",
     "opponent": "Boston College",
-    "result": "L 19-26",
+    "result": "L",
     "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
     "recap_url": "https://www.uconnhuskies.com/news/2026/3/10/baseball-hookc-loses-midweek-against-boston-college",
     "recap_headline": "University of Connecticut Athletics",
@@ -51,7 +51,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 5,
@@ -60,7 +60,10 @@
           "rbi": 3,
           "bb": 2,
           "so": 1,
-          "pos": "RF"
+          "hr": 0,
+          "doubles": 2,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -103,7 +106,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 5,
@@ -112,11 +115,14 @@
           "rbi": 3,
           "bb": 1,
           "so": 1,
-          "pos": "DH"
+          "hr": 1,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/5 with 3 RBI against Boston College. Had an outstanding performance at the plate (0.600)."
+      "narrative": "Went 3/5 with 3 RBI against Boston College. Hit 1 home run(s). Had an outstanding performance at the plate (0.600)."
     },
     "1fec8283": {
       "id": "1fec8283",
@@ -155,7 +161,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 4,
@@ -164,7 +170,10 @@
           "rbi": 0,
           "bb": 2,
           "so": 1,
-          "pos": "SS"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -207,7 +216,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 5,
@@ -216,7 +225,10 @@
           "rbi": 2,
           "bb": 2,
           "so": 2,
-          "pos": "2B"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -259,7 +271,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 1,
@@ -268,7 +280,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "PH"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -311,7 +326,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 4,
@@ -320,11 +335,14 @@
           "rbi": 1,
           "bb": 1,
           "so": 2,
-          "pos": "LF/C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Boston College. Contributed at the plate in the team's L 19-26."
+      "narrative": "Went 1/4 with 1 RBI against Boston College. Contributed at the plate in the team's L."
     },
     "17bcdfdf": {
       "id": "17bcdfdf",
@@ -363,7 +381,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 1,
@@ -372,7 +390,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "CF"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -415,7 +436,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 3,
@@ -424,7 +445,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "C"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -464,8 +488,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Old Dominion",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25272",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Old Dominion. Contributed at the plate in the team's L."
     },
     "2d7670cb": {
       "id": "2d7670cb",
@@ -496,8 +538,24 @@
         "wp": 0,
         "opp_avg": ".462"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "New Haven",
+        "result": "W",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/new-haven/boxscore/25270",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 4,
+          "r": 4,
+          "er": 4,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 0.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
     },
     "023c4a73": {
       "id": "023c4a73",
@@ -533,8 +591,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-21",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/arizona/boxscore/25265",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Arizona. Struggled to make contact."
     },
     "01aa0b5b": {
       "id": "01aa0b5b",
@@ -568,17 +644,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 3,
@@ -621,8 +689,24 @@
         "wp": 1,
         "opp_avg": ".260"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-06",
+        "opponent": "Old Dominion",
+        "result": "W",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25271",
+        "batting": null,
+        "pitching": {
+          "ip": "5.0",
+          "h": 8,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 5,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Old Dominion, throwing 5.0 innings. Struck out 5 while allowing just 8 hit(s) and 2 earned run(s) in a quality start."
     },
     "9c2873f7": {
       "id": "9c2873f7",
@@ -653,8 +737,24 @@
         "wp": 0,
         "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Old Dominion",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25272",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 5,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Old Dominion, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
     },
     "c8ef6441": {
       "id": "c8ef6441",
@@ -690,8 +790,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-28",
+        "opponent": "UNCW",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/uncw/boxscore/25268",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against UNCW. Struggled to make contact."
     },
     "8de89804": {
       "id": "8de89804",
@@ -722,8 +840,24 @@
         "wp": 0,
         "opp_avg": ".750"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-04",
+        "opponent": "New Haven",
+        "result": "W",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/new-haven/boxscore/25270",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against New Haven, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
     },
     "3df1c2ff": {
       "id": "3df1c2ff",
@@ -757,17 +891,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 5,
@@ -813,17 +939,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 0,
@@ -869,17 +987,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -957,17 +1067,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.1",
           "h": 4,
@@ -1013,17 +1115,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -1074,7 +1168,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 4,
@@ -1083,7 +1177,10 @@
           "rbi": 3,
           "bb": 1,
           "so": 0,
-          "pos": "1B"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1118,8 +1215,24 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Old Dominion",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25272",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Old Dominion, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "702f77eb": {
       "id": "702f77eb",
@@ -1158,7 +1271,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 4,
@@ -1167,11 +1280,14 @@
           "rbi": 4,
           "bb": 1,
           "so": 1,
-          "pos": "3B"
+          "hr": 1,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 4 RBI against Boston College. Had an outstanding performance at the plate (0.750)."
+      "narrative": "Went 3/4 with 4 RBI against Boston College. Hit 1 home run(s). Had an outstanding performance at the plate (0.750)."
     },
     "ac776401": {
       "id": "ac776401",
@@ -1205,17 +1321,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 3,
@@ -1258,8 +1366,24 @@
         "wp": 1,
         "opp_avg": ".314"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Old Dominion",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25272",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Old Dominion, throwing 3.0 innings. Allowed 4 earned run(s) with 4 strikeout(s)."
     },
     "6476b799": {
       "id": "6476b799",
@@ -1291,31 +1415,23 @@
         "opp_avg": ".667"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Boston College",
-        "result": "L 19-26",
-        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "date": "2026-03-08",
+        "opponent": "Old Dominion",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25272",
+        "batting": null,
         "pitching": {
-          "ip": "0.0",
-          "h": 2,
-          "r": 3,
-          "er": 2,
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": null
+      "narrative": "Took the mound against Old Dominion, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "5488bf6e": {
       "id": "5488bf6e",
@@ -1346,8 +1462,24 @@
         "wp": 1,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-17",
+        "opponent": "Arizona State",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/arizona-state/boxscore/25262",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 8,
+          "r": 7,
+          "er": 7,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Arizona State, throwing 2.2 innings. Allowed 7 earned run(s) with 1 strikeout(s)."
     },
     "15bcf085": {
       "id": "15bcf085",
@@ -1381,17 +1513,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 0,
@@ -1434,8 +1558,24 @@
         "wp": 1,
         "opp_avg": ".227"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Old Dominion",
+        "result": "W",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25273",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Old Dominion, throwing 4.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
     "7dbb36af": {
       "id": "7dbb36af",
@@ -1471,8 +1611,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Old Dominion",
+        "result": "L",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25272",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Old Dominion. Contributed at the plate in the team's L."
     },
     "4ccd9b99": {
       "id": "4ccd9b99",
@@ -1511,7 +1669,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 1,
@@ -1520,7 +1678,10 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "3B"
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
@@ -1555,8 +1716,24 @@
         "wp": 2,
         "opp_avg": ".190"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Old Dominion",
+        "result": "W",
+        "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/old-dominion/boxscore/25273",
+        "batting": null,
+        "pitching": {
+          "ip": "4.0",
+          "h": 6,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Old Dominion, throwing 4.0 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
     },
     "b8d408cf": {
       "id": "b8d408cf",
@@ -1590,17 +1767,9 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "P"
-        },
+        "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -1651,7 +1820,7 @@
       "last_game": {
         "date": "2026-03-10",
         "opponent": "Boston College",
-        "result": "L 19-26",
+        "result": "L",
         "boxscore_url": "https://www.uconnhuskies.com/sports/baseball/stats/2026/boston-college/boxscore/25274",
         "batting": {
           "ab": 6,
@@ -1660,7 +1829,10 @@
           "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "CF/LF"
+          "hr": 0,
+          "doubles": 1,
+          "triples": 0,
+          "pos": ""
         },
         "pitching": null
       },
