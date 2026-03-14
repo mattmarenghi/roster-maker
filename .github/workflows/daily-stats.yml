@@ -32,7 +32,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run stats scrape
-        run: python3 batch_scrape_stats.py --scrape
+        run: python3 batch_scrape_stats.py --refresh
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}  # optional — remove if not using AI narratives
 
