@@ -2,13 +2,13 @@
   "school": "University of Massachusetts Lowell",
   "base_url": "https://www.goriverhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-13T03:19:54.215390Z",
-  "record": "5-7",
+  "generated_at": "2026-03-14T12:33:01.020993Z",
+  "record": "6-7",
   "most_recent_game": {
-    "date": "2026-03-12",
+    "date": "2026-03-13",
     "opponent": "Pepperdine",
-    "result": "L 6-7",
-    "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9512&path=baseball",
+    "result": "",
+    "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9513&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
