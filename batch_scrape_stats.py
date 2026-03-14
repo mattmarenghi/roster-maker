@@ -249,8 +249,13 @@ def phase_probe():
     print(f"{'='*60}")
 
 
-def phase_scrape(max_schools=None):
-    """Scrape stats for all compatible schools."""
+def phase_scrape(max_schools=None, refresh=False):
+    """Scrape stats for all compatible schools.
+
+    When refresh=True, all compatible schools are scraped regardless of index.json.
+    Use this for daily runs. Without refresh, already-scraped schools are skipped
+    (useful for resuming an interrupted initial scrape).
+    """
     if not os.path.exists(PROBE_RESULTS):
         print("Run --probe first!", file=sys.stderr)
         sys.exit(1)
@@ -258,15 +263,16 @@ def phase_scrape(max_schools=None):
     with open(PROBE_RESULTS) as f:
         probes = json.load(f)
 
-    # Already scraped
-    if os.path.exists(os.path.join(STATS_DIR, "index.json")):
+    # In refresh mode, ignore index.json so every school gets re-scraped.
+    # In normal mode, skip schools already in index.json (resume behavior).
+    if not refresh and os.path.exists(os.path.join(STATS_DIR, "index.json")):
         with open(os.path.join(STATS_DIR, "index.json")) as f:
             already_done = set(json.load(f))
     else:
         already_done = set()
 
     compatible = [p for p in probes if p.get("compatible")]
-    to_scrape = [p for p in compatible if p["slug"] not in already_done]
+    to_scrape = compatible if refresh else [p for p in compatible if p["slug"] not in already_done]
 
     if max_schools:
         to_scrape = to_scrape[:max_schools]
@@ -424,13 +430,16 @@ def scrape_one(slug):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--probe", action="store_true", help="Phase 1: probe all schools")
-    parser.add_argument("--scrape", action="store_true", help="Phase 2: scrape compatible schools")
+    parser.add_argument("--scrape", action="store_true", help="Phase 2: scrape compatible schools (skips already-done)")
+    parser.add_argument("--refresh", action="store_true", help="Phase 2: scrape ALL compatible schools, ignoring index.json (use for daily runs)")
     parser.add_argument("--scrape-one", type=str, help="Scrape a single school by slug")
     parser.add_argument("--max", type=int, help="Max schools to scrape in one run")
     args = parser.parse_args()
 
     if args.probe:
         phase_probe()
+    elif args.refresh:
+        phase_scrape(max_schools=args.max, refresh=True)
     elif args.scrape:
         phase_scrape(max_schools=args.max)
     elif args.scrape_one:
