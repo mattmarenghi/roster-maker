@@ -1,0 +1,38 @@
+name: Daily Stats Scrape
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 6 AM ET daily (adjust if you're in a different timezone)
+  workflow_dispatch: {}    # manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run stats scrape
+        run: python3 batch_scrape_stats.py --scrape
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}  # optional — remove if not using AI narratives
+
+      - name: Commit and push updated stats
+        run: |
+          git config user.name "Stats Bot"
+          git config user.email "stats-bot@users.noreply.github.com"
+          git add stats/
+          git diff --staged --quiet && echo "No changes to commit" || (
+            git commit -m "Daily stats update $(date -u +%Y-%m-%d)" &&
+            git push origin main
+          )
