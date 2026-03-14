@@ -1,4 +1,4 @@
-name: Daily Stats Scrape
+name: Daily Stats Scrape and Deploy
 
 on:
   schedule:
@@ -7,10 +7,19 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
-  scrape:
+  scrape-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - uses: actions/checkout@v4
@@ -36,3 +45,12 @@ jobs:
             git commit -m "Daily stats update $(date -u +%Y-%m-%d)" &&
             git push origin main
           )
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
