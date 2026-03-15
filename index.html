@@ -876,8 +876,9 @@
     currentUser = session?.user ?? null;
     renderProfileBtn();
     if (currentUser) {
+      hideAuthModal();
       await fetchFavorites();
-    } else {
+    } else if (event === 'SIGNED_OUT') {
       favorites = new Set();
       renderHomepage();
     }
@@ -901,7 +902,8 @@
 
   // ── Favorites (Supabase) ────────────────────────────────────────────────────
   async function fetchFavorites() {
-    const { data, error } = await db.from('favorites').select('player_id');
+    if (!currentUser) return;
+    const { data, error } = await db.from('favorites').select('player_id').eq('user_id', currentUser.id);
     if (error) console.error('fetchFavorites error:', error);
     favorites = new Set((data || []).map(r => r.player_id));
     renderHomepage();
@@ -1116,7 +1118,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.9 (claude/use-sidearm-api-HNAp7)</div>`;
+        <div class="ps-version">VERSION 2.5.10 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
       return;
     }
 
@@ -1158,13 +1160,17 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.9 (claude/use-sidearm-api-HNAp7)</div>`;
+      <div class="ps-version">VERSION 2.5.10 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
   }
 
   async function signOut() {
+    hideProfile();
+    currentUser = null;
+    favorites = new Set();
+    renderProfileBtn();
+    renderHomepage();
     const { error } = await db.auth.signOut();
     if (error) console.error('Sign out error:', error);
-    hideProfile();
   }
 
   // ── Search logic ────────────────────────────────────────────────────────────
