@@ -18,7 +18,10 @@ import os
 import re
 import subprocess
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timedelta
 from urllib.parse import urlparse
 
 import requests
@@ -249,6 +252,24 @@ def phase_probe():
     print(f"{'='*60}")
 
 
+def already_current(slug, days_back=4):
+    """Return True if the school's stats file already has a game within the last `days_back` days."""
+    path = os.path.join(STATS_DIR, f"{slug}.json")
+    if not os.path.exists(path):
+        return False
+    with open(path) as f:
+        data = json.load(f)
+    date_str = data.get("most_recent_game", {}).get("date")
+    if not date_str:
+        return False
+    try:
+        game_date = datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        return False
+    cutoff = datetime.utcnow() - timedelta(days=days_back)
+    return game_date >= cutoff
+
+
 def phase_scrape(max_schools=None, refresh=False):
     """Scrape stats for all compatible schools.
 
@@ -274,27 +295,31 @@ def phase_scrape(max_schools=None, refresh=False):
     compatible = [p for p in probes if p.get("compatible")]
     to_scrape = compatible if refresh else [p for p in compatible if p["slug"] not in already_done]
 
+    if refresh:
+        before_filter = len(to_scrape)
+        to_scrape = [p for p in to_scrape if not already_current(p["slug"])]
+        skipped_current = before_filter - len(to_scrape)
+    else:
+        skipped_current = 0
+
     if max_schools:
         to_scrape = to_scrape[:max_schools]
 
     print(f"Compatible schools: {len(compatible)}")
-    print(f"Already scraped: {len(already_done)}")
+    print(f"Already scraped (index): {len(already_done)}")
+    if refresh:
+        print(f"Skipped (data already current): {skipped_current}")
     print(f"To scrape: {len(to_scrape)}")
 
     successes = []
     failures = []
+    lock = threading.Lock()
 
-    for i, school in enumerate(to_scrape):
+    def scrape_one_school(school, index, total):
         slug = school["slug"]
         base_url = school["base_url"]
         school_name = school["school"]
         no_season = school.get("no_season_url", False)
-
-        print(f"\n{'='*60}")
-        print(f"[{i+1}/{len(to_scrape)}] Scraping: {school_name}")
-        print(f"  URL: {base_url}")
-        print(f"  Slug: {slug}")
-        print(f"{'='*60}")
 
         cmd = [
             sys.executable, "scrape_school_stats.py",
@@ -307,6 +332,14 @@ def phase_scrape(max_schools=None, refresh=False):
         if no_season:
             cmd.append("--no-season-url")
 
+        lines = [
+            f"\n{'='*60}",
+            f"[{index}/{total}] Scraping: {school_name}",
+            f"  URL: {base_url}",
+            f"  Slug: {slug}",
+            f"{'='*60}",
+        ]
+
         try:
             result = subprocess.run(
                 cmd,
@@ -315,8 +348,6 @@ def phase_scrape(max_schools=None, refresh=False):
                 timeout=180,
             )
 
-            # Check output
-            output = result.stdout + result.stderr
             out_path = os.path.join(STATS_DIR, f"{slug}.json")
 
             if os.path.exists(out_path):
@@ -326,49 +357,63 @@ def phase_scrape(max_schools=None, refresh=False):
                 record = data.get("record", "?")
 
                 if player_count > 0:
-                    successes.append({
-                        "school": school_name,
-                        "slug": slug,
-                        "players": player_count,
-                        "record": record,
-                    })
-                    already_done.add(slug)
-                    print(f"  SUCCESS: {player_count} players, record {record}")
+                    lines.append(f"  SUCCESS: {player_count} players, record {record}")
+                    with lock:
+                        successes.append({
+                            "school": school_name,
+                            "slug": slug,
+                            "players": player_count,
+                            "record": record,
+                        })
+                        already_done.add(slug)
+                        index_path = os.path.join(STATS_DIR, "index.json")
+                        with open(index_path, "w") as f:
+                            json.dump(sorted(already_done), f, indent=2)
                 else:
+                    lines.append(f"  FAILED: 0 players matched (record {record})")
+                    with lock:
+                        failures.append({
+                            "school": school_name,
+                            "slug": slug,
+                            "reason": "0 players matched",
+                            "record": record,
+                        })
+            else:
+                lines.append(f"  FAILED: no output file")
+                with lock:
                     failures.append({
                         "school": school_name,
                         "slug": slug,
-                        "reason": "0 players matched",
-                        "record": record,
+                        "reason": "no output file",
                     })
-                    print(f"  FAILED: 0 players matched (record {record})")
-            else:
+
+        except subprocess.TimeoutExpired:
+            lines.append(f"  FAILED: timeout")
+            with lock:
                 failures.append({
                     "school": school_name,
                     "slug": slug,
-                    "reason": "no output file",
+                    "reason": "timeout",
                 })
-                print(f"  FAILED: no output file")
-
-        except subprocess.TimeoutExpired:
-            failures.append({
-                "school": school_name,
-                "slug": slug,
-                "reason": "timeout",
-            })
-            print(f"  FAILED: timeout")
         except Exception as e:
-            failures.append({
-                "school": school_name,
-                "slug": slug,
-                "reason": str(e),
-            })
-            print(f"  FAILED: {e}")
+            lines.append(f"  FAILED: {e}")
+            with lock:
+                failures.append({
+                    "school": school_name,
+                    "slug": slug,
+                    "reason": str(e),
+                })
 
-        # Update index.json after each success
-        index_path = os.path.join(STATS_DIR, "index.json")
-        with open(index_path, "w") as f:
-            json.dump(sorted(already_done), f, indent=2)
+        print("\n".join(lines), flush=True)
+
+    total = len(to_scrape)
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = {
+            executor.submit(scrape_one_school, school, i + 1, total): school
+            for i, school in enumerate(to_scrape)
+        }
+        for future in as_completed(futures):
+            future.result()  # re-raise any unexpected exception
 
     # Summary
     print(f"\n{'='*60}")
