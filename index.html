@@ -875,13 +875,16 @@
   db.auth.onAuthStateChange(async (event, session) => {
     currentUser = session?.user ?? null;
     renderProfileBtn();
-    if (currentUser) {
+    if (event === 'SIGNED_IN') {
+      // User just completed OTP verification — close login modal and load their data.
       hideAuthModal();
       await fetchFavorites();
     } else if (event === 'SIGNED_OUT') {
       favorites = new Set();
       renderHomepage();
     }
+    // INITIAL_SESSION / TOKEN_REFRESHED: only currentUser + renderProfileBtn above.
+    // Page-load favorites are loaded reliably by init() via getSession() below.
   });
 
   function renderProfileBtn() {
@@ -1118,7 +1121,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.10 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
+        <div class="ps-version">VERSION 2.5.11 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
       return;
     }
 
@@ -1160,7 +1163,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.10 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
+      <div class="ps-version">VERSION 2.5.11 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
   }
 
   async function signOut() {
@@ -1570,17 +1573,17 @@
     renderProfileBtn();
     renderHomepage();
 
-    // Fallback session check: Supabase JS v2.98+ lowered navigator.lock timeout to 5s,
-    // which can cause onAuthStateChange(INITIAL_SESSION) to silently fail in some browsers
-    // (multiple tabs, extensions, etc.).  If the auth callback hasn't fired yet, do an
-    // explicit getSession() here so the user's saved players are always restored.
-    if (!currentUser) {
-      const { data: sd } = await db.auth.getSession();
-      if (sd?.session?.user) {
-        currentUser = sd.session.user;
-        renderProfileBtn();
-        await fetchFavorites();
-      }
+    // Always call getSession() here — this is the canonical page-load path for
+    // restoring favorites.  We can't rely on onAuthStateChange(INITIAL_SESSION)
+    // alone because Supabase JS v2.98+ has a Web Lock timeout issue that can
+    // cause INITIAL_SESSION to fire before the client's auth headers are set,
+    // returning an empty favorites query.  getSession() waits for storage to be
+    // fully read, so the following fetchFavorites() call is always authenticated.
+    const { data: sd } = await db.auth.getSession();
+    if (sd?.session?.user) {
+      currentUser = sd.session.user;
+      renderProfileBtn();
+      await fetchFavorites();
     }
 
     // Restore last search term + results across page loads/refreshes.

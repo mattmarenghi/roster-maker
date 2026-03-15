@@ -11,11 +11,11 @@
 function makeEnv() {
   // Minimal DOM stubs
   const elements = {
-    profileBtn:   { className: '', innerHTML: '' },
-    playersArea:  { innerHTML: '' },
-    profileOverlay: { classList: makeClassList() },
-    authOverlay:    { classList: makeClassList() },
-    profileContent: { innerHTML: '' },
+    profileBtn:      { className: '', innerHTML: '' },
+    playersArea:     { innerHTML: '' },
+    profileOverlay:  { classList: makeClassList() },
+    authOverlay:     { classList: makeClassList() },
+    profileContent:  { innerHTML: '' },
   };
 
   function makeClassList() {
@@ -27,86 +27,35 @@ function makeEnv() {
     };
   }
 
-  const $      = id => elements[id] ?? null;
-  const calls  = [];          // ordered log of function calls
-  const track  = name => calls.push(name);
+  const $ = id => elements[id] ?? null;
+  const calls = [];
+  const track = name => calls.push(name);
 
-  // ── State vars (mirrors index.html globals) ───────────────────────────────
+  // ── State vars ────────────────────────────────────────────────────────────
   let currentUser = null;
   let favorites   = new Set();
   let allPlayers  = [];
 
   // ── Supabase mock ─────────────────────────────────────────────────────────
-  // Will be overridden per-test
-  let _dbFavoritesData = [];
+  let _dbFavoritesData  = [];
   let _dbFavoritesError = null;
-  let _signOutError = null;
-
-  // Fluent builder: db.from('favorites').select('player_id').eq(...)
-  function makeQuery(data, error) {
-    const q = {
-      _filters: [],
-      select() { return q; },
-      eq(col, val) { q._filters.push({ col, val }); return q; },
-      delete() { return q; },
-      match() { return q; },
-      insert() { return q; },
-      then(resolve) {
-        resolve({ data, error });
-        return Promise.resolve({ data, error });
-      },
-      // make it awaitable
-      [Symbol.toStringTag]: 'Promise',
-    };
-    // Make awaitable
-    Object.defineProperty(q, Symbol.toStringTag, { value: 'Promise' });
-    q.then = (res) => { res({ data, error }); return Promise.resolve({ data, error }); };
-    // Actually return a real promise
-    return {
-      _filters: [],
-      select() { return this; },
-      eq(col, val) { this._filters.push({ col, val }); return this; },
-      delete() { return this; },
-      match() { return this; },
-      insert() { return this; },
-      // Awaitable
-      then: undefined,
-      // Make it a thenable via a getter trick — simplest: return a real Promise
-    };
-  }
+  let _signOutError     = null;
 
   const db = {
-    from(table) {
-      const self = {
-        _eqFilters: [],
-        select() { return self; },
-        eq(col, val) {
-          self._eqFilters.push({ col, val });
-          return self;
-        },
-        delete() { return self; },
-        match() { return { then: (r) => r({ data: null, error: null }), catch: () => ({}) }; },
-        insert() { return { then: (r) => r({ data: null, error: null }), catch: () => ({}) }; },
-        // Make it awaitable as a promise
-        // We wrap in real promise so async/await works
-        get [Symbol.toStringTag]() { return 'DatabaseQuery'; },
-      };
-      // Return a real Promise when awaited
+    from() {
       const promise = Promise.resolve({ data: _dbFavoritesData, error: _dbFavoritesError });
-      // Merge the filter tracking onto the promise
       promise._eqFilters = [];
-      const origEq = (col, val) => { promise._eqFilters.push({ col, val }); return promise; };
-      promise.eq = origEq;
       promise.select = () => promise;
+      promise.eq = (col, val) => { promise._eqFilters.push({ col, val }); return promise; };
       return promise;
     },
     auth: {
-      signOut: async () => ({ error: _signOutError }),
+      signOut:    async () => ({ error: _signOutError }),
       getSession: async () => ({ data: { session: null } }),
     },
   };
 
-  // ── Functions under test (copied logic from index.html) ───────────────────
+  // ── Functions under test (mirror index.html logic) ────────────────────────
 
   function renderProfileBtn() {
     track('renderProfileBtn');
@@ -123,21 +72,13 @@ function makeEnv() {
   function renderHomepage() {
     track('renderHomepage');
     const area = $('playersArea');
-    if (!currentUser) {
-      area.innerHTML = 'SIGN_IN_STATE';
-      return;
-    }
-    if (favorites.size === 0) {
-      area.innerHTML = 'EMPTY_FAVORITES_STATE';
-      return;
-    }
+    if (!currentUser) { area.innerHTML = 'SIGN_IN_STATE'; return; }
+    if (favorites.size === 0) { area.innerHTML = 'EMPTY_FAVORITES_STATE'; return; }
     const favPlayers = allPlayers.filter(p => favorites.has(p.id));
     area.innerHTML = 'FAVORITES:' + favPlayers.map(p => p.id).join(',');
   }
 
-  function syncAllStars() {
-    track('syncAllStars');
-  }
+  function syncAllStars() { track('syncAllStars'); }
 
   function hideAuthModal() {
     track('hideAuthModal');
@@ -154,18 +95,7 @@ function makeEnv() {
     $('profileOverlay').classList.remove('open');
   }
 
-  function showProfile() {
-    track('showProfile');
-    renderProfileContent();
-    $('profileOverlay').classList.add('open');
-  }
-
-  function renderProfileContent() {
-    track('renderProfileContent');
-  }
-
   async function fetchFavorites() {
-    // ── FIXED: guard + explicit user_id filter ──
     if (!currentUser) return;
     const { data, error } = await db.from('favorites').select('player_id').eq('user_id', currentUser.id);
     if (error) { /* log */ }
@@ -174,23 +104,22 @@ function makeEnv() {
     syncAllStars();
   }
 
-  // onAuthStateChange handler (extracted logic)
+  // ── FIXED onAuthStateChange: only SIGNED_IN triggers hideAuthModal/fetchFavorites
   async function handleAuthStateChange(event, session) {
     currentUser = session?.user ?? null;
     renderProfileBtn();
-    if (currentUser) {
-      // ── FIXED: close auth modal on sign-in ──
+    if (event === 'SIGNED_IN') {
       hideAuthModal();
       await fetchFavorites();
     } else if (event === 'SIGNED_OUT') {
-      // ── FIXED: only clear on explicit SIGNED_OUT ──
       favorites = new Set();
       renderHomepage();
     }
+    // INITIAL_SESSION / TOKEN_REFRESHED: only update currentUser + renderProfileBtn
   }
 
+  // ── FIXED signOut: close + clear immediately, then async
   async function signOut() {
-    // ── FIXED: close + clear immediately, then async signOut ──
     hideProfile();
     currentUser = null;
     favorites = new Set();
@@ -200,41 +129,35 @@ function makeEnv() {
     if (error) console.error('Sign out error:', error);
   }
 
-  async function verifyOTP_old(pendingEmail, token) {
-    // OLD verifyOTP — modal only closed in else branch, no fallback
-    const btn = { disabled: false, textContent: 'Sign In' };
-    btn.disabled = true;
-    btn.textContent = 'Verifying...';
-    const { error } = await db.auth.verifyOtp?.({ email: pendingEmail, token, type: 'email' }) ?? { error: null };
-    if (error) {
-      btn.disabled = false;
-      btn.textContent = 'Sign In';
-    } else {
-      hideAuthModal();    // only place modal gets closed in old code
-      btn.disabled = false;
-      btn.textContent = 'Sign In';
+  // ── FIXED init() getSession logic: always call getSession (no !currentUser guard)
+  async function initGetSession() {
+    const { data: sd } = await db.auth.getSession();
+    if (sd?.session?.user) {
+      currentUser = sd.session.user;
+      renderProfileBtn();
+      await fetchFavorites();
     }
-    return btn;
   }
 
   return {
-    // state access
-    getUser:      () => currentUser,
-    setUser:      u  => { currentUser = u; },
-    getFavorites: () => favorites,
-    setFavorites: f  => { favorites = f; },
-    setAllPlayers: p => { allPlayers = p; },
-    getPlayersArea: () => $('playersArea'),
-    getProfileBtn:  () => $('profileBtn'),
-    getAuthOverlay: () => $('authOverlay'),
+    getUser:        () => currentUser,
+    setUser:        u  => { currentUser = u; },
+    getFavorites:   () => favorites,
+    setFavorites:   f  => { favorites = f; },
+    setAllPlayers:  p  => { allPlayers = p; },
+    getPlayersArea:    () => $('playersArea'),
+    getProfileBtn:     () => $('profileBtn'),
+    getAuthOverlay:    () => $('authOverlay'),
     getProfileOverlay: () => $('profileOverlay'),
     // mock controls
-    setDbFavorites: (data, err = null) => { _dbFavoritesData = data; _dbFavoritesError = err; },
+    setDbFavorites:  (data, err = null) => { _dbFavoritesData = data; _dbFavoritesError = err; },
+    setDbSession:    (session)          => { db.auth.getSession = async () => ({ data: { session } }); },
     setSignOutError: e => { _signOutError = e; },
     // functions under test
     fetchFavorites,
     handleAuthStateChange,
     signOut,
+    initGetSession,
     hideAuthModal,
     showAuthModal,
     // call log
@@ -243,16 +166,14 @@ function makeEnv() {
   };
 }
 
-// ── Test runner ───────────────────────────────────────────────────────────────
+// ─────────────────────────────────────────────────────────────────────────────
 
 describe('Bug 1 & 2 — fetchFavorites', () => {
 
   test('returns early without querying when currentUser is null', async () => {
     const env = makeEnv();
     env.setDbFavorites([{ player_id: 'abc123' }]);
-    // currentUser starts null
     await env.fetchFavorites();
-    // favorites should remain empty — no DB call happened, no render
     expect(env.getFavorites().size).toBe(0);
     expect(env.calls).not.toContain('renderHomepage');
   });
@@ -261,10 +182,7 @@ describe('Bug 1 & 2 — fetchFavorites', () => {
     const env = makeEnv();
     env.setUser({ id: 'user-1', email: 'scout@team.edu' });
     env.setDbFavorites([{ player_id: 'abc123' }, { player_id: 'def456' }]);
-    env.setAllPlayers([{ id: 'abc123' }, { id: 'def456' }]);
-
     await env.fetchFavorites();
-
     expect(env.getFavorites().has('abc123')).toBe(true);
     expect(env.getFavorites().has('def456')).toBe(true);
     expect(env.calls).toContain('renderHomepage');
@@ -275,30 +193,71 @@ describe('Bug 1 & 2 — fetchFavorites', () => {
     const env = makeEnv();
     env.setUser({ id: 'user-2', email: 'empty@team.edu' });
     env.setDbFavorites([]);
-
     await env.fetchFavorites();
-
     expect(env.getFavorites().size).toBe(0);
     expect(env.calls).toContain('renderHomepage');
   });
 
-  test('handles DB error gracefully — favorites become empty, render still runs', async () => {
+  test('handles DB error gracefully — favorites empty, render still runs', async () => {
     const env = makeEnv();
     env.setUser({ id: 'user-3', email: 'err@team.edu' });
     env.setDbFavorites(null, { message: 'RLS denied' });
-
     await env.fetchFavorites();
-
     expect(env.getFavorites().size).toBe(0);
     expect(env.calls).toContain('renderHomepage');
   });
 });
 
-describe('Bug 3 — verification screen hangs (onAuthStateChange closes modal)', () => {
+describe('Bug 1 & 2 — init() getSession always loads favorites on reload', () => {
+
+  test('loads favorites when getSession returns a session (page reload path)', async () => {
+    const env = makeEnv();
+    env.setDbSession({ user: { id: 'u1', email: 'a@b.com' } });
+    env.setDbFavorites([{ player_id: 'p1' }]);
+
+    await env.initGetSession();
+
+    expect(env.getUser()).toEqual({ id: 'u1', email: 'a@b.com' });
+    expect(env.getFavorites().has('p1')).toBe(true);
+    expect(env.calls).toContain('fetchFavorites' in env ? 'renderHomepage' : 'renderHomepage');
+  });
+
+  test('loads favorites even if onAuthStateChange already set currentUser', async () => {
+    const env = makeEnv();
+    // Simulate: INITIAL_SESSION already ran and set currentUser, but fetchFavorites
+    // failed (empty result due to auth header race). Favorites are still empty.
+    env.setUser({ id: 'u1', email: 'a@b.com' });
+    env.setFavorites(new Set());  // empty — the failing state
+
+    // getSession returns valid session
+    env.setDbSession({ user: { id: 'u1', email: 'a@b.com' } });
+    env.setDbFavorites([{ player_id: 'p1' }, { player_id: 'p2' }]);
+
+    await env.initGetSession();  // no !currentUser guard — always runs
+
+    // Favorites are now populated
+    expect(env.getFavorites().has('p1')).toBe(true);
+    expect(env.getFavorites().has('p2')).toBe(true);
+  });
+
+  test('does nothing when no session (logged-out reload)', async () => {
+    const env = makeEnv();
+    env.setDbSession(null);
+    env.resetCalls();
+
+    await env.initGetSession();
+
+    expect(env.getUser()).toBeNull();
+    expect(env.getFavorites().size).toBe(0);
+    expect(env.calls).not.toContain('renderHomepage');
+  });
+});
+
+describe('Bug 3 — verification screen: SIGNED_IN closes modal', () => {
 
   test('hideAuthModal is called when SIGNED_IN fires', async () => {
     const env = makeEnv();
-    env.showAuthModal(); // simulate open modal
+    env.showAuthModal();
     expect(env.getAuthOverlay().classList.has('open')).toBe(true);
     env.resetCalls();
     env.setDbFavorites([]);
@@ -306,16 +265,6 @@ describe('Bug 3 — verification screen hangs (onAuthStateChange closes modal)',
     await env.handleAuthStateChange('SIGNED_IN', { user: { id: 'u1', email: 'a@b.com' } });
 
     expect(env.calls).toContain('hideAuthModal');
-    expect(env.getAuthOverlay().classList.has('open')).toBe(false);
-  });
-
-  test('hideAuthModal is called for TOKEN_REFRESHED (also signs user in)', async () => {
-    const env = makeEnv();
-    env.showAuthModal();
-    env.setDbFavorites([]);
-
-    await env.handleAuthStateChange('TOKEN_REFRESHED', { user: { id: 'u1', email: 'a@b.com' } });
-
     expect(env.getAuthOverlay().classList.has('open')).toBe(false);
   });
 
@@ -330,26 +279,48 @@ describe('Bug 3 — verification screen hangs (onAuthStateChange closes modal)',
   });
 });
 
-describe('Bug 1 & 2 — onAuthStateChange does NOT clear favorites on non-SIGNED_OUT null sessions', () => {
+describe('Bug 2 — TOKEN_REFRESHED / INITIAL_SESSION do NOT close auth modal', () => {
 
-  test('INITIAL_SESSION with null session does not clear favorites or rerender', async () => {
+  test('TOKEN_REFRESHED does not call hideAuthModal (modal stays open for login)', async () => {
     const env = makeEnv();
-    // Simulate user already loaded favorites
-    env.setUser({ id: 'u1', email: 'a@b.com' });
-    env.setFavorites(new Set(['p1', 'p2']));
+    env.showAuthModal();  // user is in the middle of logging in
     env.resetCalls();
 
-    // INITIAL_SESSION fires with null session (Supabase v2.98+ Web Locks issue)
-    await env.handleAuthStateChange('INITIAL_SESSION', null);
+    // TOKEN_REFRESHED fires with a session (e.g. background refresh)
+    await env.handleAuthStateChange('TOKEN_REFRESHED', { user: { id: 'u1', email: 'a@b.com' } });
 
-    // Favorites must NOT be cleared
-    expect(env.getFavorites().has('p1')).toBe(true);
-    expect(env.getFavorites().has('p2')).toBe(true);
-    // renderHomepage must NOT be called with sign-in state
-    expect(env.calls).not.toContain('renderHomepage');
+    expect(env.calls).not.toContain('hideAuthModal');
+    expect(env.getAuthOverlay().classList.has('open')).toBe(true);  // modal still open
   });
 
-  test('SIGNED_OUT clears favorites and renders sign-in state', async () => {
+  test('INITIAL_SESSION does not call hideAuthModal', async () => {
+    const env = makeEnv();
+    env.showAuthModal();
+    env.resetCalls();
+
+    await env.handleAuthStateChange('INITIAL_SESSION', { user: { id: 'u1', email: 'a@b.com' } });
+
+    expect(env.calls).not.toContain('hideAuthModal');
+    expect(env.getAuthOverlay().classList.has('open')).toBe(true);
+  });
+
+  test('TOKEN_REFRESHED does not call fetchFavorites (no redundant reload)', async () => {
+    const env = makeEnv();
+    env.setUser({ id: 'u1', email: 'a@b.com' });
+    env.setFavorites(new Set(['existing-p1']));
+    env.resetCalls();
+
+    await env.handleAuthStateChange('TOKEN_REFRESHED', { user: { id: 'u1', email: 'a@b.com' } });
+
+    // No fetchFavorites → no renderHomepage, favorites unchanged
+    expect(env.calls).not.toContain('renderHomepage');
+    expect(env.getFavorites().has('existing-p1')).toBe(true);
+  });
+});
+
+describe('Bug 1 & 2 — SIGNED_OUT still clears state correctly', () => {
+
+  test('SIGNED_OUT clears favorites and shows sign-in state', async () => {
     const env = makeEnv();
     env.setUser({ id: 'u1', email: 'a@b.com' });
     env.setFavorites(new Set(['p1']));
@@ -358,8 +329,20 @@ describe('Bug 1 & 2 — onAuthStateChange does NOT clear favorites on non-SIGNED
 
     expect(env.getUser()).toBeNull();
     expect(env.getFavorites().size).toBe(0);
-    expect(env.calls).toContain('renderHomepage');
     expect(env.getPlayersArea().innerHTML).toBe('SIGN_IN_STATE');
+  });
+
+  test('INITIAL_SESSION with null session does not clear favorites', async () => {
+    const env = makeEnv();
+    env.setUser({ id: 'u1', email: 'a@b.com' });
+    env.setFavorites(new Set(['p1', 'p2']));
+    env.resetCalls();
+
+    await env.handleAuthStateChange('INITIAL_SESSION', null);
+
+    expect(env.getFavorites().has('p1')).toBe(true);
+    expect(env.getFavorites().has('p2')).toBe(true);
+    expect(env.calls).not.toContain('renderHomepage');
   });
 });
 
@@ -369,33 +352,21 @@ describe('Bug 4 — logout cleans up immediately', () => {
     const env = makeEnv();
     env.setUser({ id: 'u1', email: 'a@b.com' });
     env.setFavorites(new Set(['p1']));
-
-    // Verify the overlay is open (profile was showing)
     env.getProfileOverlay().classList.add('open');
 
-    let profileHiddenAt = null;
-    let signOutCalledAt = null;
-    let step = 0;
-
-    const orig_hideProfile_idx = () => {
-      profileHiddenAt = step++;
-    };
-
-    // We'll check call ordering via env.calls array
     await env.signOut();
 
-    const callOrder = env.calls;
+    const callOrder       = env.calls;
     const hideProfilePos  = callOrder.indexOf('hideProfile');
-    const renderHomepagePos = callOrder.indexOf('renderHomepage');
-    const renderProfileBtnPos = callOrder.indexOf('renderProfileBtn');
+    const renderPos       = callOrder.indexOf('renderHomepage');
+    const profileBtnPos   = callOrder.indexOf('renderProfileBtn');
 
-    // hideProfile must be first
     expect(hideProfilePos).toBeGreaterThanOrEqual(0);
-    expect(renderHomepagePos).toBeGreaterThan(hideProfilePos);
-    expect(renderProfileBtnPos).toBeGreaterThan(hideProfilePos);
+    expect(renderPos).toBeGreaterThan(hideProfilePos);
+    expect(profileBtnPos).toBeGreaterThan(hideProfilePos);
   });
 
-  test('UI shows signed-out state immediately (before server confirms)', async () => {
+  test('UI shows signed-out state immediately', async () => {
     const env = makeEnv();
     env.setUser({ id: 'u1', email: 'a@b.com' });
     env.setFavorites(new Set(['p1']));
@@ -403,12 +374,9 @@ describe('Bug 4 — logout cleans up immediately', () => {
 
     await env.signOut();
 
-    // User and favorites cleared synchronously
     expect(env.getUser()).toBeNull();
     expect(env.getFavorites().size).toBe(0);
-    // Profile button shows guest state
     expect(env.getProfileBtn().className).toContain('profile-btn-guest');
-    // Homepage shows sign-in state
     expect(env.getPlayersArea().innerHTML).toBe('SIGN_IN_STATE');
   });
 
@@ -427,10 +395,8 @@ describe('Bug 4 — logout cleans up immediately', () => {
     env.setUser({ id: 'u1', email: 'a@b.com' });
     env.setSignOutError({ message: 'network error' });
 
-    // Should not throw
     await expect(env.signOut()).resolves.toBeUndefined();
 
-    // UI still cleared
     expect(env.getUser()).toBeNull();
     expect(env.getFavorites().size).toBe(0);
   });
