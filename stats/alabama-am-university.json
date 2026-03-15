@@ -2,13 +2,13 @@
   "school": "Alabama A&M University",
   "base_url": "https://www.aamusports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:21:10.264947Z",
-  "record": "6-13",
+  "generated_at": "2026-03-15T11:24:24.372495Z",
+  "record": "6-14",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Alcorn St.",
     "result": "",
-    "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8644&path=baseball",
+    "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

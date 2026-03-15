@@ -2,13 +2,13 @@
   "school": "University of Pennsylvania",
   "base_url": "https://www.pennathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-14T16:16:38.352739Z",
-  "record": "2-9",
+  "generated_at": "2026-03-15T13:12:46.052374Z",
+  "record": "3-9",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "East Carolina",
     "result": "",
-    "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+    "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

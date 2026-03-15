@@ -2,13 +2,13 @@
   "school": "Louisiana Tech University",
   "base_url": "https://www.latechsports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T15:04:33.146526Z",
-  "record": "11-8",
+  "generated_at": "2026-03-15T12:04:56.804297Z",
+  "record": "12-8",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Delaware",
     "result": "",
-    "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14314&path=baseball",
+    "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

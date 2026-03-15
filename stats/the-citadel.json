@@ -2,13 +2,13 @@
   "school": "The Citadel",
   "base_url": "https://www.citadelsports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T15:42:01.474437Z",
-  "record": "6-9",
+  "generated_at": "2026-03-15T12:40:02.176939Z",
+  "record": "7-9",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "UT Martin",
     "result": "",
-    "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+    "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

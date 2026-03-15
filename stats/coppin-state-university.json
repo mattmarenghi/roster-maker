@@ -2,13 +2,13 @@
   "school": "Coppin State University",
   "base_url": "https://www.coppinstatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:39:03.842108Z",
-  "record": "2-11",
+  "generated_at": "2026-03-15T11:41:12.122648Z",
+  "record": "2-12",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "FDU",
     "result": "",
-    "boxscore_url": "https://www.coppinstatesports.com/boxscore.aspx?id=10048&path=baseball",
+    "boxscore_url": "https://www.coppinstatesports.com/boxscore.aspx?id=10049&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

@@ -2,13 +2,13 @@
   "school": "George Mason University",
   "base_url": "https://gomason.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:50:04.495665Z",
-  "record": "7-8",
+  "generated_at": "2026-03-15T11:51:22.049288Z",
+  "record": "8-8",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "St. Bonaventure",
-    "result": "W 4-3",
-    "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=",
+    "result": "W 15-11",
+    "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
@@ -26,53 +26,23 @@
       "season_batting": null,
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Georgetown",
-        "result": "L 4-5",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=",
+        "date": "2026-03-14",
+        "opponent": "St. Bonaventure",
+        "result": "W 15-11",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
         "batting": null,
         "pitching": {
-          "ip": "4.0",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 4,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Georgetown, throwing 4.0 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
-    },
-    "e9f81973": {
-      "id": "e9f81973",
-      "name": "Jake Drumm",
-      "fn": "Jake",
-      "ln": "Drumm",
-      "pos": "",
-      "yr": "",
-      "num": "",
-      "school": "George Mason University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Georgetown",
-        "result": "L 4-5",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
+          "ip": "2.2",
+          "h": 5,
+          "r": 3,
           "er": 0,
-          "bb": 0,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0
+          "bb": 3,
+          "so": 5,
+          "wp": 1,
+          "hbp": 1
         }
       },
-      "narrative": "Took the mound against Georgetown, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against St. Bonaventure, throwing 2.2 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
     },
     "ec6233a7": {
       "id": "ec6233a7",
@@ -89,7 +59,7 @@
         "date": "2026-03-13",
         "opponent": "St. Bonaventure",
         "result": "W 4-3",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "1.1",
@@ -104,6 +74,36 @@
       },
       "narrative": "Took the mound against St. Bonaventure, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
+    "c659405e": {
+      "id": "c659405e",
+      "name": "Brandon Hsu",
+      "fn": "Brandon",
+      "ln": "Hsu",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "St. Bonaventure",
+        "result": "W 15-11",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against St. Bonaventure, throwing 1.2 innings. Allowed 5 earned run(s) with 3 strikeout(s)."
+    },
     "883ee04a": {
       "id": "883ee04a",
       "name": "Carter Kelsey",
@@ -116,83 +116,23 @@
       "season_batting": null,
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Georgetown",
-        "result": "L 4-5",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=",
+        "date": "2026-03-14",
+        "opponent": "St. Bonaventure",
+        "result": "W 15-11",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Georgetown, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
-    },
-    "296ca955": {
-      "id": "296ca955",
-      "name": "Shaun Okeeffe",
-      "fn": "Shaun",
-      "ln": "Okeeffe",
-      "pos": "",
-      "yr": "",
-      "num": "",
-      "school": "George Mason University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Georgetown",
-        "result": "L 4-5",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=",
-        "batting": null,
-        "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Georgetown, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
-    },
-    "aac1f3d3": {
-      "id": "aac1f3d3",
-      "name": "Aiden Parker",
-      "fn": "Aiden",
-      "ln": "Parker",
-      "pos": "",
-      "yr": "",
-      "num": "",
-      "school": "George Mason University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Georgetown",
-        "result": "L 4-5",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13937&path=",
-        "batting": null,
-        "pitching": {
-          "ip": "2.2",
-          "h": 4,
-          "r": 3,
-          "er": 3,
+          "ip": "3.0",
+          "h": 3,
+          "r": 1,
+          "er": 1,
           "bb": 1,
           "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Georgetown, throwing 2.2 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+      "narrative": "Took the mound against St. Bonaventure, throwing 3.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
     },
     "cc1b049e": {
       "id": "cc1b049e",
@@ -209,7 +149,7 @@
         "date": "2026-03-13",
         "opponent": "St. Bonaventure",
         "result": "W 4-3",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "6.0",
@@ -239,7 +179,7 @@
         "date": "2026-03-13",
         "opponent": "St. Bonaventure",
         "result": "W 4-3",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "1.2",
@@ -253,6 +193,36 @@
         }
       },
       "narrative": "Took the mound against St. Bonaventure, throwing 1.2 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+    },
+    "3b826c0a": {
+      "id": "3b826c0a",
+      "name": "Tyson Willis",
+      "fn": "Tyson",
+      "ln": "Willis",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "St. Bonaventure",
+        "result": "W 15-11",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against St. Bonaventure, throwing 1.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

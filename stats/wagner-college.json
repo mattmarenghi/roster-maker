@@ -2,13 +2,13 @@
   "school": "Wagner College",
   "base_url": "https://www.wagnerathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-14T16:30:49.953298Z",
-  "record": "2-11",
+  "generated_at": "2026-03-15T13:25:55.711451Z",
+  "record": "2-12",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "Rutgers",
+    "date": "2026-03-14",
+    "opponent": "LIU",
     "result": "",
-    "boxscore_url": "https://www.wagnerathletics.com/boxscore.aspx?id=14366&path=baseball",
+    "boxscore_url": "https://www.wagnerathletics.com/boxscore.aspx?id=14367&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

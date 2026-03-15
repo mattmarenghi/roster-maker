@@ -2,13 +2,13 @@
   "school": "Youngstown State University",
   "base_url": "https://www.ysusports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T16:38:21.905981Z",
-  "record": "2-13",
+  "generated_at": "2026-03-15T13:33:01.500756Z",
+  "record": "2-14",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Oakland",
     "result": "",
-    "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8860&path=baseball",
+    "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8861&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

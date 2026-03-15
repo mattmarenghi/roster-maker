@@ -2,13 +2,13 @@
   "school": "Mississippi Valley State University",
   "base_url": "https://www.mvsusports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T15:12:18.152415Z",
+  "generated_at": "2026-03-15T12:12:19.886740Z",
   "record": "4-12",
   "most_recent_game": {
     "date": "2026-03-13",
     "opponent": "Arkansas-Pine Bluff",
     "result": "",
-    "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
+    "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

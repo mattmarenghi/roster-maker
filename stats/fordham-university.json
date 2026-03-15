@@ -2,138 +2,17 @@
   "school": "Fordham University",
   "base_url": "https://www.fordhamsports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:49:49.045573Z",
-  "record": "6-10",
+  "generated_at": "2026-03-15T11:51:10.241792Z",
+  "record": "7-10",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Davidson",
-    "result": "W 9-8",
-    "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20713&path=baseball",
-    "recap_url": "https://www.fordhamsports.com/news/2026/3/13/baseball-edged-by-davidson-9-8.aspx",
-    "recap_headline": "Baseball Edged by Davidson, 9-8",
+    "result": "L 4-6",
+    "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20714&path=baseball",
+    "recap_url": "https://www.fordhamsports.com/news/2026/3/14/hanawalts-career-day-leads-baseball-past-davidson.aspx",
+    "recap_headline": "Hanawalt\u2019s Career Day Leads Baseball Past Davidson",
     "recap_text": ""
   },
-  "players": {
-    "fcfebee1": {
-      "id": "fcfebee1",
-      "name": "Robbie Stewart",
-      "fn": "Robbie",
-      "ln": "Stewart",
-      "pos": "P",
-      "yr": "",
-      "num": "9.0",
-      "school": "Fordham University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Iona",
-        "result": "W 14-2",
-        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "4.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 6,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Iona, throwing 4.0 innings. Allowed 1 earned run(s) with 6 strikeout(s)."
-    },
-    "47f31953": {
-      "id": "47f31953",
-      "name": "Andrew Kapica",
-      "fn": "Andrew",
-      "ln": "Kapica",
-      "pos": "P",
-      "yr": "",
-      "num": "22.0",
-      "school": "Fordham University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Iona",
-        "result": "W 14-2",
-        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 5,
-          "wp": 1,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Iona, throwing 2.0 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
-    },
-    "b460e801": {
-      "id": "b460e801",
-      "name": "Diego Reilly-Bell",
-      "fn": "Diego",
-      "ln": "Reilly-Bell",
-      "pos": "P",
-      "yr": "",
-      "num": "30.0",
-      "school": "Fordham University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Iona",
-        "result": "W 14-2",
-        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 3,
-          "so": 2,
-          "wp": 0,
-          "hbp": 2
-        }
-      },
-      "narrative": "Took the mound against Iona, throwing 2.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
-    },
-    "0d5f95a9": {
-      "id": "0d5f95a9",
-      "name": "Aidan O'Brien-Gonzalez",
-      "fn": "Aidan",
-      "ln": "O'Brien-Gonzalez",
-      "pos": "P",
-      "yr": "",
-      "num": "40.0",
-      "school": "Fordham University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Iona",
-        "result": "W 14-2",
-        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20712&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Iona, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

@@ -2,13 +2,13 @@
   "school": "Harvard University",
   "base_url": "https://gocrimson.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:52:50.438425Z",
-  "record": "0-10",
+  "generated_at": "2026-03-15T11:53:49.731333Z",
+  "record": "0-11",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "California Baptist",
     "result": "",
-    "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32370&path=baseball",
+    "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32371&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

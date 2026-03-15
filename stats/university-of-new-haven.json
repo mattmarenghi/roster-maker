@@ -2,13 +2,13 @@
   "school": "University of New Haven",
   "base_url": "https://www.newhavenchargers.com",
   "season": "2026",
-  "generated_at": "2026-03-14T16:09:53.404940Z",
-  "record": "1-8",
+  "generated_at": "2026-03-15T13:06:26.549728Z",
+  "record": "1-9",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Le Moyne",
     "result": "",
-    "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14799&path=baseball",
+    "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14800&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

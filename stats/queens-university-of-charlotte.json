@@ -2,13 +2,13 @@
   "school": "Queens University of Charlotte",
   "base_url": "https://www.queensathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-14T15:23:50.295097Z",
-  "record": "4-15",
+  "generated_at": "2026-03-15T12:23:22.137604Z",
+  "record": "4-16",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "FGCU",
     "result": "",
-    "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12909&path=baseball",
+    "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12911&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

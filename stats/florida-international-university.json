@@ -2,13 +2,13 @@
   "school": "Florida International University",
   "base_url": "https://www.fiusports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:48:17.369188Z",
-  "record": "7-12",
+  "generated_at": "2026-03-15T11:49:43.674904Z",
+  "record": "7-13",
   "most_recent_game": {
-    "date": "2026-03-10",
-    "opponent": "FGCU",
+    "date": "2026-03-14",
+    "opponent": "WKU",
     "result": "",
-    "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14100&path=baseball",
+    "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

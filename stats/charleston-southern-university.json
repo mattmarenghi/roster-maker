@@ -2,13 +2,13 @@
   "school": "Charleston Southern University",
   "base_url": "https://csusports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:36:14.405347Z",
-  "record": "12-5",
+  "generated_at": "2026-03-15T11:38:25.795170Z",
+  "record": "13-6",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Villanova",
     "result": "",
-    "boxscore_url": "https://csusports.com/boxscore.aspx?id=14880&path=baseball",
+    "boxscore_url": "https://csusports.com/boxscore.aspx?id=14881&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

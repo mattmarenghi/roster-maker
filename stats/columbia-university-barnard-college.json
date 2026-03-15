@@ -2,7 +2,7 @@
   "school": "Columbia University-Barnard College",
   "base_url": "https://www.gocolumbialions.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:38:46.963438Z",
+  "generated_at": "2026-03-15T11:40:54.237614Z",
   "record": "2-8",
   "most_recent_game": {
     "date": "2026-03-13",
@@ -372,17 +372,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "West Virginia",
+        "date": "2026-03-13",
+        "opponent": "South Florida",
         "result": "L",
-        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/west-virginia/boxscore/15171",
+        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/south-florida/boxscore/15172",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 1,
+          "ab": 1,
+          "r": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 2,
+          "bb": 2,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -390,7 +390,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against West Virginia. Contributed at the plate in the team's L."
+      "narrative": "Went 0/1 with 0 RBI against South Florida. Struggled at the plate but saw 2 walk(s)."
     },
     "db6da3c0": {
       "id": "db6da3c0",
@@ -475,16 +475,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "West Virginia",
+        "date": "2026-03-13",
+        "opponent": "South Florida",
         "result": "L",
-        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/west-virginia/boxscore/15171",
+        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/south-florida/boxscore/15172",
         "batting": {
-          "ab": 2,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 0,
-          "rbi": 1,
-          "bb": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
           "hr": 0,
           "doubles": 0,
@@ -493,7 +493,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against West Virginia. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went 0/3 with 0 RBI against South Florida. Struggled to make contact."
     },
     "7c5aa296": {
       "id": "7c5aa296",
@@ -928,17 +928,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "West Virginia",
+        "date": "2026-03-13",
+        "opponent": "South Florida",
         "result": "L",
-        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/west-virginia/boxscore/15171",
+        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/south-florida/boxscore/15172",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -946,7 +946,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against West Virginia. Contributed at the plate in the team's L."
+      "narrative": "Went 0/3 with 0 RBI against South Florida. Struggled to make contact."
     },
     "6b075d0a": {
       "id": "6b075d0a",

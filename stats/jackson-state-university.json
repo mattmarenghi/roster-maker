@@ -2,48 +2,17 @@
   "school": "Jackson State University",
   "base_url": "https://www.gojsutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-14T14:56:13.607264Z",
-  "record": "9-10",
+  "generated_at": "2026-03-15T11:56:56.244498Z",
+  "record": "9-11",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Texas Southern",
-    "result": "W 17-6",
-    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=baseball",
-    "recap_url": "https://www.gojsutigers.com/news/2026/3/13/baseball-tigers-fall-to-texas-southern-to-open-conference-play.aspx",
+    "result": "W 15-9",
+    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+    "recap_url": "https://www.gojsutigers.com/news/2026/3/14/baseball-tigers-fall-to-texas-southern-on-saturday-drop-series.aspx",
     "recap_headline": "Jackson State University",
     "recap_text": ""
   },
-  "players": {
-    "495b2f0c": {
-      "id": "495b2f0c",
-      "name": "Marcus Smith",
-      "fn": "Marcus",
-      "ln": "Smith",
-      "pos": "RHP/INF",
-      "yr": "Fr.",
-      "num": "31.0",
-      "school": "Jackson State University",
-      "season_batting": null,
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Seattle U",
-        "result": "W 6-4",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5201&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "Took the mound against Seattle U, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
-    }
-  },
+  "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

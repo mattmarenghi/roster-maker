@@ -2,13 +2,13 @@
   "school": "University at Albany",
   "base_url": "https://www.ualbanysports.com",
   "season": "2026",
-  "generated_at": "2026-03-14T15:49:17.512047Z",
-  "record": "1-10",
+  "generated_at": "2026-03-15T12:46:53.067773Z",
+  "record": "1-11",
   "most_recent_game": {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "opponent": "Yale",
     "result": "",
-    "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9963&path=baseball",
+    "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9964&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
