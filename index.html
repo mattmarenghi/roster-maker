@@ -872,19 +872,15 @@
   let favorites = new Set();
 
   // ── Auth state ──────────────────────────────────────────────────────────────
-  db.auth.onAuthStateChange(async (event, session) => {
+  // Kept intentionally simple: sync state only, no async data loading.
+  // Each auth flow (verifyOTP, init) is responsible for loading its own data.
+  db.auth.onAuthStateChange((event, session) => {
     currentUser = session?.user ?? null;
     renderProfileBtn();
-    if (event === 'SIGNED_IN') {
-      // User just completed OTP verification — close login modal and load their data.
-      hideAuthModal();
-      await fetchFavorites();
-    } else if (event === 'SIGNED_OUT') {
+    if (event === 'SIGNED_OUT') {
       favorites = new Set();
       renderHomepage();
     }
-    // INITIAL_SESSION / TOKEN_REFRESHED: only currentUser + renderProfileBtn above.
-    // Page-load favorites are loaded reliably by init() via getSession() below.
   });
 
   function renderProfileBtn() {
@@ -1076,18 +1072,22 @@
     btn.textContent = 'Verifying...';
     $('authError2').textContent = '';
 
-    const { error } = await db.auth.verifyOtp({
-      email: pendingEmail,
-      token,
-      type: 'email',
-    });
+    try {
+      const { error } = await db.auth.verifyOtp({
+        email: pendingEmail,
+        token,
+        type: 'email',
+      });
 
-    if (error) {
-      $('authError2').textContent = error.message;
-      btn.disabled = false;
-      btn.textContent = 'Sign In';
-    } else {
-      hideAuthModal();
+      if (error) {
+        $('authError2').textContent = error.message;
+      } else {
+        hideAuthModal();
+        await fetchFavorites();
+      }
+    } catch (err) {
+      $('authError2').textContent = 'Verification failed. Please try again.';
+    } finally {
       btn.disabled = false;
       btn.textContent = 'Sign In';
     }
@@ -1121,7 +1121,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.11 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
+        <div class="ps-version">VERSION 2.5.12 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
       return;
     }
 
@@ -1163,7 +1163,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.11 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
+      <div class="ps-version">VERSION 2.5.12 (claude/fix-favorites-logout-bugs-w7Kr0)</div>`;
   }
 
   async function signOut() {
