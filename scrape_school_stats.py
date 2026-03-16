@@ -346,11 +346,23 @@ def scrape_season_batting(base_url: str, season: str = "2026", no_season: bool =
     raw_headers = [th.get_text(strip=True) for th in batting_table.find_all("th")]
     players = []
     for row in batting_table.find_all("tr")[1:]:  # skip header
-        cells = [td.get_text(strip=True) for td in row.find_all("td")]
+        # Old SIDEARM uses <th scope="row"> for the player name cell; new SIDEARM uses <td>.
+        # Including both keeps column indices aligned with raw_headers for both formats.
+        raw_cells = row.find_all(["td", "th"])
+        cells = [c.get_text(strip=True) for c in raw_cells]
         if not cells or len(cells) < 5:
             continue
+
+        # Extract player name from the name cell (index 1).
+        # Old SIDEARM embeds a mobile jersey-number span inside the <th>, producing
+        # garbled get_text() like "Parks, Sam5Parks, Sam". Use the <a> link text
+        # when available to get a clean name.
+        name_raw = ""
+        if len(raw_cells) > 1:
+            link = raw_cells[1].find("a")
+            name_raw = link.get_text(strip=True) if link else cells[1]
+
         # Skip totals rows
-        name_raw = cells[1] if len(cells) > 1 else ""
         if "total" in name_raw.lower() or not name_raw:
             continue
 
@@ -451,70 +463,37 @@ def scrape_season_pitching(base_url: str, season: str = "2026", no_season: bool 
     time.sleep(DELAY)
 
     nuxt_data = extract_nuxt_data(html)
-    if not nuxt_data:
-        print("  Could not extract NUXT data for pitching stats", file=sys.stderr)
-        return []
 
     def rv(idx):
-        return resolve_nuxt(nuxt_data, idx)
+        return resolve_nuxt(nuxt_data, idx) if nuxt_data else None
 
     # Navigate: statsSeason -> cumulativeStats -> (key) -> overallIndividualStats
     # -> individualStats -> individualPitchingStats
-    stats_season_idx = None
-    for i, item in enumerate(nuxt_data):
-        if isinstance(item, dict) and "statsSeason" in item:
-            stats_season_idx = item["statsSeason"]
-            break
-    if stats_season_idx is None:
-        return []
+    # Any missing step sets pitching_list=None and falls through to the HTML fallback.
+    pitching_list = None
+    if nuxt_data:
+        stats_season_idx = None
+        for i, item in enumerate(nuxt_data):
+            if isinstance(item, dict) and "statsSeason" in item:
+                stats_season_idx = item["statsSeason"]
+                break
 
-    stats_season = rv(stats_season_idx)
-    if not isinstance(stats_season, dict):
-        return []
-
-    cumul_idx = stats_season.get("cumulativeStats")
-    if cumul_idx is None:
-        return []
-
-    cumul = rv(cumul_idx)
-    if not isinstance(cumul, dict):
-        return []
-
-    # cumul is keyed by a hash; get the first value
-    first_key = next(iter(cumul), None)
-    if first_key is None:
-        return []
-
-    main_stats = rv(cumul[first_key])
-    if not isinstance(main_stats, dict):
-        return []
-
-    overall_idx = main_stats.get("overallIndividualStats")
-    if overall_idx is None:
-        return []
-
-    overall = rv(overall_idx)
-    if not isinstance(overall, dict):
-        return []
-
-    indiv_idx = overall.get("individualStats")
-    if indiv_idx is None:
-        return []
-
-    indiv = rv(indiv_idx)
-    if not isinstance(indiv, dict):
-        return []
-
-    pitching_list_idx = indiv.get("individualPitchingStats")
-    if pitching_list_idx is None:
-        return []
-
-    pitching_list = rv(pitching_list_idx)
-    if not isinstance(pitching_list, list):
-        return []
+        stats_season = rv(stats_season_idx) if stats_season_idx is not None else None
+        cumul_idx = stats_season.get("cumulativeStats") if isinstance(stats_season, dict) else None
+        cumul = rv(cumul_idx) if cumul_idx is not None else None
+        first_key = next(iter(cumul), None) if isinstance(cumul, dict) else None
+        main_stats = rv(cumul[first_key]) if first_key is not None else None
+        overall_idx = main_stats.get("overallIndividualStats") if isinstance(main_stats, dict) else None
+        overall = rv(overall_idx) if overall_idx is not None else None
+        indiv_idx = overall.get("individualStats") if isinstance(overall, dict) else None
+        indiv = rv(indiv_idx) if indiv_idx is not None else None
+        pitching_list_idx = indiv.get("individualPitchingStats") if isinstance(indiv, dict) else None
+        candidate = rv(pitching_list_idx) if pitching_list_idx is not None else None
+        if isinstance(candidate, list):
+            pitching_list = candidate
 
     pitchers = []
-    for pitcher_idx in pitching_list:
+    for pitcher_idx in (pitching_list or []):
         p = rv(pitcher_idx)
         if not isinstance(p, dict):
             continue
@@ -582,22 +561,21 @@ def scrape_season_pitching(base_url: str, season: str = "2026", no_season: bool 
     raw_headers = [th.get_text(strip=True) for th in pitching_table.find_all("th")]
     pitchers = []
     for row in pitching_table.find_all("tr")[1:]:
-        cells = [td.get_text(strip=True) for td in row.find_all("td")]
+        # Include <th scope="row"> name cells so column indices align with raw_headers
+        # (same fix as scrape_season_batting — old SIDEARM uses th for the name cell)
+        raw_cells = row.find_all(["td", "th"])
+        cells = [c.get_text(strip=True) for c in raw_cells]
         if not cells or len(cells) < 10:
             continue
 
-        # First cell is jersey #, second is player name in some old formats
-        # But in UCSB format, the headers include player names. Rows start with jersey #.
+        # Extract player name: prefer <a> link (avoids mobile-span clutter in old SIDEARM)
         name_raw = ""
-        # Check if we can find a link with the player name
-        name_link = row.find("a")
-        if name_link:
-            name_raw = name_link.get_text(strip=True)
+        if len(raw_cells) > 1:
+            link = raw_cells[1].find("a")
+            name_raw = link.get_text(strip=True) if link else cells[1]
         if not name_raw:
-            # Try getting from the row text before the first numeric cell
-            all_text = [td.get_text(strip=True) for td in row.find_all("td")]
-            if all_text and not all_text[0].replace(".", "").replace("-", "").isdigit():
-                name_raw = all_text[0]
+            link = row.find("a")
+            name_raw = link.get_text(strip=True) if link else ""
 
         if not name_raw or name_raw.lower() in ("totals", "opponents", ""):
             continue
@@ -928,10 +906,28 @@ def scrape_boxscore(url: str) -> dict | None:
         rows = table.find_all("tr")
         out = []
         for row in rows[1:]:
-            cells = [td.get_text(strip=True) for td in row.find_all(["td", "th"])]
+            raw_cells = row.find_all(["td", "th"])
+            cells = [td.get_text(strip=True) for td in raw_cells]
             if len(cells) < 5:
                 continue
+
             name = cells[0]
+            pos = cells[1] if len(cells) > 1 else ""
+
+            # Old SIDEARM (.aspx) format: cells[0] is a position abbreviation
+            # (e.g. "cf", "2b") and cells[1] is a combined cell whose get_text()
+            # returns the position prefix + player name (e.g. "cfParks, Sam").
+            # Detect this and extract the clean name from the <a> link in cells[1],
+            # or by stripping the leading position prefix from the text.
+            # Data columns (AB, R, H, …) remain at the same indices in both formats.
+            if len(name) <= 3 and name.replace(" ", "").isalpha() and pos.lower().startswith(name.lower()):
+                pos = name  # the short abbr is the position
+                link = raw_cells[1].find("a") if len(raw_cells) > 1 else None
+                if link:
+                    name = link.get_text(strip=True)
+                else:
+                    name = cells[1][len(name):]  # strip leading position prefix
+
             if not name or name.lower() in ("totals", ""):
                 continue
 
@@ -943,7 +939,7 @@ def scrape_boxscore(url: str) -> dict | None:
 
             out.append({
                 "name": name,
-                "pos": cells[1] if len(cells) > 1 else "",
+                "pos": pos,
                 "ab": si(2), "r": si(3), "h": si(4),
                 "rbi": si(5), "bb": si(6), "so": si(8),
                 "lob": si(9) if len(cells) > 9 else 0,
@@ -1012,16 +1008,22 @@ def scrape_boxscore(url: str) -> dict | None:
                         "description": cells[2],
                     })
 
-    # Assign batting/pitching tables (first = away/opponent, second = our team)
+    # Assign batting/pitching tables.
+    # In a standard box score the away team is listed first, home team second.
+    # However older SIDEARM (.aspx) sites do not reliably reflect this in the
+    # page title, so we populate both orderings and let the caller pick the
+    # one with more matching players (see run()).
     if len(batting_tables) >= 2:
         result["opponent_batting"] = parse_batting_table(batting_tables[0])
-        result["our_batting"] = parse_batting_table(batting_tables[1])
+        result["our_batting"]      = parse_batting_table(batting_tables[1])
+        result["alt_batting"]      = parse_batting_table(batting_tables[0])  # swap candidate
     elif len(batting_tables) == 1:
         result["our_batting"] = parse_batting_table(batting_tables[0])
 
     if len(pitching_tables) >= 2:
         result["opponent_pitching"] = parse_pitching_table(pitching_tables[0])
-        result["our_pitching"] = parse_pitching_table(pitching_tables[1])
+        result["our_pitching"]      = parse_pitching_table(pitching_tables[1])
+        result["alt_pitching"]      = parse_pitching_table(pitching_tables[0])  # swap candidate
     elif len(pitching_tables) == 1:
         result["our_pitching"] = parse_pitching_table(pitching_tables[0])
 
@@ -1433,7 +1435,13 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     player_last_game = {}  # ln_key -> last_game_data dict
     game_recaps = {}       # date_str -> {recap, recap_url}
 
-    if (fallback_count > 0 or not bio_pairs) and games:
+    # Also run the box score scan when the bio API yielded nothing — this happens for
+    # schools on the older SIDEARM platform (boxscore.aspx URLs) where the /api/v2/stats/bio
+    # endpoint is unavailable or returns an incompatible format.  Without this, enriched
+    # schools (all players have profile_url → fallback_count==0 and bio_pairs is full) would
+    # silently skip box-score scanning even though bio API returned zero results.
+    bio_api_yielded_nothing = bool(bio_pairs) and not bio_last_game
+    if (fallback_count > 0 or not bio_pairs or bio_api_yielded_nothing) and games:
         print(f"\n[5b/6] Box score scan for {fallback_count} fallback players (up to {max_games_back} games)")
         games_to_scan = games[:max_games_back]
 
@@ -1455,8 +1463,31 @@ def run(base_url: str, school_slug: str, season: str = "2026",
                     idx[key] = {"fn": fn, "ln": ln, **{k: v for k, v in row.items() if k != "name"}}
                 return idx
 
-            bat_idx = index_box(box.get("our_batting", []))
-            pitch_idx = index_box(box.get("our_pitching", []))
+            # Determine which batting/pitching table belongs to our school.
+            # The default assignment (tables[1]=ours) works for SIDEARM v3+ and for
+            # new-format home games. Old SIDEARM (.aspx) pages may put our team in
+            # tables[0] and don't reliably indicate home/away in the page title.
+            # Compare name-match counts against school_players to pick the right one.
+            school_lns = {normalize_name(p["ln"]) for p in school_players}
+
+            def count_school_matches(rows):
+                return sum(
+                    1 for r in rows
+                    if normalize_name(parse_boxscore_name(r["name"])[1]) in school_lns
+                )
+
+            our_bat_rows  = box.get("our_batting", [])
+            alt_bat_rows  = box.get("alt_batting", [])
+            our_pit_rows  = box.get("our_pitching", [])
+            alt_pit_rows  = box.get("alt_pitching", [])
+
+            if count_school_matches(alt_bat_rows) > count_school_matches(our_bat_rows):
+                our_bat_rows = alt_bat_rows
+            if count_school_matches(alt_pit_rows) > count_school_matches(our_pit_rows):
+                our_pit_rows = alt_pit_rows
+
+            bat_idx   = index_box(our_bat_rows)
+            pitch_idx = index_box(our_pit_rows)
 
             game_player_keys = set(bat_idx.keys()) | set(pitch_idx.keys())
             new_found = 0
