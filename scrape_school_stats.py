@@ -928,10 +928,28 @@ def scrape_boxscore(url: str) -> dict | None:
         rows = table.find_all("tr")
         out = []
         for row in rows[1:]:
-            cells = [td.get_text(strip=True) for td in row.find_all(["td", "th"])]
+            raw_cells = row.find_all(["td", "th"])
+            cells = [td.get_text(strip=True) for td in raw_cells]
             if len(cells) < 5:
                 continue
+
             name = cells[0]
+            pos = cells[1] if len(cells) > 1 else ""
+
+            # Old SIDEARM (.aspx) format: cells[0] is a position abbreviation
+            # (e.g. "cf", "2b") and cells[1] is a combined cell whose get_text()
+            # returns the position prefix + player name (e.g. "cfParks, Sam").
+            # Detect this and extract the clean name from the <a> link in cells[1],
+            # or by stripping the leading position prefix from the text.
+            # Data columns (AB, R, H, …) remain at the same indices in both formats.
+            if len(name) <= 3 and name.replace(" ", "").isalpha() and pos.lower().startswith(name.lower()):
+                pos = name  # the short abbr is the position
+                link = raw_cells[1].find("a") if len(raw_cells) > 1 else None
+                if link:
+                    name = link.get_text(strip=True)
+                else:
+                    name = cells[1][len(name):]  # strip leading position prefix
+
             if not name or name.lower() in ("totals", ""):
                 continue
 
@@ -943,7 +961,7 @@ def scrape_boxscore(url: str) -> dict | None:
 
             out.append({
                 "name": name,
-                "pos": cells[1] if len(cells) > 1 else "",
+                "pos": pos,
                 "ab": si(2), "r": si(3), "h": si(4),
                 "rbi": si(5), "bb": si(6), "so": si(8),
                 "lob": si(9) if len(cells) > 9 else 0,
@@ -1012,16 +1030,22 @@ def scrape_boxscore(url: str) -> dict | None:
                         "description": cells[2],
                     })
 
-    # Assign batting/pitching tables (first = away/opponent, second = our team)
+    # Assign batting/pitching tables.
+    # In a standard box score the away team is listed first, home team second.
+    # However older SIDEARM (.aspx) sites do not reliably reflect this in the
+    # page title, so we populate both orderings and let the caller pick the
+    # one with more matching players (see run()).
     if len(batting_tables) >= 2:
         result["opponent_batting"] = parse_batting_table(batting_tables[0])
-        result["our_batting"] = parse_batting_table(batting_tables[1])
+        result["our_batting"]      = parse_batting_table(batting_tables[1])
+        result["alt_batting"]      = parse_batting_table(batting_tables[0])  # swap candidate
     elif len(batting_tables) == 1:
         result["our_batting"] = parse_batting_table(batting_tables[0])
 
     if len(pitching_tables) >= 2:
         result["opponent_pitching"] = parse_pitching_table(pitching_tables[0])
-        result["our_pitching"] = parse_pitching_table(pitching_tables[1])
+        result["our_pitching"]      = parse_pitching_table(pitching_tables[1])
+        result["alt_pitching"]      = parse_pitching_table(pitching_tables[0])  # swap candidate
     elif len(pitching_tables) == 1:
         result["our_pitching"] = parse_pitching_table(pitching_tables[0])
 
@@ -1433,7 +1457,13 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     player_last_game = {}  # ln_key -> last_game_data dict
     game_recaps = {}       # date_str -> {recap, recap_url}
 
-    if (fallback_count > 0 or not bio_pairs) and games:
+    # Also run the box score scan when the bio API yielded nothing — this happens for
+    # schools on the older SIDEARM platform (boxscore.aspx URLs) where the /api/v2/stats/bio
+    # endpoint is unavailable or returns an incompatible format.  Without this, enriched
+    # schools (all players have profile_url → fallback_count==0 and bio_pairs is full) would
+    # silently skip box-score scanning even though bio API returned zero results.
+    bio_api_yielded_nothing = bool(bio_pairs) and not bio_last_game
+    if (fallback_count > 0 or not bio_pairs or bio_api_yielded_nothing) and games:
         print(f"\n[5b/6] Box score scan for {fallback_count} fallback players (up to {max_games_back} games)")
         games_to_scan = games[:max_games_back]
 
@@ -1455,8 +1485,31 @@ def run(base_url: str, school_slug: str, season: str = "2026",
                     idx[key] = {"fn": fn, "ln": ln, **{k: v for k, v in row.items() if k != "name"}}
                 return idx
 
-            bat_idx = index_box(box.get("our_batting", []))
-            pitch_idx = index_box(box.get("our_pitching", []))
+            # Determine which batting/pitching table belongs to our school.
+            # The default assignment (tables[1]=ours) works for SIDEARM v3+ and for
+            # new-format home games. Old SIDEARM (.aspx) pages may put our team in
+            # tables[0] and don't reliably indicate home/away in the page title.
+            # Compare name-match counts against school_players to pick the right one.
+            school_lns = {normalize_name(p["ln"]) for p in school_players}
+
+            def count_school_matches(rows):
+                return sum(
+                    1 for r in rows
+                    if normalize_name(parse_boxscore_name(r["name"])[1]) in school_lns
+                )
+
+            our_bat_rows  = box.get("our_batting", [])
+            alt_bat_rows  = box.get("alt_batting", [])
+            our_pit_rows  = box.get("our_pitching", [])
+            alt_pit_rows  = box.get("alt_pitching", [])
+
+            if count_school_matches(alt_bat_rows) > count_school_matches(our_bat_rows):
+                our_bat_rows = alt_bat_rows
+            if count_school_matches(alt_pit_rows) > count_school_matches(our_pit_rows):
+                our_pit_rows = alt_pit_rows
+
+            bat_idx   = index_box(our_bat_rows)
+            pitch_idx = index_box(our_pit_rows)
 
             game_player_keys = set(bat_idx.keys()) | set(pitch_idx.keys())
             new_found = 0

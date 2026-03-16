@@ -2,17 +2,726 @@
   "school": "Stonehill College",
   "base_url": "https://www.stonehillskyhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:57:44.255564Z",
+  "generated_at": "2026-03-16T18:02:58.658907Z",
   "record": "3-12",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "UMES",
-    "result": "",
+    "result": "W 9-6",
     "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://www.stonehillskyhawks.com/news/2026/3/15/leclair-homers-twice-baseball-drops-series-finale-at-umes.aspx",
+    "recap_headline": "Stonehill College",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "045ab373": {
+      "id": "045ab373",
+      "name": "Jack Welsch",
+      "fn": "Jack",
+      "ln": "Welsch",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "1.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UMES",
+        "result": "L 0-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10177&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "335042ad": {
+      "id": "335042ad",
+      "name": "Will Newton",
+      "fn": "Will",
+      "ln": "Newton",
+      "pos": "UTIL",
+      "yr": "So.",
+      "num": "4.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 2 RBI against UMES. Had an outstanding performance at the plate (0.500)."
+    },
+    "caf5cd58": {
+      "id": "caf5cd58",
+      "name": "Sam Parks",
+      "fn": "Sam",
+      "ln": "Parks",
+      "pos": "OF",
+      "yr": "Gr.",
+      "num": "5.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against UMES. Contributed at the plate in the team's W 9-6."
+    },
+    "15664f95": {
+      "id": "15664f95",
+      "name": "Ryan Douglas",
+      "fn": "Ryan",
+      "ln": "Douglas",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "6.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UMES",
+        "result": "L 0-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10177&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "8.0",
+          "h": 5,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 8.0 innings. Struck out 2 while allowing just 5 hit(s) and 0 earned run(s) in a quality start."
+    },
+    "3b6d3346": {
+      "id": "3b6d3346",
+      "name": "Sean McGee",
+      "fn": "Sean",
+      "ln": "McGee",
+      "pos": "INF",
+      "yr": "Sr.",
+      "num": "7.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against UMES. Contributed at the plate in the team's W 9-6."
+    },
+    "7bce89fc": {
+      "id": "7bce89fc",
+      "name": "Cam Morrison",
+      "fn": "Cam",
+      "ln": "Morrison",
+      "pos": "C",
+      "yr": "Jr.",
+      "num": "10.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UMES",
+        "result": "L 0-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10177&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against UMES. Struggled to make contact."
+    },
+    "aa72d8f6": {
+      "id": "aa72d8f6",
+      "name": "Nick Lundquist",
+      "fn": "Nick",
+      "ln": "Lundquist",
+      "pos": "C",
+      "yr": "Jr.",
+      "num": "15.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against UMES. Struggled to make contact."
+    },
+    "f0771f3a": {
+      "id": "f0771f3a",
+      "name": "Eisig Chin",
+      "fn": "Eisig",
+      "ln": "Chin",
+      "pos": "OF",
+      "yr": "Jr.",
+      "num": "18.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against UMES. Struggled to make contact."
+    },
+    "bd00296a": {
+      "id": "bd00296a",
+      "name": "Hunter Bell",
+      "fn": "Hunter",
+      "ln": "Bell",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "20.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UMES",
+        "result": "L 17-20",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10176&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.1",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 3,
+          "so": 3,
+          "wp": 2,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 3.1 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
+    },
+    "1d7824ae": {
+      "id": "1d7824ae",
+      "name": "Luke Dellentash",
+      "fn": "Luke",
+      "ln": "Dellentash",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "22.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UMES",
+        "result": "L 17-20",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10176&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "e52b5138": {
+      "id": "e52b5138",
+      "name": "Jake Lanzer",
+      "fn": "Jake",
+      "ln": "Lanzer",
+      "pos": "LHP",
+      "yr": "Sr.",
+      "num": "24.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 4,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "9bba1601": {
+      "id": "9bba1601",
+      "name": "Jamison Howland",
+      "fn": "Jamison",
+      "ln": "Howland",
+      "pos": "OF",
+      "yr": "Jr.",
+      "num": "25.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UMES",
+        "result": "L 0-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10177&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against UMES. Struggled to make contact."
+    },
+    "a898fd5a": {
+      "id": "a898fd5a",
+      "name": "Alex Cook",
+      "fn": "Alex",
+      "ln": "Cook",
+      "pos": "LHP",
+      "yr": "So.",
+      "num": "26.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "412177ac": {
+      "id": "412177ac",
+      "name": "Kacin Robinson",
+      "fn": "Kacin",
+      "ln": "Robinson",
+      "pos": "OF",
+      "yr": "Fr.",
+      "num": "27.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UMES",
+        "result": "L 17-20",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10176&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 2,
+          "h": 0,
+          "rbi": 0,
+          "bb": 3,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against UMES. Struggled at the plate but saw 3 walk(s)."
+    },
+    "b96f5844": {
+      "id": "b96f5844",
+      "name": "Zach Brockner",
+      "fn": "Zach",
+      "ln": "Brockner",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "28.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 1.1 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
+    },
+    "30749b1b": {
+      "id": "30749b1b",
+      "name": "Jimmy Gilleran",
+      "fn": "Jimmy",
+      "ln": "Gilleran",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "29.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UMES",
+        "result": "L 17-20",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10176&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 8,
+          "r": 10,
+          "er": 9,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 1.2 innings. Allowed 9 earned run(s) with 1 strikeout(s)."
+    },
+    "bb3bfb53": {
+      "id": "bb3bfb53",
+      "name": "Josh Florence",
+      "fn": "Josh",
+      "ln": "Florence",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "32.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 2.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "6ab3ea58": {
+      "id": "6ab3ea58",
+      "name": "John Bureau",
+      "fn": "John",
+      "ln": "Bureau",
+      "pos": "INF",
+      "yr": "Jr.",
+      "num": "33.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against UMES. Contributed at the plate in the team's W 9-6."
+    },
+    "efd495f2": {
+      "id": "efd495f2",
+      "name": "Will Christopher",
+      "fn": "Will",
+      "ln": "Christopher",
+      "pos": "INF",
+      "yr": "Jr.",
+      "num": "34.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 0 RBI against UMES. Had an outstanding performance at the plate (1.000)."
+    },
+    "54c42a37": {
+      "id": "54c42a37",
+      "name": "Sean Connolly",
+      "fn": "Sean",
+      "ln": "Connolly",
+      "pos": "RHP/OF",
+      "yr": "Fr.",
+      "num": "35.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UMES",
+        "result": "W 9-6",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10178&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 4,
+          "r": 5,
+          "er": 4,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 1.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
+    },
+    "d6dc3ba0": {
+      "id": "d6dc3ba0",
+      "name": "Noah Basgaard",
+      "fn": "Noah",
+      "ln": "Basgaard",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "42.0",
+      "school": "Stonehill College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UMES",
+        "result": "L 17-20",
+        "boxscore_url": "https://www.stonehillskyhawks.com/boxscore.aspx?id=10176&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UMES, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }
