@@ -2,17 +2,48 @@
   "school": "Fordham University",
   "base_url": "https://www.fordhamsports.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:51:10.241792Z",
-  "record": "7-10",
+  "generated_at": "2026-03-16T12:11:58.164483Z",
+  "record": "8-10",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Davidson",
-    "result": "L 4-6",
-    "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20714&path=baseball",
-    "recap_url": "https://www.fordhamsports.com/news/2026/3/14/hanawalts-career-day-leads-baseball-past-davidson.aspx",
-    "recap_headline": "Hanawalt\u2019s Career Day Leads Baseball Past Davidson",
+    "result": "L 3-26",
+    "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20715&path=baseball",
+    "recap_url": "https://www.fordhamsports.com/news/2026/3/15/baseballs-big-innings-lead-to-26-3-win-over-davidson.aspx",
+    "recap_headline": "Baseball\u2019s Big Innings Lead to 26-3 Win Over Davidson",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "e54073b3": {
+      "id": "e54073b3",
+      "name": "Koen Smith",
+      "fn": "Koen",
+      "ln": "Smith",
+      "pos": "P",
+      "yr": "",
+      "num": "18.0",
+      "school": "Fordham University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Davidson",
+        "result": "L 3-26",
+        "boxscore_url": "https://www.fordhamsports.com/boxscore.aspx?id=20715&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.1",
+          "h": 3,
+          "r": 5,
+          "er": 4,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Davidson, throwing 0.1 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

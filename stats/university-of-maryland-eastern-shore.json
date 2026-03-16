@@ -2,13 +2,13 @@
   "school": "University of Maryland Eastern Shore",
   "base_url": "https://umeshawksports.com",
   "season": "2026",
-  "generated_at": "2026-03-15T13:00:37.817524Z",
-  "record": "1-14",
+  "generated_at": "2026-03-16T13:23:01.331157Z",
+  "record": "2-14",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Stonehill",
     "result": "",
-    "boxscore_url": "https://umeshawksports.com/boxscore.aspx?id=15773&path=baseball",
+    "boxscore_url": "https://umeshawksports.com/boxscore.aspx?id=15774&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

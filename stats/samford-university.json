@@ -2,13 +2,13 @@
   "school": "Samford University",
   "base_url": "https://samfordsports.com",
   "season": "2026",
-  "generated_at": "2026-03-15T12:29:42.643414Z",
-  "record": "7-10",
+  "generated_at": "2026-03-16T12:50:53.293004Z",
+  "record": "7-11",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Little Rock",
     "result": "",
-    "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=baseball",
+    "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

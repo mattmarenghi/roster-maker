@@ -2,13 +2,13 @@
   "school": "George Mason University",
   "base_url": "https://gomason.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:51:22.049288Z",
-  "record": "8-8",
+  "generated_at": "2026-03-16T12:12:12.142143Z",
+  "record": "9-8",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "St. Bonaventure",
-    "result": "W 15-11",
-    "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
+    "result": "W 3-0",
+    "boxscore_url": "https://gomason.com/boxscore.aspx?id=13941&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
@@ -29,7 +29,7 @@
         "date": "2026-03-14",
         "opponent": "St. Bonaventure",
         "result": "W 15-11",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=",
         "batting": null,
         "pitching": {
           "ip": "2.2",
@@ -43,6 +43,36 @@
         }
       },
       "narrative": "Took the mound against St. Bonaventure, throwing 2.2 innings. Allowed 0 earned run(s) with 5 strikeout(s)."
+    },
+    "e9f81973": {
+      "id": "e9f81973",
+      "name": "Jake Drumm",
+      "fn": "Jake",
+      "ln": "Drumm",
+      "pos": "",
+      "yr": "",
+      "num": "",
+      "school": "George Mason University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "St. Bonaventure",
+        "result": "W 3-0",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13941&path=",
+        "batting": null,
+        "pitching": {
+          "ip": "7.0",
+          "h": 4,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 6,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against St. Bonaventure, throwing 7.0 innings. Struck out 6 while allowing just 4 hit(s) and 0 earned run(s) in a quality start."
     },
     "ec6233a7": {
       "id": "ec6233a7",
@@ -59,7 +89,7 @@
         "date": "2026-03-13",
         "opponent": "St. Bonaventure",
         "result": "W 4-3",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=baseball",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=",
         "batting": null,
         "pitching": {
           "ip": "1.1",
@@ -89,7 +119,7 @@
         "date": "2026-03-14",
         "opponent": "St. Bonaventure",
         "result": "W 15-11",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=",
         "batting": null,
         "pitching": {
           "ip": "1.2",
@@ -119,7 +149,7 @@
         "date": "2026-03-14",
         "opponent": "St. Bonaventure",
         "result": "W 15-11",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=",
         "batting": null,
         "pitching": {
           "ip": "3.0",
@@ -149,7 +179,7 @@
         "date": "2026-03-13",
         "opponent": "St. Bonaventure",
         "result": "W 4-3",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=baseball",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=",
         "batting": null,
         "pitching": {
           "ip": "6.0",
@@ -176,23 +206,23 @@
       "season_batting": null,
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-15",
         "opponent": "St. Bonaventure",
-        "result": "W 4-3",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13939&path=baseball",
+        "result": "W 3-0",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13941&path=",
         "batting": null,
         "pitching": {
-          "ip": "1.2",
-          "h": 0,
+          "ip": "2.0",
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 4,
+          "bb": 0,
+          "so": 3,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against St. Bonaventure, throwing 1.2 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+      "narrative": "Took the mound against St. Bonaventure, throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
     },
     "3b826c0a": {
       "id": "3b826c0a",
@@ -209,7 +239,7 @@
         "date": "2026-03-14",
         "opponent": "St. Bonaventure",
         "result": "W 15-11",
-        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=baseball",
+        "boxscore_url": "https://gomason.com/boxscore.aspx?id=13940&path=",
         "batting": null,
         "pitching": {
           "ip": "1.2",

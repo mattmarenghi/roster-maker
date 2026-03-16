@@ -2,13 +2,13 @@
   "school": "East Tennessee State University",
   "base_url": "https://www.etsubucs.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:46:02.959913Z",
-  "record": "13-5",
+  "generated_at": "2026-03-16T12:06:41.956958Z",
+  "record": "14-5",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Bradley",
     "result": "",
-    "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+    "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

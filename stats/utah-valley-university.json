@@ -2,13 +2,13 @@
   "school": "Utah Valley University",
   "base_url": "https://www.gouvu.com",
   "season": "2026",
-  "generated_at": "2026-03-15T13:24:52.121304Z",
+  "generated_at": "2026-03-16T13:48:02.130712Z",
   "record": "10-7",
   "most_recent_game": {
     "date": "2026-03-11",
     "opponent": "Colorado Mesa",
     "result": "",
-    "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=baseball",
+    "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10030&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

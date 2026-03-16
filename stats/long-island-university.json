@@ -2,13 +2,13 @@
   "school": "Long Island University",
   "base_url": "https://www.liuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-15T12:04:35.325410Z",
-  "record": "4-8",
+  "generated_at": "2026-03-16T12:25:21.516217Z",
+  "record": "4-10",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Wagner",
     "result": "",
-    "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5866&path=baseball",
+    "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5865&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

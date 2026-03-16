@@ -2,13 +2,13 @@
   "school": "Hofstra University",
   "base_url": "https://www.gohofstra.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:54:28.909751Z",
-  "record": "3-9",
+  "generated_at": "2026-03-16T12:15:12.658257Z",
+  "record": "3-10",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Monmouth University",
     "result": "",
-    "boxscore_url": "https://www.gohofstra.com/boxscore.aspx?id=14100&path=baseball",
+    "boxscore_url": "https://www.gohofstra.com/boxscore.aspx?id=14101&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

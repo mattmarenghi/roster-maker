@@ -2,7 +2,7 @@
   "school": "Mississippi State University",
   "base_url": "https://www.hailstate.com",
   "season": "2026",
-  "generated_at": "2026-03-15T12:11:58.776590Z",
+  "generated_at": "2026-03-16T12:32:40.695160Z",
   "record": "33-42",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -1685,23 +1685,23 @@
         "opp_avg": ".263"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Tulane",
-        "result": "W",
-        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/tulane/boxscore/27472",
+        "date": "2026-03-14",
+        "opponent": "Arkansas",
+        "result": "L",
+        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/arkansas/boxscore/27392",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 3,
-          "r": 3,
-          "er": 3,
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
           "so": 0,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Tulane, throwing 0.2 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+      "narrative": "Took the mound against Arkansas, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
     },
     "dc53d39c": {
       "id": "dc53d39c",

@@ -2,13 +2,13 @@
   "school": "Eastern Kentucky University",
   "base_url": "https://www.ekusports.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:46:44.630417Z",
-  "record": "6-13",
+  "generated_at": "2026-03-16T12:07:24.532280Z",
+  "record": "7-13",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Central Arkansas",
     "result": "",
-    "boxscore_url": "https://www.ekusports.com/boxscore.aspx?id=9580&path=baseball",
+    "boxscore_url": "https://www.ekusports.com/boxscore.aspx?id=9581&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

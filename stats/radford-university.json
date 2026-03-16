@@ -2,13 +2,13 @@
   "school": "Radford University",
   "base_url": "https://www.radfordathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-15T12:24:31.187526Z",
-  "record": "8-8",
+  "generated_at": "2026-03-16T12:45:26.546544Z",
+  "record": "8-9",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Winthrop",
     "result": "",
-    "boxscore_url": "https://www.radfordathletics.com/boxscore.aspx?id=14562&path=",
+    "boxscore_url": "https://www.radfordathletics.com/boxscore.aspx?id=14563&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

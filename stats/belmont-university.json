@@ -2,13 +2,13 @@
   "school": "Belmont University",
   "base_url": "https://www.belmontbruins.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:28:05.625000Z",
-  "record": "8-11",
+  "generated_at": "2026-03-16T11:48:24.728324Z",
+  "record": "8-12",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "UAB",
     "result": "",
-    "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7015&path=baseball",
+    "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7016&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

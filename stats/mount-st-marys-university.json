@@ -2,13 +2,13 @@
   "school": "Mount St. Mary's University",
   "base_url": "https://www.mountathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-15T12:13:41.096495Z",
-  "record": "8-8",
+  "generated_at": "2026-03-16T12:34:27.959975Z",
+  "record": "9-8",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Canisius",
     "result": "",
-    "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=baseball",
+    "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

@@ -2,13 +2,13 @@
   "school": "Tarleton State University",
   "base_url": "https://tarletonsports.com",
   "season": "2026",
-  "generated_at": "2026-03-15T12:37:03.150494Z",
-  "record": "12-6",
+  "generated_at": "2026-03-16T12:58:21.589789Z",
+  "record": "12-7",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Houston Christian",
     "result": "",
-    "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7380&path=baseball",
+    "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

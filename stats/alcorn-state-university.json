@@ -2,13 +2,13 @@
   "school": "Alcorn State University",
   "base_url": "https://www.alcornsports.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:25:03.532290Z",
-  "record": "3-15",
+  "generated_at": "2026-03-16T11:45:20.849074Z",
+  "record": "3-16",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "Alabama A&M",
     "result": "",
-    "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=",
+    "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

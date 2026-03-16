@@ -2,13 +2,13 @@
   "school": "Coastal Carolina University",
   "base_url": "https://www.goccusports.com",
   "season": "2026",
-  "generated_at": "2026-03-15T11:38:48.309926Z",
-  "record": "12-6",
+  "generated_at": "2026-03-16T11:59:19.801339Z",
+  "record": "13-6",
   "most_recent_game": {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "opponent": "App State",
     "result": "",
-    "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23975&path=baseball",
+    "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=baseball",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
