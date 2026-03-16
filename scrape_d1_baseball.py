@@ -1010,7 +1010,7 @@ def main():
         # Order columns nicely
         col_order = ['first_name', 'last_name', 'number', 'position', 'bats_throws',
                      'class_year', 'height', 'weight', 'team', 'school', 'conference',
-                     'state', 'hometown', 'high_school']
+                     'state', 'hometown', 'high_school', 'profile_url', 'photo_url']
         for c in col_order:
             if c not in df.columns:
                 df[c] = ''
