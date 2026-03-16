@@ -132,13 +132,79 @@ def parse_sidearm_roster(soup, team_name, conference, school_name, state):
             col_map['number'] = 0
         col_map['full_name'] = 1
 
+    fn_idx = col_map.get('full_name', 1)  # header index where name lives
+
     players = []
     for row in rows[1:]:
-        cells = row.find_all('td')
-        if len(cells) < 2:
+        cells_td = row.find_all('td')
+
+        # ------------------------------------------------------------------
+        # Handle the <th scope="row"> pattern used by some schools (e.g. UCF,
+        # BYU).  In these tables the header row has all <th> elements with the
+        # normal column order, but each data row places the player name in a
+        # <th scope="row"> and the remaining data in <td> cells.  The <td>
+        # cells therefore correspond to header columns 0, 2, 3, 4 … (skipping
+        # the name column).  We detect this pattern and adjust accordingly.
+        # ------------------------------------------------------------------
+        row_th = row.find('th', attrs={'scope': 'row'})
+        if row_th is not None and len(cells_td) >= 2:
+            full_name = row_th.get_text(strip=True)
+            profile_link = row_th.find('a', href=True)
+
+            cell_texts = [c.get_text(strip=True) for c in cells_td]
+
+            def get_field_th(key, default=''):
+                idx = col_map.get(key)
+                if idx is None:
+                    return default
+                if idx == fn_idx:
+                    return default  # name came from <th>
+                # td cells skip the name column, so shift indices above fn_idx down by 1
+                td_idx = idx if idx < fn_idx else idx - 1
+                return cell_texts[td_idx] if td_idx < len(cell_texts) else default
+
+            if not full_name:
+                continue
+            first_name, last_name = parse_name(full_name)
+
+            position_raw = get_field_th('position', '')
+            bats_throws = get_field_th('bats_throws', '')
+
+            # Some schools (e.g. BYU) embed B/T inside the position cell as
+            # "Outfielder (L/L)" — extract and strip it if bats_throws is empty.
+            if not bats_throws and position_raw:
+                bt_match = re.search(r'\(([LRSS]/[LRSS])\)', position_raw, re.IGNORECASE)
+                if bt_match:
+                    bats_throws = bt_match.group(1).upper()
+                    position_raw = re.sub(r'\s*\([LRSS]/[LRSS]\)', '', position_raw, flags=re.IGNORECASE).strip()
+
+            record = {
+                'first_name': first_name,
+                'last_name': last_name,
+                'team': team_name,
+                'school': school_name,
+                'conference': conference,
+                'state': state,
+                'number': get_field_th('number'),
+                'position': position_raw,
+                'bats_throws': bats_throws,
+                'height': get_field_th('height'),
+                'weight': get_field_th('weight'),
+                'class_year': get_field_th('class_year'),
+                'hometown': get_field_th('hometown'),
+                'high_school': get_field_th('high_school'),
+                'profile_url': profile_link['href'] if profile_link else '',
+            }
+            players.append(record)
             continue
 
-        cell_texts = [cell.get_text(strip=True) for cell in cells]
+        # ------------------------------------------------------------------
+        # Normal path: name is in a <td>
+        # ------------------------------------------------------------------
+        if len(cells_td) < 2:
+            continue
+
+        cell_texts = [cell.get_text(strip=True) for cell in cells_td]
 
         # Skip empty rows or header-like rows
         if all(not t for t in cell_texts):
@@ -153,6 +219,19 @@ def parse_sidearm_roster(soup, team_name, conference, school_name, state):
         full_name = get_field('full_name', '')
         if not full_name:
             continue
+
+        # Guard: if 'full_name' cell looks like a position/stat rather than a
+        # real name (e.g. "Infield", "6-2"), skip this row — it means column
+        # detection failed and we'd produce garbage records.
+        POS_WORDS = ('infield', 'outfield', 'pitcher', 'catcher', 'shortstop',
+                     'first base', 'second base', 'third base', 'utility',
+                     'right-handed', 'left-handed', 'rhp', 'lhp')
+        if any(pw in full_name.lower() for pw in POS_WORDS):
+            return []  # bail out — this parse attempt is garbage
+
+        # Guard: height-like value in the name column is also a bad sign
+        if re.match(r'^\d[\'-]\d', full_name):
+            return []
 
         first_name, last_name = parse_name(full_name)
 
@@ -171,6 +250,7 @@ def parse_sidearm_roster(soup, team_name, conference, school_name, state):
             'class_year': get_field('class_year'),
             'hometown': get_field('hometown'),
             'high_school': get_field('high_school'),
+            'profile_url': '',
         }
         players.append(record)
 
@@ -441,6 +521,151 @@ def parse_wmt_digital_roster(soup, team_name, conference, school_name, state):
     return []
 
 
+def parse_roster_list_items_rich(soup, team_name, conference, school_name, state):
+    """
+    Parse SIDEARM NextGen (Nuxt 3) roster pages that render players as
+    <li class="roster-list-item"> cards rather than an HTML table.
+
+    Two layout variants handled:
+      A) Stanford / VTech / UNM style — profile fields carry BEM modifier classes:
+           roster-player-list-profile-field--position
+           roster-player-list-profile-field--class-level
+           roster-player-list-profile-field--height / --weight / --hometown / --high-school
+         Name in .roster-list-item__title or .roster-list-item__title-link.
+         Jersey in .roster-list-item__jersey-number or .roster-list-item__number.
+      B) UTSA style — profile fields use generic class
+           roster-players-list-item__profile-field
+         classified by content pattern (height "5-9", weight digits, etc.).
+         Position in <strong> inside .roster-players-list-item__position.
+    """
+    items = soup.find_all('li', class_='roster-list-item')
+    if not items:
+        return []
+
+    HEIGHT_RE = re.compile(r"^\d+[''\-]\d+")
+    WEIGHT_RE = re.compile(r'^\d{2,3}$')
+    BT_RE = re.compile(r'^[LRS]/[LRS]$', re.IGNORECASE)
+    CLASS_WORDS = {'fr.', 'so.', 'jr.', 'sr.', 'gr.', 'freshman', 'sophomore',
+                   'junior', 'senior', 'graduate', 'fr', 'so', 'jr', 'sr', 'gr'}
+
+    def field_text(tag):
+        if tag is None:
+            return ''
+        # Collect text, skipping any child elements whose class contains 'label'
+        # (e.g. <span class="roster-player-list-profile-field-label">Height</span>)
+        parts = []
+        for child in tag.children:
+            # Skip label spans
+            if hasattr(child, 'get') and child.get('class'):
+                if any('label' in c for c in child.get('class', [])):
+                    continue
+            text = child.get_text(strip=True) if hasattr(child, 'get_text') else str(child).strip()
+            if text:
+                parts.append(text)
+        return ' '.join(parts).strip()
+
+    players = []
+    for item in items:
+        # --- Name ---
+        name_tag = (item.find(class_='roster-list-item__title-link') or
+                    item.find(class_='roster-list-item__title') or
+                    item.find(class_='roster-list-item__name'))
+        full_name = field_text(name_tag) if name_tag else ''
+        if not full_name:
+            continue
+        first_name, last_name = parse_name(full_name)
+
+        # --- Profile URL + photo ---
+        img_wrapper = item.find(class_='roster-list-item__image-wrapper')
+        profile_url = ''
+        photo_url = ''
+        if img_wrapper:
+            a = img_wrapper.find('a', href=True)
+            if a:
+                profile_url = a['href']
+            img = img_wrapper.find('img')
+            if img:
+                photo_url = img.get('data-src') or img.get('src') or ''
+
+        # Fallback: link on the name itself
+        if not profile_url and name_tag:
+            a_tag = name_tag if name_tag.name == 'a' else name_tag.find('a', href=True)
+            if a_tag:
+                profile_url = a_tag.get('href', '')
+
+        # --- Jersey number ---
+        jersey_tag = (item.find(class_='roster-list-item__jersey-number') or
+                      item.find(class_='roster-list-item__number') or
+                      item.find(class_=lambda c: c and 'jersey' in c))
+        jersey = field_text(jersey_tag)
+
+        # --- Variant A: BEM modifier classes (--position, --class-level, etc.) ---
+        def bem_field(suffix):
+            tag = item.find(class_=lambda c: c and f'profile-field--{suffix}' in c)
+            return field_text(tag)
+
+        position   = bem_field('position')
+        class_year = bem_field('class-level') or bem_field('academic-year') or bem_field('class')
+        height     = bem_field('height')
+        weight     = bem_field('weight')
+        bats_throws = bem_field('bats-throws') or bem_field('bat-throw') or bem_field('bats')
+        hometown   = bem_field('hometown')
+        high_school = bem_field('high-school') or bem_field('previous-school')
+
+        # --- Variant B: UTSA-style explicit position tag ---
+        if not position:
+            pos_tag = item.find(class_=lambda c: c and 'position' in c and 'profile-field' not in c)
+            if pos_tag:
+                strong = pos_tag.find('strong')
+                position = field_text(strong or pos_tag)
+
+        # --- Variant B: classify unlabeled generic profile-field spans by content ---
+        if not height or not weight or not class_year:
+            generic_tags = item.find_all(class_=lambda c: c and 'profile-field' in c and '--' not in c)
+            for gtag in generic_tags:
+                val = field_text(gtag)
+                if not val:
+                    continue
+                if not height and HEIGHT_RE.match(val):
+                    height = val
+                elif not weight and WEIGHT_RE.match(val):
+                    weight = val
+                elif not bats_throws and BT_RE.match(val):
+                    bats_throws = val
+                elif not class_year and val.lower() in CLASS_WORDS:
+                    class_year = val
+                elif not position:
+                    position = val
+
+        # Some schools embed B/T in position string "Outfielder (L/L)"
+        if not bats_throws and position:
+            bt_match = re.search(r'\(([LRS]/[LRS])\)', position, re.IGNORECASE)
+            if bt_match:
+                bats_throws = bt_match.group(1).upper()
+                position = re.sub(r'\s*\([LRS]/[LRS]\)', '', position, flags=re.IGNORECASE).strip()
+
+        players.append({
+            'first_name': first_name,
+            'last_name': last_name,
+            'team': team_name,
+            'school': school_name,
+            'conference': conference,
+            'state': state,
+            'number': jersey,
+            'position': position,
+            'bats_throws': bats_throws,
+            'height': height,
+            'weight': weight,
+            'class_year': class_year,
+            'hometown': hometown,
+            'high_school': high_school,
+            'profile_url': profile_url,
+            'photo_url': photo_url,
+        })
+
+    return players
+
+
 def parse_script_json_roster(soup, team_name, conference, school_name, state):
     """
     Extract roster data from JSON embedded in <script> tags.
@@ -537,11 +762,18 @@ def scrape_team_roster(base_url, team_name, conference, school_name, state):
         except Exception as e:
             return None, f"Redirect loop (cloudscraper failed: {e})"
     except requests.exceptions.SSLError:
+        # First try: bypass SSL verification (handles cert-not-yet-valid errors)
         try:
-            http_url = url.replace('https://', 'http://')
-            r = requests.get(http_url, headers=HEADERS, timeout=20, allow_redirects=True)
-        except Exception as e:
-            return None, f"SSL+HTTP error: {e}"
+            import urllib3
+            urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+            r = requests.get(url, headers=HEADERS, timeout=20, allow_redirects=True, verify=False)
+        except Exception:
+            # Second try: fall back to plain HTTP
+            try:
+                http_url = url.replace('https://', 'http://')
+                r = requests.get(http_url, headers=HEADERS, timeout=20, allow_redirects=True)
+            except Exception as e:
+                return None, f"SSL+HTTP error: {e}"
     except requests.exceptions.ConnectionError as e:
         return None, f"Connection error: {e}"
     except requests.exceptions.Timeout:
@@ -582,8 +814,17 @@ def scrape_team_roster(base_url, team_name, conference, school_name, state):
 
     soup = BeautifulSoup(r.text, 'html.parser')
 
-    # Try HTML table parser, then JSON-in-script, WMT Digital, then Sidearm next-gen API
-    players = parse_sidearm_roster(soup, team_name, conference, school_name, state)
+    # Parser chain — order matters:
+    # 1. NUXT3 card layout (<li class="roster-list-item">) — must run before table parser
+    #    because some NUXT pages also contain a small/empty table that triggers false positives.
+    # 2. SIDEARM HTML table (modern + <th scope="row"> variant)
+    # 3. Legacy SIDEARM table (<th class="name">)
+    # 4. Inline JS with displayName fields
+    # 5. WMT Digital NUXT flat-array format
+    # 6. Sidearm next-gen JSON API (network call, last resort)
+    players = parse_roster_list_items_rich(soup, team_name, conference, school_name, state)
+    if not players:
+        players = parse_sidearm_roster(soup, team_name, conference, school_name, state)
     if not players:
         players = parse_old_sidearm_table(soup, team_name, conference, school_name, state)
     if not players:
