@@ -2,17 +2,691 @@
   "school": "Utah Tech University",
   "base_url": "https://utahtechtrailblazers.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:47:40.576018Z",
+  "generated_at": "2026-03-16T18:15:04.284865Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Santa Clara",
-    "result": "",
+    "result": "W 5-4",
     "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://utahtechtrailblazers.com/news/2026/3/15/baseball-trailblazers-walked-off-at-santa-clara-in-10-innings-on-sunday.aspx",
+    "recap_headline": "Utah Tech University Athletics",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "d7d7dafd": {
+      "id": "d7d7dafd",
+      "name": "Mays Madsen",
+      "fn": "Mays",
+      "ln": "Madsen",
+      "pos": "Outfielder",
+      "yr": "",
+      "num": "1.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Santa Clara. Struggled at the plate but saw 1 walk(s)."
+    },
+    "4fec9d72": {
+      "id": "4fec9d72",
+      "name": "Petey Soto Jr.",
+      "fn": "Petey",
+      "ln": "Soto Jr.",
+      "pos": "Shortstop",
+      "yr": "",
+      "num": "4.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Santa Clara. Struggled at the plate but saw 1 walk(s)."
+    },
+    "9f4614b2": {
+      "id": "9f4614b2",
+      "name": "McGwire Madsen",
+      "fn": "McGwire",
+      "ln": "Madsen",
+      "pos": "Infielder",
+      "yr": "",
+      "num": "6.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Santa Clara. Struggled at the plate but saw 1 walk(s)."
+    },
+    "a9ccf736": {
+      "id": "a9ccf736",
+      "name": "Tyler Ray",
+      "fn": "Tyler",
+      "ln": "Ray",
+      "pos": "Right Handed Pitcher",
+      "yr": "",
+      "num": "7.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "db68e33a": {
+      "id": "db68e33a",
+      "name": "Kace Naone",
+      "fn": "Kace",
+      "ln": "Naone",
+      "pos": "Third Base",
+      "yr": "",
+      "num": "8.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Santa Clara",
+        "result": "W 4-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Santa Clara. Struggled to make contact."
+    },
+    "86224672": {
+      "id": "86224672",
+      "name": "Talan Kelly",
+      "fn": "Talan",
+      "ln": "Kelly",
+      "pos": "Right Handed Pitcher",
+      "yr": "",
+      "num": "11.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Santa Clara",
+        "result": "W 4-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 1.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "70b6f584": {
+      "id": "70b6f584",
+      "name": "Brock Roundy",
+      "fn": "Brock",
+      "ln": "Roundy",
+      "pos": "Left Handed Pitcher",
+      "yr": "",
+      "num": "13.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Santa Clara",
+        "result": "W 8-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11410&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "4.0",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 4.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
+    },
+    "296c5f9d": {
+      "id": "296c5f9d",
+      "name": "Hudson Manwaring",
+      "fn": "Hudson",
+      "ln": "Manwaring",
+      "pos": "Outfielder",
+      "yr": "",
+      "num": "15.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Santa Clara",
+        "result": "W 8-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11410&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Santa Clara. Struggled at the plate but saw 1 walk(s)."
+    },
+    "db12ca92": {
+      "id": "db12ca92",
+      "name": "Cooper Smith",
+      "fn": "Cooper",
+      "ln": "Smith",
+      "pos": "Catcher",
+      "yr": "",
+      "num": "16.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Santa Clara",
+        "result": "W 8-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11410&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Santa Clara. Struggled to make contact."
+    },
+    "344e3841": {
+      "id": "344e3841",
+      "name": "Gavin Long",
+      "fn": "Gavin",
+      "ln": "Long",
+      "pos": "Outfielder",
+      "yr": "",
+      "num": "17.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/2 with 0 RBI against Santa Clara. Had an outstanding performance at the plate (0.500)."
+    },
+    "bdcc3665": {
+      "id": "bdcc3665",
+      "name": "Andrew Pyle",
+      "fn": "Andrew",
+      "ln": "Pyle",
+      "pos": "Catcher",
+      "yr": "",
+      "num": "18.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Santa Clara",
+        "result": "W 4-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Santa Clara. Contributed at the plate in the team's W 4-1."
+    },
+    "7b445a9b": {
+      "id": "7b445a9b",
+      "name": "Ty Johnsen",
+      "fn": "Ty",
+      "ln": "Johnsen",
+      "pos": "Catcher",
+      "yr": "",
+      "num": "21.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against Santa Clara. Struggled to make contact."
+    },
+    "a30fdbb9": {
+      "id": "a30fdbb9",
+      "name": "Ryan Kroepel",
+      "fn": "Ryan",
+      "ln": "Kroepel",
+      "pos": "Third Base/Right Handed Pitcher",
+      "yr": "",
+      "num": "22.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.2",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 2.2 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+    },
+    "d4c1a247": {
+      "id": "d4c1a247",
+      "name": "Gavin Glasgow",
+      "fn": "Gavin",
+      "ln": "Glasgow",
+      "pos": "Third Base",
+      "yr": "",
+      "num": "24.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Santa Clara",
+        "result": "W 8-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11410&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Santa Clara. Struggled to make contact."
+    },
+    "3e021de4": {
+      "id": "3e021de4",
+      "name": "Ryan Martinez",
+      "fn": "Ryan",
+      "ln": "Martinez",
+      "pos": "Right Handed Pitcher",
+      "yr": "",
+      "num": "30.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Santa Clara",
+        "result": "W 8-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11410&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "d80d1bc5": {
+      "id": "d80d1bc5",
+      "name": "Brandon Kosel",
+      "fn": "Brandon",
+      "ln": "Kosel",
+      "pos": "Right Handed Pitcher",
+      "yr": "",
+      "num": "33.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 5,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 5.2 innings. Struck out 5 while allowing just 1 hit(s) and 2 earned run(s) in a quality start."
+    },
+    "d8930e6e": {
+      "id": "d8930e6e",
+      "name": "Dakoda West",
+      "fn": "Dakoda",
+      "ln": "West",
+      "pos": "Right Handed Pitcher",
+      "yr": "",
+      "num": "35.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Santa Clara",
+        "result": "W 4-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.2",
+          "h": 6,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 5.2 innings. Struck out 3 while allowing just 6 hit(s) and 2 earned run(s) in a quality start."
+    },
+    "b5b2c638": {
+      "id": "b5b2c638",
+      "name": "Bryan Martinez",
+      "fn": "Bryan",
+      "ln": "Martinez",
+      "pos": "Outfielder",
+      "yr": "",
+      "num": "36.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Santa Clara",
+        "result": "W 8-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11410&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "94628830": {
+      "id": "94628830",
+      "name": "David Sheppard",
+      "fn": "David",
+      "ln": "Sheppard",
+      "pos": "Left Handed Pitcher",
+      "yr": "",
+      "num": "38.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "4c6e5778": {
+      "id": "4c6e5778",
+      "name": "Finnegan Stewart",
+      "fn": "Finnegan",
+      "ln": "Stewart",
+      "pos": "Outfielder",
+      "yr": "",
+      "num": "40.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Santa Clara",
+        "result": "W 5-4",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against Santa Clara. Struggled to make contact."
+    },
+    "b0d49c2e": {
+      "id": "b0d49c2e",
+      "name": "Jackson Price",
+      "fn": "Jackson",
+      "ln": "Price",
+      "pos": "Right Handed Pitcher",
+      "yr": "",
+      "num": "45.0",
+      "school": "Utah Tech University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Santa Clara",
+        "result": "W 8-1",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11410&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "4.0",
+          "h": 7,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Santa Clara, throwing 4.0 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

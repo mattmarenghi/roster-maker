@@ -2,17 +2,603 @@
   "school": "University of Pennsylvania",
   "base_url": "https://www.pennathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:35:25.794829Z",
+  "generated_at": "2026-03-16T18:14:27.300189Z",
   "record": "3-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "East Carolina",
-    "result": "",
+    "result": "W 8-7",
     "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://www.pennathletics.com/news/2026/3/15/pirates-walk-off-baseball-in-extra-innings-8-7.aspx",
+    "recap_headline": "University of Pennsylvania Athletics",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "0052f467": {
+      "id": "0052f467",
+      "name": "Luke Pokrovsky",
+      "fn": "Luke",
+      "ln": "Pokrovsky",
+      "pos": "LHP",
+      "yr": "",
+      "num": "6.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/5 with 0 RBI against East Carolina. Struggled to make contact."
+    },
+    "2e54c448": {
+      "id": "2e54c448",
+      "name": "Jarrett Pokrovsky",
+      "fn": "Jarrett",
+      "ln": "Pokrovsky",
+      "pos": "UTIL",
+      "yr": "",
+      "num": "8.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/5 with 0 RBI against East Carolina. Struggled to make contact."
+    },
+    "908a24e6": {
+      "id": "908a24e6",
+      "name": "Qwynn Ahearn",
+      "fn": "Qwynn",
+      "ln": "Ahearn",
+      "pos": "C",
+      "yr": "",
+      "num": "10.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 3,
+          "bb": 1,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 3 RBI against East Carolina. Contributed at the plate in the team's W 8-7."
+    },
+    "569258c2": {
+      "id": "569258c2",
+      "name": "Thomas Shurtleff",
+      "fn": "Thomas",
+      "ln": "Shurtleff",
+      "pos": "RHP",
+      "yr": "",
+      "num": "11.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "6.0",
+          "h": 7,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 6.0 innings. Struck out 4 while allowing just 7 hit(s) and 5 earned run(s) in a quality start."
+    },
+    "98afe861": {
+      "id": "98afe861",
+      "name": "Michael Powell",
+      "fn": "Michael",
+      "ln": "Powell",
+      "pos": "INF",
+      "yr": "",
+      "num": "14.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "East Carolina",
+        "result": "W 17-3",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against East Carolina. Struggled to make contact."
+    },
+    "56b54fc2": {
+      "id": "56b54fc2",
+      "name": "Ernie Echevarria",
+      "fn": "Ernie",
+      "ln": "Echevarria",
+      "pos": "C",
+      "yr": "",
+      "num": "15.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "East Carolina",
+        "result": "W 17-3",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "PH"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "bac6e1cf": {
+      "id": "bac6e1cf",
+      "name": "Gavin Collins",
+      "fn": "Gavin",
+      "ln": "Collins",
+      "pos": "OF",
+      "yr": "",
+      "num": "16.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against East Carolina. Contributed at the plate in the team's W 8-7."
+    },
+    "b1c4ecc4": {
+      "id": "b1c4ecc4",
+      "name": "Nick Guachione",
+      "fn": "Nick",
+      "ln": "Guachione",
+      "pos": "INF",
+      "yr": "",
+      "num": "19.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PR"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "a932af3f": {
+      "id": "a932af3f",
+      "name": "Aidan von Zuben",
+      "fn": "Aidan",
+      "ln": "von Zuben",
+      "pos": "LHP",
+      "yr": "",
+      "num": "20.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 2.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "09b8189a": {
+      "id": "09b8189a",
+      "name": "Marty Coyne",
+      "fn": "Marty",
+      "ln": "Coyne",
+      "pos": "LHP",
+      "yr": "",
+      "num": "23.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "East Carolina",
+        "result": "L 0-1",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "8.0",
+          "h": 4,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 8.0 innings. Struck out 4 while allowing just 4 hit(s) and 0 earned run(s) in a quality start."
+    },
+    "081ce991": {
+      "id": "081ce991",
+      "name": "Jay Secretarski",
+      "fn": "Jay",
+      "ln": "Secretarski",
+      "pos": "INF",
+      "yr": "",
+      "num": "24.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against East Carolina. Contributed at the plate in the team's W 8-7."
+    },
+    "06c7e3ff": {
+      "id": "06c7e3ff",
+      "name": "Connor McCabe",
+      "fn": "Connor",
+      "ln": "McCabe",
+      "pos": "OF",
+      "yr": "",
+      "num": "30.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "East Carolina",
+        "result": "L 0-1",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against East Carolina. Struggled to make contact."
+    },
+    "225a8b65": {
+      "id": "225a8b65",
+      "name": "Gavin Degnan",
+      "fn": "Gavin",
+      "ln": "Degnan",
+      "pos": "OF",
+      "yr": "",
+      "num": "32.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 2,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 2 RBI against East Carolina. Struggled to make contact."
+    },
+    "8cd3fb0f": {
+      "id": "8cd3fb0f",
+      "name": "Connor Darling",
+      "fn": "Connor",
+      "ln": "Darling",
+      "pos": "RHP",
+      "yr": "",
+      "num": "34.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "East Carolina",
+        "result": "L 0-1",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 1,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "d9ff5699": {
+      "id": "d9ff5699",
+      "name": "Jake Moss",
+      "fn": "Jake",
+      "ln": "Moss",
+      "pos": "RHP",
+      "yr": "",
+      "num": "35.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "East Carolina",
+        "result": "W 17-3",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.0",
+          "h": 10,
+          "r": 11,
+          "er": 10,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 3.0 innings. Allowed 10 earned run(s) with 2 strikeout(s)."
+    },
+    "16062e24": {
+      "id": "16062e24",
+      "name": "Jack Warner",
+      "fn": "Jack",
+      "ln": "Warner",
+      "pos": "INF",
+      "yr": "",
+      "num": "42.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 0 RBI against East Carolina. Struggled to make contact."
+    },
+    "610e15f2": {
+      "id": "610e15f2",
+      "name": "Nick Newburn",
+      "fn": "Nick",
+      "ln": "Newburn",
+      "pos": "RHP",
+      "yr": "",
+      "num": "43.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "East Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "da03d19b": {
+      "id": "da03d19b",
+      "name": "Ben Moulin",
+      "fn": "Ben",
+      "ln": "Moulin",
+      "pos": "LHP",
+      "yr": "",
+      "num": "45.0",
+      "school": "University of Pennsylvania",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "East Carolina",
+        "result": "W 17-3",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 2,
+          "wp": 2,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against East Carolina, throwing 1.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

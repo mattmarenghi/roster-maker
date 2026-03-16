@@ -2,17 +2,773 @@
   "school": "The Citadel",
   "base_url": "https://www.citadelsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:01:28.794161Z",
+  "generated_at": "2026-03-16T18:13:06.779547Z",
   "record": "8-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "UT Martin",
-    "result": "",
+    "result": "L 4-8",
     "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://www.citadelsports.com/news/2026/3/15/baseball-the-citadel-takes-weekend-series-over-ut-martin-8-4.aspx",
+    "recap_headline": "The Citadel Athletics",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "bca14642": {
+      "id": "bca14642",
+      "name": "Lane Tobin",
+      "fn": "Lane",
+      "ln": "Tobin",
+      "pos": "INF",
+      "yr": "Gr.",
+      "num": "1.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against UT Martin. Contributed at the plate in the team's L 4-8."
+    },
+    "ea3337a9": {
+      "id": "ea3337a9",
+      "name": "Jayden Williams",
+      "fn": "Jayden",
+      "ln": "Williams",
+      "pos": "OF",
+      "yr": "Fr.",
+      "num": "2.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UT Martin",
+        "result": "L 3-22",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 1 RBI against UT Martin. Had an outstanding performance at the plate (0.667)."
+    },
+    "c3849871": {
+      "id": "c3849871",
+      "name": "Garrett Fulmer",
+      "fn": "Garrett",
+      "ln": "Fulmer",
+      "pos": "C",
+      "yr": "Jr.",
+      "num": "4.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against UT Martin. Contributed at the plate in the team's L 4-8."
+    },
+    "958c4a8b": {
+      "id": "958c4a8b",
+      "name": "Ben Brash",
+      "fn": "Ben",
+      "ln": "Brash",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "7.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UT Martin",
+        "result": "L 3-22",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "12836acb": {
+      "id": "12836acb",
+      "name": "Andrew Buffkin",
+      "fn": "Andrew",
+      "ln": "Buffkin",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "11.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+    },
+    "c69ac79b": {
+      "id": "c69ac79b",
+      "name": "Trip Brown",
+      "fn": "Trip",
+      "ln": "Brown",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "12.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "b1cbf892": {
+      "id": "b1cbf892",
+      "name": "Matthew Lively",
+      "fn": "Matthew",
+      "ln": "Lively",
+      "pos": "OF",
+      "yr": "Sr.",
+      "num": "18.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/1 with 1 RBI against UT Martin. Had an outstanding performance at the plate (1.000)."
+    },
+    "206cd22e": {
+      "id": "206cd22e",
+      "name": "Christian Stratis",
+      "fn": "Christian",
+      "ln": "Stratis",
+      "pos": "OF",
+      "yr": "R-So.",
+      "num": "20.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UT Martin",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against UT Martin. Struggled to make contact."
+    },
+    "b1ccbf9d": {
+      "id": "b1ccbf9d",
+      "name": "Phillips Daniels",
+      "fn": "Phillips",
+      "ln": "Daniels",
+      "pos": "C/UT",
+      "yr": "Sr.",
+      "num": "21.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against UT Martin. Contributed at the plate in the team's L 4-8."
+    },
+    "07de6f19": {
+      "id": "07de6f19",
+      "name": "Michael Gibson",
+      "fn": "Michael",
+      "ln": "Gibson",
+      "pos": "RHP/UTIL",
+      "yr": "Sr.",
+      "num": "22.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 2.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+    },
+    "190f95d5": {
+      "id": "190f95d5",
+      "name": "Will Holmes",
+      "fn": "Will",
+      "ln": "Holmes",
+      "pos": "LHP",
+      "yr": "Gr.",
+      "num": "23.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UT Martin",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "6.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 8,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 6.0 innings. Struck out 8 while allowing just 3 hit(s) and 2 earned run(s) in a quality start."
+    },
+    "933cd339": {
+      "id": "933cd339",
+      "name": "Andrew Bowers",
+      "fn": "Andrew",
+      "ln": "Bowers",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "24.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UT Martin",
+        "result": "L 3-22",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "38c24151": {
+      "id": "38c24151",
+      "name": "Rhyder Poppell",
+      "fn": "Rhyder",
+      "ln": "Poppell",
+      "pos": "OF",
+      "yr": "So.",
+      "num": "30.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against UT Martin. Contributed at the plate in the team's L 4-8."
+    },
+    "787174a0": {
+      "id": "787174a0",
+      "name": "Noah Cadiz",
+      "fn": "Noah",
+      "ln": "Cadiz",
+      "pos": "C",
+      "yr": "R-Jr.",
+      "num": "31.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UT Martin",
+        "result": "L 3-22",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "3a04122b": {
+      "id": "3a04122b",
+      "name": "TJ Anderson",
+      "fn": "TJ",
+      "ln": "Anderson",
+      "pos": "UT",
+      "yr": "Sr.",
+      "num": "32.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 1 RBI against UT Martin. Struggled at the plate but saw 1 walk(s)."
+    },
+    "fbeb962c": {
+      "id": "fbeb962c",
+      "name": "CJ Van Slooten",
+      "fn": "CJ",
+      "ln": "Van Slooten",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "33.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 3.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "f8ef9446": {
+      "id": "f8ef9446",
+      "name": "Josh Davis",
+      "fn": "Josh",
+      "ln": "Davis",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "34.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UT Martin",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "75388ace": {
+      "id": "75388ace",
+      "name": "Zane Davis",
+      "fn": "Zane",
+      "ln": "Davis",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "35.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UT Martin",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "9230fdd6": {
+      "id": "9230fdd6",
+      "name": "Steven Trone",
+      "fn": "Steven",
+      "ln": "Trone",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "39.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "UT Martin",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "57581115": {
+      "id": "57581115",
+      "name": "Riley Ballard",
+      "fn": "Riley",
+      "ln": "Ballard",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "40.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UT Martin",
+        "result": "L 3-22",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "4.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 4,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 4.0 innings. Allowed 3 earned run(s) with 4 strikeout(s)."
+    },
+    "696699c3": {
+      "id": "696699c3",
+      "name": "Jacob Deacon",
+      "fn": "Jacob",
+      "ln": "Deacon",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "44.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "cc514ea8": {
+      "id": "cc514ea8",
+      "name": "Rylee Gibson",
+      "fn": "Rylee",
+      "ln": "Gibson",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "52.0",
+      "school": "The Citadel",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UT Martin",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against UT Martin, throwing 2.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

@@ -2,17 +2,840 @@
   "school": "University of Central Arkansas",
   "base_url": "https://www.ucasports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:14:18.115662Z",
+  "generated_at": "2026-03-16T18:13:49.054253Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Eastern Kentucky",
-    "result": "",
+    "result": "W 6-5",
     "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://www.ucasports.com/news/2026/3/15/baseball-bears-drop-one-run-game-at-eku.aspx",
+    "recap_headline": "University of Central Arkansas Athletics",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "88847f16": {
+      "id": "88847f16",
+      "name": "Noah Goodshield",
+      "fn": "Noah",
+      "ln": "Goodshield",
+      "pos": "INF",
+      "yr": "Sr.",
+      "num": "1.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Eastern Kentucky. Struggled at the plate but saw 1 walk(s)."
+    },
+    "22ced462": {
+      "id": "22ced462",
+      "name": "Kade Seldomridge",
+      "fn": "Kade",
+      "ln": "Seldomridge",
+      "pos": "OF",
+      "yr": "R-Jr.",
+      "num": "3.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PR"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "b6bfcbb3": {
+      "id": "b6bfcbb3",
+      "name": "Carter Alexander",
+      "fn": "Carter",
+      "ln": "Alexander",
+      "pos": "C",
+      "yr": "So.",
+      "num": "4.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    },
+    "1c47e948": {
+      "id": "1c47e948",
+      "name": "Jagger Schattle",
+      "fn": "Jagger",
+      "ln": "Schattle",
+      "pos": "IF/LHP",
+      "yr": "Gr.",
+      "num": "6.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "PH"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "4bd0caf4": {
+      "id": "4bd0caf4",
+      "name": "Mark Ross",
+      "fn": "Mark",
+      "ln": "Ross",
+      "pos": "INF",
+      "yr": "R-Fr.",
+      "num": "9.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/4 with 0 RBI against Eastern Kentucky. Struggled to make contact."
+    },
+    "352932b0": {
+      "id": "352932b0",
+      "name": "Braxton Haywood",
+      "fn": "Braxton",
+      "ln": "Haywood",
+      "pos": "RHP",
+      "yr": "R-Jr.",
+      "num": "10.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 3,
+          "er": 1,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+    },
+    "4682f645": {
+      "id": "4682f645",
+      "name": "Austin Jones",
+      "fn": "Austin",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "11.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
+    },
+    "29686436": {
+      "id": "29686436",
+      "name": "Luke Lorence",
+      "fn": "Luke",
+      "ln": "Lorence",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "12.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Eastern Kentucky",
+        "result": "W 16-3",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 2,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 1.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+    },
+    "aa845a4e": {
+      "id": "aa845a4e",
+      "name": "Samuel Curtis",
+      "fn": "Samuel",
+      "ln": "Curtis",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "13.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Eastern Kentucky",
+        "result": "W 16-3",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "cb0a659c": {
+      "id": "cb0a659c",
+      "name": "Keon Moseni",
+      "fn": "Keon",
+      "ln": "Moseni",
+      "pos": "INF",
+      "yr": "Sr.",
+      "num": "16.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Eastern Kentucky",
+        "result": "W 16-3",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Eastern Kentucky. Struggled to make contact."
+    },
+    "a8e2f054": {
+      "id": "a8e2f054",
+      "name": "Tobin Cantrill",
+      "fn": "Tobin",
+      "ln": "Cantrill",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "19.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Eastern Kentucky",
+        "result": "W 16-3",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "58239008": {
+      "id": "58239008",
+      "name": "Silas Cowgill",
+      "fn": "Silas",
+      "ln": "Cowgill",
+      "pos": "RHP",
+      "yr": "Gr.",
+      "num": "20.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Eastern Kentucky",
+        "result": "W 16-3",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.1",
+          "h": 6,
+          "r": 7,
+          "er": 7,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.1 innings. Allowed 7 earned run(s) with 1 strikeout(s)."
+    },
+    "b05d4198": {
+      "id": "b05d4198",
+      "name": "Zach Adams",
+      "fn": "Zach",
+      "ln": "Adams",
+      "pos": "C/INF",
+      "yr": "Jr.",
+      "num": "21.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Eastern Kentucky",
+        "result": "W 16-3",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "68321c34": {
+      "id": "68321c34",
+      "name": "Caide White",
+      "fn": "Caide",
+      "ln": "White",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "25.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Eastern Kentucky",
+        "result": "W 16-3",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.1",
+          "h": 4,
+          "r": 7,
+          "er": 5,
+          "bb": 4,
+          "so": 2,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 1.1 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+    },
+    "dc8d8847": {
+      "id": "dc8d8847",
+      "name": "Zane Denton",
+      "fn": "Zane",
+      "ln": "Denton",
+      "pos": "C",
+      "yr": "Jr.",
+      "num": "28.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 0,
+          "rbi": 1,
+          "bb": 2,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 1 RBI against Eastern Kentucky. Struggled at the plate but saw 2 walk(s)."
+    },
+    "39595490": {
+      "id": "39595490",
+      "name": "Hunter Alexander",
+      "fn": "Hunter",
+      "ln": "Alexander",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "29.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+    },
+    "3f09cf1e": {
+      "id": "3f09cf1e",
+      "name": "Kannon Nesslage",
+      "fn": "Kannon",
+      "ln": "Nesslage",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "30.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "243fa3a0": {
+      "id": "243fa3a0",
+      "name": "Jayden Sloan",
+      "fn": "Jayden",
+      "ln": "Sloan",
+      "pos": "OF",
+      "yr": "Fr.",
+      "num": "31.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 1 RBI against Eastern Kentucky. Struggled at the plate but saw 1 walk(s)."
+    },
+    "3c1dc8db": {
+      "id": "3c1dc8db",
+      "name": "JB Williams",
+      "fn": "JB",
+      "ln": "Williams",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "35.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "6dc19846": {
+      "id": "6dc19846",
+      "name": "Jake Jones",
+      "fn": "Jake",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "R-So.",
+      "num": "36.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 3,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
+    },
+    "f536bda5": {
+      "id": "f536bda5",
+      "name": "Patrick Fernandez",
+      "fn": "Patrick",
+      "ln": "Fernandez",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "39.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "6.0",
+          "h": 6,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 6,
+          "wp": 0,
+          "hbp": 3
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 6.0 innings. Struck out 6 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
+    },
+    "68bd1856": {
+      "id": "68bd1856",
+      "name": "Reign Williams",
+      "fn": "Reign",
+      "ln": "Williams",
+      "pos": "OF",
+      "yr": "Fr.",
+      "num": "41.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Eastern Kentucky",
+        "result": "L 12-16",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "28bbbb3b": {
+      "id": "28bbbb3b",
+      "name": "Zeb Allen",
+      "fn": "Zeb",
+      "ln": "Allen",
+      "pos": "OF",
+      "yr": "Jr.",
+      "num": "42.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 3,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Eastern Kentucky. Struggled at the plate but saw 2 walk(s)."
+    },
+    "a7227141": {
+      "id": "a7227141",
+      "name": "Landon Carter",
+      "fn": "Landon",
+      "ln": "Carter",
+      "pos": "INF",
+      "yr": "Fr.",
+      "num": "43.0",
+      "school": "University of Central Arkansas",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Eastern Kentucky",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Eastern Kentucky. Contributed at the plate in the team's W 6-5."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

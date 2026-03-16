@@ -2,17 +2,832 @@
   "school": "East Tennessee State University",
   "base_url": "https://www.etsubucs.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:06:41.956958Z",
+  "generated_at": "2026-03-16T18:09:28.031545Z",
   "record": "14-5",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Bradley",
-    "result": "",
+    "result": "W 15-2",
     "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://www.etsubucs.com/news/2026/3/15/baseball-bucs-cruise-past-bradley-15-2.aspx",
+    "recap_headline": "East Tennessee State University",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "d41279ec": {
+      "id": "d41279ec",
+      "name": "Jamie Palmese",
+      "fn": "Jamie",
+      "ln": "Palmese",
+      "pos": "OF",
+      "yr": "Jr.",
+      "num": "1.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 4,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 4/5 with 2 RBI against Bradley. Had an outstanding performance at the plate (0.800)."
+    },
+    "11a3e1cb": {
+      "id": "11a3e1cb",
+      "name": "Colin Eaton",
+      "fn": "Colin",
+      "ln": "Eaton",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "3.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "8a018784": {
+      "id": "8a018784",
+      "name": "Ty Galusky",
+      "fn": "Ty",
+      "ln": "Galusky",
+      "pos": "C",
+      "yr": "Jr.",
+      "num": "4.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 1 RBI against Bradley. Had an outstanding performance at the plate (0.667)."
+    },
+    "73f25956": {
+      "id": "73f25956",
+      "name": "Derek McCarley",
+      "fn": "Derek",
+      "ln": "McCarley",
+      "pos": "LHP",
+      "yr": "R-Sr.",
+      "num": "5.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "06c69b0b": {
+      "id": "06c69b0b",
+      "name": "Mason Ault",
+      "fn": "Mason",
+      "ln": "Ault",
+      "pos": "C",
+      "yr": "Fr.",
+      "num": "7.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 2,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Bradley. Struggled at the plate but saw 2 walk(s)."
+    },
+    "0f44b30d": {
+      "id": "0f44b30d",
+      "name": "Logan Grass",
+      "fn": "Logan",
+      "ln": "Grass",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "8.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "42bbd925": {
+      "id": "42bbd925",
+      "name": "Eli Evans",
+      "fn": "Eli",
+      "ln": "Evans",
+      "pos": "INF",
+      "yr": "So.",
+      "num": "10.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Bradley. Contributed at the plate in the team's W 15-2."
+    },
+    "83929611": {
+      "id": "83929611",
+      "name": "Andrew Palmer",
+      "fn": "Andrew",
+      "ln": "Palmer",
+      "pos": "OF",
+      "yr": "Fr.",
+      "num": "11.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "67263a09": {
+      "id": "67263a09",
+      "name": "Axel Melendez",
+      "fn": "Axel",
+      "ln": "Melendez",
+      "pos": "OF",
+      "yr": "So.",
+      "num": "13.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 3,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/5 with 1 RBI against Bradley. Struggled to make contact."
+    },
+    "1b05c2f0": {
+      "id": "1b05c2f0",
+      "name": "Matt Evans",
+      "fn": "Matt",
+      "ln": "Evans",
+      "pos": "INF",
+      "yr": "Fr.",
+      "num": "14.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Bradley. Contributed at the plate in the team's W 15-2."
+    },
+    "00460d65": {
+      "id": "00460d65",
+      "name": "Evan Rolison",
+      "fn": "Evan",
+      "ln": "Rolison",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "15.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.2",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 2.2 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+    },
+    "124c0ab5": {
+      "id": "124c0ab5",
+      "name": "Nate Conner",
+      "fn": "Nate",
+      "ln": "Conner",
+      "pos": "OF",
+      "yr": "Jr.",
+      "num": "17.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Bradley. Struggled at the plate but saw 1 walk(s)."
+    },
+    "587ff38a": {
+      "id": "587ff38a",
+      "name": "Thomas Costarelli",
+      "fn": "Thomas",
+      "ln": "Costarelli",
+      "pos": "LHP",
+      "yr": "Fr.",
+      "num": "18.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "5192ee7f": {
+      "id": "5192ee7f",
+      "name": "Stratton Scott",
+      "fn": "Stratton",
+      "ln": "Scott",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "20.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 2.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
+    },
+    "ade8ed98": {
+      "id": "ade8ed98",
+      "name": "Tyler Fetterman",
+      "fn": "Tyler",
+      "ln": "Fetterman",
+      "pos": "LHP/1B",
+      "yr": "R-So.",
+      "num": "24.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 3,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 1 RBI against Bradley. Had an outstanding performance at the plate (0.667)."
+    },
+    "1a3c08e4": {
+      "id": "1a3c08e4",
+      "name": "Michael Harpster",
+      "fn": "Michael",
+      "ln": "Harpster",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "26.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.0",
+          "h": 4,
+          "r": 2,
+          "er": 0,
+          "bb": 2,
+          "so": 6,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 5.0 innings. Struck out 6 while allowing just 4 hit(s) and 0 earned run(s) in a quality start."
+    },
+    "9fbc91ea": {
+      "id": "9fbc91ea",
+      "name": "Reid Brosnan",
+      "fn": "Reid",
+      "ln": "Brosnan",
+      "pos": "RHP",
+      "yr": "R-Fr.",
+      "num": "27.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+    },
+    "652de660": {
+      "id": "652de660",
+      "name": "Andrew Cotten",
+      "fn": "Andrew",
+      "ln": "Cotten",
+      "pos": "RHP",
+      "yr": "Sr.",
+      "num": "31.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "e16bb34a": {
+      "id": "e16bb34a",
+      "name": "Tristan Curless",
+      "fn": "Tristan",
+      "ln": "Curless",
+      "pos": "LHP/1B",
+      "yr": "Sr.",
+      "num": "32.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "f7856237": {
+      "id": "f7856237",
+      "name": "Gabe Juarez",
+      "fn": "Gabe",
+      "ln": "Juarez",
+      "pos": "C",
+      "yr": "Sr.",
+      "num": "33.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 2,
+          "rbi": 2,
+          "bb": 0,
+          "so": 3,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/3 with 2 RBI against Bradley. Had an outstanding performance at the plate (0.667)."
+    },
+    "86e0371f": {
+      "id": "86e0371f",
+      "name": "Jack Vest",
+      "fn": "Jack",
+      "ln": "Vest",
+      "pos": "RHP",
+      "yr": "So.",
+      "num": "37.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": null
+    },
+    "f9a9ac35": {
+      "id": "f9a9ac35",
+      "name": "Cooper Jones",
+      "fn": "Cooper",
+      "ln": "Jones",
+      "pos": "RHP",
+      "yr": "Fr.",
+      "num": "39.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "4.1",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 8,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 4.1 innings. Allowed 0 earned run(s) with 8 strikeout(s)."
+    },
+    "7c072cc5": {
+      "id": "7c072cc5",
+      "name": "Reilly Byers",
+      "fn": "Reilly",
+      "ln": "Byers",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "40.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 10-3",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "dbcd387a": {
+      "id": "dbcd387a",
+      "name": "Liam Thatcher",
+      "fn": "Liam",
+      "ln": "Thatcher",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "44.0",
+      "school": "East Tennessee State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bradley",
+        "result": "W 15-2",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Bradley, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

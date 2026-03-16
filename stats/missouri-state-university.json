@@ -2,17 +2,764 @@
   "school": "Missouri State University",
   "base_url": "https://www.missouristatebears.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:33:23.794125Z",
+  "generated_at": "2026-03-16T18:11:16.932289Z",
   "record": "12-7",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Liberty",
-    "result": "",
+    "result": "W 9-3",
     "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://www.missouristatebears.com/news/2026/3/15/flames-top-baseball-bears-in-series-finale.aspx",
+    "recap_headline": "Missouri State",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "30a866ec": {
+      "id": "30a866ec",
+      "name": "Bryce Cermenelli",
+      "fn": "Bryce",
+      "ln": "Cermenelli",
+      "pos": "IF",
+      "yr": "",
+      "num": "3.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Liberty",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 2/4 with 1 RBI against Liberty. Had an outstanding performance at the plate (0.500)."
+    },
+    "e4283980": {
+      "id": "e4283980",
+      "name": "Jax Ryan",
+      "fn": "Jax",
+      "ln": "Ryan",
+      "pos": "MIF",
+      "yr": "",
+      "num": "4.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Liberty",
+        "result": "L 11-12",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Liberty. Struggled to make contact."
+    },
+    "566f082b": {
+      "id": "566f082b",
+      "name": "Gabe Roessler",
+      "fn": "Gabe",
+      "ln": "Roessler",
+      "pos": "MIF/OF",
+      "yr": "",
+      "num": "5.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Liberty. Struggled to make contact."
+    },
+    "394a4cae": {
+      "id": "394a4cae",
+      "name": "Logan Fyffe",
+      "fn": "Logan",
+      "ln": "Fyffe",
+      "pos": "IF",
+      "yr": "",
+      "num": "9.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Liberty. Contributed at the plate in the team's W 9-3."
+    },
+    "6501e374": {
+      "id": "6501e374",
+      "name": "Jason Schaaf",
+      "fn": "Jason",
+      "ln": "Schaaf",
+      "pos": "RHP",
+      "yr": "",
+      "num": "10.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "424af1b2": {
+      "id": "424af1b2",
+      "name": "Michael Yusypchuk",
+      "fn": "Michael",
+      "ln": "Yusypchuk",
+      "pos": "RHP",
+      "yr": "",
+      "num": "12.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Liberty",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 3.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+    },
+    "ab892129": {
+      "id": "ab892129",
+      "name": "Adyn Schell",
+      "fn": "Adyn",
+      "ln": "Schell",
+      "pos": "3B/RHP",
+      "yr": "",
+      "num": "14.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 1.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "01a5e918": {
+      "id": "01a5e918",
+      "name": "Caden Bogenpohl",
+      "fn": "Caden",
+      "ln": "Bogenpohl",
+      "pos": "OF",
+      "yr": "",
+      "num": "16.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Liberty. Contributed at the plate in the team's W 9-3."
+    },
+    "e063c890": {
+      "id": "e063c890",
+      "name": "Sam Maclaughlin",
+      "fn": "Sam",
+      "ln": "Maclaughlin",
+      "pos": "LHP",
+      "yr": "",
+      "num": "17.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Liberty",
+        "result": "L 11-12",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+    },
+    "885e8e95": {
+      "id": "885e8e95",
+      "name": "Charlie Carter",
+      "fn": "Charlie",
+      "ln": "Carter",
+      "pos": "C",
+      "yr": "",
+      "num": "19.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 1 RBI against Liberty. Struggled to make contact."
+    },
+    "5de1c917": {
+      "id": "5de1c917",
+      "name": "Trent Ash",
+      "fn": "Trent",
+      "ln": "Ash",
+      "pos": "RHP",
+      "yr": "",
+      "num": "21.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "c22c19ac": {
+      "id": "c22c19ac",
+      "name": "Taeg Gollert",
+      "fn": "Taeg",
+      "ln": "Gollert",
+      "pos": "OF/1B",
+      "yr": "",
+      "num": "23.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 0 RBI against Liberty. Contributed at the plate in the team's W 9-3."
+    },
+    "45433d95": {
+      "id": "45433d95",
+      "name": "Max Knight",
+      "fn": "Max",
+      "ln": "Knight",
+      "pos": "LHP/1B/OF",
+      "yr": "",
+      "num": "24.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 4,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 0.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "30dafed1": {
+      "id": "30dafed1",
+      "name": "Brock Lucas",
+      "fn": "Brock",
+      "ln": "Lucas",
+      "pos": "RHP",
+      "yr": "",
+      "num": "25.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Liberty",
+        "result": "L 11-12",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.0",
+          "h": 5,
+          "r": 6,
+          "er": 3,
+          "bb": 3,
+          "so": 3,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 3.0 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
+    },
+    "b8df25b3": {
+      "id": "b8df25b3",
+      "name": "Carter Bergman",
+      "fn": "Carter",
+      "ln": "Bergman",
+      "pos": "C",
+      "yr": "",
+      "num": "26.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 3,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 3/4 with 0 RBI against Liberty. Had an outstanding performance at the plate (0.750)."
+    },
+    "dfbb90cd": {
+      "id": "dfbb90cd",
+      "name": "Lance Wade",
+      "fn": "Lance",
+      "ln": "Wade",
+      "pos": "RHP",
+      "yr": "",
+      "num": "29.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "b66f4b84": {
+      "id": "b66f4b84",
+      "name": "Jackson Beaman",
+      "fn": "Jackson",
+      "ln": "Beaman",
+      "pos": "UT",
+      "yr": "",
+      "num": "31.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Liberty. Struggled to make contact."
+    },
+    "6915b1d3": {
+      "id": "6915b1d3",
+      "name": "Michael Callahan",
+      "fn": "Michael",
+      "ln": "Callahan",
+      "pos": "IF/OF",
+      "yr": "",
+      "num": "32.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Liberty",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "pr"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "fe51d2a4": {
+      "id": "fe51d2a4",
+      "name": "Ross Felder",
+      "fn": "Ross",
+      "ln": "Felder",
+      "pos": "RHP",
+      "yr": "",
+      "num": "34.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Liberty",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.2",
+          "h": 3,
+          "r": 1,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 3.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "af8e6574": {
+      "id": "af8e6574",
+      "name": "Tyler Charlton",
+      "fn": "Tyler",
+      "ln": "Charlton",
+      "pos": "LHP",
+      "yr": "",
+      "num": "36.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Liberty",
+        "result": "L 11-12",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+    },
+    "52e8138d": {
+      "id": "52e8138d",
+      "name": "Charlie Spoonhour",
+      "fn": "Charlie",
+      "ln": "Spoonhour",
+      "pos": "RHP",
+      "yr": "",
+      "num": "43.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Liberty",
+        "result": "L 11-12",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": null
+    },
+    "597c4c3d": {
+      "id": "597c4c3d",
+      "name": "Owen Slater",
+      "fn": "Owen",
+      "ln": "Slater",
+      "pos": "RHP",
+      "yr": "",
+      "num": "88.0",
+      "school": "Missouri State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.2",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 4,
+          "so": 1,
+          "wp": 2,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Liberty, throwing 2.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }

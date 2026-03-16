@@ -2,17 +2,773 @@
   "school": "Northern Illinois University",
   "base_url": "https://www.niuhuskies.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:38:22.091802Z",
+  "generated_at": "2026-03-16T18:11:51.563084Z",
   "record": "10-7",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Toledo",
-    "result": "",
+    "result": "W 17-2",
     "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
-    "recap_url": null,
-    "recap_headline": "",
+    "recap_url": "https://www.niuhuskies.com/news/2026/3/15/baseball-niu-drops-series-finale-at-toledo.aspx",
+    "recap_headline": "Northern Illinois University Athletics",
     "recap_text": ""
   },
-  "players": {},
+  "players": {
+    "7597ef21": {
+      "id": "7597ef21",
+      "name": "Charlie Parcell",
+      "fn": "Charlie",
+      "ln": "Parcell",
+      "pos": "OF",
+      "yr": "",
+      "num": "2.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 3,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 3/3 with 0 RBI against Toledo. Had an outstanding performance at the plate (1.000)."
+    },
+    "7ab57776": {
+      "id": "7ab57776",
+      "name": "Nolan Sandee",
+      "fn": "Nolan",
+      "ln": "Sandee",
+      "pos": "INF",
+      "yr": "",
+      "num": "6.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Toledo",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24908&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 0 RBI against Toledo. Struggled at the plate but saw 1 walk(s)."
+    },
+    "0fb6236c": {
+      "id": "0fb6236c",
+      "name": "Connar Temple",
+      "fn": "Connar",
+      "ln": "Temple",
+      "pos": "P",
+      "yr": "",
+      "num": "7.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+    },
+    "6a93b426": {
+      "id": "6a93b426",
+      "name": "Cooper Cohn",
+      "fn": "Cooper",
+      "ln": "Cohn",
+      "pos": "C",
+      "yr": "",
+      "num": "9.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/3 with 0 RBI against Toledo. Contributed at the plate in the team's W 17-2."
+    },
+    "86c23ed8": {
+      "id": "86c23ed8",
+      "name": "Danny Cihocki",
+      "fn": "Danny",
+      "ln": "Cihocki",
+      "pos": "P",
+      "yr": "",
+      "num": "10.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 5,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 2.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+    },
+    "be35ef60": {
+      "id": "be35ef60",
+      "name": "Wyatt Wawro",
+      "fn": "Wyatt",
+      "ln": "Wawro",
+      "pos": "OF",
+      "yr": "",
+      "num": "11.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Toledo",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24908&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
+      "narrative": null
+    },
+    "bac43e4f": {
+      "id": "bac43e4f",
+      "name": "Nick Bassi",
+      "fn": "Nick",
+      "ln": "Bassi",
+      "pos": "P",
+      "yr": "",
+      "num": "12.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 4,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 0.1 innings. Allowed 5 earned run(s) with 1 strikeout(s)."
+    },
+    "b10cb737": {
+      "id": "b10cb737",
+      "name": "Blake Gaskey",
+      "fn": "Blake",
+      "ln": "Gaskey",
+      "pos": "P",
+      "yr": "",
+      "num": "15.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Toledo",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24908&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+    },
+    "e714dce2": {
+      "id": "e714dce2",
+      "name": "Mason Orton",
+      "fn": "Mason",
+      "ln": "Orton",
+      "pos": "P",
+      "yr": "",
+      "num": "17.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 4,
+          "r": 6,
+          "er": 5,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 1.2 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+    },
+    "f76b69b8": {
+      "id": "f76b69b8",
+      "name": "Connor Mendell",
+      "fn": "Connor",
+      "ln": "Mendell",
+      "pos": "C",
+      "yr": "",
+      "num": "18.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/1 with 1 RBI against Toledo. Struggled at the plate but saw 1 walk(s)."
+    },
+    "ca2b38bf": {
+      "id": "ca2b38bf",
+      "name": "Alex Day",
+      "fn": "Alex",
+      "ln": "Day",
+      "pos": "P",
+      "yr": "",
+      "num": "19.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 4,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 2.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+    },
+    "9688aee7": {
+      "id": "9688aee7",
+      "name": "Marcus Romero",
+      "fn": "Marcus",
+      "ln": "Romero",
+      "pos": "OF",
+      "yr": "",
+      "num": "21.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Toledo. Struggled to make contact."
+    },
+    "cf1c1de4": {
+      "id": "cf1c1de4",
+      "name": "Carter Cox",
+      "fn": "Carter",
+      "ln": "Cox",
+      "pos": "P",
+      "yr": "",
+      "num": "22.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.0",
+          "h": 2,
+          "r": 7,
+          "er": 6,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1
+        }
+      },
+      "narrative": null
+    },
+    "f509dae6": {
+      "id": "f509dae6",
+      "name": "Gavin Micklinghoff",
+      "fn": "Gavin",
+      "ln": "Micklinghoff",
+      "pos": "P",
+      "yr": "",
+      "num": "25.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 6,
+          "r": 7,
+          "er": 7,
+          "bb": 1,
+          "so": 2,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 1.0 innings. Allowed 7 earned run(s) with 2 strikeout(s)."
+    },
+    "a6064b77": {
+      "id": "a6064b77",
+      "name": "RJ Bergren",
+      "fn": "RJ",
+      "ln": "Bergren",
+      "pos": "P",
+      "yr": "",
+      "num": "26.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 2,
+          "er": 0,
+          "bb": 1,
+          "so": 1,
+          "wp": 0,
+          "hbp": 2
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "6e106231": {
+      "id": "6e106231",
+      "name": "Caden Robertson",
+      "fn": "Caden",
+      "ln": "Robertson",
+      "pos": "OF",
+      "yr": "",
+      "num": "27.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "dh"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 1/4 with 1 RBI against Toledo. Contributed at the plate in the team's W 17-2."
+    },
+    "fa386282": {
+      "id": "fa386282",
+      "name": "Ivan Dahlberg",
+      "fn": "Ivan",
+      "ln": "Dahlberg",
+      "pos": "C",
+      "yr": "",
+      "num": "28.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/2 with 0 RBI against Toledo. Struggled at the plate but saw 1 walk(s)."
+    },
+    "efcaca34": {
+      "id": "efcaca34",
+      "name": "Josh Loren",
+      "fn": "Josh",
+      "ln": "Loren",
+      "pos": "P",
+      "yr": "",
+      "num": "29.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 2.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+    },
+    "e8d742ff": {
+      "id": "e8d742ff",
+      "name": "Max Vaisvila",
+      "fn": "Max",
+      "ln": "Vaisvila",
+      "pos": "P",
+      "yr": "",
+      "num": "30.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Toledo",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24908&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "7.0",
+          "h": 6,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 4,
+          "wp": 1,
+          "hbp": 1
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 7.0 innings. Struck out 4 while allowing just 6 hit(s) and 2 earned run(s) in a quality start."
+    },
+    "fe883400": {
+      "id": "fe883400",
+      "name": "Matt Tarr",
+      "fn": "Matt",
+      "ln": "Tarr",
+      "pos": "P",
+      "yr": "",
+      "num": "32.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Toledo",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24908&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    },
+    "a84177da": {
+      "id": "a84177da",
+      "name": "Owen Ross",
+      "fn": "Owen",
+      "ln": "Ross",
+      "pos": "INF",
+      "yr": "",
+      "num": "34.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "Went 0/3 with 0 RBI against Toledo. Struggled to make contact."
+    },
+    "a423b086": {
+      "id": "a423b086",
+      "name": "Ben Kasten",
+      "fn": "Ben",
+      "ln": "Kasten",
+      "pos": "P",
+      "yr": "",
+      "num": "35.0",
+      "school": "Northern Illinois University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0
+        }
+      },
+      "narrative": "Took the mound against Toledo, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+    }
+  },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
 }
