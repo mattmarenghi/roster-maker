@@ -346,11 +346,23 @@ def scrape_season_batting(base_url: str, season: str = "2026", no_season: bool =
     raw_headers = [th.get_text(strip=True) for th in batting_table.find_all("th")]
     players = []
     for row in batting_table.find_all("tr")[1:]:  # skip header
-        cells = [td.get_text(strip=True) for td in row.find_all("td")]
+        # Old SIDEARM uses <th scope="row"> for the player name cell; new SIDEARM uses <td>.
+        # Including both keeps column indices aligned with raw_headers for both formats.
+        raw_cells = row.find_all(["td", "th"])
+        cells = [c.get_text(strip=True) for c in raw_cells]
         if not cells or len(cells) < 5:
             continue
+
+        # Extract player name from the name cell (index 1).
+        # Old SIDEARM embeds a mobile jersey-number span inside the <th>, producing
+        # garbled get_text() like "Parks, Sam5Parks, Sam". Use the <a> link text
+        # when available to get a clean name.
+        name_raw = ""
+        if len(raw_cells) > 1:
+            link = raw_cells[1].find("a")
+            name_raw = link.get_text(strip=True) if link else cells[1]
+
         # Skip totals rows
-        name_raw = cells[1] if len(cells) > 1 else ""
         if "total" in name_raw.lower() or not name_raw:
             continue
 
@@ -451,70 +463,37 @@ def scrape_season_pitching(base_url: str, season: str = "2026", no_season: bool 
     time.sleep(DELAY)
 
     nuxt_data = extract_nuxt_data(html)
-    if not nuxt_data:
-        print("  Could not extract NUXT data for pitching stats", file=sys.stderr)
-        return []
 
     def rv(idx):
-        return resolve_nuxt(nuxt_data, idx)
+        return resolve_nuxt(nuxt_data, idx) if nuxt_data else None
 
     # Navigate: statsSeason -> cumulativeStats -> (key) -> overallIndividualStats
     # -> individualStats -> individualPitchingStats
-    stats_season_idx = None
-    for i, item in enumerate(nuxt_data):
-        if isinstance(item, dict) and "statsSeason" in item:
-            stats_season_idx = item["statsSeason"]
-            break
-    if stats_season_idx is None:
-        return []
+    # Any missing step sets pitching_list=None and falls through to the HTML fallback.
+    pitching_list = None
+    if nuxt_data:
+        stats_season_idx = None
+        for i, item in enumerate(nuxt_data):
+            if isinstance(item, dict) and "statsSeason" in item:
+                stats_season_idx = item["statsSeason"]
+                break
 
-    stats_season = rv(stats_season_idx)
-    if not isinstance(stats_season, dict):
-        return []
-
-    cumul_idx = stats_season.get("cumulativeStats")
-    if cumul_idx is None:
-        return []
-
-    cumul = rv(cumul_idx)
-    if not isinstance(cumul, dict):
-        return []
-
-    # cumul is keyed by a hash; get the first value
-    first_key = next(iter(cumul), None)
-    if first_key is None:
-        return []
-
-    main_stats = rv(cumul[first_key])
-    if not isinstance(main_stats, dict):
-        return []
-
-    overall_idx = main_stats.get("overallIndividualStats")
-    if overall_idx is None:
-        return []
-
-    overall = rv(overall_idx)
-    if not isinstance(overall, dict):
-        return []
-
-    indiv_idx = overall.get("individualStats")
-    if indiv_idx is None:
-        return []
-
-    indiv = rv(indiv_idx)
-    if not isinstance(indiv, dict):
-        return []
-
-    pitching_list_idx = indiv.get("individualPitchingStats")
-    if pitching_list_idx is None:
-        return []
-
-    pitching_list = rv(pitching_list_idx)
-    if not isinstance(pitching_list, list):
-        return []
+        stats_season = rv(stats_season_idx) if stats_season_idx is not None else None
+        cumul_idx = stats_season.get("cumulativeStats") if isinstance(stats_season, dict) else None
+        cumul = rv(cumul_idx) if cumul_idx is not None else None
+        first_key = next(iter(cumul), None) if isinstance(cumul, dict) else None
+        main_stats = rv(cumul[first_key]) if first_key is not None else None
+        overall_idx = main_stats.get("overallIndividualStats") if isinstance(main_stats, dict) else None
+        overall = rv(overall_idx) if overall_idx is not None else None
+        indiv_idx = overall.get("individualStats") if isinstance(overall, dict) else None
+        indiv = rv(indiv_idx) if indiv_idx is not None else None
+        pitching_list_idx = indiv.get("individualPitchingStats") if isinstance(indiv, dict) else None
+        candidate = rv(pitching_list_idx) if pitching_list_idx is not None else None
+        if isinstance(candidate, list):
+            pitching_list = candidate
 
     pitchers = []
-    for pitcher_idx in pitching_list:
+    for pitcher_idx in (pitching_list or []):
         p = rv(pitcher_idx)
         if not isinstance(p, dict):
             continue
@@ -582,22 +561,21 @@ def scrape_season_pitching(base_url: str, season: str = "2026", no_season: bool 
     raw_headers = [th.get_text(strip=True) for th in pitching_table.find_all("th")]
     pitchers = []
     for row in pitching_table.find_all("tr")[1:]:
-        cells = [td.get_text(strip=True) for td in row.find_all("td")]
+        # Include <th scope="row"> name cells so column indices align with raw_headers
+        # (same fix as scrape_season_batting — old SIDEARM uses th for the name cell)
+        raw_cells = row.find_all(["td", "th"])
+        cells = [c.get_text(strip=True) for c in raw_cells]
         if not cells or len(cells) < 10:
             continue
 
-        # First cell is jersey #, second is player name in some old formats
-        # But in UCSB format, the headers include player names. Rows start with jersey #.
+        # Extract player name: prefer <a> link (avoids mobile-span clutter in old SIDEARM)
         name_raw = ""
-        # Check if we can find a link with the player name
-        name_link = row.find("a")
-        if name_link:
-            name_raw = name_link.get_text(strip=True)
+        if len(raw_cells) > 1:
+            link = raw_cells[1].find("a")
+            name_raw = link.get_text(strip=True) if link else cells[1]
         if not name_raw:
-            # Try getting from the row text before the first numeric cell
-            all_text = [td.get_text(strip=True) for td in row.find_all("td")]
-            if all_text and not all_text[0].replace(".", "").replace("-", "").isdigit():
-                name_raw = all_text[0]
+            link = row.find("a")
+            name_raw = link.get_text(strip=True) if link else ""
 
         if not name_raw or name_raw.lower() in ("totals", "opponents", ""):
             continue
