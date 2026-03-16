@@ -867,18 +867,39 @@ def main():
 
     # Step 1: Load school list from NCAA API
     print("\n[1/3] Fetching D1 school list from NCAA directory API...")
+    _cache_paths = [
+        os.path.join(os.path.dirname(__file__), 'ncaa_d1_schools.json'),
+        '/home/user/ncaa_d1_schools.json',
+    ]
     try:
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
         r = requests.get(
             'https://web3.ncaa.org/directory/api/directory/memberList?type=12&division=I',
             headers={'User-Agent': 'Mozilla/5.0'},
-            timeout=15
+            timeout=15,
+            verify=False,
         )
         schools = r.json()
+        # Refresh the cache for next time
+        for _p in _cache_paths:
+            try:
+                with open(_p, 'w') as _f:
+                    json.dump(schools, _f)
+            except OSError:
+                pass
     except Exception as e:
         # Fall back to cached file
         print(f"  API error: {e}, loading from cache...")
-        with open('/home/user/ncaa_d1_schools.json') as f:
-            schools = json.load(f)
+        schools = None
+        for _p in _cache_paths:
+            if os.path.exists(_p):
+                with open(_p) as _f:
+                    schools = json.load(_f)
+                break
+        if schools is None:
+            print("  ERROR: no school list cache found. Run once with network access.", file=sys.stderr)
+            sys.exit(1)
 
     print(f"  Found {len(schools)} D1 member schools")
 
@@ -989,7 +1010,7 @@ def main():
         # Order columns nicely
         col_order = ['first_name', 'last_name', 'number', 'position', 'bats_throws',
                      'class_year', 'height', 'weight', 'team', 'school', 'conference',
-                     'state', 'hometown', 'high_school']
+                     'state', 'hometown', 'high_school', 'profile_url', 'photo_url']
         for c in col_order:
             if c not in df.columns:
                 df[c] = ''
