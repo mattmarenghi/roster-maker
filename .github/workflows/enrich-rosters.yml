@@ -1,0 +1,87 @@
+name: Enrich Player Profiles
+
+# Manual trigger only — run this whenever you want to do a fresh enrichment pass.
+# GitHub-hosted runners have full outbound HTTPS, so all SIDEARM API calls work.
+#
+# Inputs let you limit the run to a subset of schools (useful for re-running a
+# single school after fixing a parser bug without waiting for the full pass).
+on:
+  workflow_dispatch:
+    inputs:
+      reset_progress:
+        description: 'Clear enrichment checkpoint and start fresh'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+      dry_run:
+        description: 'Dry run — fetch data but do not commit changes'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Fetch the branch that has the enrichment scripts
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 pandas cloudscraper lxml
+
+      - name: Clear enrichment checkpoint (if requested)
+        if: ${{ inputs.reset_progress == 'true' }}
+        run: |
+          echo "Clearing enrich_profiles_progress.json …"
+          rm -f enrich_profiles_progress.json
+
+      - name: Run data quality fix
+        run: python3 fix_data_quality.py
+
+      - name: Run player profile enrichment
+        run: python3 enrich_player_profiles.py
+
+      - name: Regenerate stable IDs
+        run: python3 generate_ids.py
+
+      - name: Show summary
+        run: |
+          echo "=== players.json summary ==="
+          python3 - <<'EOF'
+          import json
+          with open("players.json") as f:
+              players = json.load(f)
+          total = len(players)
+          stable = sum(1 for p in players if p.get("id_stable"))
+          no_bt = sum(1 for p in players if not p.get("bt"))
+          no_yr = sum(1 for p in players if not p.get("yr"))
+          schools = len({p["school"] for p in players})
+          print(f"Players : {total}")
+          print(f"Schools : {schools}")
+          print(f"Stable IDs : {stable} ({stable/total*100:.1f}%)")
+          print(f"Missing bt : {no_bt} ({no_bt/total*100:.1f}%)")
+          print(f"Missing yr : {no_yr} ({no_yr/total*100:.1f}%)")
+          EOF
+
+      - name: Commit and push enriched data
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "Roster Enrichment Bot"
+          git config user.email "roster-bot@users.noreply.github.com"
+          git add players.json COVERAGE_REPORT.md enrich_profiles_progress.json
+          git diff --staged --quiet && echo "Nothing changed — players already fully enriched." || (
+            git commit -m "Enrich player profiles $(date -u +%Y-%m-%d)" &&
+            git push origin ${{ github.ref_name }}
+          )
