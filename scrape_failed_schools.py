@@ -691,6 +691,15 @@ def main():
 
     print('\nDone.')
 
+    # Generate coverage report so gaps are visible on GitHub
+    try:
+        from generate_coverage_report import generate as gen_report
+        print("\nGenerating coverage report …")
+        gen_report(verbose=False)
+        print("Coverage report written to COVERAGE_REPORT.md")
+    except Exception as e:
+        print(f"(Coverage report skipped: {e})")
+
 
 if __name__ == '__main__':
     main()

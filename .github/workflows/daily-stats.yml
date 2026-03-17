@@ -36,6 +36,12 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}  # optional — remove if not using AI narratives
 
+      - name: Run ESPN stats scrape
+        run: python3 scrape_espn_stats.py
+
+      - name: Run WMT/fallback stats scrape
+        run: python3 scrape_wmt_stats.py
+
       - name: Commit and push updated stats
         run: |
           git config user.name "Stats Bot"

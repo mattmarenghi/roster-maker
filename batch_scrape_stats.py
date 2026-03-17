@@ -382,6 +382,15 @@ def phase_scrape(max_schools=None, refresh=False, workers=4):
         }, f, indent=2)
     print(f"\nReport saved to: {report_path}")
 
+    # Generate coverage report so gaps are visible on GitHub
+    try:
+        from generate_coverage_report import generate as gen_report
+        print("\nGenerating coverage report …")
+        gen_report(verbose=False)
+        print("Coverage report written to COVERAGE_REPORT.md")
+    except Exception as e:
+        print(f"(Coverage report skipped: {e})")
+
 
 def scrape_one(slug):
     """Scrape a single school by slug."""
