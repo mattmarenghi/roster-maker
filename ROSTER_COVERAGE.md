@@ -1,6 +1,6 @@
 # D1 Baseball Roster Coverage Report
 
-_Generated: 2026-03-17 21:26 UTC_
+_Generated: 2026-03-17 23:50 UTC_
 
 ## Summary
 
@@ -12,18 +12,18 @@ _Generated: 2026-03-17 21:26 UTC_
 | Median roster size | 38 players |
 | Smallest roster | 16 players |
 | Largest roster | 87 players |
-| Stable player IDs | 6,843 (67.2%) |
-| Unstable player IDs | 3,339 (32.8%) |
+| Stable player IDs | 6,943 (68.2%) |
+| Unstable player IDs | 3,239 (31.8%) |
 
 ## Roster Field Completeness (all 10,182 players)
 
 | Field | % Complete | Note |
 |-------|-----------|------|
 | `pos` | 98.5% | Position |
-| `bt` | 67.4% ⚠️ | Bats/Throws — key for scouting and ID stability |
-| `yr` | 81.2% | Class year |
-| `ht` | 89.4% | Height |
-| `wt` | 82.1% | Weight |
+| `bt` | 68.3% ⚠️ | Bats/Throws — key for scouting and ID stability |
+| `yr` | 85.0% | Class year |
+| `ht` | 92.9% | Height |
+| `wt` | 90.4% | Weight |
 | `hometown` | 94.2% | Hometown — used for stable player ID |
 
 ## Thin Rosters (< 25 players)
@@ -42,86 +42,55 @@ _Generated: 2026-03-17 21:26 UTC_
 | University of Illinois Urbana-Champaign | 74 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
 | Boston University | 56 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
 | La Salle University | 54 | `yr` (100%) |
-| Mercyhurst University | 49 | `bt` (100%), `ht` (51%), `wt` (100%) |
+| Mercyhurst University | 49 | `bt` (100%), `ht` (51%), `wt` (94%) |
 | University of Arizona | 48 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
 | Florida Gulf Coast University | 47 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
-| Duke University | 44 | `bt` (100%), `ht` (100%), `wt` (100%) |
 | University of Texas at San Antonio | 44 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%) |
 | Bryant University | 43 | `bt` (100%), `yr` (100%) |
 | Eastern Illinois University | 43 | `yr` (100%) |
 | Florida International University | 43 | `yr` (100%) |
 | Lamar University | 43 | `yr` (100%) |
-| Northwestern State University | 42 | `yr` (100%) |
-| California State University, Bakersfield | 41 | `bt` (100%), `ht` (100%), `wt` (100%) |
-| The University of Texas Rio Grande Valley | 41 | `yr` (100%) |
-| University of Arkansas, Pine Bluff | 41 | `bt` (100%), `wt` (100%) |
-| University of Florida | 41 | `yr` (100%) |
-| University of Portland | 41 | `ht` (100%), `wt` (100%) |
-| University of St. Thomas (Minnesota) | 41 | `bt` (100%), `ht` (100%), `wt` (100%) |
+| California State University, Bakersfield | 41 | `bt` (100%), `ht` (63%), `wt` (63%) |
+| University of Arkansas, Pine Bluff | 41 | `bt` (100%), `wt` (78%) |
 | College of the Holy Cross | 40 | `yr` (100%) |
 | Cornell University | 40 | `yr` (100%) |
-| Elon University | 40 | `yr` (100%) |
-| Lehigh University | 40 | `wt` (100%) |
-| University of California, San Diego | 40 | `bt` (100%), `wt` (100%) |
-| Utah Valley University | 40 | `yr` (100%) |
-| Merrimack College | 39 | `wt` (100%) |
-| Middle Tennessee State University | 39 | `bt` (100%), `ht` (100%), `wt` (100%) |
-| Mississippi Valley State University | 39 | `bt` (100%), `wt` (100%) |
-| Presbyterian College | 39 | `yr` (100%) |
-| Saint Mary's College of California | 39 | `bt` (100%), `wt` (100%) |
-| Stonehill College | 39 | `bt` (100%), `ht` (100%), `wt` (100%) |
-| University of North Alabama | 39 | `bt` (100%), `wt` (100%) |
-| University of the Incarnate Word | 39 | `bt` (100%), `wt` (100%) |
-| Wright State University | 39 | `bt` (100%), `ht` (100%), `wt` (100%) |
+| Middle Tennessee State University | 39 | `bt` (100%), `ht` (100%) |
+| University of the Incarnate Word | 39 | `bt` (100%), `wt` (92%) |
 | Wofford College | 39 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
-| Marist University | 38 | `bt` (100%), `wt` (100%) |
 | Pepperdine University | 38 | `yr` (100%) |
 | Queens University of Charlotte | 38 | `yr` (100%) |
 | Tarleton State University | 38 | `yr` (100%) |
-| University of Pittsburgh | 38 | `ht` (100%), `wt` (100%) |
 | Winthrop University | 38 | `yr` (100%) |
-| Youngstown State University | 38 | `yr` (100%) |
 | Alabama State University | 37 | `yr` (100%) |
-| California Baptist University | 37 | `bt` (100%), `ht` (100%), `wt` (100%) |
 | Fordham University | 37 | `yr` (100%) |
-| Illinois State University | 37 | `bt` (100%), `wt` (100%) |
-| Jackson State University | 37 | `bt` (100%), `hometown` (100%), `ht` (100%), `pos` (100%), `wt` (100%), `yr` (100%) |
+| Illinois State University | 37 | `bt` (100%), `wt` (62%) |
+| Jackson State University | 37 | `bt` (100%), `hometown` (100%), `ht` (65%), `pos` (100%), `wt` (65%), `yr` (100%) |
 | Purdue University | 37 | `yr` (100%) |
-| Radford University | 37 | `yr` (100%) |
-| Seton Hall University | 37 | `bt` (100%), `ht` (100%), `wt` (100%) |
 | Stony Brook University | 37 | `yr` (100%) |
 | The Ohio State University | 37 | `pos` (100%) |
-| The University of North Carolina at Greensboro | 37 | `bt` (100%), `hometown` (100%), `ht` (100%), `pos` (100%), `wt` (100%), `yr` (100%) |
+| The University of North Carolina at Greensboro | 37 | `bt` (100%), `hometown` (100%), `pos` (100%), `yr` (100%) |
 | Utah Tech University | 37 | `yr` (100%) |
 | Bethune-Cookman University | 36 | `yr` (100%) |
 | Brigham Young University | 36 | `bt` (64%), `wt` (100%) |
-| Northwestern University | 36 | `bt` (100%), `wt` (100%) |
-| Troy University | 36 | `bt` (100%), `ht` (100%), `wt` (100%) |
-| Delaware State University | 35 | `bt` (100%), `wt` (100%) |
-| Hofstra University | 35 | `yr` (100%) |
-| Long Island University | 35 | `bt` (100%), `wt` (100%) |
+| Troy University | 36 | `bt` (100%), `ht` (100%) |
+| Delaware State University | 35 | `bt` (100%), `wt` (51%) |
 | Norfolk State University | 35 | `yr` (100%) |
 | Northern Illinois University | 35 | `yr` (100%) |
-| University of Massachusetts Lowell | 35 | `bt` (100%), `wt` (100%) |
-| University of New Haven | 35 | `bt` (100%), `wt` (100%) |
+| University of Massachusetts Lowell | 35 | `bt` (100%), `wt` (54%) |
 | University of Pennsylvania | 35 | `yr` (100%) |
-| Alcorn State University | 34 | `yr` (100%) |
 | Austin Peay State University | 34 | `yr` (100%) |
 | Coastal Carolina University | 34 | `yr` (100%) |
 | Le Moyne College | 34 | `yr` (100%) |
 | Saint Joseph's University | 34 | `bt` (100%), `yr` (100%) |
 | University of Wisconsin-Milwaukee | 34 | `yr` (100%) |
-| Western Illinois University | 34 | `bt` (100%), `wt` (100%) |
 | Missouri State University | 33 | `yr` (100%) |
-| University of California, Riverside | 33 | `wt` (100%) |
 | George Mason University | 32 | `bt` (100%), `hometown` (100%), `ht` (100%), `pos` (100%), `wt` (100%), `yr` (100%) |
 | University of Texas at Arlington | 32 | `bt` (100%), `wt` (100%) |
-| Boise State University | 28 | `bt` (100%), `ht` (100%), `wt` (100%) |
 | Gardner-Webb University | 16 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
 
-### Missing `bt` (Bats/Throws) only — 40 schools
+### Missing `bt` (Bats/Throws) only — 54 schools
 
-These schools publish rosters without bats/throws data. Affects ~1,604 players and makes their IDs unstable if they transfer.
+These schools publish rosters without bats/throws data. Affects ~2,137 players and makes their IDs unstable if they transfer.
 
 | School | Players |
 |--------|---------|
@@ -133,6 +102,7 @@ These schools publish rosters without bats/throws data. Affects ~1,604 players a
 | The Citadel | 46 |
 | Charleston Southern University | 45 |
 | Wagner College | 45 |
+| Duke University | 44 |
 | University of New Mexico | 44 |
 | University of Southern Indiana | 44 |
 | Campbell University | 42 |
@@ -146,25 +116,38 @@ These schools publish rosters without bats/throws data. Affects ~1,604 players a
 | Clemson University | 40 |
 | Eastern Michigan University | 40 |
 | San Jose State University | 40 |
+| University of California, San Diego | 40 |
 | University of Kentucky | 40 |
 | Auburn University | 39 |
+| Mississippi Valley State University | 39 |
+| Saint Mary's College of California | 39 |
+| Stonehill College | 39 |
+| University of North Alabama | 39 |
+| Wright State University | 39 |
 | College of Charleston (South Carolina) | 38 |
+| Marist University | 38 |
 | New Jersey Institute of Technology | 38 |
 | North Carolina Central University | 38 |
 | Samford University | 38 |
 | University of Miami (Florida) | 38 |
+| California Baptist University | 37 |
 | Morehead State University | 37 |
+| Seton Hall University | 37 |
 | Southern Illinois University at Carbondale | 37 |
 | University of Delaware | 37 |
+| Northwestern University | 36 |
 | Jacksonville University | 35 |
+| Long Island University | 35 |
 | North Carolina A&T State University | 35 |
 | Rider University | 35 |
 | Towson University | 35 |
 | University of Alabama at Birmingham | 35 |
+| University of New Haven | 35 |
 | Lindenwood University | 34 |
 | St. Bonaventure University | 34 |
+| Western Illinois University | 34 |
 | Seattle University | 33 |
-| Temple University | 26 |
+| Boise State University | 28 |
 
 ## Schools with No Roster Scraped (107)
 
