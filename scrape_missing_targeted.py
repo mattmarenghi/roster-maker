@@ -15,7 +15,7 @@ Strategy order per school:
   5. parse_nuxt_roster (OAS Sports __NUXT_DATA__)
   6. parse_roster_list_items (simple li text parser)
   7. parse_sidearm_nextgen_api (REST API, tries multiple season formats)
-  8. scrape_espn_roster (last resort for redirect-blocked schools)
+  8. Playwright headless browser (Imperva/Cloudflare JS-challenge schools)
 """
 
 import csv
@@ -43,11 +43,12 @@ from scrape_d1_baseball import (
     normalize_url,
 )
 
-# Reuse Nuxt / list-item / ESPN helpers from the retry scraper
+# Reuse Nuxt / list-item / Playwright helpers from the retry scraper
 from scrape_failed_schools import (
     parse_nuxt_roster,
     parse_roster_list_items,
-    scrape_espn_roster,
+    fetch_with_playwright,
+    _PLAYWRIGHT_AVAILABLE,
 )
 
 CSV_PATH = '/home/user/roster-maker/d1_baseball_rosters_2026.csv'
@@ -59,45 +60,6 @@ COL_ORDER = [
     'class_year', 'height', 'weight', 'team', 'school', 'conference',
     'state', 'hometown', 'high_school',
 ]
-
-# ── Playwright availability check ─────────────────────────────────────────────
-try:
-    from playwright.sync_api import sync_playwright
-    _PLAYWRIGHT_AVAILABLE = True
-except ImportError:
-    _PLAYWRIGHT_AVAILABLE = False
-
-
-def fetch_with_playwright(url, wait_for='networkidle', timeout_ms=30000):
-    """
-    Fetch a page using a headless Chromium browser via Playwright.
-
-    This bypasses Imperva and Cloudflare JS challenges that defeat requests
-    and cloudscraper, because a real browser executes the challenge JS and
-    returns the cookies before following the redirect.
-
-    Returns (html_str, None) on success or (None, error_str) on failure.
-    Requires: pip install playwright && playwright install chromium
-    """
-    if not _PLAYWRIGHT_AVAILABLE:
-        return None, 'Playwright not installed'
-    try:
-        with sync_playwright() as pw:
-            browser = pw.chromium.launch(headless=True)
-            ctx = browser.new_context(
-                user_agent=(
-                    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                    'AppleWebKit/537.36 (KHTML, like Gecko) '
-                    'Chrome/121.0.0.0 Safari/537.36'
-                )
-            )
-            page = ctx.new_page()
-            page.goto(url, wait_until=wait_for, timeout=timeout_ms)
-            html = page.content()
-            browser.close()
-        return html, None
-    except Exception as e:
-        return None, str(e)
 
 
 def fetch_roster_page(url, use_cloudscraper=False):
@@ -234,8 +196,6 @@ def try_scrape(school_row, nickname=''):
       3. Playwright headless browser — executes Imperva/Cloudflare JS challenges;
          the right tool for schools like Gardner-Webb where the page IS there in a
          browser but requests/cloudscraper can't get past the JS wall
-      4. ESPN roster API — names + jersey + position only; last resort because ESPN
-         data can be stale (alumni) rather than the current D1 roster
     """
     base_url = school_row['base_url'].rstrip('/')
 
@@ -327,13 +287,6 @@ def try_scrape(school_row, nickname=''):
         else:
             print(f'    [Playwright failed: {pw_err}]')
 
-    # ── Attempt 4: ESPN — last resort ─────────────────────────────────────────
-    # ESPN data can be stale (alumni, not current D1 roster). Only use when
-    # every other strategy has failed. A thin or wrong ESPN result is still
-    # better than nothing for coverage, but flag it clearly.
-    espn_players = scrape_espn_roster(school_name, team_name, conference, state)
-    if espn_players:
-        return espn_players, f"OK via ESPN ({len(espn_players)} players) [verify roster accuracy]"
 
     return [], "No players parsed"
 
