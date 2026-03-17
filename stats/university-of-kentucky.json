@@ -8,327 +8,567 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "a180cd3e": {
       "id": "a180cd3e",
       "name": "Jaxon Jelkin",
-      "num": "0",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": ""
+      "num": "0",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "04681048": {
       "id": "04681048",
       "name": "Caeden Cloud",
-      "num": "1",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Freshman",
-      "bt": ""
+      "num": "1",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "411b2bc1": {
       "id": "411b2bc1",
       "name": "Tyler Cerny",
-      "num": "2",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Senior",
-      "bt": ""
+      "num": "2",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5f48c121": {
       "id": "5f48c121",
       "name": "Will Marcy",
-      "num": "3",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Senior",
-      "bt": ""
+      "num": "3",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "987dc876": {
       "id": "987dc876",
       "name": "Alex Duffey",
-      "num": "4",
+      "fn": "",
+      "ln": "",
       "pos": "C/UT",
       "yr": "Senior",
-      "bt": ""
+      "num": "4",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "62af4be9": {
       "id": "62af4be9",
       "name": "Jack Bennett",
-      "num": "5",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Senior",
-      "bt": ""
+      "num": "5",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3f1699b5": {
       "id": "3f1699b5",
       "name": "Tyler Bell",
-      "num": "6",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "6",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2c43c77f": {
       "id": "2c43c77f",
       "name": "Toby Peterson",
-      "num": "7",
+      "fn": "",
+      "ln": "",
       "pos": "LHP/UT",
       "yr": "Freshman",
-      "bt": ""
+      "num": "7",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1ab75ae3": {
       "id": "1ab75ae3",
       "name": "Nile Adcock",
-      "num": "8",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Senior",
-      "bt": ""
+      "num": "8",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6ea394da": {
       "id": "6ea394da",
       "name": "Ethan Hindle",
-      "num": "9",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Junior",
-      "bt": ""
+      "num": "9",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "aaba09ea": {
       "id": "aaba09ea",
       "name": "Luke Lawrence",
-      "num": "10",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Senior",
-      "bt": ""
+      "num": "10",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "139284d0": {
       "id": "139284d0",
       "name": "Scott Campbell Jr.",
-      "num": "11",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Senior",
-      "bt": ""
+      "num": "11",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0155b29a": {
       "id": "0155b29a",
       "name": "Connor Mattison",
-      "num": "12",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": ""
+      "num": "12",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "57f85229": {
       "id": "57f85229",
       "name": "Tagger Tyson",
-      "num": "13",
+      "fn": "",
+      "ln": "",
       "pos": "C/UT",
       "yr": "Junior",
-      "bt": ""
+      "num": "13",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6d13ca95": {
       "id": "6d13ca95",
       "name": "Ira Austin IV",
-      "num": "16",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Senior",
-      "bt": ""
+      "num": "16",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "578980ef": {
       "id": "578980ef",
       "name": "Cameron Owens",
-      "num": "17",
+      "fn": "",
+      "ln": "",
       "pos": "RHP/INF",
       "yr": "Redshirt Freshman",
-      "bt": ""
+      "num": "17",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d6c14968": {
       "id": "d6c14968",
       "name": "Jack Sams",
-      "num": "19",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Freshman",
-      "bt": ""
+      "num": "19",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "87dd5046": {
       "id": "87dd5046",
       "name": "Tommy Skelding",
-      "num": "20",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Redshirt Sophomore",
-      "bt": ""
+      "num": "20",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "456f033a": {
       "id": "456f033a",
       "name": "Chase Alderman",
-      "num": "21",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Redshirt Sophomore",
-      "bt": ""
+      "num": "21",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "089b6009": {
       "id": "089b6009",
       "name": "Burkley Bounds",
-      "num": "22",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "22",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a62c7bb0": {
       "id": "a62c7bb0",
       "name": "Hudson Brown",
-      "num": "23",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Redshirt Sophomore",
-      "bt": ""
+      "num": "23",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4cc909c7": {
       "id": "4cc909c7",
       "name": "Braxton Van Cleave",
-      "num": "24",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Freshman",
-      "bt": ""
+      "num": "24",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9ac5ee2c": {
       "id": "9ac5ee2c",
       "name": "Ryan Schwartz",
-      "num": "25",
+      "fn": "",
+      "ln": "",
       "pos": "OF/C",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "25",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f2856b50": {
       "id": "f2856b50",
       "name": "Lucas Hail",
-      "num": "28",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Freshman",
-      "bt": ""
+      "num": "28",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "16fbe7ab": {
       "id": "16fbe7ab",
       "name": "Owen Jenkins",
-      "num": "29",
+      "fn": "",
+      "ln": "",
       "pos": "C/UT",
       "yr": "Freshman",
-      "bt": ""
+      "num": "29",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "911cb981": {
       "id": "911cb981",
       "name": "Bryson Treichel",
-      "num": "30",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "30",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "119b119a": {
       "id": "119b119a",
       "name": "Oliver Boone",
-      "num": "31",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Redshirt Sophomore",
-      "bt": ""
+      "num": "31",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cabedac4": {
       "id": "cabedac4",
       "name": "Ryan Foscolo",
-      "num": "33",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Freshman",
-      "bt": ""
+      "num": "33",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5369ba53": {
       "id": "5369ba53",
       "name": "Carson Hansen",
-      "num": "34",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Senior",
-      "bt": ""
+      "num": "34",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cb138794": {
       "id": "cb138794",
       "name": "Jackson Soucie",
-      "num": "35",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Senior",
-      "bt": ""
+      "num": "35",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "bd78ad0a": {
       "id": "bd78ad0a",
       "name": "Nate Harris",
-      "num": "36",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "36",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "75c96a32": {
       "id": "75c96a32",
       "name": "Jayce Tharnish",
-      "num": "37",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Junior",
-      "bt": ""
+      "num": "37",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0279421d": {
       "id": "0279421d",
       "name": "Ryan Mullan",
-      "num": "38",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": ""
+      "num": "38",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "91de470f": {
       "id": "91de470f",
       "name": "Maxime Boies",
-      "num": "41",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Freshman",
-      "bt": ""
+      "num": "41",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "42497da5": {
       "id": "42497da5",
       "name": "Michael Gardner",
-      "num": "44",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Freshman",
-      "bt": ""
+      "num": "44",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3d11e208": {
       "id": "3d11e208",
       "name": "Leighton Harris",
-      "num": "45",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "45",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6a0c9773": {
       "id": "6a0c9773",
       "name": "Will Coleman",
-      "num": "47",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Freshman",
-      "bt": ""
+      "num": "47",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "35ff25d2": {
       "id": "35ff25d2",
       "name": "Ben Cleaver",
-      "num": "48",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Junior",
-      "bt": ""
+      "num": "48",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8c2718c4": {
       "id": "8c2718c4",
       "name": "Tristan Hunter",
-      "num": "49",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "49",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f411145f": {
       "id": "f411145f",
       "name": "Will Pryor",
-      "num": "50",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": ""
+      "num": "50",
+      "school": "University of Kentucky",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

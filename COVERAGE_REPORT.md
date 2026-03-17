@@ -1,6 +1,6 @@
 # D1 Baseball Coverage Report
 
-_Generated: 2026-03-17 15:23 UTC_
+_Generated: 2026-03-17 15:26 UTC_
 
 ## Summary
 
@@ -181,8 +181,8 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 | Schools with stats scraped | 260 |
 | Compatible but not yet scraped | 8 |
 | Incompatible (no Sidearm stats) | 41 |
-| Scraped — missing batting stats | 15 |
-| Scraped — missing pitching stats | 15 |
+| Scraped — missing batting stats | 0 |
+| Scraped — missing pitching stats | 0 |
 | Scraped — missing game recap | 158 |
 | Scraped — missing season record | 0 |
 
@@ -196,24 +196,6 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - Temple University
 - U.S. Military Academy
 - University at Buffalo, the State University of New York
-
-### Scraped but missing batting stats (15)
-
-- Central Connecticut State University
-- Florida Gulf Coast University
-- Gardner-Webb University
-- Georgia Institute of Technology
-- Louisiana State University
-- Tennessee Technological University
-- University of Arizona
-- University of Illinois Urbana-Champaign
-- University of Kentucky
-- University of Miami (Florida)
-- University of Notre Dame
-- University of San Francisco
-- University of South Carolina, Columbia
-- Vanderbilt University
-- Wofford College
 
 ### Scraped but missing game recaps (158)
 

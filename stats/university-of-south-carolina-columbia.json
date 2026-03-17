@@ -8,303 +8,525 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "5b82e30c": {
       "id": "5b82e30c",
       "name": "Logan Sutter",
-      "num": "0",
+      "fn": "",
+      "ln": "",
       "pos": "Infielder",
       "yr": "Fifth Year",
-      "bt": "R/R"
+      "num": "0",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2e54e624": {
       "id": "2e54e624",
       "name": "Brandon Cromer",
-      "num": "2",
+      "fn": "",
+      "ln": "",
       "pos": "Outfielder/Left Handed Pitcher",
       "yr": "Freshman",
-      "bt": "R/L"
+      "num": "2",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ddffac1d": {
       "id": "ddffac1d",
       "name": "Patrick Evans",
-      "num": "3",
+      "fn": "",
+      "ln": "",
       "pos": "Infielder",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "3",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ac881e51": {
       "id": "ac881e51",
       "name": "Erik Parker",
-      "num": "4",
+      "fn": "",
+      "ln": "",
       "pos": "Infielder",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "4",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e725b93b": {
       "id": "e725b93b",
       "name": "Talmadge LeCroy",
-      "num": "5",
+      "fn": "",
+      "ln": "",
       "pos": "Catcher",
       "yr": "Fifth Year",
-      "bt": "R/R"
+      "num": "5",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9369caa5": {
       "id": "9369caa5",
       "name": "Bradley Hodges",
-      "num": "6",
+      "fn": "",
+      "ln": "",
       "pos": "Left Handed Pitcher",
       "yr": "Junior",
-      "bt": "L/L"
+      "num": "6",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "44b46b75": {
       "id": "44b46b75",
       "name": "Alex Valentin",
-      "num": "7",
+      "fn": "",
+      "ln": "",
       "pos": "Left Handed Pitcher",
       "yr": "Junior",
-      "bt": "L/L"
+      "num": "7",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "520d376e": {
       "id": "520d376e",
       "name": "Jack Reynolds",
-      "num": "8",
+      "fn": "",
+      "ln": "",
       "pos": "Infielder",
       "yr": "Redshirt Junior",
-      "bt": "L/R"
+      "num": "8",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2579e4ca": {
       "id": "2579e4ca",
       "name": "Will Craddock",
-      "num": "9",
+      "fn": "",
+      "ln": "",
       "pos": "Infielder",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "9",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b9d54b8a": {
       "id": "b9d54b8a",
       "name": "Alex Philpott",
-      "num": "11",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "11",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d5dce0df": {
       "id": "d5dce0df",
       "name": "Ethan Lizama",
-      "num": "12",
+      "fn": "",
+      "ln": "",
       "pos": "Outfielder",
       "yr": "Senior",
-      "bt": "L/L"
+      "num": "12",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0c7fc468": {
       "id": "0c7fc468",
       "name": "Amp Phillips",
-      "num": "13",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "13",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7ed04409": {
       "id": "7ed04409",
       "name": "Caleb Hoover",
-      "num": "14",
+      "fn": "",
+      "ln": "",
       "pos": "Outfielder/First Base",
       "yr": "Sophomore",
-      "bt": "L/R"
+      "num": "14",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9fbbbfcc": {
       "id": "9fbbbfcc",
       "name": "Beau Hollins",
-      "num": "15",
+      "fn": "",
+      "ln": "",
       "pos": "First Base",
       "yr": "Sophomore",
-      "bt": "B/L"
+      "num": "15",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "afaa78ac": {
       "id": "afaa78ac",
       "name": "Patrick Dudley",
-      "num": "16",
+      "fn": "",
+      "ln": "",
       "pos": "Left Handed Pitcher",
       "yr": "Freshman",
-      "bt": "R/L"
+      "num": "16",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1f15b209": {
       "id": "1f15b209",
       "name": "Tyler Bak",
-      "num": "17",
+      "fn": "",
+      "ln": "",
       "pos": "Outfielder",
       "yr": "Junior",
-      "bt": "L/L"
+      "num": "17",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "daa1cb96": {
       "id": "daa1cb96",
       "name": "Aaron Jamison",
-      "num": "18",
+      "fn": "",
+      "ln": "",
       "pos": "Outfielder",
       "yr": "Junior",
-      "bt": "L/L"
+      "num": "18",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3aa1db1d": {
       "id": "3aa1db1d",
       "name": "KJ Scobey",
-      "num": "19",
+      "fn": "",
+      "ln": "",
       "pos": "Infielder",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "19",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "239cfbfc": {
       "id": "239cfbfc",
       "name": "Elijah Foster",
-      "num": "20",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "20",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "720c8dcc": {
       "id": "720c8dcc",
       "name": "Jake Randolph",
-      "num": "21",
+      "fn": "",
+      "ln": "",
       "pos": "Catcher",
       "yr": "Senior",
-      "bt": "R/R"
+      "num": "21",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "508a737c": {
       "id": "508a737c",
       "name": "Reese Moore",
-      "num": "22",
+      "fn": "",
+      "ln": "",
       "pos": "Catcher",
       "yr": "Junior",
-      "bt": "L/R"
+      "num": "22",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6f57a083": {
       "id": "6f57a083",
       "name": "Jake McCoy",
-      "num": "23",
+      "fn": "",
+      "ln": "",
       "pos": "Left Handed Pitcher",
       "yr": "Junior",
-      "bt": "L/L"
+      "num": "23",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f7369abc": {
       "id": "f7369abc",
       "name": "Josh Gunther",
-      "num": "24",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "24",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4c408918": {
       "id": "4c408918",
       "name": "Zach Russell",
-      "num": "27",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "27",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c9d97bfc": {
       "id": "c9d97bfc",
       "name": "Hudson Lee",
-      "num": "28",
+      "fn": "",
+      "ln": "",
       "pos": "Left Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/L"
+      "num": "28",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e42d08b6": {
       "id": "e42d08b6",
       "name": "Cullen Horowicz",
-      "num": "29",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Senior",
-      "bt": "R/R"
+      "num": "29",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cb9f6334": {
       "id": "cb9f6334",
       "name": "Dawson Harman",
-      "num": "30",
+      "fn": "",
+      "ln": "",
       "pos": "Infielder",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "30",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "886f5b0e": {
       "id": "886f5b0e",
       "name": "Brandon Stone",
-      "num": "32",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "32",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "79042358": {
       "id": "79042358",
       "name": "Luke Yuhasz",
-      "num": "34",
+      "fn": "",
+      "ln": "",
       "pos": "Outfielder",
       "yr": "Senior",
-      "bt": "R/R"
+      "num": "34",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b4b04f5d": {
       "id": "b4b04f5d",
       "name": "Logan Prisco",
-      "num": "35",
+      "fn": "",
+      "ln": "",
       "pos": "Left Handed Pitcher",
       "yr": "Sophomore",
-      "bt": "L/L"
+      "num": "35",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a91dcf65": {
       "id": "a91dcf65",
       "name": "Bryce Navarre",
-      "num": "37",
+      "fn": "",
+      "ln": "",
       "pos": "Left Handed Pitcher",
       "yr": "Sophomore",
-      "bt": "L/L"
+      "num": "37",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "eac9419b": {
       "id": "eac9419b",
       "name": "Riley Goodman",
-      "num": "39",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Redshirt Freshman",
-      "bt": "R/R"
+      "num": "39",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6dcf75f6": {
       "id": "6dcf75f6",
       "name": "Gavin Braland",
-      "num": "40",
+      "fn": "",
+      "ln": "",
       "pos": "Catcher",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "40",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a4c7b486": {
       "id": "a4c7b486",
       "name": "Cooper Parks",
-      "num": "41",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "41",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7dd96eb7": {
       "id": "7dd96eb7",
       "name": "Parker Marlatt",
-      "num": "44",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "44",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a4cf3cfd": {
       "id": "a4cf3cfd",
       "name": "Connor Chicoli",
-      "num": "45",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "45",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "df5380ed": {
       "id": "df5380ed",
       "name": "Josh Gregoire",
-      "num": "47",
+      "fn": "",
+      "ln": "",
       "pos": "Right Handed Pitcher",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "47",
+      "school": "University of South Carolina, Columbia",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

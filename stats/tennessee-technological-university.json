@@ -8,287 +8,497 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "9d5d904c": {
       "id": "9d5d904c",
       "name": "Jaxon Jones",
-      "num": "No.:1",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:UTL",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:L/R"
+      "num": "No.:1",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "31aa739c": {
       "id": "31aa739c",
       "name": "Carter Casabella",
-      "num": "No.:2",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "No.:2",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d166d1a2": {
       "id": "d166d1a2",
       "name": "Jackson Rooker",
-      "num": "No.:3",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:OF",
       "yr": "Cl.:R-So.",
-      "bt": "B/T:S/R"
+      "num": "No.:3",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "41b81bc7": {
       "id": "41b81bc7",
       "name": "Manny Garza",
-      "num": "No.:4",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:C",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:S/R"
+      "num": "No.:4",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4ee5a4c0": {
       "id": "4ee5a4c0",
       "name": "Luke Bragga",
-      "num": "No.:5",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:OF",
       "yr": "Cl.:R-So.",
-      "bt": "B/T:L/R"
+      "num": "No.:5",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0137adfd": {
       "id": "0137adfd",
       "name": "Cade Fuller",
-      "num": "No.:6",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:INF",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "No.:6",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "53c02193": {
       "id": "53c02193",
       "name": "Eddie Garza",
-      "num": "No.:7",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:INF",
       "yr": "Cl.:RS Sr.",
-      "bt": "B/T:R/R"
+      "num": "No.:7",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a62c31c5": {
       "id": "a62c31c5",
       "name": "Reece McDuffie",
-      "num": "No.:8",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "No.:8",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6d03a07a": {
       "id": "6d03a07a",
       "name": "Alex Kuntz",
-      "num": "No.:9",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:LHP",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:L/L"
+      "num": "No.:9",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ec8cf5cf": {
       "id": "ec8cf5cf",
       "name": "Connor Crowson",
-      "num": "No.:10",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:INF",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "No.:10",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c83829d8": {
       "id": "c83829d8",
       "name": "Owen Lee",
-      "num": "No.:11",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:INF",
       "yr": "Cl.:R-So.",
-      "bt": "B/T:L/R"
+      "num": "No.:11",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d4440e32": {
       "id": "d4440e32",
       "name": "AJ Marchetti",
-      "num": "No.:12",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:C",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "No.:12",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "318cce02": {
       "id": "318cce02",
       "name": "Jorsixt Jimenez",
-      "num": "No.:13",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:OF",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "No.:13",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "299b392a": {
       "id": "299b392a",
       "name": "Justin Fallon",
-      "num": "No.:14",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:OF",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:L/R"
+      "num": "No.:14",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "610f3704": {
       "id": "610f3704",
       "name": "Ty Denton",
-      "num": "No.:15",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:C",
       "yr": "Cl.:RS. So.",
-      "bt": "B/T:R/R"
+      "num": "No.:15",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "972e9358": {
       "id": "972e9358",
       "name": "Lawson Stricklin",
-      "num": "No.:16",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:UTL",
       "yr": "Cl.:R-Jr.",
-      "bt": "B/T:R/R"
+      "num": "No.:16",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "43685eab": {
       "id": "43685eab",
       "name": "Braxton Lewis",
-      "num": "No.:17",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "No.:17",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d9b7452e": {
       "id": "d9b7452e",
       "name": "Landon Smelser",
-      "num": "No.:19",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:OF",
       "yr": "Cl.:So.",
-      "bt": "B/T:L/L"
+      "num": "No.:19",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8ad65f6b": {
       "id": "8ad65f6b",
       "name": "Carson Davis",
-      "num": "No.:20",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "No.:20",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "23f50d4e": {
       "id": "23f50d4e",
       "name": "Jamie Robertson",
-      "num": "No.:22",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "No.:22",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "330d4d23": {
       "id": "330d4d23",
       "name": "Drew Kirby",
-      "num": "No.:23",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:RS So.",
-      "bt": "B/T:R/R"
+      "num": "No.:23",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7e718142": {
       "id": "7e718142",
       "name": "Drew Mattox",
-      "num": "No.:24",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "No.:24",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "17ae4946": {
       "id": "17ae4946",
       "name": "Logan Moller",
-      "num": "No.:25",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "No.:25",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "86703f29": {
       "id": "86703f29",
       "name": "Eli Huddleston",
-      "num": "No.:28",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:LHP",
       "yr": "Cl.:R-So.",
-      "bt": "B/T:L/L"
+      "num": "No.:28",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "08f73315": {
       "id": "08f73315",
       "name": "Nash Crowell",
-      "num": "No.:30",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:INF",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "No.:30",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "73f95a6f": {
       "id": "73f95a6f",
       "name": "Micah Summar",
-      "num": "No.:32",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:LHP",
       "yr": "Cl.:So.",
-      "bt": "B/T:L/L"
+      "num": "No.:32",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1d02b727": {
       "id": "1d02b727",
       "name": "Tyler Bennett",
-      "num": "No.:33",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:INF",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "No.:33",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cebfce07": {
       "id": "cebfce07",
       "name": "Jayden Dillard",
-      "num": "No.:34",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "No.:34",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "41db9af9": {
       "id": "41db9af9",
       "name": "Ty Barnett",
-      "num": "No.:35",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:LHP",
       "yr": "Cl.:So.",
-      "bt": "B/T:L/L"
+      "num": "No.:35",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "34939e81": {
       "id": "34939e81",
       "name": "Garrett Holpuch",
-      "num": "No.:36",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "No.:36",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ef036fa9": {
       "id": "ef036fa9",
       "name": "Jaxson Pease",
-      "num": "No.:40",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "No.:40",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "bc7e0b5d": {
       "id": "bc7e0b5d",
       "name": "Jaxon Pridgen",
-      "num": "No.:42",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "No.:42",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "98bfb744": {
       "id": "98bfb744",
       "name": "Aaron Moffitt",
-      "num": "No.:43",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:INF",
       "yr": "Cl.:R-So.",
-      "bt": "B/T:S/R"
+      "num": "No.:43",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d1afd0e6": {
       "id": "d1afd0e6",
       "name": "Cooper Casteel",
-      "num": "No.:44",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:LHP",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:L/L"
+      "num": "No.:44",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c598bd57": {
       "id": "c598bd57",
       "name": "Carson Parrott",
-      "num": "No.:50",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:RHP",
       "yr": "Cl.:R-Fr.",
-      "bt": "B/T:R/R"
+      "num": "No.:50",
+      "school": "Tennessee Technological University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

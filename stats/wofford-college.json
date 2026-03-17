@@ -8,319 +8,553 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "c805a8a4": {
       "id": "c805a8a4",
       "name": "Jordan Accetta",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "155f364b": {
       "id": "155f364b",
       "name": "Connell Anderson",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "809de44a": {
       "id": "809de44a",
       "name": "McClain Bradley",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "21c653b0": {
       "id": "21c653b0",
       "name": "Grant Byers",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "156ae335": {
       "id": "156ae335",
       "name": "Pete Carrier",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f57f9c89": {
       "id": "f57f9c89",
       "name": "John Caskey",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0350875e": {
       "id": "0350875e",
       "name": "Conor Clancey",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ece4f033": {
       "id": "ece4f033",
       "name": "Jacob Condra-Bogan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "70ba3a81": {
       "id": "70ba3a81",
       "name": "Colin Davis",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f191f32e": {
       "id": "f191f32e",
       "name": "David Ehmen",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "714fc85e": {
       "id": "714fc85e",
       "name": "Will Fuqua",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f69b2f29": {
       "id": "f69b2f29",
       "name": "Lawson Hill",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "45a1dfbe": {
       "id": "45a1dfbe",
       "name": "Derek Hirsch",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "60240a12": {
       "id": "60240a12",
       "name": "Merritt Huber",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2115526d": {
       "id": "2115526d",
       "name": "Demetrius Jennings",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c61590e8": {
       "id": "c61590e8",
       "name": "Spencer Kulman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "11515226": {
       "id": "11515226",
       "name": "Elliot Lance",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "95a2f46b": {
       "id": "95a2f46b",
       "name": "Alex Malsch",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "83426dd4": {
       "id": "83426dd4",
       "name": "Reece Maniscalco",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d60e9e81": {
       "id": "d60e9e81",
       "name": "Dylan May",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c3e2c48b": {
       "id": "c3e2c48b",
       "name": "Max McDougald",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7da6998c": {
       "id": "7da6998c",
       "name": "Tyler Mcguigan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "982670f9": {
       "id": "982670f9",
       "name": "Matthew Milburn",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "152cf05c": {
       "id": "152cf05c",
       "name": "Cody Miller",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "490bb6fb": {
       "id": "490bb6fb",
       "name": "Mack Nathanson",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "241e222d": {
       "id": "241e222d",
       "name": "Andrew Orzel",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "394f9614": {
       "id": "394f9614",
       "name": "Alec Paradowski",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f44be73e": {
       "id": "f44be73e",
       "name": "Matt Pelt",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2590e6b7": {
       "id": "2590e6b7",
       "name": "Quintin Pile",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "611ac920": {
       "id": "611ac920",
       "name": "James Plaisted",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "929096bf": {
       "id": "929096bf",
       "name": "Matt Ramsay",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3901e7d3": {
       "id": "3901e7d3",
       "name": "Brett Rodriguez",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a60876ad": {
       "id": "a60876ad",
       "name": "Kody Ruedisili",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "07067d88": {
       "id": "07067d88",
       "name": "Clay Schwaner",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cb382456": {
       "id": "cb382456",
       "name": "Adam Scott",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3727c4b4": {
       "id": "3727c4b4",
       "name": "Chris Sheehan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3d33bd95": {
       "id": "3d33bd95",
       "name": "Will Stillman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a71d40bf": {
       "id": "a71d40bf",
       "name": "Carson Waln",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "64322aba": {
       "id": "64322aba",
       "name": "Trace Witt",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Wofford College",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

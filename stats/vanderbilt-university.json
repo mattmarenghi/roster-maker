@@ -8,319 +8,553 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "1864b79d": {
       "id": "1864b79d",
       "name": "Logan Johnstone",
-      "num": "2",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Graduate",
-      "bt": "L/R"
+      "num": "2",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "367309f3": {
       "id": "367309f3",
       "name": "Carter Johnstone",
-      "num": "3",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Sophomore",
-      "bt": "L/R"
+      "num": "3",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "dc1d4e00": {
       "id": "dc1d4e00",
       "name": "Mike Mancini",
-      "num": "5",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Senior",
-      "bt": "L/R"
+      "num": "5",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3fd4a318": {
       "id": "3fd4a318",
       "name": "Chris Maldonado",
-      "num": "8",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Senior",
-      "bt": "R/R"
+      "num": "8",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0bf94482": {
       "id": "0bf94482",
       "name": "Brodie Johnston",
-      "num": "9",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "9",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ab6d1ac5": {
       "id": "ab6d1ac5",
       "name": "Carson Quillen",
-      "num": "10",
+      "fn": "",
+      "ln": "",
       "pos": "UTL",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "10",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7df24c0e": {
       "id": "7df24c0e",
       "name": "Korbin Reynolds",
-      "num": "18",
+      "fn": "",
+      "ln": "",
       "pos": "C",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "18",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4cd7e885": {
       "id": "4cd7e885",
       "name": "Rustan Rigdon",
-      "num": "19",
+      "fn": "",
+      "ln": "",
       "pos": "UTL",
       "yr": "Sophomore",
-      "bt": "S/R"
+      "num": "19",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f35c9abc": {
       "id": "f35c9abc",
       "name": "Cade Sears",
-      "num": "20",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Sophomore",
-      "bt": "L/R"
+      "num": "20",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "49ffd4af": {
       "id": "49ffd4af",
       "name": "Hudson Barton",
-      "num": "21",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "21",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cbe01d95": {
       "id": "cbe01d95",
       "name": "Mack Whitcomb",
-      "num": "25",
+      "fn": "",
+      "ln": "",
       "pos": "C",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "25",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a56a2b1d": {
       "id": "a56a2b1d",
       "name": "Braden Holcomb",
-      "num": "26",
+      "fn": "",
+      "ln": "",
       "pos": "UTL",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "26",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e7915e8f": {
       "id": "e7915e8f",
       "name": "Will Hampton",
-      "num": "28",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Sophomore",
-      "bt": "L/L"
+      "num": "28",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c23851ee": {
       "id": "c23851ee",
       "name": "Aiden Stillman",
-      "num": "30",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Freshman",
-      "bt": "R/L"
+      "num": "30",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "28d035b1": {
       "id": "28d035b1",
       "name": "Nate Schlote",
-      "num": "32",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "32",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "fc0e24f0": {
       "id": "fc0e24f0",
       "name": "Luke Guth",
-      "num": "33",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "33",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9a647806": {
       "id": "9a647806",
       "name": "Brennan Seiber",
-      "num": "34",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "34",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "20ad4e78": {
       "id": "20ad4e78",
       "name": "Jacob Faulkner",
-      "num": "36",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Graduate",
-      "bt": "R/R"
+      "num": "36",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "29416b2c": {
       "id": "29416b2c",
       "name": "Jakob Schulz",
-      "num": "37",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Junior",
-      "bt": "R/L"
+      "num": "37",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d0826803": {
       "id": "d0826803",
       "name": "Connor Fennell",
-      "num": "39",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "39",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "35a77a97": {
       "id": "35a77a97",
       "name": "Austin Nye",
-      "num": "40",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "40",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "48728cff": {
       "id": "48728cff",
       "name": "Collin Brightwell",
-      "num": "42",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Freshman",
-      "bt": "S/R"
+      "num": "42",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "bf6d0dcb": {
       "id": "bf6d0dcb",
       "name": "Matthew Shorey",
-      "num": "43",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Sophomore",
-      "bt": "L/L"
+      "num": "43",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2ab7fc08": {
       "id": "2ab7fc08",
       "name": "Colin Barczi",
-      "num": "44",
+      "fn": "",
+      "ln": "",
       "pos": "C",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "44",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a92c26bd": {
       "id": "a92c26bd",
       "name": "Connor Hamilton",
-      "num": "45",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "45",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "79d8d423": {
       "id": "79d8d423",
       "name": "Tyler Baird",
-      "num": "46",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "46",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b5e37436": {
       "id": "b5e37436",
       "name": "Tommy Goodin",
-      "num": "47",
+      "fn": "",
+      "ln": "",
       "pos": "OF",
       "yr": "Sophomore",
-      "bt": "L/R"
+      "num": "47",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "16c4e6d8": {
       "id": "16c4e6d8",
       "name": "Aukai Kea",
-      "num": "50",
+      "fn": "",
+      "ln": "",
       "pos": "C",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "50",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1f6ce459": {
       "id": "1f6ce459",
       "name": "Ryker Waite",
-      "num": "51",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Sophomore",
-      "bt": "S/R"
+      "num": "51",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f29a6323": {
       "id": "f29a6323",
       "name": "Max Jensen",
-      "num": "55",
+      "fn": "",
+      "ln": "",
       "pos": "INF",
       "yr": "Graduate",
-      "bt": "L/R"
+      "num": "55",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ae390881": {
       "id": "ae390881",
       "name": "Deegan Cordova",
-      "num": "66",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "66",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "898da9f6": {
       "id": "898da9f6",
       "name": "Tristan Bristow",
-      "num": "70",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "70",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3ae3a820": {
       "id": "3ae3a820",
       "name": "Alex Kranzler",
-      "num": "77",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "77",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2352b41c": {
       "id": "2352b41c",
       "name": "Nate Taylor",
-      "num": "80",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "80",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9f0c4ac7": {
       "id": "9f0c4ac7",
       "name": "Wyatt Nadeau",
-      "num": "88",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "88",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1a2351f0": {
       "id": "1a2351f0",
       "name": "Miller Green",
-      "num": "90",
+      "fn": "",
+      "ln": "",
       "pos": "LHP",
       "yr": "Junior",
-      "bt": "L/L"
+      "num": "90",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "da478da9": {
       "id": "da478da9",
       "name": "Adria Casoliba",
-      "num": "92",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Freshman",
-      "bt": "R/R"
+      "num": "92",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9351310c": {
       "id": "9351310c",
       "name": "Nate Teague",
-      "num": "96",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Junior",
-      "bt": "R/R"
+      "num": "96",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "be6c78f1": {
       "id": "be6c78f1",
       "name": "England Bryan",
-      "num": "99",
+      "fn": "",
+      "ln": "",
       "pos": "RHP",
       "yr": "Sophomore",
-      "bt": "R/R"
+      "num": "99",
+      "school": "Vanderbilt University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

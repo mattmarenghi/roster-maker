@@ -8,703 +8,1225 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "ec38a8d3": {
       "id": "ec38a8d3",
       "name": "Chase Adkins",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c257ad82": {
       "id": "c257ad82",
       "name": "Addison Albright",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a2b1b7da": {
       "id": "a2b1b7da",
       "name": "Ryan (P) Avidano",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "58efe517": {
       "id": "58efe517",
       "name": "Mike Bell",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cba7ba21": {
       "id": "cba7ba21",
       "name": "Austin Biggar",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "00a737f9": {
       "id": "00a737f9",
       "name": "Zach Bowers",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "bd871476": {
       "id": "bd871476",
       "name": "Zack Bowers",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5b99e746": {
       "id": "5b99e746",
       "name": "Tucker Bradley",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "141bbef4": {
       "id": "141bbef4",
       "name": "Tucker (P) Bradley",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "be3f7106": {
       "id": "be3f7106",
       "name": "Blakely Brown",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ffe3abb3": {
       "id": "ffe3abb3",
       "name": "Morgan Bunting",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a9e81c8d": {
       "id": "a9e81c8d",
       "name": "John Cable",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7499f149": {
       "id": "7499f149",
       "name": "Blake Cairnes",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f5dd9ccc": {
       "id": "f5dd9ccc",
       "name": "Will Campbell",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5ad2f2ea": {
       "id": "5ad2f2ea",
       "name": "Jared Cheek",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9548db33": {
       "id": "9548db33",
       "name": "Michael Curry",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a65b7954": {
       "id": "a65b7954",
       "name": "Josh Day",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "18c23bcf": {
       "id": "18c23bcf",
       "name": "Tim (H) Elliott",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c180283b": {
       "id": "c180283b",
       "name": "Tim (P) Elliott",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "06db593c": {
       "id": "06db593c",
       "name": "Max Ford",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0a5c8ead": {
       "id": "0a5c8ead",
       "name": "Andrew Gist",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ce442372": {
       "id": "ce442372",
       "name": "Justin (H) Glover",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cc53cc61": {
       "id": "cc53cc61",
       "name": "Justin (P) Glover",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6e3f5a96": {
       "id": "6e3f5a96",
       "name": "Adam (H) Goodman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e838d0e7": {
       "id": "e838d0e7",
       "name": "Adam (P) Goodman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e00642a8": {
       "id": "e00642a8",
       "name": "Jack Gowen",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7f48b5ac": {
       "id": "7f48b5ac",
       "name": "Blake Hamilton",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8420d43c": {
       "id": "8420d43c",
       "name": "Emerson Hancock",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b4c213e4": {
       "id": "b4c213e4",
       "name": "Emerson (P) Hancock",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "aec206d9": {
       "id": "aec206d9",
       "name": "Taylor Hicks",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "62b814ad": {
       "id": "62b814ad",
       "name": "Heath Holder",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a12fa8c9": {
       "id": "a12fa8c9",
       "name": "Randon Jernigan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e1b60367": {
       "id": "e1b60367",
       "name": "Ivan Johnson",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a0986803": {
       "id": "a0986803",
       "name": "Connor Jones",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ed14d39c": {
       "id": "ed14d39c",
       "name": "Trevor Kieboom",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7aba3724": {
       "id": "7aba3724",
       "name": "Nick King",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "40161a21": {
       "id": "40161a21",
       "name": "Riley King",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "88cb833e": {
       "id": "88cb833e",
       "name": "Zac Kristofak",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "86d60341": {
       "id": "86d60341",
       "name": "Ryan Lawlor",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "263128b5": {
       "id": "263128b5",
       "name": "Tony Locey",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "678bc6df": {
       "id": "678bc6df",
       "name": "Trey Logan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4edd83da": {
       "id": "4edd83da",
       "name": "Mike Mancuso",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f2207e07": {
       "id": "f2207e07",
       "name": "Shane Marshall",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b6451e32": {
       "id": "b6451e32",
       "name": "Tucker Maxwell",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3125aeaf": {
       "id": "3125aeaf",
       "name": "Cody McCance",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3db95840": {
       "id": "3db95840",
       "name": "Keegan McGovern",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d9efe66c": {
       "id": "d9efe66c",
       "name": "Sean McLaughlin",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "877aebd8": {
       "id": "877aebd8",
       "name": "Mason Meadows",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "de3e9e87": {
       "id": "de3e9e87",
       "name": "Steven Minter",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7c5ba0cd": {
       "id": "7c5ba0cd",
       "name": "Drew Moody",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6a2a7375": {
       "id": "6a2a7375",
       "name": "Logan (H) Moody",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b9f6da45": {
       "id": "b9f6da45",
       "name": "Logan (P) Moody",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "93679df6": {
       "id": "93679df6",
       "name": "Daniel Nichols",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1dfb945a": {
       "id": "1dfb945a",
       "name": "Darryn (H) Pasqua",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "734ededd": {
       "id": "734ededd",
       "name": "Darryn (P) Pasqua",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "97238e6e": {
       "id": "97238e6e",
       "name": "Will Proctor",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "af323b1f": {
       "id": "af323b1f",
       "name": "Will - P Proctor",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "fc86da04": {
       "id": "fc86da04",
       "name": "Chaney Rogers",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "379594f6": {
       "id": "379594f6",
       "name": "Chaney (H) Rogers",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0cdce232": {
       "id": "0cdce232",
       "name": "Chaney (P) Rogers",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e133195a": {
       "id": "e133195a",
       "name": "Henry Rowling",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ea5c9748": {
       "id": "ea5c9748",
       "name": "Christian (H) Ryder",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d0dbb21f": {
       "id": "d0dbb21f",
       "name": "Christian (P) Ryder",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ef59464e": {
       "id": "ef59464e",
       "name": "Aaron Rzucidlo",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "fce54a1b": {
       "id": "fce54a1b",
       "name": "Adam Sasser",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d1bdd948": {
       "id": "d1bdd948",
       "name": "Aaron Schunk",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3dbe84e9": {
       "id": "3dbe84e9",
       "name": "Shaefer Shepard",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "76e72d68": {
       "id": "76e72d68",
       "name": "Cam Shepherd",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0bf46683": {
       "id": "0bf46683",
       "name": "C.J. Smith",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "00d3e569": {
       "id": "00d3e569",
       "name": "C.J. (H) Smith",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c498b371": {
       "id": "c498b371",
       "name": "C.J. (P) Smith",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9d31b3b8": {
       "id": "9d31b3b8",
       "name": "Kevin Smith",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "287a3fb3": {
       "id": "287a3fb3",
       "name": "David Sosebee",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "12aa9db4": {
       "id": "12aa9db4",
       "name": "Brandon Stephens",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "21cd1b08": {
       "id": "21cd1b08",
       "name": "Patrick Sullivan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9ceb9182": {
       "id": "9ceb9182",
       "name": "L.J. Talley",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "274c60f3": {
       "id": "274c60f3",
       "name": "Cole Tate",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "51529e0b": {
       "id": "51529e0b",
       "name": "Connor Tate",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8ccd90d2": {
       "id": "8ccd90d2",
       "name": "Trevor (H) Tinder",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6e5f289f": {
       "id": "6e5f289f",
       "name": "Trevor (P) Tinder",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "02e92dd8": {
       "id": "02e92dd8",
       "name": "Shane Tucker",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5273229f": {
       "id": "5273229f",
       "name": "Robert Tyler",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a2a77a93": {
       "id": "a2a77a93",
       "name": "Sam Vaughn",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3233f388": {
       "id": "3233f388",
       "name": "Austin Wallace",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "18cdcb6c": {
       "id": "18cdcb6c",
       "name": "Jared Walsh",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "68d84a71": {
       "id": "68d84a71",
       "name": "Zach Waters",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "14722f23": {
       "id": "14722f23",
       "name": "Janie Beth Webb",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Georgia Institute of Technology",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

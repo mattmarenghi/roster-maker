@@ -221,25 +221,31 @@ def scrape_school(school_name: str, slug: str, espn_id: int) -> bool:
         print("  SKIP: No record and no games found")
         return False
 
-    # Build player list
-    player_entries = []
+    # Build player dict (keyed by player ID, same format as other stats files)
+    player_entries = {}
     for p in school_players:
-        player_entries.append({
-            "id": p.get("id", ""),
-            "name": p.get("name", ""),
-            "num": p.get("num"),
-            "pos": p.get("pos", ""),
-            "yr": p.get("yr", ""),
-            "bt": p.get("bt", ""),
-        })
+        pid = p.get("id", "")
+        if pid:
+            player_entries[pid] = {
+                "id": pid,
+                "name": p.get("name", ""),
+                "fn": p.get("fn", ""),
+                "ln": p.get("ln", ""),
+                "num": p.get("num"),
+                "pos": p.get("pos", ""),
+                "yr": p.get("yr", ""),
+                "school": school_name,
+                "season_batting": None,
+                "season_pitching": None,
+                "last_game": None,
+                "narrative": None,
+            }
 
     # Build output
     out = {
         "school": school_name,
         "record": record,
         "most_recent_game": most_recent,
-        "batting": [],
-        "pitching": [],
         "players": player_entries,
         "_note": (
             "Stats source: ESPN API only. This school does not use the Sidearm platform. "

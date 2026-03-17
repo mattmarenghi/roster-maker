@@ -8,311 +8,539 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "81108be9": {
       "id": "81108be9",
       "name": "Vance Sheahan",
-      "num": "0",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Junior",
-      "bt": ""
+      "num": "0",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "beace8a5": {
       "id": "beace8a5",
       "name": "Derek Williams",
-      "num": "2",
+      "fn": "",
+      "ln": "",
       "pos": "Outfield",
       "yr": "Fifth-Year Senior",
-      "bt": ""
+      "num": "2",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "fa72bdc4": {
       "id": "fa72bdc4",
       "name": "Jake Ogden",
-      "num": "4",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Senior",
-      "bt": ""
+      "num": "4",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "db06d2df": {
       "id": "db06d2df",
       "name": "Brandon DeGoti",
-      "num": "6",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "6",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f75110df": {
       "id": "f75110df",
       "name": "Max Galvin",
-      "num": "7",
+      "fn": "",
+      "ln": "",
       "pos": "Outfield",
       "yr": "Redshirt Senior",
-      "bt": ""
+      "num": "7",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7dd64d7a": {
       "id": "7dd64d7a",
       "name": "Lyndon Glidewell",
-      "num": "8",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Senior",
-      "bt": ""
+      "num": "8",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "84f4fe6a": {
       "id": "84f4fe6a",
       "name": "Rob Evans",
-      "num": "9",
+      "fn": "",
+      "ln": "",
       "pos": "Left-handed pitcher",
       "yr": "Senior",
-      "bt": ""
+      "num": "9",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "82c137ad": {
       "id": "82c137ad",
       "name": "Alex Sosa",
-      "num": "13",
+      "fn": "",
+      "ln": "",
       "pos": "Catcher",
       "yr": "Junior",
-      "bt": ""
+      "num": "13",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5f1024b8": {
       "id": "5f1024b8",
       "name": "Daniel Cuvet",
-      "num": "14",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Junior",
-      "bt": ""
+      "num": "14",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "96da39ac": {
       "id": "96da39ac",
       "name": "Cian Copeland",
-      "num": "16",
+      "fn": "",
+      "ln": "",
       "pos": "Infield/Outfield",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "16",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ef529f0a": {
       "id": "ef529f0a",
       "name": "Fabio Peralta",
-      "num": "17",
+      "fn": "",
+      "ln": "",
       "pos": "Outfield",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "17",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "005e5333": {
       "id": "005e5333",
       "name": "Frank Menendez",
-      "num": "18",
+      "fn": "",
+      "ln": "",
       "pos": "Left-Handed Pitcher",
       "yr": "Junior",
-      "bt": ""
+      "num": "18",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a8f683e7": {
       "id": "a8f683e7",
       "name": "TJ Coats",
-      "num": "21",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Junior",
-      "bt": ""
+      "num": "21",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a6d92d3b": {
       "id": "a6d92d3b",
       "name": "Michael Taylor",
-      "num": "22",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Senior",
-      "bt": ""
+      "num": "22",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d7f92062": {
       "id": "d7f92062",
       "name": "Packy Bradley-Cooney",
-      "num": "24",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Graduate Student",
-      "bt": ""
+      "num": "24",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "05e03806": {
       "id": "05e03806",
       "name": "Tate DeRias",
-      "num": "27",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "27",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b741bf76": {
       "id": "b741bf76",
       "name": "Jackson Hugus",
-      "num": "28",
+      "fn": "",
+      "ln": "",
       "pos": "Catcher",
       "yr": "Graduate Student",
-      "bt": ""
+      "num": "28",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7f79facc": {
       "id": "7f79facc",
       "name": "Brylan West",
-      "num": "30",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Graduate Student",
-      "bt": ""
+      "num": "30",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ebbd686a": {
       "id": "ebbd686a",
       "name": "Ryan Bilka",
-      "num": "31",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Senior",
-      "bt": ""
+      "num": "31",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7992657d": {
       "id": "7992657d",
       "name": "Michael Torres",
-      "num": "34",
+      "fn": "",
+      "ln": "",
       "pos": "Outfield",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "34",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "82b8ae13": {
       "id": "82b8ae13",
       "name": "Erick Peralta",
-      "num": "35",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Freshman",
-      "bt": ""
+      "num": "35",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "dd147f4c": {
       "id": "dd147f4c",
       "name": "Nick Robert",
-      "num": "36",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Junior",
-      "bt": ""
+      "num": "36",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8e6e5393": {
       "id": "8e6e5393",
       "name": "Alonzo Alvarez",
-      "num": "37",
+      "fn": "",
+      "ln": "",
       "pos": "Catcher",
       "yr": "Freshman",
-      "bt": ""
+      "num": "37",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ccc980e6": {
       "id": "ccc980e6",
       "name": "Jake Lodgek",
-      "num": "38",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Freshman",
-      "bt": ""
+      "num": "38",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8b568d14": {
       "id": "8b568d14",
       "name": "Michael Fernandez",
-      "num": "39",
+      "fn": "",
+      "ln": "",
       "pos": "Left-handed pitcher",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "39",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "14e40336": {
       "id": "14e40336",
       "name": "Gabriel Milano",
-      "num": "40",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Freshman",
-      "bt": ""
+      "num": "40",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "349188d2": {
       "id": "349188d2",
       "name": "Jailen Watkins",
-      "num": "41",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Freshman",
-      "bt": ""
+      "num": "41",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "856147ab": {
       "id": "856147ab",
       "name": "Jake Dorn",
-      "num": "44",
+      "fn": "",
+      "ln": "",
       "pos": "Left-handed pitcher",
       "yr": "Redshirt Junior",
-      "bt": ""
+      "num": "44",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "01226148": {
       "id": "01226148",
       "name": "Brixton Lofgren",
-      "num": "45",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Junior",
-      "bt": ""
+      "num": "45",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e04f6671": {
       "id": "e04f6671",
       "name": "Donavan Jeffrey",
-      "num": "46",
+      "fn": "",
+      "ln": "",
       "pos": "Infield",
       "yr": "Freshman",
-      "bt": ""
+      "num": "46",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "51f28770": {
       "id": "51f28770",
       "name": "Dylan Dubovik",
-      "num": "47",
+      "fn": "",
+      "ln": "",
       "pos": "Outfield/Right-handed pitcher",
       "yr": "Freshman",
-      "bt": ""
+      "num": "47",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a90e58af": {
       "id": "a90e58af",
       "name": "Bennett Gary",
-      "num": "48",
+      "fn": "",
+      "ln": "",
       "pos": "Outfield",
       "yr": "Freshman",
-      "bt": ""
+      "num": "48",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "250f697d": {
       "id": "250f697d",
       "name": "Mason Greenhouse",
-      "num": "49",
+      "fn": "",
+      "ln": "",
       "pos": "Outfield",
       "yr": "Freshman",
-      "bt": ""
+      "num": "49",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "26b1a41e": {
       "id": "26b1a41e",
       "name": "Jack Durso",
-      "num": "51",
+      "fn": "",
+      "ln": "",
       "pos": "Left-handed pitcher",
       "yr": "Freshman",
-      "bt": ""
+      "num": "51",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b038375a": {
       "id": "b038375a",
       "name": "AJ Ciscar",
-      "num": "52",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "52",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3b4403f8": {
       "id": "3b4403f8",
       "name": "Lonzo Drummond",
-      "num": "53",
+      "fn": "",
+      "ln": "",
       "pos": "Left-handed pitcher",
       "yr": "Freshman",
-      "bt": ""
+      "num": "53",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "da1c541c": {
       "id": "da1c541c",
       "name": "Sebastian Santos-Olson",
-      "num": "55",
+      "fn": "",
+      "ln": "",
       "pos": "Left-handed pitcher",
       "yr": "Freshman",
-      "bt": ""
+      "num": "55",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8e096162": {
       "id": "8e096162",
       "name": "Lazaro Collera",
-      "num": "99",
+      "fn": "",
+      "ln": "",
       "pos": "Right-handed pitcher",
       "yr": "Sophomore",
-      "bt": ""
+      "num": "99",
+      "school": "University of Miami (Florida)",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

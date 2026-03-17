@@ -8,391 +8,679 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "60519dc4": {
       "id": "60519dc4",
       "name": "Carter Aldrete",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7b7da9b6": {
       "id": "7b7da9b6",
       "name": "Austin Barnes",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5edf038f": {
       "id": "5edf038f",
       "name": "Hunter Bishop",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "181d6f9a": {
       "id": "181d6f9a",
       "name": "Seth Blair",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cd94923d": {
       "id": "cd94923d",
       "name": "Hever Bueno",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1ba10355": {
       "id": "1ba10355",
       "name": "Ryan Burr",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "15d0a46d": {
       "id": "15d0a46d",
       "name": "Blake Burzell",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "976bab8c": {
       "id": "976bab8c",
       "name": "Blake - P Burzell",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "81f687c4": {
       "id": "81f687c4",
       "name": "Dom Cacchione",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "686434df": {
       "id": "686434df",
       "name": "Dom - P Cacchione",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d6924f39": {
       "id": "d6924f39",
       "name": "Nick Cheema",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0f2cc8df": {
       "id": "0f2cc8df",
       "name": "Brady Corrigan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "250192b9": {
       "id": "250192b9",
       "name": "Brady - P Corrigan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "38735704": {
       "id": "38735704",
       "name": "R.J. Dabovich",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d9290ea5": {
       "id": "d9290ea5",
       "name": "RJ (H) Dabovich",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "605335cd": {
       "id": "605335cd",
       "name": "Colby (H) Davis",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "01a020fa": {
       "id": "01a020fa",
       "name": "Colby (P) Davis",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1eae743a": {
       "id": "1eae743a",
       "name": "Myles Denson",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9a1a5b86": {
       "id": "9a1a5b86",
       "name": "Sam Ferri",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "467a8c6a": {
       "id": "467a8c6a",
       "name": "Dusty Garcia",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3f8a050c": {
       "id": "3f8a050c",
       "name": "Darin Gillies",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "42d65fc4": {
       "id": "42d65fc4",
       "name": "Trevor Hauver",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "eb19a700": {
       "id": "eb19a700",
       "name": "Merrill Kelly",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "369252bd": {
       "id": "369252bd",
       "name": "Luke La Flam",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "060b906c": {
       "id": "060b906c",
       "name": "Luke - P La Flam",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c7a462b0": {
       "id": "c7a462b0",
       "name": "Will Levine",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "07f28dfc": {
       "id": "07f28dfc",
       "name": "Will - P Levine",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4aa282f8": {
       "id": "4aa282f8",
       "name": "Marc Lidd",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e0495993": {
       "id": "e0495993",
       "name": "Lyle Lin",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "553a00f5": {
       "id": "553a00f5",
       "name": "Eli Lingos",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "3d816ee3": {
       "id": "3d816ee3",
       "name": "Alec Marsh",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c2bcc961": {
       "id": "c2bcc961",
       "name": "Alec (H) Marsh",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "74ec3f23": {
       "id": "74ec3f23",
       "name": "Seth Martinez",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "fd0600a5": {
       "id": "fd0600a5",
       "name": "Chaz (H) Montoya",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "44898e10": {
       "id": "44898e10",
       "name": "Chaz (P) Montoya",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6b48bdc3": {
       "id": "6b48bdc3",
       "name": "Sam (H) Romero",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d09e7948": {
       "id": "d09e7948",
       "name": "Sam (P) Romero",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "dbc784e1": {
       "id": "dbc784e1",
       "name": "Brian Serven",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f88ec1f3": {
       "id": "f88ec1f3",
       "name": "Andrew Shaps",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7d5ff705": {
       "id": "7d5ff705",
       "name": "Drew Stankiewicz",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9a046e60": {
       "id": "9a046e60",
       "name": "Drew Swift",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "31f63fb8": {
       "id": "31f63fb8",
       "name": "Reagan Todd",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4f726d77": {
       "id": "4f726d77",
       "name": "Erik Tolman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ed507ce5": {
       "id": "ed507ce5",
       "name": "Erik (H) Tolman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a1e94243": {
       "id": "a1e94243",
       "name": "Spencer Torkelson",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "fff57c9e": {
       "id": "fff57c9e",
       "name": "Boyd Vander Kooi",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0b25895f": {
       "id": "0b25895f",
       "name": "Boyd - P Vander Kooi",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "bf40777e": {
       "id": "bf40777e",
       "name": "Alika Williams",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of Arizona",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

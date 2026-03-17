@@ -8,359 +8,623 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "a82d01a1": {
       "id": "a82d01a1",
       "name": "Antonio DucatelliAntonio Ducatelli",
-      "num": "1",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Outfield",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:L/L"
+      "num": "1",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "41c7b8e7": {
       "id": "41c7b8e7",
       "name": "Gianno MerlonghiGianno Merlonghi",
-      "num": "2",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Outfield",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "2",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "af5982a2": {
       "id": "af5982a2",
       "name": "Brandon CandeloraBrandon Candelora",
-      "num": "3",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:L/L"
+      "num": "3",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f08b60a6": {
       "id": "f08b60a6",
       "name": "Gabe PittsGabe Pitts",
-      "num": "4",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Outfield",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "4",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "427886a7": {
       "id": "427886a7",
       "name": "Brandon O'NeillBrandon O'Neill",
-      "num": "5",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "5",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4deae776": {
       "id": "4deae776",
       "name": "Gabe TanousGabe Tanous",
-      "num": "6",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "6",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "1dab16b0": {
       "id": "1dab16b0",
       "name": "Chris BarkasyChris Barkasy",
-      "num": "7",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "7",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7e59a021": {
       "id": "7e59a021",
       "name": "Danny WittersDanny Witters",
-      "num": "8",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Catcher",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "8",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a126e8bd": {
       "id": "a126e8bd",
       "name": "Derek GesmondiDerek Gesmondi",
-      "num": "10",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Outfield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:L/L"
+      "num": "10",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c09285fa": {
       "id": "c09285fa",
       "name": "Donte ValentineDonte Valentine",
-      "num": "11",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "11",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "dcb7b4e4": {
       "id": "dcb7b4e4",
       "name": "CJ DiBenedettoCJ DiBenedetto",
-      "num": "12",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "12",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0d548ccd": {
       "id": "0d548ccd",
       "name": "Zach WorzelZach Worzel",
-      "num": "14",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:L/L"
+      "num": "14",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "891a2974": {
       "id": "891a2974",
       "name": "Tony HumphreyTony Humphrey",
-      "num": "15",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Outfield",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "15",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7a4511b1": {
       "id": "7a4511b1",
       "name": "TJ Winn Jr.TJ Winn Jr.",
-      "num": "16",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "16",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "088f7406": {
       "id": "088f7406",
       "name": "Jacob HinesJacob Hines",
-      "num": "17",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "17",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0c7595ad": {
       "id": "0c7595ad",
       "name": "Jordan AkeJordan Ake",
-      "num": "18",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "18",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "599e97af": {
       "id": "599e97af",
       "name": "Nick FoxNick Fox",
-      "num": "19",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:L/L"
+      "num": "19",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "4d41fdef": {
       "id": "4d41fdef",
       "name": "Frankie FerrentinoFrankie Ferrentino",
-      "num": "20",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Catcher",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "20",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "750d5915": {
       "id": "750d5915",
       "name": "Michael QuirosMichael Quiros",
-      "num": "21",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Outfield",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:L/L"
+      "num": "21",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9b699e00": {
       "id": "9b699e00",
       "name": "Nate DudeckNate Dudeck",
-      "num": "22",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield/Pitcher",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:R/R"
+      "num": "22",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ce0488c6": {
       "id": "ce0488c6",
       "name": "Matt GrazioseMatt Graziose",
-      "num": "24",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "24",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "43d2dee1": {
       "id": "43d2dee1",
       "name": "Ryan ScialabbaRyan Scialabba",
-      "num": "25",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Sr",
-      "bt": "B/T:R/R"
+      "num": "25",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f5ab3782": {
       "id": "f5ab3782",
       "name": "Nick MurphyNick Murphy",
-      "num": "26",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "26",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f4708ce8": {
       "id": "f4708ce8",
       "name": "Richie KerstetterRichie Kerstetter",
-      "num": "28",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:L/L"
+      "num": "28",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "802ff0e7": {
       "id": "802ff0e7",
       "name": "Casey ProctorCasey Proctor",
-      "num": "29",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:L/L"
+      "num": "29",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f27649a9": {
       "id": "f27649a9",
       "name": "Niko ChristonNiko Christon",
-      "num": "30",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:So",
-      "bt": "B/T:R/R"
+      "num": "30",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "96967f93": {
       "id": "96967f93",
       "name": "Owen AriasOwen Arias",
-      "num": "31",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Catcher",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "31",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ff10abd3": {
       "id": "ff10abd3",
       "name": "John DevineJohn Devine",
-      "num": "32",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "32",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2353df10": {
       "id": "2353df10",
       "name": "Mason McCarrollMason McCarroll",
-      "num": "33",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:So.",
-      "bt": "B/T:L/L"
+      "num": "33",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cbed0ca8": {
       "id": "cbed0ca8",
       "name": "Kyle McDermottKyle McDermott",
-      "num": "34",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "34",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a52f98a5": {
       "id": "a52f98a5",
       "name": "Anthony CostelloAnthony Costello",
-      "num": "35",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:L/L"
+      "num": "35",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ef434f0a": {
       "id": "ef434f0a",
       "name": "Noah TerzoNoah Terzo",
-      "num": "36",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Jr",
-      "bt": "B/T:R/R"
+      "num": "36",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "16a62a8c": {
       "id": "16a62a8c",
       "name": "Carson LentiniCarson Lentini",
-      "num": "37",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "37",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "29a17327": {
       "id": "29a17327",
       "name": "Louis JordanLouis Jordan",
-      "num": "38",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield/Outfield",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "38",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "517836ae": {
       "id": "517836ae",
       "name": "Jack HennesseyJack Hennessey",
-      "num": "39",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "39",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f448d2c2": {
       "id": "f448d2c2",
       "name": "TJ MagliozzoTJ Magliozzo",
-      "num": "40",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "40",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "431888ca": {
       "id": "431888ca",
       "name": "Rob NataleRob Natale",
-      "num": "41",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Catcher",
       "yr": "Cl.:So.",
-      "bt": "B/T:R/R"
+      "num": "41",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a6839e7e": {
       "id": "a6839e7e",
       "name": "Bryce DiPieroBryce DiPiero",
-      "num": "42",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Jr.",
-      "bt": "B/T:L/L"
+      "num": "42",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c4c5af3a": {
       "id": "c4c5af3a",
       "name": "Alexander KasbarianAlexander Kasbarian",
-      "num": "43",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "43",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7a1fb4e1": {
       "id": "7a1fb4e1",
       "name": "Owen PikeOwen Pike",
-      "num": "44",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "44",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "751da1ee": {
       "id": "751da1ee",
       "name": "Bryce MederBryce Meder",
-      "num": "45",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "45",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7c29e873": {
       "id": "7c29e873",
       "name": "Kyle SalvatiKyle Salvati",
-      "num": "46",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Pitcher",
       "yr": "Cl.:Sr.",
-      "bt": "B/T:R/R"
+      "num": "46",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9bed63fe": {
       "id": "9bed63fe",
       "name": "Andrew NoceraAndrew Nocera",
-      "num": "48",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Outfield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "48",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "7362a11f": {
       "id": "7362a11f",
       "name": "Luke WadstrupLuke Wadstrup",
-      "num": "49",
+      "fn": "",
+      "ln": "",
       "pos": "Pos.:Infield/Outfield",
       "yr": "Cl.:Fr.",
-      "bt": "B/T:R/R"
+      "num": "49",
+      "school": "Central Connecticut State University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

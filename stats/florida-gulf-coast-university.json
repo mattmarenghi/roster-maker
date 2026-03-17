@@ -8,383 +8,665 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "f19ba372": {
       "id": "f19ba372",
       "name": "Alaska Abney",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "317e263d": {
       "id": "317e263d",
       "name": "Zach Biermann",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "62bce71d": {
       "id": "62bce71d",
       "name": "Jason Bilous",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "887e7ddd": {
       "id": "887e7ddd",
       "name": "Turner Buis",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "000a225c": {
       "id": "000a225c",
       "name": "Dallas Callahan",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ef50d9fd": {
       "id": "ef50d9fd",
       "name": "Jay Causey",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "445a213e": {
       "id": "445a213e",
       "name": "Jay (H) Causey",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "9c222dd6": {
       "id": "9c222dd6",
       "name": "Jay (P) Causey",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f314c500": {
       "id": "f314c500",
       "name": "Parker Chavers",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "629eb354": {
       "id": "629eb354",
       "name": "Trevor (H) Damron",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "85669ba6": {
       "id": "85669ba6",
       "name": "Trevor (P) Damron",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "01e0c4ea": {
       "id": "01e0c4ea",
       "name": "Matt Eardensohn",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c2f6f833": {
       "id": "c2f6f833",
       "name": "Matt (H) Eardensohn",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5cc15780": {
       "id": "5cc15780",
       "name": "Matt (P) Eardensohn",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0410ac78": {
       "id": "0410ac78",
       "name": "Dalton Ewing",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "35908a72": {
       "id": "35908a72",
       "name": "Dylan (H) Gentry",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "8d728314": {
       "id": "8d728314",
       "name": "Dylan (P) Gentry",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "27d03e7d": {
       "id": "27d03e7d",
       "name": "Kiernan Higgins",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b0ea4f9c": {
       "id": "b0ea4f9c",
       "name": "Kiernan - P Higgins",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "97342711": {
       "id": "97342711",
       "name": "Bobby (H) Holmes",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "a0dd566c": {
       "id": "a0dd566c",
       "name": "Bobby (P) Holmes",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "91de80dc": {
       "id": "91de80dc",
       "name": "Zack Hopeck",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ac5c5705": {
       "id": "ac5c5705",
       "name": "Morgan Hyde",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "85f82ffc": {
       "id": "85f82ffc",
       "name": "Davie (H) Inman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "b724293a": {
       "id": "b724293a",
       "name": "Davie (P) Inman",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "185c30ad": {
       "id": "185c30ad",
       "name": "Peyton Isaacson",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c24b270b": {
       "id": "c24b270b",
       "name": "Jared Johnson",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "6db81942": {
       "id": "6db81942",
       "name": "Austin Kitchen",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "0add3b09": {
       "id": "0add3b09",
       "name": "Scott Kobos",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "05cb43d9": {
       "id": "05cb43d9",
       "name": "Scott (H) Kobos",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d8bec371": {
       "id": "d8bec371",
       "name": "Scott (P) Kobos",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "04c9e54e": {
       "id": "04c9e54e",
       "name": "Michael Koenig",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "2a201363": {
       "id": "2a201363",
       "name": "Mike Koenig",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "26ee3fc0": {
       "id": "26ee3fc0",
       "name": "Nick Lucky",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5b6ec452": {
       "id": "5b6ec452",
       "name": "Jakob (H) Mattos",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "ccce7901": {
       "id": "ccce7901",
       "name": "Jakob (P) Mattos",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c1b086e0": {
       "id": "c1b086e0",
       "name": "Zach (H) McCambley",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "cce178c6": {
       "id": "cce178c6",
       "name": "Zachary McCambley",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "d6c07277": {
       "id": "d6c07277",
       "name": "Garrett Mcdaniels",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "462ecb3f": {
       "id": "462ecb3f",
       "name": "Garrett McDaniels",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "f5bcd92c": {
       "id": "f5bcd92c",
       "name": "Garrett (H) McDaniels",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "13befedd": {
       "id": "13befedd",
       "name": "Scott McKeon",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "5b700f84": {
       "id": "5b700f84",
       "name": "Patrick Orlando",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "11bb4b80": {
       "id": "11bb4b80",
       "name": "Nick Parker",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "e63d00b7": {
       "id": "e63d00b7",
       "name": "Nick - P Parker",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "33a5f88a": {
       "id": "33a5f88a",
       "name": "Cameron Pearcey",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "298d4652": {
       "id": "298d4652",
       "name": "Shaddon Peavyhouse",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "Florida Gulf Coast University",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }

@@ -8,23 +8,35 @@
   },
   "batting": [],
   "pitching": [],
-  "players": [
-    {
+  "players": {
+    "dfe051a6": {
       "id": "dfe051a6",
       "name": "Adam Cimber",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of San Francisco",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     },
-    {
+    "c22c0916": {
       "id": "c22c0916",
       "name": "Bradley Zimmer",
-      "num": "",
+      "fn": "",
+      "ln": "",
       "pos": "UN",
       "yr": "",
-      "bt": ""
+      "num": "",
+      "school": "University of San Francisco",
+      "season_batting": null,
+      "season_pitching": null,
+      "last_game": null,
+      "narrative": null
     }
-  ],
+  },
   "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
 }
