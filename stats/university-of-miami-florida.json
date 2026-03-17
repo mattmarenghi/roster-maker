@@ -1,0 +1,318 @@
+{
+  "school": "University of Miami (Florida)",
+  "record": "14-6",
+  "most_recent_game": {
+    "date": "2026-03-15",
+    "opponent": "Duke Blue Devils",
+    "result": "L 10-20"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "81108be9",
+      "name": "Vance Sheahan",
+      "num": "0",
+      "pos": "Infield",
+      "yr": "Junior",
+      "bt": ""
+    },
+    {
+      "id": "beace8a5",
+      "name": "Derek Williams",
+      "num": "2",
+      "pos": "Outfield",
+      "yr": "Fifth-Year Senior",
+      "bt": ""
+    },
+    {
+      "id": "fa72bdc4",
+      "name": "Jake Ogden",
+      "num": "4",
+      "pos": "Infield",
+      "yr": "Senior",
+      "bt": ""
+    },
+    {
+      "id": "db06d2df",
+      "name": "Brandon DeGoti",
+      "num": "6",
+      "pos": "Infield",
+      "yr": "Sophomore",
+      "bt": ""
+    },
+    {
+      "id": "f75110df",
+      "name": "Max Galvin",
+      "num": "7",
+      "pos": "Outfield",
+      "yr": "Redshirt Senior",
+      "bt": ""
+    },
+    {
+      "id": "7dd64d7a",
+      "name": "Lyndon Glidewell",
+      "num": "8",
+      "pos": "Right-handed pitcher",
+      "yr": "Senior",
+      "bt": ""
+    },
+    {
+      "id": "84f4fe6a",
+      "name": "Rob Evans",
+      "num": "9",
+      "pos": "Left-handed pitcher",
+      "yr": "Senior",
+      "bt": ""
+    },
+    {
+      "id": "82c137ad",
+      "name": "Alex Sosa",
+      "num": "13",
+      "pos": "Catcher",
+      "yr": "Junior",
+      "bt": ""
+    },
+    {
+      "id": "5f1024b8",
+      "name": "Daniel Cuvet",
+      "num": "14",
+      "pos": "Infield",
+      "yr": "Junior",
+      "bt": ""
+    },
+    {
+      "id": "96da39ac",
+      "name": "Cian Copeland",
+      "num": "16",
+      "pos": "Infield/Outfield",
+      "yr": "Sophomore",
+      "bt": ""
+    },
+    {
+      "id": "ef529f0a",
+      "name": "Fabio Peralta",
+      "num": "17",
+      "pos": "Outfield",
+      "yr": "Sophomore",
+      "bt": ""
+    },
+    {
+      "id": "005e5333",
+      "name": "Frank Menendez",
+      "num": "18",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Junior",
+      "bt": ""
+    },
+    {
+      "id": "a8f683e7",
+      "name": "TJ Coats",
+      "num": "21",
+      "pos": "Right-handed pitcher",
+      "yr": "Junior",
+      "bt": ""
+    },
+    {
+      "id": "a6d92d3b",
+      "name": "Michael Taylor",
+      "num": "22",
+      "pos": "Right-handed pitcher",
+      "yr": "Senior",
+      "bt": ""
+    },
+    {
+      "id": "d7f92062",
+      "name": "Packy Bradley-Cooney",
+      "num": "24",
+      "pos": "Right-handed pitcher",
+      "yr": "Graduate Student",
+      "bt": ""
+    },
+    {
+      "id": "05e03806",
+      "name": "Tate DeRias",
+      "num": "27",
+      "pos": "Right-handed pitcher",
+      "yr": "Sophomore",
+      "bt": ""
+    },
+    {
+      "id": "b741bf76",
+      "name": "Jackson Hugus",
+      "num": "28",
+      "pos": "Catcher",
+      "yr": "Graduate Student",
+      "bt": ""
+    },
+    {
+      "id": "7f79facc",
+      "name": "Brylan West",
+      "num": "30",
+      "pos": "Infield",
+      "yr": "Graduate Student",
+      "bt": ""
+    },
+    {
+      "id": "ebbd686a",
+      "name": "Ryan Bilka",
+      "num": "31",
+      "pos": "Right-handed pitcher",
+      "yr": "Senior",
+      "bt": ""
+    },
+    {
+      "id": "7992657d",
+      "name": "Michael Torres",
+      "num": "34",
+      "pos": "Outfield",
+      "yr": "Sophomore",
+      "bt": ""
+    },
+    {
+      "id": "82b8ae13",
+      "name": "Erick Peralta",
+      "num": "35",
+      "pos": "Right-handed pitcher",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "dd147f4c",
+      "name": "Nick Robert",
+      "num": "36",
+      "pos": "Right-handed pitcher",
+      "yr": "Junior",
+      "bt": ""
+    },
+    {
+      "id": "8e6e5393",
+      "name": "Alonzo Alvarez",
+      "num": "37",
+      "pos": "Catcher",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "ccc980e6",
+      "name": "Jake Lodgek",
+      "num": "38",
+      "pos": "Right-handed pitcher",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "8b568d14",
+      "name": "Michael Fernandez",
+      "num": "39",
+      "pos": "Left-handed pitcher",
+      "yr": "Sophomore",
+      "bt": ""
+    },
+    {
+      "id": "14e40336",
+      "name": "Gabriel Milano",
+      "num": "40",
+      "pos": "Infield",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "349188d2",
+      "name": "Jailen Watkins",
+      "num": "41",
+      "pos": "Infield",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "856147ab",
+      "name": "Jake Dorn",
+      "num": "44",
+      "pos": "Left-handed pitcher",
+      "yr": "Redshirt Junior",
+      "bt": ""
+    },
+    {
+      "id": "01226148",
+      "name": "Brixton Lofgren",
+      "num": "45",
+      "pos": "Right-handed pitcher",
+      "yr": "Junior",
+      "bt": ""
+    },
+    {
+      "id": "e04f6671",
+      "name": "Donavan Jeffrey",
+      "num": "46",
+      "pos": "Infield",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "51f28770",
+      "name": "Dylan Dubovik",
+      "num": "47",
+      "pos": "Outfield/Right-handed pitcher",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "a90e58af",
+      "name": "Bennett Gary",
+      "num": "48",
+      "pos": "Outfield",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "250f697d",
+      "name": "Mason Greenhouse",
+      "num": "49",
+      "pos": "Outfield",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "26b1a41e",
+      "name": "Jack Durso",
+      "num": "51",
+      "pos": "Left-handed pitcher",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "b038375a",
+      "name": "AJ Ciscar",
+      "num": "52",
+      "pos": "Right-handed pitcher",
+      "yr": "Sophomore",
+      "bt": ""
+    },
+    {
+      "id": "3b4403f8",
+      "name": "Lonzo Drummond",
+      "num": "53",
+      "pos": "Left-handed pitcher",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "da1c541c",
+      "name": "Sebastian Santos-Olson",
+      "num": "55",
+      "pos": "Left-handed pitcher",
+      "yr": "Freshman",
+      "bt": ""
+    },
+    {
+      "id": "8e096162",
+      "name": "Lazaro Collera",
+      "num": "99",
+      "pos": "Right-handed pitcher",
+      "yr": "Sophomore",
+      "bt": ""
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

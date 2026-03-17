@@ -1,0 +1,326 @@
+{
+  "school": "Wofford College",
+  "record": "1-1",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Charleston Cougars",
+    "result": "W 13-9"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "c805a8a4",
+      "name": "Jordan Accetta",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "155f364b",
+      "name": "Connell Anderson",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "809de44a",
+      "name": "McClain Bradley",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "21c653b0",
+      "name": "Grant Byers",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "156ae335",
+      "name": "Pete Carrier",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f57f9c89",
+      "name": "John Caskey",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "0350875e",
+      "name": "Conor Clancey",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "ece4f033",
+      "name": "Jacob Condra-Bogan",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "70ba3a81",
+      "name": "Colin Davis",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f191f32e",
+      "name": "David Ehmen",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "714fc85e",
+      "name": "Will Fuqua",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f69b2f29",
+      "name": "Lawson Hill",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "45a1dfbe",
+      "name": "Derek Hirsch",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "60240a12",
+      "name": "Merritt Huber",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "2115526d",
+      "name": "Demetrius Jennings",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "c61590e8",
+      "name": "Spencer Kulman",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "11515226",
+      "name": "Elliot Lance",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "95a2f46b",
+      "name": "Alex Malsch",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "83426dd4",
+      "name": "Reece Maniscalco",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "d60e9e81",
+      "name": "Dylan May",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "c3e2c48b",
+      "name": "Max McDougald",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "7da6998c",
+      "name": "Tyler Mcguigan",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "982670f9",
+      "name": "Matthew Milburn",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "152cf05c",
+      "name": "Cody Miller",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "490bb6fb",
+      "name": "Mack Nathanson",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "241e222d",
+      "name": "Andrew Orzel",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "394f9614",
+      "name": "Alec Paradowski",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f44be73e",
+      "name": "Matt Pelt",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "2590e6b7",
+      "name": "Quintin Pile",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "611ac920",
+      "name": "James Plaisted",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "929096bf",
+      "name": "Matt Ramsay",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "3901e7d3",
+      "name": "Brett Rodriguez",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "a60876ad",
+      "name": "Kody Ruedisili",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "07067d88",
+      "name": "Clay Schwaner",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "cb382456",
+      "name": "Adam Scott",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "3727c4b4",
+      "name": "Chris Sheehan",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "3d33bd95",
+      "name": "Will Stillman",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "a71d40bf",
+      "name": "Carson Waln",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "64322aba",
+      "name": "Trace Witt",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

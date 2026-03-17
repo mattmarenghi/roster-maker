@@ -1,0 +1,398 @@
+{
+  "school": "University of Arizona",
+  "record": "7-12",
+  "most_recent_game": {
+    "date": "2026-03-15",
+    "opponent": "Utah Utes",
+    "result": "L 7-8"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "60519dc4",
+      "name": "Carter Aldrete",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "7b7da9b6",
+      "name": "Austin Barnes",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "5edf038f",
+      "name": "Hunter Bishop",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "181d6f9a",
+      "name": "Seth Blair",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "cd94923d",
+      "name": "Hever Bueno",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "1ba10355",
+      "name": "Ryan Burr",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "15d0a46d",
+      "name": "Blake Burzell",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "976bab8c",
+      "name": "Blake - P Burzell",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "81f687c4",
+      "name": "Dom Cacchione",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "686434df",
+      "name": "Dom - P Cacchione",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "d6924f39",
+      "name": "Nick Cheema",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "0f2cc8df",
+      "name": "Brady Corrigan",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "250192b9",
+      "name": "Brady - P Corrigan",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "38735704",
+      "name": "R.J. Dabovich",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "d9290ea5",
+      "name": "RJ (H) Dabovich",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "605335cd",
+      "name": "Colby (H) Davis",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "01a020fa",
+      "name": "Colby (P) Davis",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "1eae743a",
+      "name": "Myles Denson",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "9a1a5b86",
+      "name": "Sam Ferri",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "467a8c6a",
+      "name": "Dusty Garcia",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "3f8a050c",
+      "name": "Darin Gillies",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "42d65fc4",
+      "name": "Trevor Hauver",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "eb19a700",
+      "name": "Merrill Kelly",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "369252bd",
+      "name": "Luke La Flam",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "060b906c",
+      "name": "Luke - P La Flam",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "c7a462b0",
+      "name": "Will Levine",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "07f28dfc",
+      "name": "Will - P Levine",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4aa282f8",
+      "name": "Marc Lidd",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "e0495993",
+      "name": "Lyle Lin",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "553a00f5",
+      "name": "Eli Lingos",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "3d816ee3",
+      "name": "Alec Marsh",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "c2bcc961",
+      "name": "Alec (H) Marsh",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "74ec3f23",
+      "name": "Seth Martinez",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "fd0600a5",
+      "name": "Chaz (H) Montoya",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "44898e10",
+      "name": "Chaz (P) Montoya",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "6b48bdc3",
+      "name": "Sam (H) Romero",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "d09e7948",
+      "name": "Sam (P) Romero",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "dbc784e1",
+      "name": "Brian Serven",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f88ec1f3",
+      "name": "Andrew Shaps",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "7d5ff705",
+      "name": "Drew Stankiewicz",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "9a046e60",
+      "name": "Drew Swift",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "31f63fb8",
+      "name": "Reagan Todd",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4f726d77",
+      "name": "Erik Tolman",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "ed507ce5",
+      "name": "Erik (H) Tolman",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "a1e94243",
+      "name": "Spencer Torkelson",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "fff57c9e",
+      "name": "Boyd Vander Kooi",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "0b25895f",
+      "name": "Boyd - P Vander Kooi",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "bf40777e",
+      "name": "Alika Williams",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

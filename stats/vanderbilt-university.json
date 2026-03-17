@@ -1,0 +1,326 @@
+{
+  "school": "Vanderbilt University",
+  "record": "13-8",
+  "most_recent_game": {
+    "date": "2026-03-15",
+    "opponent": "LSU Tigers",
+    "result": "W 11-3"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "1864b79d",
+      "name": "Logan Johnstone",
+      "num": "2",
+      "pos": "OF",
+      "yr": "Graduate",
+      "bt": "L/R"
+    },
+    {
+      "id": "367309f3",
+      "name": "Carter Johnstone",
+      "num": "3",
+      "pos": "INF",
+      "yr": "Sophomore",
+      "bt": "L/R"
+    },
+    {
+      "id": "dc1d4e00",
+      "name": "Mike Mancini",
+      "num": "5",
+      "pos": "INF",
+      "yr": "Senior",
+      "bt": "L/R"
+    },
+    {
+      "id": "3fd4a318",
+      "name": "Chris Maldonado",
+      "num": "8",
+      "pos": "INF",
+      "yr": "Senior",
+      "bt": "R/R"
+    },
+    {
+      "id": "0bf94482",
+      "name": "Brodie Johnston",
+      "num": "9",
+      "pos": "INF",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "ab6d1ac5",
+      "name": "Carson Quillen",
+      "num": "10",
+      "pos": "UTL",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "7df24c0e",
+      "name": "Korbin Reynolds",
+      "num": "18",
+      "pos": "C",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "4cd7e885",
+      "name": "Rustan Rigdon",
+      "num": "19",
+      "pos": "UTL",
+      "yr": "Sophomore",
+      "bt": "S/R"
+    },
+    {
+      "id": "f35c9abc",
+      "name": "Cade Sears",
+      "num": "20",
+      "pos": "OF",
+      "yr": "Sophomore",
+      "bt": "L/R"
+    },
+    {
+      "id": "49ffd4af",
+      "name": "Hudson Barton",
+      "num": "21",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "cbe01d95",
+      "name": "Mack Whitcomb",
+      "num": "25",
+      "pos": "C",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "a56a2b1d",
+      "name": "Braden Holcomb",
+      "num": "26",
+      "pos": "UTL",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "e7915e8f",
+      "name": "Will Hampton",
+      "num": "28",
+      "pos": "OF",
+      "yr": "Sophomore",
+      "bt": "L/L"
+    },
+    {
+      "id": "c23851ee",
+      "name": "Aiden Stillman",
+      "num": "30",
+      "pos": "LHP",
+      "yr": "Freshman",
+      "bt": "R/L"
+    },
+    {
+      "id": "28d035b1",
+      "name": "Nate Schlote",
+      "num": "32",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "fc0e24f0",
+      "name": "Luke Guth",
+      "num": "33",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "9a647806",
+      "name": "Brennan Seiber",
+      "num": "34",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "20ad4e78",
+      "name": "Jacob Faulkner",
+      "num": "36",
+      "pos": "RHP",
+      "yr": "Graduate",
+      "bt": "R/R"
+    },
+    {
+      "id": "29416b2c",
+      "name": "Jakob Schulz",
+      "num": "37",
+      "pos": "LHP",
+      "yr": "Junior",
+      "bt": "R/L"
+    },
+    {
+      "id": "d0826803",
+      "name": "Connor Fennell",
+      "num": "39",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "35a77a97",
+      "name": "Austin Nye",
+      "num": "40",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "48728cff",
+      "name": "Collin Brightwell",
+      "num": "42",
+      "pos": "OF",
+      "yr": "Freshman",
+      "bt": "S/R"
+    },
+    {
+      "id": "bf6d0dcb",
+      "name": "Matthew Shorey",
+      "num": "43",
+      "pos": "LHP",
+      "yr": "Sophomore",
+      "bt": "L/L"
+    },
+    {
+      "id": "2ab7fc08",
+      "name": "Colin Barczi",
+      "num": "44",
+      "pos": "C",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "a92c26bd",
+      "name": "Connor Hamilton",
+      "num": "45",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "79d8d423",
+      "name": "Tyler Baird",
+      "num": "46",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "b5e37436",
+      "name": "Tommy Goodin",
+      "num": "47",
+      "pos": "OF",
+      "yr": "Sophomore",
+      "bt": "L/R"
+    },
+    {
+      "id": "16c4e6d8",
+      "name": "Aukai Kea",
+      "num": "50",
+      "pos": "C",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "1f6ce459",
+      "name": "Ryker Waite",
+      "num": "51",
+      "pos": "INF",
+      "yr": "Sophomore",
+      "bt": "S/R"
+    },
+    {
+      "id": "f29a6323",
+      "name": "Max Jensen",
+      "num": "55",
+      "pos": "INF",
+      "yr": "Graduate",
+      "bt": "L/R"
+    },
+    {
+      "id": "ae390881",
+      "name": "Deegan Cordova",
+      "num": "66",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "898da9f6",
+      "name": "Tristan Bristow",
+      "num": "70",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "3ae3a820",
+      "name": "Alex Kranzler",
+      "num": "77",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "2352b41c",
+      "name": "Nate Taylor",
+      "num": "80",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "9f0c4ac7",
+      "name": "Wyatt Nadeau",
+      "num": "88",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "1a2351f0",
+      "name": "Miller Green",
+      "num": "90",
+      "pos": "LHP",
+      "yr": "Junior",
+      "bt": "L/L"
+    },
+    {
+      "id": "da478da9",
+      "name": "Adria Casoliba",
+      "num": "92",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "9351310c",
+      "name": "Nate Teague",
+      "num": "96",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "be6c78f1",
+      "name": "England Bryan",
+      "num": "99",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

@@ -157,8 +157,13 @@ def analyze_stats(players, probe_results, stats_index):
             continue
         school = data.get("school", slug)
         ps = data.get("players", {})
-        has_batting  = any("season_batting"  in p for p in ps.values())
-        has_pitching = any("season_pitching" in p for p in ps.values())
+        # players may be a dict (old Sidearm/WMT format) or a list (ESPN format)
+        if isinstance(ps, dict):
+            ps_vals = list(ps.values())
+        else:
+            ps_vals = ps if isinstance(ps, list) else []
+        has_batting  = any("season_batting"  in p for p in ps_vals)
+        has_pitching = any("season_pitching" in p for p in ps_vals)
         has_record   = bool(data.get("record"))
         has_game     = bool(data.get("most_recent_game"))
         has_recap    = bool(

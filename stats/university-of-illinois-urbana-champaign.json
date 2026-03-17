@@ -1,0 +1,606 @@
+{
+  "school": "University of Illinois Urbana-Champaign",
+  "record": "10-8",
+  "most_recent_game": {
+    "date": "2026-03-14",
+    "opponent": "Minnesota Golden Gophers",
+    "result": "L 0-1"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "89d0c5ff",
+      "name": "Matt Albert",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "ee06b50b",
+      "name": "Brendon Allen",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "65939061",
+      "name": "Logan Beaman",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "3765ad3b",
+      "name": "Hunter Beetley",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "004d0c56",
+      "name": "Cole Berry",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4582bdd9",
+      "name": "Alex Cain",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "552fe764",
+      "name": "Adam Casson",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "1f16f8ff",
+      "name": "Hunter Clark",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "8fa5e30b",
+      "name": "Josh Cooper",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "557249a0",
+      "name": "Andrew Curran",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "05883ea4",
+      "name": "John Devito",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "e7ee934a",
+      "name": "Spenser Dexter",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "649caa27",
+      "name": "Luke Dietz",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "5e147120",
+      "name": "Matt Doherty",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "2531d85e",
+      "name": "Matt Dunavant",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4a3ddbfd",
+      "name": "Joseph Duncan",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "9051fb7b",
+      "name": "Grant Emme",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "a71894d2",
+      "name": "Jason Euler",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "bcfb2f73",
+      "name": "Andy Fisher",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "a6b162a6",
+      "name": "Derek Flaugher",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "60d26ae5",
+      "name": "Jordan Flint",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "dc66d6f0",
+      "name": "Mitch Gasbarro",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f11b0525",
+      "name": "Jimmy Govern",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "ff416d1a",
+      "name": "Jake Haberer",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "6cbc5778",
+      "name": "Carson Haws",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "b140f0cf",
+      "name": "Cale Hennemann",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "52cba005",
+      "name": "Cale Hennermann",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4d18c82b",
+      "name": "Jack Holden",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "ffe359a8",
+      "name": "Caleb Howell",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "a08d2983",
+      "name": "Jimmy Huber",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "614b1cb3",
+      "name": "Ben Hughes",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "8a9befbb",
+      "name": "Ryan Ignoffo",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "9aa11ce6",
+      "name": "Jake Johansmeier",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f747e131",
+      "name": "Tyler Jones",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "47f5866d",
+      "name": "Keith Kerrigan",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f71b0b2c",
+      "name": "Will Klein",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "0f94bdf6",
+      "name": "Ryan Knernschield",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "3274b19f",
+      "name": "Matt Mackey",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "7f7b00b7",
+      "name": "Blake Malatestinic",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "0ea8e00c",
+      "name": "Nick Maton",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "fce16a3b",
+      "name": "Michael McCormick",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "ef46f55f",
+      "name": "Nicholas McCormick",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "f193f165",
+      "name": "Hunter Morris",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "92da6f06",
+      "name": "Jackson Mueller",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "6183482d",
+      "name": "Dougie Parks",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "af67e511",
+      "name": "Christian Pena",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4636e621",
+      "name": "Frankie Perrone",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "93f02bd2",
+      "name": "Devin Rose",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "8c773d16",
+      "name": "Isaac Sampen",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "94a8a363",
+      "name": "Dane Sauer",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "dd75681c",
+      "name": "Jason Scholl",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "d759e792",
+      "name": "Christian Slazinik",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "659528dc",
+      "name": "Clayton Slifer",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "70fb2fb9",
+      "name": "Justin Smith",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "85e9953e",
+      "name": "Alex Spahman",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "ca04bcf7",
+      "name": "Michael Starcevich",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "7603059a",
+      "name": "Garrison Stenger",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "2146d4d5",
+      "name": "Brent Stephens",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "478441b8",
+      "name": "Drew Sterioti",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "5efa7f36",
+      "name": "Alex Stevenson",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4fa227a6",
+      "name": "Garyn Stewart",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "1528d367",
+      "name": "Trey Sweeney",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "03170a70",
+      "name": "Demetre Taylor",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "7d78737b",
+      "name": "Marshawn Taylor",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "42b4cc02",
+      "name": "Tyler Tesmond",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "a3b9b49d",
+      "name": "Chase Thurston",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "00f369ca",
+      "name": "Dane Toppel",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "31b03330",
+      "name": "Josh Turnock",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "c7d0b9e3",
+      "name": "Brant Valach",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "5136850f",
+      "name": "Bobby Wenthe",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "58fa4ccf",
+      "name": "Dustin Wilson",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "cf58e716",
+      "name": "Jack Wolfe",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "4a090b53",
+      "name": "Wyell Woods",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "9355788f",
+      "name": "Michael Yasenka",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

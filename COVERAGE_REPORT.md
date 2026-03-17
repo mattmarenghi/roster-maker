@@ -1,6 +1,6 @@
 # D1 Baseball Coverage Report
 
-_Generated: 2026-03-17 14:37 UTC_
+_Generated: 2026-03-17 15:14 UTC_
 
 ## Summary
 
@@ -14,7 +14,7 @@ _Generated: 2026-03-17 14:37 UTC_
 | Largest roster | 87 players |
 | Schools probed for stats | 294 |
 | Stats-compatible schools | 253 |
-| Schools with stats scraped | 227 |
+| Schools with stats scraped | 258 |
 
 ## Roster Field Completeness (all 10,220 players)
 
@@ -178,54 +178,54 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 | Metric | Count |
 |--------|-------|
 | Compatible schools (Sidearm) | 253 |
-| Schools with stats scraped | 227 |
-| Compatible but not yet scraped | 26 |
+| Schools with stats scraped | 258 |
+| Compatible but not yet scraped | 8 |
 | Incompatible (no Sidearm stats) | 41 |
-| Scraped — missing batting stats | 0 |
-| Scraped — missing pitching stats | 0 |
-| Scraped — missing game recap | 125 |
-| Scraped — missing season record | 0 |
+| Scraped — missing batting stats | 13 |
+| Scraped — missing pitching stats | 13 |
+| Scraped — missing game recap | 156 |
+| Scraped — missing season record | 4 |
 
-### Compatible but not yet scraped (26)
+### Compatible but not yet scraped (8)
 
 - Arizona State University
-- Auburn University
 - Boise State University
 - Boston University
-- Brigham Young University
-- Clemson University
 - George Washington University
-- Old Dominion University
-- Pennsylvania State University
-- Purdue University
 - Purdue University Fort Wayne
-- San Diego State University
-- San Jose State University
-- Seattle University
-- Stanford University
 - Temple University
 - U.S. Military Academy
 - University at Buffalo, the State University of New York
-- University of Central Florida
-- University of Cincinnati
-- University of Iowa
-- University of Nebraska-Lincoln
-- University of New Mexico
-- University of Texas at San Antonio
-- University of Virginia
-- Virginia Polytechnic Institute and State University
 
-### Scraped but missing game recaps (125)
+### Scraped but missing batting stats (13)
+
+- Florida Gulf Coast University
+- Gardner-Webb University
+- Georgia Institute of Technology
+- Louisiana State University
+- University of Arizona
+- University of Illinois Urbana-Champaign
+- University of Kentucky
+- University of Miami (Florida)
+- University of Notre Dame
+- University of San Francisco
+- University of South Carolina, Columbia
+- Vanderbilt University
+- Wofford College
+
+### Scraped but missing game recaps (156)
 
 - Alabama A&M University
 - Alabama State University
 - Alcorn State University
 - Arkansas State University
+- Auburn University
 - Austin Peay State University
 - Bellarmine University
 - Belmont University
 - Bethune-Cookman University
 - Binghamton University
+- Brigham Young University
 - Bryant University
 - California Polytechnic State University
 - California State University, Bakersfield
@@ -233,6 +233,7 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - California State University, Sacramento
 - Campbell University
 - Charleston Southern University
+- Clemson University
 - Coastal Carolina University
 - College of the Holy Cross
 - Coppin State University
@@ -244,9 +245,12 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - Elon University
 - Fairfield University
 - Florida A&M University
+- Florida Gulf Coast University
 - Florida International University
 - Fordham University
+- Gardner-Webb University
 - George Mason University
+- Georgia Institute of Technology
 - Harvard University
 - High Point University
 - Hofstra University
@@ -262,6 +266,7 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - Lindenwood University
 - Lipscomb University
 - Long Island University
+- Louisiana State University
 - Louisiana Tech University
 - Loyola Marymount University
 - Manhattan University
@@ -283,21 +288,28 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - Northern Illinois University
 - Northwestern State University
 - Ohio University
+- Old Dominion University
+- Pennsylvania State University
 - Pepperdine University
 - Prairie View A&M University
 - Presbyterian College
+- Purdue University
 - Queens University of Charlotte
 - Radford University
 - Rider University
 - Saint Joseph's University
 - Saint Louis University
 - Samford University
+- San Diego State University
+- San Jose State University
 - Santa Clara University
+- Seattle University
 - Siena University
 - Southeastern Louisiana University
 - Southern Illinois University Edwardsville
 - Southern University, Baton Rouge
 - St. Bonaventure University
+- Stanford University
 - Stonehill College
 - Stony Brook University
 - Tarleton State University
@@ -306,28 +318,42 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - The University of Texas Rio Grande Valley
 - Towson University
 - University at Albany
+- University of Arizona
 - University of Arkansas, Pine Bluff
 - University of California, Davis
 - University of California, Riverside
 - University of California, San Diego
 - University of California, Santa Barbara
 - University of Central Arkansas
+- University of Central Florida
+- University of Cincinnati
 - University of Delaware
 - University of Evansville
+- University of Illinois Urbana-Champaign
+- University of Iowa
+- University of Kentucky
 - University of Louisiana Monroe
 - University of Maine
 - University of Maryland Eastern Shore
 - University of Maryland, Baltimore County
 - University of Massachusetts Lowell
+- University of Miami (Florida)
+- University of Nebraska-Lincoln
 - University of New Haven
+- University of New Mexico
 - University of New Orleans
 - University of North Alabama
+- University of Notre Dame
 - University of Pennsylvania
 - University of Portland
 - University of Rhode Island
+- University of San Francisco
 - University of South Alabama
+- University of South Carolina, Columbia
 - University of Southern Indiana
 - University of Texas at Arlington
+- University of Texas at San Antonio
+- University of Virginia
 - University of West Georgia
 - University of Wisconsin-Milwaukee
 - University of the Incarnate Word
@@ -335,12 +361,15 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - Utah Tech University
 - Utah Valley University
 - Valparaiso University
+- Vanderbilt University
 - Virginia Military Institute
+- Virginia Polytechnic Institute and State University
 - Wagner College
 - Western Carolina University
 - Western Illinois University
 - William & Mary
 - Winthrop University
+- Wofford College
 - Youngstown State University
 
 ## Schools Without Sidearm Stats (41)

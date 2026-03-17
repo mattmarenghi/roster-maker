@@ -1,0 +1,30 @@
+{
+  "school": "University of San Francisco",
+  "record": "1-4",
+  "most_recent_game": {
+    "date": "2026-03-15",
+    "opponent": "UC Riverside Highlanders",
+    "result": "L 5-6"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "dfe051a6",
+      "name": "Adam Cimber",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    },
+    {
+      "id": "c22c0916",
+      "name": "Bradley Zimmer",
+      "num": "",
+      "pos": "UN",
+      "yr": "",
+      "bt": ""
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

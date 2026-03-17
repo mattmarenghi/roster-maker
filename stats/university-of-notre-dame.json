@@ -1,0 +1,302 @@
+{
+  "school": "University of Notre Dame",
+  "record": "11-6",
+  "most_recent_game": {
+    "date": "2026-03-15",
+    "opponent": "Louisville Cardinals",
+    "result": "L 12-21"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "77d51319",
+      "name": "Jayce Lee",
+      "num": "1",
+      "pos": "OF",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "8aaf71b6",
+      "name": "Mason Barth",
+      "num": "3",
+      "pos": "INF",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "e4b1448f",
+      "name": "Jonathan Holt",
+      "num": "4",
+      "pos": "INF",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "99a45791",
+      "name": "Dylan Singleton",
+      "num": "5",
+      "pos": "LHP",
+      "yr": "Freshman",
+      "bt": "L/L"
+    },
+    {
+      "id": "1f0f21fa",
+      "name": "Andrew Graham",
+      "num": "6",
+      "pos": "INF",
+      "yr": "Graduate Student",
+      "bt": "R/R"
+    },
+    {
+      "id": "dab0c862",
+      "name": "Caden Crowell",
+      "num": "7",
+      "pos": "LHP/IF",
+      "yr": "Freshman",
+      "bt": "L/L"
+    },
+    {
+      "id": "acb3fe90",
+      "name": "Troy Reader",
+      "num": "9",
+      "pos": "C",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "5f388283",
+      "name": "Drew Berkland",
+      "num": "10",
+      "pos": "OF",
+      "yr": "Graduate Student",
+      "bt": "R/R"
+    },
+    {
+      "id": "7c4e5a54",
+      "name": "Noah Coy",
+      "num": "11",
+      "pos": "INF",
+      "yr": "Sophomore",
+      "bt": "L/R"
+    },
+    {
+      "id": "ec8c747b",
+      "name": "Will Jaisle",
+      "num": "12",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "879b7adf",
+      "name": "Jamie Zee",
+      "num": "13",
+      "pos": "INF",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "fae5b738",
+      "name": "Shane Miranda",
+      "num": "14",
+      "pos": "C",
+      "yr": "Freshman",
+      "bt": "L/R"
+    },
+    {
+      "id": "5e258b7f",
+      "name": "Bino Watters",
+      "num": "15",
+      "pos": "OF/INF",
+      "yr": "Sophomore",
+      "bt": "L/L"
+    },
+    {
+      "id": "032be392",
+      "name": "Brandon Logan",
+      "num": "16",
+      "pos": "OF",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "ea252815",
+      "name": "Aiden Zerr",
+      "num": "18",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "d8d64220",
+      "name": "Mark Quatrani",
+      "num": "19",
+      "pos": "C",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "96e2f415",
+      "name": "Caleb Ricks",
+      "num": "20",
+      "pos": "OF",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "d5280823",
+      "name": "Dylan Passo",
+      "num": "21",
+      "pos": "INF",
+      "yr": "Freshman",
+      "bt": "L/L"
+    },
+    {
+      "id": "1d2e527b",
+      "name": "Parker Brzustewicz",
+      "num": "22",
+      "pos": "INF",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "735fc046",
+      "name": "Gian Gamelli",
+      "num": "23",
+      "pos": "LHP",
+      "yr": "Freshman",
+      "bt": "L/L"
+    },
+    {
+      "id": "18e70d0e",
+      "name": "Ty Uber",
+      "num": "24",
+      "pos": "RHP",
+      "yr": "Graduate Student",
+      "bt": "R/R"
+    },
+    {
+      "id": "3f935a6c",
+      "name": "Kellan Klosterman",
+      "num": "25",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "5c6db2c5",
+      "name": "Garrett Snyder",
+      "num": "26",
+      "pos": "RHP",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "077da399",
+      "name": "Jack Radel",
+      "num": "27",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "5d451134",
+      "name": "Xavier Hirsch",
+      "num": "30",
+      "pos": "RHP",
+      "yr": "Senior",
+      "bt": "L/R"
+    },
+    {
+      "id": "db4431ce",
+      "name": "Evan Clark",
+      "num": "31",
+      "pos": "LHP",
+      "yr": "Graduate Student",
+      "bt": "L/L"
+    },
+    {
+      "id": "ca5753e3",
+      "name": "Radek Birkholz",
+      "num": "33",
+      "pos": "RHP",
+      "yr": "Graduate Student",
+      "bt": "R/R"
+    },
+    {
+      "id": "b3fd149b",
+      "name": "Oisin Lee",
+      "num": "36",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "0f6d89a0",
+      "name": "Hagan Ward",
+      "num": "39",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "526fcd2a",
+      "name": "Eli Thurmond",
+      "num": "40",
+      "pos": "RHP",
+      "yr": "Graduate Student",
+      "bt": "R/R"
+    },
+    {
+      "id": "62b9f34d",
+      "name": "Trent Hartman",
+      "num": "44",
+      "pos": "C",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "e629cd66",
+      "name": "DJ Helwig",
+      "num": "45",
+      "pos": "RHP",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "20ad866e",
+      "name": "Noah Rooney",
+      "num": "46",
+      "pos": "LHP",
+      "yr": "Senior",
+      "bt": "L/L"
+    },
+    {
+      "id": "c129a0ce",
+      "name": "Joe Coffey",
+      "num": "51",
+      "pos": "INF",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "88db8d9d",
+      "name": "Chase Van Ameyde",
+      "num": "52",
+      "pos": "RHP",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "6c2740f8",
+      "name": "Davis Johnson",
+      "num": "55",
+      "pos": "C/OF",
+      "yr": "Junior",
+      "bt": "L/R"
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

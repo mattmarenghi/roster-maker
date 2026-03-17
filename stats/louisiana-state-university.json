@@ -1,0 +1,318 @@
+{
+  "school": "Louisiana State University",
+  "record": "14-7",
+  "most_recent_game": {
+    "date": "2026-03-15",
+    "opponent": "Vanderbilt Commodores",
+    "result": "L 3-11"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "f9f96495",
+      "name": "Cade Arrambide",
+      "num": "0",
+      "pos": "Catcher",
+      "yr": "Sophomore",
+      "bt": "R-R"
+    },
+    {
+      "id": "54146dbc",
+      "name": "Chris Stanfield",
+      "num": "1",
+      "pos": "Outfield",
+      "yr": "Senior",
+      "bt": "R-R"
+    },
+    {
+      "id": "f29bf6c4",
+      "name": "Steven Milam",
+      "num": "4",
+      "pos": "Infield",
+      "yr": "Junior",
+      "bt": "S-R"
+    },
+    {
+      "id": "7f595462",
+      "name": "Tanner Reaves",
+      "num": "5",
+      "pos": "Infield",
+      "yr": "5th-year Senior",
+      "bt": "L-R"
+    },
+    {
+      "id": "51a6935b",
+      "name": "Derek Curiel",
+      "num": "6",
+      "pos": "Outfield",
+      "yr": "Sophomore",
+      "bt": "L-L"
+    },
+    {
+      "id": "40b479e8",
+      "name": "Jake Brown",
+      "num": "7",
+      "pos": "Outfield",
+      "yr": "Junior",
+      "bt": "L-L"
+    },
+    {
+      "id": "d7c9b5c6",
+      "name": "Gavin Guidry",
+      "num": "8",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Redshirt Junior",
+      "bt": "R-R"
+    },
+    {
+      "id": "53db4a81",
+      "name": "William Schmidt",
+      "num": "9",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "R-R"
+    },
+    {
+      "id": "8680444f",
+      "name": "Brayden Simpson",
+      "num": "10",
+      "pos": "Infield",
+      "yr": "Senior",
+      "bt": "R-R"
+    },
+    {
+      "id": "0a72f6ba",
+      "name": "John Pearson",
+      "num": "11",
+      "pos": "Outfield / Third Base",
+      "yr": "Sophomore",
+      "bt": "R-R"
+    },
+    {
+      "id": "c2629c60",
+      "name": "Edward Yamin IV",
+      "num": "13",
+      "pos": "Catcher / First Base",
+      "yr": "Redshirt Junior",
+      "bt": "R-R"
+    },
+    {
+      "id": "9ce09a05",
+      "name": "Daniel Harden",
+      "num": "14",
+      "pos": "Outfield",
+      "yr": "Junior",
+      "bt": "L-L"
+    },
+    {
+      "id": "e551a21c",
+      "name": "Ethan Clauss",
+      "num": "16",
+      "pos": "Infield",
+      "yr": "Freshman",
+      "bt": "L-R"
+    },
+    {
+      "id": "3867f621",
+      "name": "Mavrick Rizy",
+      "num": "17",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "R-R"
+    },
+    {
+      "id": "e508e1fc",
+      "name": "Mason Braun",
+      "num": "18",
+      "pos": "Outfield / First Base",
+      "yr": "Freshman",
+      "bt": "L-L"
+    },
+    {
+      "id": "f2097489",
+      "name": "Casan Evans",
+      "num": "20",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "R-R"
+    },
+    {
+      "id": "61e322d9",
+      "name": "Cooper Moore",
+      "num": "22",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R-R"
+    },
+    {
+      "id": "fb07d069",
+      "name": "William Patrick",
+      "num": "23",
+      "pos": "Outfield",
+      "yr": "Freshman",
+      "bt": "R-R"
+    },
+    {
+      "id": "9d3c8cee",
+      "name": "Seth Dardar",
+      "num": "24",
+      "pos": "Infield",
+      "yr": "5th-year Senior",
+      "bt": "L-R"
+    },
+    {
+      "id": "751e0ed0",
+      "name": "Omar Serna Jr.",
+      "num": "25",
+      "pos": "Catcher",
+      "yr": "Freshman",
+      "bt": "R-R"
+    },
+    {
+      "id": "4f956b8c",
+      "name": "Zac Cowan",
+      "num": "26",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Senior",
+      "bt": "S-R"
+    },
+    {
+      "id": "71e4daff",
+      "name": "Jaden Noot",
+      "num": "27",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Redshirt Junior",
+      "bt": "R-R"
+    },
+    {
+      "id": "de48ec48",
+      "name": "Danny Lachenmayer",
+      "num": "28",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "R-L"
+    },
+    {
+      "id": "58484ab7",
+      "name": "Cooper Williams",
+      "num": "29",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "L-L"
+    },
+    {
+      "id": "a501d8d0",
+      "name": "Dax Dathe",
+      "num": "30",
+      "pos": "Right-Handed Pitcher",
+      "yr": "5th-year Senior",
+      "bt": "R-R"
+    },
+    {
+      "id": "eaa6a86a",
+      "name": "Jack Ruckert",
+      "num": "32",
+      "pos": "Infield",
+      "yr": "Freshman",
+      "bt": "L-R"
+    },
+    {
+      "id": "7fc49661",
+      "name": "Zach Yorke",
+      "num": "33",
+      "pos": "Infield",
+      "yr": "Senior",
+      "bt": "L-R"
+    },
+    {
+      "id": "5f0f6554",
+      "name": "Santiago Garcia",
+      "num": "34",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Junior",
+      "bt": "L-L"
+    },
+    {
+      "id": "a8559ce5",
+      "name": "Reagan Ricken",
+      "num": "35",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Freshman",
+      "bt": "R-R"
+    },
+    {
+      "id": "86cb6eea",
+      "name": "Ethan Plog",
+      "num": "38",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "L-L"
+    },
+    {
+      "id": "9b42e256",
+      "name": "Jonah Aase",
+      "num": "39",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Freshman",
+      "bt": "L-L"
+    },
+    {
+      "id": "84de6ed8",
+      "name": "Grant Fontenot",
+      "num": "40",
+      "pos": "Right-Handed Pitcher",
+      "yr": "5th-year Senior",
+      "bt": "R-R"
+    },
+    {
+      "id": "4f804f96",
+      "name": "DJ Primeaux",
+      "num": "41",
+      "pos": "Left-Handed Pitcher",
+      "yr": "Redshirt Junior",
+      "bt": "L-L"
+    },
+    {
+      "id": "82703933",
+      "name": "Connor Benge",
+      "num": "43",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Senior",
+      "bt": "R-R"
+    },
+    {
+      "id": "e090f911",
+      "name": "Trent Caraway",
+      "num": "44",
+      "pos": "Infield",
+      "yr": "Junior",
+      "bt": "R-R"
+    },
+    {
+      "id": "7668b4a3",
+      "name": "Deven Sheerin",
+      "num": "45",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Redshirt Sophomore",
+      "bt": "R-R"
+    },
+    {
+      "id": "f6d0f70a",
+      "name": "Zion Theophilus",
+      "num": "52",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Freshman",
+      "bt": "L-R"
+    },
+    {
+      "id": "453d6e66",
+      "name": "Marcos Paz",
+      "num": "97",
+      "pos": "Right-Handed Pitcher",
+      "yr": "Freshman",
+      "bt": "R-R"
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

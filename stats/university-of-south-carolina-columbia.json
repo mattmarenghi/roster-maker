@@ -1,0 +1,310 @@
+{
+  "school": "University of South Carolina, Columbia",
+  "record": "12-9",
+  "most_recent_game": {
+    "date": "2026-03-15",
+    "opponent": "Florida Gators",
+    "result": "L 3-13"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "5b82e30c",
+      "name": "Logan Sutter",
+      "num": "0",
+      "pos": "Infielder",
+      "yr": "Fifth Year",
+      "bt": "R/R"
+    },
+    {
+      "id": "2e54e624",
+      "name": "Brandon Cromer",
+      "num": "2",
+      "pos": "Outfielder/Left Handed Pitcher",
+      "yr": "Freshman",
+      "bt": "R/L"
+    },
+    {
+      "id": "ddffac1d",
+      "name": "Patrick Evans",
+      "num": "3",
+      "pos": "Infielder",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "ac881e51",
+      "name": "Erik Parker",
+      "num": "4",
+      "pos": "Infielder",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "e725b93b",
+      "name": "Talmadge LeCroy",
+      "num": "5",
+      "pos": "Catcher",
+      "yr": "Fifth Year",
+      "bt": "R/R"
+    },
+    {
+      "id": "9369caa5",
+      "name": "Bradley Hodges",
+      "num": "6",
+      "pos": "Left Handed Pitcher",
+      "yr": "Junior",
+      "bt": "L/L"
+    },
+    {
+      "id": "44b46b75",
+      "name": "Alex Valentin",
+      "num": "7",
+      "pos": "Left Handed Pitcher",
+      "yr": "Junior",
+      "bt": "L/L"
+    },
+    {
+      "id": "520d376e",
+      "name": "Jack Reynolds",
+      "num": "8",
+      "pos": "Infielder",
+      "yr": "Redshirt Junior",
+      "bt": "L/R"
+    },
+    {
+      "id": "2579e4ca",
+      "name": "Will Craddock",
+      "num": "9",
+      "pos": "Infielder",
+      "yr": "Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "b9d54b8a",
+      "name": "Alex Philpott",
+      "num": "11",
+      "pos": "Right Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "d5dce0df",
+      "name": "Ethan Lizama",
+      "num": "12",
+      "pos": "Outfielder",
+      "yr": "Senior",
+      "bt": "L/L"
+    },
+    {
+      "id": "0c7fc468",
+      "name": "Amp Phillips",
+      "num": "13",
+      "pos": "Right Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "7ed04409",
+      "name": "Caleb Hoover",
+      "num": "14",
+      "pos": "Outfielder/First Base",
+      "yr": "Sophomore",
+      "bt": "L/R"
+    },
+    {
+      "id": "9fbbbfcc",
+      "name": "Beau Hollins",
+      "num": "15",
+      "pos": "First Base",
+      "yr": "Sophomore",
+      "bt": "B/L"
+    },
+    {
+      "id": "afaa78ac",
+      "name": "Patrick Dudley",
+      "num": "16",
+      "pos": "Left Handed Pitcher",
+      "yr": "Freshman",
+      "bt": "R/L"
+    },
+    {
+      "id": "1f15b209",
+      "name": "Tyler Bak",
+      "num": "17",
+      "pos": "Outfielder",
+      "yr": "Junior",
+      "bt": "L/L"
+    },
+    {
+      "id": "daa1cb96",
+      "name": "Aaron Jamison",
+      "num": "18",
+      "pos": "Outfielder",
+      "yr": "Junior",
+      "bt": "L/L"
+    },
+    {
+      "id": "3aa1db1d",
+      "name": "KJ Scobey",
+      "num": "19",
+      "pos": "Infielder",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "239cfbfc",
+      "name": "Elijah Foster",
+      "num": "20",
+      "pos": "Right Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "720c8dcc",
+      "name": "Jake Randolph",
+      "num": "21",
+      "pos": "Catcher",
+      "yr": "Senior",
+      "bt": "R/R"
+    },
+    {
+      "id": "508a737c",
+      "name": "Reese Moore",
+      "num": "22",
+      "pos": "Catcher",
+      "yr": "Junior",
+      "bt": "L/R"
+    },
+    {
+      "id": "6f57a083",
+      "name": "Jake McCoy",
+      "num": "23",
+      "pos": "Left Handed Pitcher",
+      "yr": "Junior",
+      "bt": "L/L"
+    },
+    {
+      "id": "f7369abc",
+      "name": "Josh Gunther",
+      "num": "24",
+      "pos": "Right Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "4c408918",
+      "name": "Zach Russell",
+      "num": "27",
+      "pos": "Right Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "c9d97bfc",
+      "name": "Hudson Lee",
+      "num": "28",
+      "pos": "Left Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/L"
+    },
+    {
+      "id": "e42d08b6",
+      "name": "Cullen Horowicz",
+      "num": "29",
+      "pos": "Right Handed Pitcher",
+      "yr": "Senior",
+      "bt": "R/R"
+    },
+    {
+      "id": "cb9f6334",
+      "name": "Dawson Harman",
+      "num": "30",
+      "pos": "Infielder",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "886f5b0e",
+      "name": "Brandon Stone",
+      "num": "32",
+      "pos": "Right Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "79042358",
+      "name": "Luke Yuhasz",
+      "num": "34",
+      "pos": "Outfielder",
+      "yr": "Senior",
+      "bt": "R/R"
+    },
+    {
+      "id": "b4b04f5d",
+      "name": "Logan Prisco",
+      "num": "35",
+      "pos": "Left Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "L/L"
+    },
+    {
+      "id": "a91dcf65",
+      "name": "Bryce Navarre",
+      "num": "37",
+      "pos": "Left Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "L/L"
+    },
+    {
+      "id": "eac9419b",
+      "name": "Riley Goodman",
+      "num": "39",
+      "pos": "Right Handed Pitcher",
+      "yr": "Redshirt Freshman",
+      "bt": "R/R"
+    },
+    {
+      "id": "6dcf75f6",
+      "name": "Gavin Braland",
+      "num": "40",
+      "pos": "Catcher",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "a4c7b486",
+      "name": "Cooper Parks",
+      "num": "41",
+      "pos": "Right Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "7dd96eb7",
+      "name": "Parker Marlatt",
+      "num": "44",
+      "pos": "Right Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/R"
+    },
+    {
+      "id": "a4cf3cfd",
+      "name": "Connor Chicoli",
+      "num": "45",
+      "pos": "Right Handed Pitcher",
+      "yr": "Sophomore",
+      "bt": "R/R"
+    },
+    {
+      "id": "df5380ed",
+      "name": "Josh Gregoire",
+      "num": "47",
+      "pos": "Right Handed Pitcher",
+      "yr": "Junior",
+      "bt": "R/R"
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}
