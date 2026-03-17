@@ -140,8 +140,9 @@ def extract_from_cards(soup, base_url):
     # Try several card selectors used by different SIDEARM themes
     cards = []
     for selector in [
-        lambda s: s.find_all('li', class_=lambda c: c and any('s-roster' in x for x in c)),
-        lambda s: s.find_all('div', class_=lambda c: c and any('s-roster' in x for x in c)),
+        lambda s: s.find_all('li', class_='sidearm-roster-player'),
+        lambda s: s.find_all('li', class_=lambda c: c and any('roster-player' in x or 'roster-item' in x for x in c)),
+        lambda s: s.find_all('div', class_=lambda c: c and any('roster-player' in x or 'roster-item' in x for x in c)),
         lambda s: s.find_all('li', class_='roster-list-item'),
         lambda s: s.find_all('article', class_=lambda c: c and 'roster' in ' '.join(c or [])),
         lambda s: s.find_all('div', class_=lambda c: c and 'roster-card' in ' '.join(c or [])),
@@ -155,32 +156,52 @@ def extract_from_cards(soup, base_url):
             break
 
     for card in cards:
-        # Find player name — look for named link or heading
-        name_el = None
-        for sel in [
-            lambda c: c.find('a', class_=lambda x: x and 'name' in ' '.join(x or [])),
-            lambda c: c.find(['h2', 'h3', 'h4'], class_=lambda x: x and 'name' in ' '.join(x or [])),
-            lambda c: c.find('span', class_=lambda x: x and 'name' in ' '.join(x or [])),
-            lambda c: c.find('a', href=True),
-        ]:
-            try:
-                name_el = sel(card)
-            except Exception:
-                name_el = None
-            if name_el:
-                break
+        # Find player name — try name container div first, then links with text
+        name_text = ''
+        profile = ''
 
-        if not name_el:
-            continue
+        # 1. SIDEARM name container (div/span with 'name' in class)
+        name_div = card.find(['div', 'span'], class_=lambda x: x and any('name' in c for c in x))
+        if name_div:
+            # Get name from first <a> inside, or the div text itself
+            name_a = name_div.find('a', href=True)
+            if name_a:
+                name_text = name_a.get_text(strip=True)
+                profile = abs_url(name_a['href'], base_url)
+            if not name_text:
+                name_text = name_div.get_text(strip=True)
 
-        name_text = name_el.get_text(strip=True)
+        # 2. Fallback: find <a> tags with both href and visible text
+        if not name_text:
+            for a in card.find_all('a', href=True):
+                text = a.get_text(strip=True)
+                if text and len(text) >= 3 and '/roster/' in a.get('href', ''):
+                    name_text = text
+                    profile = abs_url(a['href'], base_url)
+                    break
+
+        # 3. Last resort: any <a> with text
+        if not name_text:
+            for a in card.find_all('a', href=True):
+                text = a.get_text(strip=True)
+                if text and len(text) >= 3:
+                    name_text = text
+                    profile = abs_url(a['href'], base_url)
+                    break
+
+        # Strip jersey numbers from the start of name text (e.g. "1Colin Beazizo")
+        name_text = re.sub(r'^\d+\s*', '', name_text).strip()
+
         if not name_text or len(name_text) < 3:
             continue
         name = norm(name_text)
 
-        # Profile URL from first <a> tag with href
-        link_el = card.find('a', href=True)
-        profile = abs_url(link_el['href'], base_url) if link_el else ''
+        # Profile URL — if not found above, grab from first roster link
+        if not profile:
+            link_el = card.find('a', href=lambda h: h and '/roster/' in h)
+            if not link_el:
+                link_el = card.find('a', href=True)
+            profile = abs_url(link_el['href'], base_url) if link_el else ''
 
         # Photo URL from <img>, prefer data-src for lazy-loaded images
         photo = ''
