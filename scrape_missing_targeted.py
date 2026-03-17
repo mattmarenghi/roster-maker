@@ -51,8 +51,9 @@ from scrape_failed_schools import (
     _PLAYWRIGHT_AVAILABLE,
 )
 
-CSV_PATH = '/home/user/roster-maker/d1_baseball_rosters_2026.csv'
-MISSING_CSV = '/home/user/roster-maker/missing_schools.csv'
+_DIR = os.path.dirname(os.path.abspath(__file__))
+CSV_PATH = os.path.join(_DIR, 'd1_baseball_rosters_2026.csv')
+MISSING_CSV = os.path.join(_DIR, 'missing_schools.csv')
 DELAY = 1.0  # seconds between requests
 
 COL_ORDER = [

@@ -36,8 +36,9 @@ HEADERS = {
 }
 API_HEADERS = {**HEADERS, 'Accept': 'application/json'}
 
-PLAYERS_JSON   = '/home/user/roster-maker/players.json'
-PROGRESS_FILE  = '/home/user/roster-maker/enrich_profiles_progress.json'
+_DIR           = os.path.dirname(os.path.abspath(__file__))
+PLAYERS_JSON   = os.path.join(_DIR, 'players.json')
+PROGRESS_FILE  = os.path.join(_DIR, 'enrich_profiles_progress.json')
 DELAY          = 0.4   # seconds between profile page fetches
 BATCH_SAVE     = 20    # save players.json every N schools
 

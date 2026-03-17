@@ -25,9 +25,10 @@ import json
 import os
 import sys
 
-PLAYERS_JSON = '/home/user/roster-maker/players.json'
-CSV_PATH     = '/home/user/roster-maker/d1_baseball_rosters_2026.csv'
-MISSING_CSV  = '/home/user/roster-maker/missing_schools.csv'
+_DIR         = os.path.dirname(os.path.abspath(__file__))
+PLAYERS_JSON = os.path.join(_DIR, 'players.json')
+CSV_PATH     = os.path.join(_DIR, 'd1_baseball_rosters_2026.csv')
+MISSING_CSV  = os.path.join(_DIR, 'missing_schools.csv')
 
 # Schools to fully remove from the database.
 # These have confirmed bad data (wrong players or ESPN duplicate attributions).
