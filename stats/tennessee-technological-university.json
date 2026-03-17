@@ -1,0 +1,294 @@
+{
+  "school": "Tennessee Technological University",
+  "record": "2-8",
+  "most_recent_game": {
+    "date": "2026-03-10",
+    "opponent": "Tennessee Volunteers",
+    "result": "L 2-20"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "9d5d904c",
+      "name": "Jaxon Jones",
+      "num": "No.:1",
+      "pos": "Pos.:UTL",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:L/R"
+    },
+    {
+      "id": "31aa739c",
+      "name": "Carter Casabella",
+      "num": "No.:2",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "d166d1a2",
+      "name": "Jackson Rooker",
+      "num": "No.:3",
+      "pos": "Pos.:OF",
+      "yr": "Cl.:R-So.",
+      "bt": "B/T:S/R"
+    },
+    {
+      "id": "41b81bc7",
+      "name": "Manny Garza",
+      "num": "No.:4",
+      "pos": "Pos.:C",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:S/R"
+    },
+    {
+      "id": "4ee5a4c0",
+      "name": "Luke Bragga",
+      "num": "No.:5",
+      "pos": "Pos.:OF",
+      "yr": "Cl.:R-So.",
+      "bt": "B/T:L/R"
+    },
+    {
+      "id": "0137adfd",
+      "name": "Cade Fuller",
+      "num": "No.:6",
+      "pos": "Pos.:INF",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "53c02193",
+      "name": "Eddie Garza",
+      "num": "No.:7",
+      "pos": "Pos.:INF",
+      "yr": "Cl.:RS Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "a62c31c5",
+      "name": "Reece McDuffie",
+      "num": "No.:8",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "6d03a07a",
+      "name": "Alex Kuntz",
+      "num": "No.:9",
+      "pos": "Pos.:LHP",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "ec8cf5cf",
+      "name": "Connor Crowson",
+      "num": "No.:10",
+      "pos": "Pos.:INF",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "c83829d8",
+      "name": "Owen Lee",
+      "num": "No.:11",
+      "pos": "Pos.:INF",
+      "yr": "Cl.:R-So.",
+      "bt": "B/T:L/R"
+    },
+    {
+      "id": "d4440e32",
+      "name": "AJ Marchetti",
+      "num": "No.:12",
+      "pos": "Pos.:C",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "318cce02",
+      "name": "Jorsixt Jimenez",
+      "num": "No.:13",
+      "pos": "Pos.:OF",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "299b392a",
+      "name": "Justin Fallon",
+      "num": "No.:14",
+      "pos": "Pos.:OF",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:L/R"
+    },
+    {
+      "id": "610f3704",
+      "name": "Ty Denton",
+      "num": "No.:15",
+      "pos": "Pos.:C",
+      "yr": "Cl.:RS. So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "972e9358",
+      "name": "Lawson Stricklin",
+      "num": "No.:16",
+      "pos": "Pos.:UTL",
+      "yr": "Cl.:R-Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "43685eab",
+      "name": "Braxton Lewis",
+      "num": "No.:17",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "d9b7452e",
+      "name": "Landon Smelser",
+      "num": "No.:19",
+      "pos": "Pos.:OF",
+      "yr": "Cl.:So.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "8ad65f6b",
+      "name": "Carson Davis",
+      "num": "No.:20",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "23f50d4e",
+      "name": "Jamie Robertson",
+      "num": "No.:22",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "330d4d23",
+      "name": "Drew Kirby",
+      "num": "No.:23",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:RS So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "7e718142",
+      "name": "Drew Mattox",
+      "num": "No.:24",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "17ae4946",
+      "name": "Logan Moller",
+      "num": "No.:25",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "86703f29",
+      "name": "Eli Huddleston",
+      "num": "No.:28",
+      "pos": "Pos.:LHP",
+      "yr": "Cl.:R-So.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "08f73315",
+      "name": "Nash Crowell",
+      "num": "No.:30",
+      "pos": "Pos.:INF",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "73f95a6f",
+      "name": "Micah Summar",
+      "num": "No.:32",
+      "pos": "Pos.:LHP",
+      "yr": "Cl.:So.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "1d02b727",
+      "name": "Tyler Bennett",
+      "num": "No.:33",
+      "pos": "Pos.:INF",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "cebfce07",
+      "name": "Jayden Dillard",
+      "num": "No.:34",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "41db9af9",
+      "name": "Ty Barnett",
+      "num": "No.:35",
+      "pos": "Pos.:LHP",
+      "yr": "Cl.:So.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "34939e81",
+      "name": "Garrett Holpuch",
+      "num": "No.:36",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "ef036fa9",
+      "name": "Jaxson Pease",
+      "num": "No.:40",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "bc7e0b5d",
+      "name": "Jaxon Pridgen",
+      "num": "No.:42",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "98bfb744",
+      "name": "Aaron Moffitt",
+      "num": "No.:43",
+      "pos": "Pos.:INF",
+      "yr": "Cl.:R-So.",
+      "bt": "B/T:S/R"
+    },
+    {
+      "id": "d1afd0e6",
+      "name": "Cooper Casteel",
+      "num": "No.:44",
+      "pos": "Pos.:LHP",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "c598bd57",
+      "name": "Carson Parrott",
+      "num": "No.:50",
+      "pos": "Pos.:RHP",
+      "yr": "Cl.:R-Fr.",
+      "bt": "B/T:R/R"
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}

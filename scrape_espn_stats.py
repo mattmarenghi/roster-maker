@@ -44,10 +44,12 @@ INDEX_PATH = os.path.join(STATS_DIR, "index.json")
 # Non-Sidearm schools with players in players.json
 # Format: (school_name, slug, espn_id)
 ESPN_SCHOOLS = [
+    ("Central Connecticut State University", "central-connecticut-state-university", 159),
     ("Florida Gulf Coast University", "florida-gulf-coast-university", 291),
     ("Gardner-Webb University", "gardner-webb-university", 356),
     ("Georgia Institute of Technology", "georgia-institute-of-technology", 77),
     ("Louisiana State University", "louisiana-state-university", 85),
+    ("Tennessee Technological University", "tennessee-technological-university", 441),
     ("University of Arizona", "university-of-arizona", 60),
     ("University of Illinois Urbana-Champaign", "university-of-illinois-urbana-champaign", 153),
     ("University of Kentucky", "university-of-kentucky", 82),

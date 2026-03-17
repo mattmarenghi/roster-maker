@@ -1,6 +1,6 @@
 # D1 Baseball Coverage Report
 
-_Generated: 2026-03-17 15:20 UTC_
+_Generated: 2026-03-17 15:23 UTC_
 
 ## Summary
 
@@ -14,7 +14,7 @@ _Generated: 2026-03-17 15:20 UTC_
 | Largest roster | 87 players |
 | Schools probed for stats | 294 |
 | Stats-compatible schools | 253 |
-| Schools with stats scraped | 258 |
+| Schools with stats scraped | 260 |
 
 ## Roster Field Completeness (all 10,220 players)
 
@@ -178,12 +178,12 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 | Metric | Count |
 |--------|-------|
 | Compatible schools (Sidearm) | 253 |
-| Schools with stats scraped | 258 |
+| Schools with stats scraped | 260 |
 | Compatible but not yet scraped | 8 |
 | Incompatible (no Sidearm stats) | 41 |
-| Scraped — missing batting stats | 13 |
-| Scraped — missing pitching stats | 13 |
-| Scraped — missing game recap | 156 |
+| Scraped — missing batting stats | 15 |
+| Scraped — missing pitching stats | 15 |
+| Scraped — missing game recap | 158 |
 | Scraped — missing season record | 0 |
 
 ### Compatible but not yet scraped (8)
@@ -197,12 +197,14 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - U.S. Military Academy
 - University at Buffalo, the State University of New York
 
-### Scraped but missing batting stats (13)
+### Scraped but missing batting stats (15)
 
+- Central Connecticut State University
 - Florida Gulf Coast University
 - Gardner-Webb University
 - Georgia Institute of Technology
 - Louisiana State University
+- Tennessee Technological University
 - University of Arizona
 - University of Illinois Urbana-Champaign
 - University of Kentucky
@@ -213,7 +215,7 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - Vanderbilt University
 - Wofford College
 
-### Scraped but missing game recaps (156)
+### Scraped but missing game recaps (158)
 
 - Alabama A&M University
 - Alabama State University
@@ -232,6 +234,7 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - California State University, Fullerton
 - California State University, Sacramento
 - Campbell University
+- Central Connecticut State University
 - Charleston Southern University
 - Clemson University
 - Coastal Carolina University
@@ -313,6 +316,7 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 - Stonehill College
 - Stony Brook University
 - Tarleton State University
+- Tennessee Technological University
 - The Citadel
 - The University of North Carolina at Greensboro
 - The University of Texas Rio Grande Valley

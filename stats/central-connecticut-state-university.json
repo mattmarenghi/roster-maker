@@ -1,0 +1,366 @@
+{
+  "school": "Central Connecticut State University",
+  "record": "0-1",
+  "most_recent_game": {
+    "date": "2026-03-11",
+    "opponent": "Northeastern Huskies",
+    "result": "L 10-18"
+  },
+  "batting": [],
+  "pitching": [],
+  "players": [
+    {
+      "id": "a82d01a1",
+      "name": "Antonio DucatelliAntonio Ducatelli",
+      "num": "1",
+      "pos": "Pos.:Outfield",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "41c7b8e7",
+      "name": "Gianno MerlonghiGianno Merlonghi",
+      "num": "2",
+      "pos": "Pos.:Outfield",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "af5982a2",
+      "name": "Brandon CandeloraBrandon Candelora",
+      "num": "3",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "f08b60a6",
+      "name": "Gabe PittsGabe Pitts",
+      "num": "4",
+      "pos": "Pos.:Outfield",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "427886a7",
+      "name": "Brandon O'NeillBrandon O'Neill",
+      "num": "5",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "4deae776",
+      "name": "Gabe TanousGabe Tanous",
+      "num": "6",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "1dab16b0",
+      "name": "Chris BarkasyChris Barkasy",
+      "num": "7",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "7e59a021",
+      "name": "Danny WittersDanny Witters",
+      "num": "8",
+      "pos": "Pos.:Catcher",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "a126e8bd",
+      "name": "Derek GesmondiDerek Gesmondi",
+      "num": "10",
+      "pos": "Pos.:Outfield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "c09285fa",
+      "name": "Donte ValentineDonte Valentine",
+      "num": "11",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "dcb7b4e4",
+      "name": "CJ DiBenedettoCJ DiBenedetto",
+      "num": "12",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "0d548ccd",
+      "name": "Zach WorzelZach Worzel",
+      "num": "14",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "891a2974",
+      "name": "Tony HumphreyTony Humphrey",
+      "num": "15",
+      "pos": "Pos.:Outfield",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "7a4511b1",
+      "name": "TJ Winn Jr.TJ Winn Jr.",
+      "num": "16",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "088f7406",
+      "name": "Jacob HinesJacob Hines",
+      "num": "17",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "0c7595ad",
+      "name": "Jordan AkeJordan Ake",
+      "num": "18",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "599e97af",
+      "name": "Nick FoxNick Fox",
+      "num": "19",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "4d41fdef",
+      "name": "Frankie FerrentinoFrankie Ferrentino",
+      "num": "20",
+      "pos": "Pos.:Catcher",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "750d5915",
+      "name": "Michael QuirosMichael Quiros",
+      "num": "21",
+      "pos": "Pos.:Outfield",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "9b699e00",
+      "name": "Nate DudeckNate Dudeck",
+      "num": "22",
+      "pos": "Pos.:Infield/Pitcher",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "ce0488c6",
+      "name": "Matt GrazioseMatt Graziose",
+      "num": "24",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "43d2dee1",
+      "name": "Ryan ScialabbaRyan Scialabba",
+      "num": "25",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Sr",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "f5ab3782",
+      "name": "Nick MurphyNick Murphy",
+      "num": "26",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "f4708ce8",
+      "name": "Richie KerstetterRichie Kerstetter",
+      "num": "28",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "802ff0e7",
+      "name": "Casey ProctorCasey Proctor",
+      "num": "29",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "f27649a9",
+      "name": "Niko ChristonNiko Christon",
+      "num": "30",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:So",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "96967f93",
+      "name": "Owen AriasOwen Arias",
+      "num": "31",
+      "pos": "Pos.:Catcher",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "ff10abd3",
+      "name": "John DevineJohn Devine",
+      "num": "32",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "2353df10",
+      "name": "Mason McCarrollMason McCarroll",
+      "num": "33",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:So.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "cbed0ca8",
+      "name": "Kyle McDermottKyle McDermott",
+      "num": "34",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "a52f98a5",
+      "name": "Anthony CostelloAnthony Costello",
+      "num": "35",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "ef434f0a",
+      "name": "Noah TerzoNoah Terzo",
+      "num": "36",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Jr",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "16a62a8c",
+      "name": "Carson LentiniCarson Lentini",
+      "num": "37",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "29a17327",
+      "name": "Louis JordanLouis Jordan",
+      "num": "38",
+      "pos": "Pos.:Infield/Outfield",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "517836ae",
+      "name": "Jack HennesseyJack Hennessey",
+      "num": "39",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "f448d2c2",
+      "name": "TJ MagliozzoTJ Magliozzo",
+      "num": "40",
+      "pos": "Pos.:Infield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "431888ca",
+      "name": "Rob NataleRob Natale",
+      "num": "41",
+      "pos": "Pos.:Catcher",
+      "yr": "Cl.:So.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "a6839e7e",
+      "name": "Bryce DiPieroBryce DiPiero",
+      "num": "42",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Jr.",
+      "bt": "B/T:L/L"
+    },
+    {
+      "id": "c4c5af3a",
+      "name": "Alexander KasbarianAlexander Kasbarian",
+      "num": "43",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "7a1fb4e1",
+      "name": "Owen PikeOwen Pike",
+      "num": "44",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "751da1ee",
+      "name": "Bryce MederBryce Meder",
+      "num": "45",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "7c29e873",
+      "name": "Kyle SalvatiKyle Salvati",
+      "num": "46",
+      "pos": "Pos.:Pitcher",
+      "yr": "Cl.:Sr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "9bed63fe",
+      "name": "Andrew NoceraAndrew Nocera",
+      "num": "48",
+      "pos": "Pos.:Outfield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    },
+    {
+      "id": "7362a11f",
+      "name": "Luke WadstrupLuke Wadstrup",
+      "num": "49",
+      "pos": "Pos.:Infield/Outfield",
+      "yr": "Cl.:Fr.",
+      "bt": "B/T:R/R"
+    }
+  ],
+  "_note": "Stats source: ESPN API only. This school does not use the Sidearm platform. Per-player batting/pitching season stats are not available."
+}
