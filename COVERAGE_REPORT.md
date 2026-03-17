@@ -1,40 +1,37 @@
 # D1 Baseball Coverage Report
 
-_Generated: 2026-03-17 15:28 UTC_
+_Generated: 2026-03-17 17:11 UTC_
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Total players | 10,220 |
-| Schools with rosters | 265 |
+| Total players | 10,182 |
+| Schools with rosters | 262 |
 | Schools confirmed missing | 107 |
 | Median roster size | 38 players |
-| Smallest roster | 2 players |
+| Smallest roster | 16 players |
 | Largest roster | 87 players |
 | Schools probed for stats | 294 |
 | Stats-compatible schools | 253 |
 | Schools with stats scraped | 260 |
 
-## Roster Field Completeness (all 10,220 players)
+## Roster Field Completeness (all 10,182 players)
 
 | Field | % Complete | Note |
 |-------|-----------|------|
 | `pos` | 98.5% | Position |
-| `bt` | 67.1% ⚠️ | Bats/Throws — key for scouting; many schools don't publish |
-| `yr` | 80.9% | Class year |
-| `ht` | 89.1% | Height |
-| `wt` | 81.8% | Weight |
-| `hometown` | 93.8% | Hometown — used for stable player ID |
+| `bt` | 67.4% ⚠️ | Bats/Throws — key for scouting; many schools don't publish |
+| `yr` | 81.2% | Class year |
+| `ht` | 89.4% | Height |
+| `wt` | 82.1% | Weight |
+| `hometown` | 94.2% | Hometown — used for stable player ID |
 
 ## Thin Rosters (< 25 players)
 
 | School | Players |
 |--------|---------|
-| University of San Francisco | 2 |
 | Gardner-Webb University | 16 |
-| Iowa State University | 18 |
-| University of Northern Iowa | 18 |
 
 ## Schools with Significant Field Gaps (>50% missing a key field)
 
@@ -121,10 +118,7 @@ _Generated: 2026-03-17 15:28 UTC_
 | George Mason University | 32 | `bt` (100%), `hometown` (100%), `ht` (100%), `pos` (100%), `wt` (100%), `yr` (100%) |
 | University of Texas at Arlington | 32 | `bt` (100%), `wt` (100%) |
 | Boise State University | 28 | `bt` (100%), `ht` (100%), `wt` (100%) |
-| Iowa State University | 18 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
-| University of Northern Iowa | 18 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
 | Gardner-Webb University | 16 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
-| University of San Francisco | 2 | `bt` (100%), `hometown` (100%), `ht` (100%), `wt` (100%), `yr` (100%) |
 
 ### Missing `bt` (Bats/Throws) only — 40 schools
 
