@@ -1121,7 +1121,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.14 (claude/ui-cleanup-badges-m4vBa)</div>`;
+        <div class="ps-version">VERSION 2.5.15 (claude/add-hits-pitcher-stats-OmXTp)</div>`;
       return;
     }
 
@@ -1163,7 +1163,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.14 (claude/ui-cleanup-badges-m4vBa)</div>`;
+      <div class="ps-version">VERSION 2.5.15 (claude/add-hits-pitcher-stats-OmXTp)</div>`;
   }
 
   async function signOut() {
@@ -1384,10 +1384,25 @@
   }
 
   function fmtGameMeta(lg) {
-    const parts = [];
-    if (lg.result) parts.push(lg.result);
-    if (lg.date) parts.push(fmtGameDate(lg.date));
-    return parts.length ? ` · ${parts.join(' · ')}` : '';
+    const resultMap = { 'W': 'Win', 'L': 'Loss' };
+    const resultText = lg.result ? (resultMap[lg.result] || lg.result) : null;
+    const dateText = lg.date ? fmtGameDate(lg.date) : null;
+
+    let scoreText = null;
+    if (lg.score && typeof lg.score === 'string') {
+      const parts = lg.score.split('-').map(Number);
+      if (parts.length === 2 && !isNaN(parts[0]) && !isNaN(parts[1])) {
+        scoreText = `${Math.max(...parts)}-${Math.min(...parts)}`;
+      }
+    } else if (lg.team_score != null && lg.opp_score != null) {
+      const a = lg.team_score, b = lg.opp_score;
+      scoreText = `${Math.max(a, b)}-${Math.min(a, b)}`;
+    }
+
+    if (!resultText && !dateText) return '';
+    const inner = [resultText, scoreText].filter(Boolean).join(' ');
+    const label = [inner, dateText].filter(Boolean).join(', ');
+    return ` (${label})`;
   }
 
   function formatLastGameBatting(lg) {
@@ -1449,6 +1464,7 @@
       { label: 'ERA', val: sp.era != null ? sp.era.toFixed(2) : '-' },
       { label: 'APP', val: sp.g ?? '-' },
       { label: 'IP', val: sp.ip ?? '-' },
+      { label: 'H', val: sp.h ?? '-' },
       { label: 'BB', val: sp.bb ?? '-' },
       { label: 'K', val: sp.so ?? sp.k ?? '-' },
       { label: 'WHIP', val: sp.whip != null ? sp.whip.toFixed(2) : '-' },
