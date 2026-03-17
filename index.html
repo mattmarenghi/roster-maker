@@ -1121,7 +1121,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.13 (claude/enhance-highlight-narrative-orEkz)</div>`;
+        <div class="ps-version">VERSION 2.5.14 (claude/ui-cleanup-badges-m4vBa)</div>`;
       return;
     }
 
@@ -1163,7 +1163,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.13 (claude/enhance-highlight-narrative-orEkz)</div>`;
+      <div class="ps-version">VERSION 2.5.14 (claude/ui-cleanup-badges-m4vBa)</div>`;
   }
 
   async function signOut() {
@@ -1284,7 +1284,7 @@
             <div class="sr-name-row">
               <span class="sr-name">${escapeHTML(p.name)}</span>
               ${p.pos ? `<span class="sr-badge sr-badge-pos">${escapeHTML(p.pos)}</span>` : ''}
-              ${p.yr  ? `<span class="sr-badge sr-badge-yr">${escapeHTML(p.yr)}</span>` : ''}
+              ${p.yr  ? `<span class="sr-badge sr-badge-yr">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}
             </div>
             <div class="sr-school">${escapeHTML(p.school)}</div>
           </div>
@@ -1306,6 +1306,34 @@
   function escapeHTML(str) {
     if (!str) return '';
     return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function normalizeYr(yr) {
+    if (!yr) return '';
+    const key = yr.trim().toLowerCase();
+    const map = {
+      // Freshman
+      'fr.':'Fr.','freshman':'Fr.','fy.':'Fr.','fy':'Fr.','*fr.':'Fr.',
+      'r-fr.':'Fr.','redshirt freshman':'Fr.','rs-freshman':'Fr.','rs fr.':'Fr.',
+      'cl.:fr.':'Fr.','cl.:r-fr.':'Fr.','rf.':'Fr.',
+      // Sophomore
+      'so.':'So.','sophomore':'So.','r-so.':'So.','redshirt sophomore':'So.',
+      'rs so.':'So.','rs-so.':'So.','rs-sophomore':'So.','cl.:so.':'So.',
+      'cl.:so':'So.','cl.:r-so.':'So.','cl.:rs so.':'So.','cl.:rs. so.':'So.',
+      // Junior
+      'jr.':'Jr.','junior':'Jr.','*jr.':'Jr.','r-jr.':'Jr.','redshirt junior':'Jr.',
+      'rs jr.':'Jr.','rs-junior':'Jr.','rs-jr.':'Jr.','cl.:jr.':'Jr.',
+      'cl.:jr':'Jr.','cl.:r-jr.':'Jr.',
+      // Senior
+      'sr.':'Sr.','senior':'Sr.','*sr.':'Sr.','r-sr.':'Sr.','redshirt senior':'Sr.',
+      'rs sr.':'Sr.','rs-sr.':'Sr.','cl.:sr.':'Sr.','cl.:sr':'Sr.','cl.:rs sr.':'Sr.',
+      // Graduate / 5th+ year
+      'gr.':'Gr.','graduate student':'Gr.','graduate':'Gr.','5th':'Gr.','6th':'Gr.',
+      '5th-year senior':'Gr.','fifth year':'Gr.','fifth-year senior':'Gr.',
+      'red 5th':'Gr.','**sr. (graduate)':'Gr.','*jr. (graduate)':'Gr.',
+      'sr. (graduate)':'Gr.',
+    };
+    return map[key] || yr;
   }
 
   // ── Homepage / My Players ───────────────────────────────────────────────────
@@ -1459,7 +1487,7 @@
     // Build highlight section
     let highlightHTML = '';
     if (narrative) {
-      highlightHTML = `<div class="pc-highlight"><strong>Recent Highlight:</strong> ${escapeHTML(narrative)}</div>`;
+      highlightHTML = `<div class="pc-highlight"><strong>Latest:</strong> ${escapeHTML(narrative)}</div>`;
     }
 
     // Build stats sections
@@ -1508,7 +1536,7 @@
           <div class="pc-info">
             <div class="pc-name">${escapeHTML(p.name)}</div>
             <div class="pc-meta">${schoolMeta.toUpperCase()}</div>
-            ${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(p.yr)}</span>` : ''}
+            ${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}
           </div>
           <button class="pc-star" data-star-id="${p.id}"
                   onclick="toggleFavorite('${p.id}', event)">
