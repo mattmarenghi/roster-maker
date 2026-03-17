@@ -2,13 +2,13 @@
   "school": "Eastern Illinois University",
   "base_url": "https://www.eiupanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:11:58.245197Z",
+  "generated_at": "2026-03-17T11:49:20.738853Z",
   "record": "8-8",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Memphis",
     "result": "L 14-25",
-    "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+    "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
     "recap_url": "https://www.eiupanthers.com/news/2026/3/15/baseball-panthers-erupt-for-25-runs-in-historic-win-at-memphis.aspx",
     "recap_headline": "Eastern Illinois University Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -136,7 +136,7 @@
         "date": "2026-03-14",
         "opponent": "Memphis",
         "result": "L 7-12",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -197,7 +197,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -249,7 +249,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -301,7 +301,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -353,7 +353,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -405,7 +405,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -494,7 +494,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 5,
           "r": 5,
@@ -546,7 +546,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 7,
           "r": 3,
@@ -625,7 +625,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -723,7 +723,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 4,
           "r": 5,
@@ -775,7 +775,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -822,7 +822,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -883,7 +883,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -935,7 +935,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -982,7 +982,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1181,7 +1181,7 @@
         "date": "2026-03-14",
         "opponent": "Memphis",
         "result": "L 7-12",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1269,7 +1269,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1325,7 +1325,7 @@
         "date": "2026-03-14",
         "opponent": "Memphis",
         "result": "L 7-12",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1418,7 +1418,7 @@
         "date": "2026-03-14",
         "opponent": "Memphis",
         "result": "L 7-12",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13549&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1534,7 +1534,7 @@
         "date": "2026-03-13",
         "opponent": "Memphis",
         "result": "W 14-2",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13548&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1581,7 +1581,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1637,7 +1637,7 @@
         "date": "2026-03-15",
         "opponent": "Memphis",
         "result": "L 14-25",
-        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=",
+        "boxscore_url": "https://www.eiupanthers.com/boxscore.aspx?id=13550&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

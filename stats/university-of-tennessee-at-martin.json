@@ -2,7 +2,7 @@
   "school": "University of Tennessee at Martin",
   "base_url": "https://www.utmsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:44:18.757335Z",
+  "generated_at": "2026-03-17T12:18:51.808266Z",
   "record": "9-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -240,8 +240,26 @@
         "sb_att": 17
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "The Citadel",
+        "result": "L",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13577",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. The Citadel (L). Hitting .279 with 0 HR through 19 games."
     },
     "59567df0": {
       "id": "59567df0",

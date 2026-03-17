@@ -2,13 +2,13 @@
   "school": "Houston Christian University",
   "base_url": "https://www.hcuhuskies.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:14:47.235909Z",
+  "generated_at": "2026-03-17T11:52:16.123384Z",
   "record": "10-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Tarleton State",
     "result": "L 5-9",
-    "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+    "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
     "recap_url": "https://www.hcuhuskies.com/news/2026/3/15/baseball-bsb-huskies-secure-another-series-win-with-9-5-victory-at-tarleton.aspx",
     "recap_headline": "Houston Christian University Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -173,7 +173,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -299,7 +299,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -351,7 +351,7 @@
         "date": "2026-03-15",
         "opponent": "Tarleton State",
         "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -398,7 +398,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -459,7 +459,7 @@
         "date": "2026-03-15",
         "opponent": "Tarleton State",
         "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -548,7 +548,7 @@
         "date": "2026-03-15",
         "opponent": "Tarleton State",
         "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -600,7 +600,7 @@
         "date": "2026-03-15",
         "opponent": "Tarleton State",
         "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -711,7 +711,7 @@
         "date": "2026-03-15",
         "opponent": "Tarleton State",
         "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -863,7 +863,7 @@
         "date": "2026-03-13",
         "opponent": "Tarleton State",
         "result": "L 6-7",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6475&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6475&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -919,7 +919,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -980,7 +980,7 @@
         "date": "2026-03-15",
         "opponent": "Tarleton State",
         "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -1059,7 +1059,7 @@
         "date": "2026-03-13",
         "opponent": "Tarleton State",
         "result": "L 6-7",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6475&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6475&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1115,7 +1115,7 @@
         "date": "2026-03-13",
         "opponent": "Tarleton State",
         "result": "L 6-7",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6475&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6475&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "5.0",
@@ -1168,7 +1168,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1220,7 +1220,7 @@
         "date": "2026-03-15",
         "opponent": "Tarleton State",
         "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1336,7 +1336,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1461,7 +1461,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1549,7 +1549,7 @@
         "date": "2026-03-14",
         "opponent": "Tarleton State",
         "result": "W 8-5",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6476&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

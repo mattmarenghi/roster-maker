@@ -2,7 +2,7 @@
   "school": "University of California, Los Angeles",
   "base_url": "https://www.uclabruins.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:34:04.065909Z",
+  "generated_at": "2026-03-17T12:10:14.401771Z",
   "record": "8-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -323,26 +323,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-03",
-        "opponent": "Cal State Fullerton",
-        "result": "W",
-        "boxscore_url": "https://www.uclabruins.com/sports/baseball/stats/2026/cal-state-fullerton/boxscore/34530",
-        "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 2,
-          "so": 1,
-          "hr": 0,
-          "doubles": 0,
-          "triples": 0,
-          "pos": ""
-        },
-        "pitching": null
-      },
-      "narrative": "Went 0/3 with 0 RBI against Cal State Fullerton. Struggled at the plate but saw 2 walk(s)."
+      "last_game": null,
+      "narrative": null
     },
     "e973a1e4": {
       "id": "e973a1e4",

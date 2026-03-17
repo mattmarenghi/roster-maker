@@ -2,7 +2,7 @@
   "school": "U.S. Air Force Academy",
   "base_url": "https://www.goairforcefalcons.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:32:13.278218Z",
+  "generated_at": "2026-03-17T12:08:40.879667Z",
   "record": "56-66",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -104,25 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Baylor",
-        "result": "L",
-        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/baylor/boxscore/24125",
+        "date": "2026-03-16",
+        "opponent": "St. Thomas (MN)",
+        "result": "W",
+        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/st-thomas-mn-/boxscore/24129",
         "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 3,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Baylor. Struggled to make contact."
+      "narrative": "2/4 with 3 RBI vs. St. Thomas (MN) (W). Hitting .310 with 0 HR through 11 games."
     },
     "e2ebe200": {
       "id": "e2ebe200",
@@ -317,25 +317,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UNLV Rebels",
+        "date": "2026-03-16",
+        "opponent": "St. Thomas (MN)",
         "result": "W",
-        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/unlv-rebels/boxscore/24127",
+        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/st-thomas-mn-/boxscore/24129",
         "batting": {
-          "ab": 3,
-          "r": 4,
+          "ab": 4,
+          "r": 3,
           "h": 1,
-          "rbi": 0,
+          "rbi": 3,
           "bb": 2,
-          "so": 0,
-          "hr": 0,
+          "so": 1,
+          "hr": 1,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against UNLV Rebels. Contributed at the plate in the team's W."
+      "narrative": "1/4 with 3 RBI, 1 HR vs. St. Thomas (MN) (W). Hitting .291 with 3 HR through 18 games."
     },
     "539637f8": {
       "id": "539637f8",
@@ -1205,23 +1205,23 @@
         "opp_avg": ".286"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Baylor",
-        "result": "L",
-        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/baylor/boxscore/24125",
+        "date": "2026-03-16",
+        "opponent": "St. Thomas (MN)",
+        "result": "W",
+        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/st-thomas-mn-/boxscore/24129",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 3,
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
           "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Baylor, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.0 IP, 2 K vs. St. Thomas (MN) (W). At 1.73 ERA through 5.2 innings on the season."
     },
     "33a6fbdc": {
       "id": "33a6fbdc",
@@ -1736,23 +1736,23 @@
         "opp_avg": ".311"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UNLV Rebels",
+        "date": "2026-03-16",
+        "opponent": "St. Thomas (MN)",
         "result": "W",
-        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/unlv-rebels/boxscore/24127",
+        "boxscore_url": "https://www.goairforcefalcons.com/sports/baseball/stats/2026/st-thomas-mn-/boxscore/24129",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 1,
+          "ip": "1.0",
+          "h": 2,
+          "r": 4,
+          "er": 1,
+          "bb": 3,
+          "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against UNLV Rebels, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. St. Thomas (MN) (W). At 9.71 ERA through 10.2 innings on the season."
     },
     "fc3387bb": {
       "id": "fc3387bb",

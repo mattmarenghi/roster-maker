@@ -2,13 +2,13 @@
   "school": "University of Portland",
   "base_url": "https://www.portlandpilots.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:42:07.030701Z",
+  "generated_at": "2026-03-17T12:17:13.175172Z",
   "record": "10-7",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "UConn",
     "result": "W 5-3",
-    "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+    "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
     "recap_url": "https://www.portlandpilots.com/news/2026/3/15/baseball-pilots-take-rubber-match-5-3-over-uconn.aspx",
     "recap_headline": "University of Portland Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -104,7 +104,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -156,7 +156,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -263,7 +263,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -342,7 +342,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -453,7 +453,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -578,7 +578,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -708,7 +708,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -755,7 +755,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -816,7 +816,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -900,7 +900,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -984,7 +984,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1072,7 +1072,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1133,7 +1133,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1180,7 +1180,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1273,7 +1273,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1343,7 +1343,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -1395,7 +1395,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=baseball",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
         "batting": {
           "ab": 2,
           "r": 1,

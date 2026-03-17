@@ -2,13 +2,13 @@
   "school": "University of South Alabama",
   "base_url": "https://www.usajaguars.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:42:36.601013Z",
+  "generated_at": "2026-03-17T12:17:47.158621Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Louisiana",
     "result": "W 3-1",
-    "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+    "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
     "recap_url": "https://www.usajaguars.com/news/2026/3/15/baseball-jaguars-drop-rubber-match-at-louisiana.aspx",
     "recap_headline": "University of South Alabama Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -104,7 +104,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -193,7 +193,7 @@
         "date": "2026-03-14",
         "opponent": "Louisiana",
         "result": "W 4-3",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -277,7 +277,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -365,7 +365,7 @@
         "date": "2026-03-13",
         "opponent": "Louisiana",
         "result": "L 2-3",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11264&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11264&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -426,7 +426,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -579,7 +579,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -663,7 +663,7 @@
         "date": "2026-03-14",
         "opponent": "Louisiana",
         "result": "W 4-3",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -724,7 +724,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -776,7 +776,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -897,7 +897,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1018,7 +1018,7 @@
         "date": "2026-03-14",
         "opponent": "Louisiana",
         "result": "W 4-3",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1171,7 +1171,7 @@
         "date": "2026-03-15",
         "opponent": "Louisiana",
         "result": "W 3-1",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11266&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1227,7 +1227,7 @@
         "date": "2026-03-14",
         "opponent": "Louisiana",
         "result": "W 4-3",
-        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=baseball",
+        "boxscore_url": "https://www.usajaguars.com/boxscore.aspx?id=11265&path=",
         "batting": {
           "ab": 0,
           "r": 0,

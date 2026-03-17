@@ -2,7 +2,7 @@
   "school": "Seton Hall University",
   "base_url": "https://www.shupirates.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:27:21.923892Z",
+  "generated_at": "2026-03-17T12:04:18.742040Z",
   "record": "7-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -1301,23 +1301,23 @@
         "opp_avg": ".324"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Brown",
+        "date": "2026-03-07",
+        "opponent": "Louisville",
         "result": "L",
-        "boxscore_url": "https://www.shupirates.com/sports/baseball/stats/2026/brown/boxscore/11223",
+        "boxscore_url": "https://www.shupirates.com/sports/baseball/stats/2026/louisville/boxscore/11219",
         "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 7,
-          "r": 5,
-          "er": 5,
-          "bb": 1,
+          "ip": "2.0",
+          "h": 6,
+          "r": 8,
+          "er": 1,
+          "bb": 3,
           "so": 2,
           "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Brown, throwing 3.0 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+      "narrative": "2.0 IP, 2 K vs. Louisville (L). At 9.50 ERA through 16.1 innings on the season."
     },
     "98e5b8ed": {
       "id": "98e5b8ed",

@@ -2,13 +2,13 @@
   "school": "Jackson State University",
   "base_url": "https://www.gojsutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:15:20.427989Z",
+  "generated_at": "2026-03-17T11:52:53.169033Z",
   "record": "10-11",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Texas Southern",
     "result": "L 12-17",
-    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
     "recap_url": "https://www.gojsutigers.com/news/2026/3/15/baseball-tigers-pick-up-win-in-series-finale.aspx",
     "recap_headline": "Jackson State University",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -99,7 +99,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -192,7 +192,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -244,7 +244,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -291,7 +291,7 @@
         "date": "2026-03-13",
         "opponent": "Texas Southern",
         "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -347,7 +347,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -440,7 +440,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -533,7 +533,7 @@
         "date": "2026-03-13",
         "opponent": "Texas Southern",
         "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -594,7 +594,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -664,7 +664,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -720,7 +720,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -799,7 +799,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -897,7 +897,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -949,7 +949,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -1038,7 +1038,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 6,
           "r": 0,
@@ -1122,7 +1122,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1178,7 +1178,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1234,7 +1234,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1290,7 +1290,7 @@
         "date": "2026-03-13",
         "opponent": "Texas Southern",
         "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1378,7 +1378,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1434,7 +1434,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1495,7 +1495,7 @@
         "date": "2026-03-13",
         "opponent": "Texas Southern",
         "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -1542,7 +1542,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
         "batting": {
           "ab": 0,
           "r": 0,

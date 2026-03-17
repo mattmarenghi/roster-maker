@@ -2,13 +2,13 @@
   "school": "Southern University, Baton Rouge",
   "base_url": "https://www.gojagsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:27:57.211793Z",
+  "generated_at": "2026-03-17T12:04:51.346219Z",
   "record": "5-9",
   "most_recent_game": {
     "date": "2026-03-13",
     "opponent": "Florida A&M",
     "result": "W 12-7",
-    "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+    "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
@@ -47,7 +47,7 @@
         "date": "2026-03-03",
         "opponent": "McNeese St.",
         "result": "L 5-14",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -108,7 +108,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -197,7 +197,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -419,7 +419,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -508,7 +508,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -578,7 +578,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -657,7 +657,7 @@
         "date": "2026-03-03",
         "opponent": "McNeese St.",
         "result": "L 5-14",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -718,7 +718,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -770,7 +770,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -817,7 +817,7 @@
         "date": "2026-03-13",
         "opponent": "Florida A&M",
         "result": "W 12-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7495&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -910,7 +910,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1003,7 +1003,7 @@
         "date": "2026-03-03",
         "opponent": "McNeese St.",
         "result": "L 5-14",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1064,7 +1064,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 1,
           "r": 2,
@@ -1171,7 +1171,7 @@
         "date": "2026-03-03",
         "opponent": "McNeese St.",
         "result": "L 5-14",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1291,7 +1291,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1352,7 +1352,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1399,7 +1399,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1455,7 +1455,7 @@
         "date": "2026-03-03",
         "opponent": "McNeese St.",
         "result": "L 5-14",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1511,7 +1511,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1622,7 +1622,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1706,7 +1706,7 @@
         "date": "2026-03-03",
         "opponent": "McNeese St.",
         "result": "L 5-14",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7490&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1762,7 +1762,7 @@
         "date": "2026-03-10",
         "opponent": "Dillard University",
         "result": "W 20-7",
-        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7494&path=bb",
         "batting": {
           "ab": 0,
           "r": 0,

@@ -2,13 +2,13 @@
   "school": "Austin Peay State University",
   "base_url": "https://www.letsgopeay.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:05:13.911474Z",
+  "generated_at": "2026-03-17T11:42:52.340079Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Bellarmine",
     "result": "L 3-12",
-    "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+    "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
     "recap_url": "https://www.letsgopeay.com/news/2026/3/15/baseball-governors-salvage-series-at-bellarmine-with-nine-run-win-for-first-asun-series-win-of-season.aspx",
     "recap_headline": "Austin Peay State University Athletics",
     "recap_text": ""
@@ -89,7 +89,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -141,7 +141,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -193,7 +193,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -282,7 +282,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 6,
           "r": 2,
@@ -467,7 +467,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -523,7 +523,7 @@
         "date": "2026-03-13",
         "opponent": "Bellarmine",
         "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -579,7 +579,7 @@
         "date": "2026-03-13",
         "opponent": "Bellarmine",
         "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -658,7 +658,7 @@
         "date": "2026-03-13",
         "opponent": "Bellarmine",
         "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -760,7 +760,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -812,7 +812,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -864,7 +864,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -975,7 +975,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1036,7 +1036,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -1083,7 +1083,7 @@
         "date": "2026-03-13",
         "opponent": "Bellarmine",
         "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1139,7 +1139,7 @@
         "date": "2026-03-14",
         "opponent": "Bellarmine",
         "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1264,7 +1264,7 @@
         "date": "2026-03-14",
         "opponent": "Bellarmine",
         "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1316,7 +1316,7 @@
         "date": "2026-03-14",
         "opponent": "Bellarmine",
         "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1368,7 +1368,7 @@
         "date": "2026-03-13",
         "opponent": "Bellarmine",
         "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1415,7 +1415,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1471,7 +1471,7 @@
         "date": "2026-03-14",
         "opponent": "Bellarmine",
         "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1527,7 +1527,7 @@
         "date": "2026-03-14",
         "opponent": "Bellarmine",
         "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=baseball",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
         "batting": {
           "ab": 0,
           "r": 0,

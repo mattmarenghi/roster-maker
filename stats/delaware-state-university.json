@@ -2,13 +2,13 @@
   "school": "Delaware State University",
   "base_url": "https://www.dsuhornets.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:11:06.429969Z",
+  "generated_at": "2026-03-17T11:48:46.338499Z",
   "record": "1-17",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Mercyhurst",
     "result": "W 9-8",
-    "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+    "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
@@ -47,7 +47,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -108,7 +108,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -160,7 +160,7 @@
         "date": "2026-03-14",
         "opponent": "Mercyhurst",
         "result": "W 10-0",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=bsb",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -323,7 +323,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 3,
           "r": 3,
@@ -412,7 +412,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -491,7 +491,7 @@
         "date": "2026-03-13",
         "opponent": "Mercyhurst",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8496&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8496&path=bsb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -589,7 +589,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 3,
           "r": 3,
@@ -705,7 +705,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -757,7 +757,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -846,7 +846,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -893,7 +893,7 @@
         "date": "2026-03-14",
         "opponent": "Mercyhurst",
         "result": "W 10-0",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=bsb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -949,7 +949,7 @@
         "date": "2026-03-13",
         "opponent": "Mercyhurst",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8496&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8496&path=bsb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1005,7 +1005,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1066,7 +1066,7 @@
         "date": "2026-03-14",
         "opponent": "Mercyhurst",
         "result": "W 10-0",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=bsb",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1223,7 +1223,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1311,7 +1311,7 @@
         "date": "2026-03-14",
         "opponent": "Mercyhurst",
         "result": "W 10-0",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8497&path=bsb",
         "batting": {
           "ab": 0,
           "r": 0,

@@ -2,13 +2,13 @@
   "school": "High Point University",
   "base_url": "https://www.highpointpanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:14:23.151161Z",
+  "generated_at": "2026-03-17T11:51:49.795544Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "USC Upstate",
     "result": "L 5-7",
-    "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+    "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
     "recap_url": "https://www.highpointpanthers.com/news/2026/3/15/baseball-panthers-win-game-three-in-spartanburg.aspx",
     "recap_headline": "High Point University Athletics",
     "recap_text": ""
@@ -126,7 +126,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -173,7 +173,7 @@
         "date": "2026-03-14",
         "opponent": "USC Upstate",
         "result": "W 12-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -234,7 +234,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -281,7 +281,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -379,7 +379,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -468,7 +468,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -584,7 +584,7 @@
         "date": "2026-03-13",
         "opponent": "USC Upstate",
         "result": "W 9-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -640,7 +640,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -733,7 +733,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -780,7 +780,7 @@
         "date": "2026-03-13",
         "opponent": "USC Upstate",
         "result": "W 9-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -878,7 +878,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -925,7 +925,7 @@
         "date": "2026-03-14",
         "opponent": "USC Upstate",
         "result": "W 12-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -981,7 +981,7 @@
         "date": "2026-03-14",
         "opponent": "USC Upstate",
         "result": "W 12-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1037,7 +1037,7 @@
         "date": "2026-03-14",
         "opponent": "USC Upstate",
         "result": "W 12-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1162,7 +1162,7 @@
         "date": "2026-03-13",
         "opponent": "USC Upstate",
         "result": "W 9-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1223,7 +1223,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1270,7 +1270,7 @@
         "date": "2026-03-14",
         "opponent": "USC Upstate",
         "result": "W 12-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1326,7 +1326,7 @@
         "date": "2026-03-13",
         "opponent": "USC Upstate",
         "result": "W 9-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16106&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1387,7 +1387,7 @@
         "date": "2026-03-14",
         "opponent": "USC Upstate",
         "result": "W 12-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16107&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1471,7 +1471,7 @@
         "date": "2026-03-15",
         "opponent": "USC Upstate",
         "result": "L 5-7",
-        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=",
         "batting": {
           "ab": 1,
           "r": 1,

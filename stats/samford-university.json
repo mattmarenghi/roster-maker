@@ -2,13 +2,13 @@
   "school": "Samford University",
   "base_url": "https://samfordsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:26:14.768734Z",
+  "generated_at": "2026-03-17T12:03:17.409091Z",
   "record": "7-11",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Little Rock",
     "result": "L 2-12",
-    "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+    "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
     "recap_url": "https://samfordsports.com/news/2026/3/15/baseball-bulldogs-fall-in-game-three-to-little-rock.aspx",
     "recap_headline": "Samford University Athletics",
     "recap_text": ""
@@ -89,7 +89,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -141,7 +141,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -188,7 +188,7 @@
         "date": "2026-03-14",
         "opponent": "Little Rock",
         "result": "L 1-5",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -318,7 +318,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -374,7 +374,7 @@
         "date": "2026-03-14",
         "opponent": "Little Rock",
         "result": "L 1-5",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -435,7 +435,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -482,7 +482,7 @@
         "date": "2026-03-14",
         "opponent": "Little Rock",
         "result": "L 1-5",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -538,7 +538,7 @@
         "date": "2026-03-13",
         "opponent": "Little Rock",
         "result": "W 5-4",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13695&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13695&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -631,7 +631,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -678,7 +678,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -739,7 +739,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -823,7 +823,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -884,7 +884,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -936,7 +936,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -983,7 +983,7 @@
         "date": "2026-03-13",
         "opponent": "Little Rock",
         "result": "W 5-4",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13695&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13695&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1044,7 +1044,7 @@
         "date": "2026-03-14",
         "opponent": "Little Rock",
         "result": "L 1-5",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1160,7 +1160,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1221,7 +1221,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1268,7 +1268,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1356,7 +1356,7 @@
         "date": "2026-03-13",
         "opponent": "Little Rock",
         "result": "W 5-4",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13695&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13695&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1449,7 +1449,7 @@
         "date": "2026-03-15",
         "opponent": "Little Rock",
         "result": "L 2-12",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13697&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

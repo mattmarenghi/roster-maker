@@ -2,13 +2,13 @@
   "school": "University of the Pacific",
   "base_url": "https://www.pacifictigers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T02:45:34.188407Z",
+  "generated_at": "2026-03-17T12:20:18.545497Z",
   "record": "8-11",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Sacramento St.",
     "result": "L 6-18",
-    "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+    "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
     "recap_url": "https://www.pacifictigers.com/news/2026/3/15/baseball-richards-launches-home-run-in-series-finale.aspx",
     "recap_headline": "University of the Pacific",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-13",
         "opponent": "Sacramento State",
         "result": "L 3-5",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10545&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10545&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -141,7 +141,7 @@
         "date": "2026-03-14",
         "opponent": "Sacramento St.",
         "result": "W 7-6",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -193,7 +193,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -319,7 +319,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -371,7 +371,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -418,7 +418,7 @@
         "date": "2026-03-14",
         "opponent": "Sacramento St.",
         "result": "W 7-6",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -479,7 +479,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -664,7 +664,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -711,7 +711,7 @@
         "date": "2026-03-14",
         "opponent": "Sacramento St.",
         "result": "W 7-6",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -767,7 +767,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -828,7 +828,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -917,7 +917,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -964,7 +964,7 @@
         "date": "2026-03-14",
         "opponent": "Sacramento St.",
         "result": "W 7-6",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1025,7 +1025,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1136,7 +1136,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1192,7 +1192,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1253,7 +1253,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1337,7 +1337,7 @@
         "date": "2026-03-14",
         "opponent": "Sacramento St.",
         "result": "W 7-6",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10546&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1393,7 +1393,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1449,7 +1449,7 @@
         "date": "2026-03-13",
         "opponent": "Sacramento State",
         "result": "L 3-5",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10545&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1505,7 +1505,7 @@
         "date": "2026-03-13",
         "opponent": "Sacramento State",
         "result": "L 3-5",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10545&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1561,7 +1561,7 @@
         "date": "2026-03-15",
         "opponent": "Sacramento St.",
         "result": "L 6-18",
-        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
