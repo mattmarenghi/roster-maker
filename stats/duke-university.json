@@ -2,7 +2,7 @@
   "school": "Duke University",
   "base_url": "https://www.goduke.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:05:24.395901Z",
+  "generated_at": "2026-03-17T01:00:12.163553Z",
   "record": "15-7",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Lougee",
       "pos": "INF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Duke University",
       "season_batting": {
         "g": 2,
@@ -67,7 +67,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against High Point. Struggled to make contact."
+      "narrative": "Limited opportunities have defined Lougee's early season arc\u2014benched for Tuesday's loss to High Point, he recorded just one plate appearance in a game Duke couldn't recover from after surrendering six first-inning runs. Through two games, the sophomore infielder remains hitless with no RBI, signaling he's yet to break into the Blue Devils' primary lineup rotation."
     },
     "1082d2c4": {
       "id": "1082d2c4",
@@ -76,7 +76,7 @@
       "ln": "Zorn",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Duke University",
       "season_batting": {
         "g": 16,
@@ -122,7 +122,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Miami FL. Contributed at the plate in the team's L."
+      "narrative": "In a shutout loss to Miami, Zorn went 1-for-3 with two strikeouts and a walk, unable to contribute in an offensive drought that saw Duke manage only scattered baserunners despite four double plays turned defensively. Now 16 games into his junior season, the outfielder sits at a .196 average with just one home run and nine RBIs, signaling a concerning start that demands a significant offensive adjustment moving forward."
     },
     "82657e7c": {
       "id": "82657e7c",
@@ -131,7 +131,7 @@
       "ln": "Quagliano",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Duke University",
       "season_batting": {
         "g": 21,
@@ -177,7 +177,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 1 RBI against Miami FL. Had an outstanding performance at the plate (0.400)."
+      "narrative": "In Duke's 20-10 run-rule victory over Miami, Quagliano contributed a pair of hits and two runs scored in a showcase of offensive depth where six Blue Devils registered multiple RBIs in a dominant ACC series clincher. Through 21 games, the junior infielder maintained a .292 average with 19 hits while drawing interest as a steady table-setter in Duke's prolific lineup that has already stolen 96 bases this season."
     },
     "ea475a8a": {
       "id": "ea475a8a",
@@ -186,7 +186,7 @@
       "ln": "Albright",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Duke University",
       "season_batting": {
         "g": 21,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 2 RBI against Miami FL. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Albright extended his nation-leading walk total to 32 with three more free passes in Duke's 20-10 run-rule victory over Miami, showcasing elite plate discipline in a dominant offensive display. Through 21 games, the senior outfielder has maintained a .309 average with 17 RBI while drawing walks at an exceptional rate\u2014a skill-set that projects well for advanced on-base metrics at the next level."
     },
     "8478bd88": {
       "id": "8478bd88",
@@ -241,7 +241,7 @@
       "ln": "Strand",
       "pos": "C",
       "yr": "Gr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Duke University",
       "season_batting": {
         "g": 13,
@@ -287,7 +287,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 6 RBI against Miami FL. Hit 2 home run(s). Had an outstanding performance at the plate (0.667)."
+      "narrative": "Strand delivered a two-homer, six-RBI performance anchored by a first-inning grand slam to power Duke's 20-run offensive explosion against Miami, the program's first 20-run ACC game since 1992. Through 13 games, the junior backstop has posted a .304 average with 4 homers and 12 RBI, demonstrating increased power production as the Blue Devils chase their first ACC series win of the season."
     },
     "156b7173": {
       "id": "156b7173",
@@ -296,7 +296,7 @@
       "ln": "Lambdin",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Duke University",
       "season_batting": {
         "g": 22,
@@ -342,7 +342,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Miami FL. Contributed at the plate in the team's W."
+      "narrative": "In Duke's run-rule victory over Miami, Lambdin drew two walks while scoring three runs in an offensive showcase where the Blue Devils reached 20 runs for only the second time this season. Through 22 games, the junior infielder has struggled at the plate (.265 AVG, 4 HR) but continues to demonstrate on-base skills that could unlock more consistent production as the ACC slate deepens."
     },
     "dce3bddb": {
       "id": "dce3bddb",
@@ -351,7 +351,7 @@
       "ln": "Regulski",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -390,7 +390,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against High Point, throwing 0.2 innings. Allowed 6 earned run(s) with 0 strikeout(s)."
+      "narrative": "Regulski lasted just two-thirds of an inning against High Point, surrendering six runs on five hits as Duke's pitching staff struggled to contain the Panthers' early offensive onslaught in Tuesday's 12-6 loss. Through seven-plus innings on the season, the freshman right-hander carries a 16.48 ERA with just two strikeouts, signaling significant early-year development needs before meaningful ACC competition intensifies."
     },
     "ce2ee4c7": {
       "id": "ce2ee4c7",
@@ -399,7 +399,7 @@
       "ln": "Hamilton",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Duke University",
       "season_batting": {
         "g": 19,
@@ -445,7 +445,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against High Point. Contributed at the plate in the team's L."
+      "narrative": "Hamilton went 1-for-3 with a strikeout in Duke's 12-6 road loss to High Point, unable to capitalize as the Blue Devils fell behind early after the Panthers' six-run first inning. Through 19 games, the junior infielder/outfielder has maintained a team-competitive .349 average (22 H) with 16 RBI, establishing himself as a consistent contributor in the middle of Duke's lineup ahead of the Miami series."
     },
     "d9cc0d8b": {
       "id": "d9cc0d8b",
@@ -454,7 +454,7 @@
       "ln": "Petrone",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Duke University",
       "season_batting": {
         "g": 7,
@@ -500,7 +500,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 2 RBI against Miami FL. Had an outstanding performance at the plate (0.500)."
+      "narrative": "In Duke's 20-10 run-rule victory over Miami, Petrone contributed a pair of hits and two RBI while working a walk in the Blue Devils' offensive explosion led by Matthew Strand's two-homer, six-RBI performance. Through seven games, the infielder has maintained a .307 average with modest power production (0 HR, 3 RBI), positioning him as a complementary bat in Duke's high-octane lineup as the ACC season ramps up."
     },
     "95eb4bd3": {
       "id": "95eb4bd3",
@@ -509,7 +509,7 @@
       "ln": "Weaver",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -548,7 +548,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 6.0 innings. Struck out 8 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."
+      "narrative": "Senior RHP dominated Miami with a six-inning shutout Friday, needing just 89 pitches to strike out eight while allowing two hits\u2014his third start this spring with 8+ K's and two or fewer runs. The 4-1 record and 3.64 ERA over 27.2 IP positions Weaver as a reliable weekend starter for Duke's ACC tournament push heading into the final month."
     },
     "06324faf": {
       "id": "06324faf",
@@ -557,7 +557,7 @@
       "ln": "Hart",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -596,7 +596,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Notre Dame, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Limited to 1.1 IP in a conference-opening loss to Notre Dame, Hart yielded two hits and a run while striking out one in a short outing that underscored Duke's bullpen depth against a ranked opponent. Early-season workload remains modest at 3.2 IP across appearances, though his 2.81 ERA and 5 K's suggest effective stuff when given opportunities to pitch deeper into games."
     },
     "5f13c6f4": {
       "id": "5f13c6f4",
@@ -605,7 +605,7 @@
       "ln": "Bell",
       "pos": "INF",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Duke University",
       "season_batting": {
         "g": 5,
@@ -651,7 +651,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Milwaukee. Struggled to make contact."
+      "narrative": "In a dominant 20-3 victory over Milwaukee, Bell appeared in limited action as part of Duke's explosive offensive display that featured five different multi-RBI contributors and a pitching performance anchored by Aidan Weaver's nine strikeouts through five innings. Through five games, the sophomore infielder remains hitless at the plate with no RBIs, signaling early developmental concerns despite the team's fast 5-1 start to the season."
     },
     "f828c713": {
       "id": "f828c713",
@@ -660,7 +660,7 @@
       "ln": "Johnson",
       "pos": "OF",
       "yr": "So.",
-      "num": "15.0",
+      "num": "15",
       "school": "Duke University",
       "season_batting": {
         "g": 2,
@@ -706,7 +706,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Notre Dame. Struggled to make contact."
+      "narrative": "In his second game of the season, Johnson went hitless against Notre Dame's Jack Radel, striking out in limited action as Duke's offense struggled early before mounting a late rally in the 10-4 conference loss. The sophomore has yet to record a hit through two games, leaving him with a .200 average and no RBIs as the Blue Devils begin their ACC schedule."
     },
     "601a9476": {
       "id": "601a9476",
@@ -715,7 +715,7 @@
       "ln": "Marsh",
       "pos": "1B/OF",
       "yr": "Gr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Duke University",
       "season_batting": {
         "g": 15,
@@ -761,7 +761,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against High Point. Struggled to make contact."
+      "narrative": "Marsh went hitless in three at-bats with two strikeouts against High Point, extending struggles in a Duke lineup that couldn't recover from a six-run first-inning deficit in the 12-6 loss. Through 15 games, the senior first baseman/outfielder is hitting just .212 with 2 homers and 10 RBI, suggesting diminished production in what appears to be a final collegiate season."
     },
     "63deb6ff": {
       "id": "63deb6ff",
@@ -770,7 +770,7 @@
       "ln": "Canon",
       "pos": "C/OF",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Duke University",
       "season_batting": {
         "g": 14,
@@ -816,7 +816,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 0 RBI against Princeton. Had an outstanding performance at the plate (1.000)."
+      "narrative": "In Duke's 20-10 run-rule victory over Miami, Canon worked a walk in limited opportunities as part of a Blue Devils offensive explosion that featured six different players driving in multiple runs and a program-tying 20-run outburst in conference play. Through 14 games, the junior is hitting .452 with 6 home runs and 21 RBI, establishing himself as a consistent run-producer in Duke's high-octane lineup."
     },
     "a2be0cdb": {
       "id": "a2be0cdb",
@@ -825,7 +825,7 @@
       "ln": "Runfola",
       "pos": "C/OF",
       "yr": "Gr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Duke University",
       "season_batting": {
         "g": 2,
@@ -871,7 +871,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against High Point. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "In a losing effort against High Point, Runfola drew two walks while scoring a run\u2014one of the few bright spots in Duke's offensive struggles as the Blue Devils fell 12-6 after conceding six runs in the first inning. Through two games to open the season, the C/OF remains hitless at the plate with a team that has alternated between strong offensive performances and early-inning collapses, setting the stage for a critical ACC home series against Miami."
     },
     "b7f486cd": {
       "id": "b7f486cd",
@@ -880,7 +880,7 @@
       "ln": "DiMartini",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Duke University",
       "season_batting": {
         "g": 21,
@@ -926,7 +926,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Miami FL. Had an outstanding performance at the plate (0.500)."
+      "narrative": "Despite Duke's shutout loss to Miami, DiMartini recorded the game's lone extra-base hit with a double and aggressive baserunning (stealing third), showing offensive spark in an otherwise dormant lineup. The junior's .179 average through 21 games reflects a prolonged slump that has limited his impact to just 2 home runs and 12 RBI on the season."
     },
     "4da5e11a": {
       "id": "4da5e11a",
@@ -935,7 +935,7 @@
       "ln": "Troch",
       "pos": "OF",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "Duke University",
       "season_batting": {
         "g": 11,
@@ -981,7 +981,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Miami FL. Contributed at the plate in the team's W."
+      "narrative": "In Duke's 20-10 run-rule victory over Miami, Troch contributed a walk and scored twice in an offensive explosion anchored by Matthew Strand's pair of homers and six RBIs. Through 11 games, the sophomore outfielder is hitting .294 with modest power production (0 HR, 3 RBI) while demonstrating plate discipline as part of a Blue Devils lineup that's worked 12 walks in this contest alone."
     },
     "6ae436b7": {
       "id": "6ae436b7",
@@ -990,7 +990,7 @@
       "ln": "Boisvert",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1029,7 +1029,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 2.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Entered in relief after Duke's starter exited with injury in the first inning, Boisvert navigated 2.1 innings of clean baseball against Miami, allowing just one hit while striking out two in a 9-0 loss. Through early season action, the right-hander has emerged as a reliable bullpen arm with a 0.00 ERA across 4.1 innings pitched and a 9:1 strikeout-to-walk ratio."
     },
     "a3186d5c": {
       "id": "a3186d5c",
@@ -1038,7 +1038,7 @@
       "ln": "Perez",
       "pos": "1B/OF",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Duke University",
       "season_batting": {
         "g": 18,
@@ -1084,7 +1084,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 2 RBI against Miami FL. Hit 1 home run(s). Contributed at the plate in the team's W."
+      "narrative": "Perez provided the final blow in Duke's offensive showcase against Miami, belting a two-run homer in the seventh inning to punctuate a 20-10 run-rule victory that marked the program's first ACC series win of 2026. The freshman's season-long struggles at the plate (.222 AVG, 10 H in 18 G) belie occasional power potential, with this two-RBI performance representing his second multi-RBI game of the year despite limited offensive production overall."
     },
     "627fd26a": {
       "id": "627fd26a",
@@ -1093,7 +1093,7 @@
       "ln": "Johnson",
       "pos": "C/1B",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Duke University",
       "season_batting": {
         "g": 2,
@@ -1139,7 +1139,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Maine. Struggled to make contact."
+      "narrative": "Johnson went hitless in four at-bats during Duke's season-opening win over Maine, struggling to make an impact while teammates like Jake Lambdin and RJ Hamilton carried the offensive load with extra-base hits. Through two early-season games, the sophomore backstop has managed just one hit on a .200 average with no RBIs, suggesting a slow start that warrants monitoring as the Blue Devils continue building chemistry under new head coach Corey Muscara."
     },
     "fe4fa01d": {
       "id": "fe4fa01d",
@@ -1148,7 +1148,7 @@
       "ln": "Anderson",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Duke University",
       "season_batting": {
         "g": 9,
@@ -1210,7 +1210,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Notre Dame, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "A brief mop-up appearance in Duke's 10-4 ACC-opening loss to Notre Dame saw Anderson limited to 1.2 innings with three earned runs allowed on three hits, marking a rough outing as the Blue Devils' bullpen couldn't contain the Fighting Irish's fifth-inning explosion. The right-hander, who has appeared in nine games this season with a .280 batting average and two homers, looks to bounce back as Duke seeks to even the series Saturday."
     },
     "47fb492e": {
       "id": "47fb492e",
@@ -1219,7 +1219,7 @@
       "ln": "Lemke",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1258,7 +1258,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "In a shutout win over Miami, Lemke pitched clean relief across two innings with two strikeouts and no hits allowed, maintaining Duke's dominant pitching performance in a 4-0 victory. The junior right-hander has now compiled 23 strikedowns through 14.2 spring innings with a 2.54 ERA, establishing himself as a reliable middle-relief option in the Blue Devils' rotation."
     },
     "82faa2d3": {
       "id": "82faa2d3",
@@ -1267,7 +1267,7 @@
       "ln": "LaPalm",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1306,7 +1306,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "Called in to stabilize after starter Matthew Nochowitz exited with a first-inning arm injury, LaPalm recorded just one strikeout across 0.2 innings in Duke's 9-0 shutout loss to Miami, unable to slow the Hurricanes' early offensive barrage. Through seven innings pitched this season, the junior southpaw owns a 3.86 ERA with nine strikeouts, positioning him as a key bullpen asset despite the abbreviated outing against a strong ACC opponent."
     },
     "7ca13062": {
       "id": "7ca13062",
@@ -1315,7 +1315,7 @@
       "ln": "Nochowitz",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1354,7 +1354,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 0.2 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+      "narrative": "Throwing arm injury forced an early exit after just 13 pitches in the first inning against Miami, with Nochowitz unable to escape the opening frame as the Hurricanes built an early 3-0 lead. Season-long control issues (9 BB in 17.0 IP) paired with elevated ERA (9.00) now compounded by injury designation heading into the weekend rubber match, raising durability questions for the junior starter."
     },
     "639e24f2": {
       "id": "639e24f2",
@@ -1363,7 +1363,7 @@
       "ln": "O'Connell",
       "pos": "LHP",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1402,7 +1402,7 @@
           "hbp": 2
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 1.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "Striking out one in 1.2 scoreless innings of relief, O'Connell continued Duke's dominant pitching performance in a 20-10 run-rule victory over Miami, maintaining a spotless ERA across his last three appearances. Through 11.2 IP this season, the sophomore LHP has compiled 17 strikeouts against a 4.02 ERA, establishing himself as a reliable depth option in the Blue Devils' bullpen rotation."
     },
     "cea9aa42": {
       "id": "cea9aa42",
@@ -1411,7 +1411,7 @@
       "ln": "Leon",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1450,7 +1450,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 3.1 innings. Allowed 6 earned run(s) with 2 strikeout(s)."
+      "narrative": "Leon opened Duke's run-rule victory over Miami with a clean first inning on just eight pitches before the offense exploded behind him, though he surrendered six earned runs across 3.1 innings in a game that got away early. Through 20 innings this season, the righty has posted a 4.05 ERA with 20 strikeouts but inconsistent command (3 BB in last outing), signaling a pitcher still working to harness stuff in conference play."
     },
     "711d90fb": {
       "id": "711d90fb",
@@ -1459,7 +1459,7 @@
       "ln": "Duncan",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Duke University",
       "season_batting": {
         "g": 2,
@@ -1505,7 +1505,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against High Point. Struggled to make contact."
+      "narrative": "Limited opportunity characterized Duncan's appearance in Duke's 12-6 loss to High Point, recording a pinch-hit at-bat without contact in a game where the Blue Devils' offensive firepower came from Anderson, Lambdin, and Smith. Through two games to start his freshman campaign, Duncan remained without a hit and faces the challenge of breaking into the lineup as Duke (13-6, 1-2 ACC) opens conference play against Miami."
     },
     "0f0057b8": {
       "id": "0f0057b8",
@@ -1514,7 +1514,7 @@
       "ln": "Anderson",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Duke University",
       "season_batting": {
         "g": 9,
@@ -1578,7 +1578,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 2 RBI against Miami FL. Contributed at the plate in the team's W."
+      "narrative": "In a 20-10 run-rule victory over Miami, Anderson contributed a hit and two RBI while working a walk in Duke's offensive showcase that featured six different Blue Devils with multiple RBI. The freshman infielder is now hitting .280 through nine games with two homers, showing early promise in a loaded Duke lineup that has already posted 96 stolen bases and is chasing the program's single-season record."
     },
     "7b31a3fe": {
       "id": "7b31a3fe",
@@ -1587,7 +1587,7 @@
       "ln": "DiGiacomo",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1626,7 +1626,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "DiGiacomo entered a lopsided contest already out of hand\u2014Miami had built a 7-0 lead before he threw a pitch\u2014and managed just 1.1 innings of relief work with a strikeout against the Hurricanes' potent lineup. Through early season samples (7.2 IP, 3.75 ERA), the senior right-hander remains a complementary bullpen option for Duke's rotation depth, though Saturday's brief outing offered limited evaluation against a dominant opponent."
     },
     "dc5e5222": {
       "id": "dc5e5222",
@@ -1635,7 +1635,7 @@
       "ln": "Feehery",
       "pos": "LHP",
       "yr": "So.",
-      "num": "37.0",
+      "num": "37",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1667,7 +1667,7 @@
       "ln": "Mastroianni",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1706,7 +1706,7 @@
           "hbp": 2
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 1.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
+      "narrative": "Called into relief against Miami with Duke's starter injured in the first inning, Mastroianni recorded two strikeouts in a single frame but couldn't prevent the Hurricanes' offensive onslaught in a 9-0 shutout loss. Through 12.2 innings on the young season, the junior southpaw sits at a 4.43 ERA with an 8:5 K:BB ratio, positioning him as a depth option in Duke's bullpen rotation."
     },
     "6f4b08b5": {
       "id": "6f4b08b5",
@@ -1715,7 +1715,7 @@
       "ln": "Hedrick",
       "pos": "RHP",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1754,7 +1754,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 2.0 innings. Allowed 4 earned run(s) with 4 strikeout(s)."
+      "narrative": "Hedrick posted a respectable 2.0 IP outing with 4 K and 2 BB against Miami, though the dominant offensive display (Duke's 20-run effort) overshadowed what was a solid relief appearance in a run-rule victory. Through 17.1 IP this season, the sophomore has maintained a 3.16 ERA with 18 K, establishing himself as a dependable mid-rotation arm for the Blue Devils' ACC campaign."
     },
     "484fd671": {
       "id": "484fd671",
@@ -1763,7 +1763,7 @@
       "ln": "Dean",
       "pos": "RHP",
       "yr": "So.",
-      "num": "45.0",
+      "num": "45",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1802,7 +1802,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "In a combined Duke shutout against Miami, Dean entered the ninth inning with runners in scoring position and recorded the first two outs on strike stuff before the save situation closed. Through 16.2 spring innings, the sophomore has struck out 29 while posting a 2.22 ERA, establishing himself as a reliable late-inning option in a deep Blue Devils bullpen."
     },
     "401b3ba9": {
       "id": "401b3ba9",
@@ -1811,7 +1811,7 @@
       "ln": "Goodner",
       "pos": "INF",
       "yr": "So.",
-      "num": "47.0",
+      "num": "47",
       "school": "Duke University",
       "season_batting": {
         "g": 1,
@@ -1857,7 +1857,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 1 RBI against Milwaukee. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
+      "narrative": "In his first career at-bat, Goodner went deep against Milwaukee in Duke's explosive 20-3 victory, joining teammate Trevor Johnson in launching a homer in their respective debuts. The sophomore infielder remains perfect through one game on the young season with a 1.000 average and 1 HR, positioning himself as a potential depth contributor for the Blue Devils' infield."
     },
     "10c8d3a0": {
       "id": "10c8d3a0",
@@ -1866,7 +1866,7 @@
       "ln": "Bryan",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "48.0",
+      "num": "48",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -1905,7 +1905,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against High Point, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "Struggled in relief against High Point, surrendering an earned run on a walk in just 1.0 IP as Duke's bullpen couldn't contain the Panthers' early six-run outburst in a 12-6 loss. Through 3.2 IP this season, Bryan carries a 5.62 ERA with 4 K but limited command issues, suggesting opportunity remains to solidify a role as the Blue Devils prepare for ACC play."
     },
     "d94c9d9c": {
       "id": "d94c9d9c",
@@ -1914,7 +1914,7 @@
       "ln": "Smith",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "49.0",
+      "num": "49",
       "school": "Duke University",
       "season_batting": {
         "g": 10,
@@ -1960,7 +1960,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 2 RBI against Miami FL. Hit 1 home run(s). Had an outstanding performance at the plate (0.667)."
+      "narrative": "Smith went deep in Duke's offensive eruption against Miami, posting a third homer on the season while contributing 3 runs and 2 RBI in a run-rule victory that showcased the Blue Devils' balanced scoring attack with six different players driving in multiple runs. Through 10 games, the junior infielder has maintained a .305 average with solid power production (3 HR, 10 RBI), establishing himself as a complementary run-producer in Duke's lineup alongside Matthew Strand's early-season dominance."
     },
     "8cc84cfe": {
       "id": "8cc84cfe",
@@ -1969,7 +1969,7 @@
       "ln": "Walker",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "51.0",
+      "num": "51",
       "school": "Duke University",
       "season_batting": null,
       "season_pitching": {
@@ -2008,7 +2008,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Miami FL, throwing 3.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "Walker entered in relief after Duke's starter suffered a throwing-arm injury in the first inning, quietly navigating three scoreless frames against Miami while the offense collapsed in a 9-0 shutout loss. Through 6.2 innings on the young season, the right-hander has posted a 1.45 ERA with just one earned run allowed, establishing himself as a reliable bullpen option for the Blue Devils' ACC rotation depth."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
