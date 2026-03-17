@@ -1085,8 +1085,10 @@ def scrape_recap(url: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
 
     # Try specific story headline selector first, fall back to h1
+    # Supports both old SIDEARM (.story-page__content__title-box) and new Nuxt platform (.article-head)
     headline_el = (
         soup.select_one(".story-page__content__title-box h1")
+        or soup.select_one(".article-head h1")
         or soup.select_one(".s-page-title")
         or soup.select_one("h1.s-title")
         or soup.select_one("h1")
@@ -1095,7 +1097,14 @@ def scrape_recap(url: str) -> dict:
     # Strip date/sport suffix often appended e.g. "Title | 2/24/2026|Baseball"
     headline = re.split(r"\s*[\|]\s*\d", headline_raw)[0].strip() if headline_raw else ""
 
-    body_el = soup.select_one(".story-page__content__body")
+    # Article body: old SIDEARM uses .story-page__content__body;
+    # new Nuxt-based SIDEARM uses .embed-html inside .text-content
+    body_el = (
+        soup.select_one(".story-page__content__body")
+        or soup.select_one(".text-content .embed-html")
+        or soup.select_one(".embed-html")
+        or soup.select_one(".content-blocks")
+    )
     article_text = body_el.get_text(separator="\n", strip=True) if body_el else ""
 
     # Game bug / score card
@@ -1203,7 +1212,7 @@ def parse_boxscore_name(raw: str) -> tuple[str, str]:
 # ---------------------------------------------------------------------------
 
 def generate_narrative_claude(player: dict, game_info: dict, article_text: str) -> str:
-    """Generate a 2-3 sentence narrative using Claude API."""
+    """Generate a compact 2-sentence narrative using Claude API."""
     try:
         import anthropic
     except ImportError:
@@ -1215,19 +1224,19 @@ def generate_narrative_claude(player: dict, game_info: dict, article_text: str) 
 
     client = anthropic.Anthropic(api_key=api_key)
 
-    # Build stats context
+    # Build last-game stats string
     last_game = player.get("last_game", {})
     batting = last_game.get("batting")
     pitching = last_game.get("pitching")
 
-    if batting:
+    if batting and batting.get("ab", 0) > 0:
         stats_str = (
             f"Batting: {batting['h']}-for-{batting['ab']}, "
-            f"{batting['r']} run(s), {batting['rbi']} RBI, {batting['bb']} BB, {batting['so']} SO"
+            f"{batting['r']} R, {batting['rbi']} RBI, {batting['bb']} BB, {batting['so']} SO"
         )
         if batting.get("hr", 0):
             stats_str += f", {batting['hr']} HR"
-    elif pitching:
+    elif pitching and str(pitching.get("ip", "0")) not in ("0", "0.0"):
         stats_str = (
             f"Pitching: {pitching['ip']} IP, {pitching['h']} H, "
             f"{pitching['r']} R, {pitching['er']} ER, {pitching['bb']} BB, {pitching['so']} K"
@@ -1235,28 +1244,47 @@ def generate_narrative_claude(player: dict, game_info: dict, article_text: str) 
     else:
         return ""  # player didn't appear in this game
 
+    # Build season context string
+    sb = player.get("season_batting") or {}
+    sp = player.get("season_pitching") or {}
+    season_str = ""
+    if sb.get("ab", 0) > 0:
+        ba = sb["h"] / sb["ab"]
+        season_str = (
+            f"Season: {sb.get('g', '?')} G, .{int(ba * 1000):03d} AVG, "
+            f"{sb['h']} H, {sb.get('hr', 0)} HR, {sb['rbi']} RBI"
+        )
+    elif sp.get("ip") and str(sp.get("ip", "0")) not in ("0", "0.0"):
+        try:
+            ip_f = float(str(sp["ip"]).split("+")[0])
+            era = round(sp.get("er", 0) * 9 / ip_f, 2) if ip_f > 0 else 0.0
+        except (ValueError, TypeError):
+            era = 0.0
+        season_str = (
+            f"Season: {sp['ip']} IP, {sp.get('so', 0)} K, "
+            f"{sp.get('er', 0)} ER, {era:.2f} ERA"
+        )
+
     opponent = game_info.get("opponent", "the opponent")
     date = game_info.get("date", "")
     result_str = game_info.get("result", "")
 
-    prompt = f"""You are a college baseball beat writer. Write a 2-3 sentence narrative description
-of this player's performance in their most recent game. Be specific, vivid, and use the article text
-for context if relevant. Do not start with the player's name. Write in past tense.
+    prompt = f"""You are a college baseball analyst writing a compact player spotlight for a scouting database.
 
-Player: {player['name']}
-Position: {player.get('pos', 'N/A')}
-Game: {date} vs {opponent} ({result_str})
-Stats: {stats_str}
+Player: {player['name']} | {player.get('pos', 'N/A')} | {player.get('yr', '')} | {player.get('school', '')}
+Game ({date}): vs {opponent} ({result_str})
+Last game: {stats_str}
+{season_str}
 
-Game recap article for context:
-{article_text[:2000]}
+Game recap (use for context if available):
+{article_text[:2000] if article_text else '[No recap available]'}
 
-Write ONLY the 2-3 sentence narrative, nothing else."""
+Write exactly 2 sentences. Sentence 1: the game performance — lead with the most compelling angle (a streak, opponent quality, or a specific moment from the recap beats restating the box score). Sentence 2: season context or bigger-picture significance. Use stat-forward, fragment-friendly phrasing. No markdown. No headers. Past tense. Do not start with the player's name."""
 
     try:
         message = client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=200,
+            max_tokens=150,
             messages=[{"role": "user", "content": prompt}],
         )
         return message.content[0].text.strip()
@@ -1273,50 +1301,48 @@ def generate_narrative_template(player: dict, game_info: dict) -> str:
     opponent = game_info.get("opponent", "the opponent")
     result = game_info.get("result", "")
 
-    # Pitching takes priority for pitchers (meaningful IP)
     has_meaningful_pitch = pitching and str(pitching.get("ip", "0")) not in ("0", "0.0")
     has_meaningful_bat = batting and batting.get("ab", 0) > 0
 
-    if has_meaningful_pitch:
-        # Pitching narrative (batting will be ignored even if present with 0 AB)
-        pass
-    elif has_meaningful_bat:
-        batting = batting  # use batting below
-    else:
+    if not has_meaningful_pitch and not has_meaningful_bat:
         return ""
 
-    if has_meaningful_pitch and not has_meaningful_bat:
-        batting = None  # suppress batting template for pure pitchers
+    # Build season context suffix
+    sb = player.get("season_batting") or {}
+    sp = player.get("season_pitching") or {}
+    season_note = ""
+    if has_meaningful_bat and sb.get("ab", 0) > 0:
+        ba = sb["h"] / sb["ab"]
+        season_note = f" Hitting .{int(ba * 1000):03d} with {sb.get('hr', 0)} HR through {sb.get('g', '?')} games."
+    elif has_meaningful_pitch and sp.get("ip") and str(sp.get("ip", "0")) not in ("0", "0.0"):
+        try:
+            ip_f = float(str(sp["ip"]).split("+")[0])
+            era = round(sp.get("er", 0) * 9 / ip_f, 2) if ip_f > 0 else 0.0
+            season_note = f" At {era:.2f} ERA through {sp['ip']} innings on the season."
+        except (ValueError, TypeError):
+            pass
 
-    if batting and has_meaningful_bat:
-        avg = f"{batting['h']}/{batting['ab']}" if batting["ab"] > 0 else "0/0"
-        parts = [f"Went {avg} with {batting['rbi']} RBI against {opponent}."]
-        if batting.get("hr", 0):
-            parts.append(f"Hit {batting['hr']} home run(s).")
-        if batting["ab"] > 0:
-            ba = batting["h"] / batting["ab"]
-            if ba >= 0.400:
-                parts.append(f"Had an outstanding performance at the plate ({ba:.3f}).")
-            elif ba >= 0.250:
-                parts.append(f"Contributed at the plate in the team's {result}.")
-            else:
-                parts.append(f"Struggled at the plate but saw {batting['bb']} walk(s)." if batting.get("bb") else "Struggled to make contact.")
-        return " ".join(parts)
+    if has_meaningful_bat and not (has_meaningful_pitch and not has_meaningful_bat):
+        avg = f"{batting['h']}/{batting['ab']}"
+        hr_note = f", {batting['hr']} HR" if batting.get("hr", 0) else ""
+        line = f"{avg} with {batting['rbi']} RBI{hr_note} vs. {opponent} ({result})."
+        return line + season_note
 
     if has_meaningful_pitch:
         try:
             ip_float = float(str(pitching["ip"]).split("+")[0])
         except (ValueError, TypeError):
             ip_float = 0.0
-        parts = [f"Took the mound against {opponent}, throwing {pitching['ip']} innings."]
         if ip_float >= 5:
-            parts.append(
-                f"Struck out {pitching['so']} while allowing just {pitching['h']} hit(s) "
-                f"and {pitching['er']} earned run(s) in a quality start."
+            line = (
+                f"{pitching['ip']} IP, {pitching['so']} K, {pitching['er']} ER "
+                f"vs. {opponent} ({result})."
             )
         else:
-            parts.append(f"Allowed {pitching['er']} earned run(s) with {pitching['so']} strikeout(s).")
-        return " ".join(parts)
+            line = (
+                f"{pitching['ip']} IP, {pitching['so']} K vs. {opponent} ({result})."
+            )
+        return line + season_note
 
     return ""
 

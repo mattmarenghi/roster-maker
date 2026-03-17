@@ -2,7 +2,7 @@
   "school": "Davidson College",
   "base_url": "https://www.davidsonwildcats.com",
   "season": "2026",
-  "generated_at": "2026-03-16T18:04:27.961226Z",
+  "generated_at": "2026-03-17T01:02:18.795357Z",
   "record": "15-17",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Higgins",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Davidson College",
       "season_batting": {
         "g": 1,
@@ -67,7 +67,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "Saw limited action in a blowout loss to Fordham, recording a strikeout in his only at-bat as the Wildcats surrendered 15 runs in the ninth inning during a 26-3 defeat. Early in his sophomore campaign with just one game played, Higgins remains winless on the season with zero hits and will look to contribute as Davidson regroups for Atlantic 10 conference play against La Salle."
     },
     "edf25899": {
       "id": "edf25899",
@@ -76,7 +76,7 @@
       "ln": "Diaz",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Davidson College",
       "season_batting": {
         "g": 14,
@@ -122,7 +122,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "Diaz went hitless in three at-bats as Davidson's offense crumbled in a 26-3 blowout loss to Fordham, with the Rams exploding for 15 runs in the ninth inning to clinch the series. Through 14 games, the sophomore infielder is hitting .230 with just nine hits and no home runs, struggling to establish consistent production early in the season."
     },
     "3de2c103": {
       "id": "3de2c103",
@@ -131,7 +131,7 @@
       "ln": "Vokal",
       "pos": "RHP/INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -170,7 +170,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 1.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "narrative": "Vokal entered in relief during Davidson's fifth consecutive victory over Fordham, surrendering two runs on two hits across 1.2 innings in the Atlantic 10 Conference opener. Through 13.0 IP this season, the dual-position prospect has posted a 9.00 ERA with 6 K, signaling continued development needed in his early collegiate pitching role."
     },
     "26604fb2": {
       "id": "26604fb2",
@@ -179,7 +179,7 @@
       "ln": "Vannoy",
       "pos": "C/INF",
       "yr": "Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Davidson College",
       "season_batting": {
         "g": 18,
@@ -225,7 +225,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 0 RBI against Fordham. Had an outstanding performance at the plate (0.500)."
+      "narrative": "In a lopsided 26-3 loss to Fordham, Vannoy drew two walks despite limited offensive opportunities as the Wildcats' lineup was overwhelmed by a devastating ninth-inning collapse. The freshman backstop/infielder has maintained a solid .328 average through 18 games, flashing plate discipline with multiple walks in a season where he's been among Davidson's more consistent contact hitters early in the year."
     },
     "2ac1ffba": {
       "id": "2ac1ffba",
@@ -234,7 +234,7 @@
       "ln": "Rice",
       "pos": "INF/OF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Davidson College",
       "season_batting": {
         "g": 13,
@@ -280,7 +280,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Fordham. Contributed at the plate in the team's W."
+      "narrative": "Rice contributed a crucial RBI single in the fourth inning as Davidson extended its lead to five runs en route to a 9-8 comeback victory over Fordham, the Wildcats' fifth consecutive win to open conference play. Through 13 games, the senior infielder/outfielder has maintained a .343 average with 5 RBIs despite limited power production, establishing himself as a consistent contact bat in Davidson's lineup."
     },
     "fb3108b4": {
       "id": "fb3108b4",
@@ -289,7 +289,7 @@
       "ln": "Thomas",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Davidson College",
       "season_batting": {
         "g": 13,
@@ -335,7 +335,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 1 RBI against Fordham. Struggled to make contact."
+      "narrative": "Limited offensive opportunities marked Thomas' afternoon in Davidson's 6-4 loss to Fordham, as he managed one RBI despite recording just one at-bat in a contest where the Wildcats' potent offense was largely silenced by Rams starter Chase Hamawalt's 13-strikeout performance. Through 13 games, Thomas has yet to establish consistency at the plate (.222 AVG, 4 H), though his two home runs suggest raw power potential that needs regular playing time to develop."
     },
     "e710cc73": {
       "id": "e710cc73",
@@ -344,7 +344,7 @@
       "ln": "Collins",
       "pos": "INF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Davidson College",
       "season_batting": {
         "g": 3,
@@ -390,7 +390,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "In a blowout loss where Fordham's ninth-inning explosion overshadowed individual performances, Collins went hitless in limited action as Davidson's offense struggled to keep pace in the 26-3 defeat. Still searching for his first hit of the season through three games, the sophomore infielder will look to contribute when the Wildcats host La Salle next weekend in Atlantic 10 play."
     },
     "adae7002": {
       "id": "adae7002",
@@ -399,7 +399,7 @@
       "ln": "McCullough",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Davidson College",
       "season_batting": {
         "g": 9,
@@ -445,7 +445,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "Went hitless in limited action as Davidson's offense was overwhelmed in a 26-3 blowout loss to Fordham, with the Rams erupting for 15 ninth-inning runs to clinch the series. Through nine games, McCullough remains stuck at a .173 average with just four hits and no extra-base production, indicating early struggles in his freshman campaign that require immediate adjustments."
     },
     "566d5c4f": {
       "id": "566d5c4f",
@@ -454,7 +454,7 @@
       "ln": "Manjooran",
       "pos": "3B/OF",
       "yr": "Fr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Davidson College",
       "season_batting": {
         "g": 18,
@@ -500,7 +500,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Fordham. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "Went hitless in a blowout loss where Fordham erupted for 15 ninth-inning runs, though drew a walk in three plate appearances as Davidson's offense was overwhelmed 26-3. Through 18 games as a freshman, Manjooran has established himself as a contact hitter (.338 AVG, 23 H) with gap power potential (1 HR, 20 RBI) while splitting time between third base and the outfield."
     },
     "bb536822": {
       "id": "bb536822",
@@ -509,7 +509,7 @@
       "ln": "Daly",
       "pos": "OF",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Davidson College",
       "season_batting": {
         "g": 16,
@@ -555,7 +555,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "Daly went hitless with three strikeouts in a lopsided 26-3 loss to Fordham, continuing to struggle at the plate as Davidson's offense was overwhelmed by a ninth-inning barrage. The sophomore's 0-for-4 performance marks a significant dip from his .404 season average through 16 games, raising questions about consistency against quality Atlantic 10 competition."
     },
     "c1a018d8": {
       "id": "c1a018d8",
@@ -564,7 +564,7 @@
       "ln": "Lietz",
       "pos": "LHP/OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Davidson College",
       "season_batting": {
         "g": 17,
@@ -610,7 +610,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Fordham. Contributed at the plate in the team's L."
+      "narrative": "In a lopsided 26-3 loss to Fordham, Lietz managed a hit in four at-bats as the Wildcats surrendered a devastating nine-run ninth inning that buried any offensive momentum. Through 17 games, the junior outfielder/left-hander has emerged as Davidson's most consistent bat at .435 with 27 hits and a team-leading 17 RBIs, though the team sits 1-2 in Atlantic 10 play with work ahead."
     },
     "ac58f0bf": {
       "id": "ac58f0bf",
@@ -619,7 +619,7 @@
       "ln": "Champey",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -658,7 +658,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 1.1 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+      "narrative": "Entered in relief during Fordham's ninth-inning explosion (15 runs on nine hits) and allowed three earned runs over 1.1 IP with a 2:2 K:BB ratio in the 26-3 loss. Through 11.0 early-season innings, Champey has posted a concerning 8.18 ERA despite solid strikeout rate (14 K), suggesting command and run prevention remain areas requiring development as a senior contributor in the Davidson rotation."
     },
     "11cd9e28": {
       "id": "11cd9e28",
@@ -667,7 +667,7 @@
       "ln": "Furr",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -706,7 +706,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Gardner-Webb, throwing 0.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "In a narrow 11-10 victory over Gardner-Webb, Furr recorded a brief appearance of 0.2 innings with 4 walks and 2 strikeouts, contributing to Davidson's fourth straight win and improving the Wildcats to 8-7. Through 5.2 IP on the season, the junior righty has logged 7 strikeouts against a concerning 25.96 ERA, signaling continued development needs as a depth piece in the relief corps."
     },
     "a7f138c0": {
       "id": "a7f138c0",
@@ -715,7 +715,7 @@
       "ln": "Loughlin",
       "pos": "1B",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Davidson College",
       "season_batting": {
         "g": 17,
@@ -761,7 +761,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 2 RBI against Fordham. Contributed at the plate in the team's L."
+      "narrative": "In a blowout loss to Fordham, Loughlin provided Davidson's lone bright spot with a two-run single in the fourth that briefly tied the game before the Rams' offense exploded late. The freshman first baseman sits at .327 through 17 games this season with 13 RBI and no home runs, establishing himself as a consistent contact bat for the Wildcats' lineup."
     },
     "716a2b6a": {
       "id": "716a2b6a",
@@ -770,7 +770,7 @@
       "ln": "Cavanaugh",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -809,7 +809,7 @@
           "hbp": 2
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 3.1 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
+      "narrative": "Cavanaugh lasted just 3.1 innings against Fordham on Saturday, unable to build on Davidson's five-game win streak as the Rams' dominant starter Chase Hamawalt set the tone early with 13 strikeouts through six innings. Through 12.1 IP this season, the junior lefty sits at a 6.69 ERA with control issues (9 walks in limited work) that will need tightening as conference play intensifies."
     },
     "993a289b": {
       "id": "993a289b",
@@ -818,7 +818,7 @@
       "ln": "Edwards",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Davidson College",
       "season_batting": {
         "g": 8,
@@ -864,7 +864,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Fordham. Contributed at the plate in the team's L."
+      "narrative": "In a lopsided 26-3 loss to Fordham, Edwards recorded one hit in three at-bats as the Wildcats' offense was overwhelmed by a nine-run ninth-inning onslaught. Through eight games, the senior outfielder maintained a solid .370 average with 2 home runs, though he'll look to build on modest RBI production (8) as Davidson regroups for Atlantic 10 play."
     },
     "1b623240": {
       "id": "1b623240",
@@ -873,7 +873,7 @@
       "ln": "Banks",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -912,7 +912,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+      "narrative": "Entered in a blowout situation against Fordham, Banks recorded just one of 27 outs before allowing two earned runs on three hits in a historically lopsided 26-3 defeat. The senior right-hander's early-season struggles\u2014180.00 ERA across 0.2 innings\u2014signal Davidson will need significant contributions from other arms in its Atlantic 10 rotation."
     },
     "b58826ad": {
       "id": "b58826ad",
@@ -921,7 +921,7 @@
       "ln": "Hall",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -960,7 +960,7 @@
           "hbp": 2
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 4.2 innings. Allowed 8 earned run(s) with 3 strikeout(s)."
+      "narrative": "Charged with five earned runs across 4.2 innings against Fordham, Hall couldn't escape the fifth inning as the Rams' offense mounted early before exploding for 15 runs in a ninth-inning collapse that defined Davidson's 26-3 series loss. Through 19.2 season innings, the senior righty's 6.56 ERA and 8 earned runs allowed reflect early struggles that could limit his role down the stretch in Atlantic 10 play."
     },
     "864fced3": {
       "id": "864fced3",
@@ -969,7 +969,7 @@
       "ln": "Torreso",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Davidson College",
       "season_batting": {
         "g": 18,
@@ -1015,7 +1015,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 0 RBI against Fordham. Had an outstanding performance at the plate (0.667)."
+      "narrative": "Went 2-for-3 with a walk in a blowout loss to Fordham, continuing to reach base consistently despite the Wildcats' ninth-inning collapse that saw the Rams score 15 unanswered runs. Through 18 games, Torreso has posted a .268 average with 11 RBIs but remains without a home run, suggesting a contact-oriented profile that will need to demonstrate more power potential as the season progresses."
     },
     "ffcbd0bc": {
       "id": "ffcbd0bc",
@@ -1024,7 +1024,7 @@
       "ln": "Brooks",
       "pos": "C/INF",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Davidson College",
       "season_batting": {
         "g": 13,
@@ -1070,7 +1070,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Fordham. Contributed at the plate in the team's L."
+      "narrative": "Brooks logged an RBI-double in the seventh inning of Sunday's lopsided loss to Fordham, providing one of Davidson's few offensive bright spots in a 26-3 defeat that saw the Rams explode for 15 ninth-inning runs. Through 13 games, the sophomore utility player owns a .261 average with 7 RBI, demonstrating modest offensive production while competing for playing time at a skill position."
     },
     "f0c5a8df": {
       "id": "f0c5a8df",
@@ -1079,7 +1079,7 @@
       "ln": "Hoyt",
       "pos": "RHP/INF",
       "yr": "R-Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1118,7 +1118,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "Hoyt notched his second save in three days by striking out two in a scoreless ninth inning Friday, helping Davidson secure its fifth consecutive win and Atlantic 10 Conference opener against Fordham. The right-hander has posted a 2.53 ERA over his last four appearances (7.1 IP, 11 K) after an early-season rough patch, positioning himself as a reliable late-inning option despite his season 5.29 mark across 10.2 innings."
     },
     "a7bd1753": {
       "id": "a7bd1753",
@@ -1127,7 +1127,7 @@
       "ln": "Fritch",
       "pos": "C/OF",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Davidson College",
       "season_batting": {
         "g": 13,
@@ -1173,7 +1173,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "Held hitless in two at-bats against Fordham's dominant starter Chase Hamawalt, who struck out 13 in six innings, Fritch remained silent as Davidson's five-game win streak ended in a 6-4 loss. Through 13 games as a freshman, the C/OF has struggled to find consistent contact at .195 with just nine hits and no power production, signaling an adjustment period at the college level."
     },
     "2020d833": {
       "id": "2020d833",
@@ -1182,7 +1182,7 @@
       "ln": "Papciak",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1221,7 +1221,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Wake Forest, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+      "narrative": "Struggled in a mop-up role against Wake Forest, surrendering 2 runs on 1 hit while walking 4 in just 1.0 IP, continuing a rough early-season stretch. Through 2.0 innings pitched this season, Papciak has posted an 18.00 ERA with 4 earned runs allowed against just 2 strikeouts, signaling significant mechanical or command issues that need immediate attention."
     },
     "5d1a54a5": {
       "id": "5d1a54a5",
@@ -1230,7 +1230,7 @@
       "ln": "Wille",
       "pos": "LHP",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1269,7 +1269,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "Wille saw minimal action in a blowout loss to Fordham, entering briefly in a ninth-inning collapse where the Rams plated 15 runs on nine hits and two Davidson errors to seal a 26-3 rout. Through two appearances this season, the sophomore left-hander has struggled early\u2014posting a 90.00 ERA across 0.2 innings with two earned runs allowed, leaving room for bounce-back opportunities as Davidson enters conference play."
     },
     "f3222aea": {
       "id": "f3222aea",
@@ -1278,7 +1278,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1317,7 +1317,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 0.1 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
+      "narrative": "Called in during a ninth-inning collapse where Fordham plundered 15 runs on nine hits, Smith recorded just one out before exiting with three hits and four earned runs allowed in a 26-3 series loss. The outing epitomizes a brutal start to his sophomore season: 3.1 innings pitched across multiple appearances, 9 earned runs, and a 26.13 ERA that signals significant command and stuff concerns requiring immediate attention."
     },
     "5ae35ed1": {
       "id": "5ae35ed1",
@@ -1326,7 +1326,7 @@
       "ln": "Jones",
       "pos": "RHP",
       "yr": "So.",
-      "num": "31.0",
+      "num": "31",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1365,7 +1365,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "Entered a blowout situation in relief against Fordham, recording a clean 1.1 innings with a strikeout in a loss that snapped Davidson's five-game win streak. Early-season relief role showing promise (2.81 ERA, 2 K in 3.2 IP) as a potential depth piece in the Wildcats' rotation."
     },
     "54fe2e8a": {
       "id": "54fe2e8a",
@@ -1374,7 +1374,7 @@
       "ln": "Marenghi",
       "pos": "RHP",
       "yr": "So.",
-      "num": "32.0",
+      "num": "32",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1413,7 +1413,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 2.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "Marenghi entered in relief against Fordham's 13-strikeout starter Chase Hamawalt, recording two strikeouts across two innings while the Wildcats' five-game win streak fell to a 6-4 defeat. Through 12.2 innings this season, the sophomore right-hander sits at a 4.43 ERA with modest strikeout production, suggesting room for refinement in command and swing-and-miss rates as Davidson navigates early conference play."
     },
     "8bbf0103": {
       "id": "8bbf0103",
@@ -1422,7 +1422,7 @@
       "ln": "Hultquist",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1454,7 +1454,7 @@
       "ln": "Pyne",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1493,7 +1493,7 @@
           "hbp": 2
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 2.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
+      "narrative": "Pyne entered in relief during Fordham's explosive ninth-inning outburst that saw the Rams plate 15 runs en route to a 26-3 victory, inheriting a game already well out of reach. Through 8.0 early-season innings, the freshman righty has surrendered 8 earned runs (9.00 ERA, 5 K) while establishing himself in Davidson's relief mix."
     },
     "a7ad9a02": {
       "id": "a7ad9a02",
@@ -1502,7 +1502,7 @@
       "ln": "Taggart",
       "pos": "LHP",
       "yr": "R-Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1541,7 +1541,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 0.1 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
+      "narrative": "Taggart saw minimal work in Davidson's fifth straight win, entering briefly in a high-leverage spot against Fordham but struggling to record an out while surrendering three hits and four runs in just 0.1 innings. The rough outing underscores early-season inconsistency for the freshman southpaw, who owns a 6.85 ERA through 9.2 frames with eight strikeouts\u2014a sign that command and durability remain works in progress at the college level."
     },
     "c87dda45": {
       "id": "c87dda45",
@@ -1550,7 +1550,7 @@
       "ln": "Howard",
       "pos": "OF/LHP",
       "yr": "Jr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Davidson College",
       "season_batting": {
         "g": 4,
@@ -1623,7 +1623,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Went 0/1 with 0 RBI against Fordham. Struggled to make contact."
+      "narrative": "Went hitless in limited action as Davidson's five-game winning streak fell to Fordham's dominant pitching display, with Hamawalt's 13 strikeouts leaving the Wildcats with just one hit through six innings. Early season struggles persist at 0-for-4 with a strikeout across four games, warranting close monitoring of his approach and role definition moving forward."
     },
     "71b9a565": {
       "id": "71b9a565",
@@ -1632,7 +1632,7 @@
       "ln": "Perkins",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1671,7 +1671,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 6.0 innings. Struck out 4 while allowing just 4 hit(s) and 2 earned run(s) in a quality start."
+      "narrative": "Perkins settled in effectively through six innings to notch a quality start in Davidson's fifth consecutive victory, allowing just four hits and three walks while striking out four despite early Fordham pressure. The right-hander's 6.49 ERA masks improved command in recent outings, though a 16 ER in 22.2 IP overall signals he'll need sustained consistency to remain a reliable rotation piece down the stretch."
     },
     "85831c5c": {
       "id": "85831c5c",
@@ -1680,7 +1680,7 @@
       "ln": "Yochum",
       "pos": "RHP",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "Davidson College",
       "season_batting": null,
       "season_pitching": {
@@ -1719,7 +1719,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Fordham, throwing 2.1 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+      "narrative": "Yochum entered in relief during Davidson's fifth-game winning streak finale against Fordham, surrendering three runs on four hits across 2.1 innings in the Wildcats' 6-4 loss. Through 13.1 IP this season, the sophomore has struck out 18 but carries a bloated 9.62 ERA, suggesting command and consistency issues that will need addressing for meaningful weekend role opportunities in A-10 play."
     },
     "6a321d8e": {
       "id": "6a321d8e",
@@ -1728,7 +1728,7 @@
       "ln": "Suarez",
       "pos": "C",
       "yr": "Jr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Davidson College",
       "season_batting": {
         "g": 2,
