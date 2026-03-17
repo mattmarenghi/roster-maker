@@ -2,7 +2,7 @@
   "school": "Ball State University",
   "base_url": "https://www.ballstatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:46:57.460522Z",
+  "generated_at": "2026-03-17T02:05:43.838863Z",
   "record": "32-39",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Perkins",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Ball State University",
       "season_batting": {
         "g": 10,
@@ -76,7 +76,7 @@
       "ln": "Griffiths",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Ball State University",
       "season_batting": {
         "g": 18,
@@ -131,7 +131,7 @@
       "ln": "Balius",
       "pos": "INF/OF",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Ball State University",
       "season_batting": {
         "g": 18,
@@ -186,7 +186,7 @@
       "ln": "Stokes",
       "pos": "SS",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Ball State University",
       "season_batting": {
         "g": 11,
@@ -241,7 +241,7 @@
       "ln": "Keller",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Ball State University",
       "season_batting": {
         "g": 15,
@@ -296,7 +296,7 @@
       "ln": "Kalk",
       "pos": "C",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Ball State University",
       "season_batting": {
         "g": 15,
@@ -351,7 +351,7 @@
       "ln": "Muizelaar",
       "pos": "UTIL",
       "yr": "Gr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Ball State University",
       "season_batting": {
         "g": 18,
@@ -406,7 +406,7 @@
       "ln": "Kwasny",
       "pos": "P",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -454,7 +454,7 @@
       "ln": "Reed",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Huebner",
       "pos": "INF",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Ball State University",
       "season_batting": {
         "g": 14,
@@ -557,7 +557,7 @@
       "ln": "Dunn",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Ball State University",
       "season_batting": {
         "g": 6,
@@ -612,7 +612,7 @@
       "ln": "Scheumann",
       "pos": "C",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Ball State University",
       "season_batting": {
         "g": 12,
@@ -667,7 +667,7 @@
       "ln": "Hutchinson",
       "pos": "P",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -715,7 +715,7 @@
       "ln": "Gillis",
       "pos": "1B",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Ball State University",
       "season_batting": {
         "g": 18,
@@ -770,7 +770,7 @@
       "ln": "Burden",
       "pos": "P",
       "yr": "Gr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -818,7 +818,7 @@
       "ln": "Colligan",
       "pos": "OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Ball State University",
       "season_batting": {
         "g": 11,
@@ -873,7 +873,7 @@
       "ln": "Leduc",
       "pos": "P",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -921,7 +921,7 @@
       "ln": "Bartlett",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -969,7 +969,7 @@
       "ln": "Johnson",
       "pos": "P",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -1017,7 +1017,7 @@
       "ln": "Sorgius",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Ball State University",
       "season_batting": {
         "g": 17,
@@ -1072,7 +1072,7 @@
       "ln": "Bakus",
       "pos": "1B",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Ball State University",
       "season_batting": {
         "g": 12,
@@ -1127,7 +1127,7 @@
       "ln": "Chambers",
       "pos": "P",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -1175,7 +1175,7 @@
       "ln": "Quinn",
       "pos": "P",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "Kendall",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Ball State University",
       "season_batting": {
         "g": 2,
@@ -1278,7 +1278,7 @@
       "ln": "Bretza",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -1319,14 +1319,14 @@
       },
       "narrative": "Took the mound against Eastern Michigan, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
     },
-    "799e7db0": {
-      "id": "799e7db0",
+    "7ee52203": {
+      "id": "7ee52203",
       "name": "Trent Murphy",
       "fn": "Trent",
       "ln": "Murphy",
       "pos": "RHP",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Ball State University",
       "season_batting": {
         "g": 11,
@@ -1388,7 +1388,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Kentucky, throwing 2.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "2.0 IP, 1 K vs. Kentucky (L). At 9.00 ERA through 4.0 innings on the season."
     },
     "c74502f1": {
       "id": "c74502f1",
@@ -1397,7 +1397,7 @@
       "ln": "Murphy",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Ball State University",
       "season_batting": {
         "g": 11,
@@ -1470,7 +1470,7 @@
       "ln": "Garza",
       "pos": "P",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -1518,7 +1518,7 @@
       "ln": "Thomas",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Ball State University",
       "season_batting": {
         "g": 15,
@@ -1573,7 +1573,7 @@
       "ln": "Jones",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {
@@ -1621,7 +1621,7 @@
       "ln": "Landsnes",
       "pos": "C",
       "yr": "Jr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Ball State University",
       "season_batting": {
         "g": 13,
@@ -1676,7 +1676,7 @@
       "ln": "Lafkas",
       "pos": "P",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Ball State University",
       "season_batting": null,
       "season_pitching": {

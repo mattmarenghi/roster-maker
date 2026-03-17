@@ -2,7 +2,7 @@
   "school": "South Dakota State University",
   "base_url": "https://www.gojacks.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:53:19.609530Z",
+  "generated_at": "2026-03-17T02:27:27.910059Z",
   "record": "7-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Siegert",
       "pos": "OF/P",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Grawe",
       "pos": "IF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 17,
@@ -131,7 +131,7 @@
       "ln": "Werk",
       "pos": "P",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 11,
@@ -202,7 +202,7 @@
       "ln": "Jirschele",
       "pos": "IF/P",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 14,
@@ -257,7 +257,7 @@
       "ln": "Wroblewski",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "5.0",
+      "num": "5",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 15,
@@ -312,7 +312,7 @@
       "ln": "Jones",
       "pos": "C",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 8,
@@ -367,7 +367,7 @@
       "ln": "Finney",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 13,
@@ -422,7 +422,7 @@
       "ln": "Brown",
       "pos": "OF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 10,
@@ -477,7 +477,7 @@
       "ln": "Luskey",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 19,
@@ -532,7 +532,7 @@
       "ln": "Wachter",
       "pos": "C/UT",
       "yr": "R-Fr.",
-      "num": "10.0",
+      "num": "10",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 19,
@@ -587,7 +587,7 @@
       "ln": "Augedahl",
       "pos": "P",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -635,7 +635,7 @@
       "ln": "McDowell",
       "pos": "P",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -683,7 +683,7 @@
       "ln": "Lang",
       "pos": "C",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 8,
@@ -738,7 +738,7 @@
       "ln": "Taylor",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 19,
@@ -793,7 +793,7 @@
       "ln": "Werk",
       "pos": "UT/P",
       "yr": "So.",
-      "num": "15.0",
+      "num": "15",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 11,
@@ -866,7 +866,7 @@
       "ln": "Sjuts",
       "pos": "P",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -914,7 +914,7 @@
       "ln": "Richardson",
       "pos": "P",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -962,7 +962,7 @@
       "ln": "Madison",
       "pos": "P",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -1010,7 +1010,7 @@
       "ln": "Schlecht",
       "pos": "P",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -1058,7 +1058,7 @@
       "ln": "Rylance",
       "pos": "P",
       "yr": "Fr.",
-      "num": "24.0",
+      "num": "24",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -1106,7 +1106,7 @@
       "ln": "Sorensen",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 12,
@@ -1161,7 +1161,7 @@
       "ln": "Novotny",
       "pos": "P",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -1209,7 +1209,7 @@
       "ln": "Vogt",
       "pos": "UT/P",
       "yr": "Fr.",
-      "num": "28.0",
+      "num": "28",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 10,
@@ -1291,7 +1291,7 @@
       "ln": "Kent",
       "pos": "P",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -1339,7 +1339,7 @@
       "ln": "Franke",
       "pos": "IF",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 19,
@@ -1394,7 +1394,7 @@
       "ln": "Husar",
       "pos": "P",
       "yr": "Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 6,
@@ -1476,7 +1476,7 @@
       "ln": "Henry",
       "pos": "P",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -1524,7 +1524,7 @@
       "ln": "Evenson",
       "pos": "C/OF",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "South Dakota State University",
       "season_batting": {
         "g": 10,
@@ -1579,7 +1579,7 @@
       "ln": "Campbell",
       "pos": "UT/P",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {
@@ -1627,7 +1627,7 @@
       "ln": "Barney",
       "pos": "P",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "South Dakota State University",
       "season_batting": null,
       "season_pitching": {

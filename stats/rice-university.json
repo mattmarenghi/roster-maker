@@ -2,7 +2,7 @@
   "school": "Rice University",
   "base_url": "https://www.riceowls.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:46:20.471271Z",
+  "generated_at": "2026-03-17T02:25:16.648300Z",
   "record": "12-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Chilcutt",
       "pos": "C/UT",
       "yr": "Fr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Rice University",
       "season_batting": {
         "g": 10,
@@ -76,7 +76,7 @@
       "ln": "Green",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Rice University",
       "season_batting": {
         "g": 20,
@@ -131,7 +131,7 @@
       "ln": "Davis",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Rice University",
       "season_batting": {
         "g": 17,
@@ -186,7 +186,7 @@
       "ln": "Daigre",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Rice University",
       "season_batting": {
         "g": 16,
@@ -241,7 +241,7 @@
       "ln": "Davila",
       "pos": "OF",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Rice University",
       "season_batting": {
         "g": 17,
@@ -296,7 +296,7 @@
       "ln": "Zito",
       "pos": "INF",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "Rice University",
       "season_batting": {
         "g": 4,
@@ -351,7 +351,7 @@
       "ln": "Webb",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Rice University",
       "season_batting": {
         "g": 20,
@@ -406,7 +406,7 @@
       "ln": "Duffield",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Rice University",
       "season_batting": {
         "g": 3,
@@ -461,7 +461,7 @@
       "ln": "Robson",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "10.0",
+      "num": "10",
       "school": "Rice University",
       "season_batting": {
         "g": 20,
@@ -516,7 +516,7 @@
       "ln": "Rios",
       "pos": "C",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Rice University",
       "season_batting": {
         "g": 13,
@@ -571,7 +571,7 @@
       "ln": "Motley",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Rice University",
       "season_batting": {
         "g": 4,
@@ -626,7 +626,7 @@
       "ln": "Kuhn",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -674,7 +674,7 @@
       "ln": "Smith",
       "pos": "1B/C",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Rice University",
       "season_batting": {
         "g": 20,
@@ -729,7 +729,7 @@
       "ln": "Sanders",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -777,7 +777,7 @@
       "ln": "Anderson",
       "pos": "C",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Rice University",
       "season_batting": {
         "g": 10,
@@ -832,7 +832,7 @@
       "ln": "Boehm",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Rice University",
       "season_batting": {
         "g": 19,
@@ -887,7 +887,7 @@
       "ln": "Wiggins",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -935,7 +935,7 @@
       "ln": "Devenny",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Rice University",
       "season_batting": {
         "g": 11,
@@ -990,7 +990,7 @@
       "ln": "Urbanczyk",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1038,7 +1038,7 @@
       "ln": "Atchley",
       "pos": "RHP",
       "yr": "So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1086,7 +1086,7 @@
       "ln": "Ashlock",
       "pos": "OF",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Rice University",
       "season_batting": {
         "g": 17,
@@ -1141,7 +1141,7 @@
       "ln": "West",
       "pos": "C",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Rice University",
       "season_batting": {
         "g": 12,
@@ -1196,7 +1196,7 @@
       "ln": "Brown",
       "pos": "LHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1244,7 +1244,7 @@
       "ln": "Fuentes",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "31.0",
+      "num": "31",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1292,7 +1292,7 @@
       "ln": "Thames",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1340,7 +1340,7 @@
       "ln": "Roycraft",
       "pos": "LHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1388,7 +1388,7 @@
       "ln": "Diaz",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1436,7 +1436,7 @@
       "ln": "Sharp",
       "pos": "LHP/OF",
       "yr": "R-So.",
-      "num": "35.0",
+      "num": "35",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1484,7 +1484,7 @@
       "ln": "Traeger",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1532,7 +1532,7 @@
       "ln": "Arnett",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1580,7 +1580,7 @@
       "ln": "Bocachica Jr.",
       "pos": "INF",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "Rice University",
       "season_batting": {
         "g": 20,
@@ -1635,7 +1635,7 @@
       "ln": "Fetchel",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "47.0",
+      "num": "47",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1683,7 +1683,7 @@
       "ln": "Baker",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "54.0",
+      "num": "54",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {
@@ -1731,7 +1731,7 @@
       "ln": "Blank",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "55.0",
+      "num": "55",
       "school": "Rice University",
       "season_batting": null,
       "season_pitching": {

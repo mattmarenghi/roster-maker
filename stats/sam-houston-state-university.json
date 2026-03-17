@@ -2,7 +2,7 @@
   "school": "Sam Houston State University",
   "base_url": "https://www.gobearkats.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:50:33.763945Z",
+  "generated_at": "2026-03-17T02:26:32.159560Z",
   "record": "44-58",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Brown",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 17,
@@ -76,7 +76,7 @@
       "ln": "Smith",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 3,
@@ -131,7 +131,7 @@
       "ln": "Blackman",
       "pos": "OF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 13,
@@ -186,7 +186,7 @@
       "ln": "Cotton",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 19,
@@ -241,7 +241,7 @@
       "ln": "Baker",
       "pos": "C",
       "yr": "Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 15,
@@ -296,7 +296,7 @@
       "ln": "Franden",
       "pos": "IF",
       "yr": "R-Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 7,
@@ -351,7 +351,7 @@
       "ln": "Martinez",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 18,
@@ -406,7 +406,7 @@
       "ln": "Alvord",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 19,
@@ -461,7 +461,7 @@
       "ln": "Dean",
       "pos": "C",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 5,
@@ -516,7 +516,7 @@
       "ln": "Demmer",
       "pos": "UTL",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 4,
@@ -571,7 +571,7 @@
       "ln": "Marthiljohni",
       "pos": "C",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 8,
@@ -626,7 +626,7 @@
       "ln": "Curtis",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 19,
@@ -681,7 +681,7 @@
       "ln": "Corcoran",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 19,
@@ -736,7 +736,7 @@
       "ln": "Orth",
       "pos": "OF/LHP",
       "yr": "Fr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 8,
@@ -791,7 +791,7 @@
       "ln": "Marthiljohni",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 8,
@@ -828,7 +828,7 @@
       "ln": "Bazmore",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 9,
@@ -910,7 +910,7 @@
       "ln": "Holzer",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -958,7 +958,7 @@
       "ln": "Zaruba",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1006,7 +1006,7 @@
       "ln": "Fink",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Sam Houston State University",
       "season_batting": {
         "g": 18,
@@ -1061,7 +1061,7 @@
       "ln": "Ballard",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1109,7 +1109,7 @@
       "ln": "Peterson",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1157,7 +1157,7 @@
       "ln": "Anders",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1205,7 +1205,7 @@
       "ln": "Alarid",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1253,7 +1253,7 @@
       "ln": "Hickman",
       "pos": "RHP",
       "yr": "So.",
-      "num": "32.0",
+      "num": "32",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1301,7 +1301,7 @@
       "ln": "Ryden",
       "pos": "RHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1349,7 +1349,7 @@
       "ln": "Aloisio",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1397,7 +1397,7 @@
       "ln": "Kendrick",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1445,7 +1445,7 @@
       "ln": "Harris",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1493,7 +1493,7 @@
       "ln": "Neuenschwander",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1541,7 +1541,7 @@
       "ln": "Murphy",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1589,7 +1589,7 @@
       "ln": "Winans",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1637,7 +1637,7 @@
       "ln": "Johnson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {
@@ -1685,7 +1685,7 @@
       "ln": "Mondey",
       "pos": "RHP",
       "yr": "So.",
-      "num": "47.0",
+      "num": "47",
       "school": "Sam Houston State University",
       "season_batting": null,
       "season_pitching": {

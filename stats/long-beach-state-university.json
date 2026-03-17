@@ -2,7 +2,7 @@
   "school": "Long Beach State University",
   "base_url": "https://longbeachstate.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:25:02.864622Z",
+  "generated_at": "2026-03-17T02:18:06.057849Z",
   "record": "25-34",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Borgogno",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 4,
@@ -76,7 +76,7 @@
       "ln": "Smaka",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 10,
@@ -131,7 +131,7 @@
       "ln": "Evans",
       "pos": "INF",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 19,
@@ -186,7 +186,7 @@
       "ln": "Elliot",
       "pos": "INF",
       "yr": "5th",
-      "num": "6.0",
+      "num": "6",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 5,
@@ -241,7 +241,7 @@
       "ln": "Taylor",
       "pos": "C/1B",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 4,
@@ -296,7 +296,7 @@
       "ln": "Turner",
       "pos": "OF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 4,
@@ -351,7 +351,7 @@
       "ln": "Chandler",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 13,
@@ -406,7 +406,7 @@
       "ln": "Castillo",
       "pos": "P",
       "yr": "R-So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -438,7 +438,7 @@
       "ln": "Montgomery",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 14,
@@ -493,7 +493,7 @@
       "ln": "Lina",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 18,
@@ -548,7 +548,7 @@
       "ln": "Perez",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 17,
@@ -603,7 +603,7 @@
       "ln": "Valdez",
       "pos": "C",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 12,
@@ -658,7 +658,7 @@
       "ln": "Shelby",
       "pos": "P",
       "yr": "R-Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -706,7 +706,7 @@
       "ln": "Gasser",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 16,
@@ -761,7 +761,7 @@
       "ln": "Toomey",
       "pos": "OF",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 18,
@@ -816,7 +816,7 @@
       "ln": "Enright",
       "pos": "INF",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 19,
@@ -871,7 +871,7 @@
       "ln": "Kahalekai",
       "pos": "P",
       "yr": "So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -919,7 +919,7 @@
       "ln": "Goldenetz",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 19,
@@ -974,7 +974,7 @@
       "ln": "Grindlinger",
       "pos": "P",
       "yr": "R-So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1022,7 +1022,7 @@
       "ln": "Diez",
       "pos": "P",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1070,7 +1070,7 @@
       "ln": "Tymick",
       "pos": "P",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1118,7 +1118,7 @@
       "ln": "Gebb",
       "pos": "P",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1166,7 +1166,7 @@
       "ln": "Baker",
       "pos": "P",
       "yr": "Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1214,7 +1214,7 @@
       "ln": "Anderson",
       "pos": "P",
       "yr": "Gr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1262,7 +1262,7 @@
       "ln": "Ramos",
       "pos": "P",
       "yr": "Sr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1310,7 +1310,7 @@
       "ln": "Fields",
       "pos": "P",
       "yr": "R-Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1358,7 +1358,7 @@
       "ln": "Gerfers",
       "pos": "P",
       "yr": "Fr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1406,7 +1406,7 @@
       "ln": "Roulston",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 5,
@@ -1461,7 +1461,7 @@
       "ln": "De Castro",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 4,
@@ -1516,7 +1516,7 @@
       "ln": "Tomlin",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 2,
@@ -1571,7 +1571,7 @@
       "ln": "Stewart",
       "pos": "C",
       "yr": "6th",
-      "num": "48.0",
+      "num": "48",
       "school": "Long Beach State University",
       "season_batting": {
         "g": 10,
@@ -1626,7 +1626,7 @@
       "ln": "Howe",
       "pos": "P",
       "yr": "Fr.",
-      "num": "49.0",
+      "num": "49",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1674,7 +1674,7 @@
       "ln": "Larson",
       "pos": "P",
       "yr": "Sr.",
-      "num": "50.0",
+      "num": "50",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1722,7 +1722,7 @@
       "ln": "Iglesias",
       "pos": "P",
       "yr": "Sr.",
-      "num": "51.0",
+      "num": "51",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {
@@ -1770,7 +1770,7 @@
       "ln": "Banda",
       "pos": "P",
       "yr": "R-Jr.",
-      "num": "55.0",
+      "num": "55",
       "school": "Long Beach State University",
       "season_batting": null,
       "season_pitching": {

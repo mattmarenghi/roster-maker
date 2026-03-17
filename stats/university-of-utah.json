@@ -2,7 +2,7 @@
   "school": "University of Utah",
   "base_url": "https://utahutes.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:45:36.853889Z",
+  "generated_at": "2026-03-17T02:44:54.756437Z",
   "record": "22-29",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "McAnelly",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Flaharty",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Utah",
       "season_batting": {
         "g": 15,
@@ -124,7 +124,7 @@
       "ln": "Hawkins",
       "pos": "INF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Utah",
       "season_batting": {
         "g": 11,
@@ -179,7 +179,7 @@
       "ln": "Noonan",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Utah",
       "season_batting": {
         "g": 13,
@@ -234,7 +234,7 @@
       "ln": "Nielson",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -282,7 +282,7 @@
       "ln": "Kleveno",
       "pos": "C",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Utah",
       "season_batting": {
         "g": 10,
@@ -337,7 +337,7 @@
       "ln": "Long",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Utah",
       "season_batting": {
         "g": 17,
@@ -392,7 +392,7 @@
       "ln": "Galindo",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -440,7 +440,7 @@
       "ln": "Kittredge",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -488,7 +488,7 @@
       "ln": "Abercrombie",
       "pos": "INF/RHP",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -536,7 +536,7 @@
       "ln": "Diamant",
       "pos": "INF/RHP",
       "yr": "R-Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Utah",
       "season_batting": {
         "g": 3,
@@ -618,7 +618,7 @@
       "ln": "Soder",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -666,7 +666,7 @@
       "ln": "Navarro",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Utah",
       "season_batting": {
         "g": 8,
@@ -721,7 +721,7 @@
       "ln": "Gurney",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Utah",
       "season_batting": {
         "g": 17,
@@ -776,7 +776,7 @@
       "ln": "Lenius",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -824,7 +824,7 @@
       "ln": "Arambula",
       "pos": "INF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Utah",
       "season_batting": {
         "g": 17,
@@ -879,7 +879,7 @@
       "ln": "Riske",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -927,7 +927,7 @@
       "ln": "Jacobs",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Utah",
       "season_batting": {
         "g": 17,
@@ -982,7 +982,7 @@
       "ln": "Miller",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Utah",
       "season_batting": {
         "g": 13,
@@ -1037,7 +1037,7 @@
       "ln": "Smith",
       "pos": "C",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Utah",
       "season_batting": {
         "g": 12,
@@ -1092,7 +1092,7 @@
       "ln": "McGorman",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1140,7 +1140,7 @@
       "ln": "Culver",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1188,7 +1188,7 @@
       "ln": "Salvesen",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1236,7 +1236,7 @@
       "ln": "Graff-Rowe",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Utah",
       "season_batting": {
         "g": 8,
@@ -1273,7 +1273,7 @@
       "ln": "Eckerle",
       "pos": "C",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Utah",
       "season_batting": {
         "g": 6,
@@ -1328,7 +1328,7 @@
       "ln": "Jones",
       "pos": "RHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1376,7 +1376,7 @@
       "ln": "Gazaway",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1424,7 +1424,7 @@
       "ln": "Cova",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1472,7 +1472,7 @@
       "ln": "Fine",
       "pos": "RHP",
       "yr": "So.",
-      "num": "38.0",
+      "num": "38",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1520,7 +1520,7 @@
       "ln": "Graham-Pippin",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Utah",
       "season_batting": null,
       "season_pitching": {
@@ -1568,7 +1568,7 @@
       "ln": "Gilliam",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "53.0",
+      "num": "53",
       "school": "University of Utah",
       "season_batting": {
         "g": 17,

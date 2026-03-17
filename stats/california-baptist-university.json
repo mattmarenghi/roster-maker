@@ -2,7 +2,7 @@
   "school": "California Baptist University",
   "base_url": "https://www.cbulancers.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:53:59.683140Z",
+  "generated_at": "2026-03-17T02:08:23.875205Z",
   "record": "17-4",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Ramirez",
       "pos": "INF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "California Baptist University",
       "season_batting": {
         "g": 21,
@@ -76,7 +76,7 @@
       "ln": "Eberhard",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "California Baptist University",
       "season_batting": {
         "g": 21,
@@ -131,7 +131,7 @@
       "ln": "Malki",
       "pos": "RHP",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -179,7 +179,7 @@
       "ln": "Hansen",
       "pos": "C",
       "yr": "R-Fr.",
-      "num": "4.0",
+      "num": "4",
       "school": "California Baptist University",
       "season_batting": {
         "g": 17,
@@ -207,25 +207,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Harvard",
         "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16961",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 0,
-          "h": 1,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
           "so": 1,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 2,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Harvard. Contributed at the plate in the team's W."
+      "narrative": "2/5 with 0 RBI vs. Harvard (W). Hitting .400 with 2 HR through 17 games."
     },
     "430ccb2e": {
       "id": "430ccb2e",
@@ -234,7 +234,7 @@
       "ln": "Dykstra",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "California Baptist University",
       "season_batting": {
         "g": 14,
@@ -289,7 +289,7 @@
       "ln": "Ross",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "California Baptist University",
       "season_batting": {
         "g": 20,
@@ -344,7 +344,7 @@
       "ln": "McFeely",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "8.0",
+      "num": "8",
       "school": "California Baptist University",
       "season_batting": {
         "g": 21,
@@ -399,7 +399,7 @@
       "ln": "Andrews",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "California Baptist University",
       "season_batting": {
         "g": 4,
@@ -454,7 +454,7 @@
       "ln": "Rocha",
       "pos": "OF/C",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "California Baptist University",
       "season_batting": {
         "g": 3,
@@ -509,7 +509,7 @@
       "ln": "Howarth",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "California Baptist University",
       "season_batting": {
         "g": 15,
@@ -564,7 +564,7 @@
       "ln": "Hunsaker",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "California Baptist University",
       "season_batting": {
         "g": 20,
@@ -619,7 +619,7 @@
       "ln": "Smathers",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -667,7 +667,7 @@
       "ln": "Peck",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "15.0",
+      "num": "15",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -715,7 +715,7 @@
       "ln": "Ruiz",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "California Baptist University",
       "season_batting": {
         "g": 9,
@@ -770,7 +770,7 @@
       "ln": "Becerra",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -818,7 +818,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -866,7 +866,7 @@
       "ln": "Palmer",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -914,7 +914,7 @@
       "ln": "Entrekin",
       "pos": "C/INF",
       "yr": "Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "California Baptist University",
       "season_batting": {
         "g": 7,
@@ -969,7 +969,7 @@
       "ln": "New",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -1017,7 +1017,7 @@
       "ln": "Chavez",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "California Baptist University",
       "season_batting": {
         "g": 17,
@@ -1054,7 +1054,7 @@
       "ln": "Capacete",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -1102,14 +1102,14 @@
       "ln": "Yates",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "24.0",
+      "num": "24",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
         "era": 1.02,
         "whip": 0.91,
         "w": 0,
-        "l": 1,
+        "l": 0,
         "sv": 1,
         "g": 8,
         "gs": 0,
@@ -1150,7 +1150,7 @@
       "ln": "Castelli",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "California Baptist University",
       "season_batting": {
         "g": 21,
@@ -1205,7 +1205,7 @@
       "ln": "Urquidi",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -1253,7 +1253,7 @@
       "ln": "Chavez",
       "pos": "C",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "California Baptist University",
       "season_batting": {
         "g": 17,
@@ -1308,7 +1308,7 @@
       "ln": "Bline",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "California Baptist University",
       "season_batting": {
         "g": 15,
@@ -1363,7 +1363,7 @@
       "ln": "Carlson",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -1411,7 +1411,7 @@
       "ln": "Rudd",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -1434,23 +1434,23 @@
         "opp_avg": ".316"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "LMU (CA)",
-        "result": "L",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "date": "2026-03-15",
+        "opponent": "Harvard",
+        "result": "W",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
+          "ip": "1.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
           "bb": 0,
-          "so": 3,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against LMU (CA), throwing 2.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Harvard (W). At 4.12 ERA through 13.1 innings on the season."
     },
     "96546421": {
       "id": "96546421",
@@ -1459,7 +1459,7 @@
       "ln": "Zack",
       "pos": "LHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -1507,14 +1507,14 @@
       "ln": "Olsen",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "34.0",
+      "num": "34",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
         "era": 5.4,
         "whip": 1.3,
         "w": 1,
-        "l": 0,
+        "l": 1,
         "sv": 0,
         "g": 8,
         "gs": 0,
@@ -1555,7 +1555,7 @@
       "ln": "Lopez",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "California Baptist University",
       "season_batting": {
         "g": 10,
@@ -1610,7 +1610,7 @@
       "ln": "Toth",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "39.0",
+      "num": "39",
       "school": "California Baptist University",
       "season_batting": {
         "g": 17,
@@ -1665,7 +1665,7 @@
       "ln": "Teper",
       "pos": "LHP",
       "yr": "So.",
-      "num": "40.0",
+      "num": "40",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {
@@ -1688,23 +1688,23 @@
         "opp_avg": ".196"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "BYU",
+        "date": "2026-03-15",
+        "opponent": "Harvard",
         "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
+          "ip": "1.0",
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 2,
+          "so": 1,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against BYU, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Harvard (W). At 2.06 ERA through 13.1 innings on the season."
     },
     "38f93c88": {
       "id": "38f93c88",
@@ -1713,7 +1713,7 @@
       "ln": "Burgess",
       "pos": "OF/RHP",
       "yr": "So.",
-      "num": "42.0",
+      "num": "42",
       "school": "California Baptist University",
       "season_batting": null,
       "season_pitching": {

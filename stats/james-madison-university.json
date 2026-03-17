@@ -2,7 +2,7 @@
   "school": "James Madison University",
   "base_url": "https://www.jmusports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:18:55.825635Z",
+  "generated_at": "2026-03-17T02:16:07.395332Z",
   "record": "55-62",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Moody",
       "pos": "INF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "James Madison University",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Langley",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "James Madison University",
       "season_batting": {
         "g": 18,
@@ -131,7 +131,7 @@
       "ln": "Aycock",
       "pos": "UT",
       "yr": "Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "James Madison University",
       "season_batting": {
         "g": 15,
@@ -186,7 +186,7 @@
       "ln": "Lutz",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "4.0",
+      "num": "4",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -234,7 +234,7 @@
       "ln": "Campbell",
       "pos": "1B",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "James Madison University",
       "season_batting": {
         "g": 17,
@@ -289,7 +289,7 @@
       "ln": "Polley",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -337,7 +337,7 @@
       "ln": "Thompson",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "7.0",
+      "num": "7",
       "school": "James Madison University",
       "season_batting": {
         "g": 18,
@@ -392,7 +392,7 @@
       "ln": "Barrow",
       "pos": "C",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "James Madison University",
       "season_batting": {
         "g": 12,
@@ -447,7 +447,7 @@
       "ln": "Nolan",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "9.0",
+      "num": "9",
       "school": "James Madison University",
       "season_batting": {
         "g": 2,
@@ -502,7 +502,7 @@
       "ln": "McGrath",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "10.0",
+      "num": "10",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -550,7 +550,7 @@
       "ln": "Gocio",
       "pos": "C",
       "yr": "Fr.",
-      "num": "11.0",
+      "num": "11",
       "school": "James Madison University",
       "season_batting": {
         "g": 13,
@@ -605,7 +605,7 @@
       "ln": "Kuhle",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -653,7 +653,7 @@
       "ln": "Haacke",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "James Madison University",
       "season_batting": {
         "g": 9,
@@ -708,7 +708,7 @@
       "ln": "Worth",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "James Madison University",
       "season_batting": {
         "g": 11,
@@ -763,7 +763,7 @@
       "ln": "Haesler",
       "pos": "UT",
       "yr": "Fr.",
-      "num": "15.0",
+      "num": "15",
       "school": "James Madison University",
       "season_batting": {
         "g": 11,
@@ -818,7 +818,7 @@
       "ln": "Greene",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "17.0",
+      "num": "17",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -866,7 +866,7 @@
       "ln": "Anderson",
       "pos": "INF",
       "yr": "So.",
-      "num": "18.0",
+      "num": "18",
       "school": "James Madison University",
       "season_batting": {
         "g": 9,
@@ -921,7 +921,7 @@
       "ln": "Strohecker",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -969,7 +969,7 @@
       "ln": "Fleck",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "James Madison University",
       "season_batting": {
         "g": 1,
@@ -1024,7 +1024,7 @@
       "ln": "Campos",
       "pos": "RHP/OF",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1072,7 +1072,7 @@
       "ln": "Guerrero",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "James Madison University",
       "season_batting": {
         "g": 17,
@@ -1127,7 +1127,7 @@
       "ln": "Duff",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "25.0",
+      "num": "25",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1175,7 +1175,7 @@
       "ln": "Tone",
       "pos": "C",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "James Madison University",
       "season_batting": {
         "g": 3,
@@ -1230,7 +1230,7 @@
       "ln": "Kinsler",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1278,7 +1278,7 @@
       "ln": "Bingler",
       "pos": "LHP",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1326,7 +1326,7 @@
       "ln": "McElyea",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1374,7 +1374,7 @@
       "ln": "Muscar",
       "pos": "LHP",
       "yr": "R-Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1422,7 +1422,7 @@
       "ln": "Susce",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1470,7 +1470,7 @@
       "ln": "Horvath",
       "pos": "RHP",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1518,7 +1518,7 @@
       "ln": "Schmidly",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "James Madison University",
       "season_batting": {
         "g": 16,
@@ -1573,7 +1573,7 @@
       "ln": "Madden",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1621,7 +1621,7 @@
       "ln": "Bauer",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "40.0",
+      "num": "40",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1669,7 +1669,7 @@
       "ln": "Cannizzaro",
       "pos": "C",
       "yr": "Sr.",
-      "num": "41.0",
+      "num": "41",
       "school": "James Madison University",
       "season_batting": {
         "g": 3,
@@ -1724,7 +1724,7 @@
       "ln": "McKinney",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "43.0",
+      "num": "43",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1772,7 +1772,7 @@
       "ln": "Alexander",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "46.0",
+      "num": "46",
       "school": "James Madison University",
       "season_batting": null,
       "season_pitching": {
@@ -1820,7 +1820,7 @@
       "ln": "Seguin",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "50.0",
+      "num": "50",
       "school": "James Madison University",
       "season_batting": {
         "g": 15,

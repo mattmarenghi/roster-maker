@@ -2,7 +2,7 @@
   "school": "Lehigh University",
   "base_url": "https://www.lehighsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:22:44.079068Z",
+  "generated_at": "2026-03-17T02:17:12.637700Z",
   "record": "8-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Quinn",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Lehigh University",
       "season_batting": {
         "g": 16,
@@ -76,7 +76,7 @@
       "ln": "Patrizi",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Lehigh University",
       "season_batting": {
         "g": 16,
@@ -131,7 +131,7 @@
       "ln": "Cochran",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Lehigh University",
       "season_batting": {
         "g": 14,
@@ -186,7 +186,7 @@
       "ln": "Giardina",
       "pos": "INF",
       "yr": "Fy.",
-      "num": "4.0",
+      "num": "4",
       "school": "Lehigh University",
       "season_batting": {
         "g": 15,
@@ -241,7 +241,7 @@
       "ln": "Walewander",
       "pos": "C",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Lehigh University",
       "season_batting": {
         "g": 14,
@@ -296,7 +296,7 @@
       "ln": "Crawford",
       "pos": "IF/OF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Lehigh University",
       "season_batting": {
         "g": 16,
@@ -351,7 +351,7 @@
       "ln": "Coughlin",
       "pos": "RHP/OF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -399,7 +399,7 @@
       "ln": "O'Neill",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -447,7 +447,7 @@
       "ln": "Frankovic",
       "pos": "UT/RHP",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Lehigh University",
       "season_batting": {
         "g": 14,
@@ -502,7 +502,7 @@
       "ln": "Dantoni",
       "pos": "INF",
       "yr": "Fy.",
-      "num": "10.0",
+      "num": "10",
       "school": "Lehigh University",
       "season_batting": {
         "g": 8,
@@ -557,7 +557,7 @@
       "ln": "Lamar",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -605,7 +605,7 @@
       "ln": "Adelman",
       "pos": "OF/1B",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Lehigh University",
       "season_batting": {
         "g": 4,
@@ -660,7 +660,7 @@
       "ln": "Fairhurst",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Golier",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -756,7 +756,7 @@
       "ln": "Rogers",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Lehigh University",
       "season_batting": {
         "g": 11,
@@ -811,7 +811,7 @@
       "ln": "Grasso",
       "pos": "OF/INF/P",
       "yr": "Fy.",
-      "num": "17.0",
+      "num": "17",
       "school": "Lehigh University",
       "season_batting": {
         "g": 8,
@@ -866,7 +866,7 @@
       "ln": "Carvelli",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Lehigh University",
       "season_batting": {
         "g": 14,
@@ -921,7 +921,7 @@
       "ln": "Holman",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "19.0",
+      "num": "19",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -969,7 +969,7 @@
       "ln": "O'Hearen",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1017,7 +1017,7 @@
       "ln": "Leaman",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1065,7 +1065,7 @@
       "ln": "Esposito",
       "pos": "C",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Lehigh University",
       "season_batting": {
         "g": 5,
@@ -1120,7 +1120,7 @@
       "ln": "Davis",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Lehigh University",
       "season_batting": {
         "g": 8,
@@ -1175,7 +1175,7 @@
       "ln": "Shepelsky",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "24.0",
+      "num": "24",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "Betances",
       "pos": "IF",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Lehigh University",
       "season_batting": {
         "g": 10,
@@ -1278,7 +1278,7 @@
       "ln": "Treonze",
       "pos": "RHP",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1326,7 +1326,7 @@
       "ln": "Wilkes",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "29.0",
+      "num": "29",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1374,7 +1374,7 @@
       "ln": "Ivy",
       "pos": "C",
       "yr": "Fy.",
-      "num": "30.0",
+      "num": "30",
       "school": "Lehigh University",
       "season_batting": {
         "g": 2,
@@ -1429,7 +1429,7 @@
       "ln": "Wirtz",
       "pos": "C",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Lehigh University",
       "season_batting": {
         "g": 9,
@@ -1484,7 +1484,7 @@
       "ln": "Gariano",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1532,7 +1532,7 @@
       "ln": "Tsiaras",
       "pos": "C",
       "yr": "Jr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Lehigh University",
       "season_batting": {
         "g": 4,
@@ -1587,7 +1587,7 @@
       "ln": "Kochanowicz",
       "pos": "RHP",
       "yr": "So.",
-      "num": "40.0",
+      "num": "40",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1635,7 +1635,7 @@
       "ln": "Andolina",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1683,7 +1683,7 @@
       "ln": "Gyauch-Quirk",
       "pos": "P/OF/DH",
       "yr": "So.",
-      "num": "42.0",
+      "num": "42",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1731,7 +1731,7 @@
       "ln": "Mulvehill",
       "pos": "LHP",
       "yr": "So.",
-      "num": "43.0",
+      "num": "43",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {
@@ -1779,7 +1779,7 @@
       "ln": "Nell",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "45.0",
+      "num": "45",
       "school": "Lehigh University",
       "season_batting": null,
       "season_pitching": {

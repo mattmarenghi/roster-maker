@@ -2,7 +2,7 @@
   "school": "California State University, Fresno",
   "base_url": "https://www.gobulldogs.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:55:47.761069Z",
+  "generated_at": "2026-03-17T02:09:02.646229Z",
   "record": "27-34",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Arreola",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Ruby",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 18,
@@ -124,7 +124,7 @@
       "ln": "Sotomayor",
       "pos": "C/1B",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 18,
@@ -179,7 +179,7 @@
       "ln": "Hewitt",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "11.0",
+      "num": "11",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 18,
@@ -234,7 +234,7 @@
       "ln": "De La Maza",
       "pos": "C",
       "yr": "R-Fr.",
-      "num": "12.0",
+      "num": "12",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 8,
@@ -289,7 +289,7 @@
       "ln": "Pickett",
       "pos": "INF/OF",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 9,
@@ -344,7 +344,7 @@
       "ln": "Schneider",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 7,
@@ -399,7 +399,7 @@
       "ln": "Rodriguez",
       "pos": "LHP/Outfield",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 1,
@@ -470,7 +470,7 @@
       "ln": "Faust",
       "pos": "INF/OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 16,
@@ -525,7 +525,7 @@
       "ln": "Collins",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "30.0",
+      "num": "30",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 18,
@@ -580,7 +580,7 @@
       "ln": "Ovalle",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 13,
@@ -635,7 +635,7 @@
       "ln": "Boyd",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 17,
@@ -690,7 +690,7 @@
       "ln": "Nolen",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 18,
@@ -745,7 +745,7 @@
       "ln": "Thomas",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -793,7 +793,7 @@
       "ln": "Plasschaert",
       "pos": "OF/INF",
       "yr": "R-So.",
-      "num": "35.0",
+      "num": "35",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 10,
@@ -848,7 +848,7 @@
       "ln": "Young",
       "pos": "C",
       "yr": "Gr.",
-      "num": "36.0",
+      "num": "36",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 15,
@@ -903,7 +903,7 @@
       "ln": "Cuellar",
       "pos": "LHP",
       "yr": "R-Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -951,7 +951,7 @@
       "ln": "Patrick",
       "pos": "RHP",
       "yr": "So.",
-      "num": "38.0",
+      "num": "38",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -999,7 +999,7 @@
       "ln": "Thornbury",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1047,7 +1047,7 @@
       "ln": "Munster",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "40.0",
+      "num": "40",
       "school": "California State University, Fresno",
       "season_batting": {
         "g": 5,
@@ -1102,7 +1102,7 @@
       "ln": "Thornbury",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1150,7 +1150,7 @@
       "ln": "Galang",
       "pos": "RHP",
       "yr": "So.",
-      "num": "43.0",
+      "num": "43",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1198,7 +1198,7 @@
       "ln": "Townson",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "46.0",
+      "num": "46",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1246,7 +1246,7 @@
       "ln": "Heintz",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "47.0",
+      "num": "47",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1294,7 +1294,7 @@
       "ln": "Haver",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "48.0",
+      "num": "48",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1342,7 +1342,7 @@
       "ln": "Page-Allen",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "49.0",
+      "num": "49",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1390,7 +1390,7 @@
       "ln": "Crystal",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "50.0",
+      "num": "50",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {
@@ -1438,7 +1438,7 @@
       "ln": "Ekizian",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "52.0",
+      "num": "52",
       "school": "California State University, Fresno",
       "season_batting": null,
       "season_pitching": {

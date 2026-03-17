@@ -2,7 +2,7 @@
   "school": "Boston College",
   "base_url": "https://www.bceagles.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:50:09.585904Z",
+  "generated_at": "2026-03-17T02:07:04.201565Z",
   "record": "39-45",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Martinez",
       "pos": "INF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Boston College",
       "season_batting": {
         "g": 10,
@@ -76,7 +76,7 @@
       "ln": "Mainolfi",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Boston College",
       "season_batting": {
         "g": 19,
@@ -131,7 +131,7 @@
       "ln": "Garcia",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Boston College",
       "season_batting": {
         "g": 15,
@@ -186,7 +186,7 @@
       "ln": "Colarusso",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -234,7 +234,7 @@
       "ln": "Larson",
       "pos": "OF",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "Boston College",
       "season_batting": {
         "g": 17,
@@ -289,7 +289,7 @@
       "ln": "Johnson",
       "pos": "C",
       "yr": "Gr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Boston College",
       "season_batting": {
         "g": 16,
@@ -344,7 +344,7 @@
       "ln": "DeShazo",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Boston College",
       "season_batting": {
         "g": 11,
@@ -399,7 +399,7 @@
       "ln": "Gallo",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Boston College",
       "season_batting": {
         "g": 14,
@@ -454,7 +454,7 @@
       "ln": "Roossien",
       "pos": "C/OF",
       "yr": "So.",
-      "num": "15.0",
+      "num": "15",
       "school": "Boston College",
       "season_batting": {
         "g": 7,
@@ -509,7 +509,7 @@
       "ln": "Solier",
       "pos": "INF",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Boston College",
       "season_batting": {
         "g": 19,
@@ -564,7 +564,7 @@
       "ln": "Soares",
       "pos": "RHP",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -612,7 +612,7 @@
       "ln": "Wolff",
       "pos": "1B",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Boston College",
       "season_batting": {
         "g": 15,
@@ -667,7 +667,7 @@
       "ln": "Williams",
       "pos": "OF",
       "yr": "So.",
-      "num": "19.0",
+      "num": "19",
       "school": "Boston College",
       "season_batting": {
         "g": 18,
@@ -722,7 +722,7 @@
       "ln": "Mudd",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -770,7 +770,7 @@
       "ln": "Masse",
       "pos": "C",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Boston College",
       "season_batting": {
         "g": 2,
@@ -825,7 +825,7 @@
       "ln": "Miller",
       "pos": "LHP",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -873,7 +873,7 @@
       "ln": "Gonzalez",
       "pos": "C/RHP",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Boston College",
       "season_batting": {
         "g": 11,
@@ -955,7 +955,7 @@
       "ln": "Hartsell",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1003,7 +1003,7 @@
       "ln": "Burnham",
       "pos": "LHP",
       "yr": "So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1051,7 +1051,7 @@
       "ln": "D Mitchell",
       "pos": "RHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": null,
@@ -1081,7 +1081,7 @@
       "ln": "Hendrickson",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Boston College",
       "season_batting": {
         "g": 2,
@@ -1136,7 +1136,7 @@
       "ln": "Hard",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1184,7 +1184,7 @@
       "ln": "D'Ancona",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1232,7 +1232,7 @@
       "ln": "Budis",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1280,7 +1280,7 @@
       "ln": "Kwiatkowski",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1328,7 +1328,7 @@
       "ln": "Toomey",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Boston College",
       "season_batting": {
         "g": 19,
@@ -1383,7 +1383,7 @@
       "ln": "Chicoine",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1431,7 +1431,7 @@
       "ln": "Wang",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Boston College",
       "season_batting": {
         "g": 19,
@@ -1486,7 +1486,7 @@
       "ln": "Grumbles",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1534,7 +1534,7 @@
       "ln": "Kipp",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1582,7 +1582,7 @@
       "ln": "Spada",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "47.0",
+      "num": "47",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1630,7 +1630,7 @@
       "ln": "Schaefer",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "49.0",
+      "num": "49",
       "school": "Boston College",
       "season_batting": null,
       "season_pitching": {
@@ -1678,7 +1678,7 @@
       "ln": "Surowiec",
       "pos": "INF",
       "yr": "So.",
-      "num": "55.0",
+      "num": "55",
       "school": "Boston College",
       "season_batting": {
         "g": 10,

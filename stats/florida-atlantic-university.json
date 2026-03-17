@@ -2,7 +2,7 @@
   "school": "Florida Atlantic University",
   "base_url": "https://www.fausports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:10:09.529263Z",
+  "generated_at": "2026-03-17T02:13:18.369512Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Baez",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 5,
@@ -76,7 +76,7 @@
       "ln": "Patten",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 15,
@@ -131,7 +131,7 @@
       "ln": "Boylston",
       "pos": "OF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 16,
@@ -186,7 +186,7 @@
       "ln": "Leroux",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 20,
@@ -241,27 +241,27 @@
       "ln": "Perazza",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 18,
         "gs": 17,
-        "avg": 0.339,
-        "ops": 0.932,
+        "avg": 0.355,
+        "ops": 0.961,
         "ab": 62,
         "r": 17,
-        "h": 21,
+        "h": 22,
         "doubles": 2,
         "triples": 2,
         "hr": 2,
         "rbi": 10,
-        "tb": 33,
-        "slg": 0.532,
+        "tb": 34,
+        "slg": 0.548,
         "bb": 7,
         "hbp": 2,
         "so": 11,
         "gdp": 2,
-        "obp": 0.4,
+        "obp": 0.413,
         "sf": 4,
         "sh": 1,
         "sb": 2,
@@ -276,7 +276,7 @@
         "batting": {
           "ab": 4,
           "r": 1,
-          "h": 1,
+          "h": 2,
           "rbi": 1,
           "bb": 0,
           "so": 0,
@@ -296,7 +296,7 @@
       "ln": "Kimball",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -344,7 +344,7 @@
       "ln": "Romano",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 20,
@@ -360,8 +360,8 @@
         "rbi": 10,
         "tb": 32,
         "slg": 0.451,
-        "bb": 12,
-        "hbp": 7,
+        "bb": 13,
+        "hbp": 6,
         "so": 13,
         "gdp": 0,
         "obp": 0.489,
@@ -381,7 +381,7 @@
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
           "hr": 0,
           "doubles": 0,
@@ -399,7 +399,7 @@
       "ln": "Ward",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 18,
@@ -481,7 +481,7 @@
       "ln": "Murphy",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -529,7 +529,7 @@
       "ln": "Collier",
       "pos": "C",
       "yr": "Gr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 12,
@@ -584,7 +584,7 @@
       "ln": "Grant",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -632,7 +632,7 @@
       "ln": "Harriel",
       "pos": "INF",
       "yr": "So.",
-      "num": "18.0",
+      "num": "18",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 9,
@@ -687,7 +687,7 @@
       "ln": "Buckler",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -735,7 +735,7 @@
       "ln": "Martinez",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 19,
@@ -790,7 +790,7 @@
       "ln": "Lopez",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 6,
@@ -845,7 +845,7 @@
       "ln": "Lipsey",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 20,
@@ -900,7 +900,7 @@
       "ln": "Juntunen",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -948,7 +948,7 @@
       "ln": "Horner",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -996,7 +996,7 @@
       "ln": "Litman",
       "pos": "RHP",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1044,7 +1044,7 @@
       "ln": "Gramesty",
       "pos": "C",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 12,
@@ -1099,7 +1099,7 @@
       "ln": "Moronta",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 15,
@@ -1154,7 +1154,7 @@
       "ln": "Oborne",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1202,7 +1202,7 @@
       "ln": "Small",
       "pos": "INF",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Florida Atlantic University",
       "season_batting": {
         "g": 9,
@@ -1257,7 +1257,7 @@
       "ln": "Boully",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1305,7 +1305,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1353,7 +1353,7 @@
       "ln": "Gilson",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1401,7 +1401,7 @@
       "ln": "Waring",
       "pos": "LHP",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1449,7 +1449,7 @@
       "ln": "Murphy",
       "pos": "C",
       "yr": "So.",
-      "num": "42.0",
+      "num": "42",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1481,7 +1481,7 @@
       "ln": "Robinson",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1529,7 +1529,7 @@
       "ln": "Witmer",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1577,7 +1577,7 @@
       "ln": "Adetuyi",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "49.0",
+      "num": "49",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {
@@ -1625,7 +1625,7 @@
       "ln": "Kilby",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "55.0",
+      "num": "55",
       "school": "Florida Atlantic University",
       "season_batting": null,
       "season_pitching": {

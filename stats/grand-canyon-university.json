@@ -2,7 +2,7 @@
   "school": "Grand Canyon University",
   "base_url": "https://www.gculopes.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:14:18.519205Z",
+  "generated_at": "2026-03-17T02:14:38.532512Z",
   "record": "8-13",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Boever",
       "pos": "UTIL",
       "yr": "R-Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 5,
@@ -76,7 +76,7 @@
       "ln": "Bianchina",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 10,
@@ -131,7 +131,7 @@
       "ln": "Matranga",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 3,
@@ -168,7 +168,7 @@
       "ln": "Perez",
       "pos": "C",
       "yr": "Gr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 17,
@@ -223,7 +223,7 @@
       "ln": "Schmidt",
       "pos": "1B/OF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 7,
@@ -278,7 +278,7 @@
       "ln": "Sanko",
       "pos": "INF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 16,
@@ -333,7 +333,7 @@
       "ln": "Scaldeferri",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 19,
@@ -388,7 +388,7 @@
       "ln": "Ohland",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 8,
@@ -443,7 +443,7 @@
       "ln": "Gregory",
       "pos": "RHP",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -491,7 +491,7 @@
       "ln": "Charles",
       "pos": "OF",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 9,
@@ -546,7 +546,7 @@
       "ln": "Cameron",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 17,
@@ -601,7 +601,7 @@
       "ln": "Orr",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -649,7 +649,7 @@
       "ln": "Sloan",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -697,7 +697,7 @@
       "ln": "Penzkover",
       "pos": "RHP/OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 2,
@@ -779,7 +779,7 @@
       "ln": "Toney",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -827,7 +827,7 @@
       "ln": "Peery",
       "pos": "1B",
       "yr": "Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 21,
@@ -882,7 +882,7 @@
       "ln": "Guerrero",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -930,7 +930,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -978,7 +978,7 @@
       "ln": "McGuire",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1026,7 +1026,7 @@
       "ln": "Huff",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 3,
@@ -1081,7 +1081,7 @@
       "ln": "Cunnings",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1129,7 +1129,7 @@
       "ln": "Chacon",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 18,
@@ -1184,7 +1184,7 @@
       "ln": "Higginbottom",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1232,7 +1232,7 @@
       "ln": "Ahern",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1280,7 +1280,7 @@
       "ln": "Frey",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1328,7 +1328,7 @@
       "ln": "Anderson",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 1,
@@ -1383,7 +1383,7 @@
       "ln": "Moeller",
       "pos": "RHP/C",
       "yr": "Sr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1431,7 +1431,7 @@
       "ln": "Galvan",
       "pos": "C",
       "yr": "Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 15,
@@ -1486,7 +1486,7 @@
       "ln": "Owens",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 8,
@@ -1541,7 +1541,7 @@
       "ln": "Sanders",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 18,
@@ -1596,7 +1596,7 @@
       "ln": "Lee",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1644,7 +1644,7 @@
       "ln": "Lopez III",
       "pos": "3B/C",
       "yr": "Fr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 8,
@@ -1699,7 +1699,7 @@
       "ln": "Limas",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "47.0",
+      "num": "47",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1747,7 +1747,7 @@
       "ln": "Kiemele",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "48.0",
+      "num": "48",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1795,7 +1795,7 @@
       "ln": "Bates",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "51.0",
+      "num": "51",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 14,
@@ -1850,7 +1850,7 @@
       "ln": "Nielsen",
       "pos": "OF",
       "yr": "So.",
-      "num": "53.0",
+      "num": "53",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 9,
@@ -1905,7 +1905,7 @@
       "ln": "Robb",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "55.0",
+      "num": "55",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {
@@ -1953,7 +1953,7 @@
       "ln": "Johns",
       "pos": "1B/OF",
       "yr": "Fr.",
-      "num": "66.0",
+      "num": "66",
       "school": "Grand Canyon University",
       "season_batting": {
         "g": 15,
@@ -2008,7 +2008,7 @@
       "ln": "Cohen",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "91.0",
+      "num": "91",
       "school": "Grand Canyon University",
       "season_batting": null,
       "season_pitching": {

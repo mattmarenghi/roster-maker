@@ -2,7 +2,7 @@
   "school": "Liberty University",
   "base_url": "https://www.LibertyFlames.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:23:37.045180Z",
+  "generated_at": "2026-03-17T02:17:33.118034Z",
   "record": "40-45",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Marsh",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Liberty University",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Grabowski",
       "pos": "INF/RHP",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Liberty University",
       "season_batting": {
         "g": 18,
@@ -131,7 +131,7 @@
       "ln": "Sorenson",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Liberty University",
       "season_batting": {
         "g": 18,
@@ -179,14 +179,14 @@
       },
       "narrative": "Went 1/4 with 1 RBI against Missouri St.. Contributed at the plate in the team's W."
     },
-    "9847009c": {
-      "id": "9847009c",
+    "a64859b3": {
+      "id": "a64859b3",
       "name": "Bradley Zayac",
       "fn": "Bradley",
       "ln": "Zayac",
       "pos": "RHP",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -225,7 +225,7 @@
           "hbp": 1
         }
       },
-      "narrative": "Took the mound against Missouri St., throwing 6.0 innings. Struck out 10 while allowing just 4 hit(s) and 2 earned run(s) in a quality start."
+      "narrative": "6.0 IP, 10 K, 2 ER vs. Missouri St. (W). At 1.72 ERA through 26.2 innings on the season."
     },
     "31e29390": {
       "id": "31e29390",
@@ -234,7 +234,7 @@
       "ln": "Scilley",
       "pos": "RHP/INF",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Liberty University",
       "season_batting": {
         "g": 10,
@@ -289,7 +289,7 @@
       "ln": "Simmons",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Liberty University",
       "season_batting": {
         "g": 4,
@@ -344,7 +344,7 @@
       "ln": "Hvidsten",
       "pos": "C",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Liberty University",
       "season_batting": {
         "g": 13,
@@ -399,7 +399,7 @@
       "ln": "Fulk",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Liberty University",
       "season_batting": {
         "g": 6,
@@ -454,7 +454,7 @@
       "ln": "Lucas",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Blair",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -550,7 +550,7 @@
       "ln": "Barone",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Liberty University",
       "season_batting": {
         "g": 17,
@@ -605,7 +605,7 @@
       "ln": "Jaffe",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Liberty University",
       "season_batting": {
         "g": 11,
@@ -660,7 +660,7 @@
       "ln": "Porter",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Dietrich",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -756,7 +756,7 @@
       "ln": "Potts",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -804,7 +804,7 @@
       "ln": "Moore",
       "pos": "OF/C",
       "yr": "R-Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Liberty University",
       "season_batting": {
         "g": 13,
@@ -859,7 +859,7 @@
       "ln": "August",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -907,7 +907,7 @@
       "ln": "McCusker",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -955,7 +955,7 @@
       "ln": "Brinkman",
       "pos": "C/OF",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "Liberty University",
       "season_batting": {
         "g": 2,
@@ -1010,7 +1010,7 @@
       "ln": "Campos",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Liberty University",
       "season_batting": {
         "g": 18,
@@ -1065,7 +1065,7 @@
       "ln": "Smith",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -1113,7 +1113,7 @@
       "ln": "Evans",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -1161,7 +1161,7 @@
       "ln": "Harrington",
       "pos": "RHP",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -1209,7 +1209,7 @@
       "ln": "DeCandido",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Liberty University",
       "season_batting": {
         "g": 18,
@@ -1264,7 +1264,7 @@
       "ln": "Drumm",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Liberty University",
       "season_batting": {
         "g": 17,
@@ -1319,7 +1319,7 @@
       "ln": "Weaver",
       "pos": "OF",
       "yr": "So.",
-      "num": "46.0",
+      "num": "46",
       "school": "Liberty University",
       "season_batting": {
         "g": 2,
@@ -1374,7 +1374,7 @@
       "ln": "Swink",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "48.0",
+      "num": "48",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {
@@ -1422,7 +1422,7 @@
       "ln": "Swofford",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "49.0",
+      "num": "49",
       "school": "Liberty University",
       "season_batting": {
         "g": 9,
@@ -1477,7 +1477,7 @@
       "ln": "Decker-Petty",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "55.0",
+      "num": "55",
       "school": "Liberty University",
       "season_batting": null,
       "season_pitching": {

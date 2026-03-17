@@ -2,7 +2,7 @@
   "school": "University of South Carolina Upstate",
   "base_url": "https://www.upstatespartans.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:38:59.649433Z",
+  "generated_at": "2026-03-17T02:43:05.934584Z",
   "record": "19-24",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Bowman",
       "pos": "UTL",
       "yr": "R-So.",
-      "num": "0.0",
+      "num": "0",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Waters",
       "pos": "UTL",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 17,
@@ -131,7 +131,7 @@
       "ln": "Heaghney",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 21,
@@ -186,7 +186,7 @@
       "ln": "Armsey",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 21,
@@ -241,7 +241,7 @@
       "ln": "Lang",
       "pos": "C",
       "yr": "R-So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 17,
@@ -296,7 +296,7 @@
       "ln": "Ritzer",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 8,
@@ -351,7 +351,7 @@
       "ln": "Small",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 5,
@@ -406,7 +406,7 @@
       "ln": "Bianchini",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -454,7 +454,7 @@
       "ln": "Bentley",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 18,
@@ -509,7 +509,7 @@
       "ln": "Smalanskas",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 2,
@@ -564,7 +564,7 @@
       "ln": "Lucas",
       "pos": "C",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 14,
@@ -619,7 +619,7 @@
       "ln": "Kaplan",
       "pos": "LHP",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -667,7 +667,7 @@
       "ln": "Eichenberger",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -715,7 +715,7 @@
       "ln": "Griggs",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 20,
@@ -770,7 +770,7 @@
       "ln": "Land",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -818,7 +818,7 @@
       "ln": "Sweeney",
       "pos": "INF",
       "yr": "5th",
-      "num": "17.0",
+      "num": "17",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 19,
@@ -873,7 +873,7 @@
       "ln": "Hemmerling",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -921,7 +921,7 @@
       "ln": "Torres",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -969,7 +969,7 @@
       "ln": "Coleman",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 10,
@@ -1024,7 +1024,7 @@
       "ln": "Reyes",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1072,7 +1072,7 @@
       "ln": "Morris",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1120,7 +1120,7 @@
       "ln": "Benton",
       "pos": "RHP",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1168,7 +1168,7 @@
       "ln": "Campidilli",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 13,
@@ -1223,7 +1223,7 @@
       "ln": "Kirby",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1271,7 +1271,7 @@
       "ln": "Mackey",
       "pos": "RHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Hook",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1367,7 +1367,7 @@
       "ln": "Chuttey",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1415,7 +1415,7 @@
       "ln": "Kummer",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1463,7 +1463,7 @@
       "ln": "Gibson",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "38.0",
+      "num": "38",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1511,7 +1511,7 @@
       "ln": "Stukes",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
       "season_pitching": {
@@ -1559,7 +1559,7 @@
       "ln": "Zenor",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of South Carolina Upstate",
       "season_batting": {
         "g": 21,

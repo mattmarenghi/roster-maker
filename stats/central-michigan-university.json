@@ -2,7 +2,7 @@
   "school": "Central Michigan University",
   "base_url": "https://www.cmuchippewas.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:58:36.742070Z",
+  "generated_at": "2026-03-17T02:09:55.288271Z",
   "record": "36-44",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Loikits",
       "pos": "IF",
       "yr": "R-So.",
-      "num": "0.0",
+      "num": "0",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 17,
@@ -76,7 +76,7 @@
       "ln": "Correa Jr.",
       "pos": "IF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 17,
@@ -131,7 +131,7 @@
       "ln": "Bowman",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 17,
@@ -186,7 +186,7 @@
       "ln": "Bouscher",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 7,
@@ -223,7 +223,7 @@
       "ln": "Campau",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -271,7 +271,7 @@
       "ln": "Ross",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -319,7 +319,7 @@
       "ln": "Velazco",
       "pos": "C/OF",
       "yr": "Gr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 1,
@@ -374,7 +374,7 @@
       "ln": "Knowlton",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 16,
@@ -429,7 +429,7 @@
       "ln": "Webb",
       "pos": "IF/OF",
       "yr": "R-Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 16,
@@ -484,7 +484,7 @@
       "ln": "Stumpf",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -532,7 +532,7 @@
       "ln": "Smith",
       "pos": "IF/RHP",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 9,
@@ -614,7 +614,7 @@
       "ln": "Ball",
       "pos": "IF/OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 6,
@@ -669,7 +669,7 @@
       "ln": "Campanale",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 4,
@@ -724,7 +724,7 @@
       "ln": "Griffiths",
       "pos": "RHP",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -772,7 +772,7 @@
       "ln": "Verburg",
       "pos": "C",
       "yr": "R-Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 9,
@@ -827,7 +827,7 @@
       "ln": "Bailey",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -875,7 +875,7 @@
       "ln": "Fleaka",
       "pos": "IF/OF",
       "yr": "R-Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 3,
@@ -930,7 +930,7 @@
       "ln": "Keilen",
       "pos": "C",
       "yr": "R-Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 13,
@@ -985,7 +985,7 @@
       "ln": "Milto",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 15,
@@ -1040,7 +1040,7 @@
       "ln": "Hammond",
       "pos": "LHP",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1088,7 +1088,7 @@
       "ln": "Krzciok",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 17,
@@ -1143,7 +1143,7 @@
       "ln": "Neiswonger",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1191,7 +1191,7 @@
       "ln": "Brown",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1239,7 +1239,7 @@
       "ln": "Tarnowski",
       "pos": "LHP",
       "yr": "R-Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1287,7 +1287,7 @@
       "ln": "Guzik II",
       "pos": "IF",
       "yr": "R-Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 9,
@@ -1342,7 +1342,7 @@
       "ln": "Hanson",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1390,7 +1390,7 @@
       "ln": "Keller",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1438,7 +1438,7 @@
       "ln": "Potteiger",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1486,7 +1486,7 @@
       "ln": "Potts",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1534,7 +1534,7 @@
       "ln": "Prout",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Central Michigan University",
       "season_batting": {
         "g": 17,
@@ -1589,7 +1589,7 @@
       "ln": "Moczydlowsky",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1637,7 +1637,7 @@
       "ln": "Niehaus",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "49.0",
+      "num": "49",
       "school": "Central Michigan University",
       "season_batting": null,
       "season_pitching": {

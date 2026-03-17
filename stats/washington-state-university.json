@@ -2,7 +2,7 @@
   "school": "Washington State University",
   "base_url": "https://www.wsucougars.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:50:56.665226Z",
+  "generated_at": "2026-03-17T02:47:22.352705Z",
   "record": "18-29",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Thiele",
       "pos": "MIF",
       "yr": "R-Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Washington State University",
       "season_batting": {
         "g": 6,
@@ -76,7 +76,7 @@
       "ln": "Chavez",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Washington State University",
       "season_batting": {
         "g": 15,
@@ -131,7 +131,7 @@
       "ln": "Priest",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Washington State University",
       "season_batting": {
         "g": 13,
@@ -186,7 +186,7 @@
       "ln": "Gigu\u00e8re",
       "pos": "C",
       "yr": "Fr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Washington State University",
       "season_batting": {
         "g": 8,
@@ -241,7 +241,7 @@
       "ln": "Northrop",
       "pos": "INF",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Washington State University",
       "season_batting": {
         "g": 17,
@@ -296,7 +296,7 @@
       "ln": "Roy",
       "pos": "MIF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Washington State University",
       "season_batting": {
         "g": 18,
@@ -351,7 +351,7 @@
       "ln": "Watterson",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Washington State University",
       "season_batting": {
         "g": 13,
@@ -406,7 +406,7 @@
       "ln": "Obenour",
       "pos": "INF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Washington State University",
       "season_batting": {
         "g": 4,
@@ -461,7 +461,7 @@
       "ln": "Shull",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Washington State University",
       "season_batting": {
         "g": 1,
@@ -516,7 +516,7 @@
       "ln": "Fast",
       "pos": "LHP/OF",
       "yr": "R-Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -564,7 +564,7 @@
       "ln": "Richie",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -612,7 +612,7 @@
       "ln": "Pirello",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Washington State University",
       "season_batting": {
         "g": 13,
@@ -667,7 +667,7 @@
       "ln": "Lewis",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -715,7 +715,7 @@
       "ln": "Rienguette",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -763,7 +763,7 @@
       "ln": "Smith",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Washington State University",
       "season_batting": {
         "g": 18,
@@ -836,7 +836,7 @@
       "ln": "Skjonsby",
       "pos": "CIF",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Washington State University",
       "season_batting": {
         "g": 18,
@@ -891,7 +891,7 @@
       "ln": "Schneider",
       "pos": "RHP",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -939,7 +939,7 @@
       "ln": "Robinson",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Washington State University",
       "season_batting": {
         "g": 16,
@@ -994,7 +994,7 @@
       "ln": "Hartman",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Washington State University",
       "season_batting": {
         "g": 18,
@@ -1049,7 +1049,7 @@
       "ln": "Macleod",
       "pos": "C",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Washington State University",
       "season_batting": {
         "g": 10,
@@ -1104,7 +1104,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Washington State University",
       "season_batting": {
         "g": 18,
@@ -1175,7 +1175,7 @@
       "ln": "Rodriguez",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "Robinson",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Washington State University",
       "season_batting": {
         "g": 16,
@@ -1260,7 +1260,7 @@
       "ln": "Falke",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1308,7 +1308,7 @@
       "ln": "Meyers",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1356,7 +1356,7 @@
       "ln": "Wickersham",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1404,7 +1404,7 @@
       "ln": "Fernandez",
       "pos": "C",
       "yr": "So.",
-      "num": "39.0",
+      "num": "39",
       "school": "Washington State University",
       "season_batting": {
         "g": 3,
@@ -1459,7 +1459,7 @@
       "ln": "Stowe",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1507,7 +1507,7 @@
       "ln": "Derr",
       "pos": "LHP",
       "yr": "So.",
-      "num": "43.0",
+      "num": "43",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1555,7 +1555,7 @@
       "ln": "Cross",
       "pos": "1B/C",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Washington State University",
       "season_batting": {
         "g": 5,
@@ -1610,7 +1610,7 @@
       "ln": "Sheldon",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1658,7 +1658,7 @@
       "ln": "Thein",
       "pos": "C",
       "yr": "Sr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Washington State University",
       "season_batting": {
         "g": 9,
@@ -1713,7 +1713,7 @@
       "ln": "O'Neil",
       "pos": "RHP",
       "yr": "So.",
-      "num": "47.0",
+      "num": "47",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {
@@ -1761,7 +1761,7 @@
       "ln": "Haider",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "54.0",
+      "num": "54",
       "school": "Washington State University",
       "season_batting": null,
       "season_pitching": {

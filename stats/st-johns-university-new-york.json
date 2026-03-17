@@ -2,7 +2,7 @@
   "school": "St. John's University (New York)",
   "base_url": "https://www.redstormsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:56:16.506215Z",
+  "generated_at": "2026-03-17T02:28:27.924557Z",
   "record": "7-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Chase",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "0.0",
+      "num": "0",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Cowan",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 8,
@@ -124,7 +124,7 @@
       "ln": "Wright",
       "pos": "INF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 5,
@@ -179,7 +179,7 @@
       "ln": "Bernardini",
       "pos": "OF/C",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 9,
@@ -234,7 +234,7 @@
       "ln": "Rodriguez",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 19,
@@ -289,7 +289,7 @@
       "ln": "Jacobsen",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "7.0",
+      "num": "7",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 2,
@@ -344,7 +344,7 @@
       "ln": "Agresti",
       "pos": "C/1B",
       "yr": "R-So.",
-      "num": "8.0",
+      "num": "8",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 19,
@@ -399,7 +399,7 @@
       "ln": "LeGrande",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 17,
@@ -454,7 +454,7 @@
       "ln": "Johnson",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Rodriguez",
       "pos": "RHP",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 19,
@@ -539,7 +539,7 @@
       "ln": "Raifstanger",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 19,
@@ -594,7 +594,7 @@
       "ln": "Fitzsimmons",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "15.0",
+      "num": "15",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 19,
@@ -649,7 +649,7 @@
       "ln": "Clark",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "16.0",
+      "num": "16",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -697,7 +697,7 @@
       "ln": "Wall",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -745,7 +745,7 @@
       "ln": "Chaffee",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -793,7 +793,7 @@
       "ln": "Gilpin",
       "pos": "INF/RHP",
       "yr": "Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -841,7 +841,7 @@
       "ln": "Mansour",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "21.0",
+      "num": "21",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 19,
@@ -896,7 +896,7 @@
       "ln": "Conley",
       "pos": "LHP",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -944,7 +944,7 @@
       "ln": "Batuyios",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -992,7 +992,7 @@
       "ln": "Harding",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1040,7 +1040,7 @@
       "ln": "Romer",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1088,7 +1088,7 @@
       "ln": "McMillan",
       "pos": "INF",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 19,
@@ -1143,7 +1143,7 @@
       "ln": "Nestler",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "28.0",
+      "num": "28",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1191,7 +1191,7 @@
       "ln": "Burns",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1239,7 +1239,7 @@
       "ln": "Tate",
       "pos": "OF",
       "yr": "So.",
-      "num": "31.0",
+      "num": "31",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 7,
@@ -1294,7 +1294,7 @@
       "ln": "O'Leary",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1342,7 +1342,7 @@
       "ln": "Frederick",
       "pos": "RHP",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1390,7 +1390,7 @@
       "ln": "Mowad",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1438,7 +1438,7 @@
       "ln": "Frey",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "43.0",
+      "num": "43",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 15,
@@ -1493,7 +1493,7 @@
       "ln": "Longoria",
       "pos": "RHP",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1541,7 +1541,7 @@
       "ln": "Hoeckele",
       "pos": "RHP",
       "yr": "So.",
-      "num": "45.0",
+      "num": "45",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {
@@ -1589,7 +1589,7 @@
       "ln": "Britt",
       "pos": "C",
       "yr": "Jr.",
-      "num": "46.0",
+      "num": "46",
       "school": "St. John's University (New York)",
       "season_batting": {
         "g": 10,
@@ -1644,7 +1644,7 @@
       "ln": "Fateman",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "51.0",
+      "num": "51",
       "school": "St. John's University (New York)",
       "season_batting": null,
       "season_pitching": {

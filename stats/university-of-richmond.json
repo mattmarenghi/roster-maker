@@ -2,7 +2,7 @@
   "school": "University of Richmond",
   "base_url": "https://richmondspiders.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:37:40.118452Z",
+  "generated_at": "2026-03-17T02:42:55.440614Z",
   "record": "52-63",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Hughes",
       "pos": "Infielder",
       "yr": "Jr.",
-      "num": "0.0",
+      "num": "0",
       "school": "University of Richmond",
       "season_batting": {
         "g": 3,
@@ -76,7 +76,7 @@
       "ln": "O'Keefe",
       "pos": "Infielder",
       "yr": "R-Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Richmond",
       "season_batting": {
         "g": 17,
@@ -131,7 +131,7 @@
       "ln": "Elko",
       "pos": "Infielder / Catcher",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Richmond",
       "season_batting": {
         "g": 20,
@@ -186,7 +186,7 @@
       "ln": "Johnson Jr.",
       "pos": "Outfielder",
       "yr": "Gr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Richmond",
       "season_batting": {
         "g": 16,
@@ -241,7 +241,7 @@
       "ln": "Dosenbach",
       "pos": "Outfielder",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Richmond",
       "season_batting": {
         "g": 19,
@@ -296,7 +296,7 @@
       "ln": "Kraemer",
       "pos": "Outfielder",
       "yr": "R-Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Richmond",
       "season_batting": {
         "g": 7,
@@ -351,7 +351,7 @@
       "ln": "Topolski",
       "pos": "Right-Handed Pitcher",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -399,7 +399,7 @@
       "ln": "Siesky",
       "pos": "Right-Handed Pitcher",
       "yr": "Gr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -447,7 +447,7 @@
       "ln": "Rodriguez",
       "pos": "Right-Handed Pitcher",
       "yr": "Gr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -495,7 +495,7 @@
       "ln": "Harvey",
       "pos": "Infielder",
       "yr": "Fr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Richmond",
       "season_batting": {
         "g": 7,
@@ -550,7 +550,7 @@
       "ln": "Winebrenner",
       "pos": "Catcher",
       "yr": "Gr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Richmond",
       "season_batting": {
         "g": 20,
@@ -605,7 +605,7 @@
       "ln": "Recio",
       "pos": "Infielder",
       "yr": "Gr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Richmond",
       "season_batting": {
         "g": 20,
@@ -660,7 +660,7 @@
       "ln": "Wilson",
       "pos": "Right-Handed Pitcher / Infielder",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Richmond",
       "season_batting": {
         "g": 12,
@@ -742,7 +742,7 @@
       "ln": "Rickabaugh",
       "pos": "Catcher",
       "yr": "R-Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Richmond",
       "season_batting": {
         "g": 11,
@@ -797,7 +797,7 @@
       "ln": "Van Tuyle",
       "pos": "Right-Handed Pitcher",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -845,7 +845,7 @@
       "ln": "Santiago-Cruz",
       "pos": "Right-Handed Pitcher / Infielder",
       "yr": "So.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -893,7 +893,7 @@
       "ln": "Heney",
       "pos": "Left-Handed Pitcher",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -941,7 +941,7 @@
       "ln": "Kennedy",
       "pos": "Outfielder",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Richmond",
       "season_batting": {
         "g": 14,
@@ -996,7 +996,7 @@
       "ln": "Crenshaw",
       "pos": "Catcher",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Richmond",
       "season_batting": {
         "g": 5,
@@ -1051,7 +1051,7 @@
       "ln": "Scanlon",
       "pos": "Infielder",
       "yr": "Gr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Richmond",
       "season_batting": {
         "g": 15,
@@ -1106,7 +1106,7 @@
       "ln": "Hyer",
       "pos": "Left-Handed Pitcher",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1154,7 +1154,7 @@
       "ln": "Gruber",
       "pos": "Right-Handed Pitcher",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1202,7 +1202,7 @@
       "ln": "Morris",
       "pos": "Right-Handed Pitcher / Infielder",
       "yr": "Gr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Richmond",
       "season_batting": {
         "g": 16,
@@ -1284,7 +1284,7 @@
       "ln": "Gay",
       "pos": "Right-Handed Pitcher",
       "yr": "Gr.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1332,7 +1332,7 @@
       "ln": "Dray",
       "pos": "Right-Handed Pitcher",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1380,7 +1380,7 @@
       "ln": "Witkop",
       "pos": "Right-Handed Pitcher",
       "yr": "So.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1428,7 +1428,7 @@
       "ln": "Hinchliffe",
       "pos": "Right-Handed Pitcher",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1476,7 +1476,7 @@
       "ln": "Zeppieri",
       "pos": "Outfielder",
       "yr": "Gr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Richmond",
       "season_batting": {
         "g": 4,
@@ -1531,7 +1531,7 @@
       "ln": "Smith",
       "pos": "Right-Handed Pitcher",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1579,7 +1579,7 @@
       "ln": "Schaller",
       "pos": "Outfielder",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Richmond",
       "season_batting": {
         "g": 17,
@@ -1634,7 +1634,7 @@
       "ln": "Haught",
       "pos": "Right-Handed Pitcher / Infielder",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Richmond",
       "season_batting": {
         "g": 20,
@@ -1689,7 +1689,7 @@
       "ln": "Anvar",
       "pos": "Right-Handed Pitcher",
       "yr": "Gr.",
-      "num": "48.0",
+      "num": "48",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1737,7 +1737,7 @@
       "ln": "Downs",
       "pos": "Outfielder",
       "yr": "Fr.",
-      "num": "52.0",
+      "num": "52",
       "school": "University of Richmond",
       "season_batting": {
         "g": 11,
@@ -1792,7 +1792,7 @@
       "ln": "Giordano",
       "pos": "Left-Handed Pitcher",
       "yr": "So.",
-      "num": "53.0",
+      "num": "53",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1840,7 +1840,7 @@
       "ln": "Young",
       "pos": "Right-Handed Pitcher",
       "yr": "So.",
-      "num": "54.0",
+      "num": "54",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1888,7 +1888,7 @@
       "ln": "Lawley",
       "pos": "Right-Handed Pitcher",
       "yr": "Fr.",
-      "num": "55.0",
+      "num": "55",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {
@@ -1936,7 +1936,7 @@
       "ln": "Ruggiero",
       "pos": "Left-Handed Pitcher",
       "yr": "Fr.",
-      "num": "56.0",
+      "num": "56",
       "school": "University of Richmond",
       "season_batting": null,
       "season_pitching": {

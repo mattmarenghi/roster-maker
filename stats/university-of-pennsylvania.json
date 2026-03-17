@@ -1,15 +1,15 @@
 {
   "school": "University of Pennsylvania",
-  "base_url": "https://pennathletics.com",
+  "base_url": "https://www.pennathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-16T18:49:29.410075Z",
+  "generated_at": "2026-03-17T02:41:40.338645Z",
   "record": "3-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "East Carolina",
     "result": "W 8-7",
-    "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
-    "recap_url": "https://pennathletics.com/news/2026/3/15/pirates-walk-off-baseball-in-extra-innings-8-7.aspx",
+    "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+    "recap_url": "https://www.pennathletics.com/news/2026/3/15/pirates-walk-off-baseball-in-extra-innings-8-7.aspx",
     "recap_headline": "University of Pennsylvania Athletics",
     "recap_text": ""
   },
@@ -21,7 +21,7 @@
       "ln": "O'Brien",
       "pos": "INF",
       "yr": "",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 9,
@@ -58,7 +58,7 @@
       "ln": "Taylor",
       "pos": "OF",
       "yr": "",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 12,
@@ -95,7 +95,7 @@
       "ln": "Pokrovsky",
       "pos": "LHP",
       "yr": "",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 13,
@@ -144,7 +144,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -165,7 +165,7 @@
       "ln": "Pokrovsky",
       "pos": "UTIL",
       "yr": "",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 13,
@@ -214,7 +214,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -235,7 +235,7 @@
       "ln": "Ahearn",
       "pos": "C",
       "yr": "",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 9,
@@ -266,7 +266,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -287,7 +287,7 @@
       "ln": "Shurtleff",
       "pos": "RHP",
       "yr": "",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -313,7 +313,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -343,7 +343,7 @@
       "ln": "Fridgen",
       "pos": "RHP",
       "yr": "",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -375,7 +375,7 @@
       "ln": "Powell",
       "pos": "INF",
       "yr": "",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 11,
@@ -406,7 +406,7 @@
         "date": "2026-03-13",
         "opponent": "East Carolina",
         "result": "W 17-3",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -427,7 +427,7 @@
       "ln": "Echevarria",
       "pos": "C",
       "yr": "",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 9,
@@ -458,7 +458,7 @@
         "date": "2026-03-13",
         "opponent": "East Carolina",
         "result": "W 17-3",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -479,7 +479,7 @@
       "ln": "Collins",
       "pos": "OF",
       "yr": "",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 11,
@@ -510,7 +510,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -531,7 +531,7 @@
       "ln": "Pazak",
       "pos": "C",
       "yr": "",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 1,
@@ -568,7 +568,7 @@
       "ln": "Baker",
       "pos": "INF",
       "yr": "",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 7,
@@ -605,7 +605,7 @@
       "ln": "Guachione",
       "pos": "INF",
       "yr": "",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 2,
@@ -636,7 +636,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -657,7 +657,7 @@
       "ln": "von Zuben",
       "pos": "LHP",
       "yr": "",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -683,7 +683,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -713,7 +713,7 @@
       "ln": "Katz",
       "pos": "RHP",
       "yr": "",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -745,7 +745,7 @@
       "ln": "Coyne",
       "pos": "LHP",
       "yr": "",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -771,7 +771,7 @@
         "date": "2026-03-14",
         "opponent": "East Carolina",
         "result": "L 0-1",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29994&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -801,7 +801,7 @@
       "ln": "Secretarski",
       "pos": "INF",
       "yr": "",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 13,
@@ -832,7 +832,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -853,7 +853,7 @@
       "ln": "Egbert",
       "pos": "RHP",
       "yr": "",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -885,7 +885,7 @@
       "ln": "McCabe",
       "pos": "OF",
       "yr": "",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 9,
@@ -916,7 +916,7 @@
         "date": "2026-03-14",
         "opponent": "East Carolina",
         "result": "L 0-1",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29994&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -937,7 +937,7 @@
       "ln": "Degnan",
       "pos": "OF",
       "yr": "",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 13,
@@ -968,7 +968,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -989,7 +989,7 @@
       "ln": "Darling",
       "pos": "RHP",
       "yr": "",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -1015,7 +1015,7 @@
         "date": "2026-03-14",
         "opponent": "East Carolina",
         "result": "L 0-1",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29994&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1045,7 +1045,7 @@
       "ln": "Moss",
       "pos": "RHP",
       "yr": "",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -1071,7 +1071,7 @@
         "date": "2026-03-13",
         "opponent": "East Carolina",
         "result": "W 17-3",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1101,7 +1101,7 @@
       "ln": "Miehe",
       "pos": "RHP",
       "yr": "",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -1133,7 +1133,7 @@
       "ln": "Cerwinski",
       "pos": "RHP",
       "yr": "",
-      "num": "37.0",
+      "num": "37",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -1165,7 +1165,7 @@
       "ln": "Warner",
       "pos": "INF",
       "yr": "",
-      "num": "42.0",
+      "num": "42",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 8,
@@ -1196,7 +1196,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -1217,7 +1217,7 @@
       "ln": "Newburn",
       "pos": "RHP",
       "yr": "",
-      "num": "43.0",
+      "num": "43",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -1243,7 +1243,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29995&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1273,7 +1273,7 @@
       "ln": "Spaventa",
       "pos": "INF",
       "yr": "",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Pennsylvania",
       "season_batting": {
         "g": 13,
@@ -1310,7 +1310,7 @@
       "ln": "Moulin",
       "pos": "LHP",
       "yr": "",
-      "num": "45.0",
+      "num": "45",
       "school": "University of Pennsylvania",
       "season_batting": null,
       "season_pitching": {
@@ -1336,7 +1336,7 @@
         "date": "2026-03-13",
         "opponent": "East Carolina",
         "result": "W 17-3",
-        "boxscore_url": "https://pennathletics.com/boxscore.aspx?id=29993&path=baseball",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29993&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

@@ -1,15 +1,15 @@
 {
   "school": "Lipscomb University",
-  "base_url": "https://lipscombsports.com",
+  "base_url": "https://www.lipscombsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T18:47:00.511261Z",
+  "generated_at": "2026-03-17T02:17:24.723171Z",
   "record": "8-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "North Alabama",
     "result": "L 7-13",
-    "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
-    "recap_url": "https://lipscombsports.com/news/2026/3/15/baseball-falls-in-series-finale-to-una.aspx",
+    "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+    "recap_url": "https://www.lipscombsports.com/news/2026/3/15/baseball-falls-in-series-finale-to-una.aspx",
     "recap_headline": "Lipscomb University",
     "recap_text": ""
   },
@@ -21,7 +21,7 @@
       "ln": "Harper",
       "pos": "UTL",
       "yr": "R-So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 14,
@@ -52,7 +52,7 @@
         "date": "2026-03-14",
         "opponent": "North Alabama",
         "result": "W 7-5",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -73,7 +73,7 @@
       "ln": "Carter",
       "pos": "1B/OF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 16,
@@ -104,7 +104,7 @@
         "date": "2026-03-14",
         "opponent": "North Alabama",
         "result": "W 7-5",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -125,7 +125,7 @@
       "ln": "Martin Jr.",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -157,7 +157,7 @@
       "ln": "Thomas",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 15,
@@ -188,7 +188,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -209,7 +209,7 @@
       "ln": "Pruitt",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 18,
@@ -240,7 +240,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -261,7 +261,7 @@
       "ln": "Miller",
       "pos": "INF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 18,
@@ -298,7 +298,7 @@
       "ln": "Jamison",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "9.0",
+      "num": "9",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -324,7 +324,7 @@
         "date": "2026-03-14",
         "opponent": "North Alabama",
         "result": "W 7-5",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -354,7 +354,7 @@
       "ln": "Trautner",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -380,7 +380,7 @@
         "date": "2026-03-14",
         "opponent": "North Alabama",
         "result": "W 7-5",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -410,7 +410,7 @@
       "ln": "LeMaster",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -436,7 +436,7 @@
         "date": "2026-03-14",
         "opponent": "North Alabama",
         "result": "W 7-5",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -466,7 +466,7 @@
       "ln": "Holm",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 18,
@@ -497,7 +497,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -518,7 +518,7 @@
       "ln": "Llinas",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -544,7 +544,7 @@
         "date": "2026-03-13",
         "opponent": "North Alabama",
         "result": "W 6-3",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -574,7 +574,7 @@
       "ln": "Mahan",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 18,
@@ -605,7 +605,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -626,7 +626,7 @@
       "ln": "Lee",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -652,7 +652,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -682,7 +682,7 @@
       "ln": "Pippenger",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 10,
@@ -713,7 +713,7 @@
         "date": "2026-03-14",
         "opponent": "North Alabama",
         "result": "W 7-5",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -734,7 +734,7 @@
       "ln": "Miles",
       "pos": "UTL",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 18,
@@ -765,7 +765,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -786,7 +786,7 @@
       "ln": "Ramirez",
       "pos": "1B/OF",
       "yr": "R-Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 10,
@@ -817,7 +817,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -838,7 +838,7 @@
       "ln": "Kenealy Jr",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 17,
@@ -875,7 +875,7 @@
       "ln": "Stelogeannis",
       "pos": "UTL",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 17,
@@ -912,7 +912,7 @@
       "ln": "Ludeiro",
       "pos": "C",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 13,
@@ -949,7 +949,7 @@
       "ln": "Tobias",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 7,
@@ -986,7 +986,7 @@
       "ln": "Underwood",
       "pos": "RHP/INF",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1012,7 +1012,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1042,7 +1042,7 @@
       "ln": "Scharff",
       "pos": "C",
       "yr": "R-So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 10,
@@ -1073,7 +1073,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1094,7 +1094,7 @@
       "ln": "Switalski",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1126,7 +1126,7 @@
       "ln": "Bosley-Smith",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1152,7 +1152,7 @@
         "date": "2026-03-13",
         "opponent": "North Alabama",
         "result": "W 6-3",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1182,7 +1182,7 @@
       "ln": "Mabrey",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1208,7 +1208,7 @@
         "date": "2026-03-13",
         "opponent": "North Alabama",
         "result": "W 6-3",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1238,7 +1238,7 @@
       "ln": "Kutz",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1264,7 +1264,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1294,7 +1294,7 @@
       "ln": "O'Brien",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1326,7 +1326,7 @@
       "ln": "Puckett",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1352,7 +1352,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1382,7 +1382,7 @@
       "ln": "Siniard",
       "pos": "C",
       "yr": "Gr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 2,
@@ -1419,7 +1419,7 @@
       "ln": "Pica",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1451,7 +1451,7 @@
       "ln": "Beddingfield",
       "pos": "C/3B",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Lipscomb University",
       "season_batting": {
         "g": 7,
@@ -1482,7 +1482,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1503,7 +1503,7 @@
       "ln": "Kantola",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "49.0",
+      "num": "49",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1529,7 +1529,7 @@
         "date": "2026-03-13",
         "opponent": "North Alabama",
         "result": "W 6-3",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13298&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1559,7 +1559,7 @@
       "ln": "Lyne",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "50.0",
+      "num": "50",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1585,7 +1585,7 @@
         "date": "2026-03-15",
         "opponent": "North Alabama",
         "result": "L 7-13",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1615,7 +1615,7 @@
       "ln": "Kiefer",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "55.0",
+      "num": "55",
       "school": "Lipscomb University",
       "season_batting": null,
       "season_pitching": {
@@ -1641,7 +1641,7 @@
         "date": "2026-03-14",
         "opponent": "North Alabama",
         "result": "W 7-5",
-        "boxscore_url": "https://lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

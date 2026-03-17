@@ -2,7 +2,7 @@
   "school": "Xavier University",
   "base_url": "https://www.goxavier.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:56:19.281846Z",
+  "generated_at": "2026-03-17T02:48:59.218994Z",
   "record": "6-15",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Crisp",
       "pos": "OF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Xavier University",
       "season_batting": {
         "g": 20,
@@ -76,7 +76,7 @@
       "ln": "Hammond",
       "pos": "IF",
       "yr": "Gr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Xavier University",
       "season_batting": {
         "g": 21,
@@ -131,7 +131,7 @@
       "ln": "Johnson",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Xavier University",
       "season_batting": {
         "g": 21,
@@ -186,7 +186,7 @@
       "ln": "Burdette",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Xavier University",
       "season_batting": {
         "g": 14,
@@ -241,7 +241,7 @@
       "ln": "Mensik",
       "pos": "IF",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Xavier University",
       "season_batting": {
         "g": 19,
@@ -296,7 +296,7 @@
       "ln": "Thomas",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Xavier University",
       "season_batting": {
         "g": 17,
@@ -351,7 +351,7 @@
       "ln": "Canterberry",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Xavier University",
       "season_batting": {
         "g": 16,
@@ -406,7 +406,7 @@
       "ln": "Townsend",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Xavier University",
       "season_batting": {
         "g": 18,
@@ -461,7 +461,7 @@
       "ln": "Stevens",
       "pos": "RHP",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -509,7 +509,7 @@
       "ln": "Jelic",
       "pos": "C",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Xavier University",
       "season_batting": {
         "g": 9,
@@ -564,7 +564,7 @@
       "ln": "Bridenthal",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -612,7 +612,7 @@
       "ln": "Junghans",
       "pos": "IF",
       "yr": "R-Fr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Xavier University",
       "season_batting": {
         "g": 2,
@@ -667,7 +667,7 @@
       "ln": "Peters",
       "pos": "IF",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Xavier University",
       "season_batting": {
         "g": 17,
@@ -722,7 +722,7 @@
       "ln": "Arend",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Xavier University",
       "season_batting": {
         "g": 3,
@@ -804,7 +804,7 @@
       "ln": "Fitz",
       "pos": "C",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Xavier University",
       "season_batting": {
         "g": 17,
@@ -859,7 +859,7 @@
       "ln": "Helsel",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -907,7 +907,7 @@
       "ln": "Piech",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -955,7 +955,7 @@
       "ln": "Hooker",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1003,7 +1003,7 @@
       "ln": "Murphy",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1051,7 +1051,7 @@
       "ln": "Vasiliou",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1099,7 +1099,7 @@
       "ln": "Poole",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1147,7 +1147,7 @@
       "ln": "Hoeft",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1195,7 +1195,7 @@
       "ln": "Morton",
       "pos": "C",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Xavier University",
       "season_batting": {
         "g": 10,
@@ -1250,7 +1250,7 @@
       "ln": "Chronister",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1298,7 +1298,7 @@
       "ln": "Young",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1346,7 +1346,7 @@
       "ln": "Geddes",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1394,7 +1394,7 @@
       "ln": "DeLeo",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1442,7 +1442,7 @@
       "ln": "Wylie",
       "pos": "RHP",
       "yr": "So.",
-      "num": "35.0",
+      "num": "35",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1490,7 +1490,7 @@
       "ln": "Stonehouse",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Xavier University",
       "season_batting": {
         "g": 21,
@@ -1545,7 +1545,7 @@
       "ln": "Niedermaier",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1577,7 +1577,7 @@
       "ln": "Nobe",
       "pos": "RHP",
       "yr": "So.",
-      "num": "38.0",
+      "num": "38",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1625,7 +1625,7 @@
       "ln": "Muck",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1673,7 +1673,7 @@
       "ln": "Christenson",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Xavier University",
       "season_batting": {
         "g": 8,
@@ -1728,7 +1728,7 @@
       "ln": "Valdes",
       "pos": "OF",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "Xavier University",
       "season_batting": {
         "g": 7,
@@ -1783,7 +1783,7 @@
       "ln": "Boyle",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {
@@ -1831,7 +1831,7 @@
       "ln": "DeTienne",
       "pos": "RHP",
       "yr": "So.",
-      "num": "54.0",
+      "num": "54",
       "school": "Xavier University",
       "season_batting": null,
       "season_pitching": {

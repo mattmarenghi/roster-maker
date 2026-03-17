@@ -2,7 +2,7 @@
   "school": "University of North Carolina, Chapel Hill",
   "base_url": "https://www.goheels.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:31:13.459211Z",
+  "generated_at": "2026-03-17T02:40:42.737723Z",
   "record": "16-22",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Nicholson",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 21,
@@ -76,7 +76,7 @@
       "ln": "Schaffner",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 20,
@@ -131,7 +131,7 @@
       "ln": "Sowers",
       "pos": "INF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 7,
@@ -186,7 +186,7 @@
       "ln": "Black",
       "pos": "OF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 7,
@@ -241,7 +241,7 @@
       "ln": "Gallaher",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 21,
@@ -296,7 +296,7 @@
       "ln": "Winslow",
       "pos": "C",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 21,
@@ -351,7 +351,7 @@
       "ln": "Hargett",
       "pos": "OF",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 5,
@@ -406,7 +406,7 @@
       "ln": "Hull",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 21,
@@ -461,7 +461,7 @@
       "ln": "Chmielewski",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -509,7 +509,7 @@
       "ln": "Howe",
       "pos": "OF/1B",
       "yr": "Fr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 19,
@@ -564,7 +564,7 @@
       "ln": "Maginnis",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 11,
@@ -619,7 +619,7 @@
       "ln": "Padgett",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -667,7 +667,7 @@
       "ln": "Holiday",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -715,7 +715,7 @@
       "ln": "French",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 17,
@@ -770,7 +770,7 @@
       "ln": "Seagraves",
       "pos": "RHP",
       "yr": "So.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -818,7 +818,7 @@
       "ln": "Terry",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 4,
@@ -873,7 +873,7 @@
       "ln": "Hynek",
       "pos": "C",
       "yr": "Gr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 21,
@@ -928,7 +928,7 @@
       "ln": "Matthijs",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -976,7 +976,7 @@
       "ln": "Kellis V",
       "pos": "OF/C",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 9,
@@ -1031,7 +1031,7 @@
       "ln": "Percival",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1079,7 +1079,7 @@
       "ln": "Glauber",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1127,7 +1127,7 @@
       "ln": "Nunez",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 5,
@@ -1182,7 +1182,7 @@
       "ln": "DeCaro",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1230,7 +1230,7 @@
       "ln": "Rose",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1278,7 +1278,7 @@
       "ln": "Boaz",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1326,7 +1326,7 @@
       "ln": "Cackovic",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1374,7 +1374,7 @@
       "ln": "McDuffie",
       "pos": "RHP",
       "yr": "So.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1422,7 +1422,7 @@
       "ln": "Flannery",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "42.0",
+      "num": "42",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1470,7 +1470,7 @@
       "ln": "Leatherman",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {
@@ -1518,7 +1518,7 @@
       "ln": "Paulsen",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": {
         "g": 21,
@@ -1573,7 +1573,7 @@
       "ln": "Lynch",
       "pos": "RHP",
       "yr": "So.",
-      "num": "53.0",
+      "num": "53",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,
       "season_pitching": {

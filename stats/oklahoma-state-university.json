@@ -2,7 +2,7 @@
   "school": "Oklahoma State University",
   "base_url": "https://www.okstate.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:40:57.368462Z",
+  "generated_at": "2026-03-17T02:23:29.059250Z",
   "record": "23-29",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Thompson",
       "pos": "INF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Meola",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 16,
@@ -131,7 +131,7 @@
       "ln": "Bowen",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 17,
@@ -186,7 +186,7 @@
       "ln": "Smithwick",
       "pos": "C",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 16,
@@ -241,7 +241,7 @@
       "ln": "Shull",
       "pos": "INF/OF",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 12,
@@ -296,7 +296,7 @@
       "ln": "Indomenico",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 9,
@@ -351,7 +351,7 @@
       "ln": "Ortiz",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 2,
@@ -406,7 +406,7 @@
       "ln": "Wentworth",
       "pos": "OF/LHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 17,
@@ -488,7 +488,7 @@
       "ln": "Wallace",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 10,
@@ -543,7 +543,7 @@
       "ln": "LeBlanc",
       "pos": "LHP",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -591,7 +591,7 @@
       "ln": "Brueggemann",
       "pos": "1B",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 19,
@@ -646,7 +646,7 @@
       "ln": "Ritchie",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 18,
@@ -701,7 +701,7 @@
       "ln": "Conover",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 18,
@@ -756,7 +756,7 @@
       "ln": "Norman",
       "pos": "INF/OF",
       "yr": "Fr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 13,
@@ -811,7 +811,7 @@
       "ln": "Lund",
       "pos": "LHP",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -859,7 +859,7 @@
       "ln": "Essex",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 11,
@@ -914,7 +914,7 @@
       "ln": "Fyke",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -962,7 +962,7 @@
       "ln": "Rhodes",
       "pos": "RHP",
       "yr": "So.",
-      "num": "19.0",
+      "num": "19",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1010,7 +1010,7 @@
       "ln": "Saunders",
       "pos": "1B/OF",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 8,
@@ -1065,7 +1065,7 @@
       "ln": "Schambow",
       "pos": "C",
       "yr": "Fr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 5,
@@ -1120,7 +1120,7 @@
       "ln": "Kennedy",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1152,7 +1152,7 @@
       "ln": "Wech",
       "pos": "RHP",
       "yr": "So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1200,7 +1200,7 @@
       "ln": "Phillips",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1248,7 +1248,7 @@
       "ln": "Francisco",
       "pos": "C",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 7,
@@ -1303,7 +1303,7 @@
       "ln": "Blake",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1351,7 +1351,7 @@
       "ln": "Golden",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1399,7 +1399,7 @@
       "ln": "Kennedy",
       "pos": "RHP",
       "yr": "So.",
-      "num": "35.0",
+      "num": "35",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1447,7 +1447,7 @@
       "ln": "Barrett",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1495,7 +1495,7 @@
       "ln": "Zagar",
       "pos": "LHP",
       "yr": "So.",
-      "num": "37.0",
+      "num": "37",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1543,7 +1543,7 @@
       "ln": "Jennings",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1591,7 +1591,7 @@
       "ln": "Burns",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1639,7 +1639,7 @@
       "ln": "Pomeroy",
       "pos": "C/INF",
       "yr": "Fr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Oklahoma State University",
       "season_batting": {
         "g": 7,
@@ -1694,7 +1694,7 @@
       "ln": "Winslow",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "48.0",
+      "num": "48",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1742,7 +1742,7 @@
       "ln": "Pearcy",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "53.0",
+      "num": "53",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {
@@ -1790,7 +1790,7 @@
       "ln": "Pesca",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "66.0",
+      "num": "66",
       "school": "Oklahoma State University",
       "season_batting": null,
       "season_pitching": {

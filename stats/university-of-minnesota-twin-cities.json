@@ -2,7 +2,7 @@
   "school": "University of Minnesota, Twin Cities",
   "base_url": "https://www.gophersports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:26:39.585105Z",
+  "generated_at": "2026-03-17T02:38:29.618677Z",
   "record": "46-55",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -21,7 +21,7 @@
       "ln": "O'Donnell",
       "pos": "INF/RHP",
       "yr": "Fr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Richter",
       "pos": "OF/RHP",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 19,
@@ -124,7 +124,7 @@
       "ln": "Mosh",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 11,
@@ -179,7 +179,7 @@
       "ln": "Spanier",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 18,
@@ -234,7 +234,7 @@
       "ln": "Martin",
       "pos": "INF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 16,
@@ -289,7 +289,7 @@
       "ln": "Hamilton",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 20,
@@ -344,7 +344,7 @@
       "ln": "Hunt",
       "pos": "C",
       "yr": "R-Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 9,
@@ -399,7 +399,7 @@
       "ln": "Cole",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 2,
@@ -454,7 +454,7 @@
       "ln": "Selvig",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Kruzan",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -550,7 +550,7 @@
       "ln": "Allen",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 20,
@@ -605,7 +605,7 @@
       "ln": "Ryerse",
       "pos": "RHP",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -653,7 +653,7 @@
       "ln": "Lippe",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 19,
@@ -708,7 +708,7 @@
       "ln": "Akin",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 1,
@@ -763,7 +763,7 @@
       "ln": "Morton",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -811,7 +811,7 @@
       "ln": "Dobis",
       "pos": "RHP/OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -859,7 +859,7 @@
       "ln": "Neels",
       "pos": "C/INF",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 20,
@@ -914,7 +914,7 @@
       "ln": "Capomaccio",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -962,7 +962,7 @@
       "ln": "Hellum",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 8,
@@ -1017,7 +1017,7 @@
       "ln": "Bello",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 17,
@@ -1072,7 +1072,7 @@
       "ln": "Sperry",
       "pos": "RHP/DH",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1120,7 +1120,7 @@
       "ln": "Kokenge",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1168,7 +1168,7 @@
       "ln": "Urban",
       "pos": "RHP",
       "yr": "So.",
-      "num": "38.0",
+      "num": "38",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1216,7 +1216,7 @@
       "ln": "Felling",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1264,7 +1264,7 @@
       "ln": "Hemmesch",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1312,7 +1312,7 @@
       "ln": "Sutherland",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
         "g": 20,
@@ -1367,7 +1367,7 @@
       "ln": "Kirchhoff",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1415,7 +1415,7 @@
       "ln": "Gregory",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1463,7 +1463,7 @@
       "ln": "Winkelman",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "46.0",
+      "num": "46",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {
@@ -1511,7 +1511,7 @@
       "ln": "Jaenke",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "47.0",
+      "num": "47",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": null,
       "season_pitching": {

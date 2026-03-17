@@ -2,7 +2,7 @@
   "school": "Michigan State University",
   "base_url": "https://msuspartans.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:30:58.565222Z",
+  "generated_at": "2026-03-17T02:19:55.344457Z",
   "record": "15-27",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "McKay",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Michigan State University",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Van Ameyde",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Michigan State University",
       "season_batting": {
         "g": 9,
@@ -131,7 +131,7 @@
       "ln": "Murphy",
       "pos": "INF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "Michigan State University",
       "season_batting": {
         "g": 13,
@@ -186,7 +186,7 @@
       "ln": "Rice",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Michigan State University",
       "season_batting": {
         "g": 11,
@@ -241,7 +241,7 @@
       "ln": "Monke",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -289,7 +289,7 @@
       "ln": "Sturgess",
       "pos": "OF/LHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Michigan State University",
       "season_batting": {
         "g": 17,
@@ -344,7 +344,7 @@
       "ln": "Williams",
       "pos": "OF",
       "yr": "R-Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Michigan State University",
       "season_batting": {
         "g": 17,
@@ -399,7 +399,7 @@
       "ln": "Picot",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Michigan State University",
       "season_batting": {
         "g": 13,
@@ -454,7 +454,7 @@
       "ln": "Deckinga",
       "pos": "INF/OF",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Michigan State University",
       "season_batting": {
         "g": 14,
@@ -509,7 +509,7 @@
       "ln": "Szczepanski",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -557,7 +557,7 @@
       "ln": "Grundman",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -605,7 +605,7 @@
       "ln": "Chambers",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -653,7 +653,7 @@
       "ln": "Bright",
       "pos": "C",
       "yr": "Gr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Michigan State University",
       "season_batting": {
         "g": 13,
@@ -708,7 +708,7 @@
       "ln": "Broski",
       "pos": "C",
       "yr": "R-So.",
-      "num": "19.0",
+      "num": "19",
       "school": "Michigan State University",
       "season_batting": {
         "g": 15,
@@ -763,7 +763,7 @@
       "ln": "Klug",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -811,7 +811,7 @@
       "ln": "Thomas",
       "pos": "OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Michigan State University",
       "season_batting": {
         "g": 14,
@@ -866,7 +866,7 @@
       "ln": "Greeley",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -914,7 +914,7 @@
       "ln": "Elezaj",
       "pos": "C",
       "yr": "Fr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Michigan State University",
       "season_batting": {
         "g": 1,
@@ -969,7 +969,7 @@
       "ln": "Everson",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1017,7 +1017,7 @@
       "ln": "Donovan",
       "pos": "RHP",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1065,7 +1065,7 @@
       "ln": "Oliver",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Michigan State University",
       "season_batting": {
         "g": 11,
@@ -1120,7 +1120,7 @@
       "ln": "Kochany",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1168,7 +1168,7 @@
       "ln": "Pikur",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1216,7 +1216,7 @@
       "ln": "Seymour",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Michigan State University",
       "season_batting": {
         "g": 18,
@@ -1271,7 +1271,7 @@
       "ln": "Rudolph",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Higgins",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1367,7 +1367,7 @@
       "ln": "Siler",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1415,7 +1415,7 @@
       "ln": "Crane",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Michigan State University",
       "season_batting": null,
       "season_pitching": {
@@ -1463,7 +1463,7 @@
       "ln": "Domey",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Michigan State University",
       "season_batting": {
         "g": 3,

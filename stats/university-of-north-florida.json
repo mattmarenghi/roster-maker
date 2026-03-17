@@ -2,7 +2,7 @@
   "school": "University of North Florida",
   "base_url": "https://www.unfospreys.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:32:19.994775Z",
+  "generated_at": "2026-03-17T02:41:20.762652Z",
   "record": "34-37",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Acosta",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of North Florida",
       "season_batting": {
         "g": 12,
@@ -76,7 +76,7 @@
       "ln": "Collins",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of North Florida",
       "season_batting": {
         "g": 13,
@@ -131,7 +131,7 @@
       "ln": "White",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of North Florida",
       "season_batting": {
         "g": 18,
@@ -186,7 +186,7 @@
       "ln": "Benjamin",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of North Florida",
       "season_batting": {
         "g": 20,
@@ -241,7 +241,7 @@
       "ln": "Alford",
       "pos": "UTL",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of North Florida",
       "season_batting": {
         "g": 20,
@@ -296,27 +296,27 @@
       "ln": "Hosey",
       "pos": "UTL",
       "yr": "R-Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of North Florida",
       "season_batting": {
-        "g": 19,
-        "gs": 17,
-        "avg": 0.288,
-        "ops": 0.915,
-        "ab": 59,
+        "g": 20,
+        "gs": 18,
+        "avg": 0.29,
+        "ops": 0.904,
+        "ab": 62,
         "r": 18,
-        "h": 17,
+        "h": 18,
         "doubles": 3,
         "triples": 1,
         "hr": 2,
         "rbi": 11,
-        "tb": 28,
-        "slg": 0.475,
+        "tb": 29,
+        "slg": 0.468,
         "bb": 15,
         "hbp": 1,
-        "so": 20,
+        "so": 21,
         "gdp": 0,
-        "obp": 0.44,
+        "obp": 0.436,
         "sf": 0,
         "sh": 0,
         "sb": 3,
@@ -351,7 +351,7 @@
       "ln": "Howell",
       "pos": "UTL",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of North Florida",
       "season_batting": {
         "g": 4,
@@ -406,7 +406,7 @@
       "ln": "Farner",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of North Florida",
       "season_batting": {
         "g": 21,
@@ -461,7 +461,7 @@
       "ln": "Romeo",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of North Florida",
       "season_batting": {
         "g": 6,
@@ -516,7 +516,7 @@
       "ln": "Gomez",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of North Florida",
       "season_batting": {
         "g": 16,
@@ -571,7 +571,7 @@
       "ln": "Ordonez",
       "pos": "C",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of North Florida",
       "season_batting": {
         "g": 15,
@@ -626,7 +626,7 @@
       "ln": "Gerteisen",
       "pos": "OF",
       "yr": "R-Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of North Florida",
       "season_batting": {
         "g": 8,
@@ -681,7 +681,7 @@
       "ln": "Toberman",
       "pos": "UTL",
       "yr": "R-Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of North Florida",
       "season_batting": {
         "g": 21,
@@ -736,7 +736,7 @@
       "ln": "Buchanan",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of North Florida",
       "season_batting": {
         "g": 15,
@@ -791,7 +791,7 @@
       "ln": "Rurey",
       "pos": "C",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of North Florida",
       "season_batting": {
         "g": 5,
@@ -846,7 +846,7 @@
       "ln": "Diggs",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -894,7 +894,7 @@
       "ln": "Nikolis",
       "pos": "RHP",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -942,7 +942,7 @@
       "ln": "Etwaru",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -990,7 +990,7 @@
       "ln": "Schrafft",
       "pos": "UTL",
       "yr": "R-Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of North Florida",
       "season_batting": {
         "g": 13,
@@ -1045,7 +1045,7 @@
       "ln": "Ross",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1093,7 +1093,7 @@
       "ln": "Wagner",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1141,7 +1141,7 @@
       "ln": "Hendry",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1189,7 +1189,7 @@
       "ln": "Starling",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1237,7 +1237,7 @@
       "ln": "Witherington",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of North Florida",
       "season_batting": {
         "g": 3,
@@ -1292,7 +1292,7 @@
       "ln": "Stone",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1340,7 +1340,7 @@
       "ln": "Dimino",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1388,7 +1388,7 @@
       "ln": "Furey",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1436,7 +1436,7 @@
       "ln": "Adams",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1484,7 +1484,7 @@
       "ln": "Velardo",
       "pos": "UTL",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of North Florida",
       "season_batting": {
         "g": 4,
@@ -1539,7 +1539,7 @@
       "ln": "Kozera",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1587,7 +1587,7 @@
       "ln": "Groom",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1635,7 +1635,7 @@
       "ln": "Stewart",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1683,7 +1683,7 @@
       "ln": "Fouraker",
       "pos": "C",
       "yr": "Sr.",
-      "num": "42.0",
+      "num": "42",
       "school": "University of North Florida",
       "season_batting": {
         "g": 3,
@@ -1738,7 +1738,7 @@
       "ln": "Costa",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {
@@ -1786,7 +1786,7 @@
       "ln": "Bellhorn",
       "pos": "RHP",
       "yr": "So.",
-      "num": "46.0",
+      "num": "46",
       "school": "University of North Florida",
       "season_batting": null,
       "season_pitching": {

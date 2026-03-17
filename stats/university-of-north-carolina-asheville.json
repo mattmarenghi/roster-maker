@@ -2,7 +2,7 @@
   "school": "University of North Carolina Asheville",
   "base_url": "https://www.uncabulldogs.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:30:25.968948Z",
+  "generated_at": "2026-03-17T02:40:49.424748Z",
   "record": "28-39",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Torbett",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 9,
@@ -76,7 +76,7 @@
       "ln": "Pereira",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 3,
@@ -131,7 +131,7 @@
       "ln": "Swangim",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 15,
@@ -186,7 +186,7 @@
       "ln": "WIlliams",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 5,
@@ -241,7 +241,7 @@
       "ln": "Gillen",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 18,
@@ -296,7 +296,7 @@
       "ln": "Howell",
       "pos": "RHP",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -344,7 +344,7 @@
       "ln": "Minarik",
       "pos": "OF",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 21,
@@ -399,7 +399,7 @@
       "ln": "Lowe",
       "pos": "INF",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 21,
@@ -454,7 +454,7 @@
       "ln": "Brooks",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "McGinnis",
       "pos": "C",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 18,
@@ -557,7 +557,7 @@
       "ln": "Hemphill",
       "pos": "UTL",
       "yr": "R-Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 5,
@@ -612,7 +612,7 @@
       "ln": "Crum",
       "pos": "RHP",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -660,7 +660,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Green",
       "pos": "INF/RHP",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 21,
@@ -790,7 +790,7 @@
       "ln": "Turner",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -838,7 +838,7 @@
       "ln": "Barna",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -886,7 +886,7 @@
       "ln": "Melton",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -934,7 +934,7 @@
       "ln": "Michelson",
       "pos": "C/OF",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 13,
@@ -989,7 +989,7 @@
       "ln": "Parks",
       "pos": "C/UTL",
       "yr": "R-So.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 6,
@@ -1044,7 +1044,7 @@
       "ln": "Boesen",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -1092,7 +1092,7 @@
       "ln": "Bruno",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -1140,7 +1140,7 @@
       "ln": "Hall",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -1188,7 +1188,7 @@
       "ln": "Nguyen-Brown",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -1236,7 +1236,7 @@
       "ln": "Johnson",
       "pos": "C/UTL",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 21,
@@ -1291,7 +1291,7 @@
       "ln": "Klingemann",
       "pos": "INF",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 18,
@@ -1346,7 +1346,7 @@
       "ln": "Krumpe",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of North Carolina Asheville",
       "season_batting": {
         "g": 8,
@@ -1401,7 +1401,7 @@
       "ln": "Gross",
       "pos": "RHP",
       "yr": "So.",
-      "num": "45.0",
+      "num": "45",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {
@@ -1449,7 +1449,7 @@
       "ln": "Woolard",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "47.0",
+      "num": "47",
       "school": "University of North Carolina Asheville",
       "season_batting": null,
       "season_pitching": {

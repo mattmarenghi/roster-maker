@@ -2,7 +2,7 @@
   "school": "Bucknell University",
   "base_url": "https://bucknellbison.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:53:10.009954Z",
+  "generated_at": "2026-03-17T02:08:19.469837Z",
   "record": "10-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Nawrocki",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Bucknell University",
       "season_batting": {
         "g": 3,
@@ -76,7 +76,7 @@
       "ln": "Swenson",
       "pos": "IF/OF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Bucknell University",
       "season_batting": {
         "g": 17,
@@ -131,7 +131,7 @@
       "ln": "Lagoni",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Bucknell University",
       "season_batting": {
         "g": 17,
@@ -186,7 +186,7 @@
       "ln": "Chiaravallo",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Bucknell University",
       "season_batting": {
         "g": 14,
@@ -241,7 +241,7 @@
       "ln": "Bowne",
       "pos": "C",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Bucknell University",
       "season_batting": {
         "g": 7,
@@ -296,7 +296,7 @@
       "ln": "Coupe",
       "pos": "1B/3B",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Bucknell University",
       "season_batting": {
         "g": 10,
@@ -351,7 +351,7 @@
       "ln": "Nascimento",
       "pos": "C",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Bucknell University",
       "season_batting": {
         "g": 8,
@@ -406,7 +406,7 @@
       "ln": "Green",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Bucknell University",
       "season_batting": {
         "g": 3,
@@ -461,7 +461,7 @@
       "ln": "Myro",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -509,7 +509,7 @@
       "ln": "Morabito",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Bucknell University",
       "season_batting": {
         "g": 10,
@@ -564,7 +564,7 @@
       "ln": "Fluharty",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Bucknell University",
       "season_batting": {
         "g": 17,
@@ -619,7 +619,7 @@
       "ln": "Facinelli",
       "pos": "IF/OF",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Bucknell University",
       "season_batting": {
         "g": 17,
@@ -674,7 +674,7 @@
       "ln": "Beiswenger",
       "pos": "IF",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Bucknell University",
       "season_batting": {
         "g": 2,
@@ -729,7 +729,7 @@
       "ln": "Selfon",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Bucknell University",
       "season_batting": {
         "g": 17,
@@ -784,7 +784,7 @@
       "ln": "Pavone",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -832,7 +832,7 @@
       "ln": "Adelmann",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -880,7 +880,7 @@
       "ln": "Bullock",
       "pos": "C",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Bucknell University",
       "season_batting": {
         "g": 7,
@@ -935,7 +935,7 @@
       "ln": "Murray",
       "pos": "RHP",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -983,7 +983,7 @@
       "ln": "Schultz",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1031,7 +1031,7 @@
       "ln": "Firestein",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1079,7 +1079,7 @@
       "ln": "Seidman",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1127,7 +1127,7 @@
       "ln": "Garber",
       "pos": "RHP",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1175,7 +1175,7 @@
       "ln": "Jones",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "Julks",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1271,7 +1271,7 @@
       "ln": "Hawkins",
       "pos": "RHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Hoar",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1367,7 +1367,7 @@
       "ln": "Trommer",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Bucknell University",
       "season_batting": {
         "g": 17,
@@ -1422,7 +1422,7 @@
       "ln": "DeLaney",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1470,7 +1470,7 @@
       "ln": "Mathias",
       "pos": "1B",
       "yr": "Fr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Bucknell University",
       "season_batting": {
         "g": 15,
@@ -1525,7 +1525,7 @@
       "ln": "Meyers",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1573,7 +1573,7 @@
       "ln": "Calabrese",
       "pos": "OF",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "Bucknell University",
       "season_batting": {
         "g": 14,
@@ -1628,7 +1628,7 @@
       "ln": "Mitchell",
       "pos": "RHP",
       "yr": "So.",
-      "num": "42.0",
+      "num": "42",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {
@@ -1676,7 +1676,7 @@
       "ln": "Maxwell",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Bucknell University",
       "season_batting": null,
       "season_pitching": {

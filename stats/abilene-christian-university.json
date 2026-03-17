@@ -2,7 +2,7 @@
   "school": "Abilene Christian University",
   "base_url": "https://www.acusports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:44:23.487715Z",
+  "generated_at": "2026-03-17T02:04:34.771610Z",
   "record": "10-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Thompson",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "0.0",
+      "num": "0",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 19,
@@ -73,7 +73,7 @@
       "ln": "Payne",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 20,
@@ -125,7 +125,7 @@
       "ln": "McGarrh",
       "pos": "INF/RHP",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -181,7 +181,7 @@
       "ln": "Greanead",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -237,7 +237,7 @@
       "ln": "Arias",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 16,
@@ -289,7 +289,7 @@
       "ln": "Wallace",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -345,7 +345,7 @@
       "ln": "Coe",
       "pos": "INF / RHP",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 4,
@@ -400,7 +400,7 @@
       "ln": "Watkins",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 20,
@@ -452,7 +452,7 @@
       "ln": "Gray",
       "pos": "C",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 15,
@@ -504,7 +504,7 @@
       "ln": "Palmer",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -536,7 +536,7 @@
       "ln": "Hardcastle",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 16,
@@ -588,7 +588,7 @@
       "ln": "Cardenas",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 20,
@@ -640,7 +640,7 @@
       "ln": "Mannis",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -696,7 +696,7 @@
       "ln": "Schnabel",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 4,
@@ -733,27 +733,27 @@
       "ln": "Galvan",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
         "era": 1.08,
-        "whip": 1.2,
+        "whip": 1.32,
         "w": 0,
         "l": 0,
         "sv": 0,
         "g": 6,
         "gs": 0,
         "ip": 8.1,
-        "h": 4,
+        "h": 5,
         "r": 1,
         "er": 1,
         "bb": 6,
-        "so": 7,
+        "so": 8,
         "hr": 0,
         "hbp": 3,
         "wp": 3,
-        "opp_avg": ".174"
+        "opp_avg": ".217"
       },
       "last_game": {
         "date": "2026-03-14",
@@ -789,7 +789,7 @@
       "ln": "Jones",
       "pos": "INF/OF",
       "yr": "R-Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 20,
@@ -841,7 +841,7 @@
       "ln": "Brzozowski",
       "pos": "OF/LHP",
       "yr": "Gr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 8,
@@ -893,19 +893,19 @@
       "ln": "Gonzalez",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
         "era": 8.1,
-        "whip": 2.1,
+        "whip": 2.25,
         "w": 1,
         "l": 1,
         "sv": 0,
         "g": 4,
         "gs": 0,
         "ip": 6.2,
-        "h": 11,
+        "h": 12,
         "r": 8,
         "er": 6,
         "bb": 3,
@@ -913,7 +913,7 @@
         "hr": 1,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".344"
+        "opp_avg": ".387"
       },
       "last_game": {
         "date": "2026-03-15",
@@ -949,7 +949,7 @@
       "ln": "Ladusau",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 16,
@@ -1001,7 +1001,7 @@
       "ln": "Batten",
       "pos": "LHP",
       "yr": "R-Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1033,7 +1033,7 @@
       "ln": "Jeon",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1089,7 +1089,7 @@
       "ln": "Coleman",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1145,7 +1145,7 @@
       "ln": "Swaim",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1177,7 +1177,7 @@
       "ln": "Regala",
       "pos": "OF",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 14,
@@ -1214,7 +1214,7 @@
       "ln": "Borho",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 14,
@@ -1251,7 +1251,7 @@
       "ln": "Young",
       "pos": "RHP",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1307,7 +1307,7 @@
       "ln": "Sundgren",
       "pos": "C",
       "yr": "Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 9,
@@ -1359,7 +1359,7 @@
       "ln": "McKelvey",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1391,7 +1391,7 @@
       "ln": "Patterson",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1423,7 +1423,7 @@
       "ln": "Whiteaker",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1479,7 +1479,7 @@
       "ln": "Lanman",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Abilene Christian University",
       "season_batting": null,
       "season_pitching": {
@@ -1535,7 +1535,7 @@
       "ln": "Miesse",
       "pos": "C",
       "yr": "Sr.",
-      "num": "99.0",
+      "num": "99",
       "school": "Abilene Christian University",
       "season_batting": {
         "g": 12,

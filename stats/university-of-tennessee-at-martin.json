@@ -2,7 +2,7 @@
   "school": "University of Tennessee at Martin",
   "base_url": "https://www.utmsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:42:10.818303Z",
+  "generated_at": "2026-03-17T02:44:18.757335Z",
   "record": "9-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Conley",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 9,
@@ -76,7 +76,7 @@
       "ln": "Anderson",
       "pos": "UTIL",
       "yr": "R-Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 13,
@@ -158,7 +158,7 @@
       "ln": "Grines",
       "pos": "UTIL",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 19,
@@ -213,7 +213,7 @@
       "ln": "Davis",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 19,
@@ -240,26 +240,8 @@
         "sb_att": 17
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-15",
-        "opponent": "The Citadel",
-        "result": "L",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13577",
-        "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "hr": 0,
-          "doubles": 0,
-          "triples": 0,
-          "pos": ""
-        },
-        "pitching": null
-      },
-      "narrative": "Went 0/3 with 0 RBI against The Citadel. Struggled at the plate but saw 1 walk(s)."
+      "last_game": null,
+      "narrative": null
     },
     "59567df0": {
       "id": "59567df0",
@@ -268,7 +250,7 @@
       "ln": "Huebner",
       "pos": "IF",
       "yr": "R-Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 7,
@@ -323,7 +305,7 @@
       "ln": "Greene",
       "pos": "IF",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 16,
@@ -378,7 +360,7 @@
       "ln": "Strickland",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 19,
@@ -433,7 +415,7 @@
       "ln": "Wright",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -481,7 +463,7 @@
       "ln": "DeValk",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -529,7 +511,7 @@
       "ln": "Koch",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 10,
@@ -584,7 +566,7 @@
       "ln": "Turner",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -632,7 +614,7 @@
       "ln": "McCalla",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -680,7 +662,7 @@
       "ln": "Box",
       "pos": "UTIL",
       "yr": "R-So.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 14,
@@ -735,7 +717,7 @@
       "ln": "Jones",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -783,7 +765,7 @@
       "ln": "Sitton",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -831,7 +813,7 @@
       "ln": "King",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -879,7 +861,7 @@
       "ln": "Bayles",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -927,7 +909,7 @@
       "ln": "Dunsford",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 18,
@@ -982,7 +964,7 @@
       "ln": "Popick",
       "pos": "IF",
       "yr": "R-Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 19,
@@ -1037,7 +1019,7 @@
       "ln": "Payton",
       "pos": "C/1B",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Tennessee at Martin",
       "season_batting": {
         "g": 19,
@@ -1092,7 +1074,7 @@
       "ln": "McCaslin",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1140,7 +1122,7 @@
       "ln": "Little",
       "pos": "RHP",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1188,7 +1170,7 @@
       "ln": "Sharp",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1236,7 +1218,7 @@
       "ln": "Nunn",
       "pos": "RHP",
       "yr": "So.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1284,7 +1266,7 @@
       "ln": "Bryant",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1332,7 +1314,7 @@
       "ln": "Busyn",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1380,7 +1362,7 @@
       "ln": "Schumacher",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1428,7 +1410,7 @@
       "ln": "Karns",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {
@@ -1476,7 +1458,7 @@
       "ln": "Wager",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "55.0",
+      "num": "55",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
       "season_pitching": {

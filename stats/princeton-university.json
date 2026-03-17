@@ -2,7 +2,7 @@
   "school": "Princeton University",
   "base_url": "https://www.goprincetontigers.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:43:24.900138Z",
+  "generated_at": "2026-03-17T02:24:09.738862Z",
   "record": "5-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Lamson",
       "pos": "INF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Princeton University",
       "season_batting": {
         "g": 12,
@@ -76,7 +76,7 @@
       "ln": "Beasley",
       "pos": "P",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -124,7 +124,7 @@
       "ln": "Koonin",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Princeton University",
       "season_batting": {
         "g": 16,
@@ -179,7 +179,7 @@
       "ln": "Zorc",
       "pos": "INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Princeton University",
       "season_batting": {
         "g": 3,
@@ -234,7 +234,7 @@
       "ln": "Gayan",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Princeton University",
       "season_batting": {
         "g": 5,
@@ -289,7 +289,7 @@
       "ln": "Kim",
       "pos": "P",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -337,7 +337,7 @@
       "ln": "Googins",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Princeton University",
       "season_batting": {
         "g": 14,
@@ -392,7 +392,7 @@
       "ln": "Wolf",
       "pos": "P",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -440,7 +440,7 @@
       "ln": "Clarke",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Princeton University",
       "season_batting": {
         "g": 3,
@@ -495,7 +495,7 @@
       "ln": "Kaufman",
       "pos": "P/UTL",
       "yr": "Fr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Princeton University",
       "season_batting": {
         "g": 13,
@@ -577,7 +577,7 @@
       "ln": "Zdunek",
       "pos": "C/UTL",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Princeton University",
       "season_batting": {
         "g": 8,
@@ -632,7 +632,7 @@
       "ln": "Sword",
       "pos": "P",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -680,7 +680,7 @@
       "ln": "Crerar",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Princeton University",
       "season_batting": {
         "g": 16,
@@ -735,7 +735,7 @@
       "ln": "Gilman",
       "pos": "P",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -783,7 +783,7 @@
       "ln": "Cernius",
       "pos": "1B/OF",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Princeton University",
       "season_batting": {
         "g": 14,
@@ -838,7 +838,7 @@
       "ln": "Werdesheim",
       "pos": "INF",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "Princeton University",
       "season_batting": {
         "g": 16,
@@ -893,7 +893,7 @@
       "ln": "Baldrate",
       "pos": "P",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -941,7 +941,7 @@
       "ln": "Kinneen",
       "pos": "P",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -989,7 +989,7 @@
       "ln": "Robbins",
       "pos": "C",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Princeton University",
       "season_batting": {
         "g": 12,
@@ -1044,7 +1044,7 @@
       "ln": "Codington",
       "pos": "P",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -1092,7 +1092,7 @@
       "ln": "Hsu",
       "pos": "P",
       "yr": "Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -1140,7 +1140,7 @@
       "ln": "Eaton",
       "pos": "P",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {
@@ -1188,7 +1188,7 @@
       "ln": "Kernodle",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Princeton University",
       "season_batting": {
         "g": 12,
@@ -1243,7 +1243,7 @@
       "ln": "Montembeau",
       "pos": "UTL",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Princeton University",
       "season_batting": {
         "g": 14,
@@ -1325,7 +1325,7 @@
       "ln": "Penney",
       "pos": "P",
       "yr": "Fr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Princeton University",
       "season_batting": null,
       "season_pitching": {

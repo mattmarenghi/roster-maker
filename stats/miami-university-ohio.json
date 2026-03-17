@@ -2,7 +2,7 @@
   "school": "Miami University (Ohio)",
   "base_url": "https://www.miamiredhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:30:23.147186Z",
+  "generated_at": "2026-03-17T02:19:49.030107Z",
   "record": "38-50",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Echols",
       "pos": "RHP",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Cruz",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 15,
@@ -124,7 +124,7 @@
       "ln": "Roa Calcano",
       "pos": "INF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 4,
@@ -179,7 +179,7 @@
       "ln": "Vrlak",
       "pos": "OF",
       "yr": "R-Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 3,
@@ -234,7 +234,7 @@
       "ln": "Burke",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -282,7 +282,7 @@
       "ln": "Kirtley",
       "pos": "INF",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 5,
@@ -337,7 +337,7 @@
       "ln": "Byers",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -385,7 +385,7 @@
       "ln": "Iozzo",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -433,7 +433,7 @@
       "ln": "Phillips",
       "pos": "OF",
       "yr": "So.",
-      "num": "9.0",
+      "num": "9",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 7,
@@ -488,7 +488,7 @@
       "ln": "Krupinski",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 18,
@@ -543,7 +543,7 @@
       "ln": "Dierks",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 18,
@@ -598,7 +598,7 @@
       "ln": "Sohosky",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 7,
@@ -680,7 +680,7 @@
       "ln": "Raether",
       "pos": "C",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 13,
@@ -735,7 +735,7 @@
       "ln": "Proctor",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 6,
@@ -790,7 +790,7 @@
       "ln": "Appelwick",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 18,
@@ -845,7 +845,7 @@
       "ln": "Geiser",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -893,7 +893,7 @@
       "ln": "Koelling",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 1,
@@ -930,7 +930,7 @@
       "ln": "Fulk",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -978,7 +978,7 @@
       "ln": "Gonzalez",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 16,
@@ -1033,7 +1033,7 @@
       "ln": "Preisel",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -1081,7 +1081,7 @@
       "ln": "Tedesco",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -1129,7 +1129,7 @@
       "ln": "Christiansen",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 8,
@@ -1184,7 +1184,7 @@
       "ln": "Harrison",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 17,
@@ -1239,7 +1239,7 @@
       "ln": "Breidenbach",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 8,
@@ -1294,7 +1294,7 @@
       "ln": "Ross",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -1342,7 +1342,7 @@
       "ln": "Buffington",
       "pos": "C",
       "yr": "Gr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 6,
@@ -1397,7 +1397,7 @@
       "ln": "Benko",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -1445,7 +1445,7 @@
       "ln": "Novak",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 18,
@@ -1518,7 +1518,7 @@
       "ln": "Rasmussen",
       "pos": "INF",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 5,
@@ -1573,7 +1573,7 @@
       "ln": "Novak",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Miami University (Ohio)",
       "season_batting": {
         "g": 18,
@@ -1644,7 +1644,7 @@
       "ln": "Berggren",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -1692,7 +1692,7 @@
       "ln": "Eisiminger",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -1740,7 +1740,7 @@
       "ln": "Pfeffer",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {
@@ -1788,7 +1788,7 @@
       "ln": "Gay",
       "pos": "RHP",
       "yr": "So.",
-      "num": "55.0",
+      "num": "55",
       "school": "Miami University (Ohio)",
       "season_batting": null,
       "season_pitching": {

@@ -2,7 +2,7 @@
   "school": "University of Alabama at Birmingham",
   "base_url": "https://www.uabsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:11:24.795297Z",
+  "generated_at": "2026-03-17T02:33:13.460037Z",
   "record": "12-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Hall Jr.",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 15,
@@ -76,7 +76,7 @@
       "ln": "Steele",
       "pos": "OF/RHP",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 11,
@@ -158,7 +158,7 @@
       "ln": "Thompson",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -190,7 +190,7 @@
       "ln": "Merrick",
       "pos": "INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 6,
@@ -245,7 +245,7 @@
       "ln": "Warrick",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 6,
@@ -316,7 +316,7 @@
       "ln": "McGlon",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 3,
@@ -371,7 +371,7 @@
       "ln": "Cheeseman",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 5,
@@ -426,7 +426,7 @@
       "ln": "Helms",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 20,
@@ -481,7 +481,7 @@
       "ln": "Keplinger",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -529,7 +529,7 @@
       "ln": "Paul Head",
       "pos": "OF",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": null,
@@ -561,7 +561,7 @@
       "ln": "Dupuy",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 20,
@@ -643,7 +643,7 @@
       "ln": "Shelton",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -691,7 +691,7 @@
       "ln": "Hyatt",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -739,7 +739,7 @@
       "ln": "Roberts",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 20,
@@ -794,7 +794,7 @@
       "ln": "Hunt",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 19,
@@ -849,7 +849,7 @@
       "ln": "Pierzynski",
       "pos": "C",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 13,
@@ -904,7 +904,7 @@
       "ln": "Hicks",
       "pos": "RHP",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -952,7 +952,7 @@
       "ln": "Samuelson",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -1000,7 +1000,7 @@
       "ln": "Miller",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -1048,7 +1048,7 @@
       "ln": "Waugh",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 20,
@@ -1103,7 +1103,7 @@
       "ln": "Ingram",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -1151,7 +1151,7 @@
       "ln": "Haines",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -1199,7 +1199,7 @@
       "ln": "Price",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 11,
@@ -1254,7 +1254,7 @@
       "ln": "Helmers",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -1302,7 +1302,7 @@
       "ln": "Conner",
       "pos": "RHP",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -1350,7 +1350,7 @@
       "ln": "House",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of Alabama at Birmingham",
       "season_batting": null,
       "season_pitching": {
@@ -1398,7 +1398,7 @@
       "ln": "Beaver",
       "pos": "OF/1B",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Alabama at Birmingham",
       "season_batting": {
         "g": 20,

@@ -2,7 +2,7 @@
   "school": "Texas Tech University",
   "base_url": "https://www.texastech.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:01:06.054783Z",
+  "generated_at": "2026-03-17T02:29:59.792856Z",
   "record": "13-6",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Ryan",
       "pos": "SS",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 11,
@@ -76,7 +76,7 @@
       "ln": "Thompson",
       "pos": "CF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 16,
@@ -131,7 +131,7 @@
       "ln": "Lopez",
       "pos": "SS/2B",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 19,
@@ -186,7 +186,7 @@
       "ln": "Garcia",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 19,
@@ -241,7 +241,7 @@
       "ln": "Orfi",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 7,
@@ -296,7 +296,7 @@
       "ln": "Porter",
       "pos": "OF/INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 4,
@@ -351,7 +351,7 @@
       "ln": "Shouse",
       "pos": "INF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 19,
@@ -433,7 +433,7 @@
       "ln": "Souza",
       "pos": "CF",
       "yr": "So.",
-      "num": "9.0",
+      "num": "9",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 11,
@@ -488,7 +488,7 @@
       "ln": "Hughes",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 19,
@@ -543,7 +543,7 @@
       "ln": "Rivers",
       "pos": "C",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 10,
@@ -598,7 +598,7 @@
       "ln": "Becerra",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -646,7 +646,7 @@
       "ln": "Ferraro",
       "pos": "OF/1B",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 16,
@@ -701,7 +701,7 @@
       "ln": "Jordan",
       "pos": "RHP",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -749,7 +749,7 @@
       "ln": "Hutyra",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -797,7 +797,7 @@
       "ln": "Pirko",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -845,7 +845,7 @@
       "ln": "Lowe",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -893,7 +893,7 @@
       "ln": "Burns",
       "pos": "RHP",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -941,7 +941,7 @@
       "ln": "Thomas",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 6,
@@ -996,7 +996,7 @@
       "ln": "Quintanar",
       "pos": "C",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 18,
@@ -1051,7 +1051,7 @@
       "ln": "Villeneuve",
       "pos": "1B/OF",
       "yr": "Gr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 19,
@@ -1106,7 +1106,7 @@
       "ln": "Espinoza",
       "pos": "LHP",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1154,7 +1154,7 @@
       "ln": "Rusinek",
       "pos": "LHP/OF",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 13,
@@ -1236,7 +1236,7 @@
       "ln": "Raineri",
       "pos": "RHP",
       "yr": "So.",
-      "num": "31.0",
+      "num": "31",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1284,7 +1284,7 @@
       "ln": "Suiter",
       "pos": "RHP",
       "yr": "So.",
-      "num": "32.0",
+      "num": "32",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1332,7 +1332,7 @@
       "ln": "Hayes",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1380,7 +1380,7 @@
       "ln": "Goytia",
       "pos": "C/OF",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Texas Tech University",
       "season_batting": {
         "g": 5,
@@ -1435,7 +1435,7 @@
       "ln": "Mohan",
       "pos": "RHP",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1476,14 +1476,14 @@
       },
       "narrative": "Took the mound against Kansas, throwing 4.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
     },
-    "2a14fcdf": {
-      "id": "2a14fcdf",
+    "717a3802": {
+      "id": "717a3802",
       "name": "Heeryun Han",
       "fn": "Heeryun",
       "ln": "Han",
       "pos": "RHP/INF",
       "yr": "Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1522,7 +1522,7 @@
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Kansas, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "0.2 IP, 0 K vs. Kansas (W). At 10.59 ERA through 5.1 innings on the season."
     },
     "8678ca52": {
       "id": "8678ca52",
@@ -1531,7 +1531,7 @@
       "ln": "Rogers",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1579,7 +1579,7 @@
       "ln": "Trombello",
       "pos": "RHP",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1627,7 +1627,7 @@
       "ln": "Bevis",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1675,7 +1675,7 @@
       "ln": "Free",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1723,7 +1723,7 @@
       "ln": "Addison",
       "pos": "RHP",
       "yr": "So.",
-      "num": "47.0",
+      "num": "47",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {
@@ -1771,7 +1771,7 @@
       "ln": "Spindler",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "51.0",
+      "num": "51",
       "school": "Texas Tech University",
       "season_batting": null,
       "season_pitching": {

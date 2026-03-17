@@ -2,7 +2,7 @@
   "school": "University of Michigan",
   "base_url": "https://www.mgoblue.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:25:56.056023Z",
+  "generated_at": "2026-03-17T02:38:40.802503Z",
   "record": "14-23",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Haeger",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "0.0",
+      "num": "0",
       "school": "University of Michigan",
       "season_batting": {
         "g": 17,
@@ -76,7 +76,7 @@
       "ln": "Jefferis",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Michigan",
       "season_batting": {
         "g": 18,
@@ -131,7 +131,7 @@
       "ln": "Pace Jr.",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Michigan",
       "season_batting": {
         "g": 18,
@@ -186,7 +186,7 @@
       "ln": "Miller",
       "pos": "C",
       "yr": "R-So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Michigan",
       "season_batting": {
         "g": 13,
@@ -241,7 +241,7 @@
       "ln": "Lally Jr.",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -289,7 +289,7 @@
       "ln": "Barr",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -337,7 +337,7 @@
       "ln": "Longo",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Michigan",
       "season_batting": {
         "g": 7,
@@ -392,7 +392,7 @@
       "ln": "Culbertson",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Michigan",
       "season_batting": {
         "g": 18,
@@ -447,7 +447,7 @@
       "ln": "Montgomery",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -495,7 +495,7 @@
       "ln": "Carey",
       "pos": "RHP",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -543,7 +543,7 @@
       "ln": "Debiec",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -591,7 +591,7 @@
       "ln": "Turner",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Michigan",
       "season_batting": {
         "g": 17,
@@ -646,7 +646,7 @@
       "ln": "Luna",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Michigan",
       "season_batting": {
         "g": 15,
@@ -701,7 +701,7 @@
       "ln": "DeVooght",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -749,7 +749,7 @@
       "ln": "Stressler",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Michigan",
       "season_batting": {
         "g": 12,
@@ -804,7 +804,7 @@
       "ln": "Mann",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -836,7 +836,7 @@
       "ln": "Morrow",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Michigan",
       "season_batting": {
         "g": 12,
@@ -891,7 +891,7 @@
       "ln": "Kim",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Michigan",
       "season_batting": {
         "g": 13,
@@ -946,7 +946,7 @@
       "ln": "Novara",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -994,7 +994,7 @@
       "ln": "Barr",
       "pos": "RHP",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1042,7 +1042,7 @@
       "ln": "Kligman",
       "pos": "C",
       "yr": "Gr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Michigan",
       "season_batting": {
         "g": 9,
@@ -1097,7 +1097,7 @@
       "ln": "Leitgeb",
       "pos": "C",
       "yr": "R-So.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Michigan",
       "season_batting": {
         "g": 4,
@@ -1152,7 +1152,7 @@
       "ln": "Finkbeiner",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1200,7 +1200,7 @@
       "ln": "Laffitte",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Michigan",
       "season_batting": {
         "g": 10,
@@ -1255,7 +1255,7 @@
       "ln": "Ladehoff",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Michigan",
       "season_batting": {
         "g": 18,
@@ -1310,7 +1310,7 @@
       "ln": "O'Hearn",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1358,7 +1358,7 @@
       "ln": "Brinham",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1406,7 +1406,7 @@
       "ln": "Quedens",
       "pos": "LHP",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1454,7 +1454,7 @@
       "ln": "Ossenfort",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Michigan",
       "season_batting": {
         "g": 18,
@@ -1509,7 +1509,7 @@
       "ln": "Campbell",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Michigan",
       "season_batting": {
         "g": 10,
@@ -1564,7 +1564,7 @@
       "ln": "Moore",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "38.0",
+      "num": "38",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1612,7 +1612,7 @@
       "ln": "Mullens",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Michigan",
       "season_batting": {
         "g": 8,
@@ -1667,7 +1667,7 @@
       "ln": "Bradley",
       "pos": "RHP",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1715,7 +1715,7 @@
       "ln": "Brown",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "42.0",
+      "num": "42",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1763,7 +1763,7 @@
       "ln": "Puodziunas",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "49.0",
+      "num": "49",
       "school": "University of Michigan",
       "season_batting": null,
       "season_pitching": {
@@ -1811,7 +1811,7 @@
       "ln": "Park",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "51.0",
+      "num": "51",
       "school": "University of Michigan",
       "season_batting": {
         "g": 2,

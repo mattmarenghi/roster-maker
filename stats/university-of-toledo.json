@@ -2,7 +2,7 @@
   "school": "University of Toledo",
   "base_url": "https://www.utrockets.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:44:58.910147Z",
+  "generated_at": "2026-03-17T02:45:01.195445Z",
   "record": "36-45",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Lindquist",
       "pos": "Catcher",
       "yr": "Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Toledo",
       "season_batting": {
         "g": 2,
@@ -76,7 +76,7 @@
       "ln": "Sudbrook",
       "pos": "Infielder",
       "yr": "Fr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Toledo",
       "season_batting": {
         "g": 8,
@@ -131,7 +131,7 @@
       "ln": "Scholvin",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Toledo",
       "season_batting": {
         "g": 18,
@@ -186,7 +186,7 @@
       "ln": "Zumwalt",
       "pos": "Infielder",
       "yr": "Fr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Toledo",
       "season_batting": {
         "g": 5,
@@ -241,7 +241,7 @@
       "ln": "Baker",
       "pos": "Outfielder",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Toledo",
       "season_batting": {
         "g": 18,
@@ -296,7 +296,7 @@
       "ln": "Sudbrook",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Toledo",
       "season_batting": {
         "g": 8,
@@ -351,7 +351,7 @@
       "ln": "Meyer",
       "pos": "Outfielder",
       "yr": "Gr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Toledo",
       "season_batting": {
         "g": 15,
@@ -406,7 +406,7 @@
       "ln": "McCaleb",
       "pos": "Catcher",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Toledo",
       "season_batting": {
         "g": 6,
@@ -461,7 +461,7 @@
       "ln": "Payne",
       "pos": "Catcher/First Baseman",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Toledo",
       "season_batting": {
         "g": 16,
@@ -516,7 +516,7 @@
       "ln": "Wagner",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Toledo",
       "season_batting": {
         "g": 9,
@@ -571,7 +571,7 @@
       "ln": "Frey",
       "pos": "Left-Handed Pitcher",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -619,7 +619,7 @@
       "ln": "Campbell",
       "pos": "Outfielder",
       "yr": "Gr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Toledo",
       "season_batting": {
         "g": 16,
@@ -674,7 +674,7 @@
       "ln": "McCranie",
       "pos": "Infielder",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Toledo",
       "season_batting": {
         "g": 18,
@@ -729,7 +729,7 @@
       "ln": "Walton",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Toledo",
       "season_batting": {
         "g": 17,
@@ -784,7 +784,7 @@
       "ln": "Arsich",
       "pos": "Outfielder",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Toledo",
       "season_batting": {
         "g": 18,
@@ -839,7 +839,7 @@
       "ln": "Curry",
       "pos": "RHP",
       "yr": "So.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -887,7 +887,7 @@
       "ln": "Cahill",
       "pos": "1B/OF",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Toledo",
       "season_batting": {
         "g": 16,
@@ -942,7 +942,7 @@
       "ln": "Swanson",
       "pos": "Left-Handed Pitcher",
       "yr": "Gr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -990,7 +990,7 @@
       "ln": "Fliss",
       "pos": "Right-Handed Pitcher",
       "yr": "R-Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1038,7 +1038,7 @@
       "ln": "Ormaza",
       "pos": "Left-Handed Pitcher",
       "yr": "R-Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1086,7 +1086,7 @@
       "ln": "Giesige",
       "pos": "Left-Handed Pitcher",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1134,7 +1134,7 @@
       "ln": "Leininger",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1182,7 +1182,7 @@
       "ln": "O'Brien",
       "pos": "C",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Toledo",
       "season_batting": {
         "g": 3,
@@ -1237,7 +1237,7 @@
       "ln": "Langbehn",
       "pos": "Right-Handed Pitcher",
       "yr": "R-Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1285,7 +1285,7 @@
       "ln": "Hojnowski",
       "pos": "Right-Handed Pitcher",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1333,7 +1333,7 @@
       "ln": "Kennedy",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1381,7 +1381,7 @@
       "ln": "Sasse",
       "pos": "RHP",
       "yr": "So.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1429,7 +1429,7 @@
       "ln": "Hughes",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1477,7 +1477,7 @@
       "ln": "Hubbard",
       "pos": "RHP",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of Toledo",
       "season_batting": null,
       "season_pitching": {
@@ -1525,7 +1525,7 @@
       "ln": "Hiatt",
       "pos": "First Baseman/Right-Handed Pitcher",
       "yr": "R-Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Toledo",
       "season_batting": {
         "g": 7,

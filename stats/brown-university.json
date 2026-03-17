@@ -2,7 +2,7 @@
   "school": "Brown University",
   "base_url": "https://www.brownbears.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:52:03.746323Z",
+  "generated_at": "2026-03-17T02:07:51.837604Z",
   "record": "5-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Petersen",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Brown University",
       "season_batting": {
         "g": 13,
@@ -76,7 +76,7 @@
       "ln": "Luigs",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Brown University",
       "season_batting": {
         "g": 13,
@@ -131,7 +131,7 @@
       "ln": "Hanlon",
       "pos": "C",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Brown University",
       "season_batting": {
         "g": 5,
@@ -186,7 +186,7 @@
       "ln": "Butera",
       "pos": "INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Brown University",
       "season_batting": {
         "g": 13,
@@ -241,7 +241,7 @@
       "ln": "Benevento",
       "pos": "OF",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Brown University",
       "season_batting": {
         "g": 13,
@@ -296,7 +296,7 @@
       "ln": "LaGrassa",
       "pos": "INF/OF",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Brown University",
       "season_batting": {
         "g": 4,
@@ -351,7 +351,7 @@
       "ln": "Newsome",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Brown University",
       "season_batting": {
         "g": 5,
@@ -406,7 +406,7 @@
       "ln": "Edmunds",
       "pos": "C/OF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Brown University",
       "season_batting": {
         "g": 11,
@@ -461,7 +461,7 @@
       "ln": "Meusy",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Brown University",
       "season_batting": {
         "g": 13,
@@ -516,7 +516,7 @@
       "ln": "Henshon",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Brown University",
       "season_batting": {
         "g": 13,
@@ -571,7 +571,7 @@
       "ln": "Plainte",
       "pos": "LHP",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -619,7 +619,7 @@
       "ln": "Chang",
       "pos": "C",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Brown University",
       "season_batting": {
         "g": 5,
@@ -674,7 +674,7 @@
       "ln": "Dever",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Brown University",
       "season_batting": {
         "g": 3,
@@ -729,7 +729,7 @@
       "ln": "Dubie",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -777,7 +777,7 @@
       "ln": "Dillehay",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Brown University",
       "season_batting": {
         "g": 13,
@@ -832,7 +832,7 @@
       "ln": "Piwnicki",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -880,7 +880,7 @@
       "ln": "Kline",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -928,7 +928,7 @@
       "ln": "Chanley",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -976,7 +976,7 @@
       "ln": "Berryman",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1024,7 +1024,7 @@
       "ln": "Ramayanam Venkkat",
       "pos": "INF/RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Brown University",
       "season_batting": {
         "g": 3,
@@ -1106,7 +1106,7 @@
       "ln": "Mihailovich",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Brown University",
       "season_batting": {
         "g": 5,
@@ -1161,7 +1161,7 @@
       "ln": "Reid",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1209,7 +1209,7 @@
       "ln": "Yang",
       "pos": "RHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1257,7 +1257,7 @@
       "ln": "Keusch",
       "pos": "RHP",
       "yr": "So.",
-      "num": "31.0",
+      "num": "31",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1305,7 +1305,7 @@
       "ln": "McBurney",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1353,7 +1353,7 @@
       "ln": "Keel",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1401,7 +1401,7 @@
       "ln": "Nelson",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1449,7 +1449,7 @@
       "ln": "Harris",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {
@@ -1497,7 +1497,7 @@
       "ln": "Wilmarth",
       "pos": "RHP",
       "yr": "So.",
-      "num": "38.0",
+      "num": "38",
       "school": "Brown University",
       "season_batting": null,
       "season_pitching": {

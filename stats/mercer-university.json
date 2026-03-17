@@ -2,7 +2,7 @@
   "school": "Mercer University",
   "base_url": "https://www.mercerbears.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:28:44.296119Z",
+  "generated_at": "2026-03-17T02:19:13.176624Z",
   "record": "17-3",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Ewaldsen",
       "pos": "RHP/OF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Mercer University",
       "season_batting": {
         "g": 1,
@@ -103,7 +103,7 @@
       "ln": "Hughes",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -151,7 +151,7 @@
       "ln": "Kamaka",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Mercer University",
       "season_batting": {
         "g": 18,
@@ -206,7 +206,7 @@
       "ln": "Decker",
       "pos": "INF/RHP",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -254,7 +254,7 @@
       "ln": "LaPointe",
       "pos": "C",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Mercer University",
       "season_batting": {
         "g": 20,
@@ -309,7 +309,7 @@
       "ln": "Baughcum",
       "pos": "3B",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Mercer University",
       "season_batting": {
         "g": 19,
@@ -364,7 +364,7 @@
       "ln": "Buffone",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Mercer University",
       "season_batting": {
         "g": 10,
@@ -419,7 +419,7 @@
       "ln": "McEachron",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Mercer University",
       "season_batting": {
         "g": 20,
@@ -474,7 +474,7 @@
       "ln": "Johnson",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Mercer University",
       "season_batting": {
         "g": 9,
@@ -547,14 +547,14 @@
       "ln": "Gaspard",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
         "era": 8.38,
         "whip": 1.86,
         "w": 0,
-        "l": 2,
+        "l": 1,
         "sv": 0,
         "g": 8,
         "gs": 1,
@@ -595,7 +595,7 @@
       "ln": "Stephens",
       "pos": "C",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Mercer University",
       "season_batting": {
         "g": 15,
@@ -650,7 +650,7 @@
       "ln": "Perriello",
       "pos": "C",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Mercer University",
       "season_batting": {
         "g": 6,
@@ -705,7 +705,7 @@
       "ln": "Gegg",
       "pos": "OF",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "Mercer University",
       "season_batting": {
         "g": 13,
@@ -760,7 +760,7 @@
       "ln": "Shepherd",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Mercer University",
       "season_batting": {
         "g": 20,
@@ -815,7 +815,7 @@
       "ln": "Garnett",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -863,7 +863,7 @@
       "ln": "Cole",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -911,14 +911,14 @@
       "ln": "Ackerman",
       "pos": "LHP",
       "yr": "R-Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
         "era": 7.04,
         "whip": 1.89,
         "w": 2,
-        "l": 0,
+        "l": 1,
         "sv": 0,
         "g": 8,
         "gs": 3,
@@ -959,7 +959,7 @@
       "ln": "Dastou",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Mercer University",
       "season_batting": {
         "g": 8,
@@ -1014,7 +1014,7 @@
       "ln": "Biggs",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1062,7 +1062,7 @@
       "ln": "Hugas",
       "pos": "RHP/OF",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1110,7 +1110,7 @@
       "ln": "Johnson",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Mercer University",
       "season_batting": {
         "g": 9,
@@ -1181,7 +1181,7 @@
       "ln": "Graziano",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Mercer University",
       "season_batting": {
         "g": 15,
@@ -1236,7 +1236,7 @@
       "ln": "Borrero",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1284,7 +1284,7 @@
       "ln": "Kersey",
       "pos": "INF/RHP",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Mercer University",
       "season_batting": {
         "g": 20,
@@ -1366,7 +1366,7 @@
       "ln": "Fagerstrom",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1414,7 +1414,7 @@
       "ln": "Strickland",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1462,7 +1462,7 @@
       "ln": "Lambert",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1510,7 +1510,7 @@
       "ln": "Huffman",
       "pos": "1B/OF",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Mercer University",
       "season_batting": {
         "g": 15,
@@ -1565,7 +1565,7 @@
       "ln": "Cruce",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1613,7 +1613,7 @@
       "ln": "Hayse",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1661,7 +1661,7 @@
       "ln": "Gonzalez",
       "pos": "C",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Mercer University",
       "season_batting": {
         "g": 8,
@@ -1716,7 +1716,7 @@
       "ln": "Rowland",
       "pos": "C/OF",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Mercer University",
       "season_batting": {
         "g": 18,
@@ -1771,7 +1771,7 @@
       "ln": "Staszak",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1819,7 +1819,7 @@
       "ln": "Culberson",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1867,7 +1867,7 @@
       "ln": "Alvey",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1915,7 +1915,7 @@
       "ln": "Mummert",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Mercer University",
       "season_batting": null,
       "season_pitching": {
@@ -1963,7 +1963,7 @@
       "ln": "Katz",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Mercer University",
       "season_batting": {
         "g": 20,

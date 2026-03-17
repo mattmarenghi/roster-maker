@@ -2,7 +2,7 @@
   "school": "Troy University",
   "base_url": "https://troytrojans.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:06:26.630535Z",
+  "generated_at": "2026-03-17T02:31:39.623879Z",
   "record": "12-17",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Meier",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Troy University",
       "season_batting": {
         "g": 12,
@@ -76,7 +76,7 @@
       "ln": "Piasecki",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Troy University",
       "season_batting": {
         "g": 18,
@@ -131,7 +131,7 @@
       "ln": "Book",
       "pos": "INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Troy University",
       "season_batting": {
         "g": 14,
@@ -186,7 +186,7 @@
       "ln": "Janicki",
       "pos": "C",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Troy University",
       "season_batting": {
         "g": 19,
@@ -241,7 +241,7 @@
       "ln": "Richardson",
       "pos": "INF/RHP",
       "yr": "Fr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -289,7 +289,7 @@
       "ln": "Schrader",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Troy University",
       "season_batting": {
         "g": 11,
@@ -344,7 +344,7 @@
       "ln": "Boroff",
       "pos": "C/UTL",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Troy University",
       "season_batting": {
         "g": 9,
@@ -399,7 +399,7 @@
       "ln": "Tapper",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -447,7 +447,7 @@
       "ln": "Farquhar",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -495,7 +495,7 @@
       "ln": "Diaz",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Troy University",
       "season_batting": {
         "g": 8,
@@ -550,7 +550,7 @@
       "ln": "Egan",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -598,7 +598,7 @@
       "ln": "Smith",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -646,7 +646,7 @@
       "ln": "Crotchfelt",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -694,7 +694,7 @@
       "ln": "Reeves",
       "pos": "C",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Troy University",
       "season_batting": {
         "g": 5,
@@ -749,7 +749,7 @@
       "ln": "Dean",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -797,7 +797,7 @@
       "ln": "Nelson",
       "pos": "LHP/UTL",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Troy University",
       "season_batting": {
         "g": 19,
@@ -852,7 +852,7 @@
       "ln": "Markham",
       "pos": "OF",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Troy University",
       "season_batting": {
         "g": 10,
@@ -907,7 +907,7 @@
       "ln": "Dill",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -955,7 +955,7 @@
       "ln": "Alonso",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -1003,7 +1003,7 @@
       "ln": "Lucas",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -1051,7 +1051,7 @@
       "ln": "King",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -1099,7 +1099,7 @@
       "ln": "Ellingworth",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -1147,7 +1147,7 @@
       "ln": "Stubbs",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -1195,7 +1195,7 @@
       "ln": "Pyne",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Troy University",
       "season_batting": {
         "g": 19,
@@ -1250,7 +1250,7 @@
       "ln": "McGraw",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Troy University",
       "season_batting": {
         "g": 6,
@@ -1305,7 +1305,7 @@
       "ln": "Cavill",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Troy University",
       "season_batting": {
         "g": 18,
@@ -1360,7 +1360,7 @@
       "ln": "Pare",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -1408,7 +1408,7 @@
       "ln": "Cartron",
       "pos": "LHP",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {
@@ -1456,7 +1456,7 @@
       "ln": "Darnell",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Troy University",
       "season_batting": {
         "g": 19,
@@ -1511,7 +1511,7 @@
       "ln": "Azpilcueta",
       "pos": "INF/OF",
       "yr": "Sr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Troy University",
       "season_batting": {
         "g": 11,
@@ -1566,7 +1566,7 @@
       "ln": "Kuehl",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Troy University",
       "season_batting": {
         "g": 6,
@@ -1621,7 +1621,7 @@
       "ln": "Thigpen",
       "pos": "RHP",
       "yr": "So.",
-      "num": "47.0",
+      "num": "47",
       "school": "Troy University",
       "season_batting": null,
       "season_pitching": {

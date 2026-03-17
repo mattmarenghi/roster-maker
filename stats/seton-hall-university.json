@@ -2,7 +2,7 @@
   "school": "Seton Hall University",
   "base_url": "https://www.shupirates.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:52:18.845601Z",
+  "generated_at": "2026-03-17T02:27:21.923892Z",
   "record": "7-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Cavazzoni",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 15,
@@ -76,7 +76,7 @@
       "ln": "Marini",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 4,
@@ -131,7 +131,7 @@
       "ln": "Krieger",
       "pos": "OF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 1,
@@ -186,7 +186,7 @@
       "ln": "Sengenberger",
       "pos": "C",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 15,
@@ -241,7 +241,7 @@
       "ln": "Acker",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 11,
@@ -296,7 +296,7 @@
       "ln": "Curry",
       "pos": "RHP",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -344,7 +344,7 @@
       "ln": "Ford",
       "pos": "UTIL",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 1,
@@ -399,7 +399,7 @@
       "ln": "Dill",
       "pos": "OF",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 15,
@@ -454,7 +454,7 @@
       "ln": "Ehly",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Wilga",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 9,
@@ -557,7 +557,7 @@
       "ln": "Frontera",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 15,
@@ -612,7 +612,7 @@
       "ln": "Reich",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -660,7 +660,7 @@
       "ln": "Downing",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Tomasetto",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 13,
@@ -763,7 +763,7 @@
       "ln": "Manzo",
       "pos": "INF",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 7,
@@ -818,7 +818,7 @@
       "ln": "Strnad",
       "pos": "C",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 4,
@@ -873,7 +873,7 @@
       "ln": "Bruno",
       "pos": "RHP",
       "yr": "So.",
-      "num": "25.0",
+      "num": "25",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -921,7 +921,7 @@
       "ln": "Pontari",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -969,7 +969,7 @@
       "ln": "Higgins",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1017,7 +1017,7 @@
       "ln": "Grady",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 9,
@@ -1072,7 +1072,7 @@
       "ln": "Duffy",
       "pos": "C/OF",
       "yr": "Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 1,
@@ -1127,7 +1127,7 @@
       "ln": "Scrivanic",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 11,
@@ -1182,7 +1182,7 @@
       "ln": "Byrne",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1230,7 +1230,7 @@
       "ln": "Kuhn",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1278,7 +1278,7 @@
       "ln": "Barroqueiro",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1326,7 +1326,7 @@
       "ln": "Svenson",
       "pos": "RHP",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1374,7 +1374,7 @@
       "ln": "Benzinger",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1422,7 +1422,7 @@
       "ln": "Ho",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "48.0",
+      "num": "48",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1470,7 +1470,7 @@
       "ln": "Donahue",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "50.0",
+      "num": "50",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1518,7 +1518,7 @@
       "ln": "Christopher",
       "pos": "LHP",
       "yr": "So.",
-      "num": "51.0",
+      "num": "51",
       "school": "Seton Hall University",
       "season_batting": null,
       "season_pitching": {
@@ -1566,7 +1566,7 @@
       "ln": "Lopez",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "55.0",
+      "num": "55",
       "school": "Seton Hall University",
       "season_batting": {
         "g": 15,

@@ -2,7 +2,7 @@
   "school": "University of Kansas",
   "base_url": "https://kuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:20:14.898048Z",
+  "generated_at": "2026-03-17T02:37:02.471189Z",
   "record": "20-21",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,14 +21,14 @@
       "ln": "LeBlanc",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
         "gs": 19,
-        "avg": 0.239,
-        "ops": 0.811,
-        "ab": 71,
+        "avg": 0.236,
+        "ops": 0.8,
+        "ab": 72,
         "r": 15,
         "h": 17,
         "doubles": 2,
@@ -36,12 +36,12 @@
         "hr": 3,
         "rbi": 13,
         "tb": 32,
-        "slg": 0.451,
+        "slg": 0.444,
         "bb": 11,
         "hbp": 3,
         "so": 18,
         "gdp": 1,
-        "obp": 0.36,
+        "obp": 0.356,
         "sf": 1,
         "sh": 3,
         "sb": 4,
@@ -54,7 +54,7 @@
         "result": "W",
         "boxscore_url": "https://kuathletics.com/sports/baseball/stats/2026/texas-tech/boxscore/20363",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 4,
           "h": 3,
           "rbi": 0,
@@ -76,7 +76,7 @@
       "ln": "Lozier",
       "pos": "INF/OF",
       "yr": "R-So.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Kansas",
       "season_batting": {
         "g": 6,
@@ -131,7 +131,7 @@
       "ln": "Soliz Jr.",
       "pos": "C/1B",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Kansas",
       "season_batting": {
         "g": 16,
@@ -186,7 +186,7 @@
       "ln": "Owens",
       "pos": "OF/C",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Kansas",
       "season_batting": {
         "g": 13,
@@ -241,7 +241,7 @@
       "ln": "Schlotterback",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
@@ -296,7 +296,7 @@
       "ln": "Schlotterback",
       "pos": "C/RHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
@@ -333,7 +333,7 @@
       "ln": "Baldridge",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
@@ -388,7 +388,7 @@
       "ln": "Flowers",
       "pos": "OF",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Kansas",
       "season_batting": {
         "g": 4,
@@ -443,7 +443,7 @@
       "ln": "Lopez",
       "pos": "RHP",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -491,7 +491,7 @@
       "ln": "Voegele",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -539,7 +539,7 @@
       "ln": "Scheidt",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -587,7 +587,7 @@
       "ln": "Dykhoff",
       "pos": "1B/RHP",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Kansas",
       "season_batting": {
         "g": 18,
@@ -669,7 +669,7 @@
       "ln": "Fink",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -717,7 +717,7 @@
       "ln": "Carr",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -765,7 +765,7 @@
       "ln": "Mungarrieta",
       "pos": "C",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
@@ -820,7 +820,7 @@
       "ln": "Osoria",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
@@ -875,7 +875,7 @@
       "ln": "Ritter",
       "pos": "RHP",
       "yr": "So.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -923,7 +923,7 @@
       "ln": "Ballinger",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
@@ -978,7 +978,7 @@
       "ln": "Rahe",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1026,7 +1026,7 @@
       "ln": "Bach",
       "pos": "OF/C",
       "yr": "Gr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Kansas",
       "season_batting": {
         "g": 19,
@@ -1081,7 +1081,7 @@
       "ln": "Thomson",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1129,7 +1129,7 @@
       "ln": "Nayral",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1177,7 +1177,7 @@
       "ln": "Deer",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1225,7 +1225,7 @@
       "ln": "Burkitt",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1273,7 +1273,7 @@
       "ln": "Cline",
       "pos": "RHP",
       "yr": "So.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1321,7 +1321,7 @@
       "ln": "Cook",
       "pos": "RHP",
       "yr": "So.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1369,7 +1369,7 @@
       "ln": "West",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1417,7 +1417,7 @@
       "ln": "McKnight",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "46.0",
+      "num": "46",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {
@@ -1465,7 +1465,7 @@
       "ln": "Seidl",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "47.0",
+      "num": "47",
       "school": "University of Kansas",
       "season_batting": null,
       "season_pitching": {

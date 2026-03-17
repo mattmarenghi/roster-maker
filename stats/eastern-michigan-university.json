@@ -2,7 +2,7 @@
   "school": "Eastern Michigan University",
   "base_url": "https://www.emueagles.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:08:19.365296Z",
+  "generated_at": "2026-03-17T02:12:58.722370Z",
   "record": "26-30",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Williams",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Kennedy",
       "pos": "RHP",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -124,7 +124,7 @@
       "ln": "Thigpen",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 1,
@@ -179,7 +179,7 @@
       "ln": "Sydlowski",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 11,
@@ -227,14 +227,14 @@
       },
       "narrative": "Went 0/4 with 0 RBI against SIU Edwardsville. Struggled to make contact."
     },
-    "a0aa8604": {
-      "id": "a0aa8604",
+    "ad4fe424": {
+      "id": "ad4fe424",
       "name": "Keegan Knupp",
       "fn": "Keegan",
       "ln": "Knupp",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 18,
@@ -280,7 +280,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Ball State. Struggled to make contact."
+      "narrative": "0/2 with 0 RBI vs. Ball State (L). Hitting .169 with 2 HR through 18 games."
     },
     "4459c113": {
       "id": "4459c113",
@@ -289,7 +289,7 @@
       "ln": "Jones",
       "pos": "UTIL",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 14,
@@ -344,7 +344,7 @@
       "ln": "Keane",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -392,7 +392,7 @@
       "ln": "Jellison",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 18,
@@ -447,7 +447,7 @@
       "ln": "Egan",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -495,7 +495,7 @@
       "ln": "Zirwas",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 20,
@@ -550,7 +550,7 @@
       "ln": "Hale",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 19,
@@ -605,7 +605,7 @@
       "ln": "Borchardt",
       "pos": "C",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 18,
@@ -660,7 +660,7 @@
       "ln": "Heidelberg",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 7,
@@ -715,7 +715,7 @@
       "ln": "Crane",
       "pos": "UTIL",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 14,
@@ -770,7 +770,7 @@
       "ln": "Schechterman",
       "pos": "UTIL",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 11,
@@ -825,7 +825,7 @@
       "ln": "Carmichael",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -873,7 +873,7 @@
       "ln": "Henson",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -921,7 +921,7 @@
       "ln": "Stecko",
       "pos": "UTIL",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 20,
@@ -976,7 +976,7 @@
       "ln": "White",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1024,7 +1024,7 @@
       "ln": "Pfeiffer",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1072,7 +1072,7 @@
       "ln": "Norris",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1104,7 +1104,7 @@
       "ln": "Weaver",
       "pos": "C",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 14,
@@ -1159,7 +1159,7 @@
       "ln": "Slaby",
       "pos": "RHP",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1207,7 +1207,7 @@
       "ln": "Angus",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1255,7 +1255,7 @@
       "ln": "Henderson",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1303,7 +1303,7 @@
       "ln": "Mueller",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1350,8 +1350,8 @@
       "fn": "Kevin",
       "ln": "Krill",
       "pos": "UTIL",
-      "yr": "Sr.",
-      "num": "38.0",
+      "yr": "R-Jr.",
+      "num": "38",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 15,
@@ -1406,7 +1406,7 @@
       "ln": "Gillies",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1438,7 +1438,7 @@
       "ln": "Rose",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1486,7 +1486,7 @@
       "ln": "Norris",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1534,7 +1534,7 @@
       "ln": "Hendershot",
       "pos": "RHP",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1582,7 +1582,7 @@
       "ln": "Gillies",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1630,7 +1630,7 @@
       "ln": "Rutherford",
       "pos": "RHP",
       "yr": "So.",
-      "num": "47.0",
+      "num": "47",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1678,7 +1678,7 @@
       "ln": "Rowland",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "48.0",
+      "num": "48",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1726,7 +1726,7 @@
       "ln": "Davis",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "49.0",
+      "num": "49",
       "school": "Eastern Michigan University",
       "season_batting": null,
       "season_pitching": {
@@ -1774,7 +1774,7 @@
       "ln": "Molessa",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "50.0",
+      "num": "50",
       "school": "Eastern Michigan University",
       "season_batting": {
         "g": 5,

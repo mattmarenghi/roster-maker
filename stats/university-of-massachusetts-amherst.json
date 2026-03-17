@@ -2,7 +2,7 @@
   "school": "University of Massachusetts, Amherst",
   "base_url": "https://www.umassathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:24:24.068325Z",
+  "generated_at": "2026-03-17T02:38:21.275637Z",
   "record": "30-34",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Sullivan",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 12,
@@ -76,7 +76,7 @@
       "ln": "Fox",
       "pos": "INF/OF",
       "yr": "R-Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 12,
@@ -131,7 +131,7 @@
       "ln": "Schnupp",
       "pos": "C",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 1,
@@ -186,7 +186,7 @@
       "ln": "Niedringhaus",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -234,7 +234,7 @@
       "ln": "Thomason",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -282,7 +282,7 @@
       "ln": "Tirado",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 12,
@@ -337,7 +337,7 @@
       "ln": "McCarthy",
       "pos": "INF",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 12,
@@ -392,7 +392,7 @@
       "ln": "Kolben",
       "pos": "C",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 11,
@@ -447,7 +447,7 @@
       "ln": "Wingenroth",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -495,7 +495,7 @@
       "ln": "Beverly",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 12,
@@ -550,7 +550,7 @@
       "ln": "Terwilliger",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -598,7 +598,7 @@
       "ln": "Hill",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 3,
@@ -653,7 +653,7 @@
       "ln": "Willi",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 7,
@@ -708,7 +708,7 @@
       "ln": "O'Brien",
       "pos": "OF/INF",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 12,
@@ -763,7 +763,7 @@
       "ln": "Bonior",
       "pos": "OF/RHP",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 12,
@@ -818,7 +818,7 @@
       "ln": "Goodman",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -866,7 +866,7 @@
       "ln": "Perry",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -914,7 +914,7 @@
       "ln": "Giro",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -962,7 +962,7 @@
       "ln": "Levine",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -1010,7 +1010,7 @@
       "ln": "Sitarz",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 5,
@@ -1081,7 +1081,7 @@
       "ln": "Travisano",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 4,
@@ -1136,7 +1136,7 @@
       "ln": "Hennessey",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 2,
@@ -1191,7 +1191,7 @@
       "ln": "Mu\u00f1oz",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 1,
@@ -1246,7 +1246,7 @@
       "ln": "Briggs",
       "pos": "C",
       "yr": "R-So.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 11,
@@ -1301,7 +1301,7 @@
       "ln": "May",
       "pos": "INF/OF",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Massachusetts, Amherst",
       "season_batting": {
         "g": 7,
@@ -1356,7 +1356,7 @@
       "ln": "Sliwkowski",
       "pos": "LHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -1404,7 +1404,7 @@
       "ln": "McDonough",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -1452,7 +1452,7 @@
       "ln": "Merritt",
       "pos": "RHP",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -1500,7 +1500,7 @@
       "ln": "Powers",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -1548,7 +1548,7 @@
       "ln": "Masteralexis",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {
@@ -1596,7 +1596,7 @@
       "ln": "Lee",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Massachusetts, Amherst",
       "season_batting": null,
       "season_pitching": {

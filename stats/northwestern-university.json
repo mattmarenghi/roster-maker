@@ -2,7 +2,7 @@
   "school": "Northwestern University",
   "base_url": "https://www.nusports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:39:30.355210Z",
+  "generated_at": "2026-03-17T02:22:59.209538Z",
   "record": "9-13",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -21,7 +21,7 @@
       "ln": "Ruiz",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Northwestern University",
       "season_batting": {
         "g": 17,
@@ -76,7 +76,7 @@
       "ln": "Mills",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Northwestern University",
       "season_batting": {
         "g": 11,
@@ -131,7 +131,7 @@
       "ln": "Counsell",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Northwestern University",
       "season_batting": {
         "g": 8,
@@ -186,7 +186,7 @@
       "ln": "McElfatrick",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Northwestern University",
       "season_batting": {
         "g": 17,
@@ -241,7 +241,7 @@
       "ln": "Barron",
       "pos": "INF",
       "yr": "Fy.",
-      "num": "9.0",
+      "num": "9",
       "school": "Northwestern University",
       "season_batting": {
         "g": 17,
@@ -296,7 +296,7 @@
       "ln": "Hofstadler",
       "pos": "C/1B",
       "yr": "Gr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Northwestern University",
       "season_batting": {
         "g": 4,
@@ -351,7 +351,7 @@
       "ln": "Freeman",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Northwestern University",
       "season_batting": {
         "g": 17,
@@ -406,7 +406,7 @@
       "ln": "Lausch",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Northwestern University",
       "season_batting": {
         "g": 17,
@@ -461,7 +461,7 @@
       "ln": "Dickson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -509,7 +509,7 @@
       "ln": "Caruso",
       "pos": "C",
       "yr": "So.",
-      "num": "15.0",
+      "num": "15",
       "school": "Northwestern University",
       "season_batting": {
         "g": 9,
@@ -564,7 +564,7 @@
       "ln": "Hliboki",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -612,7 +612,7 @@
       "ln": "Kucherak",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Northwestern University",
       "season_batting": {
         "g": 17,
@@ -667,7 +667,7 @@
       "ln": "Brocklebank",
       "pos": "INF",
       "yr": "Fy.",
-      "num": "18.0",
+      "num": "18",
       "school": "Northwestern University",
       "season_batting": {
         "g": 4,
@@ -722,7 +722,7 @@
       "ln": "Yang",
       "pos": "INF",
       "yr": "Fy.",
-      "num": "19.0",
+      "num": "19",
       "school": "Northwestern University",
       "season_batting": {
         "g": 4,
@@ -777,7 +777,7 @@
       "ln": "Grunkemeyer",
       "pos": "RHP",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -825,7 +825,7 @@
       "ln": "Danz",
       "pos": "UTL",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "Northwestern University",
       "season_batting": {
         "g": 10,
@@ -907,7 +907,7 @@
       "ln": "Weaver",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -955,7 +955,7 @@
       "ln": "Forniss",
       "pos": "LHP",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1003,7 +1003,7 @@
       "ln": "Kouser",
       "pos": "RHP",
       "yr": "So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1050,8 +1050,8 @@
       "fn": "Jay",
       "ln": "Slater",
       "pos": "C",
-      "yr": "Fy.",
-      "num": "28.0",
+      "yr": "So.",
+      "num": "28",
       "school": "Northwestern University",
       "season_batting": {
         "g": 16,
@@ -1106,7 +1106,7 @@
       "ln": "Whitaker",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "29.0",
+      "num": "29",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1154,7 +1154,7 @@
       "ln": "Shearer",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1202,7 +1202,7 @@
       "ln": "DeLoreto",
       "pos": "LHP/OF",
       "yr": "Fy.",
-      "num": "31.0",
+      "num": "31",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1250,7 +1250,7 @@
       "ln": "de Groot",
       "pos": "OF",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Northwestern University",
       "season_batting": {
         "g": 9,
@@ -1305,7 +1305,7 @@
       "ln": "Michel",
       "pos": "LHP",
       "yr": "Fy.",
-      "num": "35.0",
+      "num": "35",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1353,7 +1353,7 @@
       "ln": "Grant",
       "pos": "LHP",
       "yr": "So.",
-      "num": "37.0",
+      "num": "37",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1401,7 +1401,7 @@
       "ln": "Rifenburg",
       "pos": "LHP",
       "yr": "Fy.",
-      "num": "39.0",
+      "num": "39",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1449,7 +1449,7 @@
       "ln": "Bridges",
       "pos": "RHP",
       "yr": "So.",
-      "num": "41.0",
+      "num": "41",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {
@@ -1497,7 +1497,7 @@
       "ln": "Marshall",
       "pos": "OF",
       "yr": "So.",
-      "num": "42.0",
+      "num": "42",
       "school": "Northwestern University",
       "season_batting": {
         "g": 1,
@@ -1552,7 +1552,7 @@
       "ln": "Fryer",
       "pos": "LHP",
       "yr": "Fy.",
-      "num": "55.0",
+      "num": "55",
       "school": "Northwestern University",
       "season_batting": null,
       "season_pitching": {

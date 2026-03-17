@@ -2,7 +2,7 @@
   "school": "Stonehill College",
   "base_url": "https://www.stonehillskyhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-16T18:40:32.820618Z",
+  "generated_at": "2026-03-17T02:28:46.867976Z",
   "record": "3-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Welsch",
       "pos": "LHP",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -77,7 +77,7 @@
       "ln": "McCarthy",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -109,7 +109,7 @@
       "ln": "Rader",
       "pos": "INF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "Stonehill College",
       "season_batting": {
         "g": 5,
@@ -146,7 +146,7 @@
       "ln": "Newton",
       "pos": "UTIL",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Stonehill College",
       "season_batting": {
         "g": 12,
@@ -198,7 +198,7 @@
       "ln": "Parks",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Stonehill College",
       "season_batting": {
         "g": 14,
@@ -250,7 +250,7 @@
       "ln": "Douglas",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -306,7 +306,7 @@
       "ln": "McGee",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Stonehill College",
       "season_batting": {
         "g": 14,
@@ -358,7 +358,7 @@
       "ln": "Curley",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -390,7 +390,7 @@
       "ln": "Rickert",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Stonehill College",
       "season_batting": {
         "g": 4,
@@ -427,7 +427,7 @@
       "ln": "Morrison",
       "pos": "C",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Stonehill College",
       "season_batting": {
         "g": 10,
@@ -479,7 +479,7 @@
       "ln": "Enders",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Stonehill College",
       "season_batting": {
         "g": 6,
@@ -516,7 +516,7 @@
       "ln": "Lang",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -548,7 +548,7 @@
       "ln": "Romero",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Stonehill College",
       "season_batting": {
         "g": 7,
@@ -585,7 +585,7 @@
       "ln": "Kearney",
       "pos": "OF/INF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Stonehill College",
       "season_batting": {
         "g": 11,
@@ -622,7 +622,7 @@
       "ln": "Lundquist",
       "pos": "C",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Stonehill College",
       "season_batting": {
         "g": 13,
@@ -674,7 +674,7 @@
       "ln": "Redden",
       "pos": "C",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Stonehill College",
       "season_batting": {
         "g": 1,
@@ -711,7 +711,7 @@
       "ln": "LeClair",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Stonehill College",
       "season_batting": {
         "g": 14,
@@ -748,7 +748,7 @@
       "ln": "Chin",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Stonehill College",
       "season_batting": {
         "g": 13,
@@ -800,7 +800,7 @@
       "ln": "Bell",
       "pos": "LHP",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -856,7 +856,7 @@
       "ln": "Meliere",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -888,7 +888,7 @@
       "ln": "Dellentash",
       "pos": "RHP",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -944,7 +944,7 @@
       "ln": "Lanzer",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1000,7 +1000,7 @@
       "ln": "Howland",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Stonehill College",
       "season_batting": {
         "g": 7,
@@ -1052,7 +1052,7 @@
       "ln": "Cook",
       "pos": "LHP",
       "yr": "So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1108,7 +1108,7 @@
       "ln": "Robinson",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Stonehill College",
       "season_batting": {
         "g": 8,
@@ -1160,7 +1160,7 @@
       "ln": "Brockner",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1216,7 +1216,7 @@
       "ln": "Gilleran",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1272,7 +1272,7 @@
       "ln": "Durham",
       "pos": "RHP/OF",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1304,7 +1304,7 @@
       "ln": "Florence",
       "pos": "RHP",
       "yr": "So.",
-      "num": "32.0",
+      "num": "32",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1360,7 +1360,7 @@
       "ln": "Bureau",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Stonehill College",
       "season_batting": {
         "g": 10,
@@ -1412,7 +1412,7 @@
       "ln": "Christopher",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Stonehill College",
       "season_batting": {
         "g": 13,
@@ -1464,7 +1464,7 @@
       "ln": "Connolly",
       "pos": "RHP/OF",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1520,7 +1520,7 @@
       "ln": "Stork",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1552,7 +1552,7 @@
       "ln": "Basgaard",
       "pos": "RHP",
       "yr": "So.",
-      "num": "42.0",
+      "num": "42",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {
@@ -1608,7 +1608,7 @@
       "ln": "Weber",
       "pos": "RHP",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "Stonehill College",
       "season_batting": null,
       "season_pitching": {

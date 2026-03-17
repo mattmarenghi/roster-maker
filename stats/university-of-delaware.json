@@ -2,7 +2,7 @@
   "school": "University of Delaware",
   "base_url": "https://www.bluehens.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:16:21.153762Z",
+  "generated_at": "2026-03-17T02:35:32.278599Z",
   "record": "24-26",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Mineo",
       "pos": "Outfield",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Delaware",
       "season_batting": {
         "g": 20,
@@ -76,7 +76,7 @@
       "ln": "Doherty",
       "pos": "Infield/ Outfield",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Delaware",
       "season_batting": {
         "g": 4,
@@ -131,7 +131,7 @@
       "ln": "Minckler",
       "pos": "Infield / Right Handed Pitcher",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Delaware",
       "season_batting": {
         "g": 20,
@@ -186,7 +186,7 @@
       "ln": "Wolf",
       "pos": "Infield",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Delaware",
       "season_batting": {
         "g": 19,
@@ -241,7 +241,7 @@
       "ln": "Cockrill",
       "pos": "Catcher",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Delaware",
       "season_batting": {
         "g": 20,
@@ -296,7 +296,7 @@
       "ln": "Bouldin",
       "pos": "Infield",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Delaware",
       "season_batting": {
         "g": 20,
@@ -351,7 +351,7 @@
       "ln": "Charles",
       "pos": "Outfield",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Delaware",
       "season_batting": {
         "g": 15,
@@ -406,7 +406,7 @@
       "ln": "Callaway",
       "pos": "Left Handed Pitcher",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -454,7 +454,7 @@
       "ln": "Lambert",
       "pos": "Catcher",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Delaware",
       "season_batting": {
         "g": 4,
@@ -509,7 +509,7 @@
       "ln": "Bryan",
       "pos": "Left Handed Pitcher",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -557,7 +557,7 @@
       "ln": "Carr",
       "pos": "Infield",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Delaware",
       "season_batting": {
         "g": 16,
@@ -612,7 +612,7 @@
       "ln": "Pugh",
       "pos": "Right Handed Pitcher",
       "yr": "So.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -660,7 +660,7 @@
       "ln": "Davis",
       "pos": "Infield/ Outfield",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Delaware",
       "season_batting": {
         "g": 19,
@@ -715,7 +715,7 @@
       "ln": "Burroughs",
       "pos": "Outfield",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Delaware",
       "season_batting": {
         "g": 18,
@@ -770,7 +770,7 @@
       "ln": "Hulcher",
       "pos": "Right Handed Pitcher",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -818,7 +818,7 @@
       "ln": "Marose",
       "pos": "Right Handed Pitcher",
       "yr": "Gr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -866,7 +866,7 @@
       "ln": "Bilotto",
       "pos": "Right Handed Pitcher",
       "yr": "Fr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -914,7 +914,7 @@
       "ln": "Winsett",
       "pos": "Infield",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Delaware",
       "season_batting": {
         "g": 12,
@@ -969,7 +969,7 @@
       "ln": "Shaub",
       "pos": "Left-Handed Pitcher",
       "yr": "Gr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1017,7 +1017,7 @@
       "ln": "Conway",
       "pos": "Left Handed Pitcher",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1065,7 +1065,7 @@
       "ln": "DeCesare",
       "pos": "Catcher",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Delaware",
       "season_batting": {
         "g": 10,
@@ -1120,7 +1120,7 @@
       "ln": "Deibler",
       "pos": "Right Handed Pitcher",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1168,7 +1168,7 @@
       "ln": "Reyes",
       "pos": "Right Handed Pitcher",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1200,7 +1200,7 @@
       "ln": "Richardson",
       "pos": "Right Handed Pitcher",
       "yr": "So.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1248,7 +1248,7 @@
       "ln": "McLaughlin",
       "pos": "Right Handed Pitcher",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1296,7 +1296,7 @@
       "ln": "Marchesano",
       "pos": "Right Handed Pitcher",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1344,7 +1344,7 @@
       "ln": "Moyzan",
       "pos": "Right Handed Pitcher",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1392,7 +1392,7 @@
       "ln": "Lewis",
       "pos": "Right Handed Pitcher",
       "yr": "Gr.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1440,7 +1440,7 @@
       "ln": "Blum",
       "pos": "Right Handed Pitcher",
       "yr": "So.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {
@@ -1488,7 +1488,7 @@
       "ln": "Pollaro",
       "pos": "Left Handed Pitcher",
       "yr": "So.",
-      "num": "42.0",
+      "num": "42",
       "school": "University of Delaware",
       "season_batting": null,
       "season_pitching": {

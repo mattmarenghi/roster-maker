@@ -2,7 +2,7 @@
   "school": "California State University, Northridge",
   "base_url": "https://www.GoMatadors.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:56:55.531336Z",
+  "generated_at": "2026-03-17T02:09:07.783262Z",
   "record": "17-24",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Boardman",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 16,
@@ -76,7 +76,7 @@
       "ln": "Calvillo",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 10,
@@ -131,7 +131,7 @@
       "ln": "Thomas",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 19,
@@ -186,7 +186,7 @@
       "ln": "Behrmann",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 3,
@@ -241,7 +241,7 @@
       "ln": "Linberg",
       "pos": "UTIL",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 17,
@@ -296,7 +296,7 @@
       "ln": "Hernandez",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "8.0",
+      "num": "8",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -344,7 +344,7 @@
       "ln": "Rios",
       "pos": "C",
       "yr": "R-So.",
-      "num": "9.0",
+      "num": "9",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 10,
@@ -399,7 +399,7 @@
       "ln": "Rickman",
       "pos": "1B",
       "yr": "Fr.",
-      "num": "10.0",
+      "num": "10",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 14,
@@ -454,7 +454,7 @@
       "ln": "Lee",
       "pos": "C",
       "yr": "R-So.",
-      "num": "11.0",
+      "num": "11",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 14,
@@ -509,7 +509,7 @@
       "ln": "Miller",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -557,7 +557,7 @@
       "ln": "Pena",
       "pos": "1B",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 18,
@@ -612,7 +612,7 @@
       "ln": "Abel",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 19,
@@ -667,7 +667,7 @@
       "ln": "Coleman",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 18,
@@ -722,7 +722,7 @@
       "ln": "Panganiban",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "17.0",
+      "num": "17",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 19,
@@ -775,9 +775,9 @@
       "name": "Gage McCown",
       "fn": "Gage",
       "ln": "McCown",
-      "pos": "C",
+      "pos": "RHP/C",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -825,7 +825,7 @@
       "ln": "Ellis",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -873,7 +873,7 @@
       "ln": "Alaniz",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "21.0",
+      "num": "21",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -921,7 +921,7 @@
       "ln": "Seo",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "23.0",
+      "num": "23",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -969,7 +969,7 @@
       "ln": "Oughton",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1017,7 +1017,7 @@
       "ln": "Cormier",
       "pos": "C",
       "yr": "So.",
-      "num": "25.0",
+      "num": "25",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 2,
@@ -1072,7 +1072,7 @@
       "ln": "Becker",
       "pos": "OF",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 17,
@@ -1127,7 +1127,7 @@
       "ln": "Johnson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1175,7 +1175,7 @@
       "ln": "Jones",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "King",
       "pos": "LHP",
       "yr": "So.",
-      "num": "32.0",
+      "num": "32",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1271,7 +1271,7 @@
       "ln": "Voorhies",
       "pos": "RHP/C",
       "yr": "Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Rogers",
       "pos": "RHP/OF",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1367,7 +1367,7 @@
       "ln": "Turner",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "40.0",
+      "num": "40",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1415,7 +1415,7 @@
       "ln": "Carson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "43.0",
+      "num": "43",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1463,7 +1463,7 @@
       "ln": "Barry",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "47.0",
+      "num": "47",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1511,7 +1511,7 @@
       "ln": "Saito",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "49.0",
+      "num": "49",
       "school": "California State University, Northridge",
       "season_batting": {
         "g": 10,
@@ -1566,7 +1566,7 @@
       "ln": "Christopher",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "50.0",
+      "num": "50",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {
@@ -1614,7 +1614,7 @@
       "ln": "Banuelos",
       "pos": "LHP",
       "yr": "So.",
-      "num": "55.0",
+      "num": "55",
       "school": "California State University, Northridge",
       "season_batting": null,
       "season_pitching": {

@@ -2,7 +2,7 @@
   "school": "Rutgers, The State University of New Jersey, New Brunswick",
   "base_url": "https://www.scarletknights.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:47:28.381156Z",
+  "generated_at": "2026-03-17T02:25:29.119140Z",
   "record": "22-26",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Cruz",
       "pos": "RHP",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Savi\u00f1on",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -117,7 +117,7 @@
       "ln": "Meglio",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 19,
@@ -172,7 +172,7 @@
       "ln": "Wells",
       "pos": "C",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 19,
@@ -227,7 +227,7 @@
       "ln": "Krewson",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 18,
@@ -282,7 +282,7 @@
       "ln": "Jaros",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 19,
@@ -337,7 +337,7 @@
       "ln": "Radbill",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -385,7 +385,7 @@
       "ln": "Erace",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 13,
@@ -440,7 +440,7 @@
       "ln": "Carreras",
       "pos": "INF",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 17,
@@ -495,7 +495,7 @@
       "ln": "Rosado",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 13,
@@ -550,7 +550,7 @@
       "ln": "Kane",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -598,7 +598,7 @@
       "ln": "Harrison",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -646,7 +646,7 @@
       "ln": "Wiltsey",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 12,
@@ -701,7 +701,7 @@
       "ln": "Konstantinovsky",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "19.0",
+      "num": "19",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -749,7 +749,7 @@
       "ln": "Borghese",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -797,7 +797,7 @@
       "ln": "Rondini",
       "pos": "RHP",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -845,7 +845,7 @@
       "ln": "Masick",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -893,7 +893,7 @@
       "ln": "Bonds",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 19,
@@ -948,7 +948,7 @@
       "ln": "Rivera",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 4,
@@ -1003,7 +1003,7 @@
       "ln": "Chatelle",
       "pos": "C",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 12,
@@ -1058,7 +1058,7 @@
       "ln": "Perilli",
       "pos": "INF/OF",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 16,
@@ -1113,7 +1113,7 @@
       "ln": "Sweeney",
       "pos": "OF",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 5,
@@ -1168,7 +1168,7 @@
       "ln": "Salinas",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "36.0",
+      "num": "36",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 14,
@@ -1223,7 +1223,7 @@
       "ln": "Mazza",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -1271,7 +1271,7 @@
       "ln": "Pedersen",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Gleason",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -1367,7 +1367,7 @@
       "ln": "Haines",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -1415,7 +1415,7 @@
       "ln": "Sand",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -1463,7 +1463,7 @@
       "ln": "Kirchner",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "45.0",
+      "num": "45",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": null,
       "season_pitching": {
@@ -1511,7 +1511,7 @@
       "ln": "Novobilsky",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "season_batting": {
         "g": 3,

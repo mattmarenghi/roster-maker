@@ -2,7 +2,7 @@
   "school": "Kansas State University",
   "base_url": "https://www.kstatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:19:40.463209Z",
+  "generated_at": "2026-03-17T02:16:14.246943Z",
   "record": "39-51",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Kennedy",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Kansas State University",
       "season_batting": {
         "g": 20,
@@ -76,7 +76,7 @@
       "ln": "Karl",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Kansas State University",
       "season_batting": {
         "g": 11,
@@ -131,7 +131,7 @@
       "ln": "Madliak",
       "pos": "C",
       "yr": "R-Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Kansas State University",
       "season_batting": {
         "g": 15,
@@ -186,7 +186,7 @@
       "ln": "Vasquez",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Kansas State University",
       "season_batting": {
         "g": 17,
@@ -241,7 +241,7 @@
       "ln": "Inoue",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Kansas State University",
       "season_batting": {
         "g": 20,
@@ -296,7 +296,7 @@
       "ln": "Gallagher",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Kansas State University",
       "season_batting": {
         "g": 20,
@@ -351,7 +351,7 @@
       "ln": "Evasco",
       "pos": "INF",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "Kansas State University",
       "season_batting": {
         "g": 20,
@@ -406,7 +406,7 @@
       "ln": "English",
       "pos": "C/OF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Kansas State University",
       "season_batting": {
         "g": 6,
@@ -461,7 +461,7 @@
       "ln": "Lewis",
       "pos": "UTL",
       "yr": "So.",
-      "num": "9.0",
+      "num": "9",
       "school": "Kansas State University",
       "season_batting": {
         "g": 9,
@@ -543,7 +543,7 @@
       "ln": "Duke",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -591,7 +591,7 @@
       "ln": "Bolin",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Kansas State University",
       "season_batting": {
         "g": 17,
@@ -646,7 +646,7 @@
       "ln": "Arnold",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -694,7 +694,7 @@
       "ln": "Wisenbaker",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -742,7 +742,7 @@
       "ln": "Lodice",
       "pos": "INF/OF",
       "yr": "R-Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Kansas State University",
       "season_batting": {
         "g": 11,
@@ -797,7 +797,7 @@
       "ln": "Flores",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -845,7 +845,7 @@
       "ln": "Feser",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -893,7 +893,7 @@
       "ln": "Kendrick",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "18.0",
+      "num": "18",
       "school": "Kansas State University",
       "season_batting": {
         "g": 19,
@@ -948,7 +948,7 @@
       "ln": "Liggett",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -996,7 +996,7 @@
       "ln": "Butler",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1044,7 +1044,7 @@
       "ln": "Haley",
       "pos": "INF/RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Kansas State University",
       "season_batting": {
         "g": 7,
@@ -1126,7 +1126,7 @@
       "ln": "Fortenberry",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1174,7 +1174,7 @@
       "ln": "McGahan",
       "pos": "C",
       "yr": "Gr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Kansas State University",
       "season_batting": {
         "g": 11,
@@ -1229,7 +1229,7 @@
       "ln": "Guyette",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1277,7 +1277,7 @@
       "ln": "Smolinski",
       "pos": "INF",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Kansas State University",
       "season_batting": {
         "g": 17,
@@ -1332,7 +1332,7 @@
       "ln": "Eich",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1380,7 +1380,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1428,7 +1428,7 @@
       "ln": "Arther",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1476,7 +1476,7 @@
       "ln": "Longoria",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1524,7 +1524,7 @@
       "ln": "Sheffield",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "47.0",
+      "num": "47",
       "school": "Kansas State University",
       "season_batting": null,
       "season_pitching": {
@@ -1572,7 +1572,7 @@
       "ln": "Murray",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "52.0",
+      "num": "52",
       "school": "Kansas State University",
       "season_batting": {
         "g": 12,

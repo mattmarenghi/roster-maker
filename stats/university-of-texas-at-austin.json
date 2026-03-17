@@ -2,7 +2,7 @@
   "school": "University of Texas at Austin",
   "base_url": "https://www.TexasLonghorns.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:44:07.556535Z",
+  "generated_at": "2026-03-17T02:44:42.836925Z",
   "record": "41-46",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Duplantier",
       "pos": "INF/OF",
       "yr": "Sr.",
-      "num": "0.0",
+      "num": "0",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Becerra",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 19,
@@ -131,7 +131,7 @@
       "ln": "Flores",
       "pos": "RHP",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -179,7 +179,7 @@
       "ln": "Mendoza",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 19,
@@ -234,7 +234,7 @@
       "ln": "Pack Jr.",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 19,
@@ -289,7 +289,7 @@
       "ln": "Ermis",
       "pos": "C",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 5,
@@ -344,7 +344,7 @@
       "ln": "Tinney",
       "pos": "C",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 19,
@@ -399,7 +399,7 @@
       "ln": "Williams",
       "pos": "OF",
       "yr": "So.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 8,
@@ -454,7 +454,7 @@
       "ln": "Leffew",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Riojas",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -550,7 +550,7 @@
       "ln": "Courville",
       "pos": "C",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 3,
@@ -605,7 +605,7 @@
       "ln": "Livingston",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 12,
@@ -660,7 +660,7 @@
       "ln": "Rodriguez",
       "pos": "INF",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 19,
@@ -715,7 +715,7 @@
       "ln": "Higgins",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -763,7 +763,7 @@
       "ln": "Peterson",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 3,
@@ -818,7 +818,7 @@
       "ln": "Borba",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 19,
@@ -873,7 +873,7 @@
       "ln": "Monsour",
       "pos": "OF/INF",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 10,
@@ -928,7 +928,7 @@
       "ln": "Winter",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -976,7 +976,7 @@
       "ln": "Cozart",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1024,7 +1024,7 @@
       "ln": "Early",
       "pos": "INF",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 3,
@@ -1079,7 +1079,7 @@
       "ln": "Grubbs",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "38.0",
+      "num": "38",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1127,7 +1127,7 @@
       "ln": "Robbins",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 19,
@@ -1182,7 +1182,7 @@
       "ln": "Larson",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Texas at Austin",
       "season_batting": {
         "g": 16,
@@ -1237,7 +1237,7 @@
       "ln": "Burns",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1269,7 +1269,7 @@
       "ln": "Walker",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "46.0",
+      "num": "46",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1317,7 +1317,7 @@
       "ln": "Hamilton",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "48.0",
+      "num": "48",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1365,7 +1365,7 @@
       "ln": "Harrison",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "53.0",
+      "num": "53",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1413,7 +1413,7 @@
       "ln": "Walls",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "67.0",
+      "num": "67",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1461,7 +1461,7 @@
       "ln": "Crossland",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "88.0",
+      "num": "88",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {
@@ -1509,7 +1509,7 @@
       "ln": "Volantis",
       "pos": "LHP",
       "yr": "So.",
-      "num": "99.0",
+      "num": "99",
       "school": "University of Texas at Austin",
       "season_batting": null,
       "season_pitching": {

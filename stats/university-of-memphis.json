@@ -2,7 +2,7 @@
   "school": "University of Memphis",
   "base_url": "https://www.gotigersgo.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:25:05.051097Z",
+  "generated_at": "2026-03-17T02:38:27.236047Z",
   "record": "5-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Gupton",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Memphis",
       "season_batting": {
         "g": 19,
@@ -76,7 +76,7 @@
       "ln": "Cox",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Memphis",
       "season_batting": {
         "g": 19,
@@ -131,7 +131,7 @@
       "ln": "Pitts",
       "pos": "C",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Memphis",
       "season_batting": {
         "g": 12,
@@ -186,7 +186,7 @@
       "ln": "Politte",
       "pos": "INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Memphis",
       "season_batting": {
         "g": 7,
@@ -268,7 +268,7 @@
       "ln": "Curtis",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -316,7 +316,7 @@
       "ln": "Hernandez",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Memphis",
       "season_batting": {
         "g": 19,
@@ -371,7 +371,7 @@
       "ln": "Rodriguez",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Memphis",
       "season_batting": {
         "g": 19,
@@ -426,7 +426,7 @@
       "ln": "Fair",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -474,7 +474,7 @@
       "ln": "Watson",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Memphis",
       "season_batting": {
         "g": 17,
@@ -529,7 +529,7 @@
       "ln": "Sanders",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -577,7 +577,7 @@
       "ln": "Rushing",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -625,7 +625,7 @@
       "ln": "Smith",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Memphis",
       "season_batting": {
         "g": 13,
@@ -698,7 +698,7 @@
       "ln": "Garner",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -746,7 +746,7 @@
       "ln": "Oswalt",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -794,7 +794,7 @@
       "ln": "Cassidy",
       "pos": "C",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Memphis",
       "season_batting": {
         "g": 17,
@@ -849,7 +849,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Memphis",
       "season_batting": {
         "g": 13,
@@ -920,7 +920,7 @@
       "ln": "Lucas",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -968,7 +968,7 @@
       "ln": "Giamportone",
       "pos": "C",
       "yr": "R-Fr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Memphis",
       "season_batting": {
         "g": 9,
@@ -1023,7 +1023,7 @@
       "ln": "Harrington",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Memphis",
       "season_batting": {
         "g": 13,
@@ -1078,7 +1078,7 @@
       "ln": "Case",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -1126,7 +1126,7 @@
       "ln": "Dienes",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -1174,7 +1174,7 @@
       "ln": "Little",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Memphis",
       "season_batting": {
         "g": 13,
@@ -1229,7 +1229,7 @@
       "ln": "Howell",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -1277,7 +1277,7 @@
       "ln": "Impson",
       "pos": "RHP",
       "yr": "So.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -1325,7 +1325,7 @@
       "ln": "Mabie",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Memphis",
       "season_batting": {
         "g": 6,
@@ -1380,7 +1380,7 @@
       "ln": "McAbee",
       "pos": "C",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Memphis",
       "season_batting": {
         "g": 11,
@@ -1435,7 +1435,7 @@
       "ln": "Price",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Memphis",
       "season_batting": {
         "g": 13,
@@ -1490,7 +1490,7 @@
       "ln": "McCracken",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -1538,7 +1538,7 @@
       "ln": "Steht",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -1586,7 +1586,7 @@
       "ln": "Bryan",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "38.0",
+      "num": "38",
       "school": "University of Memphis",
       "season_batting": null,
       "season_pitching": {
@@ -1634,7 +1634,7 @@
       "ln": "Hitson",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Memphis",
       "season_batting": {
         "g": 5,
@@ -1689,7 +1689,7 @@
       "ln": "Boyd",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Memphis",
       "season_batting": {
         "g": 4,
@@ -1744,7 +1744,7 @@
       "ln": "Willis",
       "pos": "OF",
       "yr": "R-Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Memphis",
       "season_batting": {
         "g": 2,
@@ -1799,7 +1799,7 @@
       "ln": "Smith IV",
       "pos": "OF/RHP",
       "yr": "Sr.",
-      "num": "50.0",
+      "num": "50",
       "school": "University of Memphis",
       "season_batting": {
         "g": 18,

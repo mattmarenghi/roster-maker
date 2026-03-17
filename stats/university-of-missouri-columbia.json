@@ -2,7 +2,7 @@
   "school": "University of Missouri, Columbia",
   "base_url": "https://www.mutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:28:26.159522Z",
+  "generated_at": "2026-03-17T02:39:27.717401Z",
   "record": "34-40",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -21,7 +21,7 @@
       "ln": "Benson",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 16,
@@ -76,7 +76,7 @@
       "ln": "Basler",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 2,
@@ -131,7 +131,7 @@
       "ln": "Goldbeck",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 4,
@@ -186,7 +186,7 @@
       "ln": "Seals",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 17,
@@ -241,7 +241,7 @@
       "ln": "Macon",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 19,
@@ -296,7 +296,7 @@
       "ln": "Peer",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 8,
@@ -351,7 +351,7 @@
       "ln": "Serna",
       "pos": "C",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 16,
@@ -406,7 +406,7 @@
       "ln": "Lawrence",
       "pos": "RHP",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -454,7 +454,7 @@
       "ln": "Knutson",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 10,
@@ -509,7 +509,7 @@
       "ln": "Parker",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 10,
@@ -564,7 +564,7 @@
       "ln": "Frost",
       "pos": "OF",
       "yr": "R-Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 14,
@@ -619,7 +619,7 @@
       "ln": "Patterson",
       "pos": "INF",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 17,
@@ -674,7 +674,7 @@
       "ln": "Maisonet",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 19,
@@ -729,7 +729,7 @@
       "ln": "Ward",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 11,
@@ -784,7 +784,7 @@
       "ln": "Green",
       "pos": "RHP",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -832,7 +832,7 @@
       "ln": "George",
       "pos": "C",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 10,
@@ -887,7 +887,7 @@
       "ln": "Drew",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -935,7 +935,7 @@
       "ln": "Lohse",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -983,7 +983,7 @@
       "ln": "Gonzalez",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1031,7 +1031,7 @@
       "ln": "Woita",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 17,
@@ -1086,7 +1086,7 @@
       "ln": "Skidmore",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1134,7 +1134,7 @@
       "ln": "Durnin",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 8,
@@ -1189,7 +1189,7 @@
       "ln": "Villarreal",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1237,7 +1237,7 @@
       "ln": "Bjorn",
       "pos": "LHP",
       "yr": "R-Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1285,7 +1285,7 @@
       "ln": "Sullivan",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1333,7 +1333,7 @@
       "ln": "Fricker",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1381,7 +1381,7 @@
       "ln": "Kohlhoff",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1429,7 +1429,7 @@
       "ln": "Humbert",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 4,
@@ -1484,7 +1484,7 @@
       "ln": "Campos",
       "pos": "C",
       "yr": "Fr.",
-      "num": "38.0",
+      "num": "38",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 5,
@@ -1539,7 +1539,7 @@
       "ln": "Kehlenbrink",
       "pos": "LHP",
       "yr": "So.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1587,7 +1587,7 @@
       "ln": "Pimental",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1635,7 +1635,7 @@
       "ln": "Sobel",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1683,7 +1683,7 @@
       "ln": "Rosand",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "47.0",
+      "num": "47",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1731,7 +1731,7 @@
       "ln": "Muckley",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "48.0",
+      "num": "48",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1779,7 +1779,7 @@
       "ln": "Salas",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "49.0",
+      "num": "49",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1827,7 +1827,7 @@
       "ln": "Dohrmann",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "51.0",
+      "num": "51",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1875,7 +1875,7 @@
       "ln": "McDevitt",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "54.0",
+      "num": "54",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
       "season_pitching": {
@@ -1923,7 +1923,7 @@
       "ln": "Jordan",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "88.0",
+      "num": "88",
       "school": "University of Missouri, Columbia",
       "season_batting": {
         "g": 5,

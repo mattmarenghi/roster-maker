@@ -1,15 +1,15 @@
 {
   "school": "The Citadel",
-  "base_url": "https://citadelsports.com",
+  "base_url": "https://www.citadelsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T18:48:16.049844Z",
+  "generated_at": "2026-03-17T02:29:42.705371Z",
   "record": "8-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "UT Martin",
     "result": "L 4-8",
-    "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
-    "recap_url": "https://citadelsports.com/news/2026/3/15/baseball-the-citadel-takes-weekend-series-over-ut-martin-8-4.aspx",
+    "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
+    "recap_url": "https://www.citadelsports.com/news/2026/3/15/baseball-the-citadel-takes-weekend-series-over-ut-martin-8-4.aspx",
     "recap_headline": "The Citadel Athletics",
     "recap_text": ""
   },
@@ -21,7 +21,7 @@
       "ln": "Barbrey",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "0.0",
+      "num": "0",
       "school": "The Citadel",
       "season_batting": {
         "g": 15,
@@ -58,7 +58,7 @@
       "ln": "Tobin",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "1.0",
+      "num": "1",
       "school": "The Citadel",
       "season_batting": {
         "g": 17,
@@ -89,7 +89,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -110,7 +110,7 @@
       "ln": "Williams",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "The Citadel",
       "season_batting": {
         "g": 17,
@@ -141,7 +141,7 @@
         "date": "2026-03-14",
         "opponent": "UT Martin",
         "result": "L 3-22",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -162,7 +162,7 @@
       "ln": "Dansky",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "3.0",
+      "num": "3",
       "school": "The Citadel",
       "season_batting": {
         "g": 6,
@@ -199,7 +199,7 @@
       "ln": "Fulmer",
       "pos": "C",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "The Citadel",
       "season_batting": {
         "g": 12,
@@ -230,7 +230,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -251,7 +251,7 @@
       "ln": "Kahl",
       "pos": "1B",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "The Citadel",
       "season_batting": {
         "g": 6,
@@ -288,7 +288,7 @@
       "ln": "Brash",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -314,7 +314,7 @@
         "date": "2026-03-14",
         "opponent": "UT Martin",
         "result": "L 3-22",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -344,7 +344,7 @@
       "ln": "Hodges",
       "pos": "UTIL",
       "yr": "Fr.",
-      "num": "10.0",
+      "num": "10",
       "school": "The Citadel",
       "season_batting": {
         "g": 9,
@@ -381,7 +381,7 @@
       "ln": "Buffkin",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -407,7 +407,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -437,7 +437,7 @@
       "ln": "Brown",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -463,7 +463,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -493,7 +493,7 @@
       "ln": "Bottar",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -525,7 +525,7 @@
       "ln": "Platte",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -557,7 +557,7 @@
       "ln": "Proctor",
       "pos": "UTIL",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "The Citadel",
       "season_batting": {
         "g": 1,
@@ -594,7 +594,7 @@
       "ln": "Baber",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "The Citadel",
       "season_batting": {
         "g": 2,
@@ -631,7 +631,7 @@
       "ln": "Kiser",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -663,7 +663,7 @@
       "ln": "Lively",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "The Citadel",
       "season_batting": {
         "g": 17,
@@ -694,7 +694,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -715,7 +715,7 @@
       "ln": "Coulter",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -747,7 +747,7 @@
       "ln": "Stratis",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "20.0",
+      "num": "20",
       "school": "The Citadel",
       "season_batting": {
         "g": 14,
@@ -778,7 +778,7 @@
         "date": "2026-03-13",
         "opponent": "UT Martin",
         "result": "W 3-2",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -799,7 +799,7 @@
       "ln": "Daniels",
       "pos": "C/UT",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "The Citadel",
       "season_batting": {
         "g": 16,
@@ -830,7 +830,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -851,7 +851,7 @@
       "ln": "Gibson",
       "pos": "RHP/UTIL",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "The Citadel",
       "season_batting": {
         "g": 10,
@@ -900,7 +900,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -930,7 +930,7 @@
       "ln": "Holmes",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "23.0",
+      "num": "23",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -956,7 +956,7 @@
         "date": "2026-03-13",
         "opponent": "UT Martin",
         "result": "W 3-2",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -986,7 +986,7 @@
       "ln": "Bowers",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1012,7 +1012,7 @@
         "date": "2026-03-14",
         "opponent": "UT Martin",
         "result": "L 3-22",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1042,7 +1042,7 @@
       "ln": "Hunt",
       "pos": "1B",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "The Citadel",
       "season_batting": {
         "g": 16,
@@ -1079,7 +1079,7 @@
       "ln": "Patel",
       "pos": "RHP/INF",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "The Citadel",
       "season_batting": {
         "g": 17,
@@ -1116,7 +1116,7 @@
       "ln": "Poppell",
       "pos": "OF",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "The Citadel",
       "season_batting": {
         "g": 10,
@@ -1147,7 +1147,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1168,7 +1168,7 @@
       "ln": "Cadiz",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "The Citadel",
       "season_batting": {
         "g": 1,
@@ -1199,7 +1199,7 @@
         "date": "2026-03-14",
         "opponent": "UT Martin",
         "result": "L 3-22",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -1220,7 +1220,7 @@
       "ln": "Anderson",
       "pos": "UT",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "The Citadel",
       "season_batting": {
         "g": 16,
@@ -1251,7 +1251,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -1272,7 +1272,7 @@
       "ln": "Van Slooten",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "33.0",
+      "num": "33",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1298,7 +1298,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1328,7 +1328,7 @@
       "ln": "Davis",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "34.0",
+      "num": "34",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1354,7 +1354,7 @@
         "date": "2026-03-13",
         "opponent": "UT Martin",
         "result": "W 3-2",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1384,7 +1384,7 @@
       "ln": "Davis",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1410,7 +1410,7 @@
         "date": "2026-03-13",
         "opponent": "UT Martin",
         "result": "W 3-2",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1440,7 +1440,7 @@
       "ln": "Yokum",
       "pos": "LHP",
       "yr": "R-Fr.",
-      "num": "38.0",
+      "num": "38",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1472,7 +1472,7 @@
       "ln": "Trone",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "39.0",
+      "num": "39",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1498,7 +1498,7 @@
         "date": "2026-03-13",
         "opponent": "UT Martin",
         "result": "W 3-2",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12017&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12017&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1528,7 +1528,7 @@
       "ln": "Ballard",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "40.0",
+      "num": "40",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1554,7 +1554,7 @@
         "date": "2026-03-14",
         "opponent": "UT Martin",
         "result": "L 3-22",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12018&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12018&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1584,7 +1584,7 @@
       "ln": "Foley",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "42.0",
+      "num": "42",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1616,7 +1616,7 @@
       "ln": "Deacon",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
@@ -1642,7 +1642,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1672,7 +1672,7 @@
       "ln": "Gibson",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "52.0",
+      "num": "52",
       "school": "The Citadel",
       "season_batting": {
         "g": 10,
@@ -1721,7 +1721,7 @@
         "date": "2026-03-15",
         "opponent": "UT Martin",
         "result": "L 4-8",
-        "boxscore_url": "https://citadelsports.com/boxscore.aspx?id=12019&path=baseball",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=12019&path=",
         "batting": {
           "ab": 0,
           "r": 0,

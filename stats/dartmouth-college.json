@@ -2,7 +2,7 @@
   "school": "Dartmouth College",
   "base_url": "https://www.dartmouthsports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:03:18.307222Z",
+  "generated_at": "2026-03-17T02:11:04.629445Z",
   "record": "3-7",
   "most_recent_game": {
     "date": "2026-03-08",
@@ -21,7 +21,7 @@
       "ln": "Puig",
       "pos": "SS",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 10,
@@ -76,7 +76,7 @@
       "ln": "Ba\u00f1ez",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 9,
@@ -131,7 +131,7 @@
       "ln": "Suarez",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 9,
@@ -186,7 +186,7 @@
       "ln": "Rush",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 8,
@@ -241,7 +241,7 @@
       "ln": "DeMastrie",
       "pos": "C",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 10,
@@ -296,7 +296,7 @@
       "ln": "Andersen",
       "pos": "IF/OF",
       "yr": "Fy.",
-      "num": "9.0",
+      "num": "9",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 9,
@@ -351,7 +351,7 @@
       "ln": "Espiritu-Niswonger",
       "pos": "C",
       "yr": "Fy.",
-      "num": "10.0",
+      "num": "10",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 4,
@@ -406,7 +406,7 @@
       "ln": "Di Corrado",
       "pos": "IF/OF",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 10,
@@ -461,7 +461,7 @@
       "ln": "Kugler",
       "pos": "RHP",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -509,7 +509,7 @@
       "ln": "Plummer",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -557,7 +557,7 @@
       "ln": "Albert",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -605,7 +605,7 @@
       "ln": "Smith",
       "pos": "IF",
       "yr": "Fy.",
-      "num": "16.0",
+      "num": "16",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 5,
@@ -660,7 +660,7 @@
       "ln": "Begert",
       "pos": "OF",
       "yr": "Fy.",
-      "num": "17.0",
+      "num": "17",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 8,
@@ -715,7 +715,7 @@
       "ln": "Murray",
       "pos": "OF",
       "yr": "Fy.",
-      "num": "19.0",
+      "num": "19",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 9,
@@ -770,7 +770,7 @@
       "ln": "Riess",
       "pos": "CF",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 8,
@@ -825,7 +825,7 @@
       "ln": "Klaric-Schell",
       "pos": "RHP",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -873,7 +873,7 @@
       "ln": "Isler",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -921,7 +921,7 @@
       "ln": "Burke",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -969,7 +969,7 @@
       "ln": "Miller",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 8,
@@ -1024,7 +1024,7 @@
       "ln": "Rodriguez",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 10,
@@ -1079,7 +1079,7 @@
       "ln": "Parsky",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "27.0",
+      "num": "27",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -1127,7 +1127,7 @@
       "ln": "Lombana",
       "pos": "LHP",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -1175,7 +1175,7 @@
       "ln": "Sejnoha",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "Dumsky",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -1271,7 +1271,7 @@
       "ln": "Matoush",
       "pos": "LHP",
       "yr": "Fy.",
-      "num": "36.0",
+      "num": "36",
       "school": "Dartmouth College",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "37.0",
+      "num": "37",
       "school": "Dartmouth College",
       "season_batting": {
         "g": 5,

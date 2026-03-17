@@ -2,7 +2,7 @@
   "school": "Wright State University",
   "base_url": "https://www.wsuraiders.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:55:22.586106Z",
+  "generated_at": "2026-03-17T02:48:32.809916Z",
   "record": "5-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Falkenstein",
       "pos": "OF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Wright State University",
       "season_batting": {
         "g": 6,
@@ -76,7 +76,7 @@
       "ln": "Blomquist",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "Wright State University",
       "season_batting": {
         "g": 15,
@@ -131,7 +131,7 @@
       "ln": "Gregory",
       "pos": "OF/INF",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Wright State University",
       "season_batting": {
         "g": 15,
@@ -186,7 +186,7 @@
       "ln": "Manley",
       "pos": "C",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Wright State University",
       "season_batting": {
         "g": 9,
@@ -241,7 +241,7 @@
       "ln": "Cassell",
       "pos": "C",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Wright State University",
       "season_batting": {
         "g": 1,
@@ -296,7 +296,7 @@
       "ln": "Fultz",
       "pos": "INF/C",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Wright State University",
       "season_batting": {
         "g": 16,
@@ -351,7 +351,7 @@
       "ln": "Peltier",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Wright State University",
       "season_batting": {
         "g": 17,
@@ -406,7 +406,7 @@
       "ln": "Thompson",
       "pos": "LHP",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -454,7 +454,7 @@
       "ln": "Warren",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Wright State University",
       "season_batting": {
         "g": 17,
@@ -509,7 +509,7 @@
       "ln": "Denby",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Wright State University",
       "season_batting": {
         "g": 6,
@@ -564,7 +564,7 @@
       "ln": "Duncan",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Wright State University",
       "season_batting": {
         "g": 16,
@@ -619,7 +619,7 @@
       "ln": "Lax",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -667,7 +667,7 @@
       "ln": "Paplanus",
       "pos": "RHP",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -715,7 +715,7 @@
       "ln": "Hartzell",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -763,7 +763,7 @@
       "ln": "Papay",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -811,7 +811,7 @@
       "ln": "Gilkerson",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Wright State University",
       "season_batting": {
         "g": 12,
@@ -884,7 +884,7 @@
       "ln": "Boeckmann",
       "pos": "LHP",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -932,7 +932,7 @@
       "ln": "Butler",
       "pos": "C",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Wright State University",
       "season_batting": {
         "g": 11,
@@ -987,7 +987,7 @@
       "ln": "Ehling",
       "pos": "LHP",
       "yr": "So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1035,7 +1035,7 @@
       "ln": "Robinson",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1083,7 +1083,7 @@
       "ln": "Turner",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Wright State University",
       "season_batting": {
         "g": 16,
@@ -1138,7 +1138,7 @@
       "ln": "Bilo",
       "pos": "RHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1186,7 +1186,7 @@
       "ln": "Holmstrom",
       "pos": "LHP/1B",
       "yr": "R-Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Wright State University",
       "season_batting": {
         "g": 16,
@@ -1268,7 +1268,7 @@
       "ln": "Paige",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1316,7 +1316,7 @@
       "ln": "Shaw",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1364,7 +1364,7 @@
       "ln": "Ashby",
       "pos": "RHP",
       "yr": "So.",
-      "num": "40.0",
+      "num": "40",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1412,7 +1412,7 @@
       "ln": "Johnson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1460,7 +1460,7 @@
       "ln": "Allen",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1508,7 +1508,7 @@
       "ln": "Zielinski",
       "pos": "OF/LHP",
       "yr": "Fr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {
@@ -1556,7 +1556,7 @@
       "ln": "Gilkerson",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Wright State University",
       "season_batting": {
         "g": 12,
@@ -1627,7 +1627,7 @@
       "ln": "Crall",
       "pos": "RHP",
       "yr": "So.",
-      "num": "55.0",
+      "num": "55",
       "school": "Wright State University",
       "season_batting": null,
       "season_pitching": {

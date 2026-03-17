@@ -2,7 +2,7 @@
   "school": "Wake Forest University",
   "base_url": "https://www.godeacs.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:50:00.811603Z",
+  "generated_at": "2026-03-17T02:47:08.954640Z",
   "record": "31-36",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Wentz",
       "pos": "INF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 20,
@@ -76,7 +76,7 @@
       "ln": "Ray",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -124,7 +124,7 @@
       "ln": "Stein",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 19,
@@ -179,7 +179,7 @@
       "ln": "Morningstar",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -227,7 +227,7 @@
       "ln": "Harsch",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -275,7 +275,7 @@
       "ln": "Lewis",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 20,
@@ -330,7 +330,7 @@
       "ln": "Schaaf",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 18,
@@ -385,7 +385,7 @@
       "ln": "Conte",
       "pos": "C",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 20,
@@ -440,7 +440,7 @@
       "ln": "Hawke",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 9,
@@ -495,7 +495,7 @@
       "ln": "Dallas",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -543,7 +543,7 @@
       "ln": "Costello",
       "pos": "INF",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 8,
@@ -598,7 +598,7 @@
       "ln": "Figueroa",
       "pos": "INF/OF",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 10,
@@ -653,7 +653,7 @@
       "ln": "Bagwell",
       "pos": "RHP",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -701,7 +701,7 @@
       "ln": "Williams",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 20,
@@ -756,7 +756,7 @@
       "ln": "Whysong",
       "pos": "RHP",
       "yr": "So.",
-      "num": "15.0",
+      "num": "15",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -804,7 +804,7 @@
       "ln": "Jones",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -852,7 +852,7 @@
       "ln": "Johnston",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -900,7 +900,7 @@
       "ln": "Levonas",
       "pos": "RHP",
       "yr": "So.",
-      "num": "18.0",
+      "num": "18",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -948,7 +948,7 @@
       "ln": "Dressler",
       "pos": "RHP",
       "yr": "So.",
-      "num": "19.0",
+      "num": "19",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -996,7 +996,7 @@
       "ln": "Miller",
       "pos": "OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 17,
@@ -1051,7 +1051,7 @@
       "ln": "Brennecke",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -1099,7 +1099,7 @@
       "ln": "Nicholson",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -1147,7 +1147,7 @@
       "ln": "Torres",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 1,
@@ -1202,7 +1202,7 @@
       "ln": "Costello",
       "pos": "C",
       "yr": "Fr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 8,
@@ -1257,7 +1257,7 @@
       "ln": "Schmolke",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -1305,7 +1305,7 @@
       "ln": "Bowie",
       "pos": "LHP",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -1353,7 +1353,7 @@
       "ln": "Wood",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -1385,7 +1385,7 @@
       "ln": "Marsten",
       "pos": "RHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {
@@ -1433,7 +1433,7 @@
       "ln": "Rubino",
       "pos": "INF",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 2,
@@ -1488,7 +1488,7 @@
       "ln": "Keenan",
       "pos": "C",
       "yr": "Sr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 17,
@@ -1543,7 +1543,7 @@
       "ln": "Serrano",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 13,
@@ -1598,7 +1598,7 @@
       "ln": "Preisano",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "51.0",
+      "num": "51",
       "school": "Wake Forest University",
       "season_batting": {
         "g": 10,
@@ -1653,7 +1653,7 @@
       "ln": "Bosch",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "99.0",
+      "num": "99",
       "school": "Wake Forest University",
       "season_batting": null,
       "season_pitching": {

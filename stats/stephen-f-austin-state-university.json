@@ -2,7 +2,7 @@
   "school": "Stephen F. Austin State University",
   "base_url": "https://SFAjacks.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:57:23.964905Z",
+  "generated_at": "2026-03-17T02:29:01.598220Z",
   "record": "37-44",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Bland",
       "pos": "OF",
       "yr": "So.",
-      "num": "1.0",
+      "num": "1",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 21,
@@ -76,7 +76,7 @@
       "ln": "Adkisson",
       "pos": "C",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 12,
@@ -131,7 +131,7 @@
       "ln": "DeJesus",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 7,
@@ -186,7 +186,7 @@
       "ln": "Creel",
       "pos": "C",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 20,
@@ -241,7 +241,7 @@
       "ln": "Adams",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 4,
@@ -296,7 +296,7 @@
       "ln": "Balmaceda",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -344,7 +344,7 @@
       "ln": "Black",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 15,
@@ -399,7 +399,7 @@
       "ln": "Benattar",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 6,
@@ -454,7 +454,7 @@
       "ln": "Mulcahy",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Pe\u00f1a",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 20,
@@ -557,7 +557,7 @@
       "ln": "Schneider",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 19,
@@ -612,7 +612,7 @@
       "ln": "Vidlak",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -660,7 +660,7 @@
       "ln": "Templeton",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Henning",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 20,
@@ -763,7 +763,7 @@
       "ln": "Munson",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -811,7 +811,7 @@
       "ln": "Farney",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -859,7 +859,7 @@
       "ln": "Acreman",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 13,
@@ -914,7 +914,7 @@
       "ln": "Wenske",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -962,7 +962,7 @@
       "ln": "Ibe",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 16,
@@ -1017,7 +1017,7 @@
       "ln": "Bowyer",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1065,7 +1065,7 @@
       "ln": "Swift",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 21,
@@ -1120,7 +1120,7 @@
       "ln": "Rubio",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1168,7 +1168,7 @@
       "ln": "Aslaksen",
       "pos": "C",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 2,
@@ -1223,7 +1223,7 @@
       "ln": "Greer",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1271,7 +1271,7 @@
       "ln": "LeBlanc",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Bergeron",
       "pos": "RHP",
       "yr": "So.",
-      "num": "31.0",
+      "num": "31",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1367,7 +1367,7 @@
       "ln": "Terry",
       "pos": "INF/RHP",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 4,
@@ -1449,7 +1449,7 @@
       "ln": "Elliott",
       "pos": "RHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1497,7 +1497,7 @@
       "ln": "Valdez",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1545,7 +1545,7 @@
       "ln": "James",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1593,7 +1593,7 @@
       "ln": "Poppen",
       "pos": "C",
       "yr": "Sr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 2,
@@ -1648,7 +1648,7 @@
       "ln": "Feris",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1696,7 +1696,7 @@
       "ln": "Cantua",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 18,
@@ -1751,7 +1751,7 @@
       "ln": "Tronson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1799,7 +1799,7 @@
       "ln": "Roff",
       "pos": "C",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 3,
@@ -1854,7 +1854,7 @@
       "ln": "O'Farrell",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Stephen F. Austin State University",
       "season_batting": null,
       "season_pitching": {
@@ -1902,7 +1902,7 @@
       "ln": "Smith",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "46.0",
+      "num": "46",
       "school": "Stephen F. Austin State University",
       "season_batting": {
         "g": 8,

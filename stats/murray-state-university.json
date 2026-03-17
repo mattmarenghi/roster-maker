@@ -2,7 +2,7 @@
   "school": "Murray State University",
   "base_url": "https://www.goracers.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:35:14.484978Z",
+  "generated_at": "2026-03-17T02:21:19.675341Z",
   "record": "12-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Barrett",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Murray State University",
       "season_batting": {
         "g": 11,
@@ -76,7 +76,7 @@
       "ln": "Schutte",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -124,7 +124,7 @@
       "ln": "McCoy",
       "pos": "OF",
       "yr": "R-Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Murray State University",
       "season_batting": {
         "g": 10,
@@ -161,7 +161,7 @@
       "ln": "Chisolm",
       "pos": "Util",
       "yr": "Gr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Murray State University",
       "season_batting": {
         "g": 20,
@@ -216,7 +216,7 @@
       "ln": "Hokenson",
       "pos": "OF/LHP",
       "yr": "Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Murray State University",
       "season_batting": {
         "g": 20,
@@ -298,7 +298,7 @@
       "ln": "Slade",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Murray State University",
       "season_batting": {
         "g": 18,
@@ -353,7 +353,7 @@
       "ln": "Airhart",
       "pos": "C",
       "yr": "Gr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Murray State University",
       "season_batting": {
         "g": 16,
@@ -408,7 +408,7 @@
       "ln": "Diamond",
       "pos": "UTL",
       "yr": "R-Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Murray State University",
       "season_batting": {
         "g": 3,
@@ -463,7 +463,7 @@
       "ln": "Romero",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Murray State University",
       "season_batting": {
         "g": 4,
@@ -518,7 +518,7 @@
       "ln": "Cunningham",
       "pos": "INF",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "Murray State University",
       "season_batting": {
         "g": 8,
@@ -573,7 +573,7 @@
       "ln": "Jorge",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Murray State University",
       "season_batting": {
         "g": 20,
@@ -628,7 +628,7 @@
       "ln": "Lebron",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -676,7 +676,7 @@
       "ln": "Hustedde",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -724,7 +724,7 @@
       "ln": "Lyke",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -772,7 +772,7 @@
       "ln": "Oakley",
       "pos": "RHP",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -820,7 +820,7 @@
       "ln": "Perritano",
       "pos": "INF",
       "yr": "R-Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Murray State University",
       "season_batting": {
         "g": 14,
@@ -875,7 +875,7 @@
       "ln": "Pena",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Murray State University",
       "season_batting": {
         "g": 20,
@@ -930,7 +930,7 @@
       "ln": "Guthrie",
       "pos": "C",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Murray State University",
       "season_batting": {
         "g": 8,
@@ -985,7 +985,7 @@
       "ln": "Mistone",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Murray State University",
       "season_batting": {
         "g": 20,
@@ -1040,7 +1040,7 @@
       "ln": "Ott",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Murray State University",
       "season_batting": {
         "g": 15,
@@ -1095,7 +1095,7 @@
       "ln": "Boyd",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1143,7 +1143,7 @@
       "ln": "Grabowski",
       "pos": "OF",
       "yr": "R-So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Murray State University",
       "season_batting": {
         "g": 1,
@@ -1198,7 +1198,7 @@
       "ln": "Zentko",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1246,7 +1246,7 @@
       "ln": "Chaudoin",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1294,7 +1294,7 @@
       "ln": "Patterson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1342,7 +1342,7 @@
       "ln": "Deremer",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1390,7 +1390,7 @@
       "ln": "Wajda",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1438,7 +1438,7 @@
       "ln": "Butina",
       "pos": "1B",
       "yr": "R-So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Murray State University",
       "season_batting": {
         "g": 8,
@@ -1493,7 +1493,7 @@
       "ln": "Fleming",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1541,7 +1541,7 @@
       "ln": "Slack",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1573,7 +1573,7 @@
       "ln": "Lux",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1620,8 +1620,8 @@
       "fn": "Jackson",
       "ln": "Ugo",
       "pos": "LHP",
-      "yr": "Jr.",
-      "num": "40.0",
+      "yr": "So.",
+      "num": "40",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1653,7 +1653,7 @@
       "ln": "Jury",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "42.0",
+      "num": "42",
       "school": "Murray State University",
       "season_batting": {
         "g": 1,
@@ -1708,7 +1708,7 @@
       "ln": "Rosin",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1756,7 +1756,7 @@
       "ln": "Smothers",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {
@@ -1804,7 +1804,7 @@
       "ln": "Roettgen",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Murray State University",
       "season_batting": null,
       "season_pitching": {

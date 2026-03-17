@@ -1,15 +1,15 @@
 {
   "school": "Missouri State University",
-  "base_url": "https://missouristatebears.com",
+  "base_url": "https://www.missouristatebears.com",
   "season": "2026",
-  "generated_at": "2026-03-16T18:47:37.426339Z",
+  "generated_at": "2026-03-17T02:20:28.567864Z",
   "record": "12-7",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Liberty",
     "result": "W 9-3",
-    "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
-    "recap_url": "https://missouristatebears.com/news/2026/3/15/flames-top-baseball-bears-in-series-finale.aspx",
+    "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+    "recap_url": "https://www.missouristatebears.com/news/2026/3/15/flames-top-baseball-bears-in-series-finale.aspx",
     "recap_headline": "Missouri State",
     "recap_text": ""
   },
@@ -21,7 +21,7 @@
       "ln": "Tabola",
       "pos": "C/UT",
       "yr": "",
-      "num": "1.0",
+      "num": "1",
       "school": "Missouri State University",
       "season_batting": {
         "g": 4,
@@ -58,7 +58,7 @@
       "ln": "Cermenelli",
       "pos": "IF",
       "yr": "",
-      "num": "3.0",
+      "num": "3",
       "school": "Missouri State University",
       "season_batting": {
         "g": 16,
@@ -89,7 +89,7 @@
         "date": "2026-03-13",
         "opponent": "Liberty",
         "result": "L 3-4",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -110,7 +110,7 @@
       "ln": "Ryan",
       "pos": "MIF",
       "yr": "",
-      "num": "4.0",
+      "num": "4",
       "school": "Missouri State University",
       "season_batting": {
         "g": 17,
@@ -141,7 +141,7 @@
         "date": "2026-03-14",
         "opponent": "Liberty",
         "result": "L 11-12",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -162,7 +162,7 @@
       "ln": "Roessler",
       "pos": "MIF/OF",
       "yr": "",
-      "num": "5.0",
+      "num": "5",
       "school": "Missouri State University",
       "season_batting": {
         "g": 18,
@@ -193,7 +193,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -214,7 +214,7 @@
       "ln": "Fyffe",
       "pos": "IF",
       "yr": "",
-      "num": "9.0",
+      "num": "9",
       "school": "Missouri State University",
       "season_batting": {
         "g": 17,
@@ -245,7 +245,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -266,7 +266,7 @@
       "ln": "Schaaf",
       "pos": "RHP",
       "yr": "",
-      "num": "10.0",
+      "num": "10",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -292,7 +292,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -322,7 +322,7 @@
       "ln": "Yusypchuk",
       "pos": "RHP",
       "yr": "",
-      "num": "12.0",
+      "num": "12",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -348,7 +348,7 @@
         "date": "2026-03-13",
         "opponent": "Liberty",
         "result": "L 3-4",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -378,7 +378,7 @@
       "ln": "Atkinson",
       "pos": "1B/OF",
       "yr": "",
-      "num": "13.0",
+      "num": "13",
       "school": "Missouri State University",
       "season_batting": {
         "g": 13,
@@ -415,7 +415,7 @@
       "ln": "Schell",
       "pos": "3B/RHP",
       "yr": "",
-      "num": "14.0",
+      "num": "14",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -441,7 +441,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -471,7 +471,7 @@
       "ln": "Bogenpohl",
       "pos": "OF",
       "yr": "",
-      "num": "16.0",
+      "num": "16",
       "school": "Missouri State University",
       "season_batting": {
         "g": 19,
@@ -502,7 +502,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -523,7 +523,7 @@
       "ln": "Maclaughlin",
       "pos": "LHP",
       "yr": "",
-      "num": "17.0",
+      "num": "17",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -549,7 +549,7 @@
         "date": "2026-03-14",
         "opponent": "Liberty",
         "result": "L 11-12",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -579,7 +579,7 @@
       "ln": "Carter",
       "pos": "C",
       "yr": "",
-      "num": "19.0",
+      "num": "19",
       "school": "Missouri State University",
       "season_batting": {
         "g": 10,
@@ -610,7 +610,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -631,7 +631,7 @@
       "ln": "Ash",
       "pos": "RHP",
       "yr": "",
-      "num": "21.0",
+      "num": "21",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -657,7 +657,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -687,7 +687,7 @@
       "ln": "Gollert",
       "pos": "OF/1B",
       "yr": "",
-      "num": "23.0",
+      "num": "23",
       "school": "Missouri State University",
       "season_batting": {
         "g": 19,
@@ -718,7 +718,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -739,7 +739,7 @@
       "ln": "Knight",
       "pos": "LHP/1B/OF",
       "yr": "",
-      "num": "24.0",
+      "num": "24",
       "school": "Missouri State University",
       "season_batting": {
         "g": 19,
@@ -788,7 +788,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -818,7 +818,7 @@
       "ln": "Lucas",
       "pos": "RHP",
       "yr": "",
-      "num": "25.0",
+      "num": "25",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -844,7 +844,7 @@
         "date": "2026-03-14",
         "opponent": "Liberty",
         "result": "L 11-12",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -874,7 +874,7 @@
       "ln": "Bergman",
       "pos": "C",
       "yr": "",
-      "num": "26.0",
+      "num": "26",
       "school": "Missouri State University",
       "season_batting": {
         "g": 17,
@@ -905,7 +905,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -926,7 +926,7 @@
       "ln": "McNiel",
       "pos": "LHP",
       "yr": "",
-      "num": "27.0",
+      "num": "27",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -958,7 +958,7 @@
       "ln": "Wade",
       "pos": "RHP",
       "yr": "",
-      "num": "29.0",
+      "num": "29",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -984,7 +984,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1014,7 +1014,7 @@
       "ln": "Beaman",
       "pos": "UT",
       "yr": "",
-      "num": "31.0",
+      "num": "31",
       "school": "Missouri State University",
       "season_batting": {
         "g": 16,
@@ -1045,7 +1045,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1066,7 +1066,7 @@
       "ln": "Callahan",
       "pos": "IF/OF",
       "yr": "",
-      "num": "32.0",
+      "num": "32",
       "school": "Missouri State University",
       "season_batting": {
         "g": 9,
@@ -1097,7 +1097,7 @@
         "date": "2026-03-13",
         "opponent": "Liberty",
         "result": "L 3-4",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1118,7 +1118,7 @@
       "ln": "Felder",
       "pos": "RHP",
       "yr": "",
-      "num": "34.0",
+      "num": "34",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -1144,7 +1144,7 @@
         "date": "2026-03-13",
         "opponent": "Liberty",
         "result": "L 3-4",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1174,7 +1174,7 @@
       "ln": "Kragel",
       "pos": "UT",
       "yr": "",
-      "num": "35.0",
+      "num": "35",
       "school": "Missouri State University",
       "season_batting": {
         "g": 12,
@@ -1211,7 +1211,7 @@
       "ln": "Charlton",
       "pos": "LHP",
       "yr": "",
-      "num": "36.0",
+      "num": "36",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -1237,7 +1237,7 @@
         "date": "2026-03-14",
         "opponent": "Liberty",
         "result": "L 11-12",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1267,7 +1267,7 @@
       "ln": "Spoonhour",
       "pos": "RHP",
       "yr": "",
-      "num": "43.0",
+      "num": "43",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -1293,7 +1293,7 @@
         "date": "2026-03-14",
         "opponent": "Liberty",
         "result": "L 11-12",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1323,7 +1323,7 @@
       "ln": "Sutherland",
       "pos": "IF/RHP",
       "yr": "",
-      "num": "44.0",
+      "num": "44",
       "school": "Missouri State University",
       "season_batting": {
         "g": 19,
@@ -1378,7 +1378,7 @@
       "ln": "Kramkowski",
       "pos": "RHP",
       "yr": "",
-      "num": "50.0",
+      "num": "50",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -1410,7 +1410,7 @@
       "ln": "Slater",
       "pos": "RHP",
       "yr": "",
-      "num": "88.0",
+      "num": "88",
       "school": "Missouri State University",
       "season_batting": null,
       "season_pitching": {
@@ -1436,7 +1436,7 @@
         "date": "2026-03-15",
         "opponent": "Liberty",
         "result": "W 9-3",
-        "boxscore_url": "https://missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

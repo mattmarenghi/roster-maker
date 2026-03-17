@@ -2,7 +2,7 @@
   "school": "Columbia University-Barnard College",
   "base_url": "https://www.gocolumbialions.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:01:16.275040Z",
+  "generated_at": "2026-03-17T02:10:38.070979Z",
   "record": "2-10",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -21,7 +21,7 @@
       "ln": "Slabaugh",
       "pos": "OF",
       "yr": "FY",
-      "num": "1.0",
+      "num": "1",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 6,
@@ -76,7 +76,7 @@
       "ln": "Santiago",
       "pos": "C/INF",
       "yr": "FY",
-      "num": "2.0",
+      "num": "2",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 1,
@@ -131,7 +131,7 @@
       "ln": "Fellows",
       "pos": "OF/1B",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 12,
@@ -186,7 +186,7 @@
       "ln": "Snyder",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 10,
@@ -241,7 +241,7 @@
       "ln": "Kail",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 9,
@@ -296,7 +296,7 @@
       "ln": "Harrigan",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -344,7 +344,7 @@
       "ln": "Temesvary",
       "pos": "C/INF",
       "yr": "So.",
-      "num": "9.0",
+      "num": "9",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 11,
@@ -399,7 +399,7 @@
       "ln": "Seelig",
       "pos": "RHP",
       "yr": "FY",
-      "num": "10.0",
+      "num": "10",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -447,7 +447,7 @@
       "ln": "Brewer",
       "pos": "OF/1B",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 12,
@@ -502,7 +502,7 @@
       "ln": "Huke",
       "pos": "RHP",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -550,7 +550,7 @@
       "ln": "Chadwell",
       "pos": "INF",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 12,
@@ -605,7 +605,7 @@
       "ln": "Fishel",
       "pos": "OF",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 12,
@@ -660,7 +660,7 @@
       "ln": "Taylor",
       "pos": "RHP",
       "yr": "FY",
-      "num": "20.0",
+      "num": "20",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Zhang",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -756,7 +756,7 @@
       "ln": "Lopez",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -804,7 +804,7 @@
       "ln": "Korthas",
       "pos": "LHP",
       "yr": "FY",
-      "num": "24.0",
+      "num": "24",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -852,7 +852,7 @@
       "ln": "Soske",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -900,7 +900,7 @@
       "ln": "Vogler",
       "pos": "INF",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 12,
@@ -955,7 +955,7 @@
       "ln": "Kleinhans",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -1003,7 +1003,7 @@
       "ln": "Murphy",
       "pos": "LHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -1051,7 +1051,7 @@
       "ln": "Santana",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -1099,7 +1099,7 @@
       "ln": "Sotiropoulos",
       "pos": "RHP",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -1147,7 +1147,7 @@
       "ln": "Estabrook",
       "pos": "C",
       "yr": "Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 10,
@@ -1202,7 +1202,7 @@
       "ln": "Jackson",
       "pos": "C",
       "yr": "Jr.",
-      "num": "37.0",
+      "num": "37",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 7,
@@ -1257,7 +1257,7 @@
       "ln": "Seminara",
       "pos": "INF/OF",
       "yr": "Sr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 1,
@@ -1312,7 +1312,7 @@
       "ln": "Hicks",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -1360,7 +1360,7 @@
       "ln": "Mills",
       "pos": "RHP",
       "yr": "So.",
-      "num": "45.0",
+      "num": "45",
       "school": "Columbia University-Barnard College",
       "season_batting": null,
       "season_pitching": {
@@ -1408,7 +1408,7 @@
       "ln": "Reynolds",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "57.0",
+      "num": "57",
       "school": "Columbia University-Barnard College",
       "season_batting": {
         "g": 2,

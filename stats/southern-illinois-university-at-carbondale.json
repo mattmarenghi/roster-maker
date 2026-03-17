@@ -2,7 +2,7 @@
   "school": "Southern Illinois University at Carbondale",
   "base_url": "https://www.siusalukis.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:54:47.152258Z",
+  "generated_at": "2026-03-17T02:28:11.242559Z",
   "record": "8-10",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -21,7 +21,7 @@
       "ln": "Kufa",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "0.0",
+      "num": "0",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 14,
@@ -76,7 +76,7 @@
       "ln": "Habuda",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 6,
@@ -131,7 +131,7 @@
       "ln": "Guerrero",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 18,
@@ -186,7 +186,7 @@
       "ln": "Greene",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -234,7 +234,7 @@
       "ln": "Petrucelli",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 12,
@@ -289,7 +289,7 @@
       "ln": "Sprawling",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 14,
@@ -344,7 +344,7 @@
       "ln": "McKenzie",
       "pos": "C",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 7,
@@ -399,7 +399,7 @@
       "ln": "Watson",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 14,
@@ -454,7 +454,7 @@
       "ln": "Petrey",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Hall",
       "pos": "INF/OF",
       "yr": "Sr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 15,
@@ -557,7 +557,7 @@
       "ln": "Farnum",
       "pos": "C",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 6,
@@ -612,7 +612,7 @@
       "ln": "Simay",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 5,
@@ -667,7 +667,7 @@
       "ln": "Simay",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 5,
@@ -722,7 +722,7 @@
       "ln": "De Graauw",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -770,7 +770,7 @@
       "ln": "Mylott",
       "pos": "OF/INF",
       "yr": "Gr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 15,
@@ -825,7 +825,7 @@
       "ln": "Schwalbach",
       "pos": "C/INF",
       "yr": "Sr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 11,
@@ -880,7 +880,7 @@
       "ln": "Flores",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 13,
@@ -935,7 +935,7 @@
       "ln": "Kirby",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -983,7 +983,7 @@
       "ln": "Miller",
       "pos": "RHP",
       "yr": "So.",
-      "num": "20.0",
+      "num": "20",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1031,7 +1031,7 @@
       "ln": "Halamicek",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1079,7 +1079,7 @@
       "ln": "Johnson",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1127,7 +1127,7 @@
       "ln": "Ammerman",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1175,7 +1175,7 @@
       "ln": "Evans",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "Lardi",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1271,7 +1271,7 @@
       "ln": "Shepard",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1319,7 +1319,7 @@
       "ln": "Dibble",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 3,
@@ -1374,7 +1374,7 @@
       "ln": "Hand",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1422,7 +1422,7 @@
       "ln": "Irvine",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1470,7 +1470,7 @@
       "ln": "Hargrove",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1518,7 +1518,7 @@
       "ln": "Hyneman",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "32.0",
+      "num": "32",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1566,7 +1566,7 @@
       "ln": "Savage",
       "pos": "C",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 5,
@@ -1621,7 +1621,7 @@
       "ln": "MacIntosh",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1669,7 +1669,7 @@
       "ln": "Kimball",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 8,
@@ -1740,7 +1740,7 @@
       "ln": "Smith",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {
@@ -1788,7 +1788,7 @@
       "ln": "Lofton",
       "pos": "INF",
       "yr": "Gr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 16,
@@ -1843,7 +1843,7 @@
       "ln": "Mager",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "47.0",
+      "num": "47",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": {
         "g": 3,
@@ -1898,7 +1898,7 @@
       "ln": "Wernsing",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "50.0",
+      "num": "50",
       "school": "Southern Illinois University at Carbondale",
       "season_batting": null,
       "season_pitching": {

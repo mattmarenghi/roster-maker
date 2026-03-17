@@ -2,7 +2,7 @@
   "school": "Bowling Green State University",
   "base_url": "https://www.bgsufalcons.com",
   "season": "2026",
-  "generated_at": "2026-03-16T11:51:05.613801Z",
+  "generated_at": "2026-03-17T02:07:30.368159Z",
   "record": "22-33",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Mancino",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 14,
@@ -76,7 +76,7 @@
       "ln": "Chopin",
       "pos": "OF",
       "yr": "R-Fr.",
-      "num": "4.0",
+      "num": "4",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 6,
@@ -131,7 +131,7 @@
       "ln": "Curlis",
       "pos": "INF",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 11,
@@ -186,7 +186,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -234,7 +234,7 @@
       "ln": "Sova",
       "pos": "RHP",
       "yr": "So.",
-      "num": "9.0",
+      "num": "9",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -282,7 +282,7 @@
       "ln": "Takats",
       "pos": "1B/OF",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 10,
@@ -337,7 +337,7 @@
       "ln": "Kress",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -385,7 +385,7 @@
       "ln": "Roder",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -433,7 +433,7 @@
       "ln": "Miller",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -481,7 +481,7 @@
       "ln": "Lumley",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "15.0",
+      "num": "15",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -513,7 +513,7 @@
       "ln": "Laird",
       "pos": "INF",
       "yr": "R-So.",
-      "num": "16.0",
+      "num": "16",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 3,
@@ -568,7 +568,7 @@
       "ln": "Mottice",
       "pos": "OF",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 12,
@@ -623,7 +623,7 @@
       "ln": "Scheiderer",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 12,
@@ -678,7 +678,7 @@
       "ln": "Miller",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -710,7 +710,7 @@
       "ln": "Arn",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -758,7 +758,7 @@
       "ln": "Seidel",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 17,
@@ -813,7 +813,7 @@
       "ln": "Salvione",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 16,
@@ -868,7 +868,7 @@
       "ln": "Heffernan",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -916,7 +916,7 @@
       "ln": "DiLodovico",
       "pos": "C",
       "yr": "Fr.",
-      "num": "25.0",
+      "num": "25",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 12,
@@ -971,7 +971,7 @@
       "ln": "Lotz",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1019,7 +1019,7 @@
       "ln": "Krouse",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1067,7 +1067,7 @@
       "ln": "Vickers",
       "pos": "C",
       "yr": "Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 3,
@@ -1122,7 +1122,7 @@
       "ln": "Turner",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1170,7 +1170,7 @@
       "ln": "Brown",
       "pos": "C",
       "yr": "R-Fr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 1,
@@ -1225,7 +1225,7 @@
       "ln": "Stade",
       "pos": "LHP",
       "yr": "R-Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1273,7 +1273,7 @@
       "ln": "Buchanan",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1321,7 +1321,7 @@
       "ln": "Horky",
       "pos": "C/OF",
       "yr": "R-Sr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 16,
@@ -1376,7 +1376,7 @@
       "ln": "Turner",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1408,7 +1408,7 @@
       "ln": "Papacek",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1456,7 +1456,7 @@
       "ln": "McKenzie",
       "pos": "C",
       "yr": "Sr.",
-      "num": "38.0",
+      "num": "38",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 6,
@@ -1511,7 +1511,7 @@
       "ln": "Boudreaux",
       "pos": "RHP",
       "yr": "So.",
-      "num": "39.0",
+      "num": "39",
       "school": "Bowling Green State University",
       "season_batting": null,
       "season_pitching": {
@@ -1559,7 +1559,7 @@
       "ln": "Mitta",
       "pos": "INF",
       "yr": "R-Sr.",
-      "num": "40.0",
+      "num": "40",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 17,
@@ -1614,7 +1614,7 @@
       "ln": "Birchmeier",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Bowling Green State University",
       "season_batting": {
         "g": 10,

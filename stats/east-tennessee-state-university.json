@@ -1,15 +1,15 @@
 {
   "school": "East Tennessee State University",
-  "base_url": "https://etsubucs.com",
+  "base_url": "https://www.etsubucs.com",
   "season": "2026",
-  "generated_at": "2026-03-16T18:43:40.969160Z",
+  "generated_at": "2026-03-17T02:11:48.537906Z",
   "record": "14-5",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Bradley",
     "result": "W 15-2",
-    "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
-    "recap_url": "https://etsubucs.com/news/2026/3/15/baseball-bucs-cruise-past-bradley-15-2.aspx",
+    "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+    "recap_url": "https://www.etsubucs.com/news/2026/3/15/baseball-bucs-cruise-past-bradley-15-2.aspx",
     "recap_headline": "East Tennessee State University",
     "recap_text": ""
   },
@@ -21,7 +21,7 @@
       "ln": "Palmese",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 19,
@@ -52,7 +52,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -73,7 +73,7 @@
       "ln": "Ferguson",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 19,
@@ -110,7 +110,7 @@
       "ln": "Eaton",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -136,7 +136,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -166,7 +166,7 @@
       "ln": "Galusky",
       "pos": "C",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 9,
@@ -197,7 +197,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 10-3",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -218,7 +218,7 @@
       "ln": "McCarley",
       "pos": "LHP",
       "yr": "R-Sr.",
-      "num": "5.0",
+      "num": "5",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -244,7 +244,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -274,7 +274,7 @@
       "ln": "Sorrow",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 7,
@@ -311,7 +311,7 @@
       "ln": "Ault",
       "pos": "C",
       "yr": "Fr.",
-      "num": "7.0",
+      "num": "7",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 14,
@@ -342,7 +342,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
         "batting": {
           "ab": 1,
           "r": 2,
@@ -363,7 +363,7 @@
       "ln": "Grass",
       "pos": "RHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -389,7 +389,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -419,7 +419,7 @@
       "ln": "Matlock",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 11,
@@ -456,7 +456,7 @@
       "ln": "Evans",
       "pos": "INF",
       "yr": "So.",
-      "num": "10.0",
+      "num": "10",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 8,
@@ -487,7 +487,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -508,7 +508,7 @@
       "ln": "Palmer",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "11.0",
+      "num": "11",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 13,
@@ -539,7 +539,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -560,7 +560,7 @@
       "ln": "Guanzon",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 15,
@@ -597,7 +597,7 @@
       "ln": "Melendez",
       "pos": "OF",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 19,
@@ -628,7 +628,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -649,7 +649,7 @@
       "ln": "Evans",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 8,
@@ -680,7 +680,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -701,7 +701,7 @@
       "ln": "Rolison",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -727,7 +727,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -757,7 +757,7 @@
       "ln": "Little",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 12,
@@ -794,7 +794,7 @@
       "ln": "Conner",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 19,
@@ -825,7 +825,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 10-3",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -846,7 +846,7 @@
       "ln": "Costarelli",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -872,7 +872,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -902,7 +902,7 @@
       "ln": "Scott",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -928,7 +928,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 10-3",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -958,7 +958,7 @@
       "ln": "Hill",
       "pos": "INF",
       "yr": "So.",
-      "num": "23.0",
+      "num": "23",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 7,
@@ -995,7 +995,7 @@
       "ln": "Fetterman",
       "pos": "LHP/1B",
       "yr": "R-So.",
-      "num": "24.0",
+      "num": "24",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 15,
@@ -1026,7 +1026,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 3,
           "r": 3,
@@ -1047,7 +1047,7 @@
       "ln": "Carwile",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1079,7 +1079,7 @@
       "ln": "Harpster",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1105,7 +1105,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1135,7 +1135,7 @@
       "ln": "Brosnan",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "27.0",
+      "num": "27",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1161,7 +1161,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 10-3",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1191,7 +1191,7 @@
       "ln": "Oliff",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "28.0",
+      "num": "28",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1223,7 +1223,7 @@
       "ln": "Kropis",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1255,7 +1255,7 @@
       "ln": "Bell",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "30.0",
+      "num": "30",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1287,7 +1287,7 @@
       "ln": "Cotten",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1313,7 +1313,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1343,7 +1343,7 @@
       "ln": "Curless",
       "pos": "LHP/1B",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 19,
@@ -1392,7 +1392,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "1.0",
@@ -1414,7 +1414,7 @@
       "ln": "Juarez",
       "pos": "C",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "East Tennessee State University",
       "season_batting": {
         "g": 9,
@@ -1445,7 +1445,7 @@
         "date": "2026-03-15",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12545&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12545&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -1466,7 +1466,7 @@
       "ln": "Vest",
       "pos": "RHP",
       "yr": "So.",
-      "num": "37.0",
+      "num": "37",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1492,7 +1492,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 10-3",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1522,7 +1522,7 @@
       "ln": "Jones",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "39.0",
+      "num": "39",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1548,7 +1548,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 10-3",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1578,7 +1578,7 @@
       "ln": "Byers",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "40.0",
+      "num": "40",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1604,7 +1604,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 10-3",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12692&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12692&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1634,7 +1634,7 @@
       "ln": "Thatcher",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "East Tennessee State University",
       "season_batting": null,
       "season_pitching": {
@@ -1660,7 +1660,7 @@
         "date": "2026-03-14",
         "opponent": "Bradley",
         "result": "W 15-2",
-        "boxscore_url": "https://etsubucs.com/boxscore.aspx?id=12543&path=baseball",
+        "boxscore_url": "https://www.etsubucs.com/boxscore.aspx?id=12543&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

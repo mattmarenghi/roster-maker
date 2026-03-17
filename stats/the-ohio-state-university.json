@@ -2,7 +2,7 @@
   "school": "The Ohio State University",
   "base_url": "https://ohiostatebuckeyes.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:02:27.152246Z",
+  "generated_at": "2026-03-17T02:30:46.976569Z",
   "record": "23-31",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Ellis",
       "pos": "",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Kaczmar",
       "pos": "",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 18,
@@ -131,7 +131,7 @@
       "ln": "Bemis",
       "pos": "",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 17,
@@ -186,7 +186,7 @@
       "ln": "Simpson",
       "pos": "",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 18,
@@ -241,7 +241,7 @@
       "ln": "Furcht",
       "pos": "",
       "yr": "Gr.",
-      "num": "8.0",
+      "num": "8",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 18,
@@ -296,7 +296,7 @@
       "ln": "Mangrum",
       "pos": "",
       "yr": "Gr.",
-      "num": "9.0",
+      "num": "9",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 5,
@@ -351,7 +351,7 @@
       "ln": "Weber",
       "pos": "",
       "yr": "Gr.",
-      "num": "10.0",
+      "num": "10",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -399,7 +399,7 @@
       "ln": "Vandenheuvel",
       "pos": "",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 18,
@@ -454,7 +454,7 @@
       "ln": "West",
       "pos": "",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 3,
@@ -509,7 +509,7 @@
       "ln": "Edrington",
       "pos": "",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -557,7 +557,7 @@
       "ln": "Patel",
       "pos": "",
       "yr": "R-Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -605,7 +605,7 @@
       "ln": "Eckelman",
       "pos": "",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 18,
@@ -660,7 +660,7 @@
       "ln": "Cecil",
       "pos": "",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Harvey",
       "pos": "",
       "yr": "R-So.",
-      "num": "19.0",
+      "num": "19",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 12,
@@ -763,7 +763,7 @@
       "ln": "Domke",
       "pos": "",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -811,7 +811,7 @@
       "ln": "Michalak",
       "pos": "",
       "yr": "Jr.",
-      "num": "21.0",
+      "num": "21",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -859,7 +859,7 @@
       "ln": "Herrenbruck",
       "pos": "",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -907,7 +907,7 @@
       "ln": "Carrell",
       "pos": "",
       "yr": "R-Sr.",
-      "num": "25.0",
+      "num": "25",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -955,7 +955,7 @@
       "ln": "Butler",
       "pos": "",
       "yr": "Gr.",
-      "num": "29.0",
+      "num": "29",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1003,7 +1003,7 @@
       "ln": "Copenhaver",
       "pos": "",
       "yr": "R-So.",
-      "num": "30.0",
+      "num": "30",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1051,7 +1051,7 @@
       "ln": "Marcum",
       "pos": "",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1099,7 +1099,7 @@
       "ln": "Reid",
       "pos": "",
       "yr": "Jr.",
-      "num": "34.0",
+      "num": "34",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 16,
@@ -1154,7 +1154,7 @@
       "ln": "McVicker",
       "pos": "",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1202,7 +1202,7 @@
       "ln": "Rose",
       "pos": "",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 3,
@@ -1257,7 +1257,7 @@
       "ln": "Cavaco",
       "pos": "",
       "yr": "Fr.",
-      "num": "38.0",
+      "num": "38",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 8,
@@ -1312,7 +1312,7 @@
       "ln": "Zamora",
       "pos": "",
       "yr": "Jr.",
-      "num": "41.0",
+      "num": "41",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1360,7 +1360,7 @@
       "ln": "Bauer",
       "pos": "",
       "yr": "Sr.",
-      "num": "45.0",
+      "num": "45",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1408,7 +1408,7 @@
       "ln": "Sigman",
       "pos": "",
       "yr": "Jr.",
-      "num": "47.0",
+      "num": "47",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1456,7 +1456,7 @@
       "ln": "Kuzniewski",
       "pos": "",
       "yr": "So.",
-      "num": "48.0",
+      "num": "48",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1504,7 +1504,7 @@
       "ln": "Fisher",
       "pos": "",
       "yr": "Fr.",
-      "num": "52.0",
+      "num": "52",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1552,7 +1552,7 @@
       "ln": "Parr",
       "pos": "",
       "yr": "Fr.",
-      "num": "53.0",
+      "num": "53",
       "school": "The Ohio State University",
       "season_batting": {
         "g": 3,
@@ -1607,7 +1607,7 @@
       "ln": "Graf",
       "pos": "",
       "yr": "Fr.",
-      "num": "54.0",
+      "num": "54",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {
@@ -1655,7 +1655,7 @@
       "ln": "Sawyer",
       "pos": "",
       "yr": "Jr.",
-      "num": "55.0",
+      "num": "55",
       "school": "The Ohio State University",
       "season_batting": null,
       "season_pitching": {

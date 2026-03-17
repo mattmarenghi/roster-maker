@@ -2,7 +2,7 @@
   "school": "University of Louisville",
   "base_url": "https://www.gocards.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:22:22.877942Z",
+  "generated_at": "2026-03-17T02:37:24.147076Z",
   "record": "14-6",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Alicea",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "0.0",
+      "num": "0",
       "school": "University of Louisville",
       "season_batting": {
         "g": 18,
@@ -76,7 +76,7 @@
       "ln": "Martin",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Louisville",
       "season_batting": {
         "g": 4,
@@ -131,7 +131,7 @@
       "ln": "Elam",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Louisville",
       "season_batting": {
         "g": 19,
@@ -186,7 +186,7 @@
       "ln": "Hisle",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Louisville",
       "season_batting": {
         "g": 18,
@@ -241,7 +241,7 @@
       "ln": "Bean",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -289,7 +289,7 @@
       "ln": "Crain",
       "pos": "OF",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Louisville",
       "season_batting": {
         "g": 18,
@@ -344,7 +344,7 @@
       "ln": "Shannon",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -392,7 +392,7 @@
       "ln": "Schweitzer",
       "pos": "RHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -440,7 +440,7 @@
       "ln": "Brown",
       "pos": "RHP",
       "yr": "So.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -488,7 +488,7 @@
       "ln": "Starke",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -536,7 +536,7 @@
       "ln": "Davis",
       "pos": "LHP/1B",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Louisville",
       "season_batting": {
         "g": 7,
@@ -618,7 +618,7 @@
       "ln": "Baker",
       "pos": "C",
       "yr": "Jr.",
-      "num": "14.0",
+      "num": "14",
       "school": "University of Louisville",
       "season_batting": {
         "g": 9,
@@ -673,7 +673,7 @@
       "ln": "Hartman",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -721,7 +721,7 @@
       "ln": "Schoenly",
       "pos": "LHP/1B",
       "yr": "Fr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Louisville",
       "season_batting": {
         "g": 3,
@@ -776,7 +776,7 @@
       "ln": "Mowry",
       "pos": "C",
       "yr": "So.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Louisville",
       "season_batting": {
         "g": 6,
@@ -831,7 +831,7 @@
       "ln": "Schlageter",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -879,7 +879,7 @@
       "ln": "Olson",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -927,7 +927,7 @@
       "ln": "Karbowski",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -975,7 +975,7 @@
       "ln": "Danilowicz",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "24.0",
+      "num": "24",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1023,7 +1023,7 @@
       "ln": "Koch",
       "pos": "RHP",
       "yr": "So.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1055,7 +1055,7 @@
       "ln": "Nugent",
       "pos": "C",
       "yr": "Jr.",
-      "num": "26.0",
+      "num": "26",
       "school": "University of Louisville",
       "season_batting": {
         "g": 17,
@@ -1110,7 +1110,7 @@
       "ln": "Hot",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Louisville",
       "season_batting": {
         "g": 20,
@@ -1165,7 +1165,7 @@
       "ln": "Michael",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1213,7 +1213,7 @@
       "ln": "Davis",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Louisville",
       "season_batting": {
         "g": 7,
@@ -1286,7 +1286,7 @@
       "ln": "Rose",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Louisville",
       "season_batting": {
         "g": 5,
@@ -1341,7 +1341,7 @@
       "ln": "Stahl",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1389,7 +1389,7 @@
       "ln": "Campbell",
       "pos": "OF",
       "yr": "So.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Louisville",
       "season_batting": {
         "g": 15,
@@ -1444,7 +1444,7 @@
       "ln": "Thomas",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "36.0",
+      "num": "36",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1492,7 +1492,7 @@
       "ln": "Gregor",
       "pos": "RHP",
       "yr": "So.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1540,7 +1540,7 @@
       "ln": "Slanker",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of Louisville",
       "season_batting": {
         "g": 14,
@@ -1595,7 +1595,7 @@
       "ln": "Freeman",
       "pos": "C",
       "yr": "Fr.",
-      "num": "43.0",
+      "num": "43",
       "school": "University of Louisville",
       "season_batting": {
         "g": 1,
@@ -1650,7 +1650,7 @@
       "ln": "Vorster",
       "pos": "RHP",
       "yr": "So.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1698,7 +1698,7 @@
       "ln": "Murphy",
       "pos": "LHP",
       "yr": "So.",
-      "num": "45.0",
+      "num": "45",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1746,7 +1746,7 @@
       "ln": "England",
       "pos": "LHP",
       "yr": "So.",
-      "num": "47.0",
+      "num": "47",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1794,7 +1794,7 @@
       "ln": "Ballard",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "48.0",
+      "num": "48",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1842,7 +1842,7 @@
       "ln": "Eberle",
       "pos": "LHP",
       "yr": "So.",
-      "num": "51.0",
+      "num": "51",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1890,7 +1890,7 @@
       "ln": "Evrard",
       "pos": "LHP",
       "yr": "So.",
-      "num": "52.0",
+      "num": "52",
       "school": "University of Louisville",
       "season_batting": null,
       "season_pitching": {
@@ -1938,7 +1938,7 @@
       "ln": "Moore",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "53.0",
+      "num": "53",
       "school": "University of Louisville",
       "season_batting": {
         "g": 20,

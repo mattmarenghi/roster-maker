@@ -2,7 +2,7 @@
   "school": "Quinnipiac University",
   "base_url": "https://www.gobobcats.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:45:06.991636Z",
+  "generated_at": "2026-03-17T02:24:55.244290Z",
   "record": "25-36",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Vancas",
       "pos": "INF",
       "yr": "FY",
-      "num": "1.0",
+      "num": "1",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 13,
@@ -76,7 +76,7 @@
       "ln": "Smith",
       "pos": "C/1B",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 8,
@@ -131,7 +131,7 @@
       "ln": "Park",
       "pos": "INF",
       "yr": "FY",
-      "num": "3.0",
+      "num": "3",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 12,
@@ -168,7 +168,7 @@
       "ln": "Camac",
       "pos": "OF",
       "yr": "FY",
-      "num": "4.0",
+      "num": "4",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 15,
@@ -223,7 +223,7 @@
       "ln": "Franconere",
       "pos": "LHP",
       "yr": "So.",
-      "num": "5.0",
+      "num": "5",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -271,7 +271,7 @@
       "ln": "Garbowski",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 16,
@@ -326,7 +326,7 @@
       "ln": "Williamson",
       "pos": "OF",
       "yr": "FY",
-      "num": "7.0",
+      "num": "7",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 16,
@@ -381,7 +381,7 @@
       "ln": "Irizarry",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 16,
@@ -436,7 +436,7 @@
       "ln": "Ulsh",
       "pos": "RHP",
       "yr": "R-Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -484,7 +484,7 @@
       "ln": "Wright",
       "pos": "RHP",
       "yr": "So.",
-      "num": "11.0",
+      "num": "11",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -532,7 +532,7 @@
       "ln": "Lajoie",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -580,7 +580,7 @@
       "ln": "Park",
       "pos": "INF",
       "yr": "So.",
-      "num": "13.0",
+      "num": "13",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 12,
@@ -635,7 +635,7 @@
       "ln": "Hromada",
       "pos": "C",
       "yr": "FY",
-      "num": "16.0",
+      "num": "16",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 2,
@@ -690,7 +690,7 @@
       "ln": "Hiller",
       "pos": "RHP",
       "yr": "FY",
-      "num": "17.0",
+      "num": "17",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -738,7 +738,7 @@
       "ln": "Pazdera",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -786,7 +786,7 @@
       "ln": "Edvardsen",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 3,
@@ -841,7 +841,7 @@
       "ln": "Freed",
       "pos": "RHP",
       "yr": "FY",
-      "num": "21.0",
+      "num": "21",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -889,7 +889,7 @@
       "ln": "Seibel",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -937,7 +937,7 @@
       "ln": "Constable",
       "pos": "C/OF",
       "yr": "R-So.",
-      "num": "23.0",
+      "num": "23",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 9,
@@ -992,7 +992,7 @@
       "ln": "Nilsen",
       "pos": "CIF",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 5,
@@ -1047,7 +1047,7 @@
       "ln": "Nilsen",
       "pos": "1B",
       "yr": "So.",
-      "num": "25.0",
+      "num": "25",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 5,
@@ -1102,7 +1102,7 @@
       "ln": "Zeisloft",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 10,
@@ -1157,7 +1157,7 @@
       "ln": "Poncini",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -1205,7 +1205,7 @@
       "ln": "Labuda",
       "pos": "RHP",
       "yr": "So.",
-      "num": "33.0",
+      "num": "33",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -1253,7 +1253,7 @@
       "ln": "Alduino",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "34.0",
+      "num": "34",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -1301,7 +1301,7 @@
       "ln": "Balcom",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -1349,7 +1349,7 @@
       "ln": "Marino",
       "pos": "OF",
       "yr": "Gr.",
-      "num": "36.0",
+      "num": "36",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 9,
@@ -1404,7 +1404,7 @@
       "ln": "Belecky",
       "pos": "RHP",
       "yr": "FY",
-      "num": "37.0",
+      "num": "37",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {
@@ -1452,7 +1452,7 @@
       "ln": "Balcer",
       "pos": "OF/1B",
       "yr": "Jr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 15,
@@ -1507,7 +1507,7 @@
       "ln": "Ametrano",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "44.0",
+      "num": "44",
       "school": "Quinnipiac University",
       "season_batting": {
         "g": 3,
@@ -1544,7 +1544,7 @@
       "ln": "Rubayo",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Quinnipiac University",
       "season_batting": null,
       "season_pitching": {

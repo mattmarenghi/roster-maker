@@ -2,7 +2,7 @@
   "school": "North Carolina State University",
   "base_url": "https://www.gopack.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:38:03.687645Z",
+  "generated_at": "2026-03-17T02:22:23.274057Z",
   "record": "50-56",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Nixon",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "0.0",
+      "num": "0",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 20,
@@ -76,7 +76,7 @@
       "ln": "Johnson",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "1.0",
+      "num": "1",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 19,
@@ -131,7 +131,7 @@
       "ln": "Ryan",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 20,
@@ -186,7 +186,7 @@
       "ln": "Serrano",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 8,
@@ -241,7 +241,7 @@
       "ln": "Johnson",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 19,
@@ -296,7 +296,7 @@
       "ln": "Bargo",
       "pos": "UTL",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 13,
@@ -351,7 +351,7 @@
       "ln": "Fraasman",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 19,
@@ -406,7 +406,7 @@
       "ln": "Garino",
       "pos": "RHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -454,7 +454,7 @@
       "ln": "Manuel",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "10.0",
+      "num": "10",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -502,7 +502,7 @@
       "ln": "Bonn",
       "pos": "C",
       "yr": "R-Fr.",
-      "num": "11.0",
+      "num": "11",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 10,
@@ -557,7 +557,7 @@
       "ln": "Bentley",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "12.0",
+      "num": "12",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 4,
@@ -612,7 +612,7 @@
       "ln": "Wiggins",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "13.0",
+      "num": "13",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 13,
@@ -667,7 +667,7 @@
       "ln": "Head",
       "pos": "OF",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 20,
@@ -722,7 +722,7 @@
       "ln": "Lanphere",
       "pos": "C",
       "yr": "R-Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 18,
@@ -777,7 +777,7 @@
       "ln": "Black",
       "pos": "RHP",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -825,7 +825,7 @@
       "ln": "Harris",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 2,
@@ -907,7 +907,7 @@
       "ln": "Peifer",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "18.0",
+      "num": "18",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 15,
@@ -962,7 +962,7 @@
       "ln": "Andrews",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1010,7 +1010,7 @@
       "ln": "Marohn",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1058,7 +1058,7 @@
       "ln": "Hemric",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "22.0",
+      "num": "22",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1106,7 +1106,7 @@
       "ln": "DeCarlo",
       "pos": "C",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 3,
@@ -1161,7 +1161,7 @@
       "ln": "Mitchell",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 8,
@@ -1216,7 +1216,7 @@
       "ln": "Heintz",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "25.0",
+      "num": "25",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1264,7 +1264,7 @@
       "ln": "McHugh",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 20,
@@ -1319,7 +1319,7 @@
       "ln": "Consiglio",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1367,7 +1367,7 @@
       "ln": "Peissel",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "29.0",
+      "num": "29",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1415,7 +1415,7 @@
       "ln": "Nance",
       "pos": "RHP",
       "yr": "So.",
-      "num": "34.0",
+      "num": "34",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1463,7 +1463,7 @@
       "ln": "Carr",
       "pos": "RHP",
       "yr": "R-Jr.",
-      "num": "38.0",
+      "num": "38",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1511,7 +1511,7 @@
       "ln": "Dudan",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "41.0",
+      "num": "41",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1559,7 +1559,7 @@
       "ln": "Kitchings",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "47.0",
+      "num": "47",
       "school": "North Carolina State University",
       "season_batting": null,
       "season_pitching": {
@@ -1607,7 +1607,7 @@
       "ln": "Novy",
       "pos": "INF",
       "yr": "So.",
-      "num": "50.0",
+      "num": "50",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 10,
@@ -1662,7 +1662,7 @@
       "ln": "Potts",
       "pos": "LHP",
       "yr": "So.",
-      "num": "99.0",
+      "num": "99",
       "school": "North Carolina State University",
       "season_batting": {
         "g": 1,

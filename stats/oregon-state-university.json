@@ -2,7 +2,7 @@
   "school": "Oregon State University",
   "base_url": "https://osubeavers.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:41:41.862735Z",
+  "generated_at": "2026-03-17T02:23:38.260588Z",
   "record": "14-4",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Yeager",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "0.0",
+      "num": "0",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Vance",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Oregon State University",
       "season_batting": {
         "g": 13,
@@ -124,7 +124,7 @@
       "ln": "Hayes",
       "pos": "OF/INF",
       "yr": "Sr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Oregon State University",
       "season_batting": {
         "g": 15,
@@ -179,7 +179,7 @@
       "ln": "Haight",
       "pos": "OF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Oregon State University",
       "season_batting": {
         "g": 14,
@@ -234,7 +234,7 @@
       "ln": "Talt",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Oregon State University",
       "season_batting": {
         "g": 18,
@@ -289,7 +289,7 @@
       "ln": "Singer",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Oregon State University",
       "season_batting": {
         "g": 18,
@@ -344,7 +344,7 @@
       "ln": "Whitney",
       "pos": "RHP",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -392,7 +392,7 @@
       "ln": "Hubbard",
       "pos": "C",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "Oregon State University",
       "season_batting": {
         "g": 18,
@@ -447,7 +447,7 @@
       "ln": "Douglas",
       "pos": "LHP",
       "yr": "Sr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -495,7 +495,7 @@
       "ln": "Galloway",
       "pos": "C",
       "yr": "Sr.",
-      "num": "13.0",
+      "num": "13",
       "school": "Oregon State University",
       "season_batting": {
         "g": 18,
@@ -550,7 +550,7 @@
       "ln": "Inge",
       "pos": "INF",
       "yr": "So.",
-      "num": "14.0",
+      "num": "14",
       "school": "Oregon State University",
       "season_batting": {
         "g": 16,
@@ -605,7 +605,7 @@
       "ln": "VandenBrink",
       "pos": "C/INF",
       "yr": "So.",
-      "num": "15.0",
+      "num": "15",
       "school": "Oregon State University",
       "season_batting": {
         "g": 5,
@@ -660,7 +660,7 @@
       "ln": "Segura",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Porter",
       "pos": "INF/OF",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "Oregon State University",
       "season_batting": {
         "g": 8,
@@ -763,7 +763,7 @@
       "ln": "Queen",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -811,7 +811,7 @@
       "ln": "Glassco",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "Oregon State University",
       "season_batting": {
         "g": 4,
@@ -866,7 +866,7 @@
       "ln": "Proctor",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "21.0",
+      "num": "21",
       "school": "Oregon State University",
       "season_batting": {
         "g": 15,
@@ -921,7 +921,7 @@
       "ln": "Krieg",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "22.0",
+      "num": "22",
       "school": "Oregon State University",
       "season_batting": {
         "g": 18,
@@ -976,7 +976,7 @@
       "ln": "Kleinschmit",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "24.0",
+      "num": "24",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1024,7 +1024,7 @@
       "ln": "Gries-Smith",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Oregon State University",
       "season_batting": {
         "g": 4,
@@ -1079,7 +1079,7 @@
       "ln": "Vazquez",
       "pos": "INF",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "Oregon State University",
       "season_batting": {
         "g": 12,
@@ -1134,7 +1134,7 @@
       "ln": "Gregory",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1182,7 +1182,7 @@
       "ln": "Roblez",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1230,7 +1230,7 @@
       "ln": "Morris",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1278,7 +1278,7 @@
       "ln": "Hutcheson",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1326,7 +1326,7 @@
       "ln": "Scott",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1374,7 +1374,7 @@
       "ln": "Kmatz",
       "pos": "RHP",
       "yr": "So.",
-      "num": "35.0",
+      "num": "35",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1422,7 +1422,7 @@
       "ln": "Giordano",
       "pos": "RHP",
       "yr": "So.",
-      "num": "36.0",
+      "num": "36",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1470,7 +1470,7 @@
       "ln": "Nati",
       "pos": "INF/C",
       "yr": "Fr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Oregon State University",
       "season_batting": {
         "g": 1,
@@ -1525,7 +1525,7 @@
       "ln": "Edwards",
       "pos": "RHP",
       "yr": "So.",
-      "num": "50.0",
+      "num": "50",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {
@@ -1573,7 +1573,7 @@
       "ln": "Mendez",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "51.0",
+      "num": "51",
       "school": "Oregon State University",
       "season_batting": null,
       "season_pitching": {

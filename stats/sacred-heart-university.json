@@ -2,7 +2,7 @@
   "school": "Sacred Heart University",
   "base_url": "https://sacredheartpioneers.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:48:16.467998Z",
+  "generated_at": "2026-03-17T02:25:44.255314Z",
   "record": "17-23",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Martin",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 6,
@@ -76,7 +76,7 @@
       "ln": "Tallman",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 12,
@@ -131,7 +131,7 @@
       "ln": "Kidwell",
       "pos": "INF/OF",
       "yr": "So.",
-      "num": "3.0",
+      "num": "3",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 6,
@@ -186,7 +186,7 @@
       "ln": "Nolan",
       "pos": "INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 8,
@@ -241,7 +241,7 @@
       "ln": "Parker",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -289,7 +289,7 @@
       "ln": "Donohue",
       "pos": "UTIL",
       "yr": "Jr.",
-      "num": "6.0",
+      "num": "6",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 14,
@@ -344,7 +344,7 @@
       "ln": "Fitzgerald",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 14,
@@ -399,7 +399,7 @@
       "ln": "Bowes",
       "pos": "C",
       "yr": "So.",
-      "num": "8.0",
+      "num": "8",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 7,
@@ -454,7 +454,7 @@
       "ln": "Donohue",
       "pos": "UTIL",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 14,
@@ -509,7 +509,7 @@
       "ln": "Underhill",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "11.0",
+      "num": "11",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -557,7 +557,7 @@
       "ln": "Rice III",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 4,
@@ -612,7 +612,7 @@
       "ln": "Rey",
       "pos": "INF",
       "yr": "Fy.",
-      "num": "13.0",
+      "num": "13",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 8,
@@ -667,7 +667,7 @@
       "ln": "Alejandro",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "15.0",
+      "num": "15",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -715,7 +715,7 @@
       "ln": "Katsaros",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "16.0",
+      "num": "16",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -763,7 +763,7 @@
       "ln": "Link",
       "pos": "1B/OF",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 15,
@@ -818,7 +818,7 @@
       "ln": "Matuschat",
       "pos": "RHP",
       "yr": "So.",
-      "num": "19.0",
+      "num": "19",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -866,7 +866,7 @@
       "ln": "Willerer",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "21.0",
+      "num": "21",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -914,7 +914,7 @@
       "ln": "Schmutz",
       "pos": "OF",
       "yr": "Fy.",
-      "num": "22.0",
+      "num": "22",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 7,
@@ -969,7 +969,7 @@
       "ln": "Cincinnati",
       "pos": "C",
       "yr": "Gr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 12,
@@ -1024,7 +1024,7 @@
       "ln": "Peterson",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "26.0",
+      "num": "26",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -1072,7 +1072,7 @@
       "ln": "Rudolph",
       "pos": "OF",
       "yr": "Fy.",
-      "num": "27.0",
+      "num": "27",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 14,
@@ -1127,7 +1127,7 @@
       "ln": "Rogan",
       "pos": "LHP/RHP",
       "yr": "Jr.",
-      "num": "28.0",
+      "num": "28",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -1175,7 +1175,7 @@
       "ln": "Yorke",
       "pos": "INF",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 11,
@@ -1230,7 +1230,7 @@
       "ln": "Schueller",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "30.0",
+      "num": "30",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -1278,7 +1278,7 @@
       "ln": "Hawkins",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "33.0",
+      "num": "33",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -1326,7 +1326,7 @@
       "ln": "Emrich",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "34.0",
+      "num": "34",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -1374,7 +1374,7 @@
       "ln": "Cook",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Sacred Heart University",
       "season_batting": {
         "g": 16,
@@ -1429,7 +1429,7 @@
       "ln": "Trantino",
       "pos": "LHP",
       "yr": "So.",
-      "num": "37.0",
+      "num": "37",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -1477,7 +1477,7 @@
       "ln": "Saxenmeyer",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "39.0",
+      "num": "39",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {
@@ -1525,7 +1525,7 @@
       "ln": "Sager",
       "pos": "RHP",
       "yr": "Fy.",
-      "num": "45.0",
+      "num": "45",
       "school": "Sacred Heart University",
       "season_batting": null,
       "season_pitching": {

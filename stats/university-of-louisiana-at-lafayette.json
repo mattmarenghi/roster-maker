@@ -2,7 +2,7 @@
   "school": "University of Louisiana at Lafayette",
   "base_url": "https://www.ragincajuns.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:21:22.595228Z",
+  "generated_at": "2026-03-17T02:37:06.626703Z",
   "record": "40-55",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Mandino",
       "pos": "OF/LHP",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 20,
@@ -76,7 +76,7 @@
       "ln": "LaSalle",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 14,
@@ -131,7 +131,7 @@
       "ln": "Spalitta",
       "pos": "C",
       "yr": "Jr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 19,
@@ -186,7 +186,7 @@
       "ln": "Dobson",
       "pos": "IF",
       "yr": "R-Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 6,
@@ -241,7 +241,7 @@
       "ln": "Collins",
       "pos": "OF",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 13,
@@ -296,7 +296,7 @@
       "ln": "Hebert",
       "pos": "OF",
       "yr": "So.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 17,
@@ -351,7 +351,7 @@
       "ln": "Amedee",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 20,
@@ -406,7 +406,7 @@
       "ln": "Markle",
       "pos": "IF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 20,
@@ -461,7 +461,7 @@
       "ln": "Hernandez",
       "pos": "IF",
       "yr": "Sr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 20,
@@ -516,7 +516,7 @@
       "ln": "Roman",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -564,7 +564,7 @@
       "ln": "Carter",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -612,7 +612,7 @@
       "ln": "Brasch",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "15.0",
+      "num": "15",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -660,7 +660,7 @@
       "ln": "Smith",
       "pos": "RHP",
       "yr": "So.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -708,7 +708,7 @@
       "ln": "Pruitt",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -756,7 +756,7 @@
       "ln": "Tollett",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -804,7 +804,7 @@
       "ln": "Bellard",
       "pos": "OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 9,
@@ -859,7 +859,7 @@
       "ln": "Galt",
       "pos": "IF",
       "yr": "So.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 10,
@@ -914,7 +914,7 @@
       "ln": "LaCava",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 2,
@@ -969,7 +969,7 @@
       "ln": "Rodriguez",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 20,
@@ -1024,7 +1024,7 @@
       "ln": "Taylor",
       "pos": "RHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -1072,7 +1072,7 @@
       "ln": "Papenbrock",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "32.0",
+      "num": "32",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -1120,7 +1120,7 @@
       "ln": "Wilson",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -1168,7 +1168,7 @@
       "ln": "Pearson",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "34.0",
+      "num": "34",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -1216,7 +1216,7 @@
       "ln": "Herrmann",
       "pos": "LHP",
       "yr": "Gr.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -1264,7 +1264,7 @@
       "ln": "Alfonso",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "40.0",
+      "num": "40",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -1312,7 +1312,7 @@
       "ln": "Flanagan",
       "pos": "LHP",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "University of Louisiana at Lafayette",
       "season_batting": null,
       "season_pitching": {
@@ -1360,7 +1360,7 @@
       "ln": "Lewis",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "42.0",
+      "num": "42",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 16,
@@ -1415,7 +1415,7 @@
       "ln": "Lim",
       "pos": "IF",
       "yr": "Fr.",
-      "num": "44.0",
+      "num": "44",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 8,
@@ -1470,7 +1470,7 @@
       "ln": "Brown",
       "pos": "RHP/C",
       "yr": "Fr.",
-      "num": "45.0",
+      "num": "45",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 20,
@@ -1552,7 +1552,7 @@
       "ln": "Torres",
       "pos": "C",
       "yr": "5th",
-      "num": "47.0",
+      "num": "47",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
         "g": 7,

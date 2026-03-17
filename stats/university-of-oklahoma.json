@@ -2,7 +2,7 @@
   "school": "University of Oklahoma",
   "base_url": "https://soonersports.com",
   "season": "2026",
-  "generated_at": "2026-03-16T13:34:03.937914Z",
+  "generated_at": "2026-03-17T02:41:37.320447Z",
   "record": "62-67",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Walk",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "1.0",
+      "num": "1",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 17,
@@ -76,7 +76,7 @@
       "ln": "Davis",
       "pos": "INF",
       "yr": "So.",
-      "num": "2.0",
+      "num": "2",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 4,
@@ -131,7 +131,7 @@
       "ln": "Brumbaugh",
       "pos": "UTL",
       "yr": "Sr.",
-      "num": "3.0",
+      "num": "3",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 6,
@@ -186,7 +186,7 @@
       "ln": "Blair",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "4.0",
+      "num": "4",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 14,
@@ -241,7 +241,7 @@
       "ln": "Stevens",
       "pos": "OF/LHP",
       "yr": "Jr.",
-      "num": "5.0",
+      "num": "5",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 14,
@@ -296,7 +296,7 @@
       "ln": "Branch",
       "pos": "INF",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 19,
@@ -351,7 +351,7 @@
       "ln": "Willits",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "7.0",
+      "num": "7",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 19,
@@ -406,7 +406,7 @@
       "ln": "Walters",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 9,
@@ -461,7 +461,7 @@
       "ln": "Johnson",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "9.0",
+      "num": "9",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 20,
@@ -534,7 +534,7 @@
       "ln": "Brock",
       "pos": "C/OF",
       "yr": "Jr.",
-      "num": "10.0",
+      "num": "10",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 19,
@@ -589,7 +589,7 @@
       "ln": "Prado",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "11.0",
+      "num": "11",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 9,
@@ -644,7 +644,7 @@
       "ln": "Leon",
       "pos": "RHP",
       "yr": "So.",
-      "num": "12.0",
+      "num": "12",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -692,7 +692,7 @@
       "ln": "Larkin",
       "pos": "UTL",
       "yr": "Fr.",
-      "num": "13.0",
+      "num": "13",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 10,
@@ -747,7 +747,7 @@
       "ln": "Tockey",
       "pos": "INF",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 13,
@@ -802,7 +802,7 @@
       "ln": "Harris",
       "pos": "OF",
       "yr": "Jr.",
-      "num": "17.0",
+      "num": "17",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 18,
@@ -857,7 +857,7 @@
       "ln": "Jones",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "18.0",
+      "num": "18",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -905,7 +905,7 @@
       "ln": "Gambill",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "20.0",
+      "num": "20",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 18,
@@ -960,7 +960,7 @@
       "ln": "Dickerson",
       "pos": "OF",
       "yr": "So.",
-      "num": "21.0",
+      "num": "21",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 14,
@@ -1015,7 +1015,7 @@
       "ln": "Mercurius",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "22.0",
+      "num": "22",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1063,7 +1063,7 @@
       "ln": "Mercurius",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1111,7 +1111,7 @@
       "ln": "Bixby",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "25.0",
+      "num": "25",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1159,7 +1159,7 @@
       "ln": "Rerick",
       "pos": "RHP",
       "yr": "So.",
-      "num": "27.0",
+      "num": "27",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1207,7 +1207,7 @@
       "ln": "Barfield",
       "pos": "LHP",
       "yr": "So.",
-      "num": "29.0",
+      "num": "29",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1255,7 +1255,7 @@
       "ln": "Catalano",
       "pos": "RHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1303,7 +1303,7 @@
       "ln": "Johnson",
       "pos": "LHP",
       "yr": "Jr.",
-      "num": "31.0",
+      "num": "31",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 20,
@@ -1374,7 +1374,7 @@
       "ln": "Williams",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "33.0",
+      "num": "33",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1422,7 +1422,7 @@
       "ln": "Bodin",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1470,7 +1470,7 @@
       "ln": "Wesloski",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "37.0",
+      "num": "37",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1518,7 +1518,7 @@
       "ln": "Collier",
       "pos": "LHP",
       "yr": "So.",
-      "num": "39.0",
+      "num": "39",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1566,7 +1566,7 @@
       "ln": "Hensley",
       "pos": "RHP",
       "yr": "Gr.",
-      "num": "42.0",
+      "num": "42",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1614,7 +1614,7 @@
       "ln": "Lachance",
       "pos": "C",
       "yr": "Jr.",
-      "num": "48.0",
+      "num": "48",
       "school": "University of Oklahoma",
       "season_batting": {
         "g": 19,
@@ -1669,7 +1669,7 @@
       "ln": "Cleveland",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "49.0",
+      "num": "49",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1717,7 +1717,7 @@
       "ln": "Smithburg",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "54.0",
+      "num": "54",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {
@@ -1765,7 +1765,7 @@
       "ln": "Rager",
       "pos": "LHP/INF",
       "yr": "Fr.",
-      "num": "99.0",
+      "num": "99",
       "school": "University of Oklahoma",
       "season_batting": null,
       "season_pitching": {

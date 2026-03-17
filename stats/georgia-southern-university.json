@@ -2,7 +2,7 @@
   "school": "Georgia Southern University",
   "base_url": "https://gseagles.com",
   "season": "2026",
-  "generated_at": "2026-03-16T12:13:21.203081Z",
+  "generated_at": "2026-03-17T02:14:12.894884Z",
   "record": "5-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -21,7 +21,7 @@
       "ln": "Griffis",
       "pos": "RHP/INF",
       "yr": "Fr.",
-      "num": "0.0",
+      "num": "00",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -69,7 +69,7 @@
       "ln": "Davis",
       "pos": "OF/LHP",
       "yr": "Fr.",
-      "num": "2.0",
+      "num": "2",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 9,
@@ -142,7 +142,7 @@
       "ln": "Wells",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "3.0",
+      "num": "3",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 8,
@@ -197,7 +197,7 @@
       "ln": "Myers",
       "pos": "INF",
       "yr": "So.",
-      "num": "4.0",
+      "num": "4",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 19,
@@ -252,7 +252,7 @@
       "ln": "Christman",
       "pos": "C/OF",
       "yr": "Fr.",
-      "num": "5.0",
+      "num": "5",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 11,
@@ -307,7 +307,7 @@
       "ln": "Kalkbrenner",
       "pos": "RHP",
       "yr": "So.",
-      "num": "6.0",
+      "num": "6",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -355,7 +355,7 @@
       "ln": "Trammell",
       "pos": "OF",
       "yr": "R-Sr.",
-      "num": "7.0",
+      "num": "7",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 14,
@@ -410,7 +410,7 @@
       "ln": "Jordan",
       "pos": "INF",
       "yr": "Jr.",
-      "num": "8.0",
+      "num": "8",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 19,
@@ -465,7 +465,7 @@
       "ln": "McCoy",
       "pos": "OF/RHP",
       "yr": "R-Sr.",
-      "num": "9.0",
+      "num": "9",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 19,
@@ -547,7 +547,7 @@
       "ln": "Gazaway",
       "pos": "OF",
       "yr": "Fr.",
-      "num": "11.0",
+      "num": "11",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 17,
@@ -602,7 +602,7 @@
       "ln": "Edwards",
       "pos": "C/OF",
       "yr": "Fr.",
-      "num": "12.0",
+      "num": "12",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 13,
@@ -657,7 +657,7 @@
       "ln": "Thompson",
       "pos": "OF/1B",
       "yr": "Fr.",
-      "num": "14.0",
+      "num": "14",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 15,
@@ -712,7 +712,7 @@
       "ln": "Jaime",
       "pos": "OF",
       "yr": "Sr.",
-      "num": "16.0",
+      "num": "16",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 8,
@@ -767,7 +767,7 @@
       "ln": "Lewis",
       "pos": "RHP",
       "yr": "R-So.",
-      "num": "17.0",
+      "num": "17",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -815,7 +815,7 @@
       "ln": "Prozny",
       "pos": "OF/MIF",
       "yr": "R-Fr.",
-      "num": "18.0",
+      "num": "18",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 18,
@@ -870,7 +870,7 @@
       "ln": "Senese",
       "pos": "INF",
       "yr": "R-Jr.",
-      "num": "19.0",
+      "num": "19",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 19,
@@ -925,7 +925,7 @@
       "ln": "Holder",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "23.0",
+      "num": "23",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -973,7 +973,7 @@
       "ln": "Mason",
       "pos": "RHP",
       "yr": "So.",
-      "num": "24.0",
+      "num": "24",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1021,7 +1021,7 @@
       "ln": "Leis",
       "pos": "C",
       "yr": "R-So.",
-      "num": "25.0",
+      "num": "25",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 7,
@@ -1076,7 +1076,7 @@
       "ln": "Kenty",
       "pos": "LHP",
       "yr": "R-So.",
-      "num": "26.0",
+      "num": "26",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1124,7 +1124,7 @@
       "ln": "Hartley",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "27.0",
+      "num": "27",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1172,7 +1172,7 @@
       "ln": "Davis",
       "pos": "LHP",
       "yr": "So.",
-      "num": "28.0",
+      "num": "28",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 9,
@@ -1243,7 +1243,7 @@
       "ln": "White",
       "pos": "C/1B",
       "yr": "R-Sr.",
-      "num": "29.0",
+      "num": "29",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 19,
@@ -1316,7 +1316,7 @@
       "ln": "Burke",
       "pos": "LHP",
       "yr": "So.",
-      "num": "30.0",
+      "num": "30",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1364,7 +1364,7 @@
       "ln": "Robbins",
       "pos": "LHP",
       "yr": "R-Sr.",
-      "num": "31.0",
+      "num": "31",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1412,7 +1412,7 @@
       "ln": "DeGondea",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "32.0",
+      "num": "32",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1460,7 +1460,7 @@
       "ln": "Wade",
       "pos": "LHP",
       "yr": "R-Jr.",
-      "num": "35.0",
+      "num": "35",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1508,7 +1508,7 @@
       "ln": "Garrett",
       "pos": "RHP",
       "yr": "Fr.",
-      "num": "41.0",
+      "num": "41",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1556,7 +1556,7 @@
       "ln": "Kisz",
       "pos": "INF",
       "yr": "Fr.",
-      "num": "43.0",
+      "num": "43",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 4,
@@ -1611,7 +1611,7 @@
       "ln": "Fugate",
       "pos": "RHP",
       "yr": "Jr.",
-      "num": "45.0",
+      "num": "45",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
@@ -1659,7 +1659,7 @@
       "ln": "White",
       "pos": "RHP",
       "yr": "R-Fr.",
-      "num": "47.0",
+      "num": "47",
       "school": "Georgia Southern University",
       "season_batting": {
         "g": 19,
@@ -1730,7 +1730,7 @@
       "ln": "Pendley",
       "pos": "RHP",
       "yr": "Sr.",
-      "num": "99.0",
+      "num": "99",
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
