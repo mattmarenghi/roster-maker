@@ -140,8 +140,9 @@ def extract_from_cards(soup, base_url):
     # Try several card selectors used by different SIDEARM themes
     cards = []
     for selector in [
-        lambda s: s.find_all('li', class_=lambda c: c and any('s-roster' in x for x in c)),
-        lambda s: s.find_all('div', class_=lambda c: c and any('s-roster' in x for x in c)),
+        lambda s: s.find_all('li', class_='sidearm-roster-player'),
+        lambda s: s.find_all('li', class_=lambda c: c and any('roster-player' in x or 'roster-item' in x for x in c)),
+        lambda s: s.find_all('div', class_=lambda c: c and any('roster-player' in x or 'roster-item' in x for x in c)),
         lambda s: s.find_all('li', class_='roster-list-item'),
         lambda s: s.find_all('article', class_=lambda c: c and 'roster' in ' '.join(c or [])),
         lambda s: s.find_all('div', class_=lambda c: c and 'roster-card' in ' '.join(c or [])),
@@ -155,32 +156,52 @@ def extract_from_cards(soup, base_url):
             break
 
     for card in cards:
-        # Find player name — look for named link or heading
-        name_el = None
-        for sel in [
-            lambda c: c.find('a', class_=lambda x: x and 'name' in ' '.join(x or [])),
-            lambda c: c.find(['h2', 'h3', 'h4'], class_=lambda x: x and 'name' in ' '.join(x or [])),
-            lambda c: c.find('span', class_=lambda x: x and 'name' in ' '.join(x or [])),
-            lambda c: c.find('a', href=True),
-        ]:
-            try:
-                name_el = sel(card)
-            except Exception:
-                name_el = None
-            if name_el:
-                break
+        # Find player name — try name container div first, then links with text
+        name_text = ''
+        profile = ''
 
-        if not name_el:
-            continue
+        # 1. SIDEARM name container (div/span with 'name' in class)
+        name_div = card.find(['div', 'span'], class_=lambda x: x and any('name' in c for c in x))
+        if name_div:
+            # Get name from first <a> inside, or the div text itself
+            name_a = name_div.find('a', href=True)
+            if name_a:
+                name_text = name_a.get_text(strip=True)
+                profile = abs_url(name_a['href'], base_url)
+            if not name_text:
+                name_text = name_div.get_text(strip=True)
 
-        name_text = name_el.get_text(strip=True)
+        # 2. Fallback: find <a> tags with both href and visible text
+        if not name_text:
+            for a in card.find_all('a', href=True):
+                text = a.get_text(strip=True)
+                if text and len(text) >= 3 and '/roster/' in a.get('href', ''):
+                    name_text = text
+                    profile = abs_url(a['href'], base_url)
+                    break
+
+        # 3. Last resort: any <a> with text
+        if not name_text:
+            for a in card.find_all('a', href=True):
+                text = a.get_text(strip=True)
+                if text and len(text) >= 3:
+                    name_text = text
+                    profile = abs_url(a['href'], base_url)
+                    break
+
+        # Strip jersey numbers from the start of name text (e.g. "1Colin Beazizo")
+        name_text = re.sub(r'^\d+\s*', '', name_text).strip()
+
         if not name_text or len(name_text) < 3:
             continue
         name = norm(name_text)
 
-        # Profile URL from first <a> tag with href
-        link_el = card.find('a', href=True)
-        profile = abs_url(link_el['href'], base_url) if link_el else ''
+        # Profile URL — if not found above, grab from first roster link
+        if not profile:
+            link_el = card.find('a', href=lambda h: h and '/roster/' in h)
+            if not link_el:
+                link_el = card.find('a', href=True)
+            profile = abs_url(link_el['href'], base_url) if link_el else ''
 
         # Photo URL from <img>, prefer data-src for lazy-loaded images
         photo = ''
@@ -350,22 +371,30 @@ def extract_from_nuxt(soup, base_url):
     except Exception:
         return {}, None
 
-    def resolve(v, depth=0):
-        if depth > 8 or not isinstance(v, int) or v < 0 or v >= len(data):
+    def resolve(v, seen=None, depth=0):
+        """Recursively resolve Nuxt turbo payload references, including nested dicts/lists."""
+        if seen is None:
+            seen = set()
+        if depth > 15 or not isinstance(v, int) or v < 0 or v >= len(data):
             return v
+        if v in seen:
+            return None  # circular reference
+        seen = seen | {v}
         item = data[v]
-        if isinstance(item, (str, float, bool)) or item is None:
+        if item is None or isinstance(item, (str, float, bool)):
             return item
         if isinstance(item, int):
-            return resolve(item, depth + 1)
+            return resolve(item, seen, depth + 1)
         if isinstance(item, list):
             if (len(item) == 2 and isinstance(item[0], str)
                     and item[0] in ('ShallowReactive', 'Reactive', 'Ref', 'ShallowRef')
                     and isinstance(item[1], int)):
-                return resolve(item[1], depth + 1)
-            return item
+                return resolve(item[1], seen, depth + 1)
+            return [resolve(i, seen, depth + 1) if isinstance(i, int) else i
+                    for i in item]
         if isinstance(item, dict):
-            return item
+            return {k: resolve(rv, seen, depth + 1) if isinstance(rv, int) else rv
+                    for k, rv in item.items()}
         return item
 
     # Find players list in pinia store
@@ -377,7 +406,10 @@ def extract_from_nuxt(soup, base_url):
             if isinstance(k, str) and 'players-list' in k:
                 container = resolve(v)
                 if isinstance(container, dict) and 'players' in container:
-                    players_list = resolve(container['players'])
+                    pl = container['players']
+                    if isinstance(pl, int):
+                        pl = resolve(pl)
+                    players_list = pl
                     break
         if players_list is not None:
             break
@@ -387,11 +419,13 @@ def extract_from_nuxt(soup, base_url):
 
     result = {}
     for p_idx in players_list:
-        p = resolve(p_idx)
+        p = resolve(p_idx) if isinstance(p_idx, int) else p_idx
         if not isinstance(p, dict):
             continue
 
-        player_sub = resolve(p.get('player'))
+        # Resolve the nested player sub-dict
+        player_raw = p.get('player')
+        player_sub = resolve(player_raw) if isinstance(player_raw, int) else player_raw
         if not isinstance(player_sub, dict):
             continue
 
@@ -408,12 +442,36 @@ def extract_from_nuxt(soup, base_url):
             continue
         name = norm(f"{first} {last}")
 
+        # --- Profile URL ---
+        # Try explicit fields first, then construct from slug + roster entry ID
         profile = field('profile_url') or field('profileUrl') or field('url_slug') or ''
+        if not profile:
+            slug = field('slug', player_sub)
+            roster_id = p.get('id')
+            if isinstance(roster_id, int) and roster_id < len(data):
+                roster_id = resolve(roster_id)
+            if slug and roster_id:
+                profile = f"/sports/baseball/roster/{slug}/{roster_id}"
         if profile and not profile.startswith('http'):
             profile = abs_url(profile, base_url)
 
+        # --- Photo URL ---
+        # Try explicit string fields first
         photo = (field('head_shoulder_photo') or field('headShoulderPhoto') or
                  field('photo_url') or field('photoUrl') or field('image_url') or '')
+        # OAS Sports stores photo as a dict with 'url' key
+        if not photo:
+            photo_obj = p.get('photo')
+            if isinstance(photo_obj, int):
+                photo_obj = resolve(photo_obj)
+            if isinstance(photo_obj, dict):
+                photo = photo_obj.get('url', '')
+                if isinstance(photo, int):
+                    photo = resolve(photo)
+                if not photo:
+                    photo = ''
+                else:
+                    photo = str(photo)
         if photo and not photo.startswith('http'):
             photo = abs_url(photo, base_url)
         if photo and is_placeholder(photo):
