@@ -81,7 +81,7 @@ jobs:
         run: |
           git config user.name  "Roster Enrichment Bot"
           git config user.email "roster-bot@users.noreply.github.com"
-          git add players.json COVERAGE_REPORT.md enrich_profiles_progress.json
+          git add players.json ROSTER_COVERAGE.md enrich_profiles_progress.json
           git diff --staged --quiet && echo "Nothing changed — players already fully enriched." || (
             git commit -m "Enrich player profiles $(date -u +%Y-%m-%d)" &&
             git push origin ${{ github.ref_name }}

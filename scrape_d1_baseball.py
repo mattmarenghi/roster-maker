@@ -1036,7 +1036,7 @@ def main():
         from generate_coverage_report import generate as gen_report
         print("\n  Generating coverage report …")
         gen_report(verbose=False)
-        print("  Coverage report written to COVERAGE_REPORT.md")
+        print("  Roster coverage report written to ROSTER_COVERAGE.md")
     except Exception as e:
         print(f"  (Coverage report skipped: {e})")
 
