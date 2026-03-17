@@ -7,7 +7,7 @@ Handles cases the original scraper missed:
 2. roster-list-item HTML sites  - parse <li class="roster-list-item"> elements
 3. SIDEARM JSON-LD fallback     - schema.org Person structured data
 4. SIDEARM NextGen API          - /api/v2/Rosters/bySport/baseball?season=YYYY
-5. Imperva-blocked schools      - ESPN college baseball roster API (names only)
+5. Imperva-blocked schools      - Playwright headless Chromium (executes JS challenge)
 """
 
 import requests
@@ -389,103 +389,55 @@ def scrape_sidearm_nextgen(base_url, team_name, conference, school_name, state):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# ESPN COLLEGE BASEBALL API FALLBACK  (for Imperva-blocked schools)
+# PLAYWRIGHT FALLBACK  (for Imperva/Cloudflare JS-challenge schools)
 # ─────────────────────────────────────────────────────────────────────────────
 
-_espn_team_map = None
-
-def _build_espn_map():
-    global _espn_team_map
-    if _espn_team_map is not None:
-        return _espn_team_map
-    try:
-        r = requests.get(
-            'https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams',
-            headers={'User-Agent': HEADERS['User-Agent'], 'Accept': 'application/json'},
-            timeout=15, params={'limit': 500}
-        )
-        if r.status_code == 200:
-            teams = r.json().get('sports', [{}])[0].get('leagues', [{}])[0].get('teams', [])
-            _espn_team_map = {t['team']['displayName']: t['team']['id'] for t in teams}
-        else:
-            _espn_team_map = {}
-    except Exception:
-        _espn_team_map = {}
-    return _espn_team_map
+try:
+    from playwright.sync_api import sync_playwright
+    _PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    _PLAYWRIGHT_AVAILABLE = False
 
 
-def scrape_espn_roster(school_name, team_name, conference, state):
+def fetch_with_playwright(url, timeout_ms=30000):
     """
-    Try ESPN's college baseball API. Returns list of player dicts (names only).
+    Fetch a page using headless Chromium via Playwright.
+    Executes Imperva/Cloudflare JS challenges transparently.
+    Returns (html_str, None) or (None, error_str).
+    Requires: pip install playwright && playwright install chromium
     """
-    espn_map = _build_espn_map()
-
-    # Find team ID by fuzzy matching school name
-    team_id = None
-    school_lower = school_name.lower()
-    for espn_name, tid in espn_map.items():
-        # Try to match key words from school name
-        words = [w for w in school_lower.split() if len(w) > 3
-                 and w not in ('university', 'college', 'the', 'state')]
-        if words and any(w in espn_name.lower() for w in words):
-            team_id = tid
-            break
-
-    if not team_id:
-        return []
-
+    if not _PLAYWRIGHT_AVAILABLE:
+        return None, 'playwright not installed'
     try:
-        r = requests.get(
-            f'https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/{team_id}/roster',
-            headers={'User-Agent': HEADERS['User-Agent'], 'Accept': 'application/json'},
-            timeout=15
-        )
-    except Exception:
-        return []
-
-    if r.status_code != 200:
-        return []
-
-    try:
-        athletes = r.json().get('athletes', [])
-    except Exception:
-        return []
-
-    players = []
-    for a in athletes:
-        item = a.get('items', [a])[0] if 'items' in a else a
-        first_name = item.get('firstName', '').strip()
-        last_name = item.get('lastName', '').strip()
-        # Skip if first name is just an initial
-        if len(first_name) <= 2:
-            continue
-        if not first_name and not last_name:
-            continue
-
-        players.append({
-            'first_name': first_name,
-            'last_name': last_name,
-            'team': team_name,
-            'school': school_name,
-            'conference': conference,
-            'state': state,
-            'number': item.get('jersey', ''),
-            'position': item.get('position', {}).get('abbreviation', '')
-                        if isinstance(item.get('position'), dict) else '',
-            'bats_throws': '',
-            'height': '',
-            'weight': '',
-            'class_year': '',
-            'hometown': '',
-            'high_school': '',
-        })
-
-    return players
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch(headless=True)
+            ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
+            page = ctx.new_page()
+            page.goto(url, wait_until='networkidle', timeout=timeout_ms)
+            html = page.content()
+            browser.close()
+        return html, None
+    except Exception as e:
+        return None, str(e)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
 # MAIN FETCH FUNCTION
 # ─────────────────────────────────────────────────────────────────────────────
+
+def _parse_html(html, team_name, conference, school_name, state):
+    """Run all HTML parsers against a page string. Returns player list or []."""
+    soup = BeautifulSoup(html, 'html.parser')
+    for parser, label in [
+        (parse_nuxt_roster,       'nuxt3'),
+        (parse_roster_list_items, 'roster-list-item'),
+        (parse_jsonld_roster,     'jsonld'),
+    ]:
+        players = parser(soup, team_name, conference, school_name, state)
+        if players:
+            return players, label
+    return [], None
+
 
 def scrape_school(base_url, team_name, conference, school_name, state):
     """Try all strategies. Returns (players, strategy, error)."""
@@ -494,10 +446,6 @@ def scrape_school(base_url, team_name, conference, school_name, state):
     try:
         r = requests.get(url, headers=HEADERS, timeout=20, allow_redirects=True)
     except Exception as e:
-        # Could be redirect loop (Imperva) - try ESPN fallback
-        espn_players = scrape_espn_roster(school_name, team_name, conference, state)
-        if espn_players:
-            return espn_players, 'espn', None
         return [], None, f'Request error: {e}'
 
     if r.status_code == 404:
@@ -508,41 +456,48 @@ def scrape_school(base_url, team_name, conference, school_name, state):
     if 'baseball' not in r.url.lower() and 'baseball' not in r.text[:3000].lower():
         return [], None, 'Redirected away from baseball page'
 
-    soup = BeautifulSoup(r.text, 'html.parser')
-
-    # Strategy 1: Nuxt3 __NUXT_DATA__
-    players = parse_nuxt_roster(soup, team_name, conference, school_name, state)
+    players, label = _parse_html(r.text, team_name, conference, school_name, state)
     if players:
-        return players, 'nuxt3', None
+        return players, label, None
 
-    # Strategy 2: roster-list-item HTML
-    players = parse_roster_list_items(soup, team_name, conference, school_name, state)
-    if players:
-        return players, 'roster-list-item', None
-
-    # Strategy 3: SIDEARM NextGen REST API
+    # SIDEARM NextGen REST API
     players = scrape_sidearm_nextgen(base_url, team_name, conference, school_name, state)
     if players:
         return players, 'sidearm-nextgen', None
-
-    # Strategy 4: JSON-LD schema.org Person
-    players = parse_jsonld_roster(soup, team_name, conference, school_name, state)
-    if players:
-        return players, 'jsonld', None
 
     return [], None, 'No players parsed from page (all strategies failed)'
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# IMPERVA-BLOCKED SCHOOLS  (separate pass using only ESPN)
+# IMPERVA-BLOCKED SCHOOLS  (Playwright headless browser)
 # ─────────────────────────────────────────────────────────────────────────────
 
 def scrape_blocked_school(base_url, team_name, conference, school_name, state):
-    """For Imperva-blocked schools, use ESPN directly."""
-    players = scrape_espn_roster(school_name, team_name, conference, state)
+    """
+    For Imperva/Cloudflare JS-challenge schools: use Playwright to fetch the
+    page with a real browser, then run normal HTML parsers on the result.
+    Falls back to the SIDEARM API which is not subject to the JS challenge.
+    """
+    url = base_url.rstrip('/') + '/sports/baseball/roster'
+
+    # Try SIDEARM API first — not subject to CDN JS challenges
+    players = scrape_sidearm_nextgen(base_url, team_name, conference, school_name, state)
     if players:
-        return players, 'espn', None
-    return [], None, 'ESPN: no data found'
+        return players, 'sidearm-nextgen', None
+
+    # Playwright: real browser that solves the JS challenge
+    if not _PLAYWRIGHT_AVAILABLE:
+        return [], None, 'Playwright not installed — run: pip install playwright && playwright install chromium'
+
+    html, err = fetch_with_playwright(url)
+    if not html:
+        return [], None, f'Playwright error: {err}'
+
+    players, label = _parse_html(html, team_name, conference, school_name, state)
+    if players:
+        return players, f'playwright+{label}', None
+
+    return [], None, 'Playwright fetched page but no players parsed'
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -626,7 +581,7 @@ def main():
 
         time.sleep(DELAY)
 
-    # --- Pass 2: Imperva-blocked schools (ESPN only) ---
+    # --- Pass 2: Imperva-blocked schools (Playwright) ---
     print(f'\n[Pass 2] Imperva-blocked schools ({len(redirect_loop)} schools)...')
     for i, (school, info) in enumerate(sorted(redirect_loop.items())):
         meta = school_meta.get(school, {})
@@ -649,7 +604,7 @@ def main():
             print(f'FAIL ({error})')
             results['fail'].append({'school': school, 'error': error, 'type': 'imperva'})
 
-        time.sleep(0.3)  # ESPN is more lenient
+        time.sleep(DELAY)
 
     # --- Summary ---
     print(f'\n{"─"*60}')
@@ -696,7 +651,7 @@ def main():
         from generate_coverage_report import generate as gen_report
         print("\nGenerating coverage report …")
         gen_report(verbose=False)
-        print("Coverage report written to COVERAGE_REPORT.md")
+        print("Roster coverage report written to ROSTER_COVERAGE.md")
     except Exception as e:
         print(f"(Coverage report skipped: {e})")
 

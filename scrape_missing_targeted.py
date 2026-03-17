@@ -6,9 +6,20 @@ Tries all confirmed_missing schools first, then retries needs_investigation
 schools using cloudscraper (for Cloudflare bypass) and JSON-script parsing.
 Appends successful results to d1_baseball_rosters_2026.csv and regenerates
 missing_schools.csv.
+
+Strategy order per school:
+  1. Fetch roster page (cloudscraper for redirect-loop schools)
+  2. parse_sidearm_roster / parse_old_sidearm_table / parse_script_json_roster
+  3. parse_wmt_digital_roster (OAS/WMT platforms)
+  4. parse_roster_list_items_rich (SIDEARM Nuxt3 card layout)
+  5. parse_nuxt_roster (OAS Sports __NUXT_DATA__)
+  6. parse_roster_list_items (simple li text parser)
+  7. parse_sidearm_nextgen_api (REST API, tries multiple season formats)
+  8. Playwright headless browser (Imperva/Cloudflare JS-challenge schools)
 """
 
 import csv
+import datetime
 import json
 import os
 import re
@@ -23,12 +34,21 @@ from bs4 import BeautifulSoup
 from scrape_d1_baseball import (
     HEADERS,
     parse_name,
+    parse_roster_list_items_rich,
     parse_sidearm_roster,
     parse_old_sidearm_table,
     parse_script_json_roster,
     parse_wmt_digital_roster,
     parse_sidearm_nextgen_api,
     normalize_url,
+)
+
+# Reuse Nuxt / list-item / Playwright helpers from the retry scraper
+from scrape_failed_schools import (
+    parse_nuxt_roster,
+    parse_roster_list_items,
+    fetch_with_playwright,
+    _PLAYWRIGHT_AVAILABLE,
 )
 
 CSV_PATH = '/home/user/roster-maker/d1_baseball_rosters_2026.csv'
@@ -69,74 +89,204 @@ def fetch_roster_page(url, use_cloudscraper=False):
         return None, str(e)
 
 
+def _sidearm_api_multi_season(base_url, team_name, conference, school_name, state):
+    """
+    Try SIDEARM NextGen API across multiple season-title formats.
+    The main scraper only tries "2026"; this also tries "2025-26", "2026-27",
+    and the API's own /list endpoint to find the right season title.
+    """
+    api_headers = {**HEADERS, 'Accept': 'application/json'}
+    current_year = datetime.date.today().year
+    season_candidates = [
+        str(current_year),
+        f"{current_year}-{str(current_year + 1)[-2:]}",
+        f"{current_year - 1}-{str(current_year)[-2:]}",
+        str(current_year - 1),
+    ]
+
+    # Try the list endpoint first to get the real season title
+    try:
+        r = requests.get(f"{base_url}/api/v2/Rosters/list?sport=baseball",
+                         headers=api_headers, timeout=10)
+        if r.status_code == 200:
+            rosters = r.json()
+            if rosters and isinstance(rosters, list):
+                title = rosters[0].get('seasonTitle', '')
+                if title:
+                    season_candidates.insert(0, title)
+    except Exception:
+        pass
+
+    for season in season_candidates:
+        try:
+            r = requests.get(
+                f"{base_url}/api/v2/Rosters/bySport/baseball?season={season}",
+                headers=api_headers, timeout=10,
+            )
+        except Exception:
+            continue
+        if r.status_code != 200:
+            continue
+        try:
+            data = r.json()
+        except Exception:
+            continue
+
+        raw_players = data.get('players', [])
+        if not raw_players:
+            continue
+
+        players = []
+        for p in raw_players:
+            first = (p.get('firstName') or '').strip()
+            last  = (p.get('lastName')  or '').strip()
+            if not first and not last:
+                continue
+            hf = p.get('heightFeet') or ''
+            hi = p.get('heightInches') or ''
+            height = f"{hf}'{hi}\"" if hf and hi else (f"{hf}'" if hf else '')
+            wt = p.get('weight')
+            weight = f'{wt} lbs' if wt else ''
+            class_year = p.get('academicYearLong') or p.get('academicYearShort') or ''
+            players.append({
+                'first_name': first,
+                'last_name':  last,
+                'team': team_name, 'school': school_name,
+                'conference': conference, 'state': state,
+                'number':    p.get('jerseyNumber') or '',
+                'position':  p.get('positionShort') or p.get('positionLong') or '',
+                'bats_throws': p.get('custom1') or '',
+                'height':    height,
+                'weight':    weight,
+                'class_year': class_year,
+                'hometown':  p.get('hometown') or '',
+                'high_school': p.get('highSchool') or '',
+            })
+        if players:
+            return players
+    return []
+
+
+def _parse_html(html, team_name, conference, school_name, state):
+    """Run all HTML parsers against a page string. Returns player list or []."""
+    soup = BeautifulSoup(html, 'html.parser')
+    for parser in (
+        parse_sidearm_roster,
+        parse_old_sidearm_table,
+        parse_script_json_roster,
+        parse_wmt_digital_roster,
+        parse_roster_list_items_rich,
+        parse_nuxt_roster,
+        parse_roster_list_items,
+    ):
+        players = parser(soup, team_name, conference, school_name, state)
+        if players:
+            return players
+    return []
+
+
 def try_scrape(school_row, nickname=''):
     """
     Try to scrape a school's baseball roster.
     Returns (players_list, status_msg).
+
+    Strategy order:
+      1. Fetch HTML with requests / cloudscraper → run all HTML parsers
+      2. SIDEARM NextGen API (multi-season) — server-side, bypasses CDN JS challenges
+      3. Playwright headless browser — executes Imperva/Cloudflare JS challenges;
+         the right tool for schools like Gardner-Webb where the page IS there in a
+         browser but requests/cloudscraper can't get past the JS wall
     """
     base_url = school_row['base_url'].rstrip('/')
+
+    # Fix common URL encoding issues (e.g. Arkansas Little Rock)
+    if base_url.startswith('https:////'):
+        base_url = 'https://' + base_url[len('https:////'):]
+    elif base_url.startswith('http:////'):
+        base_url = 'http://' + base_url[len('http:////'):]
+
     roster_url = school_row.get('roster_url', '').strip() or f"{base_url}/sports/baseball/roster"
 
     school_name = school_row['school']
-    conference = school_row['conference']
-    state = school_row['state']
-    team_name = f"{school_name} {nickname}".strip() if nickname else school_name
+    conference  = school_row['conference']
+    state       = school_row['state']
+    team_name   = f"{school_name} {nickname}".strip() if nickname else school_name
 
-    # Try the roster URL; for redirect-loop schools, start with cloudscraper
-    use_cs = 'redirect' in school_row.get('notes', '').lower() or \
-             'redirect' in school_row.get('status', '').lower()
+    notes = school_row.get('notes', '').lower()
+    is_redirect_loop = 'redirect' in notes or 'redirect' in school_row.get('status', '').lower()
+    is_404 = '404' in notes or '404' in school_row.get('status', '').lower()
 
-    import datetime
     current_year = datetime.date.today().year
     alt_urls = [
         f"{base_url}/sports/bsb/{current_year}-{str(current_year+1)[-2:]}/roster",
         f"{base_url}/sports/bsb/{current_year-1}-{str(current_year)[-2:]}/roster",
         f"{base_url}/sports/mbaseball/roster",
         f"{base_url}/sports/m-baseball/roster",
+        f"{base_url}/baseball/roster",
+        f"{base_url}/sports/baseball/roster/{current_year}",
     ]
 
-    r, err = fetch_roster_page(roster_url, use_cloudscraper=use_cs)
+    # ── Attempt 1: fetch HTML with requests / cloudscraper ───────────────────
+    r, err = fetch_roster_page(roster_url, use_cloudscraper=is_redirect_loop)
 
-    # On 404, try alternate URL patterns (old Sidearm /sports/bsb/YEAR/roster)
-    if (err and '404' in str(err)) or (r and r.status_code == 404):
+    # On 404 or invalid URL, try alt URL patterns
+    if (err and ('404' in str(err) or 'host' in str(err).lower())) or \
+       (r and r.status_code == 404) or is_404:
         for alt_url in alt_urls:
             r_alt, err_alt = fetch_roster_page(alt_url)
             if not err_alt and r_alt and r_alt.status_code == 200:
                 text_check = r_alt.text[:8000].lower()
                 if 'baseball' in text_check or 'bsb' in alt_url:
                     r, err = r_alt, None
+                    roster_url = alt_url
                     break
 
-    if err:
-        return [], f"Fetch error: {err}"
-    if r is None or r.status_code == 404:
-        return [], "HTTP 404"
-    if r.status_code == 403:
-        return [], "HTTP 403"
-    if r.status_code != 200:
-        return [], f"HTTP {r.status_code}"
+    html_fetched = (r is not None and r.status_code == 200 and not err)
 
-    # Validate we're on a baseball page
-    text_lower = r.text[:8000].lower()
-    final_url_lower = r.url.lower()
-    if 'baseball' not in final_url_lower and 'bsb' not in final_url_lower and 'baseball' not in text_lower:
-        return [], "Redirected away from baseball page"
+    if html_fetched:
+        text_lower = r.text[:8000].lower()
+        final_url_lower = r.url.lower()
+        if 'baseball' not in final_url_lower and 'bsb' not in final_url_lower \
+                and 'baseball' not in text_lower:
+            html_fetched = False  # redirected away from baseball
 
-    soup = BeautifulSoup(r.text, 'html.parser')
+    if html_fetched:
+        players = _parse_html(r.text, team_name, conference, school_name, state)
+        if players:
+            return players, f"OK ({len(players)} players)"
 
-    # Try HTML table, old Sidearm table, JSON-in-script, WMT Digital, then Sidearm next-gen API
-    players = parse_sidearm_roster(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_old_sidearm_table(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_script_json_roster(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_wmt_digital_roster(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_sidearm_nextgen_api(base_url, team_name, conference, school_name, state)
+    # ── Attempt 2: SIDEARM NextGen API ───────────────────────────────────────
+    # Server-side endpoint — not subject to CDN JS challenges. Try early for
+    # "200 but no content" (JS-rendered pages) AND for redirect-blocked schools.
+    api_players = _sidearm_api_multi_season(
+        base_url, team_name, conference, school_name, state)
+    if api_players:
+        return api_players, f"OK via API ({len(api_players)} players)"
 
-    if players:
-        return players, f"OK ({len(players)} players)"
+    # ── Attempt 3: Playwright headless browser ────────────────────────────────
+    # Real Chromium executes Imperva/Cloudflare JS challenges transparently.
+    # Used when requests/cloudscraper hit a redirect loop or return no players.
+    # Skipped (with a warning) if Playwright is not installed.
+    if not _PLAYWRIGHT_AVAILABLE:
+        print(f'    [playwright not available — install with: '
+              f'pip install playwright && playwright install chromium]')
+    else:
+        print(f'    [trying Playwright for {school_name}...]')
+        pw_html, pw_err = fetch_with_playwright(roster_url)
+        if pw_html:
+            players = _parse_html(pw_html, team_name, conference, school_name, state)
+            if players:
+                return players, f"OK via Playwright ({len(players)} players)"
+            # Page loaded but still no players — might need a different URL
+            for alt_url in alt_urls:
+                pw_html2, _ = fetch_with_playwright(alt_url)
+                if pw_html2:
+                    players = _parse_html(pw_html2, team_name, conference, school_name, state)
+                    if players:
+                        return players, f"OK via Playwright alt-URL ({len(players)} players)"
+        else:
+            print(f'    [Playwright failed: {pw_err}]')
+
 
     return [], "No players parsed"
 
