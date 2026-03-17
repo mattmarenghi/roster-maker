@@ -18,7 +18,9 @@ import os
 import re
 import subprocess
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse
 
 import requests
@@ -249,12 +251,13 @@ def phase_probe():
     print(f"{'='*60}")
 
 
-def phase_scrape(max_schools=None, refresh=False):
+def phase_scrape(max_schools=None, refresh=False, workers=4):
     """Scrape stats for all compatible schools.
 
     When refresh=True, all compatible schools are scraped regardless of index.json.
     Use this for daily runs. Without refresh, already-scraped schools are skipped
     (useful for resuming an interrupted initial scrape).
+    workers controls how many schools are scraped in parallel.
     """
     if not os.path.exists(PROBE_RESULTS):
         print("Run --probe first!", file=sys.stderr)
@@ -280,20 +283,25 @@ def phase_scrape(max_schools=None, refresh=False):
     print(f"Compatible schools: {len(compatible)}")
     print(f"Already scraped: {len(already_done)}")
     print(f"To scrape: {len(to_scrape)}")
+    print(f"Workers: {workers}")
 
     successes = []
     failures = []
+    index_lock = threading.Lock()
+    counter = {"n": 0}
 
-    for i, school in enumerate(to_scrape):
+    def scrape_one_school(school):
         slug = school["slug"]
         base_url = school["base_url"]
         school_name = school["school"]
         no_season = school.get("no_season_url", False)
 
+        with index_lock:
+            counter["n"] += 1
+            i = counter["n"]
         print(f"\n{'='*60}")
-        print(f"[{i+1}/{len(to_scrape)}] Scraping: {school_name}")
+        print(f"[{i}/{len(to_scrape)}] Scraping: {school_name}")
         print(f"  URL: {base_url}")
-        print(f"  Slug: {slug}")
         print(f"{'='*60}")
 
         cmd = [
@@ -308,17 +316,9 @@ def phase_scrape(max_schools=None, refresh=False):
             cmd.append("--no-season-url")
 
         try:
-            result = subprocess.run(
-                cmd,
-                capture_output=True,
-                text=True,
-                timeout=180,
-            )
+            subprocess.run(cmd, capture_output=True, text=True, timeout=180)
 
-            # Check output
-            output = result.stdout + result.stderr
             out_path = os.path.join(STATS_DIR, f"{slug}.json")
-
             if os.path.exists(out_path):
                 with open(out_path) as f:
                     data = json.load(f)
@@ -326,49 +326,38 @@ def phase_scrape(max_schools=None, refresh=False):
                 record = data.get("record", "?")
 
                 if player_count > 0:
-                    successes.append({
-                        "school": school_name,
-                        "slug": slug,
-                        "players": player_count,
-                        "record": record,
-                    })
-                    already_done.add(slug)
-                    print(f"  SUCCESS: {player_count} players, record {record}")
+                    print(f"  [{slug}] SUCCESS: {player_count} players, record {record}")
+                    return ("success", {"school": school_name, "slug": slug,
+                                        "players": player_count, "record": record})
                 else:
-                    failures.append({
-                        "school": school_name,
-                        "slug": slug,
-                        "reason": "0 players matched",
-                        "record": record,
-                    })
-                    print(f"  FAILED: 0 players matched (record {record})")
+                    print(f"  [{slug}] FAILED: 0 players matched")
+                    return ("failure", {"school": school_name, "slug": slug,
+                                        "reason": "0 players matched", "record": record})
             else:
-                failures.append({
-                    "school": school_name,
-                    "slug": slug,
-                    "reason": "no output file",
-                })
-                print(f"  FAILED: no output file")
+                print(f"  [{slug}] FAILED: no output file")
+                return ("failure", {"school": school_name, "slug": slug,
+                                    "reason": "no output file"})
 
         except subprocess.TimeoutExpired:
-            failures.append({
-                "school": school_name,
-                "slug": slug,
-                "reason": "timeout",
-            })
-            print(f"  FAILED: timeout")
+            print(f"  [{slug}] FAILED: timeout")
+            return ("failure", {"school": school_name, "slug": slug, "reason": "timeout"})
         except Exception as e:
-            failures.append({
-                "school": school_name,
-                "slug": slug,
-                "reason": str(e),
-            })
-            print(f"  FAILED: {e}")
+            print(f"  [{slug}] FAILED: {e}")
+            return ("failure", {"school": school_name, "slug": slug, "reason": str(e)})
 
-        # Update index.json after each success
-        index_path = os.path.join(STATS_DIR, "index.json")
-        with open(index_path, "w") as f:
-            json.dump(sorted(already_done), f, indent=2)
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {executor.submit(scrape_one_school, school): school for school in to_scrape}
+        for future in as_completed(futures):
+            status, result = future.result()
+            if status == "success":
+                successes.append(result)
+                with index_lock:
+                    already_done.add(result["slug"])
+                    index_path = os.path.join(STATS_DIR, "index.json")
+                    with open(index_path, "w") as f:
+                        json.dump(sorted(already_done), f, indent=2)
+            else:
+                failures.append(result)
 
     # Summary
     print(f"\n{'='*60}")
@@ -434,14 +423,15 @@ if __name__ == "__main__":
     parser.add_argument("--refresh", action="store_true", help="Phase 2: scrape ALL compatible schools, ignoring index.json (use for daily runs)")
     parser.add_argument("--scrape-one", type=str, help="Scrape a single school by slug")
     parser.add_argument("--max", type=int, help="Max schools to scrape in one run")
+    parser.add_argument("--workers", type=int, default=4, help="Parallel workers for scraping (default: 4)")
     args = parser.parse_args()
 
     if args.probe:
         phase_probe()
     elif args.refresh:
-        phase_scrape(max_schools=args.max, refresh=True)
+        phase_scrape(max_schools=args.max, refresh=True, workers=args.workers)
     elif args.scrape:
-        phase_scrape(max_schools=args.max)
+        phase_scrape(max_schools=args.max, workers=args.workers)
     elif args.scrape_one:
         scrape_one(args.scrape_one)
     else:

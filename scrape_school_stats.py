@@ -1382,6 +1382,22 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     print(f"Season: {season}")
     print(f"{'='*60}\n")
 
+    # Load existing stats file to cache narratives for players whose last game hasn't changed
+    existing_path = os.path.join(STATS_DIR, f"{school_slug}.json")
+    narrative_cache = {}  # player_id -> {date, narrative}
+    if os.path.exists(existing_path):
+        try:
+            with open(existing_path) as f:
+                existing = json.load(f)
+            for pid, p in existing.get("players", {}).items():
+                lg = p.get("last_game") or {}
+                if lg.get("date") and p.get("narrative"):
+                    narrative_cache[pid] = {"date": lg["date"], "narrative": p["narrative"]}
+            if narrative_cache:
+                print(f"  Narrative cache loaded: {len(narrative_cache)} existing narratives")
+        except Exception:
+            pass  # missing or corrupt existing file — regenerate everything
+
     # Load players.json for this school
     print("Loading players.json...")
     with open(PLAYERS_JSON) as f:
@@ -1639,26 +1655,33 @@ def run(base_url: str, school_slug: str, season: str = "2026",
 
             if had_meaningful_bat or had_meaningful_pitch:
                 game_date = last_game_data["date"]
-                game_recap_data = game_recaps.get(game_date, {})
-                recap = game_recap_data.get("recap", {})
 
-                game_info = {
-                    "date": game_date,
-                    "opponent": last_game_data["opponent"],
-                    "result": last_game_data["result"],
-                }
-
-                print(f"  Generating narrative for {sp.get('name', fn + ' ' + ln)}...", end=" ")
-                if api_key_available:
-                    narrative = generate_narrative_claude(
-                        {**player_record, "name": sp.get("name", "")},
-                        game_info,
-                        recap.get("article_text", ""),
-                    )
+                # Reuse cached narrative if last game date hasn't changed
+                cached = narrative_cache.get(player_id)
+                if cached and cached["date"] == game_date:
+                    player_record["narrative"] = cached["narrative"]
+                    print(f"  Narrative cached for {sp.get('name', fn + ' ' + ln)} (no new game)")
                 else:
-                    narrative = generate_narrative_template(player_record, game_info)
-                player_record["narrative"] = narrative
-                print("done" if narrative else "no narrative")
+                    game_recap_data = game_recaps.get(game_date, {})
+                    recap = game_recap_data.get("recap", {})
+
+                    game_info = {
+                        "date": game_date,
+                        "opponent": last_game_data["opponent"],
+                        "result": last_game_data["result"],
+                    }
+
+                    print(f"  Generating narrative for {sp.get('name', fn + ' ' + ln)}...", end=" ")
+                    if api_key_available:
+                        narrative = generate_narrative_claude(
+                            {**player_record, "name": sp.get("name", "")},
+                            game_info,
+                            recap.get("article_text", ""),
+                        )
+                    else:
+                        narrative = generate_narrative_template(player_record, game_info)
+                    player_record["narrative"] = narrative
+                    print("done" if narrative else "no narrative")
 
         players_out[player_id] = player_record
 
