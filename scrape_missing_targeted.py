@@ -60,6 +60,45 @@ COL_ORDER = [
     'state', 'hometown', 'high_school',
 ]
 
+# ── Playwright availability check ─────────────────────────────────────────────
+try:
+    from playwright.sync_api import sync_playwright
+    _PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    _PLAYWRIGHT_AVAILABLE = False
+
+
+def fetch_with_playwright(url, wait_for='networkidle', timeout_ms=30000):
+    """
+    Fetch a page using a headless Chromium browser via Playwright.
+
+    This bypasses Imperva and Cloudflare JS challenges that defeat requests
+    and cloudscraper, because a real browser executes the challenge JS and
+    returns the cookies before following the redirect.
+
+    Returns (html_str, None) on success or (None, error_str) on failure.
+    Requires: pip install playwright && playwright install chromium
+    """
+    if not _PLAYWRIGHT_AVAILABLE:
+        return None, 'Playwright not installed'
+    try:
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch(headless=True)
+            ctx = browser.new_context(
+                user_agent=(
+                    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                    'AppleWebKit/537.36 (KHTML, like Gecko) '
+                    'Chrome/121.0.0.0 Safari/537.36'
+                )
+            )
+            page = ctx.new_page()
+            page.goto(url, wait_until=wait_for, timeout=timeout_ms)
+            html = page.content()
+            browser.close()
+        return html, None
+    except Exception as e:
+        return None, str(e)
+
 
 def fetch_roster_page(url, use_cloudscraper=False):
     """Fetch a URL, optionally via cloudscraper. Returns (response, error_str)."""
@@ -166,20 +205,37 @@ def _sidearm_api_multi_season(base_url, team_name, conference, school_name, stat
     return []
 
 
+def _parse_html(html, team_name, conference, school_name, state):
+    """Run all HTML parsers against a page string. Returns player list or []."""
+    soup = BeautifulSoup(html, 'html.parser')
+    for parser in (
+        parse_sidearm_roster,
+        parse_old_sidearm_table,
+        parse_script_json_roster,
+        parse_wmt_digital_roster,
+        parse_roster_list_items_rich,
+        parse_nuxt_roster,
+        parse_roster_list_items,
+    ):
+        players = parser(soup, team_name, conference, school_name, state)
+        if players:
+            return players
+    return []
+
+
 def try_scrape(school_row, nickname=''):
     """
     Try to scrape a school's baseball roster.
     Returns (players_list, status_msg).
 
     Strategy order:
-      1. Fetch HTML roster page (cloudscraper for redirect-loop schools)
-         → parse_sidearm_roster, parse_old_sidearm_table, parse_script_json_roster
-         → parse_wmt_digital_roster
-         → parse_roster_list_items_rich (SIDEARM Nuxt3 card layout)
-         → parse_nuxt_roster (OAS Sports __NUXT_DATA__)
-         → parse_roster_list_items (simple li text fallback)
-      2. SIDEARM NextGen API (multi-season)
-      3. ESPN roster API (last resort for blocked/404 schools)
+      1. Fetch HTML with requests / cloudscraper → run all HTML parsers
+      2. SIDEARM NextGen API (multi-season) — server-side, bypasses CDN JS challenges
+      3. Playwright headless browser — executes Imperva/Cloudflare JS challenges;
+         the right tool for schools like Gardner-Webb where the page IS there in a
+         browser but requests/cloudscraper can't get past the JS wall
+      4. ESPN roster API — names + jersey + position only; last resort because ESPN
+         data can be stale (alumni) rather than the current D1 roster
     """
     base_url = school_row['base_url'].rstrip('/')
 
@@ -210,7 +266,7 @@ def try_scrape(school_row, nickname=''):
         f"{base_url}/sports/baseball/roster/{current_year}",
     ]
 
-    # ── Attempt 1: fetch HTML ─────────────────────────────────────────────────
+    # ── Attempt 1: fetch HTML with requests / cloudscraper ───────────────────
     r, err = fetch_roster_page(roster_url, use_cloudscraper=is_redirect_loop)
 
     # On 404 or invalid URL, try alt URL patterns
@@ -222,76 +278,62 @@ def try_scrape(school_row, nickname=''):
                 text_check = r_alt.text[:8000].lower()
                 if 'baseball' in text_check or 'bsb' in alt_url:
                     r, err = r_alt, None
+                    roster_url = alt_url
                     break
 
-    # ── Attempt 2: SIDEARM API (before giving up on network) ─────────────────
-    # Try API early for "200 but no content" cases — the page may be JS-rendered
-    # but the API endpoint is always server-side.
-    html_ok = (r is not None and r.status_code == 200 and not err)
-    if not html_ok or ('no baseball' in notes or '200 but no' in notes):
-        api_players = _sidearm_api_multi_season(
-            base_url, team_name, conference, school_name, state)
-        if api_players:
-            return api_players, f"OK via API ({len(api_players)} players)"
+    html_fetched = (r is not None and r.status_code == 200 and not err)
 
-    if err:
-        # For redirect-loop schools the fetch itself may fail; fall to ESPN
-        if is_redirect_loop:
-            espn_players = scrape_espn_roster(school_name, team_name, conference, state)
-            if espn_players:
-                return espn_players, f"OK via ESPN ({len(espn_players)} players)"
-        return [], f"Fetch error: {err}"
+    if html_fetched:
+        text_lower = r.text[:8000].lower()
+        final_url_lower = r.url.lower()
+        if 'baseball' not in final_url_lower and 'bsb' not in final_url_lower \
+                and 'baseball' not in text_lower:
+            html_fetched = False  # redirected away from baseball
 
-    if r is None or r.status_code == 404:
-        espn_players = scrape_espn_roster(school_name, team_name, conference, state)
-        if espn_players:
-            return espn_players, f"OK via ESPN ({len(espn_players)} players)"
-        return [], "HTTP 404"
-    if r.status_code == 403:
-        espn_players = scrape_espn_roster(school_name, team_name, conference, state)
-        if espn_players:
-            return espn_players, f"OK via ESPN ({len(espn_players)} players)"
-        return [], "HTTP 403"
-    if r.status_code != 200:
-        return [], f"HTTP {r.status_code}"
+    if html_fetched:
+        players = _parse_html(r.text, team_name, conference, school_name, state)
+        if players:
+            return players, f"OK ({len(players)} players)"
 
-    # Validate we're on a baseball page
-    text_lower = r.text[:8000].lower()
-    final_url_lower = r.url.lower()
-    if 'baseball' not in final_url_lower and 'bsb' not in final_url_lower \
-            and 'baseball' not in text_lower:
-        return [], "Redirected away from baseball page"
-
-    soup = BeautifulSoup(r.text, 'html.parser')
-
-    # ── HTML parsing strategies ───────────────────────────────────────────────
-    players = parse_sidearm_roster(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_old_sidearm_table(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_script_json_roster(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_wmt_digital_roster(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_roster_list_items_rich(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_nuxt_roster(soup, team_name, conference, school_name, state)
-    if not players:
-        players = parse_roster_list_items(soup, team_name, conference, school_name, state)
-
-    if players:
-        return players, f"OK ({len(players)} players)"
-
-    # ── Attempt 3: SIDEARM API (HTML parsed but empty) ────────────────────────
+    # ── Attempt 2: SIDEARM NextGen API ───────────────────────────────────────
+    # Server-side endpoint — not subject to CDN JS challenges. Try early for
+    # "200 but no content" (JS-rendered pages) AND for redirect-blocked schools.
     api_players = _sidearm_api_multi_season(
         base_url, team_name, conference, school_name, state)
     if api_players:
         return api_players, f"OK via API ({len(api_players)} players)"
 
-    # ── Attempt 4: ESPN last resort ───────────────────────────────────────────
+    # ── Attempt 3: Playwright headless browser ────────────────────────────────
+    # Real Chromium executes Imperva/Cloudflare JS challenges transparently.
+    # Used when requests/cloudscraper hit a redirect loop or return no players.
+    # Skipped (with a warning) if Playwright is not installed.
+    if not _PLAYWRIGHT_AVAILABLE:
+        print(f'    [playwright not available — install with: '
+              f'pip install playwright && playwright install chromium]')
+    else:
+        print(f'    [trying Playwright for {school_name}...]')
+        pw_html, pw_err = fetch_with_playwright(roster_url)
+        if pw_html:
+            players = _parse_html(pw_html, team_name, conference, school_name, state)
+            if players:
+                return players, f"OK via Playwright ({len(players)} players)"
+            # Page loaded but still no players — might need a different URL
+            for alt_url in alt_urls:
+                pw_html2, _ = fetch_with_playwright(alt_url)
+                if pw_html2:
+                    players = _parse_html(pw_html2, team_name, conference, school_name, state)
+                    if players:
+                        return players, f"OK via Playwright alt-URL ({len(players)} players)"
+        else:
+            print(f'    [Playwright failed: {pw_err}]')
+
+    # ── Attempt 4: ESPN — last resort ─────────────────────────────────────────
+    # ESPN data can be stale (alumni, not current D1 roster). Only use when
+    # every other strategy has failed. A thin or wrong ESPN result is still
+    # better than nothing for coverage, but flag it clearly.
     espn_players = scrape_espn_roster(school_name, team_name, conference, state)
     if espn_players:
-        return espn_players, f"OK via ESPN ({len(espn_players)} players)"
+        return espn_players, f"OK via ESPN ({len(espn_players)} players) [verify roster accuracy]"
 
     return [], "No players parsed"
 

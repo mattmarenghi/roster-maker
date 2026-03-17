@@ -1,10 +1,8 @@
 name: Enrich Player Profiles
 
-# Manual trigger only — run this whenever you want to do a fresh enrichment pass.
-# GitHub-hosted runners have full outbound HTTPS, so all SIDEARM API calls work.
-#
-# Inputs let you limit the run to a subset of schools (useful for re-running a
-# single school after fixing a parser bug without waiting for the full pass).
+# Manual trigger only — run this whenever you want a fresh enrichment pass.
+# GitHub-hosted runners have full outbound HTTPS, so all SIDEARM API calls work,
+# and Playwright can download Chromium to break through Imperva JS challenges.
 on:
   workflow_dispatch:
     inputs:
@@ -31,15 +29,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Fetch the branch that has the enrichment scripts
           ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas cloudscraper lxml
+      - name: Install Python dependencies
+        run: pip install requests beautifulsoup4 pandas cloudscraper lxml playwright
+
+      - name: Install Playwright browsers
+        # Downloads Chromium (~170 MB). Cached by actions/setup-python across runs.
+        run: playwright install chromium --with-deps
 
       - name: Clear enrichment checkpoint (if requested)
         if: ${{ inputs.reset_progress == 'true' }}
