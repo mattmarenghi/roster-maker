@@ -219,6 +219,24 @@ def get_website_api_games(base_url: str, schedule_id: int) -> list[dict]:
     return completed  # already sorted newest-first from API
 
 
+def compute_record_from_boxscores(base_url: str, games: list[dict]) -> str:
+    """Compute W-L record by parsing each game's boxscore page."""
+    wins = losses = 0
+    for g in games:
+        bsurl = g.get("boxscore_url")
+        if not bsurl:
+            continue
+        result = get_boxscore_result(base_url, bsurl)
+        if result.startswith("W"):
+            wins += 1
+        elif result.startswith("L"):
+            losses += 1
+        time.sleep(0.2)
+    if wins + losses == 0:
+        return ""
+    return f"{wins}-{losses}"
+
+
 def get_boxscore_result(base_url: str, boxscore_url: str) -> str:
     """Extract game result from a WMT Sidearm boxscore page NUXT data."""
     if not boxscore_url:
@@ -353,6 +371,13 @@ def scrape_school(school_name: str, base_url: str, slug: str, espn_id: int | Non
         if not record:
             print(f"  SKIP: No record and no games found")
             return False
+
+    # If we still don't have a record, compute it from boxscores
+    if not record and games and has_website_api:
+        print(f"  Computing record from {len(games)} boxscore pages...")
+        record = compute_record_from_boxscores(base_url, games)
+        if record:
+            print(f"  Record (from boxscores): {record}")
 
     # Also try ESPN schedule for result if website-api gave no result
     if most_recent and not most_recent.get("result") and espn_id:

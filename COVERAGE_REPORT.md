@@ -1,6 +1,6 @@
 # D1 Baseball Coverage Report
 
-_Generated: 2026-03-17 15:14 UTC_
+_Generated: 2026-03-17 15:20 UTC_
 
 ## Summary
 
@@ -184,7 +184,7 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 | Scraped — missing batting stats | 13 |
 | Scraped — missing pitching stats | 13 |
 | Scraped — missing game recap | 156 |
-| Scraped — missing season record | 4 |
+| Scraped — missing season record | 0 |
 
 ### Compatible but not yet scraped (8)
 
