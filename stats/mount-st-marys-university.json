@@ -2,13 +2,13 @@
   "school": "Mount St. Mary's University",
   "base_url": "https://www.mountathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:58:19.229075Z",
+  "generated_at": "2026-03-17T17:07:58.767812Z",
   "record": "9-8",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Canisius",
     "result": "W 8-4",
-    "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+    "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
     "recap_url": "https://www.mountathletics.com/news/2026/3/15/baseball-foster-and-halcisak-combine-for-12-strikeouts-as-the-mount-sweeps-canisius-with-8-4-win.aspx",
     "recap_headline": "Mount St. Mary's University",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -104,7 +104,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -204,26 +204,26 @@
       "season_batting": {
         "g": 15,
         "gs": 15,
-        "avg": 0.37,
-        "ops": 1.175,
+        "avg": 0.389,
+        "ops": 1.208,
         "ab": 54,
         "r": 14,
-        "h": 20,
+        "h": 21,
         "doubles": 2,
         "triples": 2,
         "hr": 4,
         "rbi": 20,
-        "tb": 38,
-        "slg": 0.704,
+        "tb": 39,
+        "slg": 0.722,
         "bb": 12,
         "hbp": 1,
         "so": 11,
         "gdp": 1,
-        "obp": 0.471,
+        "obp": 0.486,
         "sf": 3,
         "sh": 0,
-        "sb": 9,
-        "sb_att": 11
+        "sb": 10,
+        "sb_att": 12
       },
       "season_pitching": null,
       "last_game": null,
@@ -378,7 +378,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -425,7 +425,7 @@
         "date": "2026-03-14",
         "opponent": "Canisius",
         "result": "W 10-9",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -481,7 +481,7 @@
         "date": "2026-03-14",
         "opponent": "Canisius",
         "result": "W 10-9",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -569,7 +569,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -657,7 +657,7 @@
         "date": "2026-03-13",
         "opponent": "Canisius",
         "result": "W 17-10",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9892&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9892&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -782,7 +782,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -829,7 +829,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -949,7 +949,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1152,7 +1152,7 @@
         "date": "2026-03-14",
         "opponent": "Canisius",
         "result": "W 10-9",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1310,7 +1310,7 @@
         "date": "2026-03-14",
         "opponent": "Canisius",
         "result": "W 10-9",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1380,7 +1380,7 @@
         "date": "2026-03-14",
         "opponent": "Canisius",
         "result": "W 10-9",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1459,7 +1459,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1538,7 +1538,7 @@
         "date": "2026-03-14",
         "opponent": "Canisius",
         "result": "W 10-9",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9893&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1599,7 +1599,7 @@
         "date": "2026-03-13",
         "opponent": "Canisius",
         "result": "W 17-10",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9892&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9892&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -1720,7 +1720,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1772,7 +1772,7 @@
         "date": "2026-03-15",
         "opponent": "Canisius",
         "result": "W 8-4",
-        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=",
+        "boxscore_url": "https://www.mountathletics.com/boxscore.aspx?id=9894&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,

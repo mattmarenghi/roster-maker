@@ -2,7 +2,7 @@
   "school": "California Baptist University",
   "base_url": "https://www.cbulancers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:45:56.718602Z",
+  "generated_at": "2026-03-17T16:55:06.331008Z",
   "record": "17-5",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -207,25 +207,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 2,
+          "ab": 3,
+          "r": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 3,
           "so": 1,
           "hr": 0,
-          "doubles": 2,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "2/5 with 0 RBI vs. Harvard (W). Hitting .400 with 2 HR through 17 games."
+      "narrative": "0/3 with 0 RBI vs. Harvard (L). Hitting .380 with 2 HR through 18 games."
     },
     "430ccb2e": {
       "id": "430ccb2e",
@@ -317,17 +317,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": {
           "ab": 5,
           "r": 0,
           "h": 1,
-          "rbi": 1,
-          "bb": 0,
-          "so": 1,
+          "rbi": 2,
+          "bb": 1,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -335,7 +335,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 1 RBI against Harvard. Struggled to make contact."
+      "narrative": "1/5 with 2 RBI vs. Harvard (L). Hitting .333 with 4 HR through 21 games."
     },
     "88ec7d2b": {
       "id": "88ec7d2b",
@@ -537,17 +537,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": {
           "ab": 2,
-          "r": 0,
+          "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
+          "bb": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -555,7 +555,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Harvard. Struggled to make contact."
+      "narrative": "0/2 with 0 RBI vs. Harvard (L). Hitting .307 with 1 HR through 16 games."
     },
     "e7704870": {
       "id": "e7704870",
@@ -793,23 +793,23 @@
         "opp_avg": ".217"
       },
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16961",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": null,
         "pitching": {
-          "ip": "1.2",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
+          "ip": "2.0",
+          "h": 5,
+          "r": 5,
+          "er": 4,
+          "bb": 4,
+          "so": 2,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Harvard, throwing 1.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "2.0 IP, 2 K vs. Harvard (L). At 6.18 ERA through 13.1 innings on the season."
     },
     "2c2bf732": {
       "id": "2c2bf732",
@@ -889,23 +889,23 @@
         "opp_avg": ".210"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "LMU (CA)",
+        "date": "2026-03-16",
+        "opponent": "Harvard",
         "result": "L",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/lmu-ca-/boxscore/16959",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 5,
-          "er": 5,
-          "bb": 3,
-          "so": 2,
-          "wp": 0,
+          "ip": "3.1",
+          "h": 4,
+          "r": 4,
+          "er": 2,
+          "bb": 0,
+          "so": 7,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against LMU (CA), throwing 1.1 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+      "narrative": "3.1 IP, 7 K vs. Harvard (L). At 5.37 ERA through 20.1 innings on the season."
     },
     "40f51146": {
       "id": "40f51146",
@@ -1228,23 +1228,23 @@
         "opp_avg": ".204"
       },
       "last_game": {
-        "date": "2026-03-15",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
+          "ip": "0.1",
           "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 2,
-          "so": 2,
-          "wp": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Harvard, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.1 IP, 0 K vs. Harvard (L). At 2.25 ERA through 16.0 innings on the season."
     },
     "2bd0326d": {
       "id": "2bd0326d",
@@ -1281,17 +1281,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "BYU",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/byu/boxscore/16958",
+        "date": "2026-03-16",
+        "opponent": "Harvard",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 2,
+          "ab": 1,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1299,7 +1299,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against BYU. Had an outstanding performance at the plate (0.400)."
+      "narrative": "1/1 with 0 RBI vs. Harvard (L). Hitting .360 with 3 HR through 18 games."
     },
     "af46a085": {
       "id": "af46a085",
@@ -1336,25 +1336,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16961",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Harvard. Struggled to make contact."
+      "narrative": "1/2 with 1 RBI vs. Harvard (L). Hitting .166 with 0 HR through 16 games."
     },
     "e28c4398": {
       "id": "e28c4398",
@@ -1386,23 +1386,23 @@
         "opp_avg": ".056"
       },
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16960",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
+          "ip": "1.1",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 2,
+          "so": 3,
           "wp": 0,
           "hbp": 0
         }
       },
-      "narrative": "Took the mound against Harvard, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.1 IP, 3 K vs. Harvard (L). At 0.00 ERA through 6.0 innings on the season."
     },
     "d4956ae2": {
       "id": "d4956ae2",
@@ -1583,15 +1583,15 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16962",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": {
-          "ab": 3,
-          "r": 0,
+          "ab": 4,
+          "r": 2,
           "h": 3,
-          "rbi": 0,
+          "rbi": 2,
           "bb": 0,
           "so": 0,
           "hr": 0,
@@ -1601,7 +1601,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 3/3 with 0 RBI against Harvard. Had an outstanding performance at the plate (1.000)."
+      "narrative": "3/4 with 2 RBI vs. Harvard (L). Hitting .450 with 0 HR through 11 games."
     },
     "a8837292": {
       "id": "a8837292",
@@ -1736,23 +1736,23 @@
         "opp_avg": ".125"
       },
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-16",
         "opponent": "Harvard",
-        "result": "W",
-        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16961",
+        "result": "L",
+        "boxscore_url": "https://www.cbulancers.com/sports/baseball/stats/2026/harvard/boxscore/16963",
         "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 6,
+          "ip": "1.1",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0
         }
       },
-      "narrative": "Took the mound against Harvard, throwing 3.0 innings. Allowed 0 earned run(s) with 6 strikeout(s)."
+      "narrative": "1.1 IP, 3 K vs. Harvard (L). At 2.93 ERA through 9.2 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

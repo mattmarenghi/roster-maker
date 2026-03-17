@@ -2,13 +2,13 @@
   "school": "University of the Incarnate Word",
   "base_url": "https://uiwcardinals.com",
   "season": "2026",
-  "generated_at": "2026-03-17T12:20:20.396050Z",
+  "generated_at": "2026-03-17T17:32:35.394528Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "New Orleans",
     "result": "W 11-7",
-    "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+    "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
     "recap_url": "https://uiwcardinals.com/news/2026/3/15/baseball-cardinals-fall-in-rubber-game-to-new-orleans.aspx",
     "recap_headline": "University of the Incarnate Word Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -104,7 +104,7 @@
         "date": "2026-03-13",
         "opponent": "New Orleans",
         "result": "L 6-9",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -156,7 +156,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -319,7 +319,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -371,7 +371,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -418,7 +418,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -474,7 +474,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -535,7 +535,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -582,7 +582,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -643,7 +643,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -828,7 +828,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -949,7 +949,7 @@
         "date": "2026-03-14",
         "opponent": "New Orleans",
         "result": "L 1-13",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7597&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7597&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1005,7 +1005,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1061,7 +1061,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1117,7 +1117,7 @@
         "date": "2026-03-13",
         "opponent": "New Orleans",
         "result": "L 6-9",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1173,7 +1173,7 @@
         "date": "2026-03-13",
         "opponent": "New Orleans",
         "result": "L 6-9",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=",
         "batting": null,
         "pitching": {
           "ip": "1.2",
@@ -1221,7 +1221,7 @@
         "date": "2026-03-14",
         "opponent": "New Orleans",
         "result": "L 1-13",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7597&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7597&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1282,7 +1282,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -1329,7 +1329,7 @@
         "date": "2026-03-14",
         "opponent": "New Orleans",
         "result": "L 1-13",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7597&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7597&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1449,7 +1449,7 @@
         "date": "2026-03-13",
         "opponent": "New Orleans",
         "result": "L 6-9",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1537,7 +1537,7 @@
         "date": "2026-03-13",
         "opponent": "New Orleans",
         "result": "L 6-9",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7598&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1598,7 +1598,7 @@
         "date": "2026-03-15",
         "opponent": "New Orleans",
         "result": "W 11-7",
-        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=baseball",
+        "boxscore_url": "https://uiwcardinals.com/boxscore.aspx?id=7596&path=",
         "batting": {
           "ab": 1,
           "r": 0,

@@ -2,13 +2,13 @@
   "school": "Alcorn State University",
   "base_url": "https://www.alcornsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:42:11.859041Z",
+  "generated_at": "2026-03-17T16:51:11.504284Z",
   "record": "3-16",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Alabama A&M",
     "result": "W 10-6",
-    "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+    "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
     "recap_url": "https://www.alcornsports.com/news/2026/3/15/braves-baseball-drops-rubber-game-at-aamu.aspx",
     "recap_headline": "Braves Baseball Drops Rubber Game at AAMU",
     "recap_text": ""
@@ -47,7 +47,7 @@
         "date": "2026-03-13",
         "opponent": "Alabama A&M",
         "result": "W 10-3",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -163,7 +163,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -210,7 +210,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -413,7 +413,7 @@
         "date": "2026-03-14",
         "opponent": "Alabama A&M",
         "result": "L 6-8",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -465,7 +465,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -554,7 +554,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -601,7 +601,7 @@
         "date": "2026-03-14",
         "opponent": "Alabama A&M",
         "result": "L 6-8",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -726,7 +726,7 @@
         "date": "2026-03-13",
         "opponent": "Alabama A&M",
         "result": "W 10-3",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -810,7 +810,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -871,7 +871,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -923,7 +923,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -993,7 +993,7 @@
         "date": "2026-03-13",
         "opponent": "Alabama A&M",
         "result": "W 10-3",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1054,7 +1054,7 @@
         "date": "2026-03-13",
         "opponent": "Alabama A&M",
         "result": "W 10-3",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1106,7 +1106,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1158,7 +1158,7 @@
         "date": "2026-03-14",
         "opponent": "Alabama A&M",
         "result": "L 6-8",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1284,7 +1284,7 @@
         "date": "2026-03-13",
         "opponent": "Alabama A&M",
         "result": "W 10-3",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7515&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1336,7 +1336,7 @@
         "date": "2026-03-14",
         "opponent": "Alabama A&M",
         "result": "L 6-8",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1415,7 +1415,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1503,7 +1503,7 @@
         "date": "2026-03-14",
         "opponent": "Alabama A&M",
         "result": "L 6-8",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7516&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1591,7 +1591,7 @@
         "date": "2026-03-15",
         "opponent": "Alabama A&M",
         "result": "W 10-6",
-        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=",
+        "boxscore_url": "https://www.alcornsports.com/boxscore.aspx?id=7517&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

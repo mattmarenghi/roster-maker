@@ -2,7 +2,7 @@
   "school": "Washington State University",
   "base_url": "https://www.wsucougars.com",
   "season": "2026",
-  "generated_at": "2026-03-17T12:21:42.596462Z",
+  "generated_at": "2026-03-17T17:34:45.803377Z",
   "record": "18-29",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -488,8 +488,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-14",
+        "opponent": "Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/alabama/boxscore/21325",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Alabama (L). Hitting .000 with 0 HR through 1 games."
     },
     "e80ba39d": {
       "id": "e80ba39d",

@@ -2,7 +2,7 @@
   "school": "Boston College",
   "base_url": "https://www.bceagles.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:44:44.971461Z",
+  "generated_at": "2026-03-17T16:53:57.842597Z",
   "record": "39-45",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -640,12 +640,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-15",
         "opponent": "NC State",
         "result": "L",
-        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26566",
+        "boxscore_url": "https://www.bceagles.com/sports/baseball/stats/2026/nc-state/boxscore/26568",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -658,7 +658,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. NC State (L). Hitting .128 with 0 HR through 15 games."
+      "narrative": "0/1 with 0 RBI vs. NC State (L). Hitting .128 with 0 HR through 15 games."
     },
     "0decce6a": {
       "id": "0decce6a",

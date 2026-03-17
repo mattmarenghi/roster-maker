@@ -2,13 +2,13 @@
   "school": "Alabama State University",
   "base_url": "https://www.bamastatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:42:09.402235Z",
+  "generated_at": "2026-03-17T16:50:59.113734Z",
   "record": "9-9",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Grambling",
     "result": "L 13-14",
-    "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+    "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
     "recap_url": "https://www.bamastatesports.com/news/2026/3/15/baseball-alabama-state-falls-to-grambling-14-13-despite-eighth-inning-lead.aspx",
     "recap_headline": "Alabama State University Athletics",
     "recap_text": ""
@@ -89,7 +89,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -141,7 +141,7 @@
         "date": "2026-03-14",
         "opponent": "Grambling",
         "result": "W 5-4",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -262,7 +262,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -383,7 +383,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -430,7 +430,7 @@
         "date": "2026-03-13",
         "opponent": "Grambling",
         "result": "L 5-9",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11352&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11352&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -491,7 +491,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -538,7 +538,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -594,7 +594,7 @@
         "date": "2026-03-14",
         "opponent": "Grambling",
         "result": "W 5-4",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -655,7 +655,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -707,7 +707,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -754,7 +754,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -810,7 +810,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -898,7 +898,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -959,7 +959,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -1006,7 +1006,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1067,7 +1067,7 @@
         "date": "2026-03-13",
         "opponent": "Grambling",
         "result": "L 5-9",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11352&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11352&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1114,7 +1114,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1207,7 +1207,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1263,7 +1263,7 @@
         "date": "2026-03-14",
         "opponent": "Grambling",
         "result": "W 5-4",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1324,7 +1324,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 2,
           "r": 3,
@@ -1394,7 +1394,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1450,7 +1450,7 @@
         "date": "2026-03-15",
         "opponent": "Grambling",
         "result": "L 13-14",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11354&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1543,7 +1543,7 @@
         "date": "2026-03-14",
         "opponent": "Grambling",
         "result": "W 5-4",
-        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=",
+        "boxscore_url": "https://www.bamastatesports.com/boxscore.aspx?id=11353&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,

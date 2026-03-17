@@ -2,13 +2,13 @@
   "school": "Binghamton University",
   "base_url": "https://www.bubearcats.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:44:04.617659Z",
+  "generated_at": "2026-03-17T16:53:15.692149Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Bryant",
     "result": "W 8-4",
-    "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+    "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
     "recap_url": "https://www.bubearcats.com/news/2026/3/15/baseball-upended-by-bryant-on-road-8-4.aspx",
     "recap_headline": "Binghamton University Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-13",
         "opponent": "Bryant",
         "result": "L 3-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -104,7 +104,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -188,7 +188,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -244,7 +244,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -424,7 +424,7 @@
         "date": "2026-03-13",
         "opponent": "Bryant",
         "result": "L 3-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -480,7 +480,7 @@
         "date": "2026-03-13",
         "opponent": "Bryant",
         "result": "L 3-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -536,7 +536,7 @@
         "date": "2026-03-14",
         "opponent": "Bryant",
         "result": "W 5-3",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15458&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15458&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -597,7 +597,7 @@
         "date": "2026-03-14",
         "opponent": "Bryant",
         "result": "W 5-3",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15458&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15458&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -649,7 +649,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -701,7 +701,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -785,7 +785,7 @@
         "date": "2026-03-14",
         "opponent": "Bryant",
         "result": "W 5-3",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15458&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15458&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -878,7 +878,7 @@
         "date": "2026-03-13",
         "opponent": "Bryant",
         "result": "L 3-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=baseball",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -962,7 +962,7 @@
         "date": "2026-03-13",
         "opponent": "Bryant",
         "result": "L 3-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1023,7 +1023,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1075,7 +1075,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1122,7 +1122,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1183,7 +1183,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -1235,7 +1235,7 @@
         "date": "2026-03-13",
         "opponent": "Bryant",
         "result": "L 3-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1314,7 +1314,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1407,7 +1407,7 @@
         "date": "2026-03-15",
         "opponent": "Bryant",
         "result": "W 8-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

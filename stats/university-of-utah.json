@@ -2,7 +2,7 @@
   "school": "University of Utah",
   "base_url": "https://utahutes.com",
   "season": "2026",
-  "generated_at": "2026-03-17T12:19:42.656522Z",
+  "generated_at": "2026-03-17T17:31:57.811501Z",
   "record": "22-29",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -1163,23 +1163,23 @@
         "opp_avg": ".294"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Grand Canyon",
-        "result": "W",
-        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/grand-canyon/boxscore/24309",
+        "date": "2026-03-13",
+        "opponent": "Arizona",
+        "result": "L",
+        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/arizona/boxscore/24313",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
+          "ip": "0.2",
+          "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
           "hbp": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. Grand Canyon (W). At 0.00 ERA through 4.2 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. Arizona (L). At 0.00 ERA through 4.2 innings on the season."
     },
     "61818438": {
       "id": "61818438",

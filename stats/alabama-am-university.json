@@ -2,13 +2,13 @@
   "school": "Alabama A&M University",
   "base_url": "https://www.aamusports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:42:19.306715Z",
+  "generated_at": "2026-03-17T16:51:07.684996Z",
   "record": "7-14",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Alcorn St.",
     "result": "W 10-6",
-    "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+    "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
     "recap_url": "https://www.aamusports.com/news/2026/3/15/baseball-big-sixth-inning-lifts-bulldogs-past-braves.aspx",
     "recap_headline": "Alabama A&M Athletics",
     "recap_text": ""
@@ -47,7 +47,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -108,7 +108,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 3,
           "r": 3,
@@ -197,7 +197,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -249,7 +249,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -356,7 +356,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -408,7 +408,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -460,7 +460,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -613,7 +613,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -706,7 +706,7 @@
         "date": "2026-03-14",
         "opponent": "Alcorn St.",
         "result": "L 6-8",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -762,7 +762,7 @@
         "date": "2026-03-14",
         "opponent": "Alcorn St.",
         "result": "L 6-8",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -951,7 +951,7 @@
         "date": "2026-03-13",
         "opponent": "Alcorn St.",
         "result": "W 10-3",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8644&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8644&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1113,7 +1113,7 @@
         "date": "2026-03-14",
         "opponent": "Alcorn St.",
         "result": "L 6-8",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1201,7 +1201,7 @@
         "date": "2026-03-14",
         "opponent": "Alcorn St.",
         "result": "L 6-8",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1289,7 +1289,7 @@
         "date": "2026-03-15",
         "opponent": "Alcorn St.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8646&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1382,7 +1382,7 @@
         "date": "2026-03-14",
         "opponent": "Alcorn St.",
         "result": "L 6-8",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8645&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -1429,7 +1429,7 @@
         "date": "2026-03-13",
         "opponent": "Alcorn St.",
         "result": "W 10-3",
-        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8644&path=",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8644&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

@@ -2,13 +2,13 @@
   "school": "Monmouth University",
   "base_url": "https://www.monmouthhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-17T11:57:59.755665Z",
+  "generated_at": "2026-03-17T17:07:45.427790Z",
   "record": "8-8",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Hofstra",
     "result": "W 19-9",
-    "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+    "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
     "recap_url": "https://www.monmouthhawks.com/news/2026/3/15/baseball-hawks-comeback-for-19-9-win-over-hofstra-in-series-finale.aspx",
     "recap_headline": "Monmouth University Athletics",
     "recap_text": ""
@@ -126,7 +126,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 0,
           "r": 3,
@@ -173,7 +173,7 @@
         "date": "2026-03-14",
         "opponent": "Hofstra",
         "result": "L 4-5",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -234,7 +234,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -281,7 +281,7 @@
         "date": "2026-03-13",
         "opponent": "Hofstra",
         "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -342,7 +342,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -431,7 +431,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -478,7 +478,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -539,7 +539,7 @@
         "date": "2026-03-13",
         "opponent": "Hofstra",
         "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -586,7 +586,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -743,7 +743,7 @@
         "date": "2026-03-14",
         "opponent": "Hofstra",
         "result": "L 4-5",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -836,7 +836,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -888,7 +888,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 4,
           "r": 3,
@@ -935,7 +935,7 @@
         "date": "2026-03-13",
         "opponent": "Hofstra",
         "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -991,7 +991,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1084,7 +1084,7 @@
         "date": "2026-03-14",
         "opponent": "Hofstra",
         "result": "L 4-5",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -1168,7 +1168,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1325,7 +1325,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1381,7 +1381,7 @@
         "date": "2026-03-13",
         "opponent": "Hofstra",
         "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=baseball",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
         "batting": {
           "ab": 0,
           "r": 0,
