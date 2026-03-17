@@ -346,12 +346,45 @@ def render_report(roster, stats, missing_schools):
     w(f"These schools don't use the Sidearm platform (or had errors during probing). "
       f"Stats must be sourced from an alternative platform.")
     w(f"")
-    w(f"| School | Error |")
-    w(f"|--------|-------|")
-    for school, err in sorted(stats["incompatible_schools"].items()):
-        err_str = str(err or "—").replace("|", "\\|")[:80]
-        w(f"| {school} | {err_str} |")
-    w(f"")
+
+    # Split into ESPN-covered and not covered
+    espn_covered = {s: e for s, e in stats["incompatible_schools"].items()
+                    if s in stats["stats_detail"]}
+    not_covered = {s: e for s, e in stats["incompatible_schools"].items()
+                   if s not in stats["stats_detail"]}
+
+    if espn_covered:
+        w(f"### Incompatible but covered via ESPN/alternative ({len(espn_covered)})")
+        w(f"")
+        w(f"| School | Record | Most Recent Game |")
+        w(f"|--------|--------|-----------------|")
+        for school in sorted(espn_covered.keys()):
+            sd = stats["stats_detail"].get(school, {})
+            slug = sd.get("slug", "")
+            record = ""
+            mrg = ""
+            if slug:
+                import os
+                path = os.path.join(os.path.dirname(__file__), "stats", f"{slug}.json")
+                if os.path.exists(path):
+                    import json as _json
+                    d = _json.load(open(path))
+                    record = d.get("record", "")
+                    g = d.get("most_recent_game")
+                    if g:
+                        mrg = f"{g.get('date', '')} vs {g.get('opponent', '')} {g.get('result', '')}"
+            w(f"| {school} | {record} | {mrg} |")
+        w(f"")
+
+    if not_covered:
+        w(f"### Incompatible and not yet covered ({len(not_covered)})")
+        w(f"")
+        w(f"| School | Error |")
+        w(f"|--------|-------|")
+        for school, err in sorted(not_covered.items()):
+            err_str = str(err or "—").replace("|", "\\|")[:80]
+            w(f"| {school} | {err_str} |")
+        w(f"")
 
     # ── Missing Rosters ───────────────────────────────────────────────────────
     w(f"## Schools with No Roster Scraped ({len(missing_schools)})")

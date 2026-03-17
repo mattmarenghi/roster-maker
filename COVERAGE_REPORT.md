@@ -1,6 +1,6 @@
 # D1 Baseball Coverage Report
 
-_Generated: 2026-03-17 15:26 UTC_
+_Generated: 2026-03-17 15:28 UTC_
 
 ## Summary
 
@@ -362,14 +362,31 @@ These schools publish rosters without bats/throws data. This affects ~1,604 play
 
 These schools don't use the Sidearm platform (or had errors during probing). Stats must be sourced from an alternative platform.
 
+### Incompatible but covered via ESPN/alternative (13)
+
+| School | Record | Most Recent Game |
+|--------|--------|-----------------|
+| Florida Gulf Coast University | 16-4 | 2026-03-14 vs Queens University Royals W 4-2 |
+| Gardner-Webb University | 4-4 | 2026-03-08 vs Oklahoma State Cowboys L 1-16 |
+| Georgia Institute of Technology | 17-3 | 2026-03-14 vs Clemson Tigers W 9-3 |
+| Louisiana State University | 14-7 | 2026-03-15 vs Vanderbilt Commodores L 3-11 |
+| University of Arizona | 7-12 | 2026-03-15 vs Utah Utes L 7-8 |
+| University of Illinois Urbana-Champaign | 10-8 | 2026-03-14 vs Minnesota Golden Gophers L 0-1 |
+| University of Kentucky | 18-2 | 2026-03-15 vs Alabama Crimson Tide W 6-4 |
+| University of Miami (Florida) | 14-6 | 2026-03-15 vs Duke Blue Devils L 10-20 |
+| University of Notre Dame | 11-6 | 2026-03-15 vs Louisville Cardinals L 12-21 |
+| University of San Francisco | 1-4 | 2026-03-15 vs UC Riverside Highlanders L 5-6 |
+| University of South Carolina, Columbia | 12-9 | 2026-03-15 vs Florida Gators L 3-13 |
+| Vanderbilt University | 13-8 | 2026-03-15 vs LSU Tigers W 11-3 |
+| Wofford College | 1-1 | 2026-03-11 vs Charleston Cougars W 13-9 |
+
+### Incompatible and not yet covered (28)
+
 | School | Error |
 |--------|-------|
 | Bradley University | Exceeded 30 redirects. |
 | Canisius University | Exceeded 30 redirects. |
-| Florida Gulf Coast University | Exceeded 30 redirects. |
 | Furman University | Exceeded 30 redirects. |
-| Gardner-Webb University | Exceeded 30 redirects. |
-| Georgia Institute of Technology | — |
 | Georgia State University | Exceeded 30 redirects. |
 | Gonzaga University | Exceeded 30 redirects. |
 | Grambling State University | Exceeded 30 redirects. |
@@ -377,7 +394,6 @@ These schools don't use the Sidearm platform (or had errors during probing). Sta
 | Jacksonville State University | Exceeded 30 redirects. |
 | Kennesaw State University | Exceeded 30 redirects. |
 | Longwood University | Exceeded 30 redirects. |
-| Louisiana State University | — |
 | Loyola University Chicago | Exceeded 30 redirects. |
 | New Mexico State University | Exceeded 30 redirects. |
 | North Dakota State University | Exceeded 30 redirects. |
@@ -386,24 +402,15 @@ These schools don't use the Sidearm platform (or had errors during probing). Sta
 | Oakland University | Exceeded 30 redirects. |
 | Oral Roberts University | Exceeded 30 redirects. |
 | Stetson University | Exceeded 30 redirects. |
-| University of Arizona | Exceeded 30 redirects. |
 | University of California, Irvine | Exceeded 30 redirects. |
 | University of Illinois Chicago | Exceeded 30 redirects. |
-| University of Illinois Urbana-Champaign | Exceeded 30 redirects. |
-| University of Kentucky | — |
-| University of Miami (Florida) | — |
 | University of Nebraska at Omaha | Exceeded 30 redirects. |
 | University of North Carolina Wilmington | Exceeded 30 redirects. |
 | University of North Dakota | — |
-| University of Notre Dame | — |
 | University of San Diego | Exceeded 30 redirects. |
-| University of San Francisco | Exceeded 30 redirects. |
-| University of South Carolina, Columbia | — |
-| Vanderbilt University | — |
 | Virginia Commonwealth University | Exceeded 30 redirects. |
 | Western Michigan University | Exceeded 30 redirects. |
 | Wichita State University | Exceeded 30 redirects. |
-| Wofford College | Exceeded 30 redirects. |
 | Yale University | Exceeded 30 redirects. |
 
 ## Schools with No Roster Scraped (107)
