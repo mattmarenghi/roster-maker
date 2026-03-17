@@ -1269,7 +1269,7 @@ def generate_narrative_claude(player: dict, game_info: dict, article_text: str) 
     date = game_info.get("date", "")
     result_str = game_info.get("result", "")
 
-    prompt = f"""You are a college baseball analyst writing a compact player spotlight for a scouting database.
+    prompt = f"""You are writing a brief, factual player spotlight for a college baseball database.
 
 Player: {player['name']} | {player.get('pos', 'N/A')} | {player.get('yr', '')} | {player.get('school', '')}
 Game ({date}): vs {opponent} ({result_str})
@@ -1279,7 +1279,7 @@ Last game: {stats_str}
 Game recap (use for context if available):
 {article_text[:2000] if article_text else '[No recap available]'}
 
-Write exactly 2 sentences. Sentence 1: the game performance — lead with the most compelling angle (a streak, opponent quality, or a specific moment from the recap beats restating the box score). Sentence 2: season context or bigger-picture significance. Use stat-forward, fragment-friendly phrasing. No markdown. No headers. Past tense. Do not start with the player's name."""
+Write exactly 2 short sentences. Sentence 1: what happened in the game — use a specific moment or angle from the recap if available, otherwise lead with the most notable stat. Sentence 2: season stats in context (games played, key counting stats, rate stats). Rules: facts and stats only — no opinions, no assessments of the player's ability or potential, no phrases like "suggesting", "signaling", "showing", "projects as", "room for", "needs to", or any evaluative language. Do not characterize stats as good or bad. No markdown. No headers. Past tense. Do not start with the player's name."""
 
     try:
         message = client.messages.create(
