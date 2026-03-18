@@ -2,7 +2,11 @@ name: Daily Stats Scrape and Deploy
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # 6 AM ET daily (adjust if you're in a different timezone)
+    # Optimized per-day schedule: run ~1 hour after the last West Coast game ends.
+    # West Coast evening games (latest starts ~6:30 PM PDT) finish ~10:30 PM PDT = 5:30 AM UTC.
+    # Sunday games start much earlier (done by ~6 PM PDT = 1 AM UTC), so Monday fires at 2 AM UTC.
+    - cron: '30 6 * * 0,2-6'  # 6:30 AM UTC (2:30 AM EDT) — Sun + Tue–Sat — captures Sat/Mon–Fri games
+    - cron: '0 2 * * 1'        # 2:00 AM UTC (10:00 PM EDT Sun) — Mon only — captures Sunday games
   workflow_dispatch: {}    # manual trigger from the Actions tab
 
 permissions:
