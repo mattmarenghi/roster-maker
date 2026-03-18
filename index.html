@@ -1154,7 +1154,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.20 (claude/update-pitcher-stats-kWx33)</div>`;
+        <div class="ps-version">VERSION 2.5.22 (claude/update-pitcher-stats-kWx33)</div>`;
       return;
     }
 
@@ -1196,7 +1196,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.20 (claude/update-pitcher-stats-kWx33)</div>`;
+      <div class="ps-version">VERSION 2.5.22 (claude/update-pitcher-stats-kWx33)</div>`;
   }
 
   async function signOut() {
@@ -1628,14 +1628,18 @@
   }
 
   // ── Load stats files ──────────────────────────────────────────────────────
+  const STATS_TTL_MS = 30 * 60 * 1000; // re-fetch stats if tab was backgrounded > 30 min
+  let lastStatsFetch = 0;
+
   async function loadStats() {
+    const bust = Date.now();
     try {
-      const idxRes = await fetch('stats/index.json');
+      const idxRes = await fetch(`stats/index.json?v=${bust}`);
       if (!idxRes.ok) return;
       const slugs = await idxRes.json();
       await Promise.all(slugs.map(async slug => {
         try {
-          const res = await fetch(`stats/${slug}.json`);
+          const res = await fetch(`stats/${slug}.json?v=${bust}`);
           if (!res.ok) return;
           const data = await res.json();
           schoolStatsMap[data.school] = data;
@@ -1645,7 +1649,17 @@
         } catch (e) { /* skip */ }
       }));
     } catch (e) { /* no index */ }
+    lastStatsFetch = Date.now();
   }
+
+  // Re-fetch stats silently when user returns to the tab after 30+ min away.
+  // No polling — fires only on tab focus, and only when data is stale.
+  document.addEventListener('visibilitychange', async () => {
+    if (document.visibilityState !== 'visible') return;
+    if (Date.now() - lastStatsFetch < STATS_TTL_MS) return;
+    await loadStats();
+    if (!searchActive) renderHomepage();
+  });
 
   // ── School aliases ────────────────────────────────────────────────────────
   // Maps full school name → array of alternate search terms (abbreviations,
