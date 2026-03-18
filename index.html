@@ -1154,7 +1154,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.20 (claude/update-pitcher-stats-kWx33)</div>`;
+        <div class="ps-version">VERSION 2.5.21 (claude/update-pitcher-stats-kWx33)</div>`;
       return;
     }
 
@@ -1196,7 +1196,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.20 (claude/update-pitcher-stats-kWx33)</div>`;
+      <div class="ps-version">VERSION 2.5.21 (claude/update-pitcher-stats-kWx33)</div>`;
   }
 
   async function signOut() {
@@ -1628,14 +1628,15 @@
   }
 
   // ── Load stats files ──────────────────────────────────────────────────────
+  const STATS_BUST = '20260318c';
   async function loadStats() {
     try {
-      const idxRes = await fetch('stats/index.json');
+      const idxRes = await fetch(`stats/index.json?v=${STATS_BUST}`);
       if (!idxRes.ok) return;
       const slugs = await idxRes.json();
       await Promise.all(slugs.map(async slug => {
         try {
-          const res = await fetch(`stats/${slug}.json`);
+          const res = await fetch(`stats/${slug}.json?v=${STATS_BUST}`);
           if (!res.ok) return;
           const data = await res.json();
           schoolStatsMap[data.school] = data;
