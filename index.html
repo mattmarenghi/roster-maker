@@ -231,6 +231,32 @@
       margin-bottom: 18px;
     }
 
+    .section-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 8px 0 6px;
+    }
+    .section-header-row .section-title { margin: 0; }
+
+    .sort-select {
+      appearance: none;
+      -webkit-appearance: none;
+      background: #f4f6fb url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236b7280' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3C/svg%3E") no-repeat right 8px center;
+      border: 1.5px solid #e0e4f0;
+      border-radius: 8px;
+      color: #374151;
+      cursor: pointer;
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 5px 28px 5px 10px;
+      transition: border-color 0.15s;
+    }
+    .sort-select:focus {
+      border-color: #4361ee;
+      outline: none;
+    }
+
     /* ── Favorite player card (homepage) ───────────────────────────────── */
     .player-card {
       background: white;
@@ -856,7 +882,15 @@
 
 <!-- Main content: My Players (homepage) -->
 <div class="main-content" id="mainContent">
-  <p class="section-title">My Players</p>
+  <div class="section-header-row">
+    <p class="section-title">My Players</p>
+    <select class="sort-select" id="sortSelect" style="display:none" onchange="onSortChange(this.value)">
+      <option value="school">School</option>
+      <option value="fn">First Name</option>
+      <option value="ln">Last Name</option>
+      <option value="recent">Most Recent</option>
+    </select>
+  </div>
   <div class="section-divider"></div>
   <div id="playersArea"></div>
 </div>
@@ -868,6 +902,29 @@
   let playerStatsMap = {};
   let schoolStatsMap = {};
   let searchActive = false;
+  let currentSort = localStorage.getItem('playerSort') || 'school';
+
+  function sortedFavPlayers(favPlayers) {
+    const arr = [...favPlayers];
+    switch (currentSort) {
+      case 'fn':
+        return arr.sort((a, b) => (a.fn || '').localeCompare(b.fn || ''));
+      case 'ln':
+        return arr.sort((a, b) => (a.ln || '').localeCompare(b.ln || ''));
+      case 'recent': {
+        const getDate = p => playerStatsMap[p.id]?.last_game?.date || '';
+        return arr.sort((a, b) => {
+          const da = getDate(a), db = getDate(b);
+          if (!da && !db) return 0;
+          if (!da) return 1;
+          if (!db) return -1;
+          return db.localeCompare(da);
+        });
+      }
+      default: // 'school' — preserve JSON order
+        return arr;
+    }
+  }
 
   // ── Supabase ────────────────────────────────────────────────────────────────
   const db = supabase.createClient(
@@ -1154,7 +1211,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.22 (claude/update-pitcher-stats-kWx33)</div>`;
+        <div class="ps-version">VERSION 2.5.23 (claude/player-card-sort-order-Bz1fQ)</div>`;
       return;
     }
 
@@ -1196,7 +1253,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.22 (claude/update-pitcher-stats-kWx33)</div>`;
+      <div class="ps-version">VERSION 2.5.23 (claude/player-card-sort-order-Bz1fQ)</div>`;
   }
 
   async function signOut() {
@@ -1369,11 +1426,26 @@
     return map[key] || yr;
   }
 
+  // ── Sort control ────────────────────────────────────────────────────────────
+  function onSortChange(val) {
+    currentSort = val;
+    localStorage.setItem('playerSort', val);
+    renderHomepage();
+  }
+
+  function syncSortSelect(visible) {
+    const sel = $('sortSelect');
+    if (!sel) return;
+    sel.style.display = visible ? '' : 'none';
+    sel.value = currentSort;
+  }
+
   // ── Homepage / My Players ───────────────────────────────────────────────────
   function renderHomepage() {
     const area = $('playersArea');
 
     if (!currentUser) {
+      syncSortSelect(false);
       area.innerHTML = `
         <div class="empty-state">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -1387,6 +1459,7 @@
     }
 
     if (favorites.size === 0) {
+      syncSortSelect(false);
       area.innerHTML = `
         <div class="empty-state">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -1398,7 +1471,8 @@
       return;
     }
 
-    const favPlayers = allPlayers.filter(p => favorites.has(p.id));
+    syncSortSelect(true);
+    const favPlayers = sortedFavPlayers(allPlayers.filter(p => favorites.has(p.id)));
     area.innerHTML = favPlayers.map(p => playerCardHTML(p)).join('');
   }
 
