@@ -2,13 +2,13 @@
   "school": "Illinois State University",
   "base_url": "https://GoRedbirds.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:01:38.518361Z",
+  "generated_at": "2026-03-18T07:47:50.178162Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-14",
     "opponent": "Western Ill.",
     "result": "W 7-6",
-    "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+    "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
     "recap_url": "https://GoRedbirds.com/news/2026/3/14/baseball-redbirds-seal-series-sweep-over-wiu-with-walk-off-in-15-innning-thriller-saturday-evening.aspx",
     "recap_headline": "Redbirds Seal Series Sweep Over WIU With Walk-Off In 15 Innning Thriller Saturday Evening",
     "recap_text": ""
@@ -63,22 +63,22 @@
       "season_batting": {
         "g": 20,
         "gs": 19,
-        "avg": 0.275,
-        "ops": 0.719,
+        "avg": 0.29,
+        "ops": 0.746,
         "ab": 69,
         "r": 15,
-        "h": 19,
+        "h": 20,
         "doubles": 1,
         "triples": 0,
         "hr": 2,
         "rbi": 10,
-        "tb": 26,
-        "slg": 0.377,
+        "tb": 27,
+        "slg": 0.391,
         "bb": 5,
         "hbp": 2,
         "so": 15,
         "gdp": 2,
-        "obp": 0.342,
+        "obp": 0.355,
         "sf": 0,
         "sh": 4,
         "sb": 6,
@@ -126,7 +126,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 7,
           "r": 2,
@@ -175,12 +175,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-13",
         "opponent": "Western Ill.",
-        "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "result": "L 7-10",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -190,7 +190,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Western Ill. (W 7-6). Hitting .239 with 1 HR through 17 games."
+      "narrative": "0/1 with 0 RBI vs. Western Ill. (L 7-10). Hitting .239 with 1 HR through 17 games."
     },
     "5019cf4c": {
       "id": "5019cf4c",
@@ -299,7 +299,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 7,
           "r": 1,
@@ -351,7 +351,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -440,7 +440,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -492,7 +492,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -562,7 +562,7 @@
         "date": "2026-03-13",
         "opponent": "Western Ill.",
         "result": "L 7-10",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=baseball",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -614,7 +614,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -698,7 +698,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -716,7 +716,10 @@
           "bb": 1,
           "so": 8,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 8 K, 0 ER vs. Western Ill. (W 7-6). At 1.59 ERA through 17.0 innings on the season."
@@ -796,7 +799,7 @@
         "date": "2026-03-13",
         "opponent": "Western Ill.",
         "result": "L 7-10",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -848,7 +851,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -895,7 +898,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -913,7 +916,10 @@
           "bb": 1,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 5 K vs. Western Ill. (W 7-6). At 9.50 ERA through 16.1 innings on the season."
@@ -988,7 +994,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 6,
           "r": 0,
@@ -1035,7 +1041,7 @@
         "date": "2026-03-13",
         "opponent": "Western Ill.",
         "result": "L 7-10",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1053,7 +1059,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 2 K vs. Western Ill. (L 7-10). At 13.85 ERA through 5.2 innings on the season."
@@ -1155,7 +1164,7 @@
         "date": "2026-03-13",
         "opponent": "Western Ill.",
         "result": "L 7-10",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1173,7 +1182,10 @@
           "bb": 1,
           "so": 5,
           "wp": 2,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 5 K, 6 ER vs. Western Ill. (L 7-10). At 6.68 ERA through 20.2 innings on the season."
@@ -1211,7 +1223,7 @@
         "date": "2026-03-13",
         "opponent": "Western Ill.",
         "result": "L 7-10",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23297&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1229,7 +1241,10 @@
           "bb": 1,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 3 K vs. Western Ill. (L 7-10). At 1.29 ERA through 21.0 innings on the season."
@@ -1267,7 +1282,7 @@
         "date": "2026-03-13",
         "opponent": "Western Ill.",
         "result": "L 1-7",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23298&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23298&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1285,7 +1300,10 @@
           "bb": 1,
           "so": 4,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 4 K vs. Western Ill. (L 1-7). At 5.96 ERA through 15.1 innings on the season."
@@ -1323,7 +1341,7 @@
         "date": "2026-03-14",
         "opponent": "Western Ill.",
         "result": "W 7-6",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1341,7 +1359,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Western Ill. (W 7-6). At 10.31 ERA through 13.1 innings on the season."
@@ -1443,7 +1464,7 @@
         "date": "2026-03-13",
         "opponent": "Western Ill.",
         "result": "L 1-7",
-        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23298&path=",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23298&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1461,7 +1482,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 6 K, 0 ER vs. Western Ill. (L 1-7). At 1.29 ERA through 21.0 innings on the season."

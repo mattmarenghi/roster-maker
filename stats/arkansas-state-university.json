@@ -2,7 +2,7 @@
   "school": "Arkansas State University",
   "base_url": "https://www.astateredwolves.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:51:45.030518Z",
+  "generated_at": "2026-03-18T07:38:02.096305Z",
   "record": "15-6",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -473,7 +473,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "1.1 IP, 1 K vs. Southern Miss (W 5-2). At 4.50 ERA through 16.0 innings on the season."
@@ -521,7 +524,10 @@
           "bb": 2,
           "so": 9,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 9 K, 3 ER vs. Southern Miss (L 1-7). At 3.09 ERA through 26.2 innings on the season."
@@ -577,7 +583,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -685,7 +694,10 @@
           "bb": 2,
           "so": 7,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.1 IP, 7 K, 2 ER vs. Southern Miss (W 8-5). At 2.99 ERA through 27.1 innings on the season."
@@ -815,7 +827,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 4 K, 1 ER vs. Southern Miss (W 5-2). At 1.88 ERA through 24.0 innings on the season."
@@ -871,7 +886,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 2 K vs. Southern Miss (L 1-7). At 2.40 ERA through 15.0 innings on the season."
@@ -927,7 +945,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1015,7 +1036,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Southern Miss (L 1-7). At 0.00 ERA through 0.2 innings on the season."
@@ -1123,7 +1147,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 2 K vs. Southern Miss (W 5-2). At 1.07 ERA through 25.2 innings on the season."
@@ -1211,7 +1238,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Southern Miss (L 1-7). At 3.80 ERA through 7.1 innings on the season."
@@ -1336,7 +1366,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Southern Miss (W 5-2). At 2.08 ERA through 13.0 innings on the season."

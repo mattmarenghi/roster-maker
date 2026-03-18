@@ -2,7 +2,7 @@
   "school": "Saint Joseph's University",
   "base_url": "https://sjuhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:12:49.459736Z",
+  "generated_at": "2026-03-18T07:58:24.239288Z",
   "record": "8-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -117,7 +117,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. Richmond (L 9-11). At 10.44 ERA through 18.1 innings on the season."
@@ -420,7 +423,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 2 K, 1 ER vs. Richmond (L 1-5). At 5.04 ERA through 23.2 innings on the season."
@@ -728,7 +734,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Richmond (L 1-5). At 1.05 ERA through 17.1 innings on the season."
@@ -816,7 +825,10 @@
           "bb": 3,
           "so": 10,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 10 K vs. Richmond (L 3-4). At 7.54 ERA through 19.1 innings on the season."
@@ -872,7 +884,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 4 K vs. Richmond (L 9-11). At 6.30 ERA through 10.0 innings on the season."
@@ -1029,7 +1044,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 2 K vs. Richmond (L 3-4). At 4.50 ERA through 10.0 innings on the season."
@@ -1201,7 +1219,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Richmond (L 9-11). At 16.20 ERA through 5.0 innings on the season."
@@ -1257,7 +1278,10 @@
           "bb": 0,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 2 K vs. Richmond (L 3-4). At 0.00 ERA through 11.1 innings on the season."
@@ -1313,7 +1337,10 @@
           "bb": 1,
           "so": 3,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Richmond (L 1-5). At 8.11 ERA through 11.1 innings on the season."

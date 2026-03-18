@@ -2,7 +2,7 @@
   "school": "Lafayette College",
   "base_url": "https://www.goleopards.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:03:25.753262Z",
+  "generated_at": "2026-03-18T07:49:29.877846Z",
   "record": "1-13",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -97,7 +97,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 2 K vs. Bucknell (W 9-8). At 23.62 ERA through 8.0 innings on the season."
@@ -153,7 +156,10 @@
           "bb": 1,
           "so": 0,
           "wp": 2,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Bucknell (W 8-0). At 24.00 ERA through 3.0 innings on the season."
@@ -476,7 +482,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 2 K vs. Bucknell (W 8-0). At 10.29 ERA through 7.0 innings on the season."
@@ -757,7 +766,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -850,7 +862,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 1 K vs. Bucknell (W 8-5). At 16.23 ERA through 6.1 innings on the season."
@@ -1062,7 +1077,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 4 K vs. Bucknell (W 8-0). At 6.92 ERA through 13.0 innings on the season."
@@ -1118,7 +1136,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 5 ER vs. Bucknell (W 8-5). At 5.87 ERA through 23.0 innings on the season."
@@ -1211,7 +1232,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Bucknell (W 8-0). At 14.12 ERA through 5.1 innings on the season."
@@ -1304,7 +1328,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Bucknell (W 8-0). At 13.17 ERA through 4.1 innings on the season."
@@ -1360,7 +1387,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Bucknell (W 9-8). At 15.00 ERA through 4.2 innings on the season."
@@ -1416,7 +1446,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Bucknell (W 8-0). At 14.06 ERA through 3.2 innings on the season."
@@ -1509,7 +1542,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Bucknell (W 8-0). At 8.89 ERA through 8.1 innings on the season."
@@ -1666,7 +1702,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Bucknell (W 8-0). At 14.12 ERA through 5.1 innings on the season."
@@ -1754,7 +1793,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 3 K vs. Bucknell (W 9-8). At 13.50 ERA through 6.0 innings on the season."

@@ -2,7 +2,7 @@
   "school": "Indiana State University",
   "base_url": "https://www.gosycamores.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:01:45.466087Z",
+  "generated_at": "2026-03-18T07:47:59.914044Z",
   "record": "7-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -65,7 +65,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Gonzaga (L 16-23). At 7.38 ERA through 12.2 innings on the season."
@@ -158,7 +161,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Gonzaga (L 16-23). At 5.70 ERA through 14.2 innings on the season."
@@ -214,7 +220,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 3 ER vs. Gonzaga (L 4-7). At 2.53 ERA through 32.0 innings on the season."
@@ -270,7 +279,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Gonzaga (L 16-23). At 13.85 ERA through 9.1 innings on the season."
@@ -504,7 +516,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Gonzaga (L 16-23). At 18.00 ERA through 2.0 innings on the season."
@@ -824,7 +839,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Gonzaga (L 16-23). At 8.84 ERA through 11.2 innings on the season."
@@ -950,7 +968,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Gonzaga (L 4-7). At 9.00 ERA through 13.0 innings on the season."
@@ -1058,7 +1079,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Gonzaga (L 16-23). At 13.75 ERA through 7.2 innings on the season."
@@ -1114,7 +1138,10 @@
           "bb": 5,
           "so": 5,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 5 K vs. Gonzaga (L 16-23). At 11.58 ERA through 17.1 innings on the season."
@@ -1170,7 +1197,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Gonzaga (L 16-23). At 18.00 ERA through 3.0 innings on the season."
@@ -1278,7 +1308,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 4 K vs. Gonzaga (L 4-7). At 7.83 ERA through 9.2 innings on the season."
@@ -1334,7 +1367,10 @@
           "bb": 2,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Gonzaga (L 4-7). At 3.46 ERA through 5.2 innings on the season."
@@ -1534,7 +1570,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 2 K vs. Gonzaga (L 4-7). At 3.77 ERA through 19.1 innings on the season."

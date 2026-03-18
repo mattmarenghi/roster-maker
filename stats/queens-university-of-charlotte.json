@@ -2,7 +2,7 @@
   "school": "Queens University of Charlotte",
   "base_url": "https://www.queensathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:11:36.221815Z",
+  "generated_at": "2026-03-18T07:57:07.581999Z",
   "record": "4-16",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -109,7 +109,10 @@
           "bb": 2,
           "so": 6,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.2 IP, 6 K, 3 ER vs. FGCU (W 4-2). At 7.14 ERA through 25.2 innings on the season."
@@ -551,7 +554,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 1 K vs. FGCU (W 4-2). At 6.72 ERA through 20.1 innings on the season."
@@ -785,7 +791,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. FGCU (W 2-1). At 8.11 ERA through 11.1 innings on the season."
@@ -933,7 +942,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 3 K, 2 ER vs. FGCU (W 2-1). At 5.40 ERA through 30.0 innings on the season."
@@ -1096,7 +1108,10 @@
           "bb": 0,
           "so": 2,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 2 K vs. FGCU (W 11-0). At 15.00 ERA through 9.0 innings on the season."
@@ -1360,7 +1375,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 6 ER vs. FGCU (W 11-0). At 6.00 ERA through 27.0 innings on the season."

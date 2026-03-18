@@ -2,7 +2,7 @@
   "school": "Bellarmine University",
   "base_url": "https://athletics.bellarmine.edu",
   "season": "2026",
-  "generated_at": "2026-03-17T16:52:31.788580Z",
+  "generated_at": "2026-03-18T07:38:35.702281Z",
   "record": "5-13",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -102,7 +102,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "1.0 IP, 0 K vs. Austin Peay (W 9-8). At 5.25 ERA through 12.0 innings on the season."
@@ -351,7 +354,10 @@
           "bb": 1,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Austin Peay (L 9-15). At 3.00 ERA through 9.0 innings on the season."
@@ -407,7 +413,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Austin Peay (L 3-12). At 7.61 ERA through 7.1 innings on the season."
@@ -688,7 +697,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Austin Peay (L 9-15). At 0.00 ERA through 1.0 innings on the season."
@@ -922,7 +934,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Austin Peay (W 9-8). At 5.29 ERA through 10.2 innings on the season."
@@ -1047,7 +1062,10 @@
           "bb": 2,
           "so": 2,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 2 K vs. Austin Peay (W 9-8). At 8.14 ERA through 22.1 innings on the season."
@@ -1219,7 +1237,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. Austin Peay (L 3-12). At 10.80 ERA through 5.0 innings on the season."
@@ -1275,7 +1296,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Austin Peay (L 9-15). At 14.90 ERA through 15.1 innings on the season."
@@ -1467,7 +1491,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Austin Peay (L 9-15). At 11.25 ERA through 3.2 innings on the season."
@@ -1523,7 +1550,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. Austin Peay (L 3-12). At 8.44 ERA through 16.0 innings on the season."
@@ -1579,7 +1609,10 @@
           "bb": 1,
           "so": 4,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 4 K vs. Austin Peay (W 9-8). At 1.48 ERA through 6.1 innings on the season."
@@ -1635,7 +1668,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Austin Peay (L 3-12). At 4.02 ERA through 11.2 innings on the season."
@@ -1691,7 +1727,10 @@
           "bb": 1,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Austin Peay (L 3-12). At 15.21 ERA through 14.2 innings on the season."

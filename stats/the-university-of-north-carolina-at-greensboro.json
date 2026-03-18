@@ -2,7 +2,7 @@
   "school": "The University of North Carolina at Greensboro",
   "base_url": "https://www.uncgspartans.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:17:29.686841Z",
+  "generated_at": "2026-03-18T08:02:51.839225Z",
   "record": "10-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -572,7 +572,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Ill.-Chicago (L 5-9). At 9.00 ERA through 1.0 innings on the season."
@@ -754,7 +757,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 1 K vs. Ill.-Chicago (L 5-9). At 6.00 ERA through 9.0 innings on the season."
@@ -847,7 +853,10 @@
           "bb": 5,
           "so": 7,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 7 K vs. Ill.-Chicago (L 5-9). At 7.74 ERA through 22.1 innings on the season."
@@ -903,7 +912,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Ill.-Chicago (L 5-6). At 6.87 ERA through 13.1 innings on the season."
@@ -991,7 +1003,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 3 K vs. Ill.-Chicago (L 2-8). At 4.48 ERA through 22.1 innings on the season."
@@ -1117,7 +1132,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Ill.-Chicago (L 5-6). At 7.38 ERA through 6.1 innings on the season."
@@ -1173,7 +1191,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Ill.-Chicago (L 5-6). At 2.77 ERA through 13.0 innings on the season."
@@ -1229,7 +1250,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Ill.-Chicago (L 2-8). At 2.73 ERA through 13.2 innings on the season."
@@ -1285,7 +1309,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Ill.-Chicago (L 2-8). At 6.00 ERA through 9.0 innings on the season."
@@ -1373,7 +1400,10 @@
           "bb": 1,
           "so": 6,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 6 K, 3 ER vs. Ill.-Chicago (L 5-6). At 8.44 ERA through 19.2 innings on the season."

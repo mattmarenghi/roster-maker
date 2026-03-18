@@ -2,15 +2,15 @@
   "school": "Bethune-Cookman University",
   "base_url": "https://www.bcuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:53:05.670880Z",
-  "record": "14-6",
+  "generated_at": "2026-03-18T07:39:04.746093Z",
+  "record": "14-7",
   "most_recent_game": {
-    "date": "2026-03-14",
-    "opponent": "Prairie View",
-    "result": "W 6-3",
-    "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13742&path=baseball",
-    "recap_url": "https://www.bcuathletics.com/news/2026/3/14/baseball-b-cu-sweeps-doubleheader-earns-3-0-series-victory-over-prairie-view.aspx",
-    "recap_headline": "Bethune-Cookman University Athletics",
+    "date": "2026-03-17",
+    "opponent": "Florida State",
+    "result": "W 12-1",
+    "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
+    "recap_url": null,
+    "recap_headline": "",
     "recap_text": ""
   },
   "players": {
@@ -24,11 +24,11 @@
       "num": "1",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.348,
-        "ops": 1.092,
-        "ab": 69,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.333,
+        "ops": 1.05,
+        "ab": 72,
         "r": 27,
         "h": 24,
         "doubles": 10,
@@ -36,12 +36,12 @@
         "hr": 2,
         "rbi": 10,
         "tb": 42,
-        "slg": 0.609,
+        "slg": 0.583,
         "bb": 14,
         "hbp": 5,
-        "so": 18,
+        "so": 20,
         "gdp": 2,
-        "obp": 0.483,
+        "obp": 0.467,
         "sf": 1,
         "sh": 0,
         "sb": 4,
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13742&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 1,
-          "h": 1,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Prairie View (W 6-3). Hitting .347 with 2 HR through 20 games."
+      "narrative": "0/3 with 0 RBI vs. Florida State (W 12-1). Hitting .333 with 2 HR through 21 games."
     },
     "cfb158d5": {
       "id": "cfb158d5",
@@ -76,11 +76,11 @@
       "num": "2",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.306,
-        "ops": 0.917,
-        "ab": 72,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.297,
+        "ops": 0.901,
+        "ab": 74,
         "r": 20,
         "h": 22,
         "doubles": 5,
@@ -88,12 +88,12 @@
         "hr": 1,
         "rbi": 21,
         "tb": 38,
-        "slg": 0.528,
+        "slg": 0.514,
         "bb": 6,
-        "hbp": 7,
-        "so": 8,
+        "hbp": 8,
+        "so": 9,
         "gdp": 4,
-        "obp": 0.389,
+        "obp": 0.387,
         "sf": 5,
         "sh": 0,
         "sb": 8,
@@ -154,7 +154,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Prairie View (W 6-3). At 6.43 ERA through 4.2 innings on the season."
@@ -169,11 +172,11 @@
       "num": "5",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 18,
-        "gs": 15,
-        "avg": 0.222,
-        "ops": 0.632,
-        "ab": 54,
+        "g": 19,
+        "gs": 16,
+        "avg": 0.211,
+        "ops": 0.601,
+        "ab": 57,
         "r": 9,
         "h": 12,
         "doubles": 5,
@@ -181,12 +184,12 @@
         "hr": 0,
         "rbi": 12,
         "tb": 17,
-        "slg": 0.315,
+        "slg": 0.298,
         "bb": 6,
         "hbp": 2,
-        "so": 16,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.317,
+        "obp": 0.303,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -194,22 +197,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13742&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "bb": 0,
+          "so": 0,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Prairie View (W 6-3). Hitting .222 with 0 HR through 18 games."
+      "narrative": "0/2 with 0 RBI vs. Florida State (W 12-1). Hitting .210 with 0 HR through 19 games."
     },
     "7a5b2ae5": {
       "id": "7a5b2ae5",
@@ -262,7 +265,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Prairie View (W 10-5). At 2.20 ERA through 8.2 innings on the season."
@@ -301,23 +307,8 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Prairie View",
-        "result": "W 6-1",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13740&path=baseball",
-        "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "dh"
-        },
-        "pitching": null
-      },
-      "narrative": "0/3 with 0 RBI vs. Prairie View (W 6-1). Hitting .333 with 0 HR through 12 games."
+      "last_game": null,
+      "narrative": null
     },
     "cac0742a": {
       "id": "cac0742a",
@@ -361,24 +352,24 @@
       "num": "10",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.362,
-        "ops": 0.85,
-        "ab": 69,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.352,
+        "ops": 0.834,
+        "ab": 71,
         "r": 14,
         "h": 25,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
-        "rbi": 14,
+        "rbi": 15,
         "tb": 28,
-        "slg": 0.406,
+        "slg": 0.394,
         "bb": 10,
-        "hbp": 1,
-        "so": 10,
+        "hbp": 2,
+        "so": 11,
         "gdp": 1,
-        "obp": 0.444,
+        "obp": 0.44,
         "sf": 1,
         "sh": 0,
         "sb": 4,
@@ -386,22 +377,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 10-5",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13741&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 1,
-          "rbi": 0,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. Prairie View (W 10-5). Hitting .362 with 0 HR through 20 games."
+      "narrative": "0/2 with 1 RBI vs. Florida State (W 12-1). Hitting .352 with 0 HR through 21 games."
     },
     "1a4fa1dd": {
       "id": "1a4fa1dd",
@@ -555,7 +546,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Prairie View (W 10-5). At 5.36 ERA through 15.1 innings on the season."
@@ -611,7 +605,10 @@
           "bb": 3,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 6 K, 0 ER vs. Prairie View (W 6-3). At 2.50 ERA through 25.2 innings on the season."
@@ -626,11 +623,11 @@
       "num": "19",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.279,
-        "ops": 0.773,
-        "ab": 61,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.27,
+        "ops": 0.758,
+        "ab": 63,
         "r": 17,
         "h": 17,
         "doubles": 1,
@@ -638,12 +635,12 @@
         "hr": 1,
         "rbi": 9,
         "tb": 21,
-        "slg": 0.344,
-        "bb": 13,
+        "slg": 0.333,
+        "bb": 14,
         "hbp": 3,
-        "so": 15,
+        "so": 16,
         "gdp": 0,
-        "obp": 0.429,
+        "obp": 0.425,
         "sf": 0,
         "sh": 3,
         "sb": 14,
@@ -651,22 +648,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13742&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 3,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Prairie View (W 6-3). Hitting .278 with 1 HR through 20 games."
+      "narrative": "0/2 with 0 RBI vs. Florida State (W 12-1). Hitting .269 with 1 HR through 21 games."
     },
     "6215bf5c": {
       "id": "6215bf5c",
@@ -795,26 +792,45 @@
       "school": "Bethune-Cookman University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.93,
-        "whip": 1.61,
+        "era": 7.47,
+        "whip": 1.85,
         "w": 1,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 4,
-        "gs": 3,
-        "ip": 13.2,
-        "h": 15,
-        "r": 9,
-        "er": 9,
-        "bb": 7,
+        "g": 5,
+        "gs": 4,
+        "ip": 15.2,
+        "h": 20,
+        "r": 16,
+        "er": 13,
+        "bb": 9,
         "so": 11,
         "hr": 1,
-        "hbp": 1,
+        "hbp": 3,
         "wp": 0,
-        "opp_avg": ".300"
+        "opp_avg": ".328"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "2.0",
+          "h": 5,
+          "r": 7,
+          "er": 4,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
+        }
+      },
+      "narrative": "2.0 IP, 0 K vs. Florida State (W 12-1). At 7.70 ERA through 15.2 innings on the season."
     },
     "c20aa277": {
       "id": "c20aa277",
@@ -845,32 +861,8 @@
         "wp": 3,
         "opp_avg": ".262"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Prairie View",
-        "result": "W 6-1",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13740&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "2.0 IP, 3 K vs. Prairie View (W 6-1). At 7.94 ERA through 10.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "7bfdbf72": {
       "id": "7bfdbf72",
@@ -882,11 +874,11 @@
       "num": "28",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 15,
-        "gs": 6,
-        "avg": 0.308,
-        "ops": 0.977,
-        "ab": 26,
+        "g": 16,
+        "gs": 7,
+        "avg": 0.286,
+        "ops": 0.931,
+        "ab": 28,
         "r": 5,
         "h": 8,
         "doubles": 4,
@@ -894,12 +886,12 @@
         "hr": 1,
         "rbi": 10,
         "tb": 15,
-        "slg": 0.577,
-        "bb": 5,
+        "slg": 0.536,
+        "bb": 6,
         "hbp": 1,
-        "so": 13,
-        "gdp": 0,
-        "obp": 0.4,
+        "so": 14,
+        "gdp": 1,
+        "obp": 0.395,
         "sf": 3,
         "sh": 0,
         "sb": 1,
@@ -907,22 +899,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 10-5",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13741&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 0,
-          "h": 4,
-          "rbi": 4,
-          "bb": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "4/4 with 4 RBI vs. Prairie View (W 10-5). Hitting .307 with 1 HR through 15 games."
+      "narrative": "0/2 with 0 RBI vs. Florida State (W 12-1). Hitting .285 with 1 HR through 16 games."
     },
     "221c9157": {
       "id": "221c9157",
@@ -934,24 +926,24 @@
       "num": "29",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.289,
-        "ops": 0.789,
-        "ab": 76,
-        "r": 15,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.282,
+        "ops": 0.777,
+        "ab": 78,
+        "r": 16,
         "h": 22,
         "doubles": 6,
         "triples": 0,
         "hr": 0,
         "rbi": 14,
         "tb": 28,
-        "slg": 0.368,
+        "slg": 0.359,
         "bb": 13,
-        "hbp": 5,
+        "hbp": 6,
         "so": 8,
         "gdp": 0,
-        "obp": 0.421,
+        "obp": 0.418,
         "sf": 1,
         "sh": 0,
         "sb": 9,
@@ -959,22 +951,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13742&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 2 RBI vs. Prairie View (W 6-3). Hitting .289 with 0 HR through 20 games."
+      "narrative": "0/2 with 0 RBI vs. Florida State (W 12-1). Hitting .282 with 0 HR through 21 games."
     },
     "efa2f570": {
       "id": "efa2f570",
@@ -1027,7 +1019,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 4 K, 3 ER vs. Prairie View (W 10-5). At 6.43 ERA through 18.2 innings on the season."
@@ -1083,7 +1078,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 4 K vs. Prairie View (W 10-5). At 2.25 ERA through 8.0 innings on the season."
@@ -1098,11 +1096,11 @@
       "num": "33",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 18,
-        "gs": 15,
-        "avg": 0.222,
-        "ops": 0.632,
-        "ab": 54,
+        "g": 19,
+        "gs": 16,
+        "avg": 0.211,
+        "ops": 0.601,
+        "ab": 57,
         "r": 9,
         "h": 12,
         "doubles": 5,
@@ -1110,12 +1108,12 @@
         "hr": 0,
         "rbi": 12,
         "tb": 17,
-        "slg": 0.315,
+        "slg": 0.298,
         "bb": 6,
         "hbp": 2,
-        "so": 16,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.317,
+        "obp": 0.303,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -1123,22 +1121,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13742&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "bb": 0,
+          "so": 0,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Prairie View (W 6-3). Hitting .222 with 0 HR through 18 games."
+      "narrative": "0/2 with 0 RBI vs. Florida State (W 12-1). Hitting .210 with 0 HR through 19 games."
     },
     "78983bf6": {
       "id": "78983bf6",
@@ -1169,32 +1167,8 @@
         "wp": 2,
         "opp_avg": ".267"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Prairie View",
-        "result": "W 6-1",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13740&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "7.0",
-          "h": 4,
-          "r": 0,
-          "er": 0,
-          "bb": 2,
-          "so": 7,
-          "wp": 1,
-          "hbp": 0
-        }
-      },
-      "narrative": "7.0 IP, 7 K, 0 ER vs. Prairie View (W 6-1). At 2.44 ERA through 22.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "0a58ad91": {
       "id": "0a58ad91",
@@ -1243,11 +1217,11 @@
       "num": "36",
       "school": "Bethune-Cookman University",
       "season_batting": {
-        "g": 14,
-        "gs": 14,
-        "avg": 0.314,
-        "ops": 0.848,
-        "ab": 51,
+        "g": 15,
+        "gs": 15,
+        "avg": 0.302,
+        "ops": 0.827,
+        "ab": 53,
         "r": 11,
         "h": 16,
         "doubles": 4,
@@ -1255,12 +1229,12 @@
         "hr": 1,
         "rbi": 9,
         "tb": 23,
-        "slg": 0.451,
-        "bb": 6,
+        "slg": 0.434,
+        "bb": 7,
         "hbp": 1,
         "so": 11,
         "gdp": 4,
-        "obp": 0.397,
+        "obp": 0.393,
         "sf": 0,
         "sh": 0,
         "sb": 4,
@@ -1328,26 +1302,53 @@
       "school": "Bethune-Cookman University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.86,
-        "whip": 1.29,
+        "era": 4.26,
+        "whip": 1.26,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 9.1,
-        "h": 7,
-        "r": 4,
-        "er": 4,
-        "bb": 5,
-        "so": 10,
+        "ip": 12.2,
+        "h": 10,
+        "r": 7,
+        "er": 6,
+        "bb": 6,
+        "so": 12,
         "hr": 1,
         "hbp": 1,
-        "wp": 2,
-        "opp_avg": ".219"
+        "wp": 3,
+        "opp_avg": ".233"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.1",
+          "h": 3,
+          "r": 3,
+          "er": 2,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "3.1 IP, 2 K vs. Florida State (W 12-1). At 4.43 ERA through 12.2 innings on the season."
     },
     "c3fb60c7": {
       "id": "c3fb60c7",
@@ -1400,7 +1401,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. Prairie View (W 6-3). At 2.20 ERA through 8.2 innings on the season."
@@ -1416,26 +1420,53 @@
       "school": "Bethune-Cookman University",
       "season_batting": null,
       "season_pitching": {
-        "era": 16.2,
-        "whip": 2.7,
+        "era": 18.0,
+        "whip": 2.5,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 3,
+        "g": 4,
         "gs": 0,
-        "ip": 3.1,
-        "h": 5,
-        "r": 7,
-        "er": 6,
+        "ip": 4.0,
+        "h": 6,
+        "r": 9,
+        "er": 8,
         "bb": 4,
-        "so": 5,
-        "hr": 0,
-        "hbp": 1,
+        "so": 7,
+        "hr": 1,
+        "hbp": 2,
         "wp": 0,
-        "opp_avg": ".294"
+        "opp_avg": ".300"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 2 K vs. Florida State (W 12-1). At 18.00 ERA through 4.0 innings on the season."
     },
     "9524673b": {
       "id": "9524673b",

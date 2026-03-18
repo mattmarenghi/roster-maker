@@ -2,14 +2,14 @@
   "school": "University of Texas at Arlington",
   "base_url": "https://www.utamavs.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:30:59.758265Z",
-  "record": "7-12",
+  "generated_at": "2026-03-18T08:14:36.295033Z",
+  "record": "7-13",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "UTSA",
-    "result": "W 15-8",
-    "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
-    "recap_url": "https://www.utamavs.com/news/2026/3/15/baseball-mavericks-drop-finale-to-no-24-utsa-claim-series-victory.aspx",
+    "date": "2026-03-17",
+    "opponent": "Stephen F. Austin",
+    "result": "L 1-4",
+    "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
+    "recap_url": "https://www.utamavs.com/news/2026/3/17/baseball-mavericks-drop-midweek-contest-to-stephen-f-austin.aspx",
     "recap_headline": "University of Texas Arlington Athletics",
     "recap_text": ""
   },
@@ -61,7 +61,7 @@
       "num": "2",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 11,
+        "g": 12,
         "gs": 5,
         "avg": 0.071,
         "ops": 0.276,
@@ -85,7 +85,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "lf"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "1e3253cb": {
@@ -98,24 +113,24 @@
       "num": "3",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 18,
-        "gs": 17,
-        "avg": 0.264,
-        "ops": 0.704,
-        "ab": 72,
-        "r": 6,
-        "h": 19,
+        "g": 19,
+        "gs": 18,
+        "avg": 0.27,
+        "ops": 0.735,
+        "ab": 74,
+        "r": 7,
+        "h": 20,
         "doubles": 5,
         "triples": 0,
         "hr": 1,
         "rbi": 14,
-        "tb": 27,
-        "slg": 0.375,
-        "bb": 5,
-        "hbp": 2,
+        "tb": 28,
+        "slg": 0.378,
+        "bb": 7,
+        "hbp": 3,
         "so": 17,
         "gdp": 1,
-        "obp": 0.329,
+        "obp": 0.357,
         "sf": 0,
         "sh": 2,
         "sb": 0,
@@ -123,22 +138,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 1,
           "h": 1,
-          "rbi": 3,
-          "bb": 1,
-          "so": 3,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 3 RBI vs. UTSA (W 15-8). Hitting .263 with 1 HR through 18 games."
+      "narrative": "1/2 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .270 with 1 HR through 19 games."
     },
     "ad35807a": {
       "id": "ad35807a",
@@ -150,25 +165,25 @@
       "num": "4",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 12,
-        "gs": 9,
-        "avg": 0.241,
-        "ops": 0.752,
-        "ab": 29,
+        "g": 13,
+        "gs": 10,
+        "avg": 0.219,
+        "ops": 0.685,
+        "ab": 32,
         "r": 4,
         "h": 7,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 4,
+        "rbi": 5,
         "tb": 8,
-        "slg": 0.276,
+        "slg": 0.25,
         "bb": 11,
         "hbp": 2,
-        "so": 6,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.476,
-        "sf": 0,
+        "obp": 0.435,
+        "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
@@ -202,24 +217,24 @@
       "num": "5",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.369,
-        "ops": 0.9,
-        "ab": 84,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.393,
+        "ops": 0.938,
+        "ab": 89,
         "r": 9,
-        "h": 31,
+        "h": 35,
         "doubles": 5,
         "triples": 0,
         "hr": 1,
         "rbi": 17,
-        "tb": 39,
-        "slg": 0.464,
+        "tb": 43,
+        "slg": 0.483,
         "bb": 9,
         "hbp": 1,
         "so": 15,
         "gdp": 1,
-        "obp": 0.436,
+        "obp": 0.455,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -239,7 +254,7 @@
       "num": "7",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 6,
+        "g": 7,
         "gs": 1,
         "avg": 0.0,
         "ops": 0.2,
@@ -263,7 +278,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PR"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "d6a67f22": {
@@ -276,11 +306,11 @@
       "num": "9",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 14,
+        "g": 15,
         "gs": 14,
-        "avg": 0.239,
-        "ops": 0.7,
-        "ab": 46,
+        "avg": 0.234,
+        "ops": 0.685,
+        "ab": 47,
         "r": 6,
         "h": 11,
         "doubles": 2,
@@ -288,12 +318,12 @@
         "hr": 1,
         "rbi": 6,
         "tb": 16,
-        "slg": 0.348,
+        "slg": 0.34,
         "bb": 4,
         "hbp": 4,
-        "so": 13,
+        "so": 14,
         "gdp": 2,
-        "obp": 0.352,
+        "obp": 0.345,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -319,31 +349,22 @@
         "opp_avg": ".181"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UTSA",
-        "result": "L 11-15",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21032&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "p"
+          "pos": "PH"
         },
-        "pitching": {
-          "ip": "6.0",
-          "h": 4,
-          "r": 4,
-          "er": 3,
-          "bb": 2,
-          "so": 1,
-          "wp": 1,
-          "hbp": 0
-        }
+        "pitching": null
       },
-      "narrative": "6.0 IP, 1 K, 3 ER vs. UTSA (L 11-15). At 1.73 ERA through 31.2 innings on the season."
+      "narrative": "0/1 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .234 with 1 HR through 15 games."
     },
     "4612cc0a": {
       "id": "4612cc0a",
@@ -407,24 +428,24 @@
       "num": "12",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.328,
-        "ops": 0.874,
-        "ab": 58,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.317,
+        "ops": 0.837,
+        "ab": 63,
         "r": 9,
-        "h": 19,
+        "h": 20,
         "doubles": 3,
         "triples": 0,
         "hr": 2,
         "rbi": 7,
-        "tb": 28,
-        "slg": 0.483,
+        "tb": 29,
+        "slg": 0.46,
         "bb": 4,
         "hbp": 2,
-        "so": 12,
+        "so": 14,
         "gdp": 1,
-        "obp": 0.391,
+        "obp": 0.377,
         "sf": 0,
         "sh": 2,
         "sb": 1,
@@ -444,11 +465,11 @@
       "num": "13",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.294,
-        "ops": 0.775,
-        "ab": 68,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.274,
+        "ops": 0.726,
+        "ab": 73,
         "r": 15,
         "h": 20,
         "doubles": 5,
@@ -456,12 +477,12 @@
         "hr": 0,
         "rbi": 4,
         "tb": 25,
-        "slg": 0.368,
+        "slg": 0.342,
         "bb": 8,
         "hbp": 5,
-        "so": 19,
+        "so": 20,
         "gdp": 1,
-        "obp": 0.407,
+        "obp": 0.384,
         "sf": 0,
         "sh": 0,
         "sb": 5,
@@ -469,22 +490,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 5,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 3,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. UTSA (W 15-8). Hitting .294 with 0 HR through 17 games."
+      "narrative": "0/5 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .273 with 0 HR through 18 games."
     },
     "0f42fcdb": {
       "id": "0f42fcdb",
@@ -496,11 +517,11 @@
       "num": "14",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 6,
-        "gs": 0,
+        "g": 7,
+        "gs": 1,
         "avg": 0.0,
-        "ops": 0.143,
-        "ab": 6,
+        "ops": 0.2,
+        "ab": 8,
         "r": 0,
         "h": 0,
         "doubles": 0,
@@ -509,19 +530,34 @@
         "rbi": 0,
         "tb": 0,
         "slg": 0.0,
-        "bb": 1,
+        "bb": 2,
         "hbp": 0,
         "so": 3,
         "gdp": 0,
-        "obp": 0.143,
+        "obp": 0.2,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .000 with 0 HR through 7 games."
     },
     "441fc246": {
       "id": "441fc246",
@@ -533,24 +569,24 @@
       "num": "15",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.175,
-        "ops": 0.593,
-        "ab": 57,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.197,
+        "ops": 0.628,
+        "ab": 61,
         "r": 8,
-        "h": 10,
+        "h": 12,
         "doubles": 2,
         "triples": 0,
         "hr": 2,
         "rbi": 7,
-        "tb": 18,
-        "slg": 0.316,
-        "bb": 5,
+        "tb": 20,
+        "slg": 0.328,
+        "bb": 6,
         "hbp": 3,
         "so": 10,
         "gdp": 2,
-        "obp": 0.277,
+        "obp": 0.3,
         "sf": 0,
         "sh": 2,
         "sb": 0,
@@ -586,29 +622,29 @@
       "school": "University of Texas at Arlington",
       "season_batting": null,
       "season_pitching": {
-        "era": 13.5,
-        "whip": 4.5,
+        "era": 15.43,
+        "whip": 4.29,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 1.1,
-        "h": 3,
-        "r": 2,
-        "er": 2,
-        "bb": 3,
+        "ip": 2.1,
+        "h": 6,
+        "r": 4,
+        "er": 4,
+        "bb": 4,
         "so": 1,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".429"
+        "opp_avg": ".462"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -620,16 +656,19 @@
         },
         "pitching": {
           "ip": "1.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
+          "h": 3,
+          "r": 2,
+          "er": 2,
           "bb": 1,
-          "so": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. UTSA (W 15-8). At 16.36 ERA through 1.1 innings on the season."
+      "narrative": "1.0 IP, 0 K vs. Stephen F. Austin (L 1-4). At 17.14 ERA through 2.1 innings on the season."
     },
     "2ba1ce4f": {
       "id": "2ba1ce4f",
@@ -682,7 +721,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. UTSA (W 15-8). At 11.87 ERA through 9.1 innings on the season."
@@ -697,11 +739,11 @@
       "num": "19",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.257,
-        "ops": 0.691,
-        "ab": 74,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.244,
+        "ops": 0.665,
+        "ab": 78,
         "r": 8,
         "h": 19,
         "doubles": 5,
@@ -709,12 +751,12 @@
         "hr": 1,
         "rbi": 13,
         "tb": 27,
-        "slg": 0.365,
-        "bb": 3,
+        "slg": 0.346,
+        "bb": 4,
         "hbp": 6,
-        "so": 19,
+        "so": 22,
         "gdp": 2,
-        "obp": 0.326,
+        "obp": 0.319,
         "sf": 3,
         "sh": 1,
         "sb": 1,
@@ -722,22 +764,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 2,
+          "so": 1,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. UTSA (W 15-8). Hitting .256 with 1 HR through 19 games."
+      "narrative": "0/4 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .243 with 1 HR through 20 games."
     },
     "131ae09b": {
       "id": "131ae09b",
@@ -822,7 +864,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 4 K vs. UTSA (W 15-8). At 2.96 ERA through 15.2 innings on the season."
@@ -838,29 +883,29 @@
       "school": "University of Texas at Arlington",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.97,
-        "whip": 1.26,
+        "era": 4.61,
+        "whip": 1.17,
         "w": 1,
         "l": 0,
         "sv": 1,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 12.2,
+        "ip": 13.2,
         "h": 13,
         "r": 8,
         "er": 7,
         "bb": 3,
-        "so": 8,
+        "so": 10,
         "hr": 1,
         "hbp": 3,
         "wp": 2,
-        "opp_avg": ".277"
+        "opp_avg": ".260"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTSA",
-        "result": "L 8-11",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21033&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -871,17 +916,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.2",
-          "h": 3,
-          "r": 3,
-          "er": 3,
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 0,
+          "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.2 IP, 0 K vs. UTSA (L 8-11). At 5.16 ERA through 12.2 innings on the season."
+      "narrative": "1.0 IP, 2 K vs. Stephen F. Austin (L 1-4). At 4.77 ERA through 13.2 innings on the season."
     },
     "1c189a0c": {
       "id": "1c189a0c",
@@ -917,14 +965,14 @@
         "sb_att": 0
       },
       "season_pitching": {
-        "era": 7.82,
-        "whip": 1.66,
+        "era": 7.24,
+        "whip": 1.54,
         "w": 0,
         "l": 2,
         "sv": 1,
-        "g": 10,
+        "g": 11,
         "gs": 1,
-        "ip": 12.2,
+        "ip": 13.2,
         "h": 18,
         "r": 12,
         "er": 11,
@@ -933,13 +981,13 @@
         "hr": 4,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".333"
+        "opp_avg": ".316"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -950,17 +998,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 3,
-          "r": 4,
-          "er": 4,
-          "bb": 1,
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 0 K vs. UTSA (W 15-8). At 8.11 ERA through 12.2 innings on the season."
+      "narrative": "1.0 IP, 0 K vs. Stephen F. Austin (L 1-4). At 7.50 ERA through 13.2 innings on the season."
     },
     "44cab21a": {
       "id": "44cab21a",
@@ -1112,32 +1163,8 @@
         "wp": 0,
         "opp_avg": ".412"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UTSA",
-        "result": "L 11-15",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21032&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.1",
-          "h": 2,
-          "r": 3,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "0.1 IP, 0 K vs. UTSA (L 11-15). At 14.52 ERA through 6.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "e8a3c113": {
       "id": "e8a3c113",
@@ -1149,24 +1176,24 @@
       "num": "28",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 12,
-        "gs": 11,
-        "avg": 0.222,
-        "ops": 0.684,
-        "ab": 36,
+        "g": 13,
+        "gs": 12,
+        "avg": 0.25,
+        "ops": 0.713,
+        "ab": 40,
         "r": 4,
-        "h": 8,
+        "h": 10,
         "doubles": 0,
         "triples": 0,
         "hr": 1,
         "rbi": 4,
-        "tb": 11,
-        "slg": 0.306,
+        "tb": 13,
+        "slg": 0.325,
         "bb": 4,
         "hbp": 5,
-        "so": 16,
+        "so": 17,
         "gdp": 0,
-        "obp": 0.378,
+        "obp": 0.388,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1174,22 +1201,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 0,
-          "rbi": 1,
-          "bb": 1,
-          "so": 2,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 1 RBI vs. UTSA (W 15-8). Hitting .222 with 1 HR through 12 games."
+      "narrative": "2/4 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .250 with 1 HR through 13 games."
     },
     "d9328aef": {
       "id": "d9328aef",
@@ -1242,7 +1269,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 1 ER vs. UTSA (L 8-11). At 0.75 ERA through 12.0 innings on the season."
@@ -1258,29 +1288,29 @@
       "school": "University of Texas at Arlington",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.56,
-        "whip": 1.32,
+        "era": 4.11,
+        "whip": 1.3,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 1,
-        "ip": 11.1,
-        "h": 10,
-        "r": 7,
+        "ip": 15.1,
+        "h": 13,
+        "r": 8,
         "er": 7,
-        "bb": 5,
-        "so": 7,
+        "bb": 7,
+        "so": 10,
         "hr": 2,
         "hbp": 4,
         "wp": 1,
-        "opp_avg": ".244"
+        "opp_avg": ".236"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1291,17 +1321,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
+          "ip": "4.0",
+          "h": 3,
+          "r": 1,
           "er": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 2,
+          "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 0 K vs. UTSA (W 15-8). At 5.68 ERA through 11.1 innings on the season."
+      "narrative": "4.0 IP, 3 K vs. Stephen F. Austin (L 1-4). At 4.17 ERA through 15.1 innings on the season."
     },
     "76c83cf7": {
       "id": "76c83cf7",
@@ -1313,11 +1346,11 @@
       "num": "33",
       "school": "University of Texas at Arlington",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 4,
-        "avg": 0.2,
-        "ops": 0.561,
-        "ab": 15,
+        "avg": 0.188,
+        "ops": 0.528,
+        "ab": 16,
         "r": 2,
         "h": 3,
         "doubles": 1,
@@ -1325,20 +1358,35 @@
         "hr": 0,
         "rbi": 2,
         "tb": 4,
-        "slg": 0.267,
+        "slg": 0.25,
         "bb": 2,
         "hbp": 0,
-        "so": 3,
+        "so": 4,
         "gdp": 0,
-        "obp": 0.294,
+        "obp": 0.278,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "PH"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .187 with 0 HR through 8 games."
     },
     "c12bf3f9": {
       "id": "c12bf3f9",
@@ -1423,7 +1471,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. UTSA (W 15-8). At 12.68 ERA through 7.1 innings on the season."
@@ -1471,7 +1522,10 @@
           "bb": 2,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. UTSA (W 15-8). At 6.75 ERA through 12.0 innings on the season."
@@ -1487,29 +1541,29 @@
       "school": "University of Texas at Arlington",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.75,
-        "whip": 1.84,
+        "era": 6.48,
+        "whip": 1.8,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 7,
-        "gs": 1,
-        "ip": 14.2,
-        "h": 23,
-        "r": 15,
-        "er": 11,
+        "g": 8,
+        "gs": 2,
+        "ip": 16.2,
+        "h": 26,
+        "r": 16,
+        "er": 12,
         "bb": 4,
-        "so": 10,
+        "so": 13,
         "hr": 2,
         "hbp": 1,
-        "wp": 2,
-        "opp_avg": ".343"
+        "wp": 3,
+        "opp_avg": ".342"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UTSA",
-        "result": "L 11-15",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21032&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1521,16 +1575,19 @@
         },
         "pitching": {
           "ip": "2.0",
-          "h": 4,
-          "r": 4,
-          "er": 3,
-          "bb": 1,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 3,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "2.0 IP, 2 K vs. UTSA (L 11-15). At 6.97 ERA through 14.2 innings on the season."
+      "narrative": "2.0 IP, 3 K vs. Stephen F. Austin (L 1-4). At 6.67 ERA through 16.2 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

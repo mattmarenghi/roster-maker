@@ -2,7 +2,7 @@
   "school": "Manhattan University",
   "base_url": "https://www.gojaspers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:05:30.516917Z",
+  "generated_at": "2026-03-18T07:51:24.228345Z",
   "record": "6-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -139,7 +139,10 @@
           "bb": 2,
           "so": 0,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 0 K vs. Fairfield (W 7-3). At 8.57 ERA through 2.1 innings on the season."
@@ -534,7 +537,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 3 K vs. Fairfield (W 7-3). At 6.82 ERA through 13.2 innings on the season."
@@ -808,7 +814,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 4 K vs. Fairfield (W 4-3). At 3.44 ERA through 13.1 innings on the season."
@@ -934,7 +943,10 @@
           "bb": 2,
           "so": 6,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.1 IP, 6 K vs. Fairfield (W 4-3). At 8.04 ERA through 11.2 innings on the season."
@@ -1163,7 +1175,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 1 K vs. Fairfield (W 11-2). At 11.00 ERA through 9.0 innings on the season."
@@ -1575,7 +1590,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 4 K, 5 ER vs. Fairfield (W 11-2). At 9.34 ERA through 21.2 innings on the season."
@@ -1631,7 +1649,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 2 K vs. Fairfield (W 7-3). At 9.88 ERA through 8.2 innings on the season."
@@ -1687,7 +1708,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 2 K vs. Fairfield (W 7-3). At 5.56 ERA through 8.1 innings on the season."

@@ -2,7 +2,7 @@
   "school": "Youngstown State University",
   "base_url": "https://www.ysusports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:36:02.667033Z",
+  "generated_at": "2026-03-18T08:18:57.178846Z",
   "record": "2-15",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -20,7 +20,7 @@
       "fn": "Alex",
       "ln": "Jang",
       "pos": "IF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "1",
       "school": "Youngstown State University",
       "season_batting": {
@@ -57,7 +57,7 @@
       "fn": "Nick",
       "ln": "Miscavage",
       "pos": "UTIL",
-      "yr": "",
+      "yr": "Fr.",
       "num": "2",
       "school": "Youngstown State University",
       "season_batting": {
@@ -94,7 +94,7 @@
       "fn": "Misael",
       "ln": "Uriepero",
       "pos": "IF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "3",
       "school": "Youngstown State University",
       "season_batting": {
@@ -146,7 +146,7 @@
       "fn": "Mikey",
       "ln": "Rodriques",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "4",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -191,7 +191,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 3 K vs. Oakland (L 3-4). At 6.85 ERA through 9.2 innings on the season."
@@ -202,7 +205,7 @@
       "fn": "Brady",
       "ln": "Shannon",
       "pos": "OF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "5",
       "school": "Youngstown State University",
       "season_batting": {
@@ -254,7 +257,7 @@
       "fn": "Chyran",
       "ln": "Humphries",
       "pos": "IF/OF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "6",
       "school": "Youngstown State University",
       "season_batting": {
@@ -306,7 +309,7 @@
       "fn": "Luke",
       "ln": "Zmolik",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Gr.",
       "num": "7",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -338,7 +341,7 @@
       "fn": "Brandon",
       "ln": "Mikos",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "8",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -383,7 +386,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 4 K vs. Oakland (L 3-4). At 11.57 ERA through 14.0 innings on the season."
@@ -394,7 +400,7 @@
       "fn": "Caleb",
       "ln": "Hadley",
       "pos": "C",
-      "yr": "",
+      "yr": "So.",
       "num": "11",
       "school": "Youngstown State University",
       "season_batting": {
@@ -446,7 +452,7 @@
       "fn": "Ryan",
       "ln": "Schummer",
       "pos": "C",
-      "yr": "",
+      "yr": "Jr.",
       "num": "12",
       "school": "Youngstown State University",
       "season_batting": {
@@ -483,7 +489,7 @@
       "fn": "Lane",
       "ln": "Rhodes",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "13",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -515,7 +521,7 @@
       "fn": "James",
       "ln": "Carlson",
       "pos": "OF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "15",
       "school": "Youngstown State University",
       "season_batting": {
@@ -567,7 +573,7 @@
       "fn": "Garrett",
       "ln": "Cutting",
       "pos": "IF",
-      "yr": "",
+      "yr": "Sr.",
       "num": "16",
       "school": "Youngstown State University",
       "season_batting": {
@@ -619,7 +625,7 @@
       "fn": "Tyler",
       "ln": "Heflin",
       "pos": "RHP",
-      "yr": "",
+      "yr": "So.",
       "num": "17",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -664,7 +670,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. Oakland (W 6-5). At 4.82 ERA through 11.2 innings on the season."
@@ -675,7 +684,7 @@
       "fn": "Brayden",
       "ln": "Kuriger",
       "pos": "OF",
-      "yr": "",
+      "yr": "Sr.",
       "num": "18",
       "school": "Youngstown State University",
       "season_batting": {
@@ -727,7 +736,7 @@
       "fn": "Jake",
       "ln": "Ferretti",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "20",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -759,7 +768,7 @@
       "fn": "Jay",
       "ln": "Wrona",
       "pos": "IF",
-      "yr": "",
+      "yr": "So.",
       "num": "21",
       "school": "Youngstown State University",
       "season_batting": {
@@ -796,7 +805,7 @@
       "fn": "Kale",
       "ln": "Wemer",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "22",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -828,7 +837,7 @@
       "fn": "Sloan",
       "ln": "Ulrich",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "23",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -873,7 +882,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. Oakland (L 3-4). At 2.20 ERA through 8.2 innings on the season."
@@ -884,7 +896,7 @@
       "fn": "Jack",
       "ln": "Messmore",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "24",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -929,7 +941,10 @@
           "bb": 5,
           "so": 6,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 6 K vs. Oakland (L 6-12). At 5.43 ERA through 23.2 innings on the season."
@@ -940,7 +955,7 @@
       "fn": "Sumner",
       "ln": "Estes",
       "pos": "RHP",
-      "yr": "",
+      "yr": "So.",
       "num": "25",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -972,7 +987,7 @@
       "fn": "Luke",
       "ln": "Rossi",
       "pos": "IF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "26",
       "school": "Youngstown State University",
       "season_batting": {
@@ -1009,7 +1024,7 @@
       "fn": "Aidan",
       "ln": "English",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "27",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -1054,7 +1069,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Oakland (L 6-12). At 7.06 ERA through 5.1 innings on the season."
@@ -1065,7 +1083,7 @@
       "fn": "Nic",
       "ln": "Goodwin",
       "pos": "C",
-      "yr": "",
+      "yr": "Sr.",
       "num": "28",
       "school": "Youngstown State University",
       "season_batting": {
@@ -1117,7 +1135,7 @@
       "fn": "Brevin",
       "ln": "Smith",
       "pos": "IF/RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "30",
       "school": "Youngstown State University",
       "season_batting": {
@@ -1172,7 +1190,7 @@
       "fn": "Aidan",
       "ln": "Dorsch",
       "pos": "RHP",
-      "yr": "",
+      "yr": "So.",
       "num": "31",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -1204,7 +1222,7 @@
       "fn": "Teddy",
       "ln": "Ruffner",
       "pos": "OF",
-      "yr": "",
+      "yr": "Sr.",
       "num": "32",
       "school": "Youngstown State University",
       "season_batting": {
@@ -1256,7 +1274,7 @@
       "fn": "Braden",
       "ln": "Gebhardt",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "35",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -1301,7 +1319,10 @@
           "bb": 0,
           "so": 8,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 8 K, 5 ER vs. Oakland (W 6-5). At 1.41 ERA through 32.0 innings on the season."
@@ -1312,7 +1333,7 @@
       "fn": "Griffin",
       "ln": "Almond",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Gr.",
       "num": "36",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -1357,7 +1378,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Oakland (L 6-12). At 15.00 ERA through 4.2 innings on the season."
@@ -1368,7 +1392,7 @@
       "fn": "Nathan",
       "ln": "Beckley",
       "pos": "UTIL",
-      "yr": "",
+      "yr": "Jr.",
       "num": "37",
       "school": "Youngstown State University",
       "season_batting": {
@@ -1405,7 +1429,7 @@
       "fn": "Bryce",
       "ln": "Palms",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "41",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -1450,7 +1474,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Oakland (L 6-12). At 5.62 ERA through 3.2 innings on the season."
@@ -1461,7 +1488,7 @@
       "fn": "Kendal",
       "ln": "Spencer",
       "pos": "OF",
-      "yr": "",
+      "yr": "Gr.",
       "num": "42",
       "school": "Youngstown State University",
       "season_batting": {
@@ -1513,7 +1540,7 @@
       "fn": "Braedon",
       "ln": "Davis",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "43",
       "school": "Youngstown State University",
       "season_batting": null,
@@ -1558,7 +1585,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Oakland (L 6-12). At 18.00 ERA through 1.0 innings on the season."

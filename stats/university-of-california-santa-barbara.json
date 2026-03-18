@@ -2,7 +2,7 @@
   "school": "University of California, Santa Barbara",
   "base_url": "https://ucsbgauchos.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:21:20.401654Z",
+  "generated_at": "2026-03-18T08:06:31.613908Z",
   "record": "14-4",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -117,7 +117,10 @@
           "bb": 1,
           "so": 11,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.1 IP, 11 K, 0 ER vs. UC Davis (L 0-4). At 1.16 ERA through 31.1 innings on the season."
@@ -314,7 +317,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. UC Davis (W 10-6). At 9.00 ERA through 1.0 innings on the season."
@@ -632,7 +638,10 @@
           "bb": 1,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 3 K vs. UC Davis (W 10-6). At 4.30 ERA through 27.2 innings on the season."
@@ -740,7 +749,10 @@
           "bb": 3,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 5 K vs. UC Davis (W 5-4). At 3.73 ERA through 24.1 innings on the season."
@@ -796,7 +808,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 3 K vs. UC Davis (W 5-4). At 2.09 ERA through 17.2 innings on the season."
@@ -990,7 +1005,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. UC Davis (W 10-6). At 2.65 ERA through 17.0 innings on the season."
@@ -1083,7 +1101,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 0 K vs. UC Davis (W 10-6). At 0.00 ERA through 2.2 innings on the season."
@@ -1243,7 +1264,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. UC Davis (W 10-6). At 5.87 ERA through 9.2 innings on the season."
@@ -1403,7 +1427,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. UC Davis (W 5-4). At 2.45 ERA through 11.0 innings on the season."

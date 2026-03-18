@@ -2,7 +2,7 @@
   "school": "University of Southern Indiana",
   "base_url": "https://www.usiscreamingeagles.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:29:42.003422Z",
+  "generated_at": "2026-03-18T08:14:05.344797Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -192,7 +192,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": null
@@ -248,7 +251,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Southern Ill. (W 7-4). At 9.82 ERA through 11.0 innings on the season."
@@ -341,7 +347,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Southern Ill. (W 10-7). At 8.89 ERA through 8.1 innings on the season."
@@ -765,7 +774,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 0 K vs. Southern Ill. (L 3-6). At 5.79 ERA through 17.1 innings on the season."
@@ -821,7 +833,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 3 K, 0 ER vs. Southern Ill. (W 7-4). At 4.27 ERA through 21.1 innings on the season."
@@ -909,7 +924,10 @@
           "bb": 0,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Southern Ill. (W 7-4). At 3.53 ERA through 5.1 innings on the season."
@@ -1081,7 +1099,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 0 K vs. Southern Ill. (W 7-4). At 4.20 ERA through 15.0 innings on the season."
@@ -1137,7 +1158,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Southern Ill. (W 10-7). At 6.75 ERA through 4.0 innings on the season."
@@ -1282,7 +1306,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 0 K vs. Southern Ill. (W 10-7). At 5.81 ERA through 6.2 innings on the season."
@@ -1575,7 +1602,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Southern Ill. (W 10-7). At 0.89 ERA through 10.1 innings on the season."
@@ -1663,7 +1693,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 2 K vs. Southern Ill. (W 10-7). At 8.71 ERA through 3.1 innings on the season."
@@ -1887,7 +1920,10 @@
           "bb": 2,
           "so": 7,
           "wp": 2,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.2 IP, 7 K, 2 ER vs. Southern Ill. (L 3-6). At 3.79 ERA through 19.0 innings on the season."

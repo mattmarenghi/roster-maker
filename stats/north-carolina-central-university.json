@@ -2,7 +2,7 @@
   "school": "North Carolina Central University",
   "base_url": "https://www.nccueaglepride.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:09:02.637818Z",
+  "generated_at": "2026-03-18T07:54:42.878847Z",
   "record": "27-20",
   "most_recent_game": {
     "date": "2021-05-22",
@@ -191,7 +191,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -331,7 +334,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -456,7 +462,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 1 K vs. Norfolk State (W 7-6). At 5.62 ERA through 27.2 innings on the season."
@@ -512,7 +521,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. Norfolk State (W 7-6). At 4.47 ERA through 28.2 innings on the season."
@@ -867,7 +879,10 @@
           "bb": 4,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 0 K vs. Norfolk State (W 7-6). At 8.02 ERA through 10.1 innings on the season."
@@ -923,7 +938,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Norfolk State (W 7-6). At 3.58 ERA through 35.2 innings on the season."
@@ -1011,7 +1029,10 @@
           "bb": 2,
           "so": 5,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 5 K, 0 ER vs. Florida A&M (W 5-3). At 5.09 ERA through 53.0 innings on the season."
@@ -1304,7 +1325,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 3 K vs. Norfolk State (W 7-6). At 6.21 ERA through 29.0 innings on the season."
@@ -1397,7 +1421,10 @@
           "bb": 4,
           "so": 9,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "7.2 IP, 9 K, 0 ER vs. Norfolk State (W 1-0). At 2.56 ERA through 70.2 innings on the season."

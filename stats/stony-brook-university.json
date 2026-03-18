@@ -2,7 +2,7 @@
   "school": "Stony Brook University",
   "base_url": "https://stonybrookathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:15:52.469567Z",
+  "generated_at": "2026-03-18T08:01:25.591757Z",
   "record": "3-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -102,7 +102,10 @@
           "bb": 0,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 3 K vs. Charleston (W 6-2). At 15.62 ERA through 12.1 innings on the season."
@@ -195,7 +198,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 0 K vs. Charleston (W 5-4). At 4.35 ERA through 6.2 innings on the season."
@@ -315,7 +321,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Charleston (W 5-4). At 3.75 ERA through 12.0 innings on the season."
@@ -440,7 +449,10 @@
           "bb": 0,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 3 K vs. Charleston (W 6-2). At 15.62 ERA through 12.1 innings on the season."
@@ -637,7 +649,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Charleston (W 6-2). At 4.77 ERA through 13.2 innings on the season."
@@ -858,7 +873,10 @@
           "bb": 0,
           "so": 10,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 10 K, 1 ER vs. Charleston (L 1-3). At 2.99 ERA through 21.1 innings on the season."
@@ -1087,7 +1105,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Charleston (W 5-4). At 8.75 ERA through 7.2 innings on the season."
@@ -1195,7 +1216,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 0 K vs. Charleston (W 5-4). At 4.35 ERA through 6.2 innings on the season."
@@ -1545,7 +1569,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 1 K vs. Charleston (W 6-2). At 7.30 ERA through 11.1 innings on the season."

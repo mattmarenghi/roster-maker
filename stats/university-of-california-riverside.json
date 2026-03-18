@@ -2,7 +2,7 @@
   "school": "University of California, Riverside",
   "base_url": "https://www.gohighlanders.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:20:46.488795Z",
+  "generated_at": "2026-03-18T08:06:05.988019Z",
   "record": "6-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -206,7 +206,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. San Francisco (W 6-5). At 4.02 ERA through 11.2 innings on the season."
@@ -294,7 +297,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. San Francisco (W 6-5). At 9.00 ERA through 16.0 innings on the season."
@@ -439,7 +445,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. San Francisco (W 6-5). At 4.41 ERA through 10.2 innings on the season."
@@ -547,7 +556,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. San Francisco (W 6-5). At 6.50 ERA through 18.0 innings on the season."
@@ -603,7 +615,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. San Francisco (W 6-5). At 16.88 ERA through 8.0 innings on the season."
@@ -659,7 +674,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -715,7 +733,10 @@
           "bb": 3,
           "so": 8,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "6.2 IP, 8 K, 6 ER vs. San Francisco (L 4-6). At 5.52 ERA through 31.0 innings on the season."
@@ -823,7 +844,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. San Francisco (W 6-5). At 4.74 ERA through 17.1 innings on the season."
@@ -1075,7 +1099,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.1 IP, 3 K vs. San Francisco (W 7-3). At 5.68 ERA through 11.1 innings on the season."
@@ -1524,7 +1551,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 1 K vs. San Francisco (W 6-5). At 0.80 ERA through 11.2 innings on the season."

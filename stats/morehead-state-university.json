@@ -2,7 +2,7 @@
   "school": "Morehead State University",
   "base_url": "https://www.msueagles.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:07:56.314985Z",
+  "generated_at": "2026-03-18T07:53:36.249144Z",
   "record": "10-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -280,7 +280,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Western Carolina (W 13-4). At 8.18 ERA through 11.0 innings on the season."
@@ -840,7 +843,10 @@
           "bb": 3,
           "so": 3,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 3 K, 6 ER vs. Western Carolina (W 8-7). At 9.00 ERA through 7.0 innings on the season."
@@ -919,7 +925,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 2 K vs. Western Carolina (W 8-7). At 1.61 ERA through 11.2 innings on the season."
@@ -1160,7 +1169,10 @@
           "bb": 3,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 2 K vs. Western Carolina (W 13-4). At 11.11 ERA through 16.2 innings on the season."
@@ -1216,7 +1228,10 @@
           "bb": 4,
           "so": 4,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 4 K vs. Western Carolina (W 11-0). At 7.71 ERA through 21.0 innings on the season."
@@ -1272,7 +1287,10 @@
           "bb": 3,
           "so": 3,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 3 K, 6 ER vs. Western Carolina (W 8-7). At 9.00 ERA through 7.0 innings on the season."
@@ -1328,7 +1346,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 2 K vs. Western Carolina (W 13-4). At 5.62 ERA through 8.0 innings on the season."
@@ -1416,7 +1437,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Western Carolina (W 13-4). At 52.50 ERA through 1.2 innings on the season."
@@ -1504,7 +1528,10 @@
           "bb": 2,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Western Carolina (W 13-4). At 8.18 ERA through 2.2 innings on the season."
@@ -1560,7 +1587,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Western Carolina (W 13-4). At 23.57 ERA through 4.2 innings on the season."
@@ -1616,7 +1646,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Western Carolina (W 8-7). At 4.15 ERA through 13.0 innings on the season."

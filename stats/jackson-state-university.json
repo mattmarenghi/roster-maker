@@ -2,14 +2,14 @@
   "school": "Jackson State University",
   "base_url": "https://www.gojsutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:02:15.317843Z",
-  "record": "10-11",
+  "generated_at": "2026-03-18T07:48:24.164037Z",
+  "record": "10-12",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "Texas Southern",
-    "result": "L 12-17",
-    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
-    "recap_url": "https://www.gojsutigers.com/news/2026/3/15/baseball-tigers-pick-up-win-in-series-finale.aspx",
+    "date": "2026-03-17",
+    "opponent": "Mississippi State",
+    "result": "W 17-1",
+    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
+    "recap_url": "https://www.gojsutigers.com/news/2026/3/17/baseball-tigers-fall-to-no-6-missisippi-state-on-the-road-in-mid-week-action.aspx",
     "recap_headline": "Jackson State University",
     "recap_text": ""
   },
@@ -52,7 +52,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -77,14 +77,14 @@
       "school": "Jackson State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 12.79,
-        "whip": 1.89,
+        "era": 10.57,
+        "whip": 1.57,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 10,
+        "g": 11,
         "gs": 0,
-        "ip": 6.1,
+        "ip": 7.2,
         "h": 7,
         "r": 11,
         "er": 9,
@@ -93,13 +93,13 @@
         "hr": 0,
         "hbp": 8,
         "wp": 1,
-        "opp_avg": ".280"
+        "opp_avg": ".241"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas Southern",
-        "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -110,17 +110,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 1,
-          "r": 1,
-          "er": 1,
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 1 K vs. Texas Southern (L 12-17). At 13.28 ERA through 6.1 innings on the season."
+      "narrative": "1.1 IP, 0 K vs. Mississippi State (W 17-1). At 11.25 ERA through 7.2 innings on the season."
     },
     "d487e1f1": {
       "id": "d487e1f1",
@@ -192,7 +195,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -244,7 +247,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -287,32 +290,8 @@
         "wp": 1,
         "opp_avg": ".158"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Texas Southern",
-        "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 2
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Texas Southern (W 17-6). At 7.50 ERA through 6.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "2a8837f3": {
       "id": "2a8837f3",
@@ -325,29 +304,29 @@
       "school": "Jackson State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.84,
-        "whip": 1.63,
+        "era": 5.84,
+        "whip": 1.5,
         "w": 2,
         "l": 1,
         "sv": 1,
         "g": 6,
         "gs": 3,
-        "ip": 26.1,
-        "h": 30,
-        "r": 22,
-        "er": 20,
-        "bb": 13,
-        "so": 31,
+        "ip": 24.2,
+        "h": 26,
+        "r": 17,
+        "er": 16,
+        "bb": 11,
+        "so": 29,
         "hr": 3,
-        "hbp": 4,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".288"
+        "opp_avg": ".274"
       },
       "last_game": {
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -358,14 +337,17 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "4.1",
-          "h": 9,
-          "r": 9,
-          "er": 8,
-          "bb": 8,
-          "so": 6,
+          "ip": "2.2",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 6,
+          "so": 4,
           "wp": 0,
-          "hbp": 2
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.1 IP, 6 K vs. Texas Southern (W 15-9). At 6.90 ERA through 26.1 innings on the season."
@@ -380,32 +362,47 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 21,
-        "gs": 21,
-        "avg": 0.351,
-        "ops": 0.933,
-        "ab": 94,
+        "g": 22,
+        "gs": 22,
+        "avg": 0.34,
+        "ops": 0.905,
+        "ab": 97,
         "r": 22,
         "h": 33,
         "doubles": 2,
         "triples": 2,
         "hr": 4,
-        "rbi": 17,
+        "rbi": 18,
         "tb": 51,
-        "slg": 0.543,
+        "slg": 0.526,
         "bb": 5,
         "hbp": 1,
-        "so": 17,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.39,
+        "obp": 0.379,
         "sf": 0,
         "sh": 1,
         "sb": 5,
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 1 RBI vs. Mississippi State (W 17-1). Hitting .340 with 4 HR through 22 games."
     },
     "83cccf29": {
       "id": "83cccf29",
@@ -418,14 +415,14 @@
       "school": "Jackson State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 12.79,
-        "whip": 1.89,
+        "era": 10.57,
+        "whip": 1.57,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 10,
+        "g": 11,
         "gs": 0,
-        "ip": 6.1,
+        "ip": 7.2,
         "h": 7,
         "r": 11,
         "er": 9,
@@ -434,13 +431,13 @@
         "hr": 0,
         "hbp": 8,
         "wp": 1,
-        "opp_avg": ".280"
+        "opp_avg": ".241"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas Southern",
-        "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -451,17 +448,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 1,
-          "r": 1,
-          "er": 1,
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 1 K vs. Texas Southern (L 12-17). At 13.28 ERA through 6.1 innings on the season."
+      "narrative": "1.1 IP, 0 K vs. Mississippi State (W 17-1). At 11.25 ERA through 7.2 innings on the season."
     },
     "cba371de": {
       "id": "cba371de",
@@ -473,11 +473,11 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 15,
-        "gs": 13,
-        "avg": 0.396,
-        "ops": 1.1,
-        "ab": 48,
+        "g": 16,
+        "gs": 14,
+        "avg": 0.373,
+        "ops": 1.04,
+        "ab": 51,
         "r": 13,
         "h": 19,
         "doubles": 5,
@@ -485,12 +485,12 @@
         "hr": 2,
         "rbi": 13,
         "tb": 30,
-        "slg": 0.625,
+        "slg": 0.588,
         "bb": 6,
         "hbp": 3,
         "so": 8,
         "gdp": 0,
-        "obp": 0.475,
+        "obp": 0.452,
         "sf": 2,
         "sh": 0,
         "sb": 2,
@@ -511,29 +511,29 @@
       "school": "Jackson State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 8.59,
-        "whip": 2.45,
+        "era": 11.42,
+        "whip": 2.77,
         "w": 0,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 6,
-        "gs": 0,
-        "ip": 7.1,
-        "h": 12,
-        "r": 9,
-        "er": 7,
-        "bb": 6,
+        "g": 7,
+        "gs": 1,
+        "ip": 8.2,
+        "h": 14,
+        "r": 14,
+        "er": 11,
+        "bb": 10,
         "so": 6,
         "hr": 1,
         "hbp": 1,
-        "wp": 3,
-        "opp_avg": ".364"
+        "wp": 4,
+        "opp_avg": ".368"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Texas Southern",
-        "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -544,17 +544,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 1
+          "ip": "1.1",
+          "h": 2,
+          "r": 5,
+          "er": 4,
+          "bb": 4,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "2.0 IP, 3 K vs. Texas Southern (W 17-6). At 8.87 ERA through 7.1 innings on the season."
+      "narrative": "1.1 IP, 0 K vs. Mississippi State (W 17-1). At 12.07 ERA through 8.2 innings on the season."
     },
     "30b0570b": {
       "id": "30b0570b",
@@ -594,7 +597,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -618,11 +621,11 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 19,
-        "gs": 17,
-        "avg": 0.203,
-        "ops": 0.674,
-        "ab": 59,
+        "g": 20,
+        "gs": 18,
+        "avg": 0.194,
+        "ops": 0.642,
+        "ab": 62,
         "r": 13,
         "h": 12,
         "doubles": 5,
@@ -630,12 +633,12 @@
         "hr": 2,
         "rbi": 13,
         "tb": 23,
-        "slg": 0.39,
+        "slg": 0.371,
         "bb": 6,
         "hbp": 1,
         "so": 16,
         "gdp": 1,
-        "obp": 0.284,
+        "obp": 0.271,
         "sf": 1,
         "sh": 3,
         "sb": 0,
@@ -664,7 +667,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -682,7 +685,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Texas Southern (W 15-9). At 135.00 ERA through 0.2 innings on the season."
@@ -698,29 +704,29 @@
       "school": "Jackson State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.8,
-        "whip": 1.73,
+        "era": 11.42,
+        "whip": 2.13,
         "w": 0,
         "l": 2,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 4,
-        "ip": 15.0,
-        "h": 11,
-        "r": 14,
-        "er": 13,
-        "bb": 15,
-        "so": 17,
+        "ip": 17.1,
+        "h": 19,
+        "r": 24,
+        "er": 22,
+        "bb": 18,
+        "so": 19,
         "hr": 2,
-        "hbp": 2,
-        "wp": 1,
-        "opp_avg": ".196"
+        "hbp": 5,
+        "wp": 2,
+        "opp_avg": ".268"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas Southern",
-        "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -731,17 +737,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
+          "ip": "0.2",
+          "h": 4,
+          "r": 5,
+          "er": 5,
+          "bb": 1,
           "so": 0,
-          "wp": 0,
-          "hbp": 0
+          "wp": 1,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": null
+      "narrative": "0.2 IP, 0 K vs. Mississippi State (W 17-1). At 11.58 ERA through 17.1 innings on the season."
     },
     "b5f05de9": {
       "id": "b5f05de9",
@@ -753,7 +762,7 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 8,
+        "g": 9,
         "gs": 2,
         "avg": 0.167,
         "ops": 0.667,
@@ -777,29 +786,29 @@
         "sb_att": 1
       },
       "season_pitching": {
-        "era": 30.86,
-        "whip": 3.86,
+        "era": 30.0,
+        "whip": 3.67,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 2.1,
-        "h": 7,
-        "r": 8,
-        "er": 8,
+        "ip": 3.0,
+        "h": 9,
+        "r": 12,
+        "er": 10,
         "bb": 2,
         "so": 1,
         "hr": 2,
-        "hbp": 4,
+        "hbp": 5,
         "wp": 0,
-        "opp_avg": ".583"
+        "opp_avg": ".529"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas Southern",
-        "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -810,17 +819,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
+          "ip": "0.2",
+          "h": 2,
+          "r": 4,
+          "er": 2,
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 0 K vs. Texas Southern (W 15-9). At 34.29 ERA through 2.1 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. Mississippi State (W 17-1). At 30.00 ERA through 3.0 innings on the season."
     },
     "6577e77e": {
       "id": "6577e77e",
@@ -832,11 +844,11 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 9,
-        "gs": 5,
+        "g": 10,
+        "gs": 6,
         "avg": 0.0,
-        "ops": 0.1,
-        "ab": 18,
+        "ops": 0.13,
+        "ab": 20,
         "r": 2,
         "h": 0,
         "doubles": 0,
@@ -845,19 +857,34 @@
         "rbi": 0,
         "tb": 0,
         "slg": 0.0,
-        "bb": 1,
+        "bb": 2,
         "hbp": 1,
-        "so": 10,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.1,
+        "obp": 0.13,
         "sf": 0,
         "sh": 1,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Mississippi State (W 17-1). Hitting .000 with 0 HR through 10 games."
     },
     "62ec5fab": {
       "id": "62ec5fab",
@@ -869,24 +896,24 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 21,
-        "gs": 21,
-        "avg": 0.4,
-        "ops": 1.042,
-        "ab": 75,
+        "g": 22,
+        "gs": 22,
+        "avg": 0.397,
+        "ops": 1.028,
+        "ab": 78,
         "r": 22,
-        "h": 30,
+        "h": 31,
         "doubles": 6,
         "triples": 1,
         "hr": 1,
         "rbi": 16,
-        "tb": 41,
-        "slg": 0.547,
+        "tb": 42,
+        "slg": 0.538,
         "bb": 15,
         "hbp": 2,
         "so": 14,
         "gdp": 3,
-        "obp": 0.495,
+        "obp": 0.49,
         "sf": 3,
         "sh": 1,
         "sb": 3,
@@ -894,22 +921,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas Southern",
-        "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 2,
-          "h": 2,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 2,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 0 RBI vs. Texas Southern (W 15-9). Hitting .400 with 1 HR through 21 games."
+      "narrative": "1/3 with 0 RBI vs. Mississippi State (W 17-1). Hitting .397 with 1 HR through 22 games."
     },
     "feb81dfd": {
       "id": "feb81dfd",
@@ -921,24 +948,24 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 17,
-        "gs": 16,
-        "avg": 0.308,
-        "ops": 0.826,
-        "ab": 52,
-        "r": 12,
+        "g": 18,
+        "gs": 17,
+        "avg": 0.296,
+        "ops": 0.807,
+        "ab": 54,
+        "r": 13,
         "h": 16,
         "doubles": 5,
         "triples": 0,
         "hr": 0,
         "rbi": 11,
         "tb": 21,
-        "slg": 0.404,
-        "bb": 9,
+        "slg": 0.389,
+        "bb": 10,
         "hbp": 2,
-        "so": 12,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.422,
+        "obp": 0.418,
         "sf": 1,
         "sh": 5,
         "sb": 0,
@@ -946,22 +973,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas Southern",
-        "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 1,
-          "bb": 2,
-          "so": 0,
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 1 RBI vs. Texas Southern (L 12-17). Hitting .307 with 0 HR through 17 games."
+      "narrative": "0/2 with 0 RBI vs. Mississippi State (W 17-1). Hitting .296 with 0 HR through 18 games."
     },
     "69a05fb2": {
       "id": "69a05fb2",
@@ -1010,11 +1037,11 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 17,
-        "gs": 12,
-        "avg": 0.311,
-        "ops": 0.885,
-        "ab": 45,
+        "g": 18,
+        "gs": 13,
+        "avg": 0.304,
+        "ops": 0.887,
+        "ab": 46,
         "r": 11,
         "h": 14,
         "doubles": 4,
@@ -1022,12 +1049,12 @@
         "hr": 0,
         "rbi": 12,
         "tb": 20,
-        "slg": 0.444,
-        "bb": 8,
-        "hbp": 4,
+        "slg": 0.435,
+        "bb": 9,
+        "hbp": 5,
         "so": 11,
         "gdp": 2,
-        "obp": 0.441,
+        "obp": 0.452,
         "sf": 2,
         "sh": 0,
         "sb": 1,
@@ -1035,22 +1062,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas Southern",
-        "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
-          "ab": 6,
+          "ab": 1,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
-          "bb": 0,
-          "so": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "1/6 with 1 RBI vs. Texas Southern (L 12-17). Hitting .311 with 0 HR through 17 games."
+      "narrative": "0/1 with 0 RBI vs. Mississippi State (W 17-1). Hitting .304 with 0 HR through 18 games."
     },
     "6cba35a8": {
       "id": "6cba35a8",
@@ -1062,11 +1089,11 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 2,
-        "gs": 2,
-        "avg": 0.3,
-        "ops": 0.9,
-        "ab": 10,
+        "g": 3,
+        "gs": 3,
+        "avg": 0.25,
+        "ops": 0.808,
+        "ab": 12,
         "r": 2,
         "h": 3,
         "doubles": 0,
@@ -1074,12 +1101,12 @@
         "hr": 1,
         "rbi": 2,
         "tb": 6,
-        "slg": 0.6,
-        "bb": 0,
+        "slg": 0.5,
+        "bb": 1,
         "hbp": 0,
-        "so": 4,
+        "so": 5,
         "gdp": 0,
-        "obp": 0.3,
+        "obp": 0.308,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1122,7 +1149,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1140,7 +1167,10 @@
           "bb": 4,
           "so": 4,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 4 K, 7 ER vs. Texas Southern (L 12-17). At 6.75 ERA through 24.0 innings on the season."
@@ -1178,7 +1208,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1196,7 +1226,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Texas Southern (L 12-17). At 10.76 ERA through 9.2 innings on the season."
@@ -1234,7 +1267,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1252,7 +1285,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Texas Southern (L 12-17). At 7.12 ERA through 24.0 innings on the season."
@@ -1286,32 +1322,8 @@
         "wp": 2,
         "opp_avg": ".250"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Texas Southern",
-        "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 1,
-          "r": 3,
-          "er": 3,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "0.2 IP, 1 K vs. Texas Southern (W 17-6). At 17.56 ERA through 4.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "7376974c": {
       "id": "7376974c",
@@ -1324,26 +1336,53 @@
       "school": "Jackson State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 1.0,
+        "era": 6.75,
+        "whip": 3.0,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 1,
+        "g": 2,
         "gs": 0,
-        "ip": 1.0,
-        "h": 1,
-        "r": 0,
-        "er": 0,
-        "bb": 0,
-        "so": 0,
+        "ip": 1.1,
+        "h": 3,
+        "r": 1,
+        "er": 1,
+        "bb": 1,
+        "so": 1,
         "hr": 0,
         "hbp": 0,
-        "wp": 0,
-        "opp_avg": ".333"
+        "wp": 1,
+        "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.1 IP, 1 K vs. Mississippi State (W 17-1). At 8.18 ERA through 1.1 innings on the season."
     },
     "be164f1b": {
       "id": "be164f1b",
@@ -1378,7 +1417,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1396,7 +1435,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 1 K vs. Texas Southern (W 15-9). At 5.21 ERA through 12.1 innings on the season."
@@ -1412,29 +1454,29 @@
       "school": "Jackson State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.82,
-        "whip": 2.32,
+        "era": 9.0,
+        "whip": 2.33,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 8,
+        "g": 9,
         "gs": 0,
-        "ip": 7.1,
-        "h": 9,
-        "r": 10,
-        "er": 8,
-        "bb": 8,
-        "so": 8,
+        "ip": 9.0,
+        "h": 11,
+        "r": 12,
+        "er": 9,
+        "bb": 10,
+        "so": 9,
         "hr": 1,
         "hbp": 5,
         "wp": 3,
-        "opp_avg": ".300"
+        "opp_avg": ".297"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas Southern",
-        "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1445,17 +1487,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
+          "ip": "1.2",
+          "h": 2,
+          "r": 2,
+          "er": 1,
+          "bb": 2,
+          "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 0 K vs. Texas Southern (W 15-9). At 10.14 ERA through 7.1 innings on the season."
+      "narrative": "1.2 IP, 1 K vs. Mississippi State (W 17-1). At 9.00 ERA through 9.0 innings on the season."
     },
     "2a437834": {
       "id": "2a437834",
@@ -1467,11 +1512,11 @@
       "num": "",
       "school": "Jackson State University",
       "season_batting": {
-        "g": 21,
-        "gs": 20,
-        "avg": 0.373,
-        "ops": 1.013,
-        "ab": 75,
+        "g": 22,
+        "gs": 21,
+        "avg": 0.359,
+        "ops": 0.977,
+        "ab": 78,
         "r": 22,
         "h": 28,
         "doubles": 6,
@@ -1479,12 +1524,12 @@
         "hr": 3,
         "rbi": 21,
         "tb": 43,
-        "slg": 0.573,
+        "slg": 0.551,
         "bb": 7,
         "hbp": 5,
         "so": 16,
-        "gdp": 1,
-        "obp": 0.44,
+        "gdp": 2,
+        "obp": 0.426,
         "sf": 4,
         "sh": 1,
         "sb": 7,
@@ -1492,13 +1537,13 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Texas Southern",
-        "result": "W 17-6",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5203&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
@@ -1507,7 +1552,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Texas Southern (W 17-6). Hitting .373 with 3 HR through 21 games."
+      "narrative": "0/3 with 0 RBI vs. Mississippi State (W 17-1). Hitting .358 with 3 HR through 22 games."
     },
     "0ced409b": {
       "id": "0ced409b",
@@ -1542,7 +1587,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1560,7 +1605,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Texas Southern (L 12-17). At 10.00 ERA through 16.2 innings on the season."

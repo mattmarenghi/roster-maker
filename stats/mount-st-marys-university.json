@@ -2,7 +2,7 @@
   "school": "Mount St. Mary's University",
   "base_url": "https://www.mountathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:07:58.767812Z",
+  "generated_at": "2026-03-18T07:53:52.985586Z",
   "record": "9-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -443,7 +443,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 1 K vs. Canisius (W 10-9). At 4.69 ERA through 19.2 innings on the season."
@@ -499,7 +502,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.2 IP, 4 K, 4 ER vs. Canisius (W 10-9). At 7.22 ERA through 21.2 innings on the season."
@@ -587,7 +593,10 @@
           "bb": 2,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 5 K vs. Canisius (W 8-4). At 2.73 ERA through 13.2 innings on the season."
@@ -675,7 +684,10 @@
           "bb": 3,
           "so": 6,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.1 IP, 6 K vs. Canisius (W 17-10). At 4.48 ERA through 24.1 innings on the season."
@@ -847,7 +859,10 @@
           "bb": 6,
           "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 3 K vs. Canisius (W 8-4). At 13.06 ERA through 6.2 innings on the season."
@@ -967,7 +982,10 @@
           "bb": 0,
           "so": 7,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 7 K vs. Canisius (W 8-4). At 7.20 ERA through 15.0 innings on the season."
@@ -1477,7 +1495,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Canisius (W 8-4). At 1.73 ERA through 5.2 innings on the season."
@@ -1556,7 +1577,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "0.2 IP, 0 K vs. Canisius (W 10-9). At 2.43 ERA through 11.1 innings on the season."

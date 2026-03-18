@@ -2,7 +2,7 @@
   "school": "Binghamton University",
   "base_url": "https://www.bubearcats.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:53:15.692149Z",
+  "generated_at": "2026-03-18T07:39:26.963686Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -206,7 +206,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 4 K vs. Bryant (W 8-4). At 10.94 ERA through 18.1 innings on the season."
@@ -262,7 +265,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Bryant (W 8-4). At 14.12 ERA through 5.1 innings on the season."
@@ -442,7 +448,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 2 K vs. Bryant (L 3-4). At 6.63 ERA through 19.0 innings on the season."
@@ -498,7 +507,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Bryant (L 3-4). At 0.00 ERA through 14.1 innings on the season."
@@ -554,7 +566,10 @@
           "bb": 2,
           "so": 7,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 7 K, 5 ER vs. Bryant (W 5-3). At 8.02 ERA through 20.2 innings on the season."
@@ -803,7 +818,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 2 K vs. Bryant (W 5-3). At 6.24 ERA through 10.1 innings on the season."
@@ -980,7 +998,10 @@
           "bb": 0,
           "so": 4,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 4 K vs. Bryant (L 3-4). At 3.21 ERA through 11.2 innings on the season."
@@ -1140,7 +1161,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Bryant (W 8-4). At 8.65 ERA through 5.2 innings on the season."
@@ -1332,7 +1356,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Bryant (W 8-4). At 3.96 ERA through 9.1 innings on the season."
@@ -1425,7 +1452,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. Bryant (W 8-4). At 6.55 ERA through 11.0 innings on the season."

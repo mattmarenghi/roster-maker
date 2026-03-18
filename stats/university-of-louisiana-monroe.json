@@ -2,7 +2,7 @@
   "school": "University of Louisiana Monroe",
   "base_url": "https://www.ulmwarhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:23:43.504870Z",
+  "generated_at": "2026-03-18T08:08:28.375655Z",
   "record": "12-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -243,7 +243,10 @@
           "bb": 0,
           "so": 3,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 3 K vs. Texas St. (W 12-6). At 4.43 ERA through 12.2 innings on the season."
@@ -388,7 +391,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 1 K vs. Texas St. (W 12-6). At 4.17 ERA through 15.1 innings on the season."
@@ -745,7 +751,10 @@
           "bb": 0,
           "so": 6,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 6 K, 5 ER vs. Texas St. (W 16-5). At 4.47 ERA through 26.2 innings on the season."
@@ -1018,7 +1027,10 @@
           "bb": 1,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 5 ER vs. Texas St. (W 8-5). At 7.22 ERA through 21.2 innings on the season."
@@ -1198,7 +1210,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 3 K vs. Texas St. (W 8-5). At 4.74 ERA through 17.1 innings on the season."
@@ -1269,7 +1284,10 @@
           "bb": 1,
           "so": 7,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 7 K vs. Texas St. (W 12-6). At 2.99 ERA through 21.1 innings on the season."

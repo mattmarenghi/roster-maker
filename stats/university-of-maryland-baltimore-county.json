@@ -2,7 +2,7 @@
   "school": "University of Maryland, Baltimore County",
   "base_url": "https://UMBCRetrievers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:24:33.669235Z",
+  "generated_at": "2026-03-18T08:09:28.340689Z",
   "record": "7-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -347,7 +347,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 3 K vs. Florida Atlantic (W 10-9). At 6.49 ERA through 11.1 innings on the season."
@@ -455,7 +458,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 6 K, 1 ER vs. Florida Atlantic (L 3-14). At 3.67 ERA through 22.1 innings on the season."
@@ -580,7 +586,10 @@
           "bb": 5,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 4 ER vs. Florida Atlantic (W 10-9). At 6.09 ERA through 19.2 innings on the season."
@@ -858,7 +867,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Florida Atlantic (L 3-14). At 2.45 ERA through 11.0 innings on the season."
@@ -937,7 +949,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 1 K vs. Florida Atlantic (W 4-3). At 2.97 ERA through 9.1 innings on the season."
@@ -1241,7 +1256,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1381,7 +1399,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 2 K vs. Florida Atlantic (W 10-9). At 7.94 ERA through 10.2 innings on the season."
@@ -1437,7 +1458,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 3 K, 1 ER vs. Florida Atlantic (W 4-3). At 4.03 ERA through 20.1 innings on the season."

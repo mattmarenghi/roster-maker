@@ -2,7 +2,7 @@
   "school": "California Baptist University",
   "base_url": "https://www.cbulancers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:55:06.331008Z",
+  "generated_at": "2026-03-18T07:41:18.446161Z",
   "record": "17-5",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -167,7 +167,10 @@
           "bb": 2,
           "so": 8,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Harvard, throwing 6.0 innings. Struck out 8 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."
@@ -655,7 +658,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Harvard, throwing 2.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
@@ -703,7 +709,10 @@
           "bb": 2,
           "so": 5,
           "wp": 2,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Harvard, throwing 4.0 innings. Allowed 3 earned run(s) with 5 strikeout(s)."
@@ -806,7 +815,10 @@
           "bb": 4,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Harvard (L). At 6.18 ERA through 13.1 innings on the season."
@@ -854,7 +866,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Harvard, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
@@ -902,7 +917,10 @@
           "bb": 0,
           "so": 7,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 7 K vs. Harvard (L). At 5.37 ERA through 20.1 innings on the season."
@@ -1005,7 +1023,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal State Fullerton, throwing 2.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
@@ -1090,7 +1111,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against BYU, throwing 1.1 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
@@ -1138,7 +1162,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Harvard, throwing 4.0 innings. Allowed 0 earned run(s) with 6 strikeout(s)."
@@ -1241,7 +1268,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Harvard (L). At 2.25 ERA through 16.0 innings on the season."
@@ -1399,7 +1429,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 3 K vs. Harvard (L). At 0.00 ERA through 6.0 innings on the season."
@@ -1447,7 +1480,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Harvard (W). At 4.12 ERA through 13.1 innings on the season."
@@ -1495,7 +1531,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Harvard, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -1543,7 +1582,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Harvard (L). At 6.24 ERA through 10.1 innings on the season."
@@ -1701,7 +1743,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Harvard (L). At 2.05 ERA through 13.2 innings on the season."
@@ -1749,7 +1794,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 3 K vs. Harvard (L). At 2.93 ERA through 9.2 innings on the season."

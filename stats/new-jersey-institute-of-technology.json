@@ -2,7 +2,7 @@
   "school": "New Jersey Institute of Technology",
   "base_url": "https://www.njithighlanders.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:08:17.911484Z",
+  "generated_at": "2026-03-18T07:54:09.371478Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -451,7 +451,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 4 K, 2 ER vs. Niagara (L 3-6). At 4.69 ERA through 21.1 innings on the season."
@@ -507,7 +510,10 @@
           "bb": 3,
           "so": 1,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 1 K vs. Niagara (L 4-7). At 6.28 ERA through 17.2 innings on the season."
@@ -615,7 +621,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 3 ER vs. Niagara (L 6-8). At 2.55 ERA through 21.2 innings on the season."
@@ -960,7 +969,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Niagara (L 4-7). At 10.14 ERA through 7.1 innings on the season."
@@ -1180,7 +1192,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Niagara (L 6-8). At 1.80 ERA through 5.0 innings on the season."
@@ -1236,7 +1251,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Niagara (L 4-7). At 6.43 ERA through 4.2 innings on the season."
@@ -1292,7 +1310,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 4 K vs. Niagara (L 3-6). At 4.00 ERA through 9.0 innings on the season."
@@ -1432,7 +1453,10 @@
           "bb": 2,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Niagara (L 3-6). At 4.85 ERA through 13.0 innings on the season."
@@ -1488,7 +1512,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Niagara (L 6-8). At 17.70 ERA through 6.1 innings on the season."
@@ -1544,7 +1571,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Niagara (L 4-7). At 4.39 ERA through 4.1 innings on the season."
@@ -1600,7 +1630,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": null

@@ -2,7 +2,7 @@
   "school": "Xavier University",
   "base_url": "https://www.goxavier.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:36:59.960920Z",
+  "generated_at": "2026-03-18T08:19:13.975104Z",
   "record": "6-15",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -10,8 +10,8 @@
     "result": "L",
     "boxscore_url": "https://www.goxavier.com/sports/baseball/stats/2026/evansville/boxscore/13162",
     "recap_url": "https://www.goxavier.com/news/2026/3/15/baseball-vs-evansville-game-3",
-    "recap_headline": "",
-    "recap_text": ""
+    "recap_headline": "Xavier University Athletics",
+    "recap_text": "CINCINNATI\n- Xavier baseball fell in the series finale with Evansville, 5-1, on Sunday afternoon at Hayden Field. The Purple Aces took the series, 2-1, with the win.\nThe Musketeers moved to 6-15 on the year, while the Purple Aces moved to 5-13.\nEvansville got on the board in the first inning with a pair of runs, and added two more in the third to take a 4-0 lead. In the bottom of the third,\nMitchell Morton\nled off the frame with a single, and after\nJD Crisp\nreached on a fielders choice, a walk from\nJorge Valdes\nand a single from\nClay Burdette\nloaded the bases with one out.\nJosh Stonehouse\nbrought Crisp in from third with a sac fly to get the Musketeers on the board.\nAshton Chronister\nmade the start on the mound for the Musketeers, going a career-long 7.0 innings, not allowing a run after the third, and finishing with a career-best six strikeouts before exiting for the eighth. The 4-1 advantage for Evansville held into the eighth when the Purple Aces picked up another run to set the final score at 5-1.\nThe Musketeers remain at home to host Ohio State on Wednesday, March 18, set for a 3:00 p.m. start at Hayden Field. The game with the Buckeyes will be streamed live on XAVIER+.\nAT THE PLATE\nJosh Stonehouse\nrecorded an RBI with a sac fly.\nJD Crisp\nscored a run after getting aboard on a fielder's choice.\nDonavan Canterberry\nwent 2-3 with a walk.\nClay Burdette\nfinished 2-4 at the plate.\nLuke Hammond\n(1-4) got on with a double.\nMitchell Morton\ngot on with a hit, and\nJorge Valdes\ngot aboard with a walk.\non the mound\nAshton Chronister\nmade his fourth start of the season, going 7.0 innings, a career-long outing for the junior, allowing four runs on eight hits and one walk, striking out a career-best six along the way.\nMichael Murphy\npitched the eighth, allowing one run on one hit and two walks in 1.0 inning of work.\nJoey Arend\npitched the ninth, not allowing a run or a hit, issuing one walk and striking out a pair.\nHIGHLIGHTS"
   },
   "players": {
     "97041e89": {
@@ -497,7 +497,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -600,7 +603,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -792,7 +798,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Went 0/1 with 0 RBI against Evansville. Struggled to make contact."
@@ -895,7 +904,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Oregon, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -943,7 +955,10 @@
           "bb": 3,
           "so": 7,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Evansville, throwing 6.0 innings. Struck out 7 while allowing just 5 hit(s) and 5 earned run(s) in a quality start."
@@ -991,7 +1006,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Oregon, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -1039,7 +1057,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Evansville, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -1087,7 +1108,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Oregon, throwing 5.0 innings. Struck out 3 while allowing just 4 hit(s) and 1 earned run(s) in a quality start."
@@ -1135,7 +1159,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Evansville, throwing 2.1 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
@@ -1183,7 +1210,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1286,7 +1316,10 @@
           "bb": 1,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Evansville, throwing 7.0 innings. Struck out 6 while allowing just 8 hit(s) and 4 earned run(s) in a quality start."
@@ -1334,7 +1367,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Oregon, throwing 3.0 innings. Allowed 6 earned run(s) with 4 strikeout(s)."
@@ -1382,7 +1418,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Oregon, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
@@ -1430,7 +1469,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Oregon State, throwing 0.2 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
@@ -1478,7 +1520,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Ohio State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1613,7 +1658,10 @@
           "bb": 4,
           "so": 6,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Evansville, throwing 5.0 innings. Struck out 6 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
@@ -1661,7 +1709,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "Took the mound against Evansville, throwing 0.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1819,7 +1870,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
@@ -1867,7 +1921,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Evansville, throwing 4.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."

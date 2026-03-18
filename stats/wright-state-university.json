@@ -2,7 +2,7 @@
   "school": "Wright State University",
   "base_url": "https://www.wsuraiders.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:37:41.070037Z",
+  "generated_at": "2026-03-18T08:18:46.829796Z",
   "record": "5-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -10,8 +10,8 @@
     "result": "L",
     "boxscore_url": "https://www.wsuraiders.com/sports/baseball/stats/2026/redhawks/boxscore/10418",
     "recap_url": "https://www.wsuraiders.com/news/2026/3/15/baseball-duncan-homers-as-raiders-drop-series-finale-to-semo",
-    "recap_headline": "",
-    "recap_text": ""
+    "recap_headline": "Wright State University",
+    "recap_text": "DAYTON, OH-\nThe Wright State baseball team got a home run from\nAndrew Duncan\n, but fell to Southeast Missouri State (SEMO) 3-2 in the series final Sunday afternoon.\nWright State (5-12) will be back in action Tuesday afternoon at Kent State. First pitch in Northeast Ohio is currently slated for 3 p.m.\nChet Lax\ngot the start on the mound for the Raiders and delivered another quality start. The left-hander twirled six innings, allowing just one run on three hits while striking out four Redhawks.\nSEMO opened the scoring for the third day in a row, bringing in a run in the top of the second. Mikey Rocha served a single out to center that scored Andrew Ramirez from second base.\nDuncan got the Raiders on the board in the bottom of the fourth when he launched a solo shot over the wall in left. The homer is Duncan's first of the season and first in a Wright State uniform.\nLax would turn the ball over to\nMichael Bilo\nin the seventh. The right-hander pitched two shutout innings, allowing two hits and striking out two Redhawks.\nSEMO would regain the lead in the top of the ninth, bringing home two runs on\nMalachi Paplanus\n.\nWright State would rally in the bottom of the ninth but would ultimately come up just short.\nBrett Denby\nled off the inning with a six-pitch walk and would advance up to second two batters later on a\nZac Butler\nsingle.\nNate Manley\nwould step in and pitch hit in the inning and drive home Denby on an RBI double into the gap in left-center. But the Redhawk closer was able to avoid extra innings, recording the next two outs without any damage."
   },
   "players": {
     "b941a668": {
@@ -442,7 +442,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -655,7 +658,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 6.0 innings. Struck out 4 while allowing just 3 hit(s) and 1 earned run(s) in a quality start."
@@ -703,7 +709,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
@@ -751,7 +760,10 @@
           "bb": 1,
           "so": 7,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Campbell, throwing 4.0 innings. Allowed 0 earned run(s) with 7 strikeout(s)."
@@ -799,7 +811,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -920,7 +935,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1023,7 +1041,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
@@ -1071,7 +1092,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Charlotte, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1174,7 +1198,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1256,7 +1283,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Went 1/3 with 0 RBI against Redhawks. Contributed at the plate in the team's L."
@@ -1304,7 +1334,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 5.0 innings. Struck out 4 while allowing just 3 hit(s) and 4 earned run(s) in a quality start."
@@ -1352,7 +1385,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Charlotte, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1400,7 +1436,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -1448,7 +1487,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
@@ -1496,7 +1538,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 6.0 innings. Struck out 3 while allowing just 3 hit(s) and 3 earned run(s) in a quality start."
@@ -1544,7 +1589,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 1.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -1615,7 +1663,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Redhawks, throwing 4.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
@@ -1663,7 +1714,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."

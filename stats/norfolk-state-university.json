@@ -2,7 +2,7 @@
   "school": "Norfolk State University",
   "base_url": "https://www.nsuspartans.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:08:53.961141Z",
+  "generated_at": "2026-03-18T07:54:39.082478Z",
   "record": "4-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -65,7 +65,10 @@
           "bb": 6,
           "so": 1,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 1 K vs. Central Conn. St. (W 10-9). At 6.13 ERA through 19.1 innings on the season."
@@ -351,7 +354,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. Central Conn. St. (L 5-10). At 15.56 ERA through 8.1 innings on the season."
@@ -407,7 +413,10 @@
           "bb": 0,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "2.0 IP, 2 K vs. Central Conn. St. (W 6-5). At 4.81 ERA through 13.1 innings on the season."
@@ -478,7 +487,10 @@
           "bb": 3,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Central Conn. St. (W 6-5). At 10.71 ERA through 4.2 innings on the season."
@@ -608,7 +620,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": null
@@ -748,7 +763,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -888,7 +906,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 4 K, 3 ER vs. Central Conn. St. (W 10-9). At 8.51 ERA through 22.2 innings on the season."
@@ -981,7 +1002,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Central Conn. St. (L 5-10). At 25.08 ERA through 6.1 innings on the season."
@@ -1037,7 +1061,10 @@
           "bb": 1,
           "so": 5,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 5 K vs. Central Conn. St. (W 6-5). At 6.23 ERA through 13.0 innings on the season."
@@ -1130,7 +1157,10 @@
           "bb": 0,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Central Conn. St. (W 6-5). At 6.00 ERA through 3.0 innings on the season."
@@ -1186,7 +1216,10 @@
           "bb": 1,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 6 K, 3 ER vs. Central Conn. St. (L 5-10). At 6.72 ERA through 20.1 innings on the season."
@@ -1364,7 +1397,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Central Conn. St. (L 5-10). At 17.10 ERA through 10.0 innings on the season."

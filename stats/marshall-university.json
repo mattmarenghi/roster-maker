@@ -2,7 +2,7 @@
   "school": "Marshall University",
   "base_url": "https://www.herdzone.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:05:56.293461Z",
+  "generated_at": "2026-03-18T07:51:49.047966Z",
   "record": "16-26",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -222,7 +222,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 1.1 innings. Allowed 6 earned run(s) with 0 strikeout(s)."
@@ -380,7 +383,10 @@
           "bb": 1,
           "so": 10,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Georgia St., throwing 8.1 innings. Struck out 10 while allowing just 5 hit(s) and 2 earned run(s) in a quality start."
@@ -428,7 +434,10 @@
           "bb": 0,
           "so": 7,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Georgia St., throwing 4.0 innings. Allowed 0 earned run(s) with 7 strikeout(s)."
@@ -476,7 +485,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Georgia St., throwing 2.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
@@ -524,7 +536,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
@@ -572,7 +587,10 @@
           "bb": 1,
           "so": 10,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Georgia St., throwing 8.0 innings. Struck out 10 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
@@ -785,7 +803,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 1.1 innings. Allowed 6 earned run(s) with 1 strikeout(s)."
@@ -833,7 +854,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "Took the mound against Georgia St., throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1156,7 +1180,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Kennesaw St., throwing 2.0 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
@@ -1348,7 +1375,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Went 0/1 with 0 RBI against Louisville. Struggled to make contact."
@@ -1396,7 +1426,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Georgia St., throwing 3.0 innings. Allowed 5 earned run(s) with 3 strikeout(s)."
@@ -1444,7 +1477,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
@@ -1657,7 +1693,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -1705,7 +1744,10 @@
           "bb": 4,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisville, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."

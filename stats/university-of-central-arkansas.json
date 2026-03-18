@@ -2,14 +2,14 @@
   "school": "University of Central Arkansas",
   "base_url": "https://www.ucasports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:21:49.822194Z",
-  "record": "11-9",
+  "generated_at": "2026-03-18T08:06:43.176463Z",
+  "record": "11-10",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "Eastern Kentucky",
-    "result": "W 6-5",
-    "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
-    "recap_url": "https://www.ucasports.com/news/2026/3/15/baseball-bears-drop-one-run-game-at-eku.aspx",
+    "date": "2026-03-17",
+    "opponent": "Louisiana Tech",
+    "result": "W 5-4",
+    "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+    "recap_url": "https://www.ucasports.com/news/2026/3/17/baseball-central-arkansas-battles-hard-in-5-4-loss-to-louisiana-tech.aspx",
     "recap_headline": "University of Central Arkansas Athletics",
     "recap_text": ""
   },
@@ -24,11 +24,11 @@
       "num": "1",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 15,
-        "gs": 8,
-        "avg": 0.16,
-        "ops": 0.524,
-        "ab": 25,
+        "g": 16,
+        "gs": 9,
+        "avg": 0.148,
+        "ops": 0.491,
+        "ab": 27,
         "r": 4,
         "h": 4,
         "doubles": 0,
@@ -36,12 +36,12 @@
         "hr": 0,
         "rbi": 3,
         "tb": 4,
-        "slg": 0.16,
+        "slg": 0.148,
         "bb": 5,
         "hbp": 3,
         "so": 7,
         "gdp": 0,
-        "obp": 0.364,
+        "obp": 0.343,
         "sf": 0,
         "sh": 1,
         "sb": 2,
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Eastern Kentucky",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Eastern Kentucky. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "0/2 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .148 with 0 HR through 16 games."
     },
     "dfd33827": {
       "id": "dfd33827",
@@ -113,47 +113,47 @@
       "num": "3",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 9,
-        "gs": 7,
-        "avg": 0.192,
-        "ops": 0.453,
-        "ab": 26,
-        "r": 2,
-        "h": 5,
+        "g": 10,
+        "gs": 8,
+        "avg": 0.2,
+        "ops": 0.459,
+        "ab": 30,
+        "r": 3,
+        "h": 6,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 1,
-        "tb": 6,
-        "slg": 0.231,
+        "tb": 7,
+        "slg": 0.233,
         "bb": 1,
         "hbp": 0,
-        "so": 6,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.222,
+        "obp": 0.226,
         "sf": 0,
         "sh": 0,
-        "sb": 1,
-        "sb_att": 1
+        "sb": 2,
+        "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 4,
           "r": 1,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR"
+          "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "1/4 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .200 with 0 HR through 10 games."
     },
     "b6bfcbb3": {
       "id": "b6bfcbb3",
@@ -206,7 +206,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
@@ -221,11 +224,11 @@
       "num": "5",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.274,
-        "ops": 0.826,
-        "ab": 73,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.26,
+        "ops": 0.786,
+        "ab": 77,
         "r": 9,
         "h": 20,
         "doubles": 6,
@@ -233,12 +236,12 @@
         "hr": 2,
         "rbi": 21,
         "tb": 34,
-        "slg": 0.466,
+        "slg": 0.442,
         "bb": 8,
         "hbp": 3,
-        "so": 10,
+        "so": 11,
         "gdp": 1,
-        "obp": 0.36,
+        "obp": 0.344,
         "sf": 2,
         "sh": 1,
         "sb": 2,
@@ -258,11 +261,11 @@
       "num": "6",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 17,
+        "g": 18,
         "gs": 7,
-        "avg": 0.147,
-        "ops": 0.639,
-        "ab": 34,
+        "avg": 0.143,
+        "ops": 0.622,
+        "ab": 35,
         "r": 2,
         "h": 5,
         "doubles": 1,
@@ -270,34 +273,19 @@
         "hr": 2,
         "rbi": 5,
         "tb": 12,
-        "slg": 0.353,
+        "slg": 0.343,
         "bb": 7,
         "hbp": 0,
         "so": 7,
         "gdp": 0,
-        "obp": 0.286,
+        "obp": 0.279,
         "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "PH"
-        },
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "7c69e36e": {
@@ -310,11 +298,11 @@
       "num": "8",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.343,
-        "ops": 0.89,
-        "ab": 67,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.324,
+        "ops": 0.843,
+        "ab": 71,
         "r": 13,
         "h": 23,
         "doubles": 2,
@@ -322,12 +310,12 @@
         "hr": 0,
         "rbi": 6,
         "tb": 29,
-        "slg": 0.433,
+        "slg": 0.408,
         "bb": 11,
         "hbp": 3,
-        "so": 22,
+        "so": 23,
         "gdp": 1,
-        "obp": 0.457,
+        "obp": 0.435,
         "sf": 0,
         "sh": 1,
         "sb": 3,
@@ -418,32 +406,8 @@
         "wp": 0,
         "opp_avg": ".162"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.2",
-          "h": 3,
-          "r": 3,
-          "er": 1,
-          "bb": 2,
-          "so": 2,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Eastern Kentucky, throwing 2.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "last_game": null,
+      "narrative": null
     },
     "4682f645": {
       "id": "4682f645",
@@ -456,29 +420,29 @@
       "school": "University of Central Arkansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.76,
-        "whip": 1.5,
+        "era": 5.11,
+        "whip": 1.54,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 11.1,
-        "h": 10,
-        "r": 8,
-        "er": 6,
+        "ip": 12.1,
+        "h": 12,
+        "r": 9,
+        "er": 7,
         "bb": 7,
-        "so": 10,
+        "so": 12,
         "hr": 1,
         "hbp": 2,
-        "wp": 1,
-        "opp_avg": ".244"
+        "wp": 2,
+        "opp_avg": ".261"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -489,17 +453,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
+          "ip": "1.0",
           "h": 2,
-          "r": 4,
-          "er": 4,
-          "bb": 2,
-          "so": 3,
-          "wp": 0,
-          "hbp": 1
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
+      "narrative": "1.0 IP, 2 K vs. Louisiana Tech (W 5-4). At 5.21 ERA through 12.1 innings on the season."
     },
     "29686436": {
       "id": "29686436",
@@ -552,7 +519,10 @@
           "bb": 1,
           "so": 1,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Eastern Kentucky, throwing 1.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -608,7 +578,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -660,24 +633,24 @@
       "num": "16",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 12,
+        "g": 13,
         "gs": 9,
-        "avg": 0.219,
-        "ops": 0.543,
-        "ab": 32,
+        "avg": 0.242,
+        "ops": 0.615,
+        "ab": 33,
         "r": 5,
-        "h": 7,
-        "doubles": 0,
+        "h": 8,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 1,
-        "tb": 7,
-        "slg": 0.219,
+        "rbi": 3,
+        "tb": 9,
+        "slg": 0.273,
         "bb": 3,
         "hbp": 2,
         "so": 10,
         "gdp": 1,
-        "obp": 0.324,
+        "obp": 0.342,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -713,26 +686,53 @@
       "school": "University of Central Arkansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 19.06,
-        "whip": 3.0,
+        "era": 13.09,
+        "whip": 2.18,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 4,
-        "gs": 1,
-        "ip": 5.2,
-        "h": 11,
-        "r": 12,
-        "er": 12,
-        "bb": 6,
-        "so": 6,
-        "hr": 2,
+        "g": 5,
+        "gs": 2,
+        "ip": 11.0,
+        "h": 14,
+        "r": 16,
+        "er": 16,
+        "bb": 10,
+        "so": 12,
+        "hr": 4,
         "hbp": 2,
-        "wp": 0,
-        "opp_avg": ".393"
+        "wp": 1,
+        "opp_avg": ".292"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.1",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 4,
+          "so": 6,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "5.1 IP, 6 K, 4 ER vs. Louisiana Tech (W 5-4). At 13.09 ERA through 11.0 innings on the season."
     },
     "fcf11e6a": {
       "id": "fcf11e6a",
@@ -817,7 +817,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Eastern Kentucky, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -873,7 +876,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Eastern Kentucky, throwing 2.1 innings. Allowed 7 earned run(s) with 1 strikeout(s)."
@@ -888,11 +894,11 @@
       "num": "21",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 11,
-        "gs": 6,
-        "avg": 0.28,
-        "ops": 0.653,
-        "ab": 25,
+        "g": 12,
+        "gs": 7,
+        "avg": 0.259,
+        "ops": 0.606,
+        "ab": 27,
         "r": 3,
         "h": 7,
         "doubles": 1,
@@ -900,12 +906,12 @@
         "hr": 0,
         "rbi": 2,
         "tb": 8,
-        "slg": 0.32,
+        "slg": 0.296,
         "bb": 2,
         "hbp": 0,
         "so": 7,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.31,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -913,12 +919,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Eastern Kentucky",
-        "result": "W 16-3",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -928,7 +934,7 @@
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/2 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .259 with 0 HR through 12 games."
     },
     "68321c34": {
       "id": "68321c34",
@@ -981,7 +987,10 @@
           "bb": 4,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Eastern Kentucky, throwing 1.1 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
@@ -996,11 +1005,11 @@
       "num": "26",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.353,
-        "ops": 0.979,
-        "ab": 68,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.333,
+        "ops": 0.929,
+        "ab": 72,
         "r": 14,
         "h": 24,
         "doubles": 4,
@@ -1008,12 +1017,12 @@
         "hr": 1,
         "rbi": 13,
         "tb": 35,
-        "slg": 0.515,
+        "slg": 0.486,
         "bb": 10,
         "hbp": 5,
-        "so": 15,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.464,
+        "obp": 0.443,
         "sf": 1,
         "sh": 0,
         "sb": 8,
@@ -1033,7 +1042,7 @@
       "num": "28",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 11,
+        "g": 12,
         "gs": 9,
         "avg": 0.167,
         "ops": 0.609,
@@ -1058,22 +1067,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Eastern Kentucky",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
-          "ab": 1,
-          "r": 1,
+          "ab": 0,
+          "r": 0,
           "h": 0,
-          "rbi": 1,
-          "bb": 2,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 1 RBI against Eastern Kentucky. Struggled at the plate but saw 2 walk(s)."
+      "narrative": null
     },
     "39595490": {
       "id": "39595490",
@@ -1126,7 +1135,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
@@ -1160,31 +1172,7 @@
         "wp": 1,
         "opp_avg": ".235"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.0",
-          "h": 2,
-          "r": 3,
-          "er": 3,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
+      "last_game": null,
       "narrative": null
     },
     "243fa3a0": {
@@ -1197,24 +1185,24 @@
       "num": "31",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.225,
-        "ops": 0.719,
-        "ab": 80,
-        "r": 15,
-        "h": 18,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.226,
+        "ops": 0.709,
+        "ab": 84,
+        "r": 16,
+        "h": 19,
         "doubles": 3,
         "triples": 0,
         "hr": 3,
         "rbi": 12,
-        "tb": 30,
-        "slg": 0.375,
+        "tb": 31,
+        "slg": 0.369,
         "bb": 13,
         "hbp": 2,
-        "so": 25,
+        "so": 27,
         "gdp": 2,
-        "obp": 0.344,
+        "obp": 0.34,
         "sf": 1,
         "sh": 1,
         "sb": 1,
@@ -1222,22 +1210,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Eastern Kentucky",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 1,
-          "bb": 1,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 1 RBI against Eastern Kentucky. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "1/4 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .226 with 3 HR through 21 games."
     },
     "3c1dc8db": {
       "id": "3c1dc8db",
@@ -1268,32 +1256,8 @@
         "wp": 3,
         "opp_avg": ".333"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.0",
-          "h": 4,
-          "r": 2,
-          "er": 2,
-          "bb": 3,
-          "so": 1,
-          "wp": 1,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "last_game": null,
+      "narrative": null
     },
     "6dc19846": {
       "id": "6dc19846",
@@ -1306,29 +1270,29 @@
       "school": "University of Central Arkansas",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.76,
-        "whip": 1.5,
+        "era": 5.11,
+        "whip": 1.54,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 11.1,
-        "h": 10,
-        "r": 8,
-        "er": 6,
+        "ip": 12.1,
+        "h": 12,
+        "r": 9,
+        "er": 7,
         "bb": 7,
-        "so": 10,
+        "so": 12,
         "hr": 1,
         "hbp": 2,
-        "wp": 1,
-        "opp_avg": ".244"
+        "wp": 2,
+        "opp_avg": ".261"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1339,17 +1303,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
+          "ip": "1.0",
           "h": 2,
-          "r": 4,
-          "er": 4,
-          "bb": 2,
-          "so": 3,
-          "wp": 0,
-          "hbp": 1
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
+      "narrative": "1.0 IP, 2 K vs. Louisiana Tech (W 5-4). At 5.21 ERA through 12.1 innings on the season."
     },
     "6a857c54": {
       "id": "6a857c54",
@@ -1434,7 +1401,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Eastern Kentucky, throwing 6.0 innings. Struck out 6 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
@@ -1468,32 +1438,8 @@
         "wp": 3,
         "opp_avg": ".333"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Eastern Kentucky",
-        "result": "L 12-16",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12119&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.0",
-          "h": 4,
-          "r": 2,
-          "er": 2,
-          "bb": 3,
-          "so": 1,
-          "wp": 1,
-          "hbp": 1
-        }
-      },
-      "narrative": "Took the mound against Eastern Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "last_game": null,
+      "narrative": null
     },
     "28bbbb3b": {
       "id": "28bbbb3b",
@@ -1505,24 +1451,24 @@
       "num": "42",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.358,
-        "ops": 1.072,
-        "ab": 81,
-        "r": 22,
-        "h": 29,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.353,
+        "ops": 1.082,
+        "ab": 85,
+        "r": 23,
+        "h": 30,
         "doubles": 2,
         "triples": 0,
-        "hr": 7,
-        "rbi": 21,
-        "tb": 52,
-        "slg": 0.642,
+        "hr": 8,
+        "rbi": 23,
+        "tb": 56,
+        "slg": 0.659,
         "bb": 10,
         "hbp": 1,
-        "so": 14,
+        "so": 15,
         "gdp": 1,
-        "obp": 0.43,
+        "obp": 0.423,
         "sf": 1,
         "sh": 1,
         "sb": 8,
@@ -1530,22 +1476,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Eastern Kentucky",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 2,
-          "so": 3,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Eastern Kentucky. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "1/4 with 2 RBI vs. Louisiana Tech (W 5-4). Hitting .352 with 8 HR through 21 games."
     },
     "a7227141": {
       "id": "a7227141",
@@ -1557,24 +1503,24 @@
       "num": "43",
       "school": "University of Central Arkansas",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.279,
-        "ops": 0.796,
-        "ab": 43,
-        "r": 11,
-        "h": 12,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.304,
+        "ops": 0.83,
+        "ab": 46,
+        "r": 12,
+        "h": 14,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
         "rbi": 7,
-        "tb": 19,
-        "slg": 0.442,
+        "tb": 21,
+        "slg": 0.457,
         "bb": 4,
         "hbp": 1,
-        "so": 11,
+        "so": 12,
         "gdp": 2,
-        "obp": 0.354,
+        "obp": 0.373,
         "sf": 0,
         "sh": 1,
         "sb": 5,
@@ -1582,22 +1528,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Eastern Kentucky",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 1,
+          "ab": 3,
+          "r": 1,
+          "h": 2,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
+          "bb": 0,
+          "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Eastern Kentucky. Contributed at the plate in the team's W 6-5."
+      "narrative": "2/3 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .304 with 1 HR through 13 games."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

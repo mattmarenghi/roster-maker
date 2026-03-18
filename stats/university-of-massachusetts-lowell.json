@@ -2,7 +2,7 @@
   "school": "University of Massachusetts Lowell",
   "base_url": "https://www.goriverhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:24:35.831987Z",
+  "generated_at": "2026-03-18T08:09:29.868385Z",
   "record": "7-8",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -256,7 +256,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Pepperdine (W 13-8). At 38.57 ERA through 2.1 innings on the season."
@@ -364,7 +367,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 0 K vs. Pepperdine (L 4-7). At 1.50 ERA through 6.0 innings on the season."
@@ -464,7 +470,10 @@
           "bb": 5,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 6 K vs. Pepperdine (L 4-5). At 5.59 ERA through 16.1 innings on the season."
@@ -512,7 +521,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Pepperdine (W 13-8). At 6.56 ERA through 15.1 innings on the season."
@@ -810,7 +822,10 @@
           "bb": 1,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.2 IP, 2 K, 2 ER vs. Pepperdine (L 4-7). At 3.36 ERA through 24.1 innings on the season."
@@ -955,7 +970,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. Pepperdine (W 13-8). At 2.25 ERA through 4.0 innings on the season."
@@ -1043,7 +1061,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Pepperdine (W 13-8). At 1.45 ERA through 6.2 innings on the season."
@@ -1099,7 +1120,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 2 K, 0 ER vs. Pepperdine (L 4-5). At 4.77 ERA through 13.2 innings on the season."
@@ -1456,7 +1480,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Pepperdine (W 13-8). At 7.00 ERA through 9.0 innings on the season."

@@ -2,7 +2,7 @@
   "school": "California State University, Bakersfield",
   "base_url": "https://www.gorunners.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:55:10.482443Z",
+  "generated_at": "2026-03-18T07:41:08.465702Z",
   "record": "7-13",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -327,7 +327,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -407,7 +410,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 2.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
@@ -532,7 +538,10 @@
           "bb": 1,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 5.2 innings. Struck out 5 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
@@ -877,7 +886,7 @@
         "sf": 0,
         "sh": 1,
         "sb": 2,
-        "sb_att": 4
+        "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
@@ -1097,7 +1106,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1153,7 +1165,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 5.2 innings. Struck out 1 while allowing just 8 hit(s) and 2 earned run(s) in a quality start."
@@ -1209,7 +1224,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1334,7 +1352,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1543,7 +1564,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 3.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
@@ -1668,7 +1692,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 0.1 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
@@ -1776,7 +1803,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cal Poly, throwing 3.0 innings. Allowed 6 earned run(s) with 2 strikeout(s)."

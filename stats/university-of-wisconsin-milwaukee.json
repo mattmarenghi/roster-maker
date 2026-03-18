@@ -2,7 +2,7 @@
   "school": "University of Wisconsin-Milwaukee",
   "base_url": "https://www.mkepanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:32:28.920639Z",
+  "generated_at": "2026-03-18T08:15:57.713536Z",
   "record": "4-15",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -391,7 +391,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 2 K vs. Northern Kentucky (W 14-1). At 13.39 ERA through 12.1 innings on the season."
@@ -531,7 +534,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 1 K vs. Northern Kentucky (W 14-1). At 8.18 ERA through 23.1 innings on the season."
@@ -587,7 +593,10 @@
           "bb": 1,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Northern Kentucky (L 10-16). At 4.39 ERA through 8.2 innings on the season."
@@ -643,7 +652,10 @@
           "bb": 1,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Northern Kentucky (L 10-16). At 4.39 ERA through 8.2 innings on the season."
@@ -699,7 +711,10 @@
           "bb": 3,
           "so": 6,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 6 K, 1 ER vs. Northern Kentucky (L 9-16). At 27.00 ERA through 2.0 innings on the season."
@@ -755,7 +770,10 @@
           "bb": 3,
           "so": 6,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 6 K, 1 ER vs. Northern Kentucky (L 9-16). At 27.00 ERA through 2.0 innings on the season."
@@ -947,7 +965,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 1 K vs. Northern Kentucky (L 10-16). At 7.26 ERA through 6.2 innings on the season."
@@ -1092,7 +1113,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Northern Kentucky (L 10-16). At 1.64 ERA through 11.0 innings on the season."
@@ -1237,7 +1261,10 @@
           "bb": 2,
           "so": 4,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 4 K vs. Northern Kentucky (L 10-16). At 6.67 ERA through 8.1 innings on the season."
@@ -1293,7 +1320,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Northern Kentucky (L 10-16). At 7.26 ERA through 6.2 innings on the season."
@@ -1386,7 +1416,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 1 K vs. Northern Kentucky (L 9-16). At 12.46 ERA through 13.0 innings on the season."
@@ -1442,7 +1475,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Northern Kentucky (L 10-16). At 17.05 ERA through 13.2 innings on the season."
@@ -1521,7 +1557,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1/1 with 1 RBI vs. Northern Kentucky (L 10-16). Hitting .1000 with 0 HR through 6 games."
@@ -1577,7 +1616,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 0 K vs. Northern Kentucky (W 14-1). At 10.00 ERA through 9.0 innings on the season."
@@ -1633,7 +1675,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. Northern Kentucky (L 10-16). At 6.92 ERA through 5.2 innings on the season."

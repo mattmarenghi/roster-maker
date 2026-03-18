@@ -2,7 +2,7 @@
   "school": "University at Albany",
   "base_url": "https://www.ualbanysports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:19:00.709643Z",
+  "generated_at": "2026-03-18T08:04:22.472136Z",
   "record": "1-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -251,7 +251,10 @@
           "bb": 4,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 6 K, 1 ER vs. Yale (L 2-4). At 135.00 ERA through 0.2 innings on the season."
@@ -359,7 +362,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Yale (W 6-5). At 11.47 ERA through 10.2 innings on the season."
@@ -415,7 +421,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 0 K vs. Yale (L 2-4). At 4.50 ERA through 16.0 innings on the season."
@@ -664,7 +673,10 @@
           "bb": 4,
           "so": 1,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Yale (W 15-7). At 12.07 ERA through 8.2 innings on the season."
@@ -743,7 +755,10 @@
           "bb": 4,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 6 K, 1 ER vs. Yale (L 2-4). At 135.00 ERA through 0.2 innings on the season."
@@ -851,7 +866,10 @@
           "bb": 4,
           "so": 4,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "6.2 IP, 4 K, 6 ER vs. Yale (W 6-5). At 5.79 ERA through 20.2 innings on the season."
@@ -996,7 +1014,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Yale (W 15-7). At 36.00 ERA through 1.0 innings on the season."
@@ -1084,7 +1105,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 6 K vs. Yale (W 15-7). At 9.88 ERA through 8.2 innings on the season."
@@ -1229,7 +1253,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Yale (L 2-4). At 9.00 ERA through 7.0 innings on the season."
@@ -1308,7 +1335,10 @@
           "bb": 4,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 6 K, 1 ER vs. Yale (L 2-4). At 135.00 ERA through 0.2 innings on the season."
@@ -1364,7 +1394,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Yale (L 2-4). At 0.00 ERA through 7.2 innings on the season."
@@ -1472,7 +1505,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Yale (W 15-7). At 8.25 ERA through 12.0 innings on the season."

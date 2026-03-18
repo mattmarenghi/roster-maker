@@ -2,14 +2,14 @@
   "school": "Monmouth University",
   "base_url": "https://www.monmouthhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:07:45.427790Z",
-  "record": "8-8",
+  "generated_at": "2026-03-18T07:53:38.645740Z",
+  "record": "8-9",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "Hofstra",
-    "result": "W 19-9",
-    "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
-    "recap_url": "https://www.monmouthhawks.com/news/2026/3/15/baseball-hawks-comeback-for-19-9-win-over-hofstra-in-series-finale.aspx",
+    "date": "2026-03-17",
+    "opponent": "Rutgers",
+    "result": "W 13-3",
+    "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+    "recap_url": "https://www.monmouthhawks.com/news/2026/3/17/baseball-hawks-fall-at-rutgers.aspx",
     "recap_headline": "Monmouth University Athletics",
     "recap_text": ""
   },
@@ -24,24 +24,24 @@
       "num": "2",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.375,
-        "ops": 1.161,
-        "ab": 56,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.373,
+        "ops": 1.137,
+        "ab": 59,
         "r": 16,
-        "h": 21,
+        "h": 22,
         "doubles": 1,
         "triples": 3,
         "hr": 3,
-        "rbi": 12,
-        "tb": 37,
-        "slg": 0.661,
+        "rbi": 13,
+        "tb": 38,
+        "slg": 0.644,
         "bb": 7,
         "hbp": 8,
-        "so": 20,
+        "so": 21,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.493,
         "sf": 1,
         "sh": 1,
         "sb": 6,
@@ -61,24 +61,24 @@
       "num": "3",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.313,
-        "ops": 0.858,
-        "ab": 64,
-        "r": 13,
-        "h": 20,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.328,
+        "ops": 0.879,
+        "ab": 67,
+        "r": 14,
+        "h": 22,
         "doubles": 6,
         "triples": 0,
         "hr": 1,
-        "rbi": 13,
-        "tb": 29,
-        "slg": 0.453,
+        "rbi": 14,
+        "tb": 31,
+        "slg": 0.463,
         "bb": 8,
         "hbp": 2,
         "so": 7,
         "gdp": 1,
-        "obp": 0.405,
+        "obp": 0.416,
         "sf": 0,
         "sh": 4,
         "sb": 0,
@@ -126,7 +126,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 3,
@@ -173,7 +173,7 @@
         "date": "2026-03-14",
         "opponent": "Hofstra",
         "result": "L 4-5",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -191,7 +191,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. Hofstra (L 4-5). At 8.25 ERA through 12.0 innings on the season."
@@ -206,24 +209,24 @@
       "num": "6",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.261,
-        "ops": 0.947,
-        "ab": 46,
-        "r": 13,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.245,
+        "ops": 0.897,
+        "ab": 49,
+        "r": 14,
         "h": 12,
         "doubles": 3,
         "triples": 2,
         "hr": 1,
         "rbi": 11,
         "tb": 22,
-        "slg": 0.478,
+        "slg": 0.449,
         "bb": 12,
         "hbp": 6,
         "so": 18,
         "gdp": 0,
-        "obp": 0.469,
+        "obp": 0.448,
         "sf": 0,
         "sh": 1,
         "sb": 7,
@@ -231,22 +234,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Hofstra",
-        "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 4,
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 4 RBI vs. Hofstra (W 19-9). Hitting .260 with 1 HR through 16 games."
+      "narrative": "0/3 with 0 RBI vs. Rutgers (W 13-3). Hitting .244 with 1 HR through 17 games."
     },
     "a2613931": {
       "id": "a2613931",
@@ -277,32 +280,8 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Hofstra",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "5.1",
-          "h": 6,
-          "r": 3,
-          "er": 2,
-          "bb": 3,
-          "so": 4,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "5.1 IP, 4 K, 2 ER vs. Hofstra (W 5-4). At 6.35 ERA through 24.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "13fd3f32": {
       "id": "13fd3f32",
@@ -314,11 +293,11 @@
       "num": "10",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 9,
-        "gs": 6,
-        "avg": 0.28,
-        "ops": 0.785,
-        "ab": 25,
+        "g": 10,
+        "gs": 7,
+        "avg": 0.25,
+        "ops": 0.706,
+        "ab": 28,
         "r": 7,
         "h": 7,
         "doubles": 1,
@@ -326,12 +305,12 @@
         "hr": 1,
         "rbi": 5,
         "tb": 11,
-        "slg": 0.44,
+        "slg": 0.393,
         "bb": 2,
         "hbp": 1,
-        "so": 10,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.345,
+        "obp": 0.313,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -339,22 +318,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Hofstra",
-        "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 3,
+          "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 2 RBI vs. Hofstra (W 19-9). Hitting .280 with 1 HR through 9 games."
+      "narrative": "0/3 with 0 RBI vs. Rutgers (W 13-3). Hitting .250 with 1 HR through 10 games."
     },
     "daf83448": {
       "id": "daf83448",
@@ -431,7 +410,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -478,7 +457,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -496,7 +475,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 1 K vs. Hofstra (W 19-9). At 9.00 ERA through 6.0 innings on the season."
@@ -535,23 +517,8 @@
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Hofstra",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 3,
-          "pos": "ss"
-        },
-        "pitching": null
-      },
-      "narrative": "1/3 with 0 RBI vs. Hofstra (W 5-4). Hitting .333 with 3 HR through 14 games."
+      "last_game": null,
+      "narrative": null
     },
     "edf3409d": {
       "id": "edf3409d",
@@ -586,7 +553,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -604,7 +571,10 @@
           "bb": 1,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Hofstra (W 19-9). At 9.00 ERA through 5.0 innings on the season."
@@ -619,11 +589,11 @@
       "num": "16",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 4,
-        "gs": 1,
-        "avg": 0.4,
-        "ops": 1.5,
-        "ab": 5,
+        "g": 5,
+        "gs": 2,
+        "avg": 0.25,
+        "ops": 0.958,
+        "ab": 8,
         "r": 1,
         "h": 2,
         "doubles": 0,
@@ -631,20 +601,35 @@
         "hr": 1,
         "rbi": 1,
         "tb": 5,
-        "slg": 1.0,
+        "slg": 0.625,
         "bb": 1,
         "hbp": 0,
-        "so": 1,
+        "so": 3,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.333,
         "sf": 0,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Rutgers (W 13-3). Hitting .250 with 1 HR through 5 games."
     },
     "9ddb6229": {
       "id": "9ddb6229",
@@ -743,7 +728,7 @@
         "date": "2026-03-14",
         "opponent": "Hofstra",
         "result": "L 4-5",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -761,7 +746,10 @@
           "bb": 3,
           "so": 4,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 4 K, 2 ER vs. Hofstra (L 4-5). At 4.32 ERA through 25.0 innings on the season."
@@ -777,26 +765,53 @@
       "school": "Monmouth University",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.0,
-        "whip": 3.0,
+        "era": 5.4,
+        "whip": 2.4,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 1,
+        "g": 2,
         "gs": 0,
-        "ip": 1.0,
+        "ip": 1.2,
         "h": 1,
         "r": 1,
         "er": 1,
-        "bb": 2,
+        "bb": 3,
         "so": 0,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".500"
+        "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 0 K vs. Rutgers (W 13-3). At 7.50 ERA through 1.2 innings on the season."
     },
     "60a0705a": {
       "id": "60a0705a",
@@ -808,11 +823,11 @@
       "num": "22",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.27,
-        "ops": 0.894,
-        "ab": 63,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.258,
+        "ops": 0.855,
+        "ab": 66,
         "r": 12,
         "h": 17,
         "doubles": 7,
@@ -820,12 +835,12 @@
         "hr": 3,
         "rbi": 12,
         "tb": 33,
-        "slg": 0.524,
+        "slg": 0.5,
         "bb": 6,
         "hbp": 4,
-        "so": 20,
-        "gdp": 2,
-        "obp": 0.37,
+        "so": 21,
+        "gdp": 3,
+        "obp": 0.355,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -833,22 +848,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Hofstra",
-        "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
-          "so": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 2 RBI vs. Hofstra (W 19-9). Hitting .269 with 3 HR through 16 games."
+      "narrative": "0/3 with 0 RBI vs. Rutgers (W 13-3). Hitting .257 with 3 HR through 17 games."
     },
     "e1cd1b0f": {
       "id": "e1cd1b0f",
@@ -860,24 +875,24 @@
       "num": "24",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 14,
-        "gs": 11,
-        "avg": 0.257,
-        "ops": 0.658,
-        "ab": 35,
+        "g": 15,
+        "gs": 12,
+        "avg": 0.263,
+        "ops": 0.686,
+        "ab": 38,
         "r": 8,
-        "h": 9,
-        "doubles": 1,
+        "h": 10,
+        "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 7,
-        "tb": 10,
-        "slg": 0.286,
+        "tb": 12,
+        "slg": 0.316,
         "bb": 5,
         "hbp": 2,
-        "so": 11,
+        "so": 12,
         "gdp": 1,
-        "obp": 0.372,
+        "obp": 0.37,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -885,22 +900,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Hofstra",
-        "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 3,
-          "h": 3,
-          "rbi": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "3/4 with 2 RBI vs. Hofstra (W 19-9). Hitting .257 with 0 HR through 14 games."
+      "narrative": "1/3 with 0 RBI vs. Rutgers (W 13-3). Hitting .263 with 0 HR through 15 games."
     },
     "f937224a": {
       "id": "f937224a",
@@ -931,32 +946,8 @@
         "wp": 3,
         "opp_avg": ".298"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Hofstra",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.2",
-          "h": 4,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 2,
-          "wp": 1,
-          "hbp": 0
-        }
-      },
-      "narrative": "2.2 IP, 2 K vs. Hofstra (W 5-4). At 4.47 ERA through 14.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "815a39b4": {
       "id": "815a39b4",
@@ -991,7 +982,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1009,7 +1000,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 2 K vs. Hofstra (W 19-9). At 9.78 ERA through 9.2 innings on the season."
@@ -1025,26 +1019,45 @@
       "school": "Monmouth University",
       "season_batting": null,
       "season_pitching": {
-        "era": 39.0,
-        "whip": 4.33,
+        "era": 24.0,
+        "whip": 3.33,
         "w": 0,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 3,
-        "gs": 0,
-        "ip": 3.0,
-        "h": 11,
-        "r": 13,
-        "er": 13,
+        "g": 4,
+        "gs": 1,
+        "ip": 6.0,
+        "h": 18,
+        "r": 19,
+        "er": 16,
         "bb": 2,
-        "so": 1,
-        "hr": 1,
+        "so": 3,
+        "hr": 3,
         "hbp": 3,
         "wp": 3,
-        "opp_avg": ".579"
+        "opp_avg": ".529"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "3.0",
+          "h": 7,
+          "r": 6,
+          "er": 3,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
+        }
+      },
+      "narrative": "3.0 IP, 2 K vs. Rutgers (W 13-3). At 24.00 ERA through 6.0 innings on the season."
     },
     "87686e9d": {
       "id": "87686e9d",
@@ -1084,7 +1097,7 @@
         "date": "2026-03-14",
         "opponent": "Hofstra",
         "result": "L 4-5",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31737&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -1108,24 +1121,24 @@
       "num": "33",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.305,
-        "ops": 0.945,
-        "ab": 59,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.306,
+        "ops": 0.933,
+        "ab": 62,
         "r": 14,
-        "h": 18,
+        "h": 19,
         "doubles": 2,
         "triples": 0,
         "hr": 3,
         "rbi": 15,
-        "tb": 29,
-        "slg": 0.492,
+        "tb": 30,
+        "slg": 0.484,
         "bb": 12,
         "hbp": 4,
         "so": 22,
         "gdp": 1,
-        "obp": 0.453,
+        "obp": 0.449,
         "sf": 0,
         "sh": 1,
         "sb": 3,
@@ -1168,7 +1181,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1186,7 +1199,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1201,32 +1217,47 @@
       "num": "35",
       "school": "Monmouth University",
       "season_batting": {
-        "g": 7,
-        "gs": 6,
-        "avg": 0.111,
-        "ops": 0.516,
-        "ab": 18,
-        "r": 1,
+        "g": 8,
+        "gs": 7,
+        "avg": 0.1,
+        "ops": 0.5,
+        "ab": 20,
+        "r": 2,
         "h": 2,
         "doubles": 0,
         "triples": 0,
         "hr": 1,
         "rbi": 5,
         "tb": 5,
-        "slg": 0.278,
-        "bb": 3,
+        "slg": 0.25,
+        "bb": 4,
         "hbp": 0,
-        "so": 5,
+        "so": 7,
         "gdp": 0,
-        "obp": 0.238,
+        "obp": 0.25,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Rutgers (W 13-3). Hitting .100 with 1 HR through 8 games."
     },
     "93152d13": {
       "id": "93152d13",
@@ -1272,14 +1303,14 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.0,
+        "whip": 0.67,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 1,
+        "g": 2,
         "gs": 0,
-        "ip": 1.0,
-        "h": 0,
+        "ip": 3.0,
+        "h": 2,
         "r": 0,
         "er": 0,
         "bb": 0,
@@ -1287,10 +1318,37 @@
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".000"
+        "opp_avg": ".182"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "2.0 IP, 0 K vs. Rutgers (W 13-3). At 0.00 ERA through 3.0 innings on the season."
     },
     "92676bab": {
       "id": "92676bab",
@@ -1325,7 +1383,7 @@
         "date": "2026-03-15",
         "opponent": "Hofstra",
         "result": "W 19-9",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1343,10 +1401,131 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. Hofstra (W 19-9). At 3.46 ERA through 5.2 innings on the season."
+    },
+    "5b2dd8b1": {
+      "id": "5b2dd8b1",
+      "name": "Colin Scherer",
+      "fn": "Colin",
+      "ln": "Scherer",
+      "pos": "RHP",
+      "yr": "Jr.",
+      "num": "44",
+      "school": "Monmouth University",
+      "season_batting": null,
+      "season_pitching": {
+        "era": 9.0,
+        "whip": 3.0,
+        "w": 0,
+        "l": 0,
+        "sv": 0,
+        "g": 1,
+        "gs": 0,
+        "ip": 1.0,
+        "h": 0,
+        "r": 2,
+        "er": 1,
+        "bb": 3,
+        "so": 1,
+        "hr": 0,
+        "hbp": 0,
+        "wp": 1,
+        "opp_avg": ".000"
+      },
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 0,
+          "r": 2,
+          "er": 1,
+          "bb": 3,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "1.0 IP, 1 K vs. Rutgers (W 13-3). At 9.00 ERA through 1.0 innings on the season."
+    },
+    "1e513899": {
+      "id": "1e513899",
+      "name": "Nick Hios",
+      "fn": "Nick",
+      "ln": "Hios",
+      "pos": "LHP",
+      "yr": "Jr.",
+      "num": "48",
+      "school": "Monmouth University",
+      "season_batting": null,
+      "season_pitching": {
+        "era": 99.0,
+        "whip": 0.0,
+        "w": 0,
+        "l": 0,
+        "sv": 0,
+        "g": 1,
+        "gs": 0,
+        "ip": 0.0,
+        "h": 1,
+        "r": 5,
+        "er": 5,
+        "bb": 3,
+        "so": 0,
+        "hr": 0,
+        "hbp": 0,
+        "wp": 0,
+        "opp_avg": ".500"
+      },
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 5,
+          "er": 5,
+          "bb": 3,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": null
     },
     "cb7b3c19": {
       "id": "cb7b3c19",
@@ -1377,32 +1556,8 @@
         "wp": 0,
         "opp_avg": ".393"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Hofstra",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31736&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 2,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "1.0 IP, 2 K vs. Hofstra (W 5-4). At 3.00 ERA through 6.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

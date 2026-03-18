@@ -2,7 +2,7 @@
   "school": "University of Maryland Eastern Shore",
   "base_url": "https://umeshawksports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:24:25.197313Z",
+  "generated_at": "2026-03-18T08:09:01.652126Z",
   "record": "2-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -350,7 +350,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 2 K vs. Stonehill (W 9-6). At 9.00 ERA through 19.0 innings on the season."
@@ -495,7 +498,10 @@
           "bb": 4,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Stonehill (L 17-20). At 11.92 ERA through 15.1 innings on the season."
@@ -588,7 +594,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 0 ER vs. Stonehill (W 9-6). At 12.52 ERA through 15.1 innings on the season."
@@ -644,7 +653,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Stonehill (L 0-6). At 0.00 ERA through 2.0 innings on the season."
@@ -737,7 +749,10 @@
           "bb": 2,
           "so": 2,
           "wp": 2,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 2 K, 6 ER vs. Stonehill (L 0-6). At 5.71 ERA through 25.2 innings on the season."
@@ -978,7 +993,10 @@
           "bb": 5,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Stonehill (L 17-20). At 7.26 ERA through 6.2 innings on the season."
@@ -1251,7 +1269,10 @@
           "bb": 5,
           "so": 8,
           "wp": 2,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 8 K vs. Stonehill (L 17-20). At 13.85 ERA through 9.1 innings on the season."

@@ -2,7 +2,7 @@
   "school": "Saint Mary's College of California",
   "base_url": "https://www.SMCGaels.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:13:16.184356Z",
+  "generated_at": "2026-03-18T07:59:01.768269Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -442,7 +442,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Rice University (W). At 12.00 ERA through 6.0 innings on the season."
@@ -490,7 +493,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 2 K vs. Grand Canyon (L). At 6.08 ERA through 22.2 innings on the season."
@@ -538,7 +544,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Grand Canyon (L). At 6.80 ERA through 17.2 innings on the season."
@@ -586,7 +595,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Grand Canyon (L). At 6.67 ERA through 8.1 innings on the season."
@@ -744,7 +756,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 2 K vs. Grand Canyon (L). At 4.86 ERA through 11.1 innings on the season."
@@ -792,7 +807,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 5 ER vs. Rice University (W). At 3.68 ERA through 22.0 innings on the season."
@@ -950,7 +968,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Rice University (W). At 3.21 ERA through 14.0 innings on the season."
@@ -998,7 +1019,10 @@
           "bb": 2,
           "so": 5,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 5 K, 2 ER vs. vs Rice University (L). At 2.42 ERA through 26.0 innings on the season."
@@ -1170,7 +1194,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. UC Santa Barbara (L). At 14.52 ERA through 3.1 innings on the season."
@@ -1273,7 +1300,10 @@
           "bb": 1,
           "so": 1,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Grand Canyon (L). At 10.00 ERA through 9.0 innings on the season."
@@ -1486,7 +1516,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Rice University (W). At 2.45 ERA through 11.0 innings on the season."
@@ -1644,7 +1677,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Grand Canyon (L). At 8.82 ERA through 10.2 innings on the season."
@@ -1692,7 +1728,10 @@
           "bb": 3,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 5 K vs. Grand Canyon (L). At 6.69 ERA through 12.1 innings on the season."

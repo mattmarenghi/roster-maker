@@ -2,7 +2,7 @@
   "school": "University of Maine",
   "base_url": "https://goblackbears.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:24:08.367357Z",
+  "generated_at": "2026-03-18T08:08:59.470247Z",
   "record": "2-16",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -261,7 +261,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 1 ER vs. Nebraska (W 8-7). At 7.76 ERA through 23.2 innings on the season."
@@ -631,7 +634,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -687,7 +693,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 2 K vs. Nebraska (W 6-3). At 6.38 ERA through 14.1 innings on the season."
@@ -743,7 +752,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Nebraska (W 6-3). At 5.90 ERA through 6.1 innings on the season."
@@ -888,7 +900,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Nebraska (W 8-7). At 13.70 ERA through 9.2 innings on the season."
@@ -1206,7 +1221,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1262,7 +1280,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Nebraska (W 8-7). At 8.92 ERA through 11.1 innings on the season."
@@ -1373,7 +1394,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Nebraska (W 8-7). At 8.90 ERA through 9.1 innings on the season."
@@ -1429,7 +1453,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Nebraska (W 6-3). At 6.60 ERA through 15.0 innings on the season."
@@ -1485,7 +1512,10 @@
           "bb": 2,
           "so": 2,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 2 K, 1 ER vs. Nebraska (W 6-5). At 7.24 ERA through 26.1 innings on the season."

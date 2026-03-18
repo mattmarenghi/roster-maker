@@ -2,7 +2,7 @@
   "school": "Western Illinois University",
   "base_url": "https://www.goleathernecks.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:34:24.850761Z",
+  "generated_at": "2026-03-18T08:17:59.592099Z",
   "record": "4-16",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -213,7 +213,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Illinois St. (W 7-6). At 7.94 ERA through 17.0 innings on the season."
@@ -321,7 +324,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 4 K vs. Illinois St. (W 7-6). At 10.12 ERA through 16.0 innings on the season."
@@ -391,22 +397,22 @@
         "g": 17,
         "gs": 15,
         "avg": 0.15,
-        "ops": 0.465,
+        "ops": 0.462,
         "ab": 60,
         "r": 8,
         "h": 9,
         "doubles": 0,
         "triples": 0,
         "hr": 2,
-        "rbi": 7,
+        "rbi": 8,
         "tb": 15,
         "slg": 0.25,
         "bb": 3,
         "hbp": 2,
         "so": 23,
         "gdp": 0,
-        "obp": 0.215,
-        "sf": 0,
+        "obp": 0.212,
+        "sf": 1,
         "sh": 1,
         "sb": 1,
         "sb_att": 1
@@ -421,7 +427,7 @@
           "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
           "pos": "ss"
@@ -536,7 +542,10 @@
           "bb": 0,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Illinois State (L 1-7). At 17.14 ERA through 2.1 innings on the season."
@@ -644,7 +653,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 4 K, 5 ER vs. Illinois St. (W 7-6). At 6.55 ERA through 22.0 innings on the season."
@@ -786,23 +798,23 @@
       "school": "Western Illinois University",
       "season_batting": null,
       "season_pitching": {
-        "era": 8.14,
-        "whip": 1.52,
+        "era": 7.71,
+        "whip": 1.57,
         "w": 0,
         "l": 2,
         "sv": 0,
         "g": 6,
         "gs": 5,
         "ip": 21.0,
-        "h": 26,
+        "h": 27,
         "r": 19,
-        "er": 19,
+        "er": 18,
         "bb": 6,
         "so": 17,
         "hr": 5,
         "hbp": 2,
         "wp": 1,
-        "opp_avg": ".302"
+        "opp_avg": ".314"
       },
       "last_game": {
         "date": "2026-03-13",
@@ -820,13 +832,16 @@
         },
         "pitching": {
           "ip": "6.0",
-          "h": 10,
+          "h": 11,
           "r": 7,
-          "er": 7,
+          "er": 6,
           "bb": 0,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 6 K, 7 ER vs. Illinois State (L 7-10). At 8.14 ERA through 21.0 innings on the season."
@@ -1037,22 +1052,22 @@
         "g": 20,
         "gs": 19,
         "avg": 0.269,
-        "ops": 0.74,
+        "ops": 0.743,
         "ab": 78,
         "r": 10,
         "h": 21,
         "doubles": 5,
         "triples": 0,
         "hr": 2,
-        "rbi": 13,
+        "rbi": 12,
         "tb": 32,
         "slg": 0.41,
         "bb": 8,
         "hbp": 0,
         "so": 25,
         "gdp": 2,
-        "obp": 0.33,
-        "sf": 2,
+        "obp": 0.333,
+        "sf": 1,
         "sh": 0,
         "sb": 2,
         "sb_att": 2
@@ -1088,14 +1103,14 @@
       "season_batting": null,
       "season_pitching": {
         "era": 12.0,
-        "whip": 2.44,
+        "whip": 2.56,
         "w": 0,
         "l": 1,
         "sv": 0,
         "g": 8,
         "gs": 2,
         "ip": 9.0,
-        "h": 9,
+        "h": 10,
         "r": 13,
         "er": 12,
         "bb": 13,
@@ -1103,7 +1118,7 @@
         "hr": 1,
         "hbp": 7,
         "wp": 4,
-        "opp_avg": ".265"
+        "opp_avg": ".294"
       },
       "last_game": {
         "date": "2026-03-13",
@@ -1121,13 +1136,16 @@
         },
         "pitching": {
           "ip": "1.2",
-          "h": 3,
+          "h": 4,
           "r": 3,
           "er": 2,
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 0 K vs. Illinois State (L 1-7). At 12.00 ERA through 9.0 innings on the season."
@@ -1183,7 +1201,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Illinois St. (W 7-6). At 7.91 ERA through 9.1 innings on the season."
@@ -1239,7 +1260,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Illinois State (L 1-7). At 16.23 ERA through 6.1 innings on the season."
@@ -1295,7 +1319,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Illinois State (L 7-10). At 7.94 ERA through 10.2 innings on the season."
@@ -1351,7 +1378,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Illinois State (L 7-10). At 9.00 ERA through 7.0 innings on the season."
@@ -1367,7 +1397,7 @@
       "school": "Western Illinois University",
       "season_batting": null,
       "season_pitching": {
-        "era": 14.25,
+        "era": 15.0,
         "whip": 3.0,
         "w": 0,
         "l": 4,
@@ -1377,12 +1407,12 @@
         "ip": 12.0,
         "h": 27,
         "r": 20,
-        "er": 19,
+        "er": 20,
         "bb": 9,
         "so": 13,
         "hr": 5,
         "hbp": 2,
-        "wp": 0,
+        "wp": 1,
         "opp_avg": ".450"
       },
       "last_game": {
@@ -1403,11 +1433,14 @@
           "ip": "3.2",
           "h": 5,
           "r": 3,
-          "er": 2,
+          "er": 3,
           "bb": 4,
           "so": 4,
-          "wp": 0,
-          "hbp": 1
+          "wp": 1,
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 4 K vs. Illinois State (L 1-7). At 14.25 ERA through 12.0 innings on the season."

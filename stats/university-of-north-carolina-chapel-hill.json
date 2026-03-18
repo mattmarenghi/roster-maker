@@ -2,7 +2,7 @@
   "school": "University of North Carolina, Chapel Hill",
   "base_url": "https://www.goheels.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:27:00.329752Z",
+  "generated_at": "2026-03-18T08:11:37.474558Z",
   "record": "16-22",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -497,7 +497,10 @@
           "bb": 0,
           "so": 4,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Virginia, throwing 3.0 innings. Allowed 4 earned run(s) with 4 strikeout(s)."
@@ -655,7 +658,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against California, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -703,7 +709,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Virginia, throwing 1.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
@@ -806,7 +815,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against California, throwing 0.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
@@ -964,7 +976,10 @@
           "bb": 1,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against California, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1067,7 +1082,10 @@
           "bb": 1,
           "so": 2,
           "wp": 3,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Virginia, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
@@ -1115,7 +1133,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "Took the mound against California, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1218,7 +1239,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against California, throwing 6.0 innings. Struck out 2 while allowing just 5 hit(s) and 1 earned run(s) in a quality start."
@@ -1266,7 +1290,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Bucknell, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
@@ -1314,7 +1341,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against California, throwing 4.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
@@ -1362,7 +1392,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Bucknell, throwing 2.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -1410,7 +1443,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against California, throwing 1.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
@@ -1458,7 +1494,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Virginia, throwing 2.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -1506,7 +1545,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Le Moyne, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1609,7 +1651,10 @@
           "bb": 1,
           "so": 7,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against California, throwing 8.0 innings. Struck out 7 while allowing just 6 hit(s) and 2 earned run(s) in a quality start."

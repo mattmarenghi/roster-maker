@@ -2,14 +2,14 @@
   "school": "Austin Peay State University",
   "base_url": "https://www.letsgopeay.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:51:46.339352Z",
-  "record": "11-9",
+  "generated_at": "2026-03-18T07:38:02.200289Z",
+  "record": "11-10",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "Bellarmine",
-    "result": "L 3-12",
-    "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
-    "recap_url": "https://www.letsgopeay.com/news/2026/3/15/baseball-governors-salvage-series-at-bellarmine-with-nine-run-win-for-first-asun-series-win-of-season.aspx",
+    "date": "2026-03-17",
+    "opponent": "Ole Miss",
+    "result": "W 9-5",
+    "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
+    "recap_url": "https://www.letsgopeay.com/news/2026/3/17/baseball-governors-outhit-rebels-but-fall-in-midweek-action-in-oxford.aspx",
     "recap_headline": "Austin Peay State University Athletics",
     "recap_text": ""
   },
@@ -24,11 +24,11 @@
       "num": "1",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.211,
-        "ops": 0.568,
-        "ab": 71,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.2,
+        "ops": 0.54,
+        "ab": 75,
         "r": 9,
         "h": 15,
         "doubles": 1,
@@ -36,12 +36,12 @@
         "hr": 0,
         "rbi": 10,
         "tb": 18,
-        "slg": 0.254,
+        "slg": 0.24,
         "bb": 9,
         "hbp": 3,
-        "so": 18,
-        "gdp": 2,
-        "obp": 0.314,
+        "so": 20,
+        "gdp": 3,
+        "obp": 0.3,
         "sf": 3,
         "sh": 2,
         "sb": 3,
@@ -61,35 +61,35 @@
       "num": "2",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.268,
-        "ops": 0.646,
-        "ab": 71,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.28,
+        "ops": 0.664,
+        "ab": 75,
         "r": 10,
-        "h": 19,
+        "h": 21,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 16,
-        "tb": 21,
-        "slg": 0.296,
+        "tb": 23,
+        "slg": 0.307,
         "bb": 6,
         "hbp": 3,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.35,
+        "obp": 0.357,
         "sf": 0,
         "sh": 3,
-        "sb": 5,
-        "sb_att": 7
+        "sb": 6,
+        "sb_att": 8
       },
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -141,7 +141,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -165,47 +165,47 @@
       "num": "4",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.385,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.39,
         "ops": 1.098,
-        "ab": 78,
-        "r": 22,
-        "h": 30,
+        "ab": 82,
+        "r": 24,
+        "h": 32,
         "doubles": 8,
         "triples": 0,
         "hr": 3,
         "rbi": 19,
-        "tb": 47,
-        "slg": 0.603,
-        "bb": 16,
+        "tb": 49,
+        "slg": 0.598,
+        "bb": 17,
         "hbp": 1,
         "so": 14,
         "gdp": 1,
-        "obp": 0.495,
+        "obp": 0.5,
         "sf": 0,
         "sh": 1,
-        "sb": 0,
-        "sb_att": 2
+        "sb": 1,
+        "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Bellarmine",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
-          "ab": 5,
+          "ab": 4,
           "r": 2,
           "h": 2,
-          "rbi": 2,
-          "bb": 0,
-          "so": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "2/5 with 2 RBI vs. Bellarmine (L 3-12). Hitting .384 with 3 HR through 20 games."
+      "narrative": "2/4 with 0 RBI vs. Ole Miss (W 9-5). Hitting .390 with 3 HR through 21 games."
     },
     "71b4740d": {
       "id": "71b4740d",
@@ -254,11 +254,11 @@
       "num": "6",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.382,
-        "ops": 0.947,
-        "ab": 68,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.361,
+        "ops": 0.905,
+        "ab": 72,
         "r": 25,
         "h": 26,
         "doubles": 3,
@@ -266,12 +266,12 @@
         "hr": 1,
         "rbi": 15,
         "tb": 32,
-        "slg": 0.471,
-        "bb": 12,
+        "slg": 0.444,
+        "bb": 13,
         "hbp": 2,
-        "so": 22,
+        "so": 26,
         "gdp": 1,
-        "obp": 0.476,
+        "obp": 0.461,
         "sf": 2,
         "sh": 5,
         "sb": 16,
@@ -279,22 +279,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Bellarmine",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
-          "ab": 6,
-          "r": 2,
-          "h": 4,
-          "rbi": 2,
-          "bb": 0,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
           "so": 1,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "4/6 with 2 RBI vs. Bellarmine (L 3-12). Hitting .382 with 1 HR through 19 games."
+      "narrative": "0/4 with 0 RBI vs. Ole Miss (W 9-5). Hitting .361 with 1 HR through 20 games."
     },
     "740cb756": {
       "id": "740cb756",
@@ -306,24 +306,24 @@
       "num": "7",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.291,
-        "ops": 0.81,
-        "ab": 86,
-        "r": 21,
-        "h": 25,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.286,
+        "ops": 0.789,
+        "ab": 91,
+        "r": 22,
+        "h": 26,
         "doubles": 3,
         "triples": 0,
         "hr": 3,
-        "rbi": 18,
-        "tb": 37,
-        "slg": 0.43,
+        "rbi": 19,
+        "tb": 38,
+        "slg": 0.418,
         "bb": 11,
         "hbp": 2,
-        "so": 17,
+        "so": 18,
         "gdp": 2,
-        "obp": 0.38,
+        "obp": 0.371,
         "sf": 1,
         "sh": 0,
         "sb": 5,
@@ -344,26 +344,53 @@
       "school": "Austin Peay State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.11,
-        "whip": 1.78,
+        "era": 8.53,
+        "whip": 2.21,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 1,
-        "ip": 12.1,
-        "h": 11,
-        "r": 7,
-        "er": 7,
-        "bb": 11,
+        "ip": 12.2,
+        "h": 13,
+        "r": 12,
+        "er": 12,
+        "bb": 15,
         "so": 12,
         "hr": 1,
         "hbp": 1,
-        "wp": 1,
-        "opp_avg": ".244"
+        "wp": 2,
+        "opp_avg": ".271"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 2,
+          "r": 5,
+          "er": 5,
+          "bb": 4,
+          "so": 0,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.1 IP, 0 K vs. Ole Miss (W 9-5). At 8.85 ERA through 12.2 innings on the season."
     },
     "3e754925": {
       "id": "3e754925",
@@ -376,26 +403,53 @@
       "school": "Austin Peay State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 12.0,
-        "whip": 2.33,
+        "era": 5.14,
+        "whip": 1.29,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 3.0,
-        "h": 5,
+        "ip": 7.0,
+        "h": 6,
         "r": 4,
         "er": 4,
-        "bb": 2,
-        "so": 2,
+        "bb": 3,
+        "so": 6,
         "hr": 1,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".385"
+        "opp_avg": ".231"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "4.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "4.0 IP, 4 K vs. Ole Miss (W 9-5). At 5.14 ERA through 7.0 innings on the season."
     },
     "b72dde29": {
       "id": "b72dde29",
@@ -467,7 +521,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -485,7 +539,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 3 K vs. Bellarmine (L 3-12). At 6.00 ERA through 9.0 innings on the season."
@@ -519,32 +576,8 @@
         "wp": 2,
         "opp_avg": ".288"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Bellarmine",
-        "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "5.0",
-          "h": 3,
-          "r": 2,
-          "er": 2,
-          "bb": 2,
-          "so": 6,
-          "wp": 1,
-          "hbp": 2
-        }
-      },
-      "narrative": "5.0 IP, 6 K, 2 ER vs. Bellarmine (L 9-15). At 5.92 ERA through 15.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "96b7289c": {
       "id": "96b7289c",
@@ -575,32 +608,8 @@
         "wp": 1,
         "opp_avg": ".375"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Bellarmine",
-        "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.1",
-          "h": 4,
-          "r": 6,
-          "er": 4,
-          "bb": 2,
-          "so": 0,
-          "wp": 1,
-          "hbp": 0
-        }
-      },
-      "narrative": "0.1 IP, 0 K vs. Bellarmine (L 9-15). At 17.42 ERA through 6.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "8ada617f": {
       "id": "8ada617f",
@@ -654,22 +663,7 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Bellarmine",
-        "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
-        "batting": {
-          "ab": 0,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "pr"
-        },
-        "pitching": null
-      },
+      "last_game": null,
       "narrative": null
     },
     "0d7bf17a": {
@@ -683,26 +677,53 @@
       "school": "Austin Peay State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 27.0,
-        "whip": 7.5,
+        "era": 18.0,
+        "whip": 5.0,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 0.2,
+        "ip": 1.0,
         "h": 3,
         "r": 3,
         "er": 2,
         "bb": 2,
-        "so": 1,
+        "so": 2,
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".600"
+        "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.1 IP, 1 K vs. Ole Miss (W 9-5). At 18.00 ERA through 1.0 innings on the season."
     },
     "ebc88f22": {
       "id": "ebc88f22",
@@ -760,7 +781,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -812,7 +833,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -836,24 +857,24 @@
       "num": "22",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 5,
-        "gs": 1,
-        "avg": 0.333,
-        "ops": 0.904,
-        "ab": 3,
-        "r": 3,
+        "g": 6,
+        "gs": 2,
+        "avg": 0.2,
+        "ops": 0.745,
+        "ab": 5,
+        "r": 4,
         "h": 1,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 1,
         "tb": 1,
-        "slg": 0.333,
-        "bb": 2,
-        "hbp": 1,
+        "slg": 0.2,
+        "bb": 3,
+        "hbp": 2,
         "so": 0,
         "gdp": 0,
-        "obp": 0.571,
+        "obp": 0.545,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -861,22 +882,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Bellarmine",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
-          "ab": 1,
-          "r": 0,
+          "ab": 2,
+          "r": 1,
           "h": 0,
-          "rbi": 1,
-          "bb": 0,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 1 RBI vs. Bellarmine (L 3-12). Hitting .333 with 0 HR through 5 games."
+      "narrative": "0/2 with 0 RBI vs. Ole Miss (W 9-5). Hitting .200 with 0 HR through 6 games."
     },
     "83621234": {
       "id": "83621234",
@@ -975,7 +996,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -993,7 +1014,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Bellarmine (L 3-12). At 12.22 ERA through 8.1 innings on the season."
@@ -1008,24 +1032,24 @@
       "num": "26",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.319,
-        "ops": 1.059,
-        "ab": 72,
-        "r": 23,
-        "h": 23,
-        "doubles": 8,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.316,
+        "ops": 1.046,
+        "ab": 76,
+        "r": 24,
+        "h": 24,
+        "doubles": 9,
         "triples": 0,
         "hr": 4,
-        "rbi": 12,
-        "tb": 43,
-        "slg": 0.597,
+        "rbi": 14,
+        "tb": 45,
+        "slg": 0.592,
         "bb": 17,
         "hbp": 3,
-        "so": 16,
+        "so": 17,
         "gdp": 1,
-        "obp": 0.462,
+        "obp": 0.454,
         "sf": 1,
         "sh": 3,
         "sb": 4,
@@ -1033,22 +1057,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Bellarmine",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 2,
-          "rbi": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "2/5 with 0 RBI vs. Bellarmine (L 3-12). Hitting .319 with 4 HR through 20 games."
+      "narrative": "1/4 with 2 RBI vs. Ole Miss (W 9-5). Hitting .315 with 4 HR through 21 games."
     },
     "dc3a64e9": {
       "id": "dc3a64e9",
@@ -1061,29 +1085,29 @@
       "school": "Austin Peay State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.33,
+        "era": 4.7,
+        "whip": 1.3,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 6.0,
-        "h": 7,
-        "r": 3,
-        "er": 3,
-        "bb": 1,
-        "so": 7,
-        "hr": 1,
-        "hbp": 0,
+        "ip": 7.2,
+        "h": 8,
+        "r": 5,
+        "er": 4,
+        "bb": 2,
+        "so": 8,
+        "hr": 2,
+        "hbp": 1,
         "wp": 0,
-        "opp_avg": ".292"
+        "opp_avg": ".258"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Bellarmine",
-        "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1095,16 +1119,19 @@
         },
         "pitching": {
           "ip": "1.2",
-          "h": 3,
-          "r": 1,
+          "h": 1,
+          "r": 2,
           "er": 1,
-          "bb": 0,
-          "so": 2,
+          "bb": 1,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.2 IP, 2 K vs. Bellarmine (L 9-15). At 4.50 ERA through 6.0 innings on the season."
+      "narrative": "1.2 IP, 1 K vs. Ole Miss (W 9-5). At 5.00 ERA through 7.2 innings on the season."
     },
     "09812d47": {
       "id": "09812d47",
@@ -1139,7 +1166,7 @@
         "date": "2026-03-14",
         "opponent": "Bellarmine",
         "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1157,7 +1184,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Bellarmine (W 9-8). At 3.43 ERA through 21.0 innings on the season."
@@ -1205,26 +1235,53 @@
       "school": "Austin Peay State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 11.4,
-        "whip": 1.93,
+        "era": 11.81,
+        "whip": 2.0,
         "w": 0,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 15.0,
-        "h": 17,
-        "r": 20,
-        "er": 19,
-        "bb": 12,
-        "so": 11,
-        "hr": 1,
-        "hbp": 3,
+        "g": 5,
+        "gs": 5,
+        "ip": 16.0,
+        "h": 18,
+        "r": 22,
+        "er": 21,
+        "bb": 14,
+        "so": 12,
+        "hr": 2,
+        "hbp": 4,
         "wp": 3,
-        "opp_avg": ".288"
+        "opp_avg": ".286"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
+        }
+      },
+      "narrative": "1.0 IP, 1 K vs. Ole Miss (W 9-5). At 11.81 ERA through 16.0 innings on the season."
     },
     "4c88c589": {
       "id": "4c88c589",
@@ -1236,24 +1293,24 @@
       "num": "34",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.2,
-        "ops": 0.664,
-        "ab": 75,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.215,
+        "ops": 0.705,
+        "ab": 79,
         "r": 12,
-        "h": 15,
-        "doubles": 1,
+        "h": 17,
+        "doubles": 3,
         "triples": 1,
         "hr": 2,
-        "rbi": 15,
-        "tb": 24,
-        "slg": 0.32,
+        "rbi": 17,
+        "tb": 28,
+        "slg": 0.354,
         "bb": 15,
         "hbp": 2,
-        "so": 19,
+        "so": 20,
         "gdp": 2,
-        "obp": 0.344,
+        "obp": 0.351,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -1261,22 +1318,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Bellarmine",
-        "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 1,
+          "r": 0,
           "h": 2,
-          "rbi": 1,
+          "rbi": 2,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 1 RBI vs. Bellarmine (W 9-8). Hitting .200 with 2 HR through 20 games."
+      "narrative": "2/4 with 2 RBI vs. Ole Miss (W 9-5). Hitting .215 with 2 HR through 21 games."
     },
     "e1d2d51a": {
       "id": "e1d2d51a",
@@ -1288,11 +1345,11 @@
       "num": "36",
       "school": "Austin Peay State University",
       "season_batting": {
-        "g": 16,
-        "gs": 13,
-        "avg": 0.14,
-        "ops": 0.398,
-        "ab": 50,
+        "g": 17,
+        "gs": 14,
+        "avg": 0.132,
+        "ops": 0.39,
+        "ab": 53,
         "r": 8,
         "h": 7,
         "doubles": 0,
@@ -1300,12 +1357,12 @@
         "hr": 0,
         "rbi": 4,
         "tb": 9,
-        "slg": 0.18,
-        "bb": 4,
+        "slg": 0.17,
+        "bb": 5,
         "hbp": 1,
-        "so": 13,
+        "so": 15,
         "gdp": 0,
-        "obp": 0.218,
+        "obp": 0.22,
         "sf": 0,
         "sh": 2,
         "sb": 1,
@@ -1313,22 +1370,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Bellarmine",
-        "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. Bellarmine (W 9-8). Hitting .140 with 0 HR through 16 games."
+      "narrative": "0/3 with 0 RBI vs. Ole Miss (W 9-5). Hitting .132 with 0 HR through 17 games."
     },
     "35950dc2": {
       "id": "35950dc2",
@@ -1364,23 +1421,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Bellarmine",
-        "result": "L 9-15",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14114&path=",
-        "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "dh"
-        },
-        "pitching": null
-      },
-      "narrative": "0/2 with 0 RBI vs. Bellarmine (L 9-15). Hitting .166 with 1 HR through 4 games."
+      "last_game": null,
+      "narrative": null
     },
     "bae8d028": {
       "id": "bae8d028",
@@ -1415,7 +1457,7 @@
         "date": "2026-03-15",
         "opponent": "Bellarmine",
         "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1433,7 +1475,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "3.0 IP, 1 K vs. Bellarmine (L 3-12). At 2.98 ERA through 15.1 innings on the season."
@@ -1471,7 +1516,7 @@
         "date": "2026-03-14",
         "opponent": "Bellarmine",
         "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1489,7 +1534,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. Bellarmine (W 9-8). At 6.59 ERA through 8.2 innings on the season."
@@ -1505,14 +1553,14 @@
       "school": "Austin Peay State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.93,
-        "whip": 1.29,
+        "era": 1.69,
+        "whip": 1.13,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 4.2,
+        "ip": 5.1,
         "h": 4,
         "r": 1,
         "er": 1,
@@ -1521,13 +1569,13 @@
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".222"
+        "opp_avg": ".200"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Bellarmine",
-        "result": "W 9-8",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14115&path=",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1538,17 +1586,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
+          "ip": "0.2",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 1 K vs. Bellarmine (W 9-8). At 2.14 ERA through 4.2 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. Ole Miss (W 9-5). At 1.76 ERA through 5.1 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

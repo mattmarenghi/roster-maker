@@ -2,15 +2,15 @@
   "school": "University of New Orleans",
   "base_url": "https://www.unoprivateers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:26:25.956376Z",
-  "record": "9-12",
+  "generated_at": "2026-03-18T08:11:13.066507Z",
+  "record": "9-13",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "UIW",
-    "result": "W 11-7",
-    "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12657&path=baseball",
-    "recap_url": "https://www.unoprivateers.com/news/2026/3/15/baseball-privateers-score-in-bunches-early-defeat-uiw-in-series-finale.aspx",
-    "recap_headline": "Privateers Score in Bunches Early, Defeat UIW in Series Finale",
+    "date": "2026-03-17",
+    "opponent": "Tulane",
+    "result": "W 5-2",
+    "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+    "recap_url": "https://www.unoprivateers.com/news/2026/3/17/baseball-green-wave-use-four-run-first-inning-to-defeat-privateers.aspx",
+    "recap_headline": "Green Wave Use Four-Run First Inning to Defeat Privateers",
     "recap_text": ""
   },
   "players": {
@@ -24,28 +24,28 @@
       "num": "1",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 19,
-        "gs": 16,
-        "avg": 0.329,
-        "ops": 0.957,
-        "ab": 73,
+        "g": 20,
+        "gs": 17,
+        "avg": 0.342,
+        "ops": 0.978,
+        "ab": 76,
         "r": 15,
-        "h": 24,
+        "h": 26,
         "doubles": 2,
         "triples": 0,
         "hr": 6,
         "rbi": 24,
-        "tb": 44,
-        "slg": 0.603,
-        "bb": 1,
+        "tb": 46,
+        "slg": 0.605,
+        "bb": 2,
         "hbp": 3,
         "so": 15,
         "gdp": 2,
-        "obp": 0.354,
+        "obp": 0.373,
         "sf": 2,
         "sh": 0,
         "sb": 6,
-        "sb_att": 6
+        "sb_att": 7
       },
       "season_pitching": {
         "era": 6.23,
@@ -67,31 +67,22 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UIW",
-        "result": "L 1-13",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12656&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.0",
           "h": 2,
-          "r": 2,
-          "er": 0,
-          "bb": 2,
-          "so": 2,
-          "wp": 0,
-          "hbp": 1
-        }
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
       },
-      "narrative": "2.0 IP, 2 K vs. UIW (L 1-13). At 6.59 ERA through 4.1 innings on the season."
+      "narrative": "2/3 with 0 RBI vs. Tulane (W 5-2). Hitting .342 with 6 HR through 20 games."
     },
     "06ddda52": {
       "id": "06ddda52",
@@ -144,7 +135,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. UIW (W 11-7). At 4.46 ERA through 10.1 innings on the season."
@@ -159,24 +153,24 @@
       "num": "3",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 17,
-        "gs": 14,
-        "avg": 0.292,
-        "ops": 0.711,
-        "ab": 48,
+        "g": 18,
+        "gs": 15,
+        "avg": 0.294,
+        "ops": 0.709,
+        "ab": 51,
         "r": 7,
-        "h": 14,
+        "h": 15,
         "doubles": 1,
         "triples": 1,
         "hr": 0,
-        "rbi": 6,
-        "tb": 17,
-        "slg": 0.354,
+        "rbi": 7,
+        "tb": 18,
+        "slg": 0.353,
         "bb": 5,
         "hbp": 1,
-        "so": 12,
+        "so": 13,
         "gdp": 2,
-        "obp": 0.357,
+        "obp": 0.356,
         "sf": 2,
         "sh": 2,
         "sb": 2,
@@ -184,22 +178,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UIW",
-        "result": "W 11-7",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12657&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 2,
+          "h": 1,
           "rbi": 1,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 1 RBI vs. UIW (W 11-7). Hitting .291 with 0 HR through 17 games."
+      "narrative": "1/3 with 1 RBI vs. Tulane (W 5-2). Hitting .294 with 0 HR through 18 games."
     },
     "8522713c": {
       "id": "8522713c",
@@ -211,11 +205,11 @@
       "num": "4",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 20,
-        "gs": 19,
-        "avg": 0.366,
-        "ops": 0.875,
-        "ab": 71,
+        "g": 21,
+        "gs": 20,
+        "avg": 0.351,
+        "ops": 0.841,
+        "ab": 74,
         "r": 13,
         "h": 26,
         "doubles": 2,
@@ -223,38 +217,65 @@
         "hr": 1,
         "rbi": 13,
         "tb": 31,
-        "slg": 0.437,
+        "slg": 0.419,
         "bb": 7,
         "hbp": 2,
-        "so": 21,
+        "so": 22,
         "gdp": 1,
-        "obp": 0.438,
+        "obp": 0.422,
         "sf": 0,
         "sh": 1,
-        "sb": 6,
-        "sb_att": 8
+        "sb": 7,
+        "sb_att": 9
       },
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.92,
+        "era": 1.8,
+        "whip": 1.4,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 4.1,
-        "h": 2,
-        "r": 0,
-        "er": 0,
-        "bb": 2,
+        "ip": 5.0,
+        "h": 3,
+        "r": 1,
+        "er": 1,
+        "bb": 4,
         "so": 6,
         "hr": 0,
         "hbp": 0,
         "wp": 2,
-        "opp_avg": ".133"
+        "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 0 K vs. Tulane (W 5-2). At 1.80 ERA through 5.0 innings on the season."
     },
     "70292a8a": {
       "id": "70292a8a",
@@ -267,29 +288,29 @@
       "school": "University of New Orleans",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.93,
-        "whip": 1.03,
+        "era": 0.82,
+        "whip": 0.91,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 9.2,
+        "ip": 11.0,
         "h": 7,
         "r": 3,
         "er": 1,
         "bb": 3,
-        "so": 7,
+        "so": 8,
         "hr": 1,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 0,
-        "opp_avg": ".206"
+        "opp_avg": ".189"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UIW",
-        "result": "L 1-13",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12656&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -300,17 +321,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 2,
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 0,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. UIW (L 1-13). At 0.98 ERA through 9.2 innings on the season."
+      "narrative": "1.1 IP, 1 K vs. Tulane (W 5-2). At 0.82 ERA through 11.0 innings on the season."
     },
     "355a244d": {
       "id": "355a244d",
@@ -386,24 +410,24 @@
       "num": "8",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 20,
-        "gs": 18,
-        "avg": 0.329,
-        "ops": 0.979,
-        "ab": 73,
+        "g": 21,
+        "gs": 19,
+        "avg": 0.325,
+        "ops": 0.954,
+        "ab": 77,
         "r": 18,
-        "h": 24,
+        "h": 25,
         "doubles": 2,
         "triples": 0,
         "hr": 5,
         "rbi": 10,
-        "tb": 41,
-        "slg": 0.562,
+        "tb": 42,
+        "slg": 0.545,
         "bb": 8,
         "hbp": 3,
-        "so": 24,
-        "gdp": 0,
-        "obp": 0.417,
+        "so": 26,
+        "gdp": 1,
+        "obp": 0.409,
         "sf": 0,
         "sh": 2,
         "sb": 2,
@@ -423,47 +447,47 @@
       "num": "9",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 5,
-        "gs": 5,
-        "avg": 0.357,
-        "ops": 1.55,
-        "ab": 14,
-        "r": 6,
+        "g": 6,
+        "gs": 6,
+        "avg": 0.294,
+        "ops": 1.324,
+        "ab": 17,
+        "r": 7,
         "h": 5,
         "doubles": 3,
         "triples": 0,
         "hr": 2,
         "rbi": 6,
         "tb": 14,
-        "slg": 1.0,
+        "slg": 0.824,
         "bb": 2,
-        "hbp": 4,
-        "so": 5,
+        "hbp": 5,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.55,
+        "obp": 0.5,
         "sf": 0,
         "sh": 0,
-        "sb": 0,
-        "sb_att": 0
+        "sb": 1,
+        "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UIW",
-        "result": "W 11-7",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12657&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
-          "h": 1,
-          "rbi": 4,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 4 RBI vs. UIW (W 11-7). Hitting .357 with 2 HR through 5 games."
+      "narrative": "0/3 with 0 RBI vs. Tulane (W 5-2). Hitting .294 with 2 HR through 6 games."
     },
     "ee91efc6": {
       "id": "ee91efc6",
@@ -516,7 +540,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 1 K vs. UIW (L 1-13). At 3.46 ERA through 18.2 innings on the season."
@@ -531,47 +558,47 @@
       "num": "11",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 21,
-        "gs": 20,
-        "avg": 0.355,
-        "ops": 1.043,
-        "ab": 76,
-        "r": 12,
-        "h": 27,
+        "g": 22,
+        "gs": 21,
+        "avg": 0.35,
+        "ops": 1.018,
+        "ab": 80,
+        "r": 13,
+        "h": 28,
         "doubles": 7,
         "triples": 1,
         "hr": 2,
         "rbi": 12,
-        "tb": 42,
-        "slg": 0.553,
+        "tb": 43,
+        "slg": 0.538,
         "bb": 17,
         "hbp": 3,
-        "so": 15,
+        "so": 17,
         "gdp": 1,
-        "obp": 0.49,
+        "obp": 0.48,
         "sf": 0,
         "sh": 0,
-        "sb": 1,
-        "sb_att": 2
+        "sb": 2,
+        "sb_att": 3
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UIW",
-        "result": "L 1-13",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12656&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
-          "bb": 2,
-          "so": 0,
+          "bb": 0,
+          "so": 2,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. UIW (L 1-13). Hitting .355 with 2 HR through 21 games."
+      "narrative": "1/4 with 0 RBI vs. Tulane (W 5-2). Hitting .350 with 2 HR through 22 games."
     },
     "7dda3915": {
       "id": "7dda3915",
@@ -921,23 +948,8 @@
         "wp": 0,
         "opp_avg": ".294"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UIW",
-        "result": "L 6-9",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12655&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "c"
-        },
-        "pitching": null
-      },
-      "narrative": "1/1 with 1 RBI vs. UIW (L 6-9). Hitting .379 with 2 HR through 13 games."
+      "last_game": null,
+      "narrative": null
     },
     "13b87fe7": {
       "id": "13b87fe7",
@@ -949,11 +961,11 @@
       "num": "24",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 4,
-        "gs": 2,
-        "avg": 0.143,
-        "ops": 0.393,
-        "ab": 7,
+        "g": 5,
+        "gs": 3,
+        "avg": 0.1,
+        "ops": 0.282,
+        "ab": 10,
         "r": 0,
         "h": 1,
         "doubles": 0,
@@ -961,12 +973,12 @@
         "hr": 0,
         "rbi": 0,
         "tb": 1,
-        "slg": 0.143,
+        "slg": 0.1,
         "bb": 1,
         "hbp": 0,
-        "so": 2,
+        "so": 3,
         "gdp": 0,
-        "obp": 0.25,
+        "obp": 0.182,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -991,8 +1003,23 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Tulane (W 5-2). Hitting .100 with 0 HR through 5 games."
     },
     "ac850ecd": {
       "id": "ac850ecd",
@@ -1089,7 +1116,10 @@
           "bb": 4,
           "so": 5,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 5 K, 4 ER vs. UIW (W 11-7). At 10.00 ERA through 17.1 innings on the season."
@@ -1104,24 +1134,24 @@
       "num": "28",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.326,
-        "ops": 0.871,
-        "ab": 46,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.32,
+        "ops": 0.864,
+        "ab": 50,
         "r": 6,
-        "h": 15,
-        "doubles": 2,
+        "h": 16,
+        "doubles": 3,
         "triples": 0,
         "hr": 1,
         "rbi": 11,
-        "tb": 20,
-        "slg": 0.435,
+        "tb": 22,
+        "slg": 0.44,
         "bb": 9,
         "hbp": 0,
-        "so": 11,
+        "so": 12,
         "gdp": 3,
-        "obp": 0.436,
+        "obp": 0.424,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -1129,22 +1159,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UIW",
-        "result": "W 11-7",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12657&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 2,
-          "bb": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 2 RBI vs. UIW (W 11-7). Hitting .326 with 1 HR through 12 games."
+      "narrative": "1/4 with 0 RBI vs. Tulane (W 5-2). Hitting .320 with 1 HR through 13 games."
     },
     "6e92be5a": {
       "id": "6e92be5a",
@@ -1303,7 +1333,10 @@
           "bb": 1,
           "so": 7,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 7 K vs. UIW (W 11-7). At 7.00 ERA through 9.0 innings on the season."
@@ -1351,29 +1384,29 @@
       "school": "University of New Orleans",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.79,
-        "whip": 1.5,
+        "era": 4.76,
+        "whip": 1.24,
         "w": 1,
         "l": 1,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 1,
-        "ip": 4.2,
+        "ip": 5.2,
         "h": 6,
         "r": 3,
         "er": 3,
         "bb": 1,
         "so": 9,
         "hr": 0,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".300"
+        "opp_avg": ".273"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UIW",
-        "result": "L 6-9",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12655&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1384,17 +1417,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.2",
-          "h": 3,
-          "r": 3,
-          "er": 3,
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 2,
-          "wp": 1,
-          "hbp": 0
+          "so": 0,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.2 IP, 2 K vs. UIW (L 6-9). At 6.43 ERA through 4.2 innings on the season."
+      "narrative": "1.0 IP, 0 K vs. Tulane (W 5-2). At 5.19 ERA through 5.2 innings on the season."
     },
     "8fdfc24a": {
       "id": "8fdfc24a",
@@ -1438,28 +1474,28 @@
       "num": "36",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 19,
-        "gs": 16,
-        "avg": 0.329,
-        "ops": 0.957,
-        "ab": 73,
+        "g": 20,
+        "gs": 17,
+        "avg": 0.342,
+        "ops": 0.978,
+        "ab": 76,
         "r": 15,
-        "h": 24,
+        "h": 26,
         "doubles": 2,
         "triples": 0,
         "hr": 6,
         "rbi": 24,
-        "tb": 44,
-        "slg": 0.603,
-        "bb": 1,
+        "tb": 46,
+        "slg": 0.605,
+        "bb": 2,
         "hbp": 3,
         "so": 15,
         "gdp": 2,
-        "obp": 0.354,
+        "obp": 0.373,
         "sf": 2,
         "sh": 0,
         "sb": 6,
-        "sb_att": 6
+        "sb_att": 7
       },
       "season_pitching": {
         "era": 6.23,
@@ -1481,31 +1517,22 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UIW",
-        "result": "L 1-13",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12656&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.0",
           "h": 2,
-          "r": 2,
-          "er": 0,
-          "bb": 2,
-          "so": 2,
-          "wp": 0,
-          "hbp": 1
-        }
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "cf"
+        },
+        "pitching": null
       },
-      "narrative": "2.0 IP, 2 K vs. UIW (L 1-13). At 6.59 ERA through 4.1 innings on the season."
+      "narrative": "2/3 with 0 RBI vs. Tulane (W 5-2). Hitting .342 with 6 HR through 20 games."
     },
     "451346de": {
       "id": "451346de",
@@ -1518,25 +1545,44 @@
       "school": "University of New Orleans",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.89,
-        "whip": 1.72,
+        "era": 9.19,
+        "whip": 2.04,
         "w": 0,
-        "l": 3,
+        "l": 4,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
+        "g": 5,
+        "gs": 5,
         "ip": 15.2,
-        "h": 17,
-        "r": 14,
-        "er": 12,
-        "bb": 10,
+        "h": 18,
+        "r": 18,
+        "er": 16,
+        "bb": 14,
         "so": 13,
         "hr": 1,
-        "hbp": 2,
+        "hbp": 3,
         "wp": 1,
-        "opp_avg": ".274"
+        "opp_avg": ".286"
       },
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+        "batting": null,
+        "pitching": {
+          "ip": "0.0",
+          "h": 1,
+          "r": 4,
+          "er": 4,
+          "bb": 4,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
+        }
+      },
       "narrative": null
     },
     "daa765d8": {
@@ -1605,32 +1651,8 @@
         "wp": 5,
         "opp_avg": ".267"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UIW",
-        "result": "L 6-9",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12655&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "4.0",
-          "h": 6,
-          "r": 4,
-          "er": 4,
-          "bb": 3,
-          "so": 5,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "4.0 IP, 5 K vs. UIW (L 6-9). At 4.50 ERA through 20.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "ce951d50": {
       "id": "ce951d50",
@@ -1661,32 +1683,8 @@
         "wp": 0,
         "opp_avg": ".258"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UIW",
-        "result": "L 6-9",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12655&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "4.1",
-          "h": 5,
-          "r": 2,
-          "er": 1,
-          "bb": 1,
-          "so": 4,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "4.1 IP, 4 K vs. UIW (L 6-9). At 3.16 ERA through 17.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "0024ee75": {
       "id": "0024ee75",
@@ -1698,11 +1696,11 @@
       "num": "42",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 21,
-        "gs": 18,
-        "avg": 0.29,
-        "ops": 0.952,
-        "ab": 69,
+        "g": 22,
+        "gs": 19,
+        "avg": 0.278,
+        "ops": 0.922,
+        "ab": 72,
         "r": 18,
         "h": 20,
         "doubles": 2,
@@ -1710,12 +1708,12 @@
         "hr": 6,
         "rbi": 18,
         "tb": 40,
-        "slg": 0.58,
-        "bb": 8,
+        "slg": 0.556,
+        "bb": 9,
         "hbp": 1,
-        "so": 25,
+        "so": 26,
         "gdp": 0,
-        "obp": 0.372,
+        "obp": 0.366,
         "sf": 0,
         "sh": 0,
         "sb": 3,
@@ -1750,11 +1748,11 @@
       "num": "43",
       "school": "University of New Orleans",
       "season_batting": {
-        "g": 20,
-        "gs": 19,
-        "avg": 0.366,
-        "ops": 0.875,
-        "ab": 71,
+        "g": 21,
+        "gs": 20,
+        "avg": 0.351,
+        "ops": 0.841,
+        "ab": 74,
         "r": 13,
         "h": 26,
         "doubles": 2,
@@ -1762,38 +1760,65 @@
         "hr": 1,
         "rbi": 13,
         "tb": 31,
-        "slg": 0.437,
+        "slg": 0.419,
         "bb": 7,
         "hbp": 2,
-        "so": 21,
+        "so": 22,
         "gdp": 1,
-        "obp": 0.438,
+        "obp": 0.422,
         "sf": 0,
         "sh": 1,
-        "sb": 6,
-        "sb_att": 8
+        "sb": 7,
+        "sb_att": 9
       },
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.92,
+        "era": 1.8,
+        "whip": 1.4,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 4.1,
-        "h": 2,
-        "r": 0,
-        "er": 0,
-        "bb": 2,
+        "ip": 5.0,
+        "h": 3,
+        "r": 1,
+        "er": 1,
+        "bb": 4,
         "so": 6,
         "hr": 0,
         "hbp": 0,
         "wp": 2,
-        "opp_avg": ".133"
+        "opp_avg": ".167"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 0 K vs. Tulane (W 5-2). At 1.80 ERA through 5.0 innings on the season."
     },
     "0ad7f8ea": {
       "id": "0ad7f8ea",
@@ -1878,7 +1903,10 @@
           "bb": 1,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. UIW (L 1-13). At 5.90 ERA through 6.1 innings on the season."
@@ -1934,7 +1962,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. UIW (L 1-13). At 12.60 ERA through 5.0 innings on the season."
@@ -1951,25 +1982,52 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 1.24,
+        "whip": 1.03,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 5.2,
-        "h": 1,
+        "ip": 10.2,
+        "h": 3,
         "r": 1,
         "er": 0,
-        "bb": 6,
-        "so": 7,
+        "bb": 8,
+        "so": 8,
         "hr": 0,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".059"
+        "opp_avg": ".094"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tulane",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "5.0 IP, 1 K, 0 ER vs. Tulane (W 5-2). At 0.00 ERA through 10.2 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

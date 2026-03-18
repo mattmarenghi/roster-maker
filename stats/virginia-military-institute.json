@@ -2,7 +2,7 @@
   "school": "Virginia Military Institute",
   "base_url": "https://www.vmikeydets.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:33:07.742318Z",
+  "generated_at": "2026-03-18T08:16:35.202873Z",
   "record": "17-3",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -517,7 +517,10 @@
           "bb": 1,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 6 K vs. Cornell (W 8-0). At 1.43 ERA through 25.2 innings on the season."
@@ -637,7 +640,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. Cornell (W 7-4). At 4.21 ERA through 17.1 innings on the season."
@@ -693,7 +699,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 2 K vs. Cornell (L 4-7). At 5.81 ERA through 6.2 innings on the season."
@@ -1002,7 +1011,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. Cornell (W 7-4). At 6.14 ERA through 13.2 innings on the season."
@@ -1058,7 +1070,10 @@
           "bb": 2,
           "so": 7,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 7 K vs. Cornell (W 7-4). At 4.01 ERA through 20.2 innings on the season."
@@ -1114,7 +1129,10 @@
           "bb": 4,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.1 IP, 4 K vs. Cornell (L 4-7). At 3.90 ERA through 23.1 innings on the season."
@@ -1202,7 +1220,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 3 K vs. Cornell (L 4-7). At 7.78 ERA through 16.2 innings on the season."
@@ -1258,7 +1279,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.1 IP, 6 K, 0 ER vs. Cornell (W 8-0). At 3.44 ERA through 13.1 innings on the season."
@@ -1346,7 +1370,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Cornell (W 7-4). At 2.21 ERA through 12.2 innings on the season."
@@ -1402,7 +1429,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Cornell (L 4-7). At 0.00 ERA through 1.0 innings on the season."

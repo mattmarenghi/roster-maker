@@ -2,7 +2,7 @@
   "school": "Western Kentucky University",
   "base_url": "https://www.wkusports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:37:05.158589Z",
+  "generated_at": "2026-03-18T08:18:26.292579Z",
   "record": "36-43",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -497,7 +497,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -600,7 +603,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana State, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
@@ -703,7 +709,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 2.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -751,7 +760,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 1.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -854,7 +866,10 @@
           "bb": 2,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Cincinnati, throwing 1.1 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
@@ -957,7 +972,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana State, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
@@ -1060,7 +1078,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1163,7 +1184,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1266,7 +1290,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -1314,7 +1341,10 @@
           "bb": 3,
           "so": 1,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
@@ -1504,7 +1534,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana State, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -1607,7 +1640,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 3.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
@@ -1655,7 +1691,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against BYU, throwing 1.1 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
@@ -1703,7 +1742,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Indiana State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1751,7 +1793,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 2.2 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
@@ -1799,7 +1844,10 @@
           "bb": 0,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "Took the mound against FIU, throwing 2.1 innings. Allowed 0 earned run(s) with 6 strikeout(s)."
@@ -1847,7 +1895,10 @@
           "bb": 0,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 4.0 innings. Allowed 2 earned run(s) with 5 strikeout(s)."
@@ -1895,7 +1946,10 @@
           "bb": 2,
           "so": 7,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against FIU, throwing 4.2 innings. Allowed 4 earned run(s) with 7 strikeout(s)."

@@ -2,7 +2,7 @@
   "school": "Rider University",
   "base_url": "https://www.gobroncs.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:12:16.860382Z",
+  "generated_at": "2026-03-18T07:57:42.572602Z",
   "record": "9-5",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -261,7 +261,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. SIENA (W 12-7). At 1.11 ERA through 8.1 innings on the season."
@@ -582,7 +585,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 1 ER vs. SIENA (W 12-7). At 3.79 ERA through 19.0 innings on the season."
@@ -675,7 +681,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. SIENA (W 12-7). At 7.88 ERA through 8.0 innings on the season."
@@ -731,7 +740,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. SIENA (W 10-1). At 3.53 ERA through 5.1 innings on the season."
@@ -787,7 +799,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. SIENA (W 12-7). At 8.78 ERA through 4.1 innings on the season."
@@ -843,7 +858,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "8.0 IP, 3 K, 0 ER vs. SIENA (W 10-1). At 4.45 ERA through 18.2 innings on the season."
@@ -899,7 +917,10 @@
           "bb": 3,
           "so": 6,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.2 IP, 6 K, 2 ER vs. SIENA (W 4-3). At 4.50 ERA through 22.0 innings on the season."
@@ -1281,7 +1302,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 2 K vs. SIENA (W 12-7). At 4.50 ERA through 16.0 innings on the season."

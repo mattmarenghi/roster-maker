@@ -2,13 +2,13 @@
   "school": "Mississippi Valley State University",
   "base_url": "https://www.mvsusports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:07:22.490655Z",
+  "generated_at": "2026-03-18T07:53:17.129486Z",
   "record": "4-14",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Arkansas-Pine Bluff",
     "result": "W 13-1",
-    "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+    "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
     "recap_url": "https://www.mvsusports.com/news/2026/3/15/baseball-soeder-homers-again-golden-lions-take-game-two.aspx",
     "recap_headline": "Mississippi Valley State University Athletics",
     "recap_text": ""
@@ -47,7 +47,7 @@
         "date": "2026-03-13",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 10-3",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -65,7 +65,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Arkansas-Pine Bluff (W 10-3). At 9.00 ERA through 8.0 innings on the season."
@@ -145,7 +148,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -197,7 +200,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -249,7 +252,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -333,7 +336,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -403,7 +406,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -421,7 +424,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Arkansas-Pine Bluff (W 13-1). At 6.38 ERA through 14.1 innings on the season."
@@ -482,7 +488,7 @@
         "date": "2026-03-14",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 7-5",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -534,7 +540,7 @@
         "date": "2026-03-14",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 7-5",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -586,7 +592,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -638,7 +644,7 @@
         "date": "2026-03-14",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 7-5",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -685,7 +691,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -703,7 +709,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Arkansas-Pine Bluff (W 13-1). At 15.00 ERA through 4.2 innings on the season."
@@ -746,7 +755,7 @@
         "date": "2026-03-13",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 10-3",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -825,7 +834,7 @@
         "date": "2026-03-14",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 7-5",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -843,7 +852,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Arkansas-Pine Bluff (W 7-5). At 11.87 ERA through 9.1 innings on the season."
@@ -881,7 +893,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -899,7 +911,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Arkansas-Pine Bluff (W 13-1). At 8.82 ERA through 5.1 innings on the season."
@@ -942,7 +957,7 @@
         "date": "2026-03-13",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 10-3",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1012,7 +1027,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1030,7 +1045,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Arkansas-Pine Bluff (W 13-1). At 6.38 ERA through 14.1 innings on the season."
@@ -1091,7 +1109,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1138,7 +1156,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1156,7 +1174,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 0 K vs. Arkansas-Pine Bluff (W 13-1). At 15.00 ERA through 4.2 innings on the season."
@@ -1194,7 +1215,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1212,7 +1233,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Arkansas-Pine Bluff (W 13-1). At 3.96 ERA through 9.1 innings on the season."
@@ -1292,7 +1316,7 @@
         "date": "2026-03-14",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 7-5",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1403,7 +1427,7 @@
         "date": "2026-03-13",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 10-3",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1421,7 +1445,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 2 K vs. Arkansas-Pine Bluff (W 10-3). At 5.92 ERA through 15.2 innings on the season."
@@ -1459,7 +1486,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1477,7 +1504,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Arkansas-Pine Bluff (W 13-1). At 10.16 ERA through 6.2 innings on the season."
@@ -1547,7 +1577,7 @@
         "date": "2026-03-13",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 10-3",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1565,7 +1595,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. Arkansas-Pine Bluff (W 10-3). At 14.02 ERA through 12.2 innings on the season."
@@ -1603,7 +1636,7 @@
         "date": "2026-03-14",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 7-5",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9051&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1621,7 +1654,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. Arkansas-Pine Bluff (W 7-5). At 13.85 ERA through 13.0 innings on the season."
@@ -1664,7 +1700,7 @@
         "date": "2026-03-15",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 13-1",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9052&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1711,7 +1747,7 @@
         "date": "2026-03-13",
         "opponent": "Arkansas-Pine Bluff",
         "result": "W 10-3",
-        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=",
+        "boxscore_url": "https://www.mvsusports.com/boxscore.aspx?id=9050&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1729,7 +1765,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null

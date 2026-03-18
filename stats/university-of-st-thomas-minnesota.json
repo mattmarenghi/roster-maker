@@ -2,7 +2,7 @@
   "school": "University of St. Thomas (Minnesota)",
   "base_url": "https://www.Tommiesports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:30:30.309289Z",
+  "generated_at": "2026-03-18T08:14:21.085994Z",
   "record": "26-31",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -14,8 +14,8 @@
     "recap_text": "USAFA\u00a0COLO.-\nSt. Thomas\u00a0falls 20-12 to Air Force on Monday afternoon.\nMatthew Maulik\nled the way with five RBIs for the\u00a0Tommies\u00a0while\u00a0freshman\nTerek Verhage\nwas just\u00a0behind with\u00a0four.\nScoring Summary:\nThe Falcons\u00a0opened up\u00a0the scoring in the bottom of the second scoring two on a\u00a0two-run\u00a0homerun.\nMatthew Maulik\nand the\u00a0Tommies\u00a0responded in the top half of the third when Maulik's cleared the bases with a three run double to put the\u00a0Tommies\u00a0up 3-2.\nAir\u00a0Force then plated three in the home half of the third to take a 5-2 lead over the\u00a0Tommies.\u00a0The Falcons then extended their lead by plating seven in the fourth to take a 12-3 lead.\nSt. Thomas then plated\u00a0four\u00a0of their own in the fifth.\nMatthew Maulik\nand\nMax Berrisford\neach picked up an\u00a0RBI,\u00a0and\nTerek Verhage\ntallied two of his own.\nThe Falcons then responded by plating two in\u00a0the bottom\u00a0half of the fifth, taking a 14-7 lead.\nThe\u00a0Tommies\u00a0put up another four\u00a0spot\u00a0in the sixth to claw back and make the score 14-11.\u00a0Verhage\u00a0picked\u00a0and Maulik picked up the RBIs once again.\nAir\u00a0Force then put up five in the bottom of the sixth to increase their lead to 19-11.\u00a0The Falcons then scored another in the seventh, taking a 20-11 lead.\nAdam Puder\ndoubled in the eighth to score\u00a0Berrisford\u00a0who also doubled, making the score 20-12 Falcons.\nUp Next:\nThe\u00a0Tommies\u00a0return to Summit League play March 20-22 at Oral Roberts.\nFollow Along:\nAny and all information\u00a0pertaining to\u00a0the St. Thomas baseball team can be found at tommiesports.com and on Twitter @TommieBase and Instagram at @TommieBaseball."
   },
   "players": {
-    "7415a4f0": {
-      "id": "7415a4f0",
+    "a44417c2": {
+      "id": "a44417c2",
       "name": "Sean Marlow",
       "fn": "Sean",
       "ln": "Marlow",
@@ -67,10 +67,10 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 1 RBI against Northern Colo.. Had an outstanding performance at the plate (1.000)."
+      "narrative": "1/1 with 1 RBI vs. Northern Colo. (W). Hitting .1000 with 0 HR through 2 games."
     },
-    "e83f16ba": {
-      "id": "e83f16ba",
+    "94b7102b": {
+      "id": "94b7102b",
       "name": "Tanner Recchio",
       "fn": "Tanner",
       "ln": "Recchio",
@@ -124,8 +124,8 @@
       },
       "narrative": "0/3 with 0 RBI vs. Air Force (L). Hitting .342 with 0 HR through 19 games."
     },
-    "1ccd1746": {
-      "id": "1ccd1746",
+    "f2145712": {
+      "id": "f2145712",
       "name": "Zan Von Schlegell",
       "fn": "Zan",
       "ln": "Von Schlegell",
@@ -179,8 +179,8 @@
       },
       "narrative": "0/3 with 0 RBI vs. Air Force (L). Hitting .180 with 0 HR through 18 games."
     },
-    "2c2b01d4": {
-      "id": "2c2b01d4",
+    "0cccd563": {
+      "id": "0cccd563",
       "name": "Easton Fritcher",
       "fn": "Easton",
       "ln": "Fritcher",
@@ -232,10 +232,10 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Northern Colo.. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "0/2 with 0 RBI vs. Northern Colo. (W). Hitting .157 with 0 HR through 16 games."
     },
-    "add5b2d7": {
-      "id": "add5b2d7",
+    "b6583853": {
+      "id": "b6583853",
       "name": "Terek Verhage",
       "fn": "Terek",
       "ln": "Verhage",
@@ -289,8 +289,8 @@
       },
       "narrative": "2/5 with 4 RBI vs. Air Force (L). Hitting .270 with 0 HR through 14 games."
     },
-    "c4f132e0": {
-      "id": "c4f132e0",
+    "66676081": {
+      "id": "66676081",
       "name": "Matthew Maulik",
       "fn": "Matthew",
       "ln": "Maulik",
@@ -344,8 +344,8 @@
       },
       "narrative": "2/4 with 5 RBI vs. Air Force (L). Hitting .294 with 1 HR through 18 games."
     },
-    "86ea9d3d": {
-      "id": "86ea9d3d",
+    "3cd7766e": {
+      "id": "3cd7766e",
       "name": "Owen Marsolek",
       "fn": "Owen",
       "ln": "Marsolek",
@@ -387,13 +387,16 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Northern Colo., throwing 4.0 innings. Allowed 4 earned run(s) with 3 strikeout(s)."
+      "narrative": "4.0 IP, 3 K vs. Northern Colo. (L). At 4.32 ERA through 27.1 innings on the season."
     },
-    "fcc67672": {
-      "id": "fcc67672",
+    "1b5ee70d": {
+      "id": "1b5ee70d",
       "name": "Adam Puder",
       "fn": "Adam",
       "ln": "Puder",
@@ -447,8 +450,8 @@
       },
       "narrative": "1/5 with 1 RBI vs. Air Force (L). Hitting .283 with 1 HR through 19 games."
     },
-    "f17604fd": {
-      "id": "f17604fd",
+    "037184c9": {
+      "id": "037184c9",
       "name": "Easton Bobb",
       "fn": "Easton",
       "ln": "Bobb",
@@ -490,13 +493,16 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Iowa, throwing 3.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "3.0 IP, 2 K vs. Iowa (L). At 9.00 ERA through 6.0 innings on the season."
     },
-    "dcf000a0": {
-      "id": "dcf000a0",
+    "79d1a455": {
+      "id": "79d1a455",
       "name": "Brayden Olson",
       "fn": "Brayden",
       "ln": "Olson",
@@ -572,13 +578,16 @@
           "bb": 1,
           "so": 5,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Went 1/1 with 1 RBI against Northern Colo.. Had an outstanding performance at the plate (1.000)."
+      "narrative": "1/1 with 1 RBI vs. Northern Colo. (W). Hitting .1000 with 0 HR through 3 games."
     },
-    "e2b76428": {
-      "id": "e2b76428",
+    "96ec301f": {
+      "id": "96ec301f",
       "name": "Evan Raabe",
       "fn": "Evan",
       "ln": "Raabe",
@@ -630,10 +639,10 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Northern Colo.. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "0/3 with 0 RBI vs. Northern Colo. (L). Hitting .125 with 0 HR through 5 games."
     },
-    "9d24a126": {
-      "id": "9d24a126",
+    "2223482c": {
+      "id": "2223482c",
       "name": "Joe Roder",
       "fn": "Joe",
       "ln": "Roder",
@@ -687,8 +696,8 @@
       },
       "narrative": "1/3 with 1 RBI vs. Air Force (L). Hitting .212 with 0 HR through 19 games."
     },
-    "e311e637": {
-      "id": "e311e637",
+    "3baaba7f": {
+      "id": "3baaba7f",
       "name": "Max Berrisford",
       "fn": "Max",
       "ln": "Berrisford",
@@ -742,8 +751,8 @@
       },
       "narrative": "2/4 with 1 RBI vs. Air Force (L). Hitting .321 with 0 HR through 10 games."
     },
-    "f2c4817f": {
-      "id": "f2c4817f",
+    "c6b2c404": {
+      "id": "c6b2c404",
       "name": "Lucas McNellis",
       "fn": "Lucas",
       "ln": "McNellis",
@@ -795,10 +804,10 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 1 RBI against Northern Colo.. Struggled to make contact."
+      "narrative": "1/5 with 1 RBI vs. Northern Colo. (W). Hitting .203 with 1 HR through 18 games."
     },
-    "a679537d": {
-      "id": "a679537d",
+    "8a0c36c6": {
+      "id": "8a0c36c6",
       "name": "Evan Esch",
       "fn": "Evan",
       "ln": "Esch",
@@ -840,7 +849,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Air Force (L). At 11.57 ERA through 7.0 innings on the season."
@@ -900,8 +912,8 @@
       },
       "narrative": "1/2 with 0 RBI vs. Air Force (L). Hitting .292 with 0 HR through 18 games."
     },
-    "13a8f4ac": {
-      "id": "13a8f4ac",
+    "e4ed713e": {
+      "id": "e4ed713e",
       "name": "Max Skilbeck",
       "fn": "Max",
       "ln": "Skilbeck",
@@ -943,13 +955,16 @@
           "bb": 4,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Kansas, throwing 5.0 innings. Struck out 5 while allowing just 5 hit(s) and 5 earned run(s) in a quality start."
+      "narrative": "5.0 IP, 5 K, 5 ER vs. Kansas (L). At 6.28 ERA through 17.2 innings on the season."
     },
-    "321e200e": {
-      "id": "321e200e",
+    "0628ebfc": {
+      "id": "0628ebfc",
       "name": "Colin Lewandowski",
       "fn": "Colin",
       "ln": "Lewandowski",
@@ -1003,8 +1018,8 @@
       },
       "narrative": "0/1 with 0 RBI vs. Air Force (L). Hitting .000 with 0 HR through 6 games."
     },
-    "de6e80a2": {
-      "id": "de6e80a2",
+    "f2e1f915": {
+      "id": "f2e1f915",
       "name": "Landon Majerus",
       "fn": "Landon",
       "ln": "Majerus",
@@ -1046,13 +1061,16 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. Air Force (L). At 16.71 ERA through 7.0 innings on the season."
     },
-    "c25176f4": {
-      "id": "c25176f4",
+    "c2f0bdf5": {
+      "id": "c2f0bdf5",
       "name": "Nelson Koenig",
       "fn": "Nelson",
       "ln": "Koenig",
@@ -1128,13 +1146,16 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Went 0/1 with 0 RBI against Iowa. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. Iowa (L). Hitting .000 with 0 HR through 1 games."
     },
-    "e510a13e": {
-      "id": "e510a13e",
+    "c1d3f73f": {
+      "id": "c1d3f73f",
       "name": "AJ Rasmussen",
       "fn": "AJ",
       "ln": "Rasmussen",
@@ -1176,13 +1197,16 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Air Force (L). At 9.00 ERA through 5.0 innings on the season."
     },
-    "a1f91107": {
-      "id": "a1f91107",
+    "f1bbb1c7": {
+      "id": "f1bbb1c7",
       "name": "Chris Petersen",
       "fn": "Chris",
       "ln": "Petersen",
@@ -1224,13 +1248,16 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Northern Colo., throwing 2.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "2.2 IP, 0 K vs. Northern Colo. (L). At 9.67 ERA through 12.1 innings on the season."
     },
-    "cc605616": {
-      "id": "cc605616",
+    "cd4fa1d4": {
+      "id": "cd4fa1d4",
       "name": "Zak Endres",
       "fn": "Zak",
       "ln": "Endres",
@@ -1272,13 +1299,16 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Kansas, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Kansas (L). At 0.00 ERA through 2.0 innings on the season."
     },
-    "2d313764": {
-      "id": "2d313764",
+    "e3f371f0": {
+      "id": "e3f371f0",
       "name": "Sam Stockman",
       "fn": "Sam",
       "ln": "Stockman",
@@ -1320,13 +1350,16 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
-      "narrative": "Took the mound against Northern Colo., throwing 1.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.2 IP, 0 K vs. Northern Colo. (W). At 4.86 ERA through 11.1 innings on the season."
     },
-    "54194462": {
-      "id": "54194462",
+    "cabe66c4": {
+      "id": "cabe66c4",
       "name": "Warren Bowe",
       "fn": "Warren",
       "ln": "Bowe",
@@ -1368,13 +1401,16 @@
           "bb": 4,
           "so": 0,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Air Force (L). At 17.65 ERA through 5.1 innings on the season."
     },
-    "a6d5c65f": {
-      "id": "a6d5c65f",
+    "6a585610": {
+      "id": "6a585610",
       "name": "Max Nelson",
       "fn": "Max",
       "ln": "Nelson",
@@ -1416,13 +1452,16 @@
           "bb": 0,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Air Force (L). At 0.00 ERA through 1.0 innings on the season."
     },
-    "89751e8e": {
-      "id": "89751e8e",
+    "1926f8b7": {
+      "id": "1926f8b7",
       "name": "William Pierro",
       "fn": "William",
       "ln": "Pierro",
@@ -1464,13 +1503,16 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Northern Colo., throwing 1.0 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Northern Colo. (L). At 8.89 ERA through 8.1 innings on the season."
     },
-    "5811b19e": {
-      "id": "5811b19e",
+    "e524b96b": {
+      "id": "e524b96b",
       "name": "Nolan Phillips",
       "fn": "Nolan",
       "ln": "Phillips",
@@ -1512,13 +1554,16 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Air Force (L). At 19.29 ERA through 4.2 innings on the season."
     },
-    "8ff5c919": {
-      "id": "8ff5c919",
+    "68dcf5a3": {
+      "id": "68dcf5a3",
       "name": "Owen Bond",
       "fn": "Owen",
       "ln": "Bond",
@@ -1572,8 +1617,8 @@
       },
       "narrative": "0/3 with 0 RBI vs. Air Force (L). Hitting .290 with 1 HR through 17 games."
     },
-    "91fa5dc4": {
-      "id": "91fa5dc4",
+    "aa37bfb2": {
+      "id": "aa37bfb2",
       "name": "Nolan Kemp",
       "fn": "Nolan",
       "ln": "Kemp",
@@ -1615,13 +1660,16 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Northern Colo., throwing 1.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "1.2 IP, 3 K vs. Northern Colo. (W). At 7.61 ERA through 7.1 innings on the season."
     },
-    "3f9cea33": {
-      "id": "3f9cea33",
+    "520100a6": {
+      "id": "520100a6",
       "name": "Jack Scanlon",
       "fn": "Jack",
       "ln": "Scanlon",
@@ -1663,13 +1711,16 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Air Force (L). At 6.75 ERA through 4.0 innings on the season."
     },
-    "ad1ececf": {
-      "id": "ad1ececf",
+    "dce90e83": {
+      "id": "dce90e83",
       "name": "Chase Nelson",
       "fn": "Chase",
       "ln": "Nelson",

@@ -2,7 +2,7 @@
   "school": "Mercyhurst University",
   "base_url": "https://www.hurstathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:06:20.516206Z",
+  "generated_at": "2026-03-18T07:52:10.999161Z",
   "record": "4-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -117,7 +117,10 @@
           "bb": 3,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Delaware St. (W 9-8). At 11.25 ERA through 3.2 innings on the season."
@@ -173,7 +176,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 4 K, 3 ER vs. Delaware St. (W 4-3). At 6.30 ERA through 20.0 innings on the season."
@@ -482,7 +488,10 @@
           "bb": 3,
           "so": 6,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 6 K vs. Delaware St. (W 9-8). At 6.67 ERA through 8.1 innings on the season."
@@ -1151,7 +1160,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 6 K, 0 ER vs. Delaware St. (W 10-0). At 8.30 ERA through 14.1 innings on the season."
@@ -1291,7 +1303,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Delaware St. (W 9-8). At 18.53 ERA through 10.2 innings on the season."
@@ -1379,7 +1394,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "2.0 IP, 1 K vs. Delaware St. (W 9-8). At 5.87 ERA through 9.2 innings on the season."
@@ -1559,7 +1577,10 @@
           "bb": 3,
           "so": 6,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 6 K vs. Delaware St. (W 9-8). At 6.67 ERA through 8.1 innings on the season."

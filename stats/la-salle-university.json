@@ -2,7 +2,7 @@
   "school": "La Salle University",
   "base_url": "https://www.goexplorers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:03:06.335141Z",
+  "generated_at": "2026-03-18T07:49:13.762053Z",
   "record": "9-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -349,7 +349,10 @@
           "bb": 3,
           "so": 5,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "8.0 IP, 5 K, 3 ER vs. VCU (W 4-3). At 5.68 ERA through 19.0 innings on the season."
@@ -494,7 +497,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. VCU (W 8-4). At 3.83 ERA through 14.1 innings on the season."
@@ -941,7 +947,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 0 K vs. VCU (W 8-4). At 6.92 ERA through 5.2 innings on the season."
@@ -997,7 +1006,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 1 K vs. VCU (W 8-4). At 9.71 ERA through 10.2 innings on the season."
@@ -1199,7 +1211,10 @@
           "bb": 4,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 0 K vs. VCU (W 6-2). At 7.50 ERA through 12.0 innings on the season."
@@ -1325,7 +1340,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. VCU (W 8-4). At 19.29 ERA through 4.2 innings on the season."
@@ -1381,7 +1399,10 @@
           "bb": 2,
           "so": 3,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 1 ER vs. VCU (W 6-2). At 5.43 ERA through 23.2 innings on the season."
@@ -1437,7 +1458,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. VCU (W 6-2). At 8.78 ERA through 4.1 innings on the season."
@@ -1678,7 +1702,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. VCU (W 6-2). At 5.40 ERA through 5.0 innings on the season."
@@ -1835,7 +1862,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. VCU (W 4-3). At 1.45 ERA through 6.2 innings on the season."

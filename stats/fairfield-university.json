@@ -2,7 +2,7 @@
   "school": "Fairfield University",
   "base_url": "https://fairfieldstags.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:59:27.869384Z",
+  "generated_at": "2026-03-18T07:45:34.912504Z",
   "record": "6-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -65,7 +65,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Manhattan (W 7-3). At 0.00 ERA through 3.0 innings on the season."
@@ -442,7 +445,10 @@
           "bb": 2,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. Manhattan (W 4-3). At 6.64 ERA through 12.2 innings on the season."
@@ -587,7 +593,10 @@
           "bb": 4,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 1 K vs. Manhattan (W 7-3). At 3.46 ERA through 18.2 innings on the season."
@@ -695,7 +704,10 @@
           "bb": 1,
           "so": 5,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 5 K vs. Manhattan (W 4-3). At 2.98 ERA through 18.1 innings on the season."
@@ -919,7 +931,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 0 K vs. Manhattan (W 4-3). At 4.50 ERA through 8.0 innings on the season."
@@ -975,7 +990,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "1.0 IP, 0 K vs. Manhattan (W 4-3). At 2.97 ERA through 9.1 innings on the season."
@@ -1120,7 +1138,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 1 K vs. Manhattan (W 7-3). At 3.72 ERA through 12.1 innings on the season."
@@ -1176,7 +1197,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 0 K vs. Manhattan (W 11-2). At 1.10 ERA through 8.2 innings on the season."
@@ -1232,7 +1256,10 @@
           "bb": 2,
           "so": 8,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.1 IP, 8 K, 2 ER vs. Manhattan (W 11-2). At 0.64 ERA through 28.1 innings on the season."

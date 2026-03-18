@@ -2,7 +2,7 @@
   "school": "University of Toledo",
   "base_url": "https://www.utrockets.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:32:05.148849Z",
+  "generated_at": "2026-03-18T08:15:31.887004Z",
   "record": "36-45",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -607,7 +607,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Northern Ill., throwing 7.0 innings. Struck out 4 while allowing just 7 hit(s) and 2 earned run(s) in a quality start."
@@ -875,7 +878,10 @@
           "bb": 4,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Northern Ill., throwing 1.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
@@ -978,7 +984,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Northern Ill., throwing 5.0 innings. Struck out 3 while allowing just 7 hit(s) and 5 earned run(s) in a quality start."
@@ -1026,7 +1035,10 @@
           "bb": 2,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Northern Ky., throwing 4.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
@@ -1074,7 +1086,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Northern Ill., throwing 0.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1122,7 +1137,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Massachusetts, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
@@ -1170,7 +1188,10 @@
           "bb": 5,
           "so": 9,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Northern Ill., throwing 6.1 innings. Struck out 9 while allowing just 5 hit(s) and 5 earned run(s) in a quality start."
@@ -1273,7 +1294,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Northern Ill., throwing 3.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
@@ -1321,7 +1345,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Massachusetts, throwing 1.2 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
@@ -1369,7 +1396,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Lipscomb University, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -1417,7 +1447,10 @@
           "bb": 1,
           "so": 6,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Lipscomb University, throwing 4.0 innings. Allowed 1 earned run(s) with 6 strikeout(s)."
@@ -1465,7 +1498,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Massachusetts, throwing 2.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1513,7 +1549,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Lipscomb University, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."

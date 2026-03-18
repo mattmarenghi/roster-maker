@@ -2,13 +2,13 @@
   "school": "Florida International University",
   "base_url": "https://www.fiusports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:00:03.031968Z",
+  "generated_at": "2026-03-18T07:46:13.505149Z",
   "record": "7-14",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "WKU",
     "result": "W 9-3",
-    "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+    "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
     "recap_url": "https://www.fiusports.com/news/2026/3/15/baseball-falls-to-western-kentucky-in-series-finale.aspx",
     "recap_headline": "FIU Athletics",
     "recap_text": ""
@@ -236,7 +236,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -288,7 +288,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -335,7 +335,7 @@
         "date": "2026-03-14",
         "opponent": "WKU",
         "result": "W 5-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -353,7 +353,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 4 K vs. WKU (W 5-4). At 4.24 ERA through 17.0 innings on the season."
@@ -396,7 +399,7 @@
         "date": "2026-03-13",
         "opponent": "WKU",
         "result": "W 15-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -448,7 +451,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -648,7 +651,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -700,7 +703,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -779,7 +782,7 @@
         "date": "2026-03-14",
         "opponent": "WKU",
         "result": "W 5-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -797,7 +800,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 2 K vs. WKU (W 5-4). At 5.21 ERA through 19.0 innings on the season."
@@ -872,7 +878,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -890,7 +896,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 1 K, 5 ER vs. WKU (W 9-3). At 6.27 ERA through 20.1 innings on the season."
@@ -960,7 +969,7 @@
         "date": "2026-03-13",
         "opponent": "WKU",
         "result": "W 15-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -978,7 +987,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 4 K vs. WKU (W 15-4). At 11.00 ERA through 9.0 innings on the season."
@@ -1021,7 +1033,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1137,7 +1149,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1184,7 +1196,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1202,7 +1214,10 @@
           "bb": 0,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. WKU (W 9-3). At 7.44 ERA through 12.1 innings on the season."
@@ -1245,7 +1260,7 @@
         "date": "2026-03-14",
         "opponent": "WKU",
         "result": "W 5-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1292,7 +1307,7 @@
         "date": "2026-03-14",
         "opponent": "WKU",
         "result": "W 5-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1310,7 +1325,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 4 K vs. WKU (W 5-4). At 1.80 ERA through 15.0 innings on the season."
@@ -1348,7 +1366,7 @@
         "date": "2026-03-13",
         "opponent": "WKU",
         "result": "W 15-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1366,7 +1384,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. WKU (W 15-4). At 11.80 ERA through 12.2 innings on the season."
@@ -1441,7 +1462,7 @@
         "date": "2026-03-13",
         "opponent": "WKU",
         "result": "W 15-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1459,7 +1480,10 @@
           "bb": 5,
           "so": 2,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. WKU (W 15-4). At 11.25 ERA through 4.0 innings on the season."
@@ -1497,7 +1521,7 @@
         "date": "2026-03-13",
         "opponent": "WKU",
         "result": "W 15-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14101&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1515,7 +1539,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. WKU (W 15-4). At 12.22 ERA through 8.1 innings on the season."
@@ -1654,7 +1681,7 @@
         "date": "2026-03-15",
         "opponent": "WKU",
         "result": "W 9-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14103&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1672,7 +1699,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. WKU (W 9-3). At 10.41 ERA through 12.1 innings on the season."
@@ -1715,7 +1745,7 @@
         "date": "2026-03-14",
         "opponent": "WKU",
         "result": "W 5-4",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14102&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

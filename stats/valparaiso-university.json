@@ -2,7 +2,7 @@
   "school": "Valparaiso University",
   "base_url": "https://www.valpoathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:33:03.205424Z",
+  "generated_at": "2026-03-18T08:16:36.832891Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -88,7 +88,10 @@
           "bb": 0,
           "so": 5,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "7.2 IP, 5 K, 3 ER vs. SIUE (W 3-2). At 3.91 ERA through 32.2 innings on the season."
@@ -144,7 +147,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. SIUE (W 13-3). At 16.36 ERA through 2.2 innings on the season."
@@ -537,7 +543,10 @@
           "bb": 0,
           "so": 5,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "7.2 IP, 5 K, 3 ER vs. SIUE (W 3-2). At 3.91 ERA through 32.2 innings on the season."
@@ -682,7 +691,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. SIUE (W 13-3). At 1.78 ERA through 10.1 innings on the season."
@@ -738,7 +750,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. SIUE (L 9-13). At 10.80 ERA through 5.0 innings on the season."
@@ -794,7 +809,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. SIUE (W 13-3). At 13.50 ERA through 4.0 innings on the season."
@@ -887,7 +905,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 4 K vs. SIUE (L 9-13). At 2.98 ERA through 15.1 innings on the season."
@@ -980,7 +1001,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. SIUE (L 9-13). At 8.85 ERA through 6.1 innings on the season."
@@ -1036,7 +1060,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. SIUE (W 3-2). At 15.75 ERA through 8.0 innings on the season."
@@ -1129,7 +1156,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1217,7 +1247,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 1 K vs. SIUE (L 9-13). At 6.09 ERA through 19.2 innings on the season."

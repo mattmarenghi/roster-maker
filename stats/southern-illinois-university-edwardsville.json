@@ -2,7 +2,7 @@
   "school": "Southern Illinois University Edwardsville",
   "base_url": "https://www.siuecougars.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:14:42.842697Z",
+  "generated_at": "2026-03-18T08:00:13.880667Z",
   "record": "8-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -206,7 +206,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Valparaiso (L 9-13). At 9.71 ERA through 10.2 innings on the season."
@@ -359,7 +362,10 @@
           "bb": 2,
           "so": 3,
           "wp": 2,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Valparaiso (L 9-13). At 10.00 ERA through 9.0 innings on the season."
@@ -568,7 +574,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Valparaiso (L 9-13). At 6.67 ERA through 8.1 innings on the season."
@@ -624,7 +633,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 3 K vs. Valparaiso (W 3-2). At 0.69 ERA through 13.1 innings on the season."
@@ -862,7 +874,10 @@
           "bb": 3,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. Valparaiso (L 9-13). At 18.48 ERA through 11.2 innings on the season."
@@ -910,7 +925,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 4 K, 0 ER vs. Valparaiso (W 3-2). At 5.45 ERA through 23.1 innings on the season."
@@ -1070,7 +1088,10 @@
           "bb": 2,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 5 K vs. Valparaiso (L 9-13). At 9.47 ERA through 17.1 innings on the season."
@@ -1215,7 +1236,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Valparaiso (W 3-2). At 5.06 ERA through 16.0 innings on the season."
@@ -1323,7 +1347,10 @@
           "bb": 0,
           "so": 8,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 8 K, 3 ER vs. Valparaiso (W 13-3). At 6.62 ERA through 23.1 innings on the season."

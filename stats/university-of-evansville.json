@@ -2,7 +2,7 @@
   "school": "University of Evansville",
   "base_url": "https://www.gopurpleaces.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:22:14.410365Z",
+  "generated_at": "2026-03-18T08:07:28.076959Z",
   "record": "5-13",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -617,7 +617,10 @@
           "bb": 3,
           "so": 7,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 7 K, 2 ER vs. Xavier (L 4-6). At 4.83 ERA through 26.1 innings on the season."
@@ -673,7 +676,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Xavier (W 7-5). At 9.89 ERA through 18.2 innings on the season."
@@ -729,7 +735,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "3.2 IP, 4 K vs. Xavier (L 4-6). At 3.58 ERA through 15.1 innings on the season."
@@ -881,7 +890,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "8.0 IP, 3 K, 1 ER vs. Xavier (L 1-5). At 5.62 ERA through 24.0 innings on the season."
@@ -1085,7 +1097,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Xavier (L 1-5). At 7.68 ERA through 8.2 innings on the season."
@@ -1267,7 +1282,10 @@
           "bb": 1,
           "so": 5,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 5 K vs. Xavier (W 7-5). At 4.48 ERA through 20.1 innings on the season."
@@ -1360,7 +1378,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 4 K vs. Xavier (W 7-5). At 4.91 ERA through 11.0 innings on the season."

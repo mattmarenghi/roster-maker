@@ -2,7 +2,7 @@
   "school": "Southern University, Baton Rouge",
   "base_url": "https://www.gojagsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:14:55.370900Z",
+  "generated_at": "2026-03-18T08:00:31.295080Z",
   "record": "5-9",
   "most_recent_game": {
     "date": "2026-03-13",
@@ -65,7 +65,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -596,7 +599,10 @@
           "bb": 1,
           "so": 4,
           "wp": 1,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 4 K, 8 ER vs. Florida A&M (W 12-7). At 9.00 ERA through 19.0 innings on the season."
@@ -675,7 +681,10 @@
           "bb": 2,
           "so": 3,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 3 K vs. McNeese St. (L 5-14). At 3.38 ERA through 8.0 innings on the season."
@@ -690,11 +699,11 @@
       "num": "16",
       "school": "Southern University, Baton Rouge",
       "season_batting": {
-        "g": 12,
-        "gs": 12,
-        "avg": 0.302,
-        "ops": 0.892,
-        "ab": 43,
+        "g": 13,
+        "gs": 13,
+        "avg": 0.289,
+        "ops": 0.854,
+        "ab": 45,
         "r": 14,
         "h": 13,
         "doubles": 1,
@@ -702,12 +711,12 @@
         "hr": 2,
         "rbi": 9,
         "tb": 22,
-        "slg": 0.512,
+        "slg": 0.489,
         "bb": 4,
         "hbp": 2,
-        "so": 6,
+        "so": 8,
         "gdp": 0,
-        "obp": 0.38,
+        "obp": 0.365,
         "sf": 1,
         "sh": 1,
         "sb": 4,
@@ -835,7 +844,10 @@
           "bb": 3,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 2 K vs. Florida A&M (W 12-7). At 6.56 ERA through 15.1 innings on the season."
@@ -928,7 +940,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Dillard University (W 20-7). At 5.07 ERA through 7.1 innings on the season."
@@ -1021,7 +1036,10 @@
           "bb": 2,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1189,7 +1207,10 @@
           "bb": 2,
           "so": 3,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 3 K vs. McNeese St. (L 5-14). At 3.38 ERA through 8.0 innings on the season."
@@ -1309,7 +1330,10 @@
           "bb": 3,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1417,7 +1441,10 @@
           "bb": 1,
           "so": 2,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Dillard University (W 20-7). At 8.71 ERA through 3.1 innings on the season."
@@ -1473,7 +1500,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. McNeese St. (L 5-14). At 4.50 ERA through 2.0 innings on the season."
@@ -1529,7 +1559,10 @@
           "bb": 1,
           "so": 6,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 6 K vs. Dillard University (W 20-7). At 12.60 ERA through 5.0 innings on the season."
@@ -1545,23 +1578,23 @@
       "school": "Southern University, Baton Rouge",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.95,
-        "whip": 2.21,
+        "era": 7.71,
+        "whip": 1.82,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 2,
-        "gs": 2,
-        "ip": 6.1,
-        "h": 6,
-        "r": 7,
-        "er": 7,
+        "g": 3,
+        "gs": 3,
+        "ip": 9.1,
+        "h": 9,
+        "r": 9,
+        "er": 8,
         "bb": 8,
-        "so": 6,
-        "hr": 0,
+        "so": 10,
+        "hr": 1,
         "hbp": 2,
-        "wp": 1,
-        "opp_avg": ".261"
+        "wp": 2,
+        "opp_avg": ".257"
       },
       "last_game": null,
       "narrative": null
@@ -1724,7 +1757,10 @@
           "bb": 1,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. McNeese St. (L 5-14). At 0.00 ERA through 1.2 innings on the season."
@@ -1780,7 +1816,10 @@
           "bb": 2,
           "so": 1,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Dillard University (W 20-7). At 3.00 ERA through 3.0 innings on the season."

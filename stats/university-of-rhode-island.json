@@ -2,7 +2,7 @@
   "school": "University of Rhode Island",
   "base_url": "https://www.gorhody.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:28:56.044203Z",
+  "generated_at": "2026-03-18T08:13:15.114560Z",
   "record": "3-14",
   "most_recent_game": {
     "date": "2026-03-10",
@@ -280,7 +280,10 @@
           "bb": 1,
           "so": 7,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 7 K, 3 ER vs. Brown (W 3-2). At 10.25 ERA through 20.2 innings on the season."
@@ -336,7 +339,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. New Haven (W 11-0). At 3.46 ERA through 5.2 innings on the season."
@@ -481,7 +487,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. New Haven (W 11-0). At 9.78 ERA through 9.2 innings on the season."
@@ -589,7 +598,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. New Haven (W 11-0). At 16.23 ERA through 6.1 innings on the season."
@@ -818,7 +830,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. New Haven (W 11-0). At 16.23 ERA through 6.1 innings on the season."
@@ -897,7 +912,10 @@
           "bb": 0,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. New Haven (W 11-0). At 0.00 ERA through 4.0 innings on the season."
@@ -1005,7 +1023,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. New Haven (W 11-0). At 2.90 ERA through 3.1 innings on the season."
@@ -1061,7 +1082,10 @@
           "bb": 1,
           "so": 5,
           "wp": 2,
-          "hbp": 2
+          "hbp": 2,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 5 K, 3 ER vs. Brown (L 9-19). At 10.30 ERA through 20.1 innings on the season."
@@ -1270,7 +1294,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. New Haven (W 11-0). At 7.50 ERA through 12.0 innings on the season."
@@ -1415,7 +1442,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 4 K vs. Brown (W 3-2). At 6.75 ERA through 12.0 innings on the season."
@@ -1463,7 +1493,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. New Haven (W 11-0). At 6.75 ERA through 8.0 innings on the season."
@@ -1519,7 +1552,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. New Haven (W 11-0). At 12.12 ERA through 5.2 innings on the season."
@@ -1627,7 +1663,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. New Haven (W 11-0). At 8.82 ERA through 5.1 innings on the season."

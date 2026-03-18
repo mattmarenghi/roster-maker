@@ -2,14 +2,14 @@
   "school": "Pepperdine University",
   "base_url": "https://www.pepperdinewaves.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:10:44.812544Z",
-  "record": "4-15",
+  "generated_at": "2026-03-18T07:56:14.688330Z",
+  "record": "4-16",
   "most_recent_game": {
-    "date": "2026-03-14",
-    "opponent": "UMass Lowell",
-    "result": "L 4-5",
-    "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
-    "recap_url": "https://www.pepperdinewaves.com/news/2026/3/14/baseball-splits-doubleheader-with-umass-lowell.aspx",
+    "date": "2026-03-17",
+    "opponent": "UCLA",
+    "result": "W 5-4",
+    "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
+    "recap_url": "https://www.pepperdinewaves.com/news/2026/3/17/baseball-takes-no-1-ucla-down-to-the-wire-as-comeback-falls-short.aspx",
     "recap_headline": "Pepperdine University Athletics",
     "recap_text": ""
   },
@@ -94,24 +94,24 @@
       "num": "2",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 17,
-        "gs": 15,
-        "avg": 0.228,
+        "g": 18,
+        "gs": 16,
+        "avg": 0.23,
         "ops": 0.676,
-        "ab": 57,
-        "r": 9,
-        "h": 13,
+        "ab": 61,
+        "r": 10,
+        "h": 14,
         "doubles": 3,
         "triples": 0,
         "hr": 2,
         "rbi": 7,
-        "tb": 22,
-        "slg": 0.386,
-        "bb": 2,
+        "tb": 23,
+        "slg": 0.377,
+        "bb": 3,
         "hbp": 3,
-        "so": 8,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.29,
+        "obp": 0.299,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -168,7 +168,7 @@
       "num": "4",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 14,
+        "g": 15,
         "gs": 11,
         "avg": 0.188,
         "ops": 0.489,
@@ -187,28 +187,28 @@
         "gdp": 0,
         "obp": 0.27,
         "sf": 1,
-        "sh": 1,
+        "sh": 2,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
+          "ab": 0,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "cf"
+          "so": 0,
+          "pos": "ph"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. UMass Lowell (W 13-8). Hitting .187 with 0 HR through 14 games."
+      "narrative": null
     },
     "3c28a541": {
       "id": "3c28a541",
@@ -220,24 +220,24 @@
       "num": "5",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 15,
-        "gs": 13,
-        "avg": 0.286,
-        "ops": 0.809,
-        "ab": 49,
+        "g": 16,
+        "gs": 14,
+        "avg": 0.283,
+        "ops": 0.786,
+        "ab": 53,
         "r": 6,
-        "h": 14,
+        "h": 15,
         "doubles": 3,
         "triples": 0,
         "hr": 2,
         "rbi": 7,
-        "tb": 23,
-        "slg": 0.469,
+        "tb": 24,
+        "slg": 0.453,
         "bb": 3,
         "hbp": 1,
-        "so": 18,
+        "so": 20,
         "gdp": 0,
-        "obp": 0.34,
+        "obp": 0.333,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -245,13 +245,13 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "L 4-5",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 0,
@@ -260,7 +260,7 @@
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. UMass Lowell (L 4-5). Hitting .285 with 2 HR through 15 games."
+      "narrative": "1/4 with 0 RBI vs. UCLA (W 5-4). Hitting .283 with 2 HR through 16 games."
     },
     "33764ced": {
       "id": "33764ced",
@@ -272,11 +272,11 @@
       "num": "6",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 18,
+        "g": 19,
         "gs": 16,
-        "avg": 0.189,
-        "ops": 0.593,
-        "ab": 53,
+        "avg": 0.185,
+        "ops": 0.584,
+        "ab": 54,
         "r": 2,
         "h": 10,
         "doubles": 0,
@@ -284,20 +284,35 @@
         "hr": 1,
         "rbi": 3,
         "tb": 13,
-        "slg": 0.245,
+        "slg": 0.241,
         "bb": 9,
         "hbp": 4,
         "so": 9,
         "gdp": 3,
-        "obp": 0.348,
+        "obp": 0.343,
         "sf": 0,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. UCLA (W 5-4). Hitting .185 with 1 HR through 19 games."
     },
     "6ae66077": {
       "id": "6ae66077",
@@ -309,24 +324,24 @@
       "num": "7",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.254,
-        "ops": 0.697,
-        "ab": 59,
-        "r": 11,
-        "h": 15,
-        "doubles": 3,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.274,
+        "ops": 0.757,
+        "ab": 62,
+        "r": 13,
+        "h": 17,
+        "doubles": 4,
         "triples": 0,
         "hr": 0,
         "rbi": 3,
-        "tb": 18,
-        "slg": 0.305,
-        "bb": 8,
-        "hbp": 6,
+        "tb": 21,
+        "slg": 0.339,
+        "bb": 9,
+        "hbp": 7,
         "so": 7,
         "gdp": 2,
-        "obp": 0.392,
+        "obp": 0.418,
         "sf": 1,
         "sh": 1,
         "sb": 0,
@@ -334,22 +349,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "L 4-5",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 1,
-          "rbi": 1,
-          "bb": 0,
+          "ab": 3,
+          "r": 2,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 1 RBI vs. UMass Lowell (L 4-5). Hitting .254 with 0 HR through 18 games."
+      "narrative": "2/3 with 0 RBI vs. UCLA (W 5-4). Hitting .274 with 0 HR through 19 games."
     },
     "f92e7e7c": {
       "id": "f92e7e7c",
@@ -361,24 +376,24 @@
       "num": "8",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.282,
-        "ops": 0.864,
-        "ab": 71,
-        "r": 13,
-        "h": 20,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.276,
+        "ops": 0.834,
+        "ab": 76,
+        "r": 14,
+        "h": 21,
         "doubles": 4,
         "triples": 1,
         "hr": 4,
-        "rbi": 9,
-        "tb": 38,
-        "slg": 0.535,
+        "rbi": 10,
+        "tb": 39,
+        "slg": 0.513,
         "bb": 3,
         "hbp": 2,
-        "so": 9,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.329,
+        "obp": 0.321,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -398,11 +413,11 @@
       "num": "9",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 13,
-        "gs": 9,
-        "avg": 0.265,
-        "ops": 0.824,
-        "ab": 34,
+        "g": 14,
+        "gs": 10,
+        "avg": 0.243,
+        "ops": 0.759,
+        "ab": 37,
         "r": 6,
         "h": 9,
         "doubles": 2,
@@ -410,12 +425,12 @@
         "hr": 2,
         "rbi": 5,
         "tb": 17,
-        "slg": 0.5,
+        "slg": 0.459,
         "bb": 3,
         "hbp": 0,
         "so": 5,
-        "gdp": 0,
-        "obp": 0.324,
+        "gdp": 1,
+        "obp": 0.3,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -423,22 +438,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 2,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/3 with 0 RBI vs. UCLA (W 5-4). Hitting .243 with 2 HR through 14 games."
     },
     "ec18f79b": {
       "id": "ec18f79b",
@@ -450,47 +465,32 @@
       "num": "11",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 16,
-        "gs": 14,
-        "avg": 0.327,
-        "ops": 0.759,
-        "ab": 55,
+        "g": 17,
+        "gs": 15,
+        "avg": 0.339,
+        "ops": 0.792,
+        "ab": 59,
         "r": 10,
-        "h": 18,
-        "doubles": 0,
+        "h": 20,
+        "doubles": 1,
         "triples": 0,
         "hr": 1,
-        "rbi": 9,
-        "tb": 21,
-        "slg": 0.382,
+        "rbi": 12,
+        "tb": 24,
+        "slg": 0.407,
         "bb": 2,
         "hbp": 3,
-        "so": 11,
+        "so": 12,
         "gdp": 1,
-        "obp": 0.377,
+        "obp": 0.385,
         "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UMass Lowell",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15244&path=baseball",
-        "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 2,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "dh"
-        },
-        "pitching": null
-      },
-      "narrative": "2/3 with 0 RBI vs. UMass Lowell (L 4-7). Hitting .327 with 1 HR through 16 games."
+      "last_game": null,
+      "narrative": null
     },
     "7dad4e3d": {
       "id": "7dad4e3d",
@@ -554,24 +554,24 @@
       "num": "13",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 13,
-        "gs": 6,
-        "avg": 0.261,
-        "ops": 0.65,
-        "ab": 23,
+        "g": 14,
+        "gs": 7,
+        "avg": 0.269,
+        "ops": 0.675,
+        "ab": 26,
         "r": 4,
-        "h": 6,
+        "h": 7,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 4,
-        "tb": 7,
-        "slg": 0.304,
-        "bb": 2,
+        "tb": 8,
+        "slg": 0.308,
+        "bb": 3,
         "hbp": 1,
-        "so": 7,
+        "so": 8,
         "gdp": 1,
-        "obp": 0.346,
+        "obp": 0.367,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -579,22 +579,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 3,
-          "rbi": 1,
-          "bb": 0,
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "lf"
+          "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "3/4 with 1 RBI vs. UMass Lowell (W 13-8). Hitting .260 with 0 HR through 13 games."
+      "narrative": "1/3 with 0 RBI vs. UCLA (W 5-4). Hitting .269 with 0 HR through 14 games."
     },
     "4940297d": {
       "id": "4940297d",
@@ -658,7 +658,7 @@
       "num": "16",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 3,
         "avg": 0.2,
         "ops": 0.4,
@@ -683,22 +683,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 0,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
+          "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. UMass Lowell (W 13-8). Hitting .200 with 0 HR through 10 games."
+      "narrative": null
     },
     "f39dd1e5": {
       "id": "f39dd1e5",
@@ -742,11 +742,11 @@
       "num": "20",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 15,
-        "gs": 10,
-        "avg": 0.225,
-        "ops": 0.714,
-        "ab": 40,
+        "g": 16,
+        "gs": 11,
+        "avg": 0.205,
+        "ops": 0.651,
+        "ab": 44,
         "r": 5,
         "h": 9,
         "doubles": 2,
@@ -754,12 +754,12 @@
         "hr": 2,
         "rbi": 8,
         "tb": 17,
-        "slg": 0.425,
+        "slg": 0.386,
         "bb": 4,
         "hbp": 0,
-        "so": 13,
+        "so": 15,
         "gdp": 0,
-        "obp": 0.289,
+        "obp": 0.265,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -785,22 +785,22 @@
         "opp_avg": ".429"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "L 4-5",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 1,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. UMass Lowell (L 4-5). Hitting .225 with 2 HR through 15 games."
+      "narrative": "0/4 with 0 RBI vs. UCLA (W 5-4). Hitting .204 with 2 HR through 16 games."
     },
     "f324d673": {
       "id": "f324d673",
@@ -813,29 +813,29 @@
       "school": "Pepperdine University",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.11,
-        "whip": 1.89,
+        "era": 6.43,
+        "whip": 1.79,
         "w": 1,
         "l": 3,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 1,
-        "ip": 12.2,
+        "ip": 14.0,
         "h": 18,
         "r": 13,
         "er": 10,
-        "bb": 6,
-        "so": 12,
+        "bb": 7,
+        "so": 13,
         "hr": 1,
         "hbp": 2,
         "wp": 4,
-        "opp_avg": ".327"
+        "opp_avg": ".305"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -847,16 +847,19 @@
         },
         "pitching": {
           "ip": "1.1",
-          "h": 1,
+          "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.1 IP, 1 K vs. UMass Lowell (W 13-8). At 7.38 ERA through 12.2 innings on the season."
+      "narrative": "1.1 IP, 1 K vs. UCLA (W 5-4). At 6.43 ERA through 14.0 innings on the season."
     },
     "8e1a96d5": {
       "id": "8e1a96d5",
@@ -909,7 +912,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 4 K, 3 ER vs. UMass Lowell (L 4-5). At 3.23 ERA through 25.1 innings on the season."
@@ -980,24 +986,8 @@
         "wp": 3,
         "opp_avg": ".265"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UMass Lowell",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15244&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "7.2",
-          "h": 8,
-          "r": 4,
-          "er": 3,
-          "bb": 1,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "7.2 IP, 2 K, 3 ER vs. UMass Lowell (L 4-7). At 6.23 ERA through 26.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "2837c62c": {
       "id": "2837c62c",
@@ -1010,29 +1000,29 @@
       "school": "Pepperdine University",
       "season_batting": null,
       "season_pitching": {
-        "era": 12.0,
-        "whip": 2.17,
+        "era": 12.15,
+        "whip": 2.1,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 6.0,
-        "h": 10,
-        "r": 10,
-        "er": 8,
+        "ip": 6.2,
+        "h": 11,
+        "r": 11,
+        "er": 9,
         "bb": 3,
-        "so": 2,
-        "hr": 1,
+        "so": 3,
+        "hr": 2,
         "hbp": 1,
         "wp": 2,
-        "opp_avg": ".370"
+        "opp_avg": ".355"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1043,17 +1033,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 0,
-          "er": 0,
+          "ip": "0.2",
+          "h": 1,
+          "r": 1,
+          "er": 1,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
-      "narrative": "1.1 IP, 0 K vs. UMass Lowell (W 13-8). At 12.00 ERA through 6.0 innings on the season."
+      "narrative": "0.2 IP, 1 K vs. UCLA (W 5-4). At 13.06 ERA through 6.2 innings on the season."
     },
     "fcf2594c": {
       "id": "fcf2594c",
@@ -1106,7 +1099,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. UMass Lowell (W 13-8). At 17.56 ERA through 4.1 innings on the season."
@@ -1121,11 +1117,11 @@
       "num": "31",
       "school": "Pepperdine University",
       "season_batting": {
-        "g": 16,
-        "gs": 13,
-        "avg": 0.192,
-        "ops": 0.597,
-        "ab": 52,
+        "g": 17,
+        "gs": 14,
+        "avg": 0.182,
+        "ops": 0.565,
+        "ab": 55,
         "r": 4,
         "h": 10,
         "doubles": 3,
@@ -1133,12 +1129,12 @@
         "hr": 2,
         "rbi": 7,
         "tb": 19,
-        "slg": 0.365,
+        "slg": 0.345,
         "bb": 3,
         "hbp": 0,
-        "so": 19,
+        "so": 20,
         "gdp": 0,
-        "obp": 0.232,
+        "obp": 0.22,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -1146,22 +1142,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "L 4-5",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 5,
+          "so": 2,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. UMass Lowell (L 4-5). Hitting .192 with 2 HR through 16 games."
+      "narrative": "0/3 with 0 RBI vs. UCLA (W 5-4). Hitting .181 with 2 HR through 17 games."
     },
     "91421d3c": {
       "id": "91421d3c",
@@ -1174,14 +1170,14 @@
       "school": "Pepperdine University",
       "season_batting": null,
       "season_pitching": {
-        "era": 9.64,
-        "whip": 2.46,
+        "era": 9.0,
+        "whip": 2.3,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 2,
-        "ip": 9.1,
+        "ip": 10.0,
         "h": 10,
         "r": 10,
         "er": 10,
@@ -1190,13 +1186,13 @@
         "hr": 2,
         "hbp": 0,
         "wp": 2,
-        "opp_avg": ".286"
+        "opp_avg": ".270"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "L 4-5",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1207,17 +1203,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
+          "ip": "0.2",
           "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 2,
-          "wp": 1,
-          "hbp": 0
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 2 K vs. UMass Lowell (L 4-5). At 9.89 ERA through 9.1 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. UCLA (W 5-4). At 9.00 ERA through 10.0 innings on the season."
     },
     "8aa6aa4f": {
       "id": "8aa6aa4f",
@@ -1280,32 +1279,8 @@
         "wp": 0,
         "opp_avg": ".346"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UMass Lowell",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15244&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. UMass Lowell (L 4-7). At 22.94 ERA through 5.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "1c22a9a9": {
       "id": "1c22a9a9",
@@ -1350,29 +1325,29 @@
       "school": "Pepperdine University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.74,
-        "whip": 0.97,
+        "era": 1.59,
+        "whip": 1.15,
         "w": 2,
         "l": 1,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 10.1,
-        "h": 7,
+        "ip": 11.1,
+        "h": 8,
         "r": 3,
         "er": 2,
-        "bb": 3,
-        "so": 12,
+        "bb": 5,
+        "so": 13,
         "hr": 1,
         "hbp": 2,
         "wp": 2,
-        "opp_avg": ".194"
+        "opp_avg": ".205"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "L 4-5",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1383,17 +1358,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 2,
-          "er": 1,
-          "bb": 0,
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "2.0 IP, 1 K vs. UMass Lowell (L 4-5). At 1.78 ERA through 10.1 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. UCLA (W 5-4). At 1.62 ERA through 11.1 innings on the season."
     },
     "37519c9a": {
       "id": "37519c9a",
@@ -1480,29 +1458,29 @@
       "school": "Pepperdine University",
       "season_batting": null,
       "season_pitching": {
-        "era": 17.36,
-        "whip": 2.14,
+        "era": 12.15,
+        "whip": 1.8,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 4.2,
-        "h": 7,
+        "ip": 6.2,
+        "h": 8,
         "r": 9,
         "er": 9,
-        "bb": 3,
-        "so": 5,
+        "bb": 4,
+        "so": 7,
         "hr": 0,
         "hbp": 4,
         "wp": 1,
-        "opp_avg": ".333"
+        "opp_avg": ".286"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1513,17 +1491,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "2.0",
+          "h": 1,
           "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 1,
+          "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. UMass Lowell (W 13-8). At 19.29 ERA through 4.2 innings on the season."
+      "narrative": "2.0 IP, 2 K vs. UCLA (W 5-4). At 13.06 ERA through 6.2 innings on the season."
     },
     "ff86e670": {
       "id": "ff86e670",
@@ -1568,7 +1549,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 4 K vs. UMass Lowell (W 13-8). At 9.75 ERA through 12.0 innings on the season."
@@ -1584,26 +1568,53 @@
       "school": "Pepperdine University",
       "season_batting": null,
       "season_pitching": {
-        "era": 10.57,
-        "whip": 1.96,
+        "era": 12.0,
+        "whip": 2.11,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 7,
-        "gs": 0,
-        "ip": 7.2,
-        "h": 10,
-        "r": 9,
-        "er": 9,
+        "g": 8,
+        "gs": 1,
+        "ip": 9.0,
+        "h": 14,
+        "r": 13,
+        "er": 12,
         "bb": 5,
         "so": 3,
-        "hr": 0,
+        "hr": 1,
         "hbp": 2,
         "wp": 2,
-        "opp_avg": ".345"
+        "opp_avg": ".378"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.1",
+          "h": 4,
+          "r": 4,
+          "er": 3,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "1.1 IP, 0 K vs. UCLA (W 5-4). At 12.00 ERA through 9.0 innings on the season."
     },
     "18ca3184": {
       "id": "18ca3184",
@@ -1616,29 +1627,29 @@
       "school": "Pepperdine University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.0,
-        "whip": 1.11,
+        "era": 5.4,
+        "whip": 1.1,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 9.0,
-        "h": 7,
+        "ip": 10.0,
+        "h": 8,
         "r": 6,
         "er": 6,
         "bb": 3,
-        "so": 9,
+        "so": 10,
         "hr": 2,
-        "hbp": 4,
+        "hbp": 5,
         "wp": 4,
-        "opp_avg": ".206"
+        "opp_avg": ".216"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMass Lowell",
-        "result": "L 4-5",
-        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1654,12 +1665,15 @@
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. UMass Lowell (L 4-5). At 6.00 ERA through 9.0 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. UCLA (W 5-4). At 5.40 ERA through 10.0 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

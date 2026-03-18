@@ -2,14 +2,14 @@
   "school": "California State University, Sacramento",
   "base_url": "https://www.hornetsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:55:49.947834Z",
-  "record": "7-13",
+  "generated_at": "2026-03-18T07:41:55.595008Z",
+  "record": "8-13",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "Pacific",
-    "result": "L 6-18",
-    "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
-    "recap_url": "https://www.hornetsports.com/news/2026/3/15/baseball-baseball-breaks-out-the-bats-to-take-finale-with-pacific.aspx",
+    "date": "2026-03-17",
+    "opponent": "San Francisco",
+    "result": "L 3-8",
+    "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
+    "recap_url": "https://www.hornetsports.com/news/2026/3/17/baseball-baseball-scores-early-in-midweek-win-at-san-francisco.aspx",
     "recap_headline": "Sacramento State",
     "recap_text": ""
   },
@@ -24,11 +24,11 @@
       "num": "1",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.25,
-        "ops": 0.718,
-        "ab": 76,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.235,
+        "ops": 0.677,
+        "ab": 81,
         "r": 11,
         "h": 19,
         "doubles": 6,
@@ -36,12 +36,12 @@
         "hr": 0,
         "rbi": 9,
         "tb": 27,
-        "slg": 0.355,
+        "slg": 0.333,
         "bb": 11,
         "hbp": 3,
-        "so": 22,
+        "so": 25,
         "gdp": 2,
-        "obp": 0.363,
+        "obp": 0.344,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
+          "ab": 5,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 4,
+          "bb": 0,
+          "so": 2,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Pacific (L 6-18). Hitting .250 with 0 HR through 20 games."
+      "narrative": "0/5 with 0 RBI vs. San Francisco (L 3-8). Hitting .234 with 0 HR through 21 games."
     },
     "86e29cc1": {
       "id": "86e29cc1",
@@ -76,47 +76,47 @@
       "num": "2",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 13,
-        "gs": 8,
-        "avg": 0.267,
-        "ops": 0.738,
-        "ab": 30,
-        "r": 8,
-        "h": 8,
+        "g": 14,
+        "gs": 9,
+        "avg": 0.265,
+        "ops": 0.817,
+        "ab": 34,
+        "r": 10,
+        "h": 9,
         "doubles": 2,
         "triples": 0,
-        "hr": 0,
-        "rbi": 4,
-        "tb": 10,
-        "slg": 0.333,
-        "bb": 7,
+        "hr": 1,
+        "rbi": 7,
+        "tb": 14,
+        "slg": 0.412,
+        "bb": 8,
         "hbp": 0,
         "so": 10,
         "gdp": 0,
         "obp": 0.405,
         "sf": 0,
         "sh": 0,
-        "sb": 0,
-        "sb_att": 1
+        "sb": 1,
+        "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 3,
-          "h": 2,
-          "rbi": 1,
-          "bb": 2,
+          "r": 2,
+          "h": 1,
+          "rbi": 3,
+          "bb": 1,
           "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 1 RBI vs. Pacific (L 6-18). Hitting .266 with 0 HR through 13 games."
+      "narrative": "1/4 with 3 RBI vs. San Francisco (L 3-8). Hitting .264 with 1 HR through 14 games."
     },
     "c6bc662e": {
       "id": "c6bc662e",
@@ -128,24 +128,24 @@
       "num": "3",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
+        "g": 21,
+        "gs": 21,
         "avg": 0.333,
-        "ops": 0.878,
-        "ab": 69,
+        "ops": 0.882,
+        "ab": 72,
         "r": 10,
-        "h": 23,
+        "h": 24,
         "doubles": 2,
         "triples": 0,
         "hr": 1,
         "rbi": 9,
-        "tb": 28,
-        "slg": 0.406,
-        "bb": 14,
+        "tb": 29,
+        "slg": 0.403,
+        "bb": 16,
         "hbp": 5,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.472,
+        "obp": 0.479,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -180,7 +180,7 @@
       "num": "4",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 17,
+        "g": 18,
         "gs": 15,
         "avg": 0.132,
         "ops": 0.362,
@@ -205,22 +205,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 2,
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 1 RBI vs. Pacific (L 6-18). Hitting .132 with 0 HR through 17 games."
+      "narrative": null
     },
     "3184f3a5": {
       "id": "3184f3a5",
@@ -233,29 +233,29 @@
       "school": "California State University, Sacramento",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.5,
+        "era": 3.38,
+        "whip": 1.13,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 6.0,
+        "ip": 8.0,
         "h": 6,
         "r": 3,
         "er": 3,
         "bb": 3,
-        "so": 6,
+        "so": 9,
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".273"
+        "opp_avg": ".214"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Pacific",
-        "result": "L 3-5",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16434&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -267,16 +267,19 @@
         },
         "pitching": {
           "ip": "2.0",
-          "h": 1,
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 2,
+          "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "2.0 IP, 2 K vs. Pacific (L 3-5). At 4.50 ERA through 6.0 innings on the season."
+      "narrative": "2.0 IP, 3 K vs. San Francisco (L 3-8). At 3.38 ERA through 8.0 innings on the season."
     },
     "f3ef8cf9": {
       "id": "f3ef8cf9",
@@ -288,10 +291,10 @@
       "num": "6",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 16,
+        "g": 17,
         "gs": 15,
         "avg": 0.204,
-        "ops": 0.655,
+        "ops": 0.666,
         "ab": 49,
         "r": 7,
         "h": 10,
@@ -302,17 +305,32 @@
         "tb": 16,
         "slg": 0.327,
         "bb": 4,
-        "hbp": 5,
+        "hbp": 6,
         "so": 14,
         "gdp": 2,
-        "obp": 0.328,
+        "obp": 0.339,
         "sf": 0,
         "sh": 1,
         "sb": 2,
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "6e998762": {
@@ -325,24 +343,24 @@
       "num": "7",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.28,
-        "ops": 0.863,
-        "ab": 50,
-        "r": 16,
-        "h": 14,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.296,
+        "ops": 0.916,
+        "ab": 54,
+        "r": 18,
+        "h": 16,
         "doubles": 3,
-        "triples": 0,
+        "triples": 1,
         "hr": 1,
-        "rbi": 10,
-        "tb": 20,
-        "slg": 0.4,
-        "bb": 10,
+        "rbi": 11,
+        "tb": 24,
+        "slg": 0.444,
+        "bb": 11,
         "hbp": 7,
-        "so": 15,
+        "so": 16,
         "gdp": 1,
-        "obp": 0.463,
+        "obp": 0.472,
         "sf": 0,
         "sh": 0,
         "sb": 6,
@@ -350,22 +368,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 5,
-          "h": 3,
-          "rbi": 5,
-          "bb": 0,
-          "so": 0,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 2,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "3/4 with 5 RBI vs. Pacific (L 6-18). Hitting .280 with 1 HR through 16 games."
+      "narrative": "2/4 with 1 RBI vs. San Francisco (L 3-8). Hitting .296 with 1 HR through 17 games."
     },
     "11934f31": {
       "id": "11934f31",
@@ -378,29 +396,29 @@
       "school": "California State University, Sacramento",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.0,
+        "era": 4.15,
+        "whip": 0.92,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 2,
-        "gs": 2,
-        "ip": 2.0,
-        "h": 0,
-        "r": 1,
-        "er": 1,
+        "g": 3,
+        "gs": 3,
+        "ip": 4.1,
+        "h": 2,
+        "r": 2,
+        "er": 2,
         "bb": 2,
-        "so": 2,
+        "so": 3,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".000"
+        "opp_avg": ".133"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -408,11 +426,23 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "lf"
+          "pos": "p"
         },
-        "pitching": null
+        "pitching": {
+          "ip": "2.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
       },
-      "narrative": null
+      "narrative": "2.1 IP, 1 K vs. San Francisco (L 3-8). At 4.39 ERA through 4.1 innings on the season."
     },
     "4f53d339": {
       "id": "4f53d339",
@@ -424,47 +454,32 @@
       "num": "10",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 19,
-        "gs": 15,
-        "avg": 0.333,
-        "ops": 0.874,
-        "ab": 57,
+        "g": 20,
+        "gs": 16,
+        "avg": 0.328,
+        "ops": 0.86,
+        "ab": 61,
         "r": 9,
-        "h": 19,
+        "h": 20,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
         "rbi": 12,
-        "tb": 26,
-        "slg": 0.456,
+        "tb": 27,
+        "slg": 0.443,
         "bb": 8,
-        "hbp": 1,
+        "hbp": 2,
         "so": 15,
-        "gdp": 1,
-        "obp": 0.418,
+        "gdp": 2,
+        "obp": 0.417,
         "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Pacific",
-        "result": "L 3-5",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16434&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "ss"
-        },
-        "pitching": null
-      },
-      "narrative": "1/1 with 0 RBI vs. Pacific (L 3-5). Hitting .333 with 1 HR through 19 games."
+      "last_game": null,
+      "narrative": null
     },
     "4978c5d1": {
       "id": "4978c5d1",
@@ -476,24 +491,24 @@
       "num": "11",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.289,
-        "ops": 0.815,
-        "ab": 90,
-        "r": 10,
-        "h": 26,
-        "doubles": 4,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.295,
+        "ops": 0.856,
+        "ab": 95,
+        "r": 11,
+        "h": 28,
+        "doubles": 5,
         "triples": 1,
-        "hr": 4,
-        "rbi": 21,
-        "tb": 44,
-        "slg": 0.489,
+        "hr": 5,
+        "rbi": 24,
+        "tb": 50,
+        "slg": 0.526,
         "bb": 5,
         "hbp": 0,
-        "so": 13,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.326,
+        "obp": 0.33,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -501,22 +516,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 5,
-          "r": 2,
-          "h": 3,
-          "rbi": 4,
-          "bb": 1,
-          "so": 0,
+          "r": 1,
+          "h": 2,
+          "rbi": 3,
+          "bb": 0,
+          "so": 1,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "3/5 with 4 RBI vs. Pacific (L 6-18). Hitting .288 with 4 HR through 20 games."
+      "narrative": "2/5 with 3 RBI vs. San Francisco (L 3-8). Hitting .294 with 5 HR through 21 games."
     },
     "65e3f993": {
       "id": "65e3f993",
@@ -528,11 +543,11 @@
       "num": "13",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 10,
-        "gs": 6,
+        "g": 11,
+        "gs": 7,
         "avg": 0.0,
-        "ops": 0.208,
-        "ab": 19,
+        "ops": 0.179,
+        "ab": 23,
         "r": 3,
         "h": 0,
         "doubles": 0,
@@ -543,9 +558,9 @@
         "slg": 0.0,
         "bb": 2,
         "hbp": 3,
-        "so": 9,
+        "so": 11,
         "gdp": 2,
-        "obp": 0.208,
+        "obp": 0.179,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -553,12 +568,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -568,7 +583,7 @@
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/4 with 0 RBI vs. San Francisco (L 3-8). Hitting .000 with 0 HR through 11 games."
     },
     "1eec995a": {
       "id": "1eec995a",
@@ -599,32 +614,8 @@
         "wp": 1,
         "opp_avg": ".275"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Pacific",
-        "result": "L 3-5",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16434&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "3.0",
-          "h": 10,
-          "r": 5,
-          "er": 5,
-          "bb": 0,
-          "so": 2,
-          "wp": 0,
-          "hbp": 1
-        }
-      },
-      "narrative": "3.0 IP, 2 K vs. Pacific (L 3-5). At 3.52 ERA through 23.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "447c2b6e": {
       "id": "447c2b6e",
@@ -636,24 +627,24 @@
       "num": "15",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.237,
-        "ops": 0.734,
-        "ab": 76,
-        "r": 14,
-        "h": 18,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.241,
+        "ops": 0.746,
+        "ab": 79,
+        "r": 16,
+        "h": 19,
         "doubles": 7,
         "triples": 0,
         "hr": 2,
         "rbi": 8,
-        "tb": 31,
-        "slg": 0.408,
-        "bb": 8,
+        "tb": 32,
+        "slg": 0.405,
+        "bb": 10,
         "hbp": 2,
-        "so": 25,
+        "so": 26,
         "gdp": 1,
-        "obp": 0.326,
+        "obp": 0.341,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -714,7 +705,10 @@
           "bb": 2,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 2 K vs. Pacific (W 7-6). At 4.86 ERA through 11.1 innings on the season."
@@ -729,7 +723,7 @@
       "num": "17",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 7,
+        "g": 8,
         "gs": 4,
         "avg": 0.071,
         "ops": 0.293,
@@ -785,32 +779,8 @@
         "wp": 1,
         "opp_avg": ".333"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Pacific",
-        "result": "L 3-5",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16434&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "2.0 IP, 3 K vs. Pacific (L 3-5). At 7.78 ERA through 8.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "695b84cb": {
       "id": "695b84cb",
@@ -846,23 +816,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Pacific",
-        "result": "L 3-5",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16434&path=baseball",
-        "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "dh"
-        },
-        "pitching": null
-      },
-      "narrative": "0/4 with 0 RBI vs. Pacific (L 3-5). Hitting .272 with 0 HR through 12 games."
+      "last_game": null,
+      "narrative": null
     },
     "c681d767": {
       "id": "c681d767",
@@ -875,29 +830,29 @@
       "school": "California State University, Sacramento",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.69,
-        "whip": 0.94,
+        "era": 2.7,
+        "whip": 1.08,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 3,
-        "ip": 16.0,
-        "h": 11,
-        "r": 4,
-        "er": 3,
-        "bb": 4,
-        "so": 10,
+        "ip": 16.2,
+        "h": 13,
+        "r": 6,
+        "er": 5,
+        "bb": 5,
+        "so": 11,
         "hr": 1,
         "hbp": 2,
         "wp": 2,
-        "opp_avg": ".193"
+        "opp_avg": ".213"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Pacific",
-        "result": "W 7-6",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16435&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -908,17 +863,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "3.0",
+          "ip": "0.2",
           "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "3.0 IP, 2 K vs. Pacific (W 7-6). At 1.69 ERA through 16.0 innings on the season."
+      "narrative": "0.2 IP, 1 K vs. San Francisco (L 3-8). At 2.78 ERA through 16.2 innings on the season."
     },
     "98e420a5": {
       "id": "98e420a5",
@@ -1003,7 +961,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. Pacific (L 6-18). At 3.12 ERA through 20.2 innings on the season."
@@ -1091,7 +1052,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 3 K vs. Pacific (L 6-18). At 2.90 ERA through 3.1 innings on the season."
@@ -1171,29 +1135,29 @@
       "school": "California State University, Sacramento",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.36,
-        "whip": 1.36,
-        "w": 1,
+        "era": 6.23,
+        "whip": 1.15,
+        "w": 2,
         "l": 1,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 7.1,
+        "ip": 8.2,
         "h": 8,
         "r": 6,
         "er": 6,
         "bb": 2,
-        "so": 8,
+        "so": 11,
         "hr": 2,
         "hbp": 2,
         "wp": 2,
-        "opp_avg": ".267"
+        "opp_avg": ".235"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Pacific",
-        "result": "L 3-5",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16434&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1204,17 +1168,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
+          "ip": "1.1",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 4,
+          "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "2.0 IP, 4 K vs. Pacific (L 3-5). At 7.61 ERA through 7.1 innings on the season."
+      "narrative": "1.1 IP, 3 K vs. San Francisco (L 3-8). At 6.59 ERA through 8.2 innings on the season."
     },
     "d5f1005f": {
       "id": "d5f1005f",
@@ -1227,29 +1194,29 @@
       "school": "California State University, Sacramento",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.0,
-        "whip": 1.17,
+        "era": 5.14,
+        "whip": 1.0,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 6.0,
+        "ip": 7.0,
         "h": 4,
         "r": 4,
         "er": 4,
         "bb": 3,
-        "so": 6,
+        "so": 7,
         "hr": 0,
         "hbp": 0,
         "wp": 3,
-        "opp_avg": ".182"
+        "opp_avg": ".160"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Pacific",
-        "result": "W 7-6",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16435&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1260,17 +1227,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 0,
-          "wp": 2,
-          "hbp": 0
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "0.1 IP, 0 K vs. Pacific (W 7-6). At 6.00 ERA through 6.0 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. San Francisco (L 3-8). At 5.14 ERA through 7.0 innings on the season."
     },
     "e4f6e899": {
       "id": "e4f6e899",
@@ -1334,24 +1304,24 @@
       "num": "35",
       "school": "California State University, Sacramento",
       "season_batting": {
-        "g": 13,
-        "gs": 11,
-        "avg": 0.184,
-        "ops": 0.422,
-        "ab": 38,
-        "r": 5,
-        "h": 7,
-        "doubles": 0,
+        "g": 14,
+        "gs": 12,
+        "avg": 0.209,
+        "ops": 0.488,
+        "ab": 43,
+        "r": 6,
+        "h": 9,
+        "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 6,
-        "tb": 7,
-        "slg": 0.184,
+        "rbi": 7,
+        "tb": 10,
+        "slg": 0.233,
         "bb": 3,
         "hbp": 0,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.238,
+        "obp": 0.255,
         "sf": 1,
         "sh": 2,
         "sb": 1,
@@ -1359,22 +1329,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Pacific",
-        "result": "L 6-18",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16436&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 5,
-          "r": 2,
-          "h": 1,
-          "rbi": 0,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
           "so": 2,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "1/5 with 0 RBI vs. Pacific (L 6-18). Hitting .184 with 0 HR through 13 games."
+      "narrative": "2/5 with 1 RBI vs. San Francisco (L 3-8). Hitting .209 with 0 HR through 14 games."
     },
     "390c7dc9": {
       "id": "390c7dc9",
@@ -1387,26 +1357,53 @@
       "school": "California State University, Sacramento",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.71,
-        "whip": 1.71,
+        "era": 6.0,
+        "whip": 2.0,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 2,
+        "g": 3,
         "gs": 0,
-        "ip": 2.1,
-        "h": 2,
+        "ip": 3.0,
+        "h": 3,
         "r": 2,
         "er": 2,
-        "bb": 2,
+        "bb": 3,
         "so": 3,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".222"
+        "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 0 K vs. San Francisco (L 3-8). At 6.00 ERA through 3.0 innings on the season."
     },
     "29b571c4": {
       "id": "29b571c4",
@@ -1459,7 +1456,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Pacific (W 7-6). At 6.69 ERA through 12.1 innings on the season."
@@ -1475,29 +1475,29 @@
       "school": "California State University, Sacramento",
       "season_batting": null,
       "season_pitching": {
-        "era": 11.57,
-        "whip": 1.71,
+        "era": 9.53,
+        "whip": 1.59,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 4.2,
-        "h": 5,
+        "ip": 5.2,
+        "h": 6,
         "r": 6,
         "er": 6,
         "bb": 3,
-        "so": 3,
+        "so": 6,
         "hr": 1,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".278"
+        "opp_avg": ".273"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Pacific",
-        "result": "W 7-6",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16435&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1509,16 +1509,19 @@
         },
         "pitching": {
           "ip": "1.0",
-          "h": 0,
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 2,
+          "bb": 0,
+          "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 2 K vs. Pacific (W 7-6). At 12.86 ERA through 4.2 innings on the season."
+      "narrative": "1.0 IP, 3 K vs. San Francisco (L 3-8). At 10.38 ERA through 5.2 innings on the season."
     },
     "4f1d5905": {
       "id": "4f1d5905",
@@ -1603,7 +1606,10 @@
           "bb": 2,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 5 K vs. Pacific (L 6-18). At 6.18 ERA through 13.1 innings on the season."

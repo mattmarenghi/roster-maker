@@ -2,7 +2,7 @@
   "school": "Northwestern State University",
   "base_url": "https://www.nsudemons.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:09:32.570459Z",
+  "generated_at": "2026-03-18T07:55:18.656455Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -20,7 +20,7 @@
       "fn": "Sam",
       "ln": "Ardoin",
       "pos": "INF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "2",
       "school": "Northwestern State University",
       "season_batting": {
@@ -72,7 +72,7 @@
       "fn": "Hudson",
       "ln": "Brignac",
       "pos": "INF",
-      "yr": "",
+      "yr": "So.",
       "num": "3",
       "school": "Northwestern State University",
       "season_batting": {
@@ -109,7 +109,7 @@
       "fn": "Connor",
       "ln": "Wilson",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Gr.",
       "num": "4",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -141,7 +141,7 @@
       "fn": "Caden",
       "ln": "Fiveash",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "5",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -173,7 +173,7 @@
       "fn": "Jacob",
       "ln": "LeBlanc",
       "pos": "LHP",
-      "yr": "",
+      "yr": "So.",
       "num": "6",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -205,7 +205,7 @@
       "fn": "Trent",
       "ln": "Hillen",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "8",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -250,7 +250,10 @@
           "bb": 2,
           "so": 10,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 10 K, 3 ER vs. Texas AM-Corpus Christi (W 4-3). At 5.50 ERA through 26.2 innings on the season."
@@ -261,7 +264,7 @@
       "fn": "Thomas",
       "ln": "Marsala III",
       "pos": "UT",
-      "yr": "",
+      "yr": "Sr.",
       "num": "9",
       "school": "Northwestern State University",
       "season_batting": {
@@ -298,7 +301,7 @@
       "fn": "Wesley",
       "ln": "Marien",
       "pos": "RHP",
-      "yr": "",
+      "yr": "So.",
       "num": "11",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -343,7 +346,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "2.2 IP, 1 K vs. Texas AM-Corpus Christi (W 5-1). At 2.98 ERA through 18.1 innings on the season."
@@ -354,7 +360,7 @@
       "fn": "Bryce",
       "ln": "Leonard",
       "pos": "RHP/INF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "12",
       "school": "Northwestern State University",
       "season_batting": {
@@ -424,7 +430,7 @@
       "fn": "Kevin",
       "ln": "Robinson",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "13",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -469,7 +475,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 0 K vs. Texas AM-Corpus Christi (W 10-4). At 0.86 ERA through 21.0 innings on the season."
@@ -480,7 +489,7 @@
       "fn": "Grant",
       "ln": "Comeaux",
       "pos": "INF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "14",
       "school": "Northwestern State University",
       "season_batting": {
@@ -532,7 +541,7 @@
       "fn": "JC",
       "ln": "Acosta",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "15",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -564,7 +573,7 @@
       "fn": "Zach",
       "ln": "White",
       "pos": "INF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "16",
       "school": "Northwestern State University",
       "season_batting": {
@@ -619,7 +628,7 @@
       "fn": "Michael",
       "ln": "McAloose",
       "pos": "INF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "19",
       "school": "Northwestern State University",
       "season_batting": {
@@ -656,7 +665,7 @@
       "fn": "Bryce",
       "ln": "Johnson",
       "pos": "OF",
-      "yr": "",
+      "yr": "Sr.",
       "num": "20",
       "school": "Northwestern State University",
       "season_batting": {
@@ -708,7 +717,7 @@
       "fn": "J.T.",
       "ln": "Simonelli",
       "pos": "OF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "22",
       "school": "Northwestern State University",
       "season_batting": {
@@ -760,7 +769,7 @@
       "fn": "Joe",
       "ln": "Siervo",
       "pos": "OF",
-      "yr": "",
+      "yr": "Sr.",
       "num": "23",
       "school": "Northwestern State University",
       "season_batting": {
@@ -812,7 +821,7 @@
       "fn": "Carter",
       "ln": "White",
       "pos": "LHP",
-      "yr": "",
+      "yr": "So.",
       "num": "24",
       "school": "Northwestern State University",
       "season_batting": {
@@ -867,7 +876,7 @@
       "fn": "Ethan",
       "ln": "Menard",
       "pos": "UT",
-      "yr": "",
+      "yr": "Sr.",
       "num": "25",
       "school": "Northwestern State University",
       "season_batting": {
@@ -919,7 +928,7 @@
       "fn": "Sebastian",
       "ln": "Huerta",
       "pos": "C",
-      "yr": "",
+      "yr": "Sr.",
       "num": "26",
       "school": "Northwestern State University",
       "season_batting": {
@@ -971,7 +980,7 @@
       "fn": "Chase",
       "ln": "Prestwich",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Gr.",
       "num": "27",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1003,7 +1012,7 @@
       "fn": "Lane",
       "ln": "Lusk",
       "pos": "OF",
-      "yr": "",
+      "yr": "So.",
       "num": "30",
       "school": "Northwestern State University",
       "season_batting": {
@@ -1055,7 +1064,7 @@
       "fn": "Mason",
       "ln": "Wray",
       "pos": "C",
-      "yr": "",
+      "yr": "Sr.",
       "num": "31",
       "school": "Northwestern State University",
       "season_batting": {
@@ -1107,7 +1116,7 @@
       "fn": "Brody",
       "ln": "Trosclair",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "33",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1144,7 +1153,10 @@
           "bb": 2,
           "so": 8,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.1 IP, 8 K, 1 ER vs. Texas AM-Corpus Christi (W 5-1). At 0.45 ERA through 20.0 innings on the season."
@@ -1155,7 +1167,7 @@
       "fn": "Colin",
       "ln": "Rains",
       "pos": "OF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "35",
       "school": "Northwestern State University",
       "season_batting": {
@@ -1207,7 +1219,7 @@
       "fn": "Dylan",
       "ln": "Marionneaux",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "36",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1244,7 +1256,10 @@
           "bb": 1,
           "so": 9,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.1 IP, 9 K, 3 ER vs. Texas AM-Corpus Christi (W 10-4). At 4.96 ERA through 27.2 innings on the season."
@@ -1255,7 +1270,7 @@
       "fn": "Lucas",
       "ln": "Harrington",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "37",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1300,7 +1315,10 @@
           "bb": 2,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. Texas AM-Corpus Christi (W 4-3). At 1.61 ERA through 11.2 innings on the season."
@@ -1311,7 +1329,7 @@
       "fn": "Brooks",
       "ln": "Leonard",
       "pos": "OF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "39",
       "school": "Northwestern State University",
       "season_batting": {
@@ -1381,7 +1399,7 @@
       "fn": "Noah",
       "ln": "Spears",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "40",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1413,7 +1431,7 @@
       "fn": "Logan",
       "ln": "Trotter",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "41",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1445,7 +1463,7 @@
       "fn": "Noah",
       "ln": "McNeil",
       "pos": "C",
-      "yr": "",
+      "yr": "So.",
       "num": "43",
       "school": "Northwestern State University",
       "season_batting": {
@@ -1497,7 +1515,7 @@
       "fn": "Brock",
       "ln": "Davis",
       "pos": "INF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "45",
       "school": "Northwestern State University",
       "season_batting": {
@@ -1534,7 +1552,7 @@
       "fn": "Caleb",
       "ln": "Muffoletto",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "46",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1566,7 +1584,7 @@
       "fn": "Colton",
       "ln": "Harrison",
       "pos": "1B/OF",
-      "yr": "",
+      "yr": "So.",
       "num": "47",
       "school": "Northwestern State University",
       "season_batting": {
@@ -1618,7 +1636,7 @@
       "fn": "Kade",
       "ln": "Bryant",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "54",
       "school": "Northwestern State University",
       "season_batting": null,
@@ -1650,7 +1668,7 @@
       "fn": "Austin",
       "ln": "Ellis",
       "pos": "C",
-      "yr": "",
+      "yr": "So.",
       "num": "55",
       "school": "Northwestern State University",
       "season_batting": {

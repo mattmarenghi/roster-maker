@@ -2,7 +2,7 @@
   "school": "Harvard University",
   "base_url": "https://gocrimson.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:01:02.151600Z",
+  "generated_at": "2026-03-18T07:47:20.400382Z",
   "record": "1-12",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -88,7 +88,10 @@
           "bb": 2,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. California Baptist (L 12-14). At 15.75 ERA through 8.0 innings on the season."
@@ -415,7 +418,10 @@
           "bb": 2,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. California Baptist (L 12-14). At 15.75 ERA through 8.0 innings on the season."
@@ -471,7 +477,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 3 K vs. California Baptist (W 3-2). At 3.46 ERA through 5.2 innings on the season."
@@ -631,7 +640,10 @@
           "bb": 1,
           "so": 2,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. California Baptist (W 11-4). At 8.85 ERA through 6.1 innings on the season."
@@ -724,7 +736,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "0.2 IP, 0 K vs. California Baptist (L 12-14). At 0.00 ERA through 3.2 innings on the season."
@@ -887,7 +902,10 @@
           "bb": 2,
           "so": 1,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. California Baptist (L 12-14). At 4.35 ERA through 6.2 innings on the season."
@@ -943,7 +961,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 1 K vs. California Baptist (L 12-14). At 7.71 ERA through 14.0 innings on the season."
@@ -999,7 +1020,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.2 IP, 2 K, 1 ER vs. California Baptist (W 3-2). At 4.46 ERA through 20.2 innings on the season."
@@ -1159,7 +1183,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 0 K vs. California Baptist (L 12-14). At 24.00 ERA through 3.0 innings on the season."
@@ -1289,7 +1316,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. California Baptist (L 12-14). At 9.00 ERA through 2.0 innings on the season."
@@ -1382,7 +1412,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 4 K vs. California Baptist (W 11-4). At 7.58 ERA through 19.0 innings on the season."

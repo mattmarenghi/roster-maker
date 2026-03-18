@@ -2,13 +2,13 @@
   "school": "Le Moyne College",
   "base_url": "https://www.lemoynedolphins.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:03:40.808981Z",
+  "generated_at": "2026-03-18T07:49:48.855545Z",
   "record": "4-11",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "New Haven",
     "result": "L 5-6",
-    "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+    "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
     "recap_url": "https://www.lemoynedolphins.com/news/2026/3/15/bsbNewHaven3.aspx",
     "recap_headline": "Le Moyne College Athletics",
     "recap_text": ""
@@ -163,7 +163,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -215,7 +215,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -304,7 +304,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -374,7 +374,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -532,7 +532,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -584,7 +584,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -631,7 +631,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -649,7 +649,10 @@
           "bb": 4,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. New Haven (W 13-6). At 15.56 ERA through 8.1 innings on the season."
@@ -687,7 +690,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -705,7 +708,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. New Haven (W 13-6). At 9.00 ERA through 1.0 innings on the season."
@@ -775,7 +781,7 @@
         "date": "2026-03-14",
         "opponent": "New Haven",
         "result": "L 1-13",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -793,7 +799,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "7.0 IP, 3 K, 1 ER vs. New Haven (L 1-13). At 17.05 ERA through 19.0 innings on the season."
@@ -836,7 +845,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -925,7 +934,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1004,7 +1013,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1022,7 +1031,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "1.2 IP, 2 K vs. New Haven (L 5-6). At 13.66 ERA through 11.2 innings on the season."
@@ -1134,7 +1146,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1152,7 +1164,10 @@
           "bb": 4,
           "so": 4,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 4 K vs. New Haven (L 5-6). At 11.47 ERA through 10.2 innings on the season."
@@ -1190,7 +1205,7 @@
         "date": "2026-03-14",
         "opponent": "New Haven",
         "result": "L 1-13",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1208,7 +1223,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. New Haven (L 1-13). At 8.02 ERA through 10.1 innings on the season."
@@ -1246,7 +1264,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1264,7 +1282,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 2 K vs. New Haven (L 5-6). At 2.90 ERA through 6.2 innings on the season."
@@ -1302,7 +1323,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1320,7 +1341,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 0 K vs. New Haven (L 5-6). At 17.65 ERA through 5.1 innings on the season."
@@ -1358,7 +1382,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1376,7 +1400,10 @@
           "bb": 2,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 0 K vs. New Haven (W 13-6). At 9.00 ERA through 4.0 innings on the season."
@@ -1414,7 +1441,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1432,7 +1459,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 0 K vs. New Haven (W 13-6). At 6.63 ERA through 19.0 innings on the season."
@@ -1493,7 +1523,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
         "batting": {
           "ab": 2,
           "r": 1,

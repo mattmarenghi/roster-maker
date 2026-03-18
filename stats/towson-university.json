@@ -2,7 +2,7 @@
   "school": "Towson University",
   "base_url": "https://www.towsontigers.com",
   "season": "2026",
-  "generated_at": "2026-03-18T02:12:18.511508Z",
+  "generated_at": "2026-03-18T08:03:34.348204Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -137,23 +137,8 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Monmouth University",
-        "result": "L 4-12",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29496&path=",
-        "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 2,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "ss"
-        },
-        "pitching": null
-      },
-      "narrative": "2/4 with 1 RBI vs. Monmouth University (L 4-12). Hitting .254 with 0 HR through 16 games."
+      "last_game": null,
+      "narrative": null
     },
     "92306d8e": {
       "id": "92306d8e",
@@ -389,23 +374,8 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Monmouth University",
-        "result": "L 1-4",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29494&path=",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ph"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Monmouth University (L 1-4). Hitting .285 with 0 HR through 12 games."
+      "last_game": null,
+      "narrative": null
     },
     "fb09fd45": {
       "id": "fb09fd45",
@@ -919,35 +889,8 @@
         "wp": 3,
         "opp_avg": ".364"
       },
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Monmouth University",
-        "result": "L 4-12",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29496&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 0,
-          "r": 1,
-          "er": 0,
-          "bb": 2,
-          "so": 0,
-          "wp": 0,
-          "hbp": 1,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "0.2 IP, 0 K vs. Monmouth University (L 4-12). At 24.15 ERA through 4.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "a397bd53": {
       "id": "a397bd53",
@@ -1042,23 +985,8 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Monmouth University",
-        "result": "L 4-12",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29496&path=",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ph"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Monmouth University (L 4-12). Hitting .241 with 0 HR through 11 games."
+      "last_game": null,
+      "narrative": null
     },
     "09a2a599": {
       "id": "09a2a599",

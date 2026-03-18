@@ -2,7 +2,7 @@
   "school": "Saint Louis University",
   "base_url": "https://www.slubillikens.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:12:51.086227Z",
+  "generated_at": "2026-03-18T07:58:22.792303Z",
   "record": "9-11",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -258,7 +258,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 2.2 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
@@ -425,7 +428,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -481,7 +487,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 0.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -537,7 +546,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -593,7 +605,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -649,7 +664,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -826,7 +844,10 @@
           "bb": 2,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1038,7 +1059,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 0.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1164,7 +1188,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 7.0 innings. Struck out 3 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
@@ -1284,7 +1311,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 3.2 innings. Allowed 3 earned run(s) with 3 strikeout(s)."
@@ -1340,7 +1370,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -1428,7 +1461,10 @@
           "bb": 4,
           "so": 4,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Dayton, throwing 6.0 innings. Struck out 4 while allowing just 2 hit(s) and 0 earned run(s) in a quality start."

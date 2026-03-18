@@ -2,7 +2,7 @@
   "school": "Fordham University",
   "base_url": "https://www.fordhamsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:00:10.015165Z",
+  "generated_at": "2026-03-18T07:46:22.291341Z",
   "record": "8-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -223,7 +223,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Davidson (L 3-26). At 2.57 ERA through 7.0 innings on the season."
@@ -279,7 +282,10 @@
           "bb": 1,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 5 K vs. Davidson (L 3-26). At 5.62 ERA through 11.2 innings on the season."
@@ -335,7 +341,10 @@
           "bb": 2,
           "so": 7,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 7 K vs. Davidson (W 9-8). At 5.84 ERA through 26.2 innings on the season."
@@ -549,7 +558,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. Davidson (L 3-26). At 8.42 ERA through 17.1 innings on the season."
@@ -605,7 +617,10 @@
           "bb": 1,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 4 K vs. Davidson (W 9-8). At 3.19 ERA through 14.1 innings on the season."
@@ -762,7 +777,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Davidson (L 4-6). At 3.41 ERA through 13.2 innings on the season."
@@ -818,7 +836,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Davidson (L 3-26). At 13.50 ERA through 6.0 innings on the season."
@@ -1270,7 +1291,10 @@
           "bb": 2,
           "so": 13,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0/1 with 0 RBI vs. Davidson (L 4-6). Hitting .214 with 3 HR through 10 games."

@@ -2,7 +2,7 @@
   "school": "University of California, San Diego",
   "base_url": "https://www.ucsdtritons.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:21:11.976708Z",
+  "generated_at": "2026-03-18T08:06:17.657633Z",
   "record": "7-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -258,7 +258,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 2 K vs. CSUN (L 4-12). At 4.12 ERA through 13.1 innings on the season."
@@ -383,7 +386,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. CSUN (L 4-12). At 8.47 ERA through 17.0 innings on the season."
@@ -476,7 +482,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. CSUN (L 4-12). At 13.70 ERA through 9.2 innings on the season."
@@ -621,7 +630,10 @@
           "bb": 1,
           "so": 4,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 4 K vs. CSUN (L 16-17). At 4.02 ERA through 11.2 innings on the season."
@@ -709,7 +721,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 3 ER vs. CSUN (L 4-12). At 5.00 ERA through 16.2 innings on the season."
@@ -958,7 +973,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1014,7 +1032,10 @@
           "bb": 3,
           "so": 7,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 7 K, 5 ER vs. CSUN (L 16-17). At 9.42 ERA through 19.1 innings on the season."
@@ -1245,7 +1266,10 @@
           "bb": 0,
           "so": 4,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 4 K, 2 ER vs. CSUN (L 4-6). At 8.92 ERA through 23.2 innings on the season."
@@ -1301,7 +1325,10 @@
           "bb": 0,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 5 K vs. CSUN (L 4-6). At 9.00 ERA through 8.0 innings on the season."

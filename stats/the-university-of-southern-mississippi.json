@@ -2,16 +2,16 @@
   "school": "The University of Southern Mississippi",
   "base_url": "https://www.southernmiss.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:17:59.580716Z",
+  "generated_at": "2026-03-18T08:03:20.627388Z",
   "record": "3-6",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "Arkansas State",
-    "result": "L",
-    "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
-    "recap_url": "https://www.southernmiss.com/news/2026/3/15/baseball-drops-series-finale-sunday-5-2-at-arkansas-state",
+    "date": "2026-03-17",
+    "opponent": "Nicholls",
+    "result": "W",
+    "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
+    "recap_url": "https://www.southernmiss.com/news/2026/3/17/baseball-blanks-nicholls-4-0-in-biloxi-tuesday-night",
     "recap_headline": "University of Southern Mississippi Athletics",
-    "recap_text": "JONESBORO, Ark. \u2013\nArkansas State took advantage of two first-inning Southern Miss errors and added a pair of solo homers in the eighth to defeat the No. 7 Golden Eagles 5-2 Sunday afternoon at Tomlinson Stadium to win a Sun Belt Conference series.\nSouthern Miss (16-4 overall, 1-2 Sun Belt) dropped its first league series since losing two of three at Marshall last April. A-State improved to 15-6, 2-1.\nThe Red Wolves jumped out early with three runs in the bottom of the first. After two were out,\nMcCarty English\nsurrendered a single to Patrick Engskov before giving up a walk to Evan Griffis. English then got a ground ball to short that initially appeared to end the inning, but it was misplayed by\nSeth Smith\nthat allowed the first run to score. After a wild pitch to give A-State its second run, English got another ground ball, but it was booted by\nKyle Morrison\nto allow the third run to score.\nSouthern Miss cut into the lead with a solo run in the fourth. With two outs,\nDavis Gillespie\ndoubled to left center.\nBen Higdon\nmoved Gillespie up a base with an infield single, before scoring on a failed pickoff to get Higdon at first was thrown wild.\nThe Golden Eagles then cut the deficit to a run when\nJoey Urban\nhomered to the opposite field, notching his seventh long ball of the season over the right field wall.\nSouthern Miss then had opportunities in both the seventh and eighth innings to get runs but came up empty\nHigdon walked to open the seventh to chase Red Wolves starter Dylan Farley. After a strikeout,\nKyle Morrison\ndoubled to left center to put a pair of runners in scoring position. A-State, though, got another strikeout and a flyout to left to end the inning.\nThe Golden Eagles left two more runners on base in the eighth after loading them with one out. With two outs, a Red Wolves pitch got away from the catcher but ricocheted back to him off the backstop and Urban was tagged out at home to end the threat.\nA-State then added to its lead with solo home runs in the bottom of the frame from Griffis and Cason Campbell.\nFarley went six-plus innings to get the win and improve to 3-0 as he gave up both runs (one earned) on three hits and two walks with four strikeouts. English (1-1) suffered the loss by allowing three unearned runs on four this with two walks and three strikeouts to suffer the defeat.\nCooper Garrison got the final four outs for the Red Wolves to earn his third save.\nThe Golden Eagles now set their sights on Nicholls, who they will play Tuesday at Keesler Federal Ballpark in Biloxi. Game time is set for 6 p.m."
+    "recap_text": "BILOXI, Miss. \u2013\nEight different Southern Miss pitchers limited Nicholls to four hits as the No. 12 Golden Eagles blanked the Colonels 4-0 Tuesday night at Keesler Federal Park in front of 3,023.\nThe Golden Eagles (17-4) snapped a two-game losing streak to the Colonels (11-12) as they registered their second shutout of the season.\nDylan Causey\nstarted for the Golden Eagles and worked around two hits in his inning stint. He was then relieved by\nBruce Littleton\n,\nCamden Sunstrom\n,\nTeague Broadhead\n,\nJW Armistead\n,\nColby Allen\n,\nJosh Och\nand\nCamden Clark\nas the Colonels registered just five base runners after the first inning on two singles and three walks.\nLittleton walked a pair of hitters in the second and was relieved by Sunstrom who retired all eight batters he faced, which included three strikeouts, to earn the victory and improve to 2-1.\nThe Golden Eagles scored in each of the middle innings to pull ahead in the contest.\nBen Higdon\ndrove in the first run in the fourth on a sacrifice fly to the shortstop in short left field in the fourth to start the scoring.\nKyle Morrison\n, who was the only Golden Eagle with multiple hits collecting a pair of doubles, recorded an RBI two-base hit in the fifth, before\nSeth Smith\nknocked in a run on a fielder's choice in the sixth and\nGray Eubanks\ncompleted the scoring in the frame with a sacrifice fly.\nNicholls starter Dawson Richard (2-1) went five innings and allowed two runs (one earned) on three hits with two walks and four strikeouts to suffer the loss.\nThe Golden Eagles return to action Friday when they play host to Troy in the first of a three-game Sun Belt series at Pete Taylor Park/Hill Denson Field. Game time for the opener is 6 p.m."
   },
   "players": {
     "2a588962": {
@@ -24,11 +24,11 @@
       "num": "1",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.36,
-        "ops": 1.21,
-        "ab": 75,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.342,
+        "ops": 1.154,
+        "ab": 79,
         "r": 23,
         "h": 27,
         "doubles": 2,
@@ -36,12 +36,12 @@
         "hr": 7,
         "rbi": 21,
         "tb": 54,
-        "slg": 0.72,
+        "slg": 0.684,
         "bb": 17,
         "hbp": 3,
-        "so": 10,
+        "so": 11,
         "gdp": 1,
-        "obp": 0.49,
+        "obp": 0.47,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -49,25 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
-          "hr": 1,
+          "hr": 0,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against Arkansas State. Hit 1 home run(s). Contributed at the plate in the team's L."
+      "narrative": "0/4 with 0 RBI vs. Nicholls (W). Hitting .341 with 7 HR through 21 games."
     },
     "ccfa475a": {
       "id": "ccfa475a",
@@ -134,24 +134,24 @@
       "num": "3",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 18,
-        "gs": 15,
-        "avg": 0.327,
-        "ops": 0.807,
-        "ab": 55,
+        "g": 19,
+        "gs": 16,
+        "avg": 0.305,
+        "ops": 0.755,
+        "ab": 59,
         "r": 11,
         "h": 18,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
-        "rbi": 11,
+        "rbi": 12,
         "tb": 24,
-        "slg": 0.436,
+        "slg": 0.407,
         "bb": 4,
         "hbp": 1,
         "so": 11,
         "gdp": 1,
-        "obp": 0.371,
+        "obp": 0.348,
         "sf": 2,
         "sh": 1,
         "sb": 1,
@@ -159,15 +159,15 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
           "hr": 0,
@@ -177,7 +177,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Arkansas State. Struggled to make contact."
+      "narrative": "0/4 with 1 RBI vs. Nicholls (W). Hitting .305 with 1 HR through 19 games."
     },
     "74431614": {
       "id": "74431614",
@@ -300,42 +300,45 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.16,
-        "whip": 1.56,
+        "era": 3.04,
+        "whip": 1.54,
         "w": 1,
         "l": 1,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 5,
-        "ip": 25.2,
-        "h": 31,
+        "ip": 26.2,
+        "h": 32,
         "r": 13,
         "er": 9,
         "bb": 9,
-        "so": 21,
+        "so": 23,
         "hr": 3,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".304"
+        "opp_avg": ".302"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
-          "ip": "5.0",
-          "h": 6,
-          "r": 3,
-          "er": 3,
-          "bb": 3,
-          "so": 3,
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Arkansas State, throwing 5.0 innings. Struck out 3 while allowing just 6 hit(s) and 3 earned run(s) in a quality start."
+      "narrative": "1.0 IP, 2 K vs. Nicholls (W). At 3.09 ERA through 26.2 innings on the season."
     },
     "010df996": {
       "id": "010df996",
@@ -347,50 +350,50 @@
       "num": "7",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.25,
-        "ops": 0.762,
-        "ab": 76,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.253,
+        "ops": 0.767,
+        "ab": 79,
         "r": 13,
-        "h": 19,
-        "doubles": 5,
+        "h": 20,
+        "doubles": 6,
         "triples": 0,
         "hr": 2,
-        "rbi": 7,
-        "tb": 30,
-        "slg": 0.395,
+        "rbi": 8,
+        "tb": 32,
+        "slg": 0.405,
         "bb": 12,
         "hbp": 2,
-        "so": 18,
+        "so": 19,
         "gdp": 1,
-        "obp": 0.367,
-        "sf": 0,
+        "obp": 0.362,
+        "sf": 1,
         "sh": 4,
         "sb": 1,
         "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
           "ab": 3,
           "r": 0,
           "h": 1,
-          "rbi": 0,
-          "bb": 1,
-          "so": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Arkansas State. Contributed at the plate in the team's L."
+      "narrative": "1/3 with 1 RBI vs. Nicholls (W). Hitting .253 with 2 HR through 21 games."
     },
     "2cc8325f": {
       "id": "2cc8325f",
@@ -402,25 +405,25 @@
       "num": "8",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 3,
-        "gs": 0,
+        "g": 4,
+        "gs": 1,
         "avg": 0.2,
-        "ops": 0.4,
+        "ops": 0.575,
         "ab": 5,
-        "r": 2,
+        "r": 3,
         "h": 1,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
-        "rbi": 1,
+        "rbi": 2,
         "tb": 1,
         "slg": 0.2,
-        "bb": 0,
+        "bb": 2,
         "hbp": 0,
         "so": 3,
         "gdp": 0,
-        "obp": 0.2,
-        "sf": 0,
+        "obp": 0.375,
+        "sf": 1,
         "sh": 0,
         "sb": 0,
         "sb_att": 0
@@ -512,11 +515,11 @@
       "num": "11",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.312,
-        "ops": 0.945,
-        "ab": 77,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.3,
+        "ops": 0.919,
+        "ab": 80,
         "r": 16,
         "h": 24,
         "doubles": 6,
@@ -524,12 +527,12 @@
         "hr": 4,
         "rbi": 16,
         "tb": 42,
-        "slg": 0.545,
+        "slg": 0.525,
         "bb": 11,
-        "hbp": 1,
+        "hbp": 2,
         "so": 14,
         "gdp": 1,
-        "obp": 0.4,
+        "obp": 0.394,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -600,7 +603,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Arkansas State, throwing 3.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
@@ -616,42 +622,45 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.91,
-        "whip": 1.2,
-        "w": 1,
+        "era": 2.59,
+        "whip": 1.07,
+        "w": 2,
         "l": 1,
         "sv": 1,
-        "g": 8,
+        "g": 9,
         "gs": 1,
-        "ip": 21.2,
+        "ip": 24.1,
         "h": 24,
         "r": 8,
         "er": 7,
         "bb": 2,
-        "so": 27,
+        "so": 30,
         "hr": 2,
         "hbp": 2,
         "wp": 1,
-        "opp_avg": ".279"
+        "opp_avg": ".255"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12100",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 4,
-          "r": 4,
-          "er": 4,
-          "bb": 1,
-          "so": 1,
+          "ip": "2.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Arkansas State, throwing 0.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+      "narrative": "2.2 IP, 3 K vs. Nicholls (W). At 2.61 ERA through 24.1 innings on the season."
     },
     "e7236e57": {
       "id": "e7236e57",
@@ -663,24 +672,24 @@
       "num": "15",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.26,
-        "ops": 0.772,
-        "ab": 77,
-        "r": 15,
-        "h": 20,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.259,
+        "ops": 0.758,
+        "ab": 81,
+        "r": 16,
+        "h": 21,
         "doubles": 6,
         "triples": 0,
         "hr": 2,
         "rbi": 9,
-        "tb": 32,
-        "slg": 0.416,
+        "tb": 33,
+        "slg": 0.407,
         "bb": 11,
         "hbp": 1,
-        "so": 19,
+        "so": 20,
         "gdp": 1,
-        "obp": 0.356,
+        "obp": 0.351,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -688,16 +697,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
           "hr": 0,
           "doubles": 0,
@@ -706,7 +715,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Arkansas State. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "1/4 with 0 RBI vs. Nicholls (W). Hitting .259 with 2 HR through 21 games."
     },
     "9dcf4cfb": {
       "id": "9dcf4cfb",
@@ -751,7 +760,10 @@
           "bb": 0,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 4 K, 0 ER vs. Arkansas State (W). At 2.33 ERA through 27.0 innings on the season."
@@ -766,24 +778,24 @@
       "num": "17",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.338,
-        "ops": 1.171,
-        "ab": 68,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.347,
+        "ops": 1.189,
+        "ab": 72,
         "r": 17,
-        "h": 23,
-        "doubles": 3,
+        "h": 25,
+        "doubles": 5,
         "triples": 2,
         "hr": 6,
-        "rbi": 20,
-        "tb": 48,
-        "slg": 0.706,
+        "rbi": 21,
+        "tb": 52,
+        "slg": 0.722,
         "bb": 12,
         "hbp": 5,
         "so": 19,
         "gdp": 2,
-        "obp": 0.465,
+        "obp": 0.467,
         "sf": 1,
         "sh": 1,
         "sb": 0,
@@ -791,25 +803,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 2,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 2,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against Arkansas State. Had an outstanding performance at the plate (0.500)."
+      "narrative": "2/4 with 1 RBI vs. Nicholls (W). Hitting .347 with 6 HR through 21 games."
     },
     "d81134ea": {
       "id": "d81134ea",
@@ -854,7 +866,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Arkansas State, throwing 1.2 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
@@ -869,24 +884,24 @@
       "num": "19",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.231,
-        "ops": 0.734,
-        "ab": 78,
-        "r": 12,
-        "h": 18,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.232,
+        "ops": 0.723,
+        "ab": 82,
+        "r": 13,
+        "h": 19,
         "doubles": 2,
         "triples": 0,
         "hr": 3,
         "rbi": 15,
-        "tb": 29,
-        "slg": 0.372,
+        "tb": 30,
+        "slg": 0.366,
         "bb": 10,
         "hbp": 6,
-        "so": 22,
+        "so": 23,
         "gdp": 2,
-        "obp": 0.362,
+        "obp": 0.357,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -894,17 +909,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
           "ab": 4,
-          "r": 0,
+          "r": 1,
           "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -912,7 +927,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Arkansas State. Contributed at the plate in the team's L."
+      "narrative": "1/4 with 0 RBI vs. Nicholls (W). Hitting .231 with 3 HR through 21 games."
     },
     "b0b22877": {
       "id": "b0b22877",
@@ -926,28 +941,28 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.8,
+        "whip": 0.73,
         "w": 3,
         "l": 0,
         "sv": 4,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 10.0,
+        "ip": 11.0,
         "h": 4,
         "r": 1,
         "er": 0,
         "bb": 4,
-        "so": 11,
+        "so": 12,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".118"
+        "opp_avg": ".108"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Arkansas State",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
         "result": "W",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12101",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
           "ip": "1.0",
@@ -957,10 +972,13 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Arkansas State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Nicholls (W). At 0.00 ERA through 11.0 innings on the season."
     },
     "058a66b4": {
       "id": "058a66b4",
@@ -974,14 +992,14 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.6,
+        "whip": 0.83,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 6,
-        "gs": 2,
-        "ip": 5.0,
-        "h": 3,
+        "g": 7,
+        "gs": 3,
+        "ip": 6.0,
+        "h": 5,
         "r": 2,
         "er": 0,
         "bb": 0,
@@ -989,7 +1007,7 @@
         "hr": 0,
         "hbp": 2,
         "wp": 1,
-        "opp_avg": ".188"
+        "opp_avg": ".250"
       },
       "last_game": {
         "date": "2026-03-08",
@@ -1005,7 +1023,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against North Alabama, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1053,7 +1074,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Alabama, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
@@ -1138,7 +1162,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Arkansas State, throwing 0.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1186,7 +1213,10 @@
           "bb": 3,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against vs Baylor, throwing 1.1 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1234,7 +1264,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Arkansas State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1250,14 +1283,14 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.2,
-        "whip": 0.67,
+        "era": 2.08,
+        "whip": 0.63,
         "w": 3,
         "l": 0,
         "sv": 2,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 16.1,
+        "ip": 17.1,
         "h": 7,
         "r": 4,
         "er": 4,
@@ -1266,7 +1299,7 @@
         "hr": 2,
         "hbp": 4,
         "wp": 0,
-        "opp_avg": ".130"
+        "opp_avg": ".123"
       },
       "last_game": {
         "date": "2026-03-14",
@@ -1282,7 +1315,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Arkansas State, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
@@ -1329,24 +1365,24 @@
       "num": "36",
       "school": "The University of Southern Mississippi",
       "season_batting": {
-        "g": 19,
-        "gs": 14,
-        "avg": 0.212,
-        "ops": 0.678,
-        "ab": 52,
-        "r": 5,
+        "g": 20,
+        "gs": 15,
+        "avg": 0.2,
+        "ops": 0.654,
+        "ab": 55,
+        "r": 6,
         "h": 11,
         "doubles": 2,
         "triples": 0,
         "hr": 2,
         "rbi": 8,
         "tb": 19,
-        "slg": 0.365,
-        "bb": 6,
+        "slg": 0.345,
+        "bb": 7,
         "hbp": 3,
-        "so": 18,
+        "so": 19,
         "gdp": 3,
-        "obp": 0.313,
+        "obp": 0.309,
         "sf": 3,
         "sh": 0,
         "sb": 0,
@@ -1417,7 +1453,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Louisiana Tech, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1433,42 +1472,45 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.15,
-        "whip": 1.38,
+        "era": 3.38,
+        "whip": 1.31,
         "w": 0,
         "l": 0,
         "sv": 1,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 4.1,
-        "h": 1,
+        "ip": 5.1,
+        "h": 2,
         "r": 2,
         "er": 2,
         "bb": 5,
-        "so": 6,
+        "so": 7,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".071"
+        "opp_avg": ".111"
       },
       "last_game": {
-        "date": "2026-03-04",
+        "date": "2026-03-17",
         "opponent": "Nicholls",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12091",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 0,
+          "h": 1,
           "r": 0,
           "er": 0,
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Nicholls, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Nicholls (W). At 3.53 ERA through 5.1 innings on the season."
     },
     "bdde9ec5": {
       "id": "bdde9ec5",
@@ -1481,29 +1523,29 @@
       "school": "The University of Southern Mississippi",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.75,
-        "whip": 1.75,
+        "era": 5.4,
+        "whip": 1.6,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 4.0,
+        "ip": 5.0,
         "h": 4,
         "r": 3,
         "er": 3,
-        "bb": 3,
-        "so": 3,
+        "bb": 4,
+        "so": 4,
         "hr": 0,
         "hbp": 1,
         "wp": 0,
-        "opp_avg": ".286"
+        "opp_avg": ".235"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "North Alabama",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
         "result": "W",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12094",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
           "ip": "1.0",
@@ -1511,12 +1553,15 @@
           "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against North Alabama, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Nicholls (W). At 5.40 ERA through 5.0 innings on the season."
     },
     "bef7b3ae": {
       "id": "bef7b3ae",
@@ -1530,41 +1575,44 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.25,
+        "whip": 0.69,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 4.0,
+        "ip": 4.1,
         "h": 0,
         "r": 0,
         "er": 0,
-        "bb": 1,
-        "so": 9,
+        "bb": 3,
+        "so": 10,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
         "opp_avg": ".000"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Ole Miss",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
         "result": "W",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/ole-miss/boxscore/12099",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
+          "ip": "0.1",
           "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 2,
+          "bb": 2,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Ole Miss, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.1 IP, 1 K vs. Nicholls (W). At 0.00 ERA through 4.1 innings on the season."
     },
     "c1919fb9": {
       "id": "c1919fb9",
@@ -1609,7 +1657,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against UC Santa Barb., throwing 0.2 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
@@ -1657,7 +1708,10 @@
           "bb": 2,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Arkansas State, throwing 2.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."

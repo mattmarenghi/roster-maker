@@ -2,7 +2,7 @@
   "school": "University of Missouri, Columbia",
   "base_url": "https://www.mutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:26:14.972191Z",
+  "generated_at": "2026-03-18T08:10:47.724136Z",
   "record": "34-40",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -442,7 +442,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -820,7 +823,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against UIC, throwing 0.2 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
@@ -923,7 +929,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against UIC, throwing 1.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -971,7 +980,10 @@
           "bb": 3,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against UIC, throwing 0.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
@@ -1019,7 +1031,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 1.2 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1122,7 +1137,10 @@
           "bb": 2,
           "so": 3,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Southern Indiana, throwing 1.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
@@ -1225,7 +1243,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 1.0 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
@@ -1273,7 +1294,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -1321,7 +1345,10 @@
           "bb": 2,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Southern Indiana, throwing 4.1 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
@@ -1369,7 +1396,10 @@
           "bb": 0,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
@@ -1417,7 +1447,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against UIC, throwing 2.2 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
@@ -1575,7 +1608,10 @@
           "bb": 2,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 6.0 innings. Struck out 5 while allowing just 6 hit(s) and 4 earned run(s) in a quality start."
@@ -1623,7 +1659,10 @@
           "bb": 3,
           "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 6.0 innings. Struck out 5 while allowing just 3 hit(s) and 0 earned run(s) in a quality start."
@@ -1671,7 +1710,10 @@
           "bb": 1,
           "so": 1,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Arkansas-Pine Bluff, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -1719,7 +1761,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 3.0 innings. Allowed 1 earned run(s) with 4 strikeout(s)."
@@ -1767,7 +1812,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against UIC, throwing 0.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
@@ -1815,7 +1863,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
@@ -1863,7 +1914,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 1.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
@@ -1911,7 +1965,10 @@
           "bb": 2,
           "so": 10,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Auburn, throwing 6.1 innings. Struck out 10 while allowing just 3 hit(s) and 2 earned run(s) in a quality start."

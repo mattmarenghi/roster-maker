@@ -2,7 +2,7 @@
   "school": "Belmont University",
   "base_url": "https://www.belmontbruins.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:53:07.897489Z",
+  "generated_at": "2026-03-18T07:39:07.072742Z",
   "record": "8-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -641,7 +641,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 3 K vs. UAB (W 12-2). At 8.82 ERA through 10.2 innings on the season."
@@ -697,7 +700,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. UAB (W 12-2). At 6.43 ERA through 14.0 innings on the season."
@@ -753,7 +759,10 @@
           "bb": 3,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. UAB (W 12-2). At 5.35 ERA through 10.1 innings on the season."
@@ -809,7 +818,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. UAB (W 13-3). At 19.41 ERA through 5.1 innings on the season."
@@ -897,7 +909,10 @@
           "bb": 0,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. UAB (L 4-10). At 4.89 ERA through 9.2 innings on the season."
@@ -1005,7 +1020,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 2 K vs. UAB (L 4-10). At 5.62 ERA through 19.2 innings on the season."
@@ -1061,7 +1079,10 @@
           "bb": 2,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 3 K vs. UAB (L 4-10). At 1.18 ERA through 15.2 innings on the season."
@@ -1117,7 +1138,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. UAB (W 13-3). At 4.95 ERA through 9.1 innings on the season."
@@ -1242,7 +1266,10 @@
           "bb": 4,
           "so": 1,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 1 K vs. UAB (W 12-2). At 10.31 ERA through 13.1 innings on the season."
@@ -1486,7 +1513,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. UAB (W 13-3). At 7.13 ERA through 20.2 innings on the season."

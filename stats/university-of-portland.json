@@ -2,14 +2,14 @@
   "school": "University of Portland",
   "base_url": "https://www.portlandpilots.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:28:23.631165Z",
-  "record": "10-7",
+  "generated_at": "2026-03-18T08:12:58.064295Z",
+  "record": "11-7",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "UConn",
-    "result": "W 5-3",
-    "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
-    "recap_url": "https://www.portlandpilots.com/news/2026/3/15/baseball-pilots-take-rubber-match-5-3-over-uconn.aspx",
+    "date": "2026-03-17",
+    "opponent": "Oregon State",
+    "result": "W 3-1",
+    "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
+    "recap_url": "https://www.portlandpilots.com/news/2026/3/17/baseball-strong-defense-pushes-pilots-past-no-17-oregon-state-3-1.aspx",
     "recap_headline": "University of Portland Athletics",
     "recap_text": ""
   },
@@ -24,11 +24,11 @@
       "num": "2",
       "school": "University of Portland",
       "season_batting": {
-        "g": 17,
-        "gs": 14,
-        "avg": 0.319,
-        "ops": 0.876,
-        "ab": 47,
+        "g": 18,
+        "gs": 15,
+        "avg": 0.294,
+        "ops": 0.814,
+        "ab": 51,
         "r": 14,
         "h": 15,
         "doubles": 3,
@@ -36,12 +36,12 @@
         "hr": 0,
         "rbi": 8,
         "tb": 20,
-        "slg": 0.426,
+        "slg": 0.392,
         "bb": 12,
         "hbp": 0,
-        "so": 7,
+        "so": 8,
         "gdp": 3,
-        "obp": 0.45,
+        "obp": 0.422,
         "sf": 1,
         "sh": 0,
         "sb": 5,
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UConn",
-        "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 1,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. UConn (L 5-8). Hitting .319 with 0 HR through 17 games."
+      "narrative": "0/4 with 0 RBI vs. Oregon State (W 3-1). Hitting .294 with 0 HR through 18 games."
     },
     "e6b5f54f": {
       "id": "e6b5f54f",
@@ -76,11 +76,11 @@
       "num": "5",
       "school": "University of Portland",
       "season_batting": {
-        "g": 17,
-        "gs": 15,
-        "avg": 0.327,
-        "ops": 0.888,
-        "ab": 55,
+        "g": 18,
+        "gs": 16,
+        "avg": 0.305,
+        "ops": 0.832,
+        "ab": 59,
         "r": 10,
         "h": 18,
         "doubles": 2,
@@ -88,12 +88,12 @@
         "hr": 2,
         "rbi": 14,
         "tb": 26,
-        "slg": 0.473,
+        "slg": 0.441,
         "bb": 6,
         "hbp": 3,
-        "so": 11,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.415,
+        "obp": 0.391,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -101,22 +101,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UConn",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
+          "bb": 0,
+          "so": 3,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. UConn (W 5-3). Hitting .327 with 2 HR through 17 games."
+      "narrative": "0/4 with 0 RBI vs. Oregon State (W 3-1). Hitting .305 with 2 HR through 18 games."
     },
     "b2030716": {
       "id": "b2030716",
@@ -152,23 +152,8 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UConn",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ss"
-        },
-        "pitching": null
-      },
-      "narrative": "1/3 with 0 RBI vs. UConn (W 8-6). Hitting .428 with 0 HR through 7 games."
+      "last_game": null,
+      "narrative": null
     },
     "2049b121": {
       "id": "2049b121",
@@ -259,23 +244,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UConn",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
-        "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
-          "pos": "dh"
-        },
-        "pitching": null
-      },
-      "narrative": "0/4 with 0 RBI vs. UConn (W 8-6). Hitting .090 with 0 HR through 8 games."
+      "last_game": null,
+      "narrative": null
     },
     "8223fb07": {
       "id": "8223fb07",
@@ -342,7 +312,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -360,7 +330,10 @@
           "bb": 2,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.1 IP, 4 K, 3 ER vs. UConn (W 5-3). At 1.44 ERA through 25.0 innings on the season."
@@ -376,26 +349,53 @@
       "school": "University of Portland",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.97,
-        "w": 2,
+        "era": 0.59,
+        "whip": 1.11,
+        "w": 3,
         "l": 0,
         "sv": 0,
-        "g": 3,
-        "gs": 2,
-        "ip": 10.1,
-        "h": 7,
-        "r": 0,
-        "er": 0,
-        "bb": 3,
-        "so": 6,
+        "g": 4,
+        "gs": 3,
+        "ip": 15.1,
+        "h": 9,
+        "r": 1,
+        "er": 1,
+        "bb": 8,
+        "so": 11,
         "hr": 0,
-        "hbp": 1,
-        "wp": 0,
-        "opp_avg": ".194"
+        "hbp": 2,
+        "wp": 1,
+        "opp_avg": ".176"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 5,
+          "so": 5,
+          "wp": 1,
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "5.0 IP, 5 K, 1 ER vs. Oregon State (W 3-1). At 0.60 ERA through 15.1 innings on the season."
     },
     "3857c767": {
       "id": "3857c767",
@@ -453,7 +453,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -471,7 +471,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 3 K vs. UConn (W 5-3). At 4.50 ERA through 10.0 innings on the season."
@@ -486,11 +489,11 @@
       "num": "14",
       "school": "University of Portland",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.224,
-        "ops": 0.786,
-        "ab": 58,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.21,
+        "ops": 0.74,
+        "ab": 62,
         "r": 11,
         "h": 13,
         "doubles": 2,
@@ -498,12 +501,12 @@
         "hr": 3,
         "rbi": 15,
         "tb": 26,
-        "slg": 0.448,
+        "slg": 0.419,
         "bb": 6,
         "hbp": 6,
         "so": 12,
         "gdp": 0,
-        "obp": 0.338,
+        "obp": 0.321,
         "sf": 4,
         "sh": 1,
         "sb": 0,
@@ -578,7 +581,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -596,7 +599,10 @@
           "bb": 1,
           "so": 4,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 4 K, 5 ER vs. UConn (L 5-8). At 4.90 ERA through 20.2 innings on the season."
@@ -650,25 +656,52 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.6,
+        "whip": 0.55,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 1,
+        "g": 2,
         "gs": 1,
-        "ip": 1.2,
+        "ip": 3.2,
         "h": 0,
         "r": 0,
         "er": 0,
-        "bb": 1,
-        "so": 2,
+        "bb": 2,
+        "so": 5,
         "hr": 0,
         "hbp": 1,
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "2.0 IP, 3 K vs. Oregon State (W 3-1). At 0.00 ERA through 3.2 innings on the season."
     },
     "a179cfbd": {
       "id": "a179cfbd",
@@ -680,47 +713,47 @@
       "num": "19",
       "school": "University of Portland",
       "season_batting": {
-        "g": 17,
-        "gs": 15,
-        "avg": 0.245,
-        "ops": 0.888,
-        "ab": 53,
-        "r": 11,
-        "h": 13,
+        "g": 18,
+        "gs": 16,
+        "avg": 0.25,
+        "ops": 0.886,
+        "ab": 56,
+        "r": 13,
+        "h": 14,
         "doubles": 3,
         "triples": 1,
         "hr": 3,
         "rbi": 13,
-        "tb": 27,
-        "slg": 0.509,
-        "bb": 11,
+        "tb": 28,
+        "slg": 0.5,
+        "bb": 12,
         "hbp": 1,
-        "so": 18,
+        "so": 19,
         "gdp": 0,
-        "obp": 0.379,
+        "obp": 0.386,
         "sf": 1,
         "sh": 0,
-        "sb": 3,
-        "sb_att": 4
+        "sb": 5,
+        "sb_att": 6
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UConn",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
+          "ab": 3,
+          "r": 2,
           "h": 1,
-          "rbi": 1,
-          "bb": 0,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 1 RBI vs. UConn (W 5-3). Hitting .245 with 3 HR through 17 games."
+      "narrative": "1/3 with 0 RBI vs. Oregon State (W 3-1). Hitting .250 with 3 HR through 18 games."
     },
     "4b2e93fa": {
       "id": "4b2e93fa",
@@ -751,32 +784,8 @@
         "wp": 1,
         "opp_avg": ".240"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UConn",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "5.0",
-          "h": 4,
-          "r": 2,
-          "er": 0,
-          "bb": 1,
-          "so": 6,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "5.0 IP, 6 K, 0 ER vs. UConn (W 8-6). At 4.27 ERA through 21.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "2b55222d": {
       "id": "2b55222d",
@@ -788,47 +797,47 @@
       "num": "22",
       "school": "University of Portland",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
+        "g": 18,
+        "gs": 18,
         "avg": 0.324,
-        "ops": 0.918,
-        "ab": 68,
+        "ops": 0.914,
+        "ab": 71,
         "r": 15,
-        "h": 22,
+        "h": 23,
         "doubles": 4,
         "triples": 0,
         "hr": 3,
         "rbi": 17,
-        "tb": 35,
-        "slg": 0.515,
-        "bb": 7,
+        "tb": 36,
+        "slg": 0.507,
+        "bb": 8,
         "hbp": 2,
-        "so": 15,
+        "so": 16,
         "gdp": 2,
-        "obp": 0.403,
+        "obp": 0.407,
         "sf": 0,
         "sh": 1,
-        "sb": 4,
-        "sb_att": 6
+        "sb": 6,
+        "sb_att": 8
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UConn",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 1,
-          "so": 3,
+          "so": 4,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. UConn (W 5-3). Hitting .323 with 3 HR through 17 games."
+      "narrative": "1/3 with 0 RBI vs. Oregon State (W 3-1). Hitting .323 with 3 HR through 18 games."
     },
     "3f416b2a": {
       "id": "3f416b2a",
@@ -900,7 +909,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -924,28 +933,28 @@
       "num": "25",
       "school": "University of Portland",
       "season_batting": {
-        "g": 12,
-        "gs": 10,
-        "avg": 0.206,
-        "ops": 0.691,
-        "ab": 34,
-        "r": 5,
-        "h": 7,
+        "g": 13,
+        "gs": 11,
+        "avg": 0.25,
+        "ops": 0.78,
+        "ab": 36,
+        "r": 6,
+        "h": 9,
         "doubles": 2,
         "triples": 0,
         "hr": 2,
-        "rbi": 9,
-        "tb": 15,
-        "slg": 0.441,
-        "bb": 2,
+        "rbi": 10,
+        "tb": 17,
+        "slg": 0.472,
+        "bb": 3,
         "hbp": 0,
         "so": 13,
         "gdp": 0,
-        "obp": 0.25,
+        "obp": 0.308,
         "sf": 0,
         "sh": 0,
-        "sb": 0,
-        "sb_att": 0
+        "sb": 1,
+        "sb_att": 1
       },
       "season_pitching": null,
       "last_game": null,
@@ -962,29 +971,29 @@
       "school": "University of Portland",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.66,
-        "whip": 1.22,
+        "era": 3.32,
+        "whip": 1.25,
         "w": 0,
         "l": 1,
-        "sv": 1,
-        "g": 6,
+        "sv": 2,
+        "g": 7,
         "gs": 2,
-        "ip": 19.2,
-        "h": 21,
+        "ip": 21.2,
+        "h": 22,
         "r": 10,
         "er": 8,
-        "bb": 3,
-        "so": 16,
+        "bb": 5,
+        "so": 18,
         "hr": 0,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".266"
+        "opp_avg": ".256"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UConn",
-        "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -995,17 +1004,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 3,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 1,
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
-      "narrative": "1.0 IP, 1 K vs. UConn (L 5-8). At 3.75 ERA through 19.2 innings on the season."
+      "narrative": "2.0 IP, 2 K vs. Oregon State (W 3-1). At 3.40 ERA through 21.2 innings on the season."
     },
     "6634552a": {
       "id": "6634552a",
@@ -1072,7 +1084,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1090,7 +1102,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. UConn (L 5-8). At 3.53 ERA through 10.2 innings on the season."
@@ -1105,25 +1120,25 @@
       "num": "32",
       "school": "University of Portland",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.31,
-        "ops": 0.912,
-        "ab": 58,
+        "g": 18,
+        "gs": 18,
+        "avg": 0.295,
+        "ops": 0.864,
+        "ab": 61,
         "r": 11,
         "h": 18,
         "doubles": 7,
         "triples": 0,
         "hr": 1,
-        "rbi": 10,
+        "rbi": 11,
         "tb": 28,
-        "slg": 0.483,
+        "slg": 0.459,
         "bb": 9,
         "hbp": 3,
-        "so": 10,
+        "so": 12,
         "gdp": 1,
-        "obp": 0.429,
-        "sf": 0,
+        "obp": 0.405,
+        "sf": 1,
         "sh": 1,
         "sb": 0,
         "sb_att": 0
@@ -1133,7 +1148,7 @@
         "date": "2026-03-15",
         "opponent": "UConn",
         "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1180,7 +1195,7 @@
         "date": "2026-03-14",
         "opponent": "UConn",
         "result": "L 5-8",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13024&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1198,7 +1213,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. UConn (L 5-8). At 45.00 ERA through 0.2 innings on the season."
@@ -1245,24 +1263,24 @@
       "num": "35",
       "school": "University of Portland",
       "season_batting": {
-        "g": 8,
-        "gs": 6,
-        "avg": 0.294,
-        "ops": 0.749,
-        "ab": 17,
+        "g": 9,
+        "gs": 7,
+        "avg": 0.3,
+        "ops": 0.74,
+        "ab": 20,
         "r": 2,
-        "h": 5,
+        "h": 6,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 3,
-        "tb": 5,
-        "slg": 0.294,
+        "tb": 6,
+        "slg": 0.3,
         "bb": 4,
         "hbp": 1,
-        "so": 8,
+        "so": 10,
         "gdp": 0,
-        "obp": 0.455,
+        "obp": 0.44,
         "sf": 0,
         "sh": 2,
         "sb": 0,
@@ -1270,22 +1288,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UConn",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 2,
-          "rbi": 2,
-          "bb": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 2 RBI vs. UConn (W 8-6). Hitting .294 with 0 HR through 8 games."
+      "narrative": "1/3 with 0 RBI vs. Oregon State (W 3-1). Hitting .300 with 0 HR through 9 games."
     },
     "a19671d4": {
       "id": "a19671d4",
@@ -1297,24 +1315,24 @@
       "num": "44",
       "school": "University of Portland",
       "season_batting": {
-        "g": 17,
-        "gs": 16,
-        "avg": 0.179,
-        "ops": 0.611,
-        "ab": 56,
+        "g": 18,
+        "gs": 17,
+        "avg": 0.186,
+        "ops": 0.622,
+        "ab": 59,
         "r": 9,
-        "h": 10,
+        "h": 11,
         "doubles": 2,
         "triples": 0,
         "hr": 1,
-        "rbi": 5,
-        "tb": 15,
-        "slg": 0.268,
-        "bb": 13,
+        "rbi": 6,
+        "tb": 16,
+        "slg": 0.271,
+        "bb": 14,
         "hbp": 1,
-        "so": 16,
+        "so": 17,
         "gdp": 3,
-        "obp": 0.343,
+        "obp": 0.351,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -1340,22 +1358,22 @@
         "opp_avg": ".228"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UConn",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 1,
+          "r": 0,
           "h": 1,
           "rbi": 1,
           "bb": 1,
-          "so": 1,
+          "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 1 RBI vs. UConn (W 5-3). Hitting .178 with 1 HR through 17 games."
+      "narrative": "1/3 with 1 RBI vs. Oregon State (W 3-1). Hitting .186 with 1 HR through 18 games."
     },
     "f4fc8d1c": {
       "id": "f4fc8d1c",
@@ -1391,23 +1409,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UConn",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13023&path=",
-        "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "rf"
-        },
-        "pitching": null
-      },
-      "narrative": "0/2 with 0 RBI vs. UConn (W 8-6). Hitting .200 with 0 HR through 7 games."
+      "last_game": null,
+      "narrative": null
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

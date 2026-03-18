@@ -2,14 +2,14 @@
   "school": "Tarleton State University",
   "base_url": "https://tarletonsports.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:16:01.330856Z",
-  "record": "12-7",
+  "generated_at": "2026-03-18T08:01:32.107957Z",
+  "record": "13-7",
   "most_recent_game": {
-    "date": "2026-03-15",
-    "opponent": "Houston Christian",
-    "result": "L 5-9",
-    "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
-    "recap_url": "https://tarletonsports.com/news/2026/3/15/baseball-texans-rally-late-but-fall-to-houston-christian-in-series-finale.aspx",
+    "date": "2026-03-17",
+    "opponent": "Texas",
+    "result": "L 1-6",
+    "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
+    "recap_url": "https://tarletonsports.com/news/2026/3/17/baseball-texans-shock-longhorns-in-austin-hand-2nd-ranked-texas-2nd-loss-of-season.aspx",
     "recap_headline": "Tarleton State University Athletics",
     "recap_text": ""
   },
@@ -24,47 +24,47 @@
       "num": "2",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.218,
-        "ops": 0.759,
-        "ab": 55,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.224,
+        "ops": 0.763,
+        "ab": 58,
         "r": 7,
-        "h": 12,
+        "h": 13,
         "doubles": 0,
         "triples": 3,
         "hr": 1,
-        "rbi": 12,
-        "tb": 21,
-        "slg": 0.382,
-        "bb": 10,
+        "rbi": 14,
+        "tb": 22,
+        "slg": 0.379,
+        "bb": 11,
         "hbp": 4,
-        "so": 8,
+        "so": 9,
         "gdp": 2,
-        "obp": 0.377,
+        "obp": 0.384,
         "sf": 0,
         "sh": 2,
         "sb": 3,
-        "sb_att": 3
+        "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Houston Christian",
-        "result": "L 5-9",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 2,
           "bb": 1,
-          "so": 0,
+          "so": 2,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Houston Christian (L 5-9). Hitting .218 with 1 HR through 16 games."
+      "narrative": "1/3 with 2 RBI vs. Texas (L 1-6). Hitting .224 with 1 HR through 17 games."
     },
     "a4d2d8f0": {
       "id": "a4d2d8f0",
@@ -76,11 +76,11 @@
       "num": "3",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 19,
-        "gs": 16,
-        "avg": 0.359,
-        "ops": 1.052,
-        "ab": 64,
+        "g": 20,
+        "gs": 17,
+        "avg": 0.333,
+        "ops": 0.982,
+        "ab": 69,
         "r": 18,
         "h": 23,
         "doubles": 9,
@@ -88,12 +88,12 @@
         "hr": 1,
         "rbi": 11,
         "tb": 37,
-        "slg": 0.578,
+        "slg": 0.536,
         "bb": 10,
         "hbp": 4,
-        "so": 20,
+        "so": 23,
         "gdp": 1,
-        "obp": 0.474,
+        "obp": 0.446,
         "sf": 0,
         "sh": 1,
         "sb": 2,
@@ -101,22 +101,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Houston Christian",
-        "result": "L 5-9",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "0/5 with 0 RBI vs. Houston Christian (L 5-9). Hitting .359 with 1 HR through 19 games."
+      "narrative": "0/5 with 0 RBI vs. Texas (L 1-6). Hitting .333 with 1 HR through 20 games."
     },
     "d0d2c4dc": {
       "id": "d0d2c4dc",
@@ -128,24 +128,24 @@
       "num": "4",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
+        "g": 17,
+        "gs": 17,
         "avg": 0.328,
-        "ops": 0.839,
-        "ab": 61,
+        "ops": 0.838,
+        "ab": 64,
         "r": 18,
-        "h": 20,
+        "h": 21,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
-        "rbi": 6,
-        "tb": 23,
-        "slg": 0.377,
-        "bb": 13,
+        "rbi": 7,
+        "tb": 24,
+        "slg": 0.375,
+        "bb": 14,
         "hbp": 3,
-        "so": 19,
+        "so": 20,
         "gdp": 0,
-        "obp": 0.462,
+        "obp": 0.463,
         "sf": 1,
         "sh": 0,
         "sb": 6,
@@ -153,22 +153,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Houston Christian",
-        "result": "W 8-5",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7380&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 2,
+          "r": 0,
           "h": 1,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 1,
           "so": 0,
-          "pos": "c"
+          "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Houston Christian (W 8-5). Hitting .327 with 0 HR through 16 games."
+      "narrative": "1/3 with 1 RBI vs. Texas (L 1-6). Hitting .328 with 0 HR through 17 games."
     },
     "2e40b06e": {
       "id": "2e40b06e",
@@ -232,28 +232,28 @@
       "num": "6",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.351,
-        "ops": 0.941,
-        "ab": 77,
-        "r": 18,
-        "h": 27,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.363,
+        "ops": 0.968,
+        "ab": 80,
+        "r": 19,
+        "h": 29,
         "doubles": 8,
         "triples": 0,
         "hr": 2,
         "rbi": 20,
-        "tb": 41,
-        "slg": 0.532,
-        "bb": 9,
+        "tb": 43,
+        "slg": 0.538,
+        "bb": 11,
         "hbp": 0,
         "so": 10,
         "gdp": 0,
-        "obp": 0.409,
+        "obp": 0.43,
         "sf": 2,
         "sh": 2,
-        "sb": 3,
-        "sb_att": 5
+        "sb": 4,
+        "sb_att": 6
       },
       "season_pitching": null,
       "last_game": null,
@@ -310,7 +310,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.1 IP, 2 K vs. Houston Christian (W 8-5). At 5.16 ERA through 12.2 innings on the season."
@@ -325,47 +328,47 @@
       "num": "8",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 15,
-        "gs": 15,
-        "avg": 0.387,
-        "ops": 1.215,
-        "ab": 62,
-        "r": 17,
-        "h": 24,
+        "g": 16,
+        "gs": 16,
+        "avg": 0.391,
+        "ops": 1.232,
+        "ab": 64,
+        "r": 20,
+        "h": 25,
         "doubles": 7,
         "triples": 1,
         "hr": 5,
         "rbi": 18,
-        "tb": 48,
-        "slg": 0.774,
-        "bb": 4,
-        "hbp": 2,
+        "tb": 49,
+        "slg": 0.766,
+        "bb": 5,
+        "hbp": 4,
         "so": 12,
         "gdp": 0,
-        "obp": 0.441,
+        "obp": 0.466,
         "sf": 0,
         "sh": 0,
-        "sb": 3,
-        "sb_att": 3
+        "sb": 4,
+        "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Houston Christian",
-        "result": "L 5-9",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 1,
-          "bb": 0,
+          "ab": 2,
+          "r": 3,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "lf"
+          "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 1 RBI vs. Houston Christian (L 5-9). Hitting .387 with 5 HR through 15 games."
+      "narrative": "1/2 with 0 RBI vs. Texas (L 1-6). Hitting .390 with 5 HR through 16 games."
     },
     "850df2f9": {
       "id": "850df2f9",
@@ -429,11 +432,11 @@
       "num": "11",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.288,
-        "ops": 0.913,
-        "ab": 59,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.27,
+        "ops": 0.859,
+        "ab": 63,
         "r": 13,
         "h": 17,
         "doubles": 6,
@@ -441,12 +444,12 @@
         "hr": 3,
         "rbi": 20,
         "tb": 32,
-        "slg": 0.542,
+        "slg": 0.508,
         "bb": 5,
         "hbp": 4,
-        "so": 14,
-        "gdp": 0,
-        "obp": 0.371,
+        "so": 15,
+        "gdp": 1,
+        "obp": 0.351,
         "sf": 2,
         "sh": 1,
         "sb": 0,
@@ -454,22 +457,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Houston Christian",
-        "result": "L 5-9",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 2,
-          "rbi": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 1 RBI vs. Houston Christian (L 5-9). Hitting .288 with 3 HR through 16 games."
+      "narrative": "0/4 with 0 RBI vs. Texas (L 1-6). Hitting .269 with 3 HR through 17 games."
     },
     "09cc3ef4": {
       "id": "09cc3ef4",
@@ -481,11 +484,11 @@
       "num": "12",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 12,
-        "gs": 9,
-        "avg": 0.25,
-        "ops": 0.936,
-        "ab": 32,
+        "g": 13,
+        "gs": 10,
+        "avg": 0.229,
+        "ops": 0.876,
+        "ab": 35,
         "r": 8,
         "h": 8,
         "doubles": 2,
@@ -493,12 +496,12 @@
         "hr": 3,
         "rbi": 11,
         "tb": 19,
-        "slg": 0.594,
-        "bb": 5,
+        "slg": 0.543,
+        "bb": 6,
         "hbp": 0,
-        "so": 5,
-        "gdp": 0,
-        "obp": 0.342,
+        "so": 6,
+        "gdp": 1,
+        "obp": 0.333,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -506,22 +509,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Houston Christian",
-        "result": "L 5-9",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
-          "bb": 0,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 1 RBI vs. Houston Christian (L 5-9). Hitting .250 with 3 HR through 12 games."
+      "narrative": "0/3 with 0 RBI vs. Texas (L 1-6). Hitting .228 with 3 HR through 13 games."
     },
     "cd4cbcd4": {
       "id": "cd4cbcd4",
@@ -533,24 +536,24 @@
       "num": "13",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.239,
-        "ops": 0.734,
-        "ab": 71,
-        "r": 14,
-        "h": 17,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.237,
+        "ops": 0.714,
+        "ab": 76,
+        "r": 15,
+        "h": 18,
         "doubles": 1,
         "triples": 1,
         "hr": 2,
-        "rbi": 16,
-        "tb": 26,
-        "slg": 0.366,
+        "rbi": 17,
+        "tb": 27,
+        "slg": 0.355,
         "bb": 7,
         "hbp": 8,
-        "so": 19,
+        "so": 21,
         "gdp": 0,
-        "obp": 0.368,
+        "obp": 0.359,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -675,29 +678,29 @@
       "school": "Tarleton State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 5.79,
-        "whip": 2.04,
+        "era": 5.23,
+        "whip": 2.03,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 9.1,
+        "ip": 10.1,
         "h": 15,
         "r": 6,
         "er": 6,
-        "bb": 4,
-        "so": 8,
+        "bb": 6,
+        "so": 9,
         "hr": 0,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".395"
+        "opp_avg": ".375"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Houston Christian",
-        "result": "L 5-9",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -709,16 +712,19 @@
         },
         "pitching": {
           "ip": "1.0",
-          "h": 1,
+          "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 0,
+          "bb": 2,
+          "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. Houston Christian (L 5-9). At 5.93 ERA through 9.1 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. Texas (L 1-6). At 5.35 ERA through 10.1 innings on the season."
     },
     "531ef7e4": {
       "id": "531ef7e4",
@@ -730,24 +736,24 @@
       "num": "17",
       "school": "Tarleton State University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.239,
-        "ops": 0.734,
-        "ab": 71,
-        "r": 14,
-        "h": 17,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.237,
+        "ops": 0.714,
+        "ab": 76,
+        "r": 15,
+        "h": 18,
         "doubles": 1,
         "triples": 1,
         "hr": 2,
-        "rbi": 16,
-        "tb": 26,
-        "slg": 0.366,
+        "rbi": 17,
+        "tb": 27,
+        "slg": 0.355,
         "bb": 7,
         "hbp": 8,
-        "so": 19,
+        "so": 21,
         "gdp": 0,
-        "obp": 0.368,
+        "obp": 0.359,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -769,28 +775,28 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 0.39,
+        "whip": 0.53,
         "w": 1,
         "l": 0,
         "sv": 4,
-        "g": 8,
+        "g": 9,
         "gs": 0,
-        "ip": 10.1,
-        "h": 2,
+        "ip": 11.1,
+        "h": 3,
         "r": 0,
         "er": 0,
-        "bb": 2,
-        "so": 10,
+        "bb": 3,
+        "so": 11,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".061"
+        "opp_avg": ".081"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Houston Christian",
-        "result": "L 5-9",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7381&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -802,16 +808,19 @@
         },
         "pitching": {
           "ip": "1.0",
-          "h": 0,
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. Houston Christian (L 5-9). At 0.00 ERA through 10.1 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. Texas (L 1-6). At 0.00 ERA through 11.1 innings on the season."
     },
     "bafa7005": {
       "id": "bafa7005",
@@ -847,23 +856,8 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Houston Christian",
-        "result": "L 6-7",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7379&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ph"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Houston Christian (L 6-7). Hitting .125 with 1 HR through 11 games."
+      "last_game": null,
+      "narrative": null
     },
     "9ace11c2": {
       "id": "9ace11c2",
@@ -1004,29 +998,29 @@
       "school": "Tarleton State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.6,
-        "whip": 1.53,
-        "w": 2,
+        "era": 3.0,
+        "whip": 1.39,
+        "w": 3,
         "l": 0,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 15.0,
+        "ip": 18.0,
         "h": 15,
         "r": 6,
         "er": 6,
-        "bb": 8,
-        "so": 8,
+        "bb": 10,
+        "so": 12,
         "hr": 0,
         "hbp": 5,
         "wp": 2,
-        "opp_avg": ".278"
+        "opp_avg": ".242"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Houston Christian",
-        "result": "W 8-5",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7380&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1037,17 +1031,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
+          "ip": "3.0",
           "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 2,
+          "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. Houston Christian (W 8-5). At 3.60 ERA through 15.0 innings on the season."
+      "narrative": "3.0 IP, 4 K vs. Texas (L 1-6). At 3.00 ERA through 18.0 innings on the season."
     },
     "036e7f4f": {
       "id": "036e7f4f",
@@ -1100,7 +1097,10 @@
           "bb": 5,
           "so": 1,
           "wp": 1,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 1 K vs. Houston Christian (W 8-5). At 2.63 ERA through 17.1 innings on the season."
@@ -1134,32 +1134,8 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Houston Christian",
-        "result": "L 6-7",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7379&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Houston Christian (L 6-7). At 1.11 ERA through 8.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "18536a4d": {
       "id": "18536a4d",
@@ -1212,7 +1188,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Houston Christian (L 5-9). At 14.27 ERA through 8.2 innings on the season."
@@ -1228,29 +1207,29 @@
       "school": "Tarleton State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.26,
-        "whip": 1.11,
+        "era": 3.45,
+        "whip": 1.09,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 12.2,
+        "ip": 15.2,
         "h": 12,
         "r": 7,
         "er": 6,
-        "bb": 2,
-        "so": 12,
+        "bb": 5,
+        "so": 17,
         "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".250"
+        "opp_avg": ".207"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Houston Christian",
-        "result": "L 6-7",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7379&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1261,17 +1240,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.2",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
+          "ip": "3.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 3,
+          "so": 5,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.2 IP, 1 K vs. Houston Christian (L 6-7). At 4.43 ERA through 12.2 innings on the season."
+      "narrative": "3.0 IP, 5 K vs. Texas (L 1-6). At 3.55 ERA through 15.2 innings on the season."
     },
     "0d9fef02": {
       "id": "0d9fef02",
@@ -1356,7 +1338,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 0 K vs. Houston Christian (L 5-9). At 6.82 ERA through 21.1 innings on the season."
@@ -1412,7 +1397,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Houston Christian (L 5-9). At 6.43 ERA through 11.2 innings on the season."
@@ -1468,7 +1456,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Houston Christian (L 5-9). At 0.00 ERA through 3.0 innings on the season."
@@ -1516,29 +1507,29 @@
       "school": "Tarleton State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.0,
+        "era": 4.5,
+        "whip": 1.0,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 1,
-        "gs": 1,
-        "ip": 1.0,
-        "h": 0,
-        "r": 0,
-        "er": 0,
-        "bb": 0,
-        "so": 1,
-        "hr": 0,
+        "g": 2,
+        "gs": 2,
+        "ip": 2.0,
+        "h": 1,
+        "r": 1,
+        "er": 1,
+        "bb": 1,
+        "so": 2,
+        "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".000"
+        "opp_avg": ".143"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Houston Christian",
-        "result": "L 6-7",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7379&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1550,16 +1541,19 @@
         },
         "pitching": {
           "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. Houston Christian (L 6-7). At 0.00 ERA through 1.0 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. Texas (L 1-6). At 4.50 ERA through 2.0 innings on the season."
     },
     "460be330": {
       "id": "460be330",
@@ -1590,32 +1584,8 @@
         "wp": 0,
         "opp_avg": ".375"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Houston Christian",
-        "result": "L 6-7",
-        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7379&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.1",
-          "h": 5,
-          "r": 4,
-          "er": 4,
-          "bb": 2,
-          "so": 5,
-          "wp": 0,
-          "hbp": 0
-        }
-      },
-      "narrative": "2.1 IP, 5 K vs. Houston Christian (L 6-7). At 12.00 ERA through 9.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "504f2aa8": {
       "id": "504f2aa8",
@@ -1668,7 +1638,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 2 K vs. Houston Christian (L 5-9). At 0.00 ERA through 2.1 innings on the season."

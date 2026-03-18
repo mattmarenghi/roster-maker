@@ -2,7 +2,7 @@
   "school": "Radford University",
   "base_url": "https://www.radfordathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:11:42.258303Z",
+  "generated_at": "2026-03-18T07:57:21.860868Z",
   "record": "8-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -20,7 +20,7 @@
       "fn": "Brady",
       "ln": "Powell",
       "pos": "MIF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "1",
       "school": "Radford University",
       "season_batting": {
@@ -72,7 +72,7 @@
       "fn": "Noah",
       "ln": "Toole",
       "pos": "MIF",
-      "yr": "",
+      "yr": "So.",
       "num": "3",
       "school": "Radford University",
       "season_batting": {
@@ -124,7 +124,7 @@
       "fn": "Carrington",
       "ln": "Aaron",
       "pos": "MIF",
-      "yr": "",
+      "yr": "So.",
       "num": "4",
       "school": "Radford University",
       "season_batting": {
@@ -161,7 +161,7 @@
       "fn": "Devin",
       "ln": "Parks",
       "pos": "OF",
-      "yr": "",
+      "yr": "Jr.",
       "num": "5",
       "school": "Radford University",
       "season_batting": {
@@ -213,7 +213,7 @@
       "fn": "Junho",
       "ln": "Son",
       "pos": "UTL",
-      "yr": "",
+      "yr": "Jr.",
       "num": "7",
       "school": "Radford University",
       "season_batting": {
@@ -250,7 +250,7 @@
       "fn": "Eli",
       "ln": "Baker",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "8",
       "school": "Radford University",
       "season_batting": null,
@@ -295,7 +295,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -306,7 +309,7 @@
       "fn": "Mason",
       "ln": "Hatcher",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "11",
       "school": "Radford University",
       "season_batting": null,
@@ -351,7 +354,10 @@
           "bb": 2,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Winthrop (W 9-7). At 2.57 ERA through 7.0 innings on the season."
@@ -362,7 +368,7 @@
       "fn": "Hunter",
       "ln": "Keen",
       "pos": "INF",
-      "yr": "",
+      "yr": "Gr.",
       "num": "13",
       "school": "Radford University",
       "season_batting": {
@@ -414,7 +420,7 @@
       "fn": "Brady",
       "ln": "Whitacre",
       "pos": "C",
-      "yr": "",
+      "yr": "Gr.",
       "num": "14",
       "school": "Radford University",
       "season_batting": {
@@ -466,7 +472,7 @@
       "fn": "Lucas",
       "ln": "Edwards",
       "pos": "OF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "15",
       "school": "Radford University",
       "season_batting": {
@@ -518,7 +524,7 @@
       "fn": "Eli",
       "ln": "Hudgins",
       "pos": "INF",
-      "yr": "",
+      "yr": "So.",
       "num": "16",
       "school": "Radford University",
       "season_batting": {
@@ -570,7 +576,7 @@
       "fn": "Parker",
       "ln": "Noonan",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "17",
       "school": "Radford University",
       "season_batting": null,
@@ -602,7 +608,7 @@
       "fn": "Trey",
       "ln": "Ludy",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "20",
       "school": "Radford University",
       "season_batting": null,
@@ -647,7 +653,10 @@
           "bb": 1,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.2 IP, 3 K vs. Winthrop (W 10-9). At 5.45 ERA through 13.2 innings on the season."
@@ -658,7 +667,7 @@
       "fn": "Daniel",
       "ln": "Quintana",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "21",
       "school": "Radford University",
       "season_batting": null,
@@ -703,7 +712,10 @@
           "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 2 K vs. Winthrop (W 9-7). At 2.44 ERA through 22.1 innings on the season."
@@ -714,7 +726,7 @@
       "fn": "Joshua",
       "ln": "Milleville",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "22",
       "school": "Radford University",
       "season_batting": null,
@@ -759,7 +771,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -770,7 +785,7 @@
       "fn": "Mason",
       "ln": "Self",
       "pos": "INF/RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "23",
       "school": "Radford University",
       "season_batting": {
@@ -838,7 +853,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Winthrop (W 10-9). At 4.09 ERA through 2.2 innings on the season."
@@ -849,7 +867,7 @@
       "fn": "Luke",
       "ln": "Sullivan",
       "pos": "OF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "24",
       "school": "Radford University",
       "season_batting": {
@@ -886,7 +904,7 @@
       "fn": "Alex",
       "ln": "Levesque",
       "pos": "C",
-      "yr": "",
+      "yr": "Jr.",
       "num": "25",
       "school": "Radford University",
       "season_batting": {
@@ -938,7 +956,7 @@
       "fn": "Zach",
       "ln": "Zelazny",
       "pos": "INF",
-      "yr": "",
+      "yr": "Fr.",
       "num": "26",
       "school": "Radford University",
       "season_batting": {
@@ -975,7 +993,7 @@
       "fn": "Carter",
       "ln": "Richardson",
       "pos": "OF",
-      "yr": "",
+      "yr": "So.",
       "num": "27",
       "school": "Radford University",
       "season_batting": {
@@ -1012,7 +1030,7 @@
       "fn": "Will",
       "ln": "Palmer",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "28",
       "school": "Radford University",
       "season_batting": null,
@@ -1057,7 +1075,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": null
@@ -1068,7 +1089,7 @@
       "fn": "Ben",
       "ln": "Keefe",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Sr.",
       "num": "29",
       "school": "Radford University",
       "season_batting": null,
@@ -1100,7 +1121,7 @@
       "fn": "Joey",
       "ln": "Raccuia",
       "pos": "MIF/RHP",
-      "yr": "",
+      "yr": "Fr.",
       "num": "30",
       "school": "Radford University",
       "season_batting": {
@@ -1137,7 +1158,7 @@
       "fn": "Breckin",
       "ln": "Nace",
       "pos": "LHP/1B",
-      "yr": "",
+      "yr": "Jr.",
       "num": "33",
       "school": "Radford University",
       "season_batting": {
@@ -1207,7 +1228,7 @@
       "fn": "Tyler",
       "ln": "Sparrer",
       "pos": "C",
-      "yr": "",
+      "yr": "So.",
       "num": "34",
       "school": "Radford University",
       "season_batting": {
@@ -1259,7 +1280,7 @@
       "fn": "Brooks",
       "ln": "Simpson",
       "pos": "UTL",
-      "yr": "",
+      "yr": "Fr.",
       "num": "35",
       "school": "Radford University",
       "season_batting": {
@@ -1296,7 +1317,7 @@
       "fn": "Andrew",
       "ln": "Steinhaus",
       "pos": "RHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "37",
       "school": "Radford University",
       "season_batting": null,
@@ -1333,7 +1354,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.2 IP, 1 K vs. Winthrop (W 9-7). At 9.38 ERA through 19.2 innings on the season."
@@ -1344,7 +1368,7 @@
       "fn": "Matthew",
       "ln": "Lefevers",
       "pos": "RHP",
-      "yr": "",
+      "yr": "So.",
       "num": "39",
       "school": "Radford University",
       "season_batting": null,
@@ -1389,7 +1413,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 0 K vs. Winthrop (W 9-7). At 3.00 ERA through 12.0 innings on the season."
@@ -1400,7 +1427,7 @@
       "fn": "Raymond",
       "ln": "Ladd",
       "pos": "RHP",
-      "yr": "",
+      "yr": "So.",
       "num": "40",
       "school": "Radford University",
       "season_batting": null,
@@ -1437,7 +1464,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 3 ER vs. Winthrop (W 10-9). At 2.50 ERA through 18.0 innings on the season."
@@ -1448,7 +1478,7 @@
       "fn": "Corey",
       "ln": "Costello",
       "pos": "LHP",
-      "yr": "",
+      "yr": "Jr.",
       "num": "44",
       "school": "Radford University",
       "season_batting": null,
@@ -1493,7 +1523,10 @@
           "bb": 5,
           "so": 4,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.2 IP, 4 K vs. Winthrop (W 6-5). At 6.43 ERA through 21.0 innings on the season."

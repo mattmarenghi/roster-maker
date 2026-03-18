@@ -2,7 +2,7 @@
   "school": "Siena University",
   "base_url": "https://www.sienasaints.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:14:07.757506Z",
+  "generated_at": "2026-03-18T07:59:42.419139Z",
   "record": "6-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -65,7 +65,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 3 K, 5 ER vs. RIDER UNIVERSITY (W 10-1). At 9.50 ERA through 16.1 innings on the season."
@@ -190,7 +193,10 @@
           "bb": 3,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 0 K vs. RIDER UNIVERSITY (W 4-3). At 8.82 ERA through 10.2 innings on the season."
@@ -509,7 +515,10 @@
           "bb": 4,
           "so": 4,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 4 K, 2 ER vs. RIDER UNIVERSITY (W 4-3). At 5.84 ERA through 23.1 innings on the season."
@@ -706,7 +715,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 0 K vs. RIDER UNIVERSITY (W 12-7). At 7.20 ERA through 10.0 innings on the season."
@@ -762,7 +774,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.1 IP, 1 K vs. RIDER UNIVERSITY (W 12-7). At 6.34 ERA through 7.1 innings on the season."
@@ -1236,7 +1251,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 2 K, 2 ER vs. RIDER UNIVERSITY (W 12-7). At 4.44 ERA through 16.2 innings on the season."
@@ -1413,7 +1431,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. RIDER UNIVERSITY (W 10-1). At 9.78 ERA through 9.2 innings on the season."
@@ -1492,7 +1513,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "1.1 IP, 1 K vs. RIDER UNIVERSITY (W 12-7). At 12.00 ERA through 9.0 innings on the season."
@@ -1580,7 +1604,10 @@
           "bb": 1,
           "so": 2,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 2 K vs. RIDER UNIVERSITY (W 12-7). At 1.12 ERA through 8.0 innings on the season."

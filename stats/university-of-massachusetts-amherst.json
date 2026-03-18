@@ -2,7 +2,7 @@
   "school": "University of Massachusetts, Amherst",
   "base_url": "https://www.umassathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:25:05.090775Z",
+  "generated_at": "2026-03-18T08:09:44.017562Z",
   "record": "30-34",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -222,7 +222,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "Took the mound against Akron, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -270,7 +273,10 @@
           "bb": 2,
           "so": 2,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 2.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
@@ -483,7 +489,10 @@
           "bb": 4,
           "so": 2,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
@@ -586,7 +595,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -854,7 +866,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 0.2 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
@@ -902,7 +917,10 @@
           "bb": 2,
           "so": 1,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Toledo, throwing 1.1 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
@@ -950,7 +968,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 0.2 innings. Allowed 7 earned run(s) with 0 strikeout(s)."
@@ -998,7 +1019,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 1.2 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
@@ -1069,7 +1093,10 @@
           "bb": 2,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
@@ -1392,7 +1419,10 @@
           "bb": 2,
           "so": 0,
           "wp": 2,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 0.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
@@ -1440,7 +1470,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 1.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
@@ -1488,7 +1521,10 @@
           "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 3.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
@@ -1536,7 +1572,10 @@
           "bb": 1,
           "so": 6,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 5.0 innings. Struck out 6 while allowing just 8 hit(s) and 7 earned run(s) in a quality start."
@@ -1584,7 +1623,10 @@
           "bb": 4,
           "so": 3,
           "wp": 3,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Akron, throwing 3.0 innings. Allowed 2 earned run(s) with 3 strikeout(s)."
@@ -1632,7 +1674,10 @@
           "bb": 1,
           "so": 3,
           "wp": 3,
-          "hbp": 3
+          "hbp": 3,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Took the mound against Toledo, throwing 3.1 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
