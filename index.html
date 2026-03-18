@@ -266,14 +266,20 @@
       object-position: top;
     }
 
-    .pc-info { flex: 1; min-width: 0; padding-top: 2px; }
+    .pc-info {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 64px;
+    }
 
     .pc-name {
       font-size: 1.275rem;
       font-weight: 800;
       color: #1a1a2e;
       line-height: 1.2;
-      margin-bottom: 2px;
     }
 
     .pc-meta {
@@ -282,7 +288,6 @@
       letter-spacing: 0.04em;
       text-transform: uppercase;
       color: #8892b0;
-      margin-bottom: 6px;
     }
 
     .pc-pos-badge {
@@ -1149,7 +1154,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.18 (claude/rebrand-app-header-RxDYN)</div>`;
+        <div class="ps-version">VERSION 2.5.19 (claude/fix-player-card-alignment-dVaIa)</div>`;
       return;
     }
 
@@ -1191,7 +1196,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.18 (claude/rebrand-app-header-RxDYN)</div>`;
+      <div class="ps-version">VERSION 2.5.19 (claude/fix-player-card-alignment-dVaIa)</div>`;
   }
 
   async function signOut() {
@@ -1600,7 +1605,7 @@
           <div class="pc-info">
             <div class="pc-name">${escapeHTML(p.name)}</div>
             <div class="pc-meta">${schoolMeta.toUpperCase()}</div>
-            ${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}
+            <div class="pc-badges">${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}</div>
           </div>
           <button class="pc-star" data-star-id="${p.id}"
                   onclick="toggleFavorite('${p.id}', event)">
