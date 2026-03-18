@@ -2,7 +2,7 @@
   "school": "Davidson College",
   "base_url": "https://www.davidsonwildcats.com",
   "season": "2026",
-  "generated_at": "2026-03-18T02:02:18.511311Z",
+  "generated_at": "2026-03-18T02:08:24.948821Z",
   "record": "15-17",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -168,7 +168,7 @@
           "so": 1,
           "wp": 0,
           "hbp": 0,
-          "w": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
@@ -817,7 +817,7 @@
           "wp": 1,
           "hbp": 2,
           "w": 0,
-          "l": 0,
+          "l": 1,
           "sv": 0
         }
       },
@@ -974,7 +974,7 @@
           "wp": 0,
           "hbp": 2,
           "w": 0,
-          "l": 0,
+          "l": 1,
           "sv": 0
         }
       },

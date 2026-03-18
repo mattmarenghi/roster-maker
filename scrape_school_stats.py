@@ -288,8 +288,8 @@ def parse_bio_last_game(bio: dict, base_url: str = "") -> dict | None:
                 "so":  safe_int(get_field(pitch_entry, "so", "k", "strikeouts", "SO", "K")),
                 "wp":  safe_int(get_field(pitch_entry, "wp", "wildPitches", "WP")),
                 "hbp": safe_int(get_field(pitch_entry, "hbp", "hitBatters", "HBP")),
-                "w":   safe_int(get_field(pitch_entry, "w", "wins", "W")),
-                "l":   safe_int(get_field(pitch_entry, "l", "losses", "L")),
+                "w":   safe_int(get_field(pitch_entry, "w", "wins", "pitchingWins", "W")),
+                "l":   safe_int(get_field(pitch_entry, "l", "losses", "pitchingLosses", "L")),
                 "sv":  safe_int(get_field(pitch_entry, "sv", "saves", "SV")),
             }
 

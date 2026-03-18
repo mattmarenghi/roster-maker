@@ -2,13 +2,13 @@
   "school": "Towson University",
   "base_url": "https://www.towsontigers.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:18:08.966285Z",
+  "generated_at": "2026-03-18T02:12:18.511508Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Northeastern",
     "result": "W 3-2",
-    "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+    "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
     "recap_url": "https://www.towsontigers.com/news/2026/3/15/baseballs-comeback-thwarted-by-northeastern-in-series-finale.aspx",
     "recap_headline": "Towson University Athletics",
     "recap_text": ""
@@ -89,7 +89,7 @@
         "date": "2026-03-13",
         "opponent": "Northeastern",
         "result": "W 6-3",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -137,8 +137,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Monmouth University",
+        "result": "L 4-12",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29496&path=",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Monmouth University (L 4-12). Hitting .254 with 0 HR through 16 games."
     },
     "92306d8e": {
       "id": "92306d8e",
@@ -252,7 +267,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -374,8 +389,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-07",
+        "opponent": "Monmouth University",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29494&path=",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Monmouth University (L 1-4). Hitting .285 with 0 HR through 12 games."
     },
     "fb09fd45": {
       "id": "fb09fd45",
@@ -410,7 +440,7 @@
         "date": "2026-03-14",
         "opponent": "Northeastern",
         "result": "W 3-1",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -428,7 +458,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Northeastern (W 3-1). At 4.09 ERA through 13.2 innings on the season."
@@ -471,7 +504,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -523,7 +556,7 @@
         "date": "2026-03-14",
         "opponent": "Northeastern",
         "result": "W 3-1",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -570,7 +603,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -588,7 +621,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 1 K vs. Northeastern (W 3-2). At 1.48 ERA through 12.2 innings on the season."
@@ -631,7 +667,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -678,7 +714,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -696,7 +732,10 @@
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. Northeastern (W 3-2). At 3.71 ERA through 17.0 innings on the season."
@@ -766,7 +805,7 @@
         "date": "2026-03-13",
         "opponent": "Northeastern",
         "result": "W 6-3",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -784,7 +823,10 @@
           "bb": 2,
           "so": 8,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "5.0 IP, 8 K, 3 ER vs. Northeastern (W 6-3). At 5.32 ERA through 22.0 innings on the season."
@@ -822,7 +864,7 @@
         "date": "2026-03-13",
         "opponent": "Northeastern",
         "result": "W 6-3",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -840,7 +882,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "0.2 IP, 1 K vs. Northeastern (W 6-3). At 9.00 ERA through 3.0 innings on the season."
@@ -874,8 +919,35 @@
         "wp": 3,
         "opp_avg": ".364"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Monmouth University",
+        "result": "L 4-12",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29496&path=",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 1,
+          "er": 0,
+          "bb": 2,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 0 K vs. Monmouth University (L 4-12). At 24.15 ERA through 4.1 innings on the season."
     },
     "a397bd53": {
       "id": "a397bd53",
@@ -910,7 +982,7 @@
         "date": "2026-03-14",
         "opponent": "Northeastern",
         "result": "W 3-1",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -928,7 +1000,10 @@
           "bb": 1,
           "so": 7,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "6.0 IP, 7 K, 2 ER vs. Northeastern (W 3-1). At 2.84 ERA through 22.2 innings on the season."
@@ -967,8 +1042,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-08",
+        "opponent": "Monmouth University",
+        "result": "L 4-12",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29496&path=",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Monmouth University (L 4-12). Hitting .241 with 0 HR through 11 games."
     },
     "09a2a599": {
       "id": "09a2a599",
@@ -1008,7 +1098,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1055,7 +1145,7 @@
         "date": "2026-03-13",
         "opponent": "Northeastern",
         "result": "W 6-3",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29502&path=",
         "batting": null,
         "pitching": {
           "ip": "2.1",
@@ -1065,7 +1155,10 @@
           "bb": 5,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. Northeastern (W 6-3). At 7.94 ERA through 10.2 innings on the season."
@@ -1108,7 +1201,7 @@
         "date": "2026-03-14",
         "opponent": "Northeastern",
         "result": "W 3-1",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1155,7 +1248,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": null,
         "pitching": {
           "ip": "4.0",
@@ -1165,7 +1258,10 @@
           "bb": 0,
           "so": 6,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 1,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 6 K vs. Northeastern (W 3-2). At 7.96 ERA through 18.1 innings on the season."
@@ -1208,7 +1304,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1356,7 +1452,7 @@
         "date": "2026-03-15",
         "opponent": "Northeastern",
         "result": "W 3-2",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=",
         "batting": {
           "ab": 4,
           "r": 0,
