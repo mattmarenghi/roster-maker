@@ -1154,7 +1154,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.19 (claude/fix-player-card-alignment-dVaIa)</div>`;
+        <div class="ps-version">VERSION 2.5.20 (claude/update-pitcher-stats-kWx33)</div>`;
       return;
     }
 
@@ -1196,7 +1196,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.19 (claude/fix-player-card-alignment-dVaIa)</div>`;
+      <div class="ps-version">VERSION 2.5.20 (claude/update-pitcher-stats-kWx33)</div>`;
   }
 
   async function signOut() {
@@ -1511,8 +1511,11 @@
 
   function formatSeasonPitching(sp) {
     if (!sp) return null;
-    return [
+    const stats = [
       { label: 'W-L', val: `${sp.w ?? 0}-${sp.l ?? 0}` },
+    ];
+    if ((sp.sv ?? 0) > 0) stats.push({ label: 'SV', val: sp.sv });
+    stats.push(
       { label: 'ERA', val: sp.era != null ? sp.era.toFixed(2) : '-' },
       { label: 'APP', val: sp.g ?? '-' },
       { label: 'IP', val: sp.ip ?? '-' },
@@ -1520,7 +1523,8 @@
       { label: 'BB', val: sp.bb ?? '-' },
       { label: 'K', val: sp.so ?? sp.k ?? '-' },
       { label: 'WHIP', val: sp.whip != null ? sp.whip.toFixed(2) : '-' },
-    ];
+    );
+    return stats;
   }
 
   function statsGridHTML(stats) {
