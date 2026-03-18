@@ -2,7 +2,7 @@
   "school": "Winthrop University",
   "base_url": "https://www.winthropeagles.com",
   "season": "2026",
-  "generated_at": "2026-03-17T17:35:19.262997Z",
+  "generated_at": "2026-03-18T02:12:19.784007Z",
   "record": "14-6",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -214,7 +214,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. Radford (W 9-7). At 3.96 ERA through 18.2 innings on the season."
@@ -409,8 +412,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Princeton",
+        "result": "L 3-10",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23763&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ss"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Princeton (L 3-10). Hitting .153 with 0 HR through 13 games."
     },
     "3d10d88f": {
       "id": "3d10d88f",
@@ -463,7 +481,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "4.0 IP, 2 K vs. Radford (W 6-5). At 4.48 ERA through 22.1 innings on the season."
@@ -519,7 +540,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.2 IP, 1 K vs. Radford (W 9-7). At 3.83 ERA through 14.1 innings on the season."
@@ -590,8 +614,35 @@
         "wp": 0,
         "opp_avg": ".227"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Princeton",
+        "result": "L 3-10",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23763&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "3.1",
+          "h": 3,
+          "r": 5,
+          "er": 4,
+          "bb": 1,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
+        }
+      },
+      "narrative": "3.1 IP, 4 K vs. Princeton (L 3-10). At 7.06 ERA through 5.1 innings on the season."
     },
     "07c9f8fa": {
       "id": "07c9f8fa",
@@ -622,8 +673,35 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Princeton",
+        "result": "L 3-10",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23763&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "1.0 IP, 0 K vs. Princeton (L 3-10). At 6.75 ERA through 4.0 innings on the season."
     },
     "39223f70": {
       "id": "39223f70",
@@ -654,8 +732,35 @@
         "wp": 1,
         "opp_avg": ".375"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Princeton",
+        "result": "L 3-10",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23763&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.0",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "1.0 IP, 1 K vs. Princeton (L 3-10). At 4.50 ERA through 2.0 innings on the season."
     },
     "a90d06ae": {
       "id": "a90d06ae",
@@ -731,7 +836,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 3 K vs. Radford (W 9-7). At 3.96 ERA through 18.2 innings on the season."
@@ -787,7 +895,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.1 IP, 2 K vs. Radford (W 9-7). At 4.95 ERA through 9.1 innings on the season."
@@ -878,8 +989,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Princeton",
+        "result": "L 3-10",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23763&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Princeton (L 3-10). Hitting .000 with 0 HR through 9 games."
     },
     "d4ff051a": {
       "id": "d4ff051a",
@@ -932,7 +1058,10 @@
           "bb": 0,
           "so": 3,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 3 K vs. Radford (W 6-5). At 2.00 ERA through 9.0 innings on the season."
@@ -966,8 +1095,35 @@
         "wp": 0,
         "opp_avg": ".222"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Princeton",
+        "result": "L 3-10",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23763&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.1",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "2.1 IP, 1 K vs. Princeton (L 3-10). At 0.00 ERA through 4.2 innings on the season."
     },
     "6996a328": {
       "id": "6996a328",
@@ -1020,7 +1176,10 @@
           "bb": 5,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "2.0 IP, 1 K vs. Radford (W 9-7). At 7.91 ERA through 18.2 innings on the season."
@@ -1096,8 +1255,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Princeton",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23764&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "c"
+        },
+        "pitching": null
+      },
+      "narrative": "1/1 with 0 RBI vs. Princeton (W 11-0). Hitting .444 with 0 HR through 7 games."
     },
     "b794f1a1": {
       "id": "b794f1a1",
@@ -1150,7 +1324,10 @@
           "bb": 4,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "3.0 IP, 1 K vs. Radford (W 6-5). At 1.62 ERA through 11.1 innings on the season."
@@ -1184,8 +1361,35 @@
         "wp": 0,
         "opp_avg": ".385"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "Princeton",
+        "result": "L 3-10",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23763&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 0 K vs. Princeton (L 3-10). At 3.00 ERA through 3.0 innings on the season."
     },
     "5376fc65": {
       "id": "5376fc65",
@@ -1389,8 +1593,35 @@
         "wp": 4,
         "opp_avg": ".232"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-11",
+        "opponent": "Princeton",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23764&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "8.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 7,
+          "wp": 0,
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "8.0 IP, 7 K, 0 ER vs. Princeton (W 11-0). At 4.74 ERA through 15.2 innings on the season."
     },
     "71493f9c": {
       "id": "71493f9c",
@@ -1495,7 +1726,10 @@
           "bb": 2,
           "so": 6,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "8.0 IP, 6 K, 2 ER vs. Radford (W 10-9). At 3.54 ERA through 28.0 innings on the season."
@@ -1551,7 +1785,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "1.0 IP, 0 K vs. Radford (W 6-5). At 0.80 ERA through 11.2 innings on the season."
