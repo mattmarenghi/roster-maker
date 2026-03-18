@@ -1121,7 +1121,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.16 (claude/add-hits-pitcher-stats-OmXTp)</div>`;
+        <div class="ps-version">VERSION 2.5.17 (claude/two-way-player-positions-6s2mE)</div>`;
       return;
     }
 
@@ -1163,7 +1163,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.16 (claude/add-hits-pitcher-stats-OmXTp)</div>`;
+      <div class="ps-version">VERSION 2.5.17 (claude/two-way-player-positions-6s2mE)</div>`;
   }
 
   async function signOut() {
@@ -1376,6 +1376,25 @@
     return pos.includes('RHP') || pos.includes('LHP') || pos.includes('SP') || pos.includes('RP') || pos === 'P';
   }
 
+  function getPrimaryRole(p, playerData) {
+    if (!p.pos) return 'hitter';
+    const parts = p.pos.toUpperCase().split(/[\s\/,]+/);
+    const pitcherLabels = new Set(['RHP', 'LHP', 'SP', 'RP', 'P']);
+    const fieldLabels = new Set(['OF', 'CF', 'LF', 'RF', 'IF', 'INF', 'C', '1B', '2B', '3B', 'SS', 'DH', 'UTL', 'UTIL', 'MIF', 'CIF']);
+    const hasPitcherLabel = parts.some(pt => pitcherLabels.has(pt));
+    const hasFieldLabel = parts.some(pt => fieldLabels.has(pt));
+    if (!hasPitcherLabel) return 'hitter';
+    if (!hasFieldLabel) return 'pitcher';
+    // True two-way: use season appearances to decide
+    const pitchApps = playerData?.season_pitching?.g ?? 0;
+    const batApps = playerData?.season_batting?.g ?? 0;
+    if (batApps > 0 && pitchApps === 0) return 'hitter';
+    if (pitchApps > 0 && batApps === 0) return 'pitcher';
+    if (batApps > 0 && pitchApps > 0) return batApps >= pitchApps ? 'hitter' : 'pitcher';
+    // No stats yet — use label order (first listed wins)
+    return pitcherLabels.has(parts[0]) ? 'pitcher' : 'hitter';
+  }
+
   function fmtGameDate(dateStr) {
     if (!dateStr) return '';
     const [, m, d] = dateStr.split('-');
@@ -1493,12 +1512,13 @@
       : `<div class="pc-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
 
     const schoolMeta = escapeHTML(p.school);
-    const pitcher = isPitcher(p);
     const posLabel = p.pos || '';
 
     const playerData  = playerStatsMap[p.id] || null;
     const lg = playerData ? playerData.last_game : null;
     const narrative = playerData ? (playerData.narrative || '') : '';
+
+    const role = getPrimaryRole(p, playerData);
 
     // Build highlight section
     let highlightHTML = '';
@@ -1510,7 +1530,7 @@
     let lastGameHTML = '';
     let seasonHTML = '';
 
-    if (pitcher) {
+    if (role === 'pitcher') {
       const lgStats = lg ? (formatLastGamePitching(lg) || formatLastGameBatting(lg)) : null;
       if (lgStats) {
         const gameLabel = 'LAST GAME';
