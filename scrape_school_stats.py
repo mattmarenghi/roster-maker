@@ -288,6 +288,9 @@ def parse_bio_last_game(bio: dict, base_url: str = "") -> dict | None:
                 "so":  safe_int(get_field(pitch_entry, "so", "k", "strikeouts", "SO", "K")),
                 "wp":  safe_int(get_field(pitch_entry, "wp", "wildPitches", "WP")),
                 "hbp": safe_int(get_field(pitch_entry, "hbp", "hitBatters", "HBP")),
+                "w":   safe_int(get_field(pitch_entry, "w", "wins", "W")),
+                "l":   safe_int(get_field(pitch_entry, "l", "losses", "L")),
+                "sv":  safe_int(get_field(pitch_entry, "sv", "saves", "SV")),
             }
 
     if bat_data is None and pitch_data is None:
@@ -957,6 +960,19 @@ def scrape_boxscore(url: str) -> dict | None:
             if not name or name.lower() in ("totals", ""):
                 continue
 
+            # Extract pitcher decision from name cell, e.g. "Hoyt (S, 4)" or "Smith (W, 2-1)"
+            dec_w = dec_l = dec_sv = 0
+            dec_match = re.search(r'\(([WLS]|SV)(?:[,\s]|$)', name, re.IGNORECASE)
+            if dec_match:
+                dec = dec_match.group(1).upper()
+                name = name[:dec_match.start()].strip()
+                if dec == "W":
+                    dec_w = 1
+                elif dec in ("S", "SV"):
+                    dec_sv = 1
+                elif dec == "L":
+                    dec_l = 1
+
             def sv(idx, cast=float):
                 try:
                     return cast(cells[idx])
@@ -969,6 +985,7 @@ def scrape_boxscore(url: str) -> dict | None:
                 "h": sv(2, int), "r": sv(3, int), "er": sv(4, int),
                 "bb": sv(5, int), "so": sv(6, int),
                 "wp": sv(7, int), "hbp": sv(9, int) if len(cells) > 9 else 0,
+                "w": dec_w, "l": dec_l, "sv": dec_sv,
             })
         return out
 
@@ -1553,6 +1570,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
                         "ip": pt.get("ip", "0.0"), "h": pt.get("h", 0), "r": pt.get("r", 0),
                         "er": pt.get("er", 0), "bb": pt.get("bb", 0), "so": pt.get("so", 0),
                         "wp": pt.get("wp", 0), "hbp": pt.get("hbp", 0),
+                        "w": pt.get("w", 0), "l": pt.get("l", 0), "sv": pt.get("sv", 0),
                     }
 
                 player_last_game[ln_key] = {

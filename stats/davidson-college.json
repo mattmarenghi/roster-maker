@@ -2,7 +2,7 @@
   "school": "Davidson College",
   "base_url": "https://www.davidsonwildcats.com",
   "season": "2026",
-  "generated_at": "2026-03-17T16:58:08.345374Z",
+  "generated_at": "2026-03-18T02:02:18.511311Z",
   "record": "15-17",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -167,7 +167,10 @@
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Vokal pitched 1.2 innings in relief, allowing two hits and two earned runs while striking out one batter in Davidson's 9-8 victory over Fordham on March 13. Through 13.0 innings pitched this season, he recorded six strikeouts against 13 earned runs for a 9.00 ERA."
@@ -655,7 +658,10 @@
           "bb": 2,
           "so": 2,
           "wp": 1,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Champey pitched 1.1 innings in relief on March 15, allowing five hits and three earned runs while striking out two in Davidson's 26-3 loss to Fordham. Through 11.0 innings this season, he recorded 14 strikeouts against 10 earned runs for an 8.18 ERA."
@@ -703,7 +709,10 @@
           "bb": 4,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Furr appeared in relief on March 10, allowing one run on four walks and two strikeouts across 0.2 innings in Davidson's 11-10 victory over Gardner-Webb. Through 5.2 innings pitched on the season, the junior right-hander recorded 7 strikeouts against 15 earned runs for a 25.96 ERA."
@@ -806,7 +815,10 @@
           "bb": 3,
           "so": 3,
           "wp": 1,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Cavanaugh took the loss against Fordham on March 14, allowing four hits and two earned runs while striking out three over 3.1 innings in Davidson's 6-4 defeat. Through 12.1 innings pitched this season, the junior left-hander recorded 13 strikeouts against 9 earned runs for a 6.69 ERA."
@@ -909,7 +921,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Banks entered in relief and gave up 3 hits and 2 earned runs while recording 1 walk in 0.1 innings pitched during Davidson's 26-3 loss to Fordham on March 15. Through two appearances this season, the senior right-hander has pitched 0.2 innings with 1 strikeout, 4 earned runs, and a 180.00 ERA."
@@ -957,7 +972,10 @@
           "bb": 3,
           "so": 3,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Hall started for Davidson in a 26-3 loss to Fordham on March 15, allowing 5 hits and 8 runs across 4.2 innings. Through 19.2 innings pitched this season, the senior right-hander recorded 26 strikeouts with a 6.56 ERA and 14 earned runs allowed."
@@ -1115,7 +1133,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 1
         }
       },
       "narrative": "Hoyt struck out two batters and pitched a scoreless ninth inning to earn his fourth save of the season in Davidson's 9-8 victory over Fordham on March 13. Through 10.2 innings pitched this season, he recorded 14 strikeouts against a 5.29 ERA."
@@ -1218,7 +1239,10 @@
           "bb": 4,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Papciak appeared in relief against Wake Forest on March 1, allowing one hit and four walks while recording one out. Through two innings pitched this season, the right-hander posted a 18.00 ERA with two strikeouts and four earned runs."
@@ -1266,7 +1290,10 @@
           "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Wille recorded 0.1 innings pitched in relief during Davidson's 26-3 loss to Fordham on March 15, allowing one walk and no hits. Through early season action, the sophomore left-hander has appeared in two games totaling 0.2 innings with a 90.00 ERA and zero strikeouts."
@@ -1314,7 +1341,10 @@
           "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Smith pitched 0.1 innings in relief during Davidson's 26-3 loss to Fordham on March 15, allowing three hits and four earned runs. Through 3.1 innings pitched on the season, he recorded two strikeouts against nine earned runs for a 26.13 ERA."
@@ -1362,7 +1392,10 @@
           "bb": 0,
           "so": 1,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Jones entered in relief and pitched 1.1 innings without allowing a hit or run while recording one strikeout in Davidson's 6-4 loss to Fordham on March 14. Through early season appearances, he has logged 3.2 innings with a 2.81 ERA and two strikeouts across one earned run."
@@ -1410,7 +1443,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Marenghi pitched 2.0 innings in relief against Fordham on March 14, allowing three hits and one earned run while striking out two in Davidson's 6-4 loss. Through 12.2 innings pitched this season, the sophomore right-hander has recorded eight strikeouts against six earned runs for a 4.43 ERA."
@@ -1490,7 +1526,10 @@
           "bb": 1,
           "so": 2,
           "wp": 0,
-          "hbp": 2
+          "hbp": 2,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Pyne entered in relief and pitched 2.0 innings while allowing 3 hits, 4 runs, and 1 walk with 2 strikeouts in Davidson's 26-3 loss to Fordham on March 15. Through 8.0 innings pitched this season, the right-hander recorded 5 strikeouts and 8 earned runs for a 9.00 ERA."
@@ -1538,7 +1577,10 @@
           "bb": 1,
           "so": 0,
           "wp": 1,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Taggart appeared in relief against Fordham on March 13, allowing three hits and four runs in 0.1 innings pitched in Davidson's 9-8 victory. Through 9.2 innings on the season as a rookie left-hander, he recorded eight strikeouts with a 6.85 ERA."
@@ -1620,7 +1662,10 @@
           "bb": 2,
           "so": 0,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Howard went 0-for-1 with a strikeout in Davidson's 6-4 loss to Fordham on March 14, as the Wildcats' five-game winning streak ended. Through four games this season, he had recorded zero hits with a .000 average."
@@ -1668,7 +1713,10 @@
           "bb": 3,
           "so": 4,
           "wp": 0,
-          "hbp": 1
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Perkins earned the win against Fordham on March 13, allowing four hits and two earned runs while striking out four over six innings as Davidson rallied for a 9-8 Atlantic 10 Conference victory. Through 22.2 innings this season, he has recorded 22 strikeouts against 16 earned runs for a 6.49 ERA."
@@ -1716,7 +1764,10 @@
           "bb": 2,
           "so": 2,
           "wp": 0,
-          "hbp": 0
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
         }
       },
       "narrative": "Yochum pitched 2.1 innings in relief against Fordham on March 14, allowing four hits and three earned runs while striking out two in Davidson's 6-4 loss. Through 13.1 innings this season, the sophomore right-hander has recorded 18 strikeouts against 14 earned runs for a 9.62 ERA."
