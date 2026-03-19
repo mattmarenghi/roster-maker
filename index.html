@@ -808,6 +808,7 @@
       position: absolute;
       top: 18px;
       left: 16px;
+      cursor: pointer;
     }
 
     .auth-content h2 {
@@ -968,7 +969,7 @@
 
 <!-- Auth overlay (full screen) -->
 <div class="auth-overlay" id="authOverlay">
-  <div class="auth-logo">Dugout Watch</div>
+  <div class="auth-logo" onclick="hideAuthModal()">Dugout Watch</div>
   <div class="auth-content">
     <div id="authStep1">
       <h2>Get Started</h2>
@@ -990,10 +991,6 @@
       <div class="auth-error" id="authError2"></div>
     </div>
 
-    <button class="auth-back" onclick="handleAuthBack()">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
-      Back
-    </button>
   </div>
 </div>
 
@@ -1410,7 +1407,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.52 (claude/cleanup-logged-out-view-wmKmp)</div>`;
+        <div class="ps-version">VERSION 2.5.53 (claude/cleanup-logged-out-view-wmKmp)</div>`;
       return;
     }
 
@@ -1452,7 +1449,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.52 (claude/cleanup-logged-out-view-wmKmp)</div>`;
+      <div class="ps-version">VERSION 2.5.53 (claude/cleanup-logged-out-view-wmKmp)</div>`;
   }
 
   async function signOut() {
