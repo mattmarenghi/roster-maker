@@ -47,7 +47,8 @@ jobs:
         run: python3 scrape_wmt_stats.py
 
       - name: Write meta.json
-        run: echo "{\"updated_at\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"}" > meta.json
+        run: |
+          printf '{"updated_at": "%s"}\n' "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > meta.json
 
       - name: Commit and push updated stats
         run: |
