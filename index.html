@@ -225,6 +225,14 @@
       margin: 8px 0 6px;
     }
 
+    .last-updated {
+      font-size: 0.72rem;
+      font-weight: 300;
+      color: #b0b8cc;
+      margin: 5px 0 8px;
+      letter-spacing: 0.01em;
+    }
+
     .section-divider {
       height: 1.5px;
       background: #e0e4f0;
@@ -938,6 +946,7 @@
     </div>
   </div>
   <div class="section-divider"></div>
+  <p class="last-updated" id="lastUpdated"></p>
   <div id="playersArea"></div>
 </div>
 
@@ -1273,7 +1282,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.30 (claude/hide-search-flash-X9rOW)</div>`;
+        <div class="ps-version">VERSION 2.5.31 (claude/add-last-updated-timestamp-IQ5LO)</div>`;
       return;
     }
 
@@ -1315,7 +1324,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.30 (claude/hide-search-flash-X9rOW)</div>`;
+      <div class="ps-version">VERSION 2.5.31 (claude/add-last-updated-timestamp-IQ5LO)</div>`;
   }
 
   async function signOut() {
@@ -2073,9 +2082,39 @@
   }
 
   // ── Init ──────────────────────────────────────────────────────────────────
+  function formatLastUpdated(isoString) {
+    const d = new Date(isoString);
+    const yr = d.getUTCFullYear();
+    // DST: 2nd Sunday of March → 1st Sunday of November (2:00 AM)
+    function nthSunday(year, month, n) {
+      const d1 = new Date(Date.UTC(year, month, 1));
+      const first = (7 - d1.getUTCDay()) % 7;
+      return new Date(Date.UTC(year, month, 1 + first + (n - 1) * 7, 2));
+    }
+    const dstStart = nthSunday(yr, 2, 2);
+    const dstEnd = nthSunday(yr, 10, 1);
+    const isEDT = d >= dstStart && d < dstEnd;
+    const offset = isEDT ? -4 : -5;
+    const tz = isEDT ? 'EDT' : 'EST';
+    const local = new Date(d.getTime() + offset * 3600000);
+    const days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+    const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    let h = local.getUTCHours();
+    const m = local.getUTCMinutes();
+    const ampm = h >= 12 ? 'pm' : 'am';
+    h = h % 12 || 12;
+    const mStr = m === 0 ? '' : `:${String(m).padStart(2,'0')}`;
+    return `Last updated: ${days[local.getUTCDay()]}, ${months[local.getUTCMonth()]} ${local.getUTCDate()}, ${local.getUTCFullYear()} at ${h}${mStr} ${ampm} ${tz}`;
+  }
+
   async function init() {
     $('loadBar').style.width = '30%';
-    const res = await fetch('players.json');
+    const [res] = await Promise.all([
+      fetch('players.json'),
+      fetch('meta.json').then(r => r.ok ? r.json() : null).then(meta => {
+        if (meta?.updated_at) $('lastUpdated').textContent = formatLastUpdated(meta.updated_at);
+      }).catch(() => {}),
+    ]);
     $('loadBar').style.width = '70%';
     allPlayers = await res.json();
     $('loadBar').style.width = '90%';
