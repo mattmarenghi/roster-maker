@@ -513,6 +513,94 @@
     }
     .empty-state .sign-in-btn:hover { background: #3451d1; }
 
+    /* ── Logged-out landing page ────────────────────────────────────────── */
+    .logged-out-landing {
+      padding: 28px 4px 0;
+    }
+    .logged-out-landing h1 {
+      font-size: 2rem;
+      font-weight: 800;
+      color: #1a1a2e;
+      line-height: 1.2;
+      margin: 0 0 14px;
+      text-align: center;
+    }
+    .logged-out-landing .lol-desc {
+      font-size: 0.95rem;
+      color: #6b7280;
+      text-align: center;
+      line-height: 1.55;
+      margin: 0 0 28px;
+    }
+    .lol-skeleton { margin-bottom: 8px; }
+    .lol-skeleton-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .lol-skeleton-avatar {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: #e8ecf3;
+      flex-shrink: 0;
+    }
+    .lol-skeleton-lines { flex: 1; }
+    .lol-skeleton-line {
+      height: 11px;
+      background: #e8ecf3;
+      border-radius: 6px;
+      margin-bottom: 7px;
+    }
+    .lol-skeleton-line:last-child { margin-bottom: 0; }
+    .lol-skeleton-line.w65 { width: 65%; }
+    .lol-skeleton-line.w45 { width: 45%; }
+    .lol-skeleton-card {
+      background: #f4f6fb;
+      border-radius: 12px;
+      height: 72px;
+      margin-bottom: 10px;
+    }
+    .lol-skeleton-stats {
+      display: flex;
+      gap: 8px;
+      margin: 4px 0 14px;
+    }
+    .lol-skeleton-stat {
+      height: 11px;
+      background: #e8ecf3;
+      border-radius: 6px;
+      flex: 1;
+    }
+    .lol-cta-wrap {
+      margin-top: 28px;
+    }
+    .lol-cta-btn {
+      display: block;
+      width: 100%;
+      padding: 18px;
+      background: #4361ee;
+      color: #fff;
+      border: none;
+      border-radius: 14px;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+      font-family: inherit;
+      text-align: center;
+      box-sizing: border-box;
+    }
+    .lol-cta-btn:hover { background: #3451d1; }
+    .lol-cta-sub {
+      font-size: 0.82rem;
+      color: #8892b0;
+      text-align: center;
+      margin-top: 12px;
+      line-height: 1.45;
+    }
+
     /* ── Profile / Settings bottom sheet ───────────────────────────────── */
     .profile-overlay {
       display: none;
@@ -944,7 +1032,7 @@
 
 <!-- Main content: My Players (homepage) -->
 <div class="main-content" id="mainContent">
-  <div class="section-header-row">
+  <div class="section-header-row" id="sectionHeaderRow">
     <p class="section-title">My Players</p>
     <div class="sort-dropdown" id="sortDropdown" style="display:none">
       <button class="sort-dropdown-btn" id="sortDropdownBtn" onclick="toggleSortMenu(event)">Sort by</button>
@@ -964,7 +1052,7 @@
       </div>
     </div>
   </div>
-  <div class="section-divider"></div>
+  <div class="section-divider" id="sectionDivider"></div>
   <p class="last-updated" id="lastUpdated"></p>
   <div id="playersArea"></div>
 </div>
@@ -1309,7 +1397,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.45 (claude/update-dugout-logo-vembS)</div>`;
+        <div class="ps-version">VERSION 2.5.46 (claude/cleanup-logged-out-view-wmKmp)</div>`;
       return;
     }
 
@@ -1351,7 +1439,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.45 (claude/update-dugout-logo-vembS)</div>`;
+      <div class="ps-version">VERSION 2.5.46 (claude/cleanup-logged-out-view-wmKmp)</div>`;
   }
 
   async function signOut() {
@@ -1535,17 +1623,46 @@
 
     if (!currentUser) {
       syncSortSelect(false);
+      $('sectionHeaderRow').style.display = 'none';
+      $('sectionDivider').style.display = 'none';
+      $('lastUpdated').style.display = 'none';
       area.innerHTML = `
-        <div class="empty-state">
-          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-               stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-          </svg>
-          <p>Sign in to save and view your players.</p>
-          <button class="sign-in-btn" onclick="showAuthModal()">Sign In</button>
+        <div class="logged-out-landing">
+          <h1>Track Your Favorite D1 Players</h1>
+          <p class="lol-desc">Get daily updates on game highlights, stats, and more for every college baseball player you follow.</p>
+          <div class="lol-skeleton">
+            <div class="lol-skeleton-row">
+              <div class="lol-skeleton-avatar"></div>
+              <div class="lol-skeleton-lines">
+                <div class="lol-skeleton-line w65"></div>
+                <div class="lol-skeleton-line w45"></div>
+              </div>
+            </div>
+            <div class="lol-skeleton-card"></div>
+            <div class="lol-skeleton-stats">
+              <div class="lol-skeleton-stat"></div>
+              <div class="lol-skeleton-stat"></div>
+              <div class="lol-skeleton-stat"></div>
+              <div class="lol-skeleton-stat"></div>
+            </div>
+            <div class="lol-skeleton-row">
+              <div class="lol-skeleton-avatar"></div>
+              <div class="lol-skeleton-lines">
+                <div class="lol-skeleton-line w65"></div>
+                <div class="lol-skeleton-line w45"></div>
+              </div>
+            </div>
+            <div class="lol-skeleton-card"></div>
+          </div>
+          <div class="lol-cta-wrap">
+            <button class="lol-cta-btn" onclick="showAuthModal()">Sign In to Create Your List</button>
+            <p class="lol-cta-sub">Enter your email to receive a one-time password and start tracking.</p>
+          </div>
         </div>`;
       return;
     }
+    $('sectionHeaderRow').style.display = '';
+    $('sectionDivider').style.display = '';
 
     if (favorites.size === 0) {
       syncSortSelect(false);
