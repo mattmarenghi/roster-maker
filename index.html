@@ -942,6 +942,12 @@
 </div>
 
 <script>
+  // On iOS Safari the browser sometimes restores a non-zero scroll position,
+  // causing the sticky top-bar to overlap the top of .main-content on load.
+  // Disabling scroll restoration and forcing the page to the top fixes this.
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+  window.scrollTo(0, 0);
+
   const $ = id => document.getElementById(id);
   let miniSearch, allPlayers = [];
   let currentResults = [];
@@ -1257,7 +1263,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.24 (claude/improve-sort-dropdown-OH9De)</div>`;
+        <div class="ps-version">VERSION 2.5.25 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
       return;
     }
 
@@ -1299,7 +1305,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.24 (claude/improve-sort-dropdown-OH9De)</div>`;
+      <div class="ps-version">VERSION 2.5.25 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
   }
 
   async function signOut() {
