@@ -794,15 +794,13 @@
     /* ── Auth screens (full-screen style) ──────────────────────────────── */
     .auth-overlay {
       display: none;
-      position: fixed;
-      inset: 0;
+      position: relative;
+      min-height: 100vh;
       background: white;
-      z-index: 300;
       align-items: center;
       justify-content: center;
       flex-direction: column;
       padding: 20px;
-      overflow-y: auto;
     }
     .auth-overlay.open { display: flex; }
 
@@ -1348,14 +1346,17 @@
     } else {
       card.style.display = 'none';
     }
+    $('topBar').style.display = 'none';
+    $('mainContent').style.display = 'none';
     $('authOverlay').classList.add('open');
-    setTimeout(() => $('authEmail').focus(), 50);
   }
 
   function hideAuthModal() {
     pendingStarPlayer = null;
     $('authPendingCard').style.display = 'none';
     $('authOverlay').classList.remove('open');
+    $('topBar').style.display = '';
+    $('mainContent').style.display = '';
   }
 
   function handleAuthBack() {
@@ -1476,7 +1477,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.64 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+        <div class="ps-version">VERSION 2.5.65 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
       return;
     }
 
@@ -1518,7 +1519,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.64 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+      <div class="ps-version">VERSION 2.5.65 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
   }
 
   async function signOut() {
