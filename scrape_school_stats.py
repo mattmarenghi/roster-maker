@@ -1494,15 +1494,40 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     player_last_game = {}  # ln_key -> last_game_data dict
     game_recaps = {}       # date_str -> {recap, recap_url}
 
+    # Detect bio API lag: the bio API's per-player game logs often haven't been updated
+    # for the most recent game yet when the morning scrape runs, even though the stats
+    # page and game URL list are already current.  When this happens, supplement with
+    # a box score scan of just the latest game so players get fresh last-game data.
+    bio_most_recent_date = max(
+        (lg.get("date", "") for lg in bio_last_game.values()),
+        default="",
+    ) if bio_last_game else ""
+    bio_is_stale = (
+        bool(bio_last_game)
+        and most_recent is not None
+        and bio_most_recent_date < most_recent["date"]
+    )
+    if bio_is_stale:
+        print(
+            f"  Bio API lag detected: newest bio date={bio_most_recent_date}, "
+            f"most recent game={most_recent['date']} — supplementing with box score scan"
+        )
+
     # Also run the box score scan when the bio API yielded nothing — this happens for
     # schools on the older SIDEARM platform (boxscore.aspx URLs) where the /api/v2/stats/bio
     # endpoint is unavailable or returns an incompatible format.  Without this, enriched
     # schools (all players have profile_url → fallback_count==0 and bio_pairs is full) would
     # silently skip box-score scanning even though bio API returned zero results.
     bio_api_yielded_nothing = bool(bio_pairs) and not bio_last_game
-    if (fallback_count > 0 or not bio_pairs or bio_api_yielded_nothing) and games:
-        print(f"\n[5b/6] Box score scan for {fallback_count} fallback players (up to {max_games_back} games)")
-        games_to_scan = games[:max_games_back]
+    if (fallback_count > 0 or not bio_pairs or bio_api_yielded_nothing or bio_is_stale) and games:
+        # When bio data is merely stale (API did return data, just not for the latest game)
+        # and there are no fallback players, only scan the single most recent game — that is
+        # all we need to fill the gap.  For other cases scan up to max_games_back.
+        if bio_is_stale and not bio_api_yielded_nothing and fallback_count == 0:
+            games_to_scan = games[:1]
+        else:
+            games_to_scan = games[:max_games_back]
+        print(f"\n[5b/6] Box score scan for {fallback_count} fallback players ({len(games_to_scan)} game(s))")
 
         for gi, game in enumerate(games_to_scan):
             print(f"\n  --- Game {gi+1}/{len(games_to_scan)}: {game['date']} vs {game['opponent']} ---")
@@ -1632,19 +1657,21 @@ def run(base_url: str, school_slug: str, season: str = "2026",
         season_bat = batting_by_ln.get(ln_key, {}).get("season_batting")
         season_pitch = pitching_by_ln.get(ln_key, {}).get("season_pitching")
 
-        # Bio API data takes priority; fall back to box score matching by last name
+        # Bio API data is preferred, but box score data wins when it shows a more recent
+        # game — this handles the case where the bio API hasn't been updated for the
+        # most recently played game yet (common when the daily scrape runs before the
+        # API syncs overnight games).
         last_game_data = bio_last_game.get(player_id)
-        if last_game_data is None:
-            plg = player_last_game.get(ln_key)
-            if plg:
-                last_game_data = {
-                    "date": plg["date"],
-                    "opponent": plg["opponent"],
-                    "result": plg["result"],
-                    "boxscore_url": plg["boxscore_url"],
-                    "batting": plg["batting"],
-                    "pitching": plg["pitching"],
-                }
+        plg = player_last_game.get(ln_key)
+        if plg and (last_game_data is None or plg["date"] > last_game_data["date"]):
+            last_game_data = {
+                "date": plg["date"],
+                "opponent": plg["opponent"],
+                "result": plg["result"],
+                "boxscore_url": plg["boxscore_url"],
+                "batting": plg["batting"],
+                "pitching": plg["pitching"],
+            }
 
         if not season_bat and not season_pitch and not last_game_data:
             continue
