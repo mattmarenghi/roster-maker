@@ -355,7 +355,6 @@
       font-size: 0.905rem;
       font-weight: 600;
       letter-spacing: 0.04em;
-      text-transform: uppercase;
       color: #8892b0;
     }
 
@@ -1282,7 +1281,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.31 (claude/add-last-updated-timestamp-IQ5LO)</div>`;
+        <div class="ps-version">VERSION 2.5.32 (claude/fix-school-name-caps-tCfmv)</div>`;
       return;
     }
 
@@ -1324,7 +1323,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.31 (claude/add-last-updated-timestamp-IQ5LO)</div>`;
+      <div class="ps-version">VERSION 2.5.32 (claude/fix-school-name-caps-tCfmv)</div>`;
   }
 
   async function signOut() {
@@ -1598,10 +1597,18 @@
     return `${months[parseInt(m, 10) - 1]} ${parseInt(d, 10)}`;
   }
 
+  function fmtGameDOW(dateStr) {
+    if (!dateStr) return '';
+    const [y, m, d] = dateStr.split('-').map(Number);
+    const date = new Date(y, m - 1, d);
+    return ['Sun','Mon','Tue','Wed','Thur','Fri','Sat'][date.getDay()];
+  }
+
   function fmtGameMeta(lg) {
     const resultMap = { 'W': 'Win', 'L': 'Loss' };
     const resultText = lg.result ? (resultMap[lg.result] || lg.result) : null;
     const dateText = lg.date ? fmtGameDate(lg.date) : null;
+    const dowText = lg.date ? fmtGameDOW(lg.date) : null;
 
     let scoreText = null;
     if (lg.score && typeof lg.score === 'string') {
@@ -1615,9 +1622,9 @@
     }
 
     if (!resultText && !dateText) return '';
-    const inner = [resultText, scoreText].filter(Boolean).join(' ');
-    const label = [inner, dateText].filter(Boolean).join(', ');
-    return ` (${label})`;
+    const datePart = [dowText, dateText].filter(Boolean).join(' ');
+    const parts = [datePart, resultText, scoreText].filter(Boolean);
+    return `(${parts.join(', ')})`;
   }
 
   function formatLastGameBatting(lg) {
@@ -1735,7 +1742,7 @@
       if (lgStats) {
         const gameLabel = 'LAST GAME';
         lastGameHTML = `
-          <div class="pc-stats-label">${gameLabel} VS ${escapeHTML(lgStats.opponent).toUpperCase()}<span class="pc-stats-meta">${escapeHTML(lgStats.meta)}</span></div>
+          <div class="pc-stats-label">${gameLabel} VS ${escapeHTML(lgStats.opponent).toUpperCase()}<div class="pc-stats-meta">${escapeHTML(lgStats.meta)}</div></div>
           <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
       }
       const sp = playerData ? playerData.season_pitching : null;
@@ -1753,7 +1760,7 @@
       const lgStats = lg ? formatLastGameBatting(lg) : null;
       if (lgStats) {
         lastGameHTML = `
-          <div class="pc-stats-label">LAST GAME VS ${escapeHTML(lgStats.opponent).toUpperCase()}<span class="pc-stats-meta">${escapeHTML(lgStats.meta)}</span></div>
+          <div class="pc-stats-label">LAST GAME VS ${escapeHTML(lgStats.opponent).toUpperCase()}<div class="pc-stats-meta">${escapeHTML(lgStats.meta)}</div></div>
           <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
       }
       const sb = playerData ? playerData.season_batting : null;
@@ -1775,7 +1782,7 @@
           ${photoEl}
           <div class="pc-info">
             <div class="pc-name">${escapeHTML(p.name)}</div>
-            <div class="pc-meta">${schoolMeta.toUpperCase()}</div>
+            <div class="pc-meta">${schoolMeta.replace(/\bUniversity\b/g, 'Univ.')}</div>
             <div class="pc-badges">${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}</div>
           </div>
           <button class="pc-star" data-star-id="${p.id}"
