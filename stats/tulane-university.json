@@ -2,7 +2,7 @@
   "school": "Tulane University",
   "base_url": "https://www.tulanegreenwave.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:59:45.047453Z",
+  "generated_at": "2026-03-19T11:36:53.641411Z",
   "record": "11-11",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -100,17 +100,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Creighton University",
-        "result": "L",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/creighton-university/boxscore/23255",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
+        "result": "W",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 1,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 1,
-          "so": 2,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -118,7 +118,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Creighton University. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "1/2 with 0 RBI vs. Northwestern State (W). Hitting .083 with 1 HR through 12 games."
     },
     "206ce449": {
       "id": "206ce449",
@@ -210,17 +210,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "UNO",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
         "result": "W",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/uno/boxscore/23258",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 1,
-          "bb": 1,
-          "so": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -228,7 +228,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 1 RBI vs. UNO (W). Hitting .260 with 1 HR through 21 games."
+      "narrative": "0/3 with 0 RBI vs. Northwestern State (W). Hitting .250 with 1 HR through 22 games."
     },
     "c3df01b6": {
       "id": "c3df01b6",
@@ -375,15 +375,15 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Creighton University",
-        "result": "L",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/creighton-university/boxscore/23256",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
+        "result": "W",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
           "hr": 0,
@@ -393,7 +393,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Creighton University. Struggled to make contact."
+      "narrative": "0/1 with 1 RBI vs. Northwestern State (W). Hitting .276 with 1 HR through 20 games."
     },
     "c2569533": {
       "id": "c2569533",
@@ -711,17 +711,17 @@
         "opp_avg": ".154"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Creighton University",
-        "result": "L",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/creighton-university/boxscore/23255",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
+        "result": "W",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 1,
+          "ip": "0.1",
+          "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
           "wp": 0,
           "hbp": 0,
@@ -730,7 +730,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Creighton University, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "0.1 IP, 0 K vs. Northwestern State (W). At 5.62 ERA through 3.2 innings on the season."
     },
     "08e73dd9": {
       "id": "08e73dd9",
@@ -822,17 +822,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "UNO",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
         "result": "W",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/uno/boxscore/23258",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 0,
+          "ab": 3,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 3,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -840,7 +840,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. UNO (W). Hitting .324 with 1 HR through 21 games."
+      "narrative": "1/3 with 0 RBI vs. Northwestern State (W). Hitting .325 with 1 HR through 22 games."
     },
     "057377a1": {
       "id": "057377a1",
@@ -877,16 +877,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "UNO",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
         "result": "W",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/uno/boxscore/23258",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
           "h": 0,
-          "rbi": 1,
-          "bb": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "hr": 0,
           "doubles": 0,
@@ -895,7 +895,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/3 with 1 RBI vs. UNO (W). Hitting .279 with 2 HR through 17 games."
+      "narrative": "0/1 with 0 RBI vs. Northwestern State (W). Hitting .272 with 2 HR through 18 games."
     },
     "6e1b03ef": {
       "id": "6e1b03ef",
@@ -927,18 +927,18 @@
         "opp_avg": ".222"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Creighton University",
-        "result": "L",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/creighton-university/boxscore/23257",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
+        "result": "W",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": null,
         "pitching": {
-          "ip": "2.1",
-          "h": 5,
-          "r": 3,
-          "er": 2,
-          "bb": 1,
-          "so": 2,
+          "ip": "3.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 3,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -946,7 +946,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Creighton University, throwing 2.1 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+      "narrative": "3.0 IP, 3 K vs. Northwestern State (W). At 3.51 ERA through 23.1 innings on the season."
     },
     "12e2cb64": {
       "id": "12e2cb64",
@@ -1038,16 +1038,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "UNO",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
         "result": "W",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/uno/boxscore/23258",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "hr": 0,
           "doubles": 0,
@@ -1056,7 +1056,7 @@
         },
         "pitching": null
       },
-      "narrative": "1/3 with 2 RBI vs. UNO (W). Hitting .090 with 0 HR through 18 games."
+      "narrative": "0/4 with 0 RBI vs. Northwestern State (W). Hitting .090 with 0 HR through 18 games."
     },
     "1543a79d": {
       "id": "1543a79d",
@@ -1144,17 +1144,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "UNO",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
         "result": "W",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/uno/boxscore/23258",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 4,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1162,7 +1162,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. UNO (W). Hitting .095 with 0 HR through 17 games."
+      "narrative": "0/1 with 0 RBI vs. Northwestern State (W). Hitting .090 with 0 HR through 18 games."
     },
     "13b6b60b": {
       "id": "13b6b60b",
@@ -1453,18 +1453,18 @@
         "opp_avg": ".355"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Creighton University",
-        "result": "L",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/creighton-university/boxscore/23257",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
+        "result": "W",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
+          "er": 0,
           "bb": 1,
-          "so": 0,
+          "so": 1,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1472,7 +1472,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Creighton University, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Northwestern State (W). At 10.14 ERA through 7.1 innings on the season."
     },
     "94a24513": {
       "id": "94a24513",
@@ -1509,25 +1509,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Creighton University",
-        "result": "L",
-        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/creighton-university/boxscore/23256",
+        "date": "2026-03-18",
+        "opponent": "Northwestern State",
+        "result": "W",
+        "boxscore_url": "https://www.tulanegreenwave.com/sports/baseball/stats/2026/northwestern-state/boxscore/23259",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
+          "h": 2,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Creighton University. Contributed at the plate in the team's L."
+      "narrative": "2/3 with 0 RBI vs. Northwestern State (W). Hitting .281 with 1 HR through 12 games."
     },
     "00601cea": {
       "id": "00601cea",

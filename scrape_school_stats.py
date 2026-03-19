@@ -917,19 +917,33 @@ def scrape_boxscore(url: str) -> dict | None:
             name = cells[0]
             pos = cells[1] if len(cells) > 1 else ""
 
-            # Old SIDEARM (.aspx) format: cells[0] is a position abbreviation
-            # (e.g. "cf", "2b") and cells[1] is a combined cell whose get_text()
-            # returns the position prefix + player name (e.g. "cfParks, Sam").
-            # Detect this and extract the clean name from the <a> link in cells[1],
-            # or by stripping the leading position prefix from the text.
-            # Data columns (AB, R, H, …) remain at the same indices in both formats.
-            if len(name) <= 3 and name.replace(" ", "").isalpha() and pos.lower().startswith(name.lower()):
-                pos = name  # the short abbr is the position
+            # Old SIDEARM (.aspx) box scores embed position abbreviations in cells[0]
+            # rather than (or in addition to) player names.  Several variants exist:
+            #   Format A: cells[0]="cf", cells[1]="cfTruitt, Brantley" (prefix repeated)
+            #   Format B: cells[0]="cf", cells[1]="Truitt, Brantley"   (no prefix)
+            #   Format C: cells[0]="3b", cells[1]="3bBarbour, Jake"    (digit prefix)
+            #   Format D: cells[0]="PH/rf", cells[1]="PH/rfPolk, Landon" (multi-pos)
+            # New SIDEARM: cells[0]="Truitt, Brantley", cells[1]="cf"  (name first)
+            # Detect any position-in-cells[0] case and extract the clean player name.
+            _pos_cell = (
+                name
+                and (
+                    pos.lower().startswith(name.lower())  # Format A/C/D: prefix match
+                    or (not name[0].isupper() and len(name) <= 4)  # Format B: short lowercase
+                    or "/" in name  # Format D: multi-position slash
+                    or (len(name) <= 3 and any(c.isdigit() for c in name))  # Format C: "3b"
+                )
+                and not ("," in name or " " in name)  # exclude real names like "Smith, J"
+            )
+            if _pos_cell:
+                pos = name
                 link = raw_cells[1].find("a") if len(raw_cells) > 1 else None
                 if link:
                     name = link.get_text(strip=True)
+                elif pos.lower() and cells[1].lower().startswith(pos.lower()):
+                    name = cells[1][len(pos):]  # strip leading position prefix (Format A/C/D)
                 else:
-                    name = cells[1][len(name):]  # strip leading position prefix
+                    name = cells[1]  # Format B: cells[1] is the bare name
 
             if not name or name.lower() in ("totals", ""):
                 continue
