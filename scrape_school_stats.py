@@ -1243,7 +1243,7 @@ def parse_boxscore_name(raw: str) -> tuple[str, str]:
 # ---------------------------------------------------------------------------
 
 def generate_narrative_claude(player: dict, game_info: dict, article_text: str) -> str:
-    """Generate a compact 2-sentence narrative using Claude API."""
+    """Generate a compact narrative using Claude API."""
     try:
         import anthropic
     except ImportError:
@@ -1261,61 +1261,81 @@ def generate_narrative_claude(player: dict, game_info: dict, article_text: str) 
     pitching = last_game.get("pitching")
 
     if batting and batting.get("ab", 0) > 0:
-        stats_str = (
-            f"Batting: {batting['h']}-for-{batting['ab']}, "
-            f"{batting['r']} R, {batting['rbi']} RBI, {batting['bb']} BB, {batting['so']} SO"
-        )
-        if batting.get("hr", 0):
-            stats_str += f", {batting['hr']} HR"
+        b = batting
+        parts = [f"{b['h']}-for-{b['ab']}"]
+        if b.get("doubles"): parts.append(f"{b['doubles']} 2B")
+        if b.get("triples"): parts.append(f"{b['triples']} 3B")
+        if b.get("hr"):      parts.append(f"{b['hr']} HR")
+        if b.get("rbi"):     parts.append(f"{b['rbi']} RBI")
+        if b.get("r"):       parts.append(f"{b['r']} R")
+        if b.get("bb"):      parts.append(f"{b['bb']} BB")
+        if b.get("so"):      parts.append(f"{b['so']} K")
+        stats_str = "Batting: " + ", ".join(parts)
     elif pitching and str(pitching.get("ip", "0")) not in ("0", "0.0"):
+        p = pitching
         stats_str = (
-            f"Pitching: {pitching['ip']} IP, {pitching['h']} H, "
-            f"{pitching['r']} R, {pitching['er']} ER, {pitching['bb']} BB, {pitching['so']} K"
+            f"Pitching: {p['ip']} IP, {p['h']} H, {p['er']} ER, {p['bb']} BB, {p['so']} K"
         )
+        if p.get("wp"):  stats_str += f", {p['wp']} WP"
+        if p.get("hbp"): stats_str += f", {p['hbp']} HBP"
+        if p.get("w"):   stats_str += " (W)"
+        elif p.get("l"): stats_str += " (L)"
+        elif p.get("sv"): stats_str += " (SV)"
     else:
         return ""  # player didn't appear in this game
 
     # Build season context string
     sb = player.get("season_batting") or {}
     sp = player.get("season_pitching") or {}
-    season_str = ""
+    season_lines = []
     if sb.get("ab", 0) > 0:
         ba = sb["h"] / sb["ab"]
-        season_str = (
-            f"Season: {sb.get('g', '?')} G, .{int(ba * 1000):03d} AVG, "
-            f"{sb['h']} H, {sb.get('hr', 0)} HR, {sb['rbi']} RBI"
+        season_lines.append(
+            f"{sb.get('g', '?')} G, .{int(ba * 1000):03d} AVG, "
+            f"{sb['h']} H, {sb.get('hr', 0)} HR, {sb['rbi']} RBI, {sb.get('bb', 0)} BB"
         )
-    elif sp.get("ip") and str(sp.get("ip", "0")) not in ("0", "0.0"):
+    if sp.get("ip") and str(sp.get("ip", "0")) not in ("0", "0.0"):
         try:
             ip_f = float(str(sp["ip"]).split("+")[0])
             era = round(sp.get("er", 0) * 9 / ip_f, 2) if ip_f > 0 else 0.0
+            k9  = round(sp.get("so", 0) * 9 / ip_f, 1) if ip_f > 0 else 0.0
         except (ValueError, TypeError):
             era = 0.0
-        season_str = (
-            f"Season: {sp['ip']} IP, {sp.get('so', 0)} K, "
-            f"{sp.get('er', 0)} ER, {era:.2f} ERA"
+            k9  = 0.0
+        season_lines.append(
+            f"{sp['ip']} IP, {sp.get('so', 0)} K, {era:.2f} ERA, {k9:.1f} K/9"
         )
+    season_str = ("Season: " + " | ".join(season_lines)) if season_lines else ""
 
-    opponent = game_info.get("opponent", "the opponent")
-    date = game_info.get("date", "")
-    result_str = game_info.get("result", "")
+    opponent  = game_info.get("opponent", "the opponent")
+    date      = game_info.get("date", "")
+    result    = game_info.get("result", "")
+    last_name = player["name"].split()[-1]
 
-    prompt = f"""You are writing a brief, factual player spotlight for a college baseball database.
+    prompt = f"""You are writing a compact player spotlight for a college baseball scouting database, read on mobile. Brevity matters.
 
-Player: {player['name']} | {player.get('pos', 'N/A')} | {player.get('yr', '')} | {player.get('school', '')}
-Game ({date}): vs {opponent} ({result_str})
-Last game: {stats_str}
+Player: {player['name']} (last name: {last_name}) | {player.get('pos', '')} | {player.get('yr', '')} | {player.get('school', '')}
+Game ({date}): vs {opponent} — {"W" if result == "W" else "L"}
+{stats_str}
 {season_str}
 
-Game recap (use for context if available):
-{article_text[:2000] if article_text else '[No recap available]'}
+Game recap:
+{article_text[:2500] if article_text else '[No recap available]'}
 
-Write exactly 2 short sentences. Sentence 1: what happened in the game — use a specific moment or angle from the recap if available, otherwise lead with the most notable stat. Sentence 2: season stats in context (games played, key counting stats, rate stats). Rules: facts and stats only — no opinions, no assessments of the player's ability or potential, no phrases like "suggesting", "signaling", "showing", "projects as", "room for", "needs to", or any evaluative language. Do not characterize stats as good or bad. No markdown. No headers. Past tense. Do not start with the player's name."""
+Write 2 tight sentences — 3 only if a third adds something a scout genuinely needs. Lead with the most specific detail available: pull a situation or moment from the recap (a key at-bat, a jam, a specific inning) rather than just restating the stat line. The final sentence anchors the season context concisely.
+
+Rules:
+- No negative or critical evaluations (no "struggled", "failed to", "couldn't", "inconsistent", "hasn't translated", "unraveled")
+- Positive-leaning observations are fine if supported by the stats
+- Never refer to the player by position abbreviation (RHP, LHP, 1B, etc.) — use last name or a natural pronoun
+- Do not open with a generic "went X-for-Y" — find a more specific entry point when possible
+- Facts and stats only; no scouting opinions or projections
+- No markdown. Past tense."""
 
     try:
         message = client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=150,
+            max_tokens=200,
             messages=[{"role": "user", "content": prompt}],
         )
         return message.content[0].text.strip()
