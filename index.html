@@ -794,7 +794,12 @@
     .auth-overlay {
       display: none;
       position: fixed;
-      inset: 0;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      min-height: 100vh;
       background: #f5f7fa;
       align-items: flex-start;
       justify-content: center;
@@ -1480,7 +1485,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.71 (claude/fix-signin-overlay-iTUpB)</div>`;
+        <div class="ps-version">VERSION 2.5.72 (claude/fix-signin-overlay-iTUpB)</div>`;
       return;
     }
 
@@ -1522,7 +1527,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.71 (claude/fix-signin-overlay-iTUpB)</div>`;
+      <div class="ps-version">VERSION 2.5.72 (claude/fix-signin-overlay-iTUpB)</div>`;
   }
 
   async function signOut() {
