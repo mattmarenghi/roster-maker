@@ -17,6 +17,7 @@
       background: #f5f7fa;
       color: #1a1a2e;
       min-height: 100vh;
+      touch-action: manipulation;
     }
 
     /* ── Top bar: title + search + profile ─────────────────────────────── */
@@ -1284,7 +1285,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.34 (claude/fix-missing-hr-data-HtlE2)</div>`;
+        <div class="ps-version">VERSION 2.5.35 (claude/fix-missing-hr-data-HtlE2)</div>`;
       return;
     }
 
@@ -1326,7 +1327,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.34 (claude/fix-missing-hr-data-HtlE2)</div>`;
+      <div class="ps-version">VERSION 2.5.35 (claude/fix-missing-hr-data-HtlE2)</div>`;
   }
 
   async function signOut() {
