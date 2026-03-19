@@ -1153,6 +1153,10 @@
 
   function hideAuthModal() {
     $('authOverlay').classList.remove('open');
+    // iOS Safari scrolls the background page while the auth overlay is open
+    // (keyboard + input focus). Reset scroll so the sticky header doesn't
+    // overlap the top of .main-content after the overlay closes.
+    window.scrollTo(0, 0);
   }
 
   function handleAuthBack() {
@@ -1263,7 +1267,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.25 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
+        <div class="ps-version">VERSION 2.5.26 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
       return;
     }
 
@@ -1305,7 +1309,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.25 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
+      <div class="ps-version">VERSION 2.5.26 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
   }
 
   async function signOut() {
