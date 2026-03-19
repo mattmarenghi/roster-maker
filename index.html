@@ -351,12 +351,20 @@
       height: 69px;
     }
 
+    .pc-name-row {
+      display: flex;
+      align-items: flex-end;
+      gap: 6px;
+    }
+
     .pc-name {
       font-size: 1.275rem;
       font-weight: 800;
       color: #1a1a2e;
       line-height: 1.2;
       white-space: nowrap;
+      flex: 1;
+      min-width: 0;
     }
 
     .pc-meta {
@@ -401,6 +409,7 @@
       line-height: 1;
       color: #f0b429;
       transition: color 0.15s, transform 0.15s;
+      align-self: flex-end;
     }
     .pc-star:hover { transform: scale(1.15); color: #c47a00; }
 
@@ -1300,7 +1309,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.42 (claude/cleanup-search-bar-qOyNQ)</div>`;
+        <div class="ps-version">VERSION 2.5.43 (claude/expand-school-name-width-YKynx)</div>`;
       return;
     }
 
@@ -1342,7 +1351,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.42 (claude/cleanup-search-bar-qOyNQ)</div>`;
+      <div class="ps-version">VERSION 2.5.43 (claude/expand-school-name-width-YKynx)</div>`;
   }
 
   async function signOut() {
@@ -1814,19 +1823,21 @@
         <div class="pc-header">
           ${photoEl}
           <div class="pc-info">
-            <div class="pc-name">${escapeHTML(p.name)}</div>
+            <div class="pc-name-row">
+              <div class="pc-name">${escapeHTML(p.name)}</div>
+              <button class="pc-star" data-star-id="${p.id}"
+                      onclick="toggleFavorite('${p.id}', event)">
+                <svg width="22" height="22" viewBox="0 0 24 24"
+                     fill="currentColor"
+                     stroke="currentColor" stroke-width="1.8"
+                     stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                </svg>
+              </button>
+            </div>
             <div class="pc-meta">${schoolMeta.replace(/\bUniversity\b/g, 'Univ.')}</div>
             <div class="pc-badges">${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}</div>
           </div>
-          <button class="pc-star" data-star-id="${p.id}"
-                  onclick="toggleFavorite('${p.id}', event)">
-            <svg width="22" height="22" viewBox="0 0 24 24"
-                 fill="currentColor"
-                 stroke="currentColor" stroke-width="1.8"
-                 stroke-linecap="round" stroke-linejoin="round">
-              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-            </svg>
-          </button>
         </div>
         ${highlightHTML}
         ${lastGameHTML}
