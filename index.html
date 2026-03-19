@@ -1347,11 +1347,6 @@
     } else {
       card.style.display = 'none';
     }
-    // Prevent body scroll while the modal is open. Using overflow:hidden instead
-    // of position:fixed avoids an iOS Safari bug where touch hit areas for
-    // position:fixed inputs desync from their visual position after the keyboard
-    // shows and dismisses, making the input un-tappable on the second tap.
-    document.body.style.overflow = 'hidden';
     $('authOverlay').classList.add('open');
     // No autofocus — prevents keyboard from popping up and pushing content above fold on mobile
   }
@@ -1360,7 +1355,6 @@
     pendingStarPlayer = null;
     $('authPendingCard').style.display = 'none';
     $('authOverlay').classList.remove('open');
-    document.body.style.overflow = '';
   }
 
   function handleAuthBack() {
@@ -1481,7 +1475,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.62 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+        <div class="ps-version">VERSION 2.5.63 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
       return;
     }
 
@@ -1523,7 +1517,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.62 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+      <div class="ps-version">VERSION 2.5.63 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
   }
 
   async function signOut() {
