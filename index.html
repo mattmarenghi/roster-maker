@@ -1135,13 +1135,6 @@
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   window.scrollTo(0, 0);
 
-  // Prevent double-tap zoom on iOS (pinch-to-zoom is unaffected — it's a multi-finger gesture)
-  let _lastTap = 0;
-  document.addEventListener('touchend', e => {
-    const now = Date.now();
-    if (now - _lastTap < 300) e.preventDefault();
-    _lastTap = now;
-  }, { passive: false });
 
   const $ = id => document.getElementById(id);
   let miniSearch, allPlayers = [];
@@ -1460,13 +1453,10 @@
     }
   }
 
-  // Enter key support + iOS fix: inputs inside position:fixed overlays lose
-  // their tap target after the keyboard dismisses; touchstart re-focuses them.
+  // Enter key support
   document.addEventListener('DOMContentLoaded', () => {
     $('authEmail').addEventListener('keydown', e => { if (e.key === 'Enter') sendOTP(); });
     $('authCode').addEventListener('keydown', e => { if (e.key === 'Enter') verifyOTP(); });
-    $('authEmail').addEventListener('touchstart', function() { this.focus(); }, { passive: true });
-    $('authCode').addEventListener('touchstart', function() { this.focus(); }, { passive: true });
   });
 
   // ── Profile / Settings ──────────────────────────────────────────────────────
@@ -1491,7 +1481,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.61 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+        <div class="ps-version">VERSION 2.5.62 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
       return;
     }
 
@@ -1533,7 +1523,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.61 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+      <div class="ps-version">VERSION 2.5.62 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
   }
 
   async function signOut() {
