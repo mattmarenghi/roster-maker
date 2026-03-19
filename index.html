@@ -1147,15 +1147,21 @@
   function showAuthModal() {
     hideProfile();
     showAuthStep1();
+    // Freeze body scroll while the modal is open. On iOS Safari, inputs inside
+    // a position:fixed overlay still cause the body to scroll; locking it here
+    // prevents that so the homepage isn't offset when the overlay closes.
+    document.body.style.position = 'fixed';
+    document.body.style.width = '100%';
+    document.body.style.top = '0';
     $('authOverlay').classList.add('open');
     setTimeout(() => $('authEmail').focus(), 50);
   }
 
   function hideAuthModal() {
     $('authOverlay').classList.remove('open');
-    // iOS Safari scrolls the background page while the auth overlay is open
-    // (keyboard + input focus). Reset scroll so the sticky header doesn't
-    // overlap the top of .main-content after the overlay closes.
+    document.body.style.position = '';
+    document.body.style.width = '';
+    document.body.style.top = '';
     window.scrollTo(0, 0);
   }
 
@@ -1267,7 +1273,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.26 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
+        <div class="ps-version">VERSION 2.5.27 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
       return;
     }
 
@@ -1309,7 +1315,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.26 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
+      <div class="ps-version">VERSION 2.5.27 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
   }
 
   async function signOut() {
