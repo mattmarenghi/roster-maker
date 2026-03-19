@@ -17,6 +17,7 @@
       background: #f5f7fa;
       color: #1a1a2e;
       min-height: 100vh;
+      touch-action: manipulation;
     }
 
     /* ── Top bar: title + search + profile ─────────────────────────────── */
@@ -229,14 +230,14 @@
       font-size: 0.72rem;
       font-weight: 300;
       color: #b0b8cc;
-      margin: 5px 0 8px;
+      margin: 5px 0 18px;
       letter-spacing: 0.01em;
     }
 
     .section-divider {
       height: 1.5px;
       background: #e0e4f0;
-      margin-bottom: 18px;
+      margin-bottom: 5px;
     }
 
     .section-header-row {
@@ -356,6 +357,9 @@
       font-weight: 600;
       letter-spacing: 0.04em;
       color: #8892b0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .pc-pos-badge {
@@ -1281,7 +1285,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.32 (claude/fix-school-name-caps-tCfmv)</div>`;
+        <div class="ps-version">VERSION 2.5.35 (claude/fix-missing-hr-data-HtlE2)</div>`;
       return;
     }
 
@@ -1323,7 +1327,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.32 (claude/fix-school-name-caps-tCfmv)</div>`;
+      <div class="ps-version">VERSION 2.5.35 (claude/fix-missing-hr-data-HtlE2)</div>`;
   }
 
   async function signOut() {
