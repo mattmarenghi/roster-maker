@@ -1273,7 +1273,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.29 (claude/clear-search-on-reload-NUBac)</div>`;
+        <div class="ps-version">VERSION 2.5.30 (claude/hide-search-flash-X9rOW)</div>`;
       return;
     }
 
@@ -1315,7 +1315,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.29 (claude/clear-search-on-reload-NUBac)</div>`;
+      <div class="ps-version">VERSION 2.5.30 (claude/hide-search-flash-X9rOW)</div>`;
   }
 
   async function signOut() {
@@ -2104,7 +2104,6 @@
 
     $('searchBox').disabled = false;
     renderProfileBtn();
-    renderHomepage();
 
     // Always call getSession() here — this is the canonical page-load path for
     // restoring favorites.  We can't rely on onAuthStateChange(INITIAL_SESSION)
@@ -2112,11 +2111,17 @@
     // cause INITIAL_SESSION to fire before the client's auth headers are set,
     // returning an empty favorites query.  getSession() waits for storage to be
     // fully read, so the following fetchFavorites() call is always authenticated.
+    //
+    // We intentionally defer renderHomepage() until after getSession() resolves
+    // so that logged-in users never see the empty-state flash before their My
+    // Players cards appear.
     const { data: sd } = await db.auth.getSession();
     if (sd?.session?.user) {
       currentUser = sd.session.user;
       renderProfileBtn();
       await fetchFavorites();
+    } else {
+      renderHomepage();
     }
 
     // Clear any saved search on page load/reload.
