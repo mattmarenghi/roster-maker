@@ -798,6 +798,16 @@
       text-align: center;
     }
 
+    .auth-logo {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2.6rem;
+      font-weight: 400;
+      letter-spacing: 0.06em;
+      color: #4361ee;
+      line-height: 1;
+      margin-bottom: 28px;
+    }
+
     .auth-content h2 {
       font-size: 1.625rem;
       font-weight: 800;
@@ -957,9 +967,10 @@
 <!-- Auth overlay (full screen) -->
 <div class="auth-overlay" id="authOverlay">
   <div class="auth-content">
+    <div class="auth-logo">Dugout Watch</div>
     <div id="authStep1">
-      <h2>Sign In</h2>
-      <p class="auth-desc">Enter your email to receive a one-time password to access your players.</p>
+      <h2>Get Started</h2>
+      <p class="auth-desc">Enter your email — we'll send you a one-time code. No password needed.</p>
       <label class="auth-label">Email Address</label>
       <input class="auth-input" id="authEmail" type="email"
              placeholder="coach@college.edu" autocomplete="email">
@@ -1397,7 +1408,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.49 (claude/cleanup-logged-out-view-wmKmp)</div>`;
+        <div class="ps-version">VERSION 2.5.50 (claude/cleanup-logged-out-view-wmKmp)</div>`;
       return;
     }
 
@@ -1439,7 +1450,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.49 (claude/cleanup-logged-out-view-wmKmp)</div>`;
+      <div class="ps-version">VERSION 2.5.50 (claude/cleanup-logged-out-view-wmKmp)</div>`;
   }
 
   async function signOut() {
