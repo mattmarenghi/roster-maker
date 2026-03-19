@@ -1091,7 +1091,7 @@
 
 <!-- Main content: My Players (homepage) -->
 <div class="main-content" id="mainContent">
-  <div class="section-header-row" id="sectionHeaderRow">
+  <div class="section-header-row" id="sectionHeaderRow" style="display:none">
     <p class="section-title">My Players</p>
     <div class="sort-dropdown" id="sortDropdown" style="display:none">
       <button class="sort-dropdown-btn" id="sortDropdownBtn" onclick="toggleSortMenu(event)">Sort by</button>
@@ -1111,8 +1111,8 @@
       </div>
     </div>
   </div>
-  <div class="section-divider" id="sectionDivider"></div>
-  <p class="last-updated" id="lastUpdated"></p>
+  <div class="section-divider" id="sectionDivider" style="display:none"></div>
+  <p class="last-updated" id="lastUpdated" style="display:none"></p>
   <div id="playersArea"></div>
 </div>
 
@@ -1480,7 +1480,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.55 (claude/create-dw-favicon-a1wNf)</div>`;
+        <div class="ps-version">VERSION 2.5.56 (claude/hide-players-logged-out-bpGJ2)</div>`;
       return;
     }
 
@@ -1522,7 +1522,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.55 (claude/create-dw-favicon-a1wNf)</div>`;
+      <div class="ps-version">VERSION 2.5.56 (claude/hide-players-logged-out-bpGJ2)</div>`;
   }
 
   async function signOut() {
