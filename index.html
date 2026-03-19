@@ -1273,7 +1273,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.27 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
+        <div class="ps-version">VERSION 2.5.28 (claude/add-no-stats-placeholder-WA8zc)</div>`;
       return;
     }
 
@@ -1315,7 +1315,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.27 (claude/fix-homepage-scroll-mobile-NBguy)</div>`;
+      <div class="ps-version">VERSION 2.5.28 (claude/add-no-stats-placeholder-WA8zc)</div>`;
   }
 
   async function signOut() {
@@ -1735,6 +1735,10 @@
         seasonHTML = `
           <div class="pc-stats-label">SEASON TOTALS (2026)</div>
           <div class="pc-stats-box">${statsGridHTML(seasonStats)}</div>`;
+      } else if (playerData) {
+        seasonHTML = `
+          <div class="pc-stats-label">SEASON TOTALS (2026)</div>
+          <div class="pc-no-stats">No stats yet this season</div>`;
       }
     } else {
       const lgStats = lg ? formatLastGameBatting(lg) : null;
@@ -1749,11 +1753,11 @@
         seasonHTML = `
           <div class="pc-stats-label">SEASON TOTALS (2026)</div>
           <div class="pc-stats-box">${statsGridHTML(seasonStats)}</div>`;
+      } else if (playerData) {
+        seasonHTML = `
+          <div class="pc-stats-label">SEASON TOTALS (2026)</div>
+          <div class="pc-no-stats">No stats yet this season</div>`;
       }
-    }
-
-    if (!lastGameHTML && !seasonHTML && !narrative && playerData) {
-      seasonHTML = `<div class="pc-no-stats">No stats recorded this season</div>`;
     }
 
     return `
