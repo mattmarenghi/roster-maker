@@ -19,6 +19,7 @@ davidson_wildcats_roster_2026.csv
 # Node
 node_modules/
 package-lock.json
+dist/
 
 # Generated preview images
 *.png
