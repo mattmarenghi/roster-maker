@@ -516,7 +516,7 @@
 
     /* ── Logged-out landing page ────────────────────────────────────────── */
     .logged-out-landing {
-      padding: 28px 4px 0;
+      padding: 10px 4px 0;
     }
     .logged-out-landing h1 {
       font-size: 2rem;
@@ -537,7 +537,7 @@
     .lol-card {
       background: white;
       border-radius: 14px;
-      padding: 10px 12px;
+      padding: 8px 12px;
       margin-bottom: 6px;
       box-shadow: 0 2px 10px rgba(0,0,0,0.06);
     }
@@ -545,7 +545,7 @@
       display: flex;
       align-items: center;
       gap: 10px;
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }
     .lol-avatar {
       width: 38px;
@@ -566,18 +566,7 @@
       margin-bottom: 5px;
     }
     .lol-info-line.w60 { width: 60%; }
-    .lol-info-line.w40 { width: 40%; margin-bottom: 5px; }
-    .lol-badge {
-      display: inline-block;
-      font-size: 0.6rem;
-      font-weight: 700;
-      letter-spacing: 0.06em;
-      padding: 2px 6px;
-      border-radius: 4px;
-      text-transform: uppercase;
-    }
-    .lol-badge-green { background: #d1fae5; color: #059669; }
-    .lol-badge-blue { background: #dbeafe; color: #3b82f6; }
+    .lol-info-line.w40 { width: 40%; margin-bottom: 0; }
     .lol-card-stats {
       display: flex;
       border-top: 1px solid #f0f2f7;
@@ -1372,7 +1361,7 @@
     document.body.style.width = '100%';
     document.body.style.top = '0';
     $('authOverlay').classList.add('open');
-    setTimeout(() => $('authEmail').focus(), 50);
+    // No autofocus — prevents keyboard from popping up and pushing content above fold on mobile
   }
 
   function hideAuthModal() {
@@ -1503,7 +1492,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.58 (claude/fix-card-spacing-1Xrje)</div>`;
+        <div class="ps-version">VERSION 2.5.59 (claude/fix-card-spacing-1Xrje)</div>`;
       return;
     }
 
@@ -1545,7 +1534,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.58 (claude/fix-card-spacing-1Xrje)</div>`;
+      <div class="ps-version">VERSION 2.5.59 (claude/fix-card-spacing-1Xrje)</div>`;
   }
 
   async function signOut() {
@@ -1745,7 +1734,6 @@
                 <div class="lol-card-info">
                   <div class="lol-info-line w60"></div>
                   <div class="lol-info-line w40"></div>
-                  <span class="lol-badge lol-badge-green">3B</span>
                 </div>
               </div>
               <div class="lol-card-stats">
@@ -1763,7 +1751,6 @@
                 <div class="lol-card-info">
                   <div class="lol-info-line w60"></div>
                   <div class="lol-info-line w40"></div>
-                  <span class="lol-badge lol-badge-blue">SP</span>
                 </div>
               </div>
               <div class="lol-card-stats">
