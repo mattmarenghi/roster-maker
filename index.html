@@ -6,7 +6,7 @@
   <title>Dugout Watch</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.1/dist/umd/index.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <style>
@@ -31,14 +31,20 @@
       z-index: 50;
     }
 
+    .header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
     .site-title {
-      font-family: 'Big Shoulders Display', sans-serif;
+      font-family: 'Bebas Neue', sans-serif;
       font-size: 2rem;
-      font-weight: 800;
-      letter-spacing: 0.04em;
+      font-weight: 400;
+      letter-spacing: 0.06em;
       color: #1a1a2e;
-      text-align: center;
-      margin-bottom: 14px;
+      line-height: 42px;
     }
 
     .search-row {
@@ -812,8 +818,6 @@
     }
     .search-cancel.visible { display: block; }
 
-    /* Hide profile button during search */
-    .search-row.searching .profile-btn { display: none; }
     .search-row.searching .search-cancel { display: block; }
 
     /* ── Favorite toast notification ───────────────────────────────────── */
@@ -896,7 +900,16 @@
 
 <!-- Top bar -->
 <div class="top-bar" id="topBar">
-  <div class="site-title">Dugout Watch</div>
+  <div class="header-row">
+    <div class="site-title">Dugout Watch</div>
+    <button class="profile-btn profile-btn-guest" id="profileBtn" onclick="showProfile()">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+        <circle cx="12" cy="7" r="4"/>
+      </svg>
+    </button>
+  </div>
   <div class="search-row" id="searchRow">
     <div class="search-wrap" id="searchWrap">
       <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"
@@ -913,13 +926,6 @@
       </button>
       <div class="search-results-dropdown" id="searchResults"></div>
     </div>
-    <button class="profile-btn profile-btn-guest" id="profileBtn" onclick="showProfile()">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-           stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
-        <circle cx="12" cy="7" r="4"/>
-      </svg>
-    </button>
     <button class="search-cancel" id="searchCancel" onclick="cancelSearch()">Cancel</button>
   </div>
 </div>
@@ -1294,7 +1300,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.39 (claude/fix-player-card-spacing-D74Im)</div>`;
+        <div class="ps-version">VERSION 2.5.40 (claude/align-logo-header-mjvBe)</div>`;
       return;
     }
 
@@ -1336,7 +1342,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.39 (claude/fix-player-card-spacing-D74Im)</div>`;
+      <div class="ps-version">VERSION 2.5.40 (claude/align-logo-header-mjvBe)</div>`;
   }
 
   async function signOut() {
