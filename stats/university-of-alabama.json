@@ -2,7 +2,7 @@
   "school": "University of Alabama",
   "base_url": "https://www.rolltide.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:05:16.356007Z",
+  "generated_at": "2026-03-19T08:00:41.945473Z",
   "record": "47-49",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -11,7 +11,7 @@
     "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
     "recap_url": "https://www.rolltide.com/news/2026/3/17/baseball-right-field-terrace-at-sewell-thomas-stadium-open-to-all-fans-for-florida-series",
     "recap_headline": "University of Alabama Athletics",
-    "recap_text": "TUSCALOOSA, Ala.\n\u2013 The Right Field Terrace at Sewell-Thomas Stadium is open to all fans for Alabama's upcoming weekend series against No. 18 Florida from March 20-22.\nFans of all ages are welcome to sit in the Right Field Terrace area for the Spring Break series. Interested parties can purchase regular game tickets in advance at\nwww.RollTide.com/tickets\n, or on gameday at the Gate 3 (home plate) or Gate 8 (center field) ticket windows at The Joe. Season ticket holders can utilize their ticket for access to the Right Field Terrace, as well.\nAll people wishing to enter the Right Field Terrace with a cooler and/or dog must enter through Gate 6, located directly behind right field. Fans will be expected to follow the same rules as students during their time in the Terrace. A list of the Right Field Terrace rules can be found\nhere\n."
+    "recap_text": "TUSCALOOSA, Ala.\n- The Right Field Terrace at Sewell-Thomas Stadium is open to all fans for Alabama's upcoming weekend series against No. 18 Florida from March 20-22.\nFans of all ages are welcome to sit in the Right Field Terrace area for the Spring Break series. Interested parties can purchase regular game tickets in advance at\nwww.RollTide.com/tickets\n, or on gameday at the Gate 3 (home plate) or Gate 8 (center field) ticket windows at The Joe. Season ticket holders can utilize their ticket for access to the Right Field Terrace, as well.\nAll people wishing to enter the Right Field Terrace with a cooler and/or dog must enter through Gate 6, located directly behind right field. Fans will be expected to follow the same rules as students during their time in the Terrace. A list of the Right Field Terrace rules can be found\nhere\n."
   },
   "players": {
     "043e9144": {
@@ -371,17 +371,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Kentucky",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
         "result": "L",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/kentucky/boxscore/20200",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 1,
-          "rbi": 2,
-          "bb": 0,
-          "so": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -389,7 +389,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 2 RBI against Kentucky. Struggled to make contact."
+      "narrative": "2/4 with 0 RBI vs. South Alabama (L). Hitting .320 with 2 HR through 21 games."
     },
     "0809f567": {
       "id": "0809f567",
@@ -426,14 +426,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Kentucky",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
         "result": "L",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/kentucky/boxscore/20200",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 1,
@@ -444,7 +444,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Kentucky. Struggled to make contact."
+      "narrative": "1/4 with 0 RBI vs. South Alabama (L). Hitting .343 with 4 HR through 22 games."
     },
     "2e2ba5ce": {
       "id": "2e2ba5ce",
@@ -688,26 +688,26 @@
         "opp_avg": ".280"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Kentucky",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
         "result": "L",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/kentucky/boxscore/20199",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": null,
         "pitching": {
-          "ip": "1.2",
-          "h": 1,
+          "ip": "2.0",
+          "h": 4,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 2,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Kentucky, throwing 1.2 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "2.0 IP, 2 K vs. South Alabama (L). At 2.06 ERA through 13.1 innings on the season."
     },
     "99aea875": {
       "id": "99aea875",
@@ -1094,16 +1094,16 @@
         "opp_avg": ".244"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Troy",
-        "result": "W",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/troy/boxscore/21699",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 1,
-          "r": 2,
-          "er": 1,
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 1,
           "so": 1,
           "wp": 0,
@@ -1113,7 +1113,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Troy, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. South Alabama (L). At 4.86 ERA through 11.1 innings on the season."
     },
     "1d890415": {
       "id": "1d890415",
@@ -1150,12 +1150,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Kentucky",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
         "result": "L",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/kentucky/boxscore/20200",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -1168,7 +1168,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Kentucky. Struggled to make contact."
+      "narrative": "0/2 with 0 RBI vs. South Alabama (L). Hitting .000 with 0 HR through 5 games."
     },
     "1a66f469": {
       "id": "1a66f469",
@@ -1200,18 +1200,18 @@
         "opp_avg": ".211"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "North Florida",
-        "result": "W",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/north-florida/boxscore/21697",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "0.2",
+          "h": 2,
           "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 2,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1219,7 +1219,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against North Florida, throwing 1.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.2 IP, 0 K vs. South Alabama (L). At 0.00 ERA through 4.2 innings on the season."
     },
     "58667426": {
       "id": "58667426",
@@ -1519,17 +1519,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-04",
-        "opponent": "Alabama State",
-        "result": "W",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/alabama-state/boxscore/21694",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
+        "result": "L",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": {
           "ab": 2,
-          "r": 0,
-          "h": 0,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
+          "bb": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1537,7 +1537,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Alabama State. Struggled to make contact."
+      "narrative": "1/2 with 0 RBI vs. South Alabama (L). Hitting .214 with 1 HR through 8 games."
     },
     "e9971783": {
       "id": "e9971783",
@@ -1569,18 +1569,18 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Kentucky",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
         "result": "L",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/kentucky/boxscore/20199",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
+          "ip": "0.1",
           "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 2,
+          "r": 1,
+          "er": 0,
+          "bb": 0,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1588,7 +1588,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Kentucky, throwing 2.0 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.1 IP, 0 K vs. South Alabama (L). At 6.23 ERA through 13.0 innings on the season."
     },
     "e6912296": {
       "id": "e6912296",
@@ -1705,26 +1705,26 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Kentucky",
+        "date": "2026-03-17",
+        "opponent": "South Alabama",
         "result": "L",
-        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/kentucky/boxscore/20198",
+        "boxscore_url": "https://www.rolltide.com/sports/baseball/stats/2026/south-alabama/boxscore/21700",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 1,
-          "r": 0,
+          "h": 2,
+          "r": 3,
           "er": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 1,
           "wp": 0,
           "hbp": 0,
           "w": 0,
-          "l": 0,
+          "l": 1,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. South Alabama (L). At 1.27 ERA through 7.1 innings on the season."
     },
     "4d7a3da7": {
       "id": "4d7a3da7",

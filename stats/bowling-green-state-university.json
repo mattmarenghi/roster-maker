@@ -2,7 +2,7 @@
   "school": "Bowling Green State University",
   "base_url": "https://www.bgsufalcons.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:40:20.887770Z",
+  "generated_at": "2026-03-19T07:35:19.152653Z",
   "record": "22-33",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -103,26 +103,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-02-25",
-        "opponent": "Cincinnati",
-        "result": "L",
-        "boxscore_url": "https://www.bgsufalcons.com/sports/baseball/stats/2026/cincinnati/boxscore/24797",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
-          "hr": 0,
-          "doubles": 0,
-          "triples": 0,
-          "pos": ""
-        },
-        "pitching": null
-      },
-      "narrative": "Went 0/3 with 0 RBI against Cincinnati. Struggled to make contact."
+      "last_game": null,
+      "narrative": null
     },
     "7d96c8ba": {
       "id": "7d96c8ba",

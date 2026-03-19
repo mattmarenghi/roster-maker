@@ -2,7 +2,7 @@
   "school": "The University of Southern Mississippi",
   "base_url": "https://www.southernmiss.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:03:20.627388Z",
+  "generated_at": "2026-03-19T07:58:56.992061Z",
   "record": "3-6",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -540,25 +540,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
           "ab": 3,
-          "r": 1,
-          "h": 1,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Arkansas State. Contributed at the plate in the team's L."
+      "narrative": "0/3 with 0 RBI vs. Nicholls (W). Hitting .300 with 4 HR through 21 games."
     },
     "fe0bf929": {
       "id": "fe0bf929",
@@ -1010,26 +1010,26 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "North Alabama",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
         "result": "W",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/north-alabama/boxscore/12094",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 1,
+          "h": 2,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 1,
-          "wp": 1,
+          "so": 0,
+          "wp": 0,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against North Alabama, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Nicholls (W). At 0.00 ERA through 6.0 innings on the season."
     },
     "ec436d25": {
       "id": "ec436d25",
@@ -1302,26 +1302,26 @@
         "opp_avg": ".123"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Arkansas State",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
         "result": "W",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12101",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
+          "ip": "1.0",
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 3,
+          "so": 0,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Arkansas State, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Nicholls (W). At 2.11 ERA through 17.1 innings on the season."
     },
     "857bf61b": {
       "id": "857bf61b",
@@ -1390,17 +1390,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arkansas State",
-        "result": "L",
-        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/arkansas-state/boxscore/12102",
+        "date": "2026-03-17",
+        "opponent": "Nicholls",
+        "result": "W",
+        "boxscore_url": "https://www.southernmiss.com/sports/baseball/stats/2026/nicholls/boxscore/12103",
         "batting": {
-          "ab": 1,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1408,7 +1408,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Arkansas State. Struggled to make contact."
+      "narrative": "0/3 with 0 RBI vs. Nicholls (W). Hitting .200 with 2 HR through 20 games."
     },
     "d5ba409d": {
       "id": "d5ba409d",

@@ -2,13 +2,13 @@
   "school": "Manhattan University",
   "base_url": "https://www.gojaspers.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:51:24.228345Z",
+  "generated_at": "2026-03-19T07:46:33.063227Z",
   "record": "6-11",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Fairfield",
     "result": "W 7-3",
-    "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+    "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
     "recap_url": "https://www.gojaspers.com/news/2026/3/15/sosas-three-hit-day-not-enough-for-baseball-at-fairfield-in-series-finale.aspx",
     "recap_headline": "Sosa\u2019s Three-Hit Day Not Enough for Baseball at Fairfield in Series Finale",
     "recap_text": ""
@@ -121,7 +121,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -185,7 +185,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -311,7 +311,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -519,7 +519,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -620,7 +620,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -796,7 +796,7 @@
         "date": "2026-03-14",
         "opponent": "Fairfield",
         "result": "W 4-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -878,7 +878,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -925,7 +925,7 @@
         "date": "2026-03-14",
         "opponent": "Fairfield",
         "result": "W 4-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1021,7 +1021,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1110,7 +1110,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1157,7 +1157,7 @@
         "date": "2026-03-13",
         "opponent": "Fairfield",
         "result": "W 11-2",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1409,7 +1409,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1461,7 +1461,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1572,7 +1572,7 @@
         "date": "2026-03-13",
         "opponent": "Fairfield",
         "result": "W 11-2",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1631,7 +1631,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1690,7 +1690,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
         "batting": {
           "ab": 0,
           "r": 0,

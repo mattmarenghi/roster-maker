@@ -2,16 +2,16 @@
   "school": "George Washington University",
   "base_url": "https://gwsports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:46:40.396513Z",
+  "generated_at": "2026-03-19T07:41:52.415857Z",
   "record": "17-26",
   "most_recent_game": {
-    "date": "2026-02-28",
-    "opponent": "Saint Peter S",
-    "result": "W 8-2",
-    "boxscore_url": "https://gwsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15456",
-    "recap_url": "https://gwsports.com/news/2026/2/28/early-homers-lead-baseball-past-saint-peters-8-2",
+    "date": "2026-03-18",
+    "opponent": "James Madison",
+    "result": "W 12-7",
+    "boxscore_url": "https://gwsports.com/sports/baseball/stats/2026/james-madison/boxscore/15464",
+    "recap_url": "https://gwsports.com/news/2026/3/18/baseball-slips-at-jmu-12-7",
     "recap_headline": "George Washington University Athletics",
-    "recap_text": "ARLINGTON, Va. -\nA pair of two-run\u00a0dingers in the first two innings did the job for GW baseball on a gorgeous Saturday afternoon at Tucker Field, besting Saint Peter's for the second-straight day, 8-2.\nCharlie Rogan\nlaunched his fourth homer of the season three batters into the bottom of the first, a two-run shot that scored\nRobbie Lavey\n. An inning later, a two-out walk set the stage for\nConnor Jones'\nfirst long ball of the year, which doubled the Buff & Blue's advantage to 4-0.\nGW got an unearned run in the third inning before the Peacocks got two back in the\u00a0fourth on a solo homer and a two-out RBI single.\nThe score remained 5-2 until the Revolutionaries put the game to bed in the eighth inning with a trio of tallies on RBIs from Rogan,\nBrodie Freker\nand\nCharlie Walsh\n. Rogan was the offensive leader on the day, going 2-for-5 with two runs scored and three driven in.\nAndrew Cutler\nearned his first win of the season for GW, tossing five innings with two runs allowed on three hits, striking out six.\nColin Lebel\nwas dynamite in relief, facing the minimum over three innings with five punchouts.\nDrew Harris\nfinished things off with a scoreless ninth.\nGW will look to finish off the series sweep on Sunday afternoon with a 12 p.m. first pitch from The Tuck."
+    "recap_text": "The George Washington baseball team suffered a 12-7 setback at James Madison on Wednesday afternoon, dropping the Revolutionaries to 8-11 on the season.\nThe Buff & Blue jumped out to an early lead, plating three runs in the second inning.\nJack Kent\ngot the scoring started with a double down the right field line, scoring\nConlon Walker\nfrom second base. Kent scored later in the inning via a wild pitch, while\nRobbie Lavey\ndrove in the frame's third run on a double to right center, scoring\nConnor Jones\n.\nJMU quickly erased the deficit with three runs of its own in the home half of the second, but GW recaptured a one-run lead with an RBI groundout from\nLuke Maltacea\nin the third.\nNick Mullen\ndoubled GW's advantage with a sacrifice fly to left field, scoring Crisitno Tufano from third.\nThe Dukes' offense erupted for four runs in the fourth, one in the fifth and four more in the sixth to put the game out of reach.\nJack Kent\nregistered his second RBI of the day on a bunt single in the fifth, while Walker picked up an RBI single in the ninth, but GW couldn't put together a comeback late.\nLiam Thyen\nearned his second midweek start of the season, tossing 2.0 innings and allowing three earned runs.\nAidan Carey\nwas charged with the loss in relief, allowing three runs in 1.2 innings of work.\nJasper Nadel\nand\nHenry Knighton\nboth turned in scoreless appearances with one inning in relief each.\nGW turns its attention to a weekend series at Saint Joseph's starting on Friday. First pitch on Hawk Hill is set for 3:00 p.m. on ESPN+."
   },
   "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"

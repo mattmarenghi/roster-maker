@@ -2,7 +2,7 @@
   "school": "California State University, Fresno",
   "base_url": "https://www.gobulldogs.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:41:49.004524Z",
+  "generated_at": "2026-03-19T07:36:53.628664Z",
   "record": "27-35",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -559,17 +559,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Nevada",
+        "date": "2026-03-17",
+        "opponent": "CSUN",
         "result": "L",
-        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18997",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/csun/boxscore/18998",
         "batting": {
           "ab": 5,
-          "r": 0,
+          "r": 1,
           "h": 2,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -577,7 +577,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against Nevada. Had an outstanding performance at the plate (0.400)."
+      "narrative": "2/5 with 0 RBI vs. CSUN (L). Hitting .300 with 0 HR through 17 games."
     },
     "6857ff4e": {
       "id": "6857ff4e",
@@ -779,25 +779,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Nevada",
+        "date": "2026-03-17",
+        "opponent": "CSUN",
         "result": "L",
-        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18997",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/csun/boxscore/18998",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Nevada. Struggled to make contact."
+      "narrative": "2/4 with 1 RBI vs. CSUN (L). Hitting .217 with 2 HR through 19 games."
     },
     "8e1b26fc": {
       "id": "8e1b26fc",

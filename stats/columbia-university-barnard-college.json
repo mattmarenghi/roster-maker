@@ -2,7 +2,7 @@
   "school": "Columbia University-Barnard College",
   "base_url": "https://www.gocolumbialions.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:43:33.878579Z",
+  "generated_at": "2026-03-19T07:38:35.685757Z",
   "record": "2-11",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -952,17 +952,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "South Florida",
+        "date": "2026-03-17",
+        "opponent": "UCF",
         "result": "L",
-        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/south-florida/boxscore/15173",
+        "boxscore_url": "https://www.gocolumbialions.com/sports/baseball/stats/2026/ucf/boxscore/15175",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 1,
+          "r": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -970,7 +970,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against South Florida. Contributed at the plate in the team's L."
+      "narrative": "0/3 with 0 RBI vs. UCF (L). Hitting .208 with 2 HR through 13 games."
     },
     "6b075d0a": {
       "id": "6b075d0a",

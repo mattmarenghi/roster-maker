@@ -1,6 +1,6 @@
 # D1 Baseball Stats Coverage Report
 
-_Generated: 2026-03-18 08:19 UTC_
+_Generated: 2026-03-19 08:15 UTC_
 
 ## Summary
 
@@ -13,7 +13,7 @@ _Generated: 2026-03-18 08:19 UTC_
 | Incompatible (no Sidearm stats) | 41 |
 | Scraped — missing batting stats | 0 |
 | Scraped — missing pitching stats | 0 |
-| Scraped — missing game recap | 148 |
+| Scraped — missing game recap | 146 |
 | Scraped — missing season record | 0 |
 
 ## Compatible but Not Yet Scraped (8)
@@ -27,7 +27,7 @@ _Generated: 2026-03-18 08:19 UTC_
 - U.S. Military Academy
 - University at Buffalo, the State University of New York
 
-## Scraped but Missing Game Recaps (148)
+## Scraped but Missing Game Recaps (146)
 
 - Alabama A&M University
 - Alabama State University
@@ -139,8 +139,6 @@ _Generated: 2026-03-18 08:19 UTC_
 - University of Central Arkansas
 - University of Central Florida
 - University of Cincinnati
-- University of Connecticut
-- University of Delaware
 - University of Evansville
 - University of Iowa
 - University of Louisiana Monroe

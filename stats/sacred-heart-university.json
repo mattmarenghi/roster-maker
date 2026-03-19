@@ -2,7 +2,7 @@
   "school": "Sacred Heart University",
   "base_url": "https://sacredheartpioneers.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:58:24.783527Z",
+  "generated_at": "2026-03-19T07:53:29.258242Z",
   "record": "17-23",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -27,8 +27,8 @@
         "g": 7,
         "gs": 2,
         "avg": 0.0,
-        "ops": 0.133,
-        "ab": 13,
+        "ops": 0.143,
+        "ab": 12,
         "r": 0,
         "h": 0,
         "doubles": 0,
@@ -41,9 +41,9 @@
         "hbp": 0,
         "so": 6,
         "gdp": 0,
-        "obp": 0.133,
+        "obp": 0.143,
         "sf": 0,
-        "sh": 0,
+        "sh": 1,
         "sb": 0,
         "sb_att": 0
       },
@@ -960,17 +960,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Quinnipiac",
+        "date": "2026-03-17",
+        "opponent": "Boston College",
         "result": "L",
-        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/quinnipiac/boxscore/16829",
+        "boxscore_url": "https://sacredheartpioneers.com/sports/baseball/stats/2026/boston-college/boxscore/16830",
         "batting": {
           "ab": 4,
           "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
           "doubles": 1,
           "triples": 0,
@@ -978,7 +978,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Quinnipiac. Contributed at the plate in the team's L."
+      "narrative": "1/4 with 0 RBI vs. Boston College (L). Hitting .230 with 0 HR through 8 games."
     },
     "dcf6475b": {
       "id": "dcf6475b",

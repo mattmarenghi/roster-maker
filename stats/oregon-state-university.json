@@ -2,7 +2,7 @@
   "school": "Oregon State University",
   "base_url": "https://osubeavers.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:56:11.979413Z",
+  "generated_at": "2026-03-19T07:51:37.331332Z",
   "record": "14-5",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -1015,25 +1015,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "San Diego",
-        "result": "W",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22546",
+        "date": "2026-03-17",
+        "opponent": "Portland",
+        "result": "L",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/portland/boxscore/22547",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
-          "so": 1,
-          "hr": 1,
-          "doubles": 1,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 2 RBI against San Diego. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
+      "narrative": "0/3 with 0 RBI vs. Portland (L). Hitting .203 with 4 HR through 19 games."
     },
     "53c49fb2": {
       "id": "53c49fb2",
@@ -1176,17 +1176,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "San Diego",
-        "result": "W",
-        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/san-diego/boxscore/22546",
+        "date": "2026-03-17",
+        "opponent": "Portland",
+        "result": "L",
+        "boxscore_url": "https://osubeavers.com/sports/baseball/stats/2026/portland/boxscore/22547",
         "batting": {
-          "ab": 5,
-          "r": 2,
-          "h": 2,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1194,7 +1194,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against San Diego. Had an outstanding performance at the plate (0.400)."
+      "narrative": "0/3 with 0 RBI vs. Portland (L). Hitting .274 with 2 HR through 13 games."
     },
     "66e3464c": {
       "id": "66e3464c",

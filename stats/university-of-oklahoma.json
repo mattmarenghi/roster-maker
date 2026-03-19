@@ -2,7 +2,7 @@
   "school": "University of Oklahoma",
   "base_url": "https://soonersports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:12:24.195152Z",
+  "generated_at": "2026-03-19T08:08:09.978558Z",
   "record": "65-70",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -269,17 +269,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas A&M",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
         "result": "L",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/texas-am/boxscore/15384",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
+          "bb": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -287,7 +287,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Texas A&M. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "1/3 with 0 RBI vs. Southeastern Louisiana (L). Hitting .243 with 2 HR through 15 games."
     },
     "1a1c8f3f": {
       "id": "1a1c8f3f",
@@ -379,25 +379,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas A&M",
-        "result": "W",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/texas-am/boxscore/15386",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
+        "result": "L",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 2,
-          "rbi": 4,
-          "bb": 1,
-          "so": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 4 RBI against Texas A&M. Had an outstanding performance at the plate (0.500)."
+      "narrative": "1/4 with 0 RBI vs. Southeastern Louisiana (L). Hitting .350 with 2 HR through 20 games."
     },
     "5f6460f8": {
       "id": "5f6460f8",
@@ -507,25 +507,25 @@
         "opp_avg": ".207"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas A&M",
-        "result": "W",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/texas-am/boxscore/15386",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
+        "result": "L",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 3,
-          "rbi": 3,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
           "so": 1,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 3 RBI against Texas A&M. Had an outstanding performance at the plate (0.750)."
+      "narrative": "0/3 with 0 RBI vs. Southeastern Louisiana (L). Hitting .338 with 2 HR through 21 games."
     },
     "cb657b81": {
       "id": "cb657b81",
@@ -723,13 +723,13 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas A&M",
-        "result": "W",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/texas-am/boxscore/15386",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
+        "result": "L",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": {
-          "ab": 1,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 0,
@@ -741,7 +741,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 0 RBI against Texas A&M. Had an outstanding performance at the plate (1.000)."
+      "narrative": "1/3 with 0 RBI vs. Southeastern Louisiana (L). Hitting .285 with 0 HR through 11 games."
     },
     "4138e82b": {
       "id": "4138e82b",
@@ -939,25 +939,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas A&M",
-        "result": "W",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/texas-am/boxscore/15386",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
+        "result": "L",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 3,
-          "bb": 1,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
-          "hr": 1,
+          "hr": 0,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 3 RBI against Texas A&M. Hit 1 home run(s). Had an outstanding performance at the plate (0.500)."
+      "narrative": "0/3 with 0 RBI vs. Southeastern Louisiana (L). Hitting .346 with 4 HR through 19 games."
     },
     "6fe01416": {
       "id": "6fe01416",
@@ -1526,26 +1526,26 @@
         "opp_avg": ".167"
       },
       "last_game": {
-        "date": "2026-02-16",
-        "opponent": "New Mexico State",
-        "result": "W",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/new-mexico-state/boxscore/15546",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
+        "result": "L",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "0.2",
+          "h": 1,
           "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against New Mexico State, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "0.2 IP, 0 K vs. Southeastern Louisiana (L). At 7.50 ERA through 1.2 innings on the season."
     },
     "245c0203": {
       "id": "245c0203",
@@ -1577,18 +1577,18 @@
         "opp_avg": ".233"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas A&M",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
         "result": "L",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/texas-am/boxscore/15384",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 3,
+          "ip": "1.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1596,7 +1596,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Texas A&M, throwing 1.0 innings. Allowed 0 earned run(s) with 3 strikeout(s)."
+      "narrative": "1.1 IP, 1 K vs. Southeastern Louisiana (L). At 2.50 ERA through 7.2 innings on the season."
     },
     "54cf4ab4": {
       "id": "54cf4ab4",
@@ -1785,26 +1785,26 @@
         "opp_avg": ".200"
       },
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "UT Arlington",
-        "result": "W",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/ut-arlington/boxscore/15562",
+        "date": "2026-03-17",
+        "opponent": "Southeastern Louisiana",
+        "result": "L",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/15563",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "0.2",
+          "h": 1,
           "r": 0,
           "er": 0,
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against UT Arlington, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Southeastern Louisiana (L). At 0.00 ERA through 4.0 innings on the season."
     },
     "69cc1bcf": {
       "id": "69cc1bcf",

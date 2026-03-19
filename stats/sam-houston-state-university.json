@@ -2,7 +2,7 @@
   "school": "Sam Houston State University",
   "base_url": "https://www.gobearkats.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:59:07.104134Z",
+  "generated_at": "2026-03-19T07:54:19.207422Z",
   "record": "47-61",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -489,17 +489,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Jax State",
-        "result": "L",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15202",
+        "date": "2026-03-17",
+        "opponent": "Lamar",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/lamar/boxscore/15203",
         "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
+          "so": 3,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -507,7 +507,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Jax State. Struggled to make contact."
+      "narrative": "1/5 with 1 RBI vs. Lamar (W). Hitting .214 with 1 HR through 6 games."
     },
     "a8b36935": {
       "id": "a8b36935",
@@ -1457,9 +1457,9 @@
         "batting": null,
         "pitching": {
           "ip": "1.2",
-          "h": 2,
+          "h": 3,
           "r": 2,
-          "er": 1,
+          "er": 2,
           "bb": 1,
           "so": 0,
           "wp": 1,
@@ -1552,13 +1552,13 @@
         "opp_avg": ".268"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Jax State",
-        "result": "L",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/jax-state/boxscore/15202",
+        "date": "2026-03-17",
+        "opponent": "Lamar",
+        "result": "W",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/lamar/boxscore/15203",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
+          "ip": "0.1",
           "h": 2,
           "r": 1,
           "er": 1,
@@ -1567,11 +1567,11 @@
           "wp": 0,
           "hbp": 0,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Jax State, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "0.1 IP, 0 K vs. Lamar (W). At 4.89 ERA through 9.2 innings on the season."
     },
     "87ec3a38": {
       "id": "87ec3a38",
@@ -1705,26 +1705,26 @@
         "opp_avg": ".265"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Prairie View",
+        "date": "2026-03-17",
+        "opponent": "Lamar",
         "result": "W",
-        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/prairie-view/boxscore/15197",
+        "boxscore_url": "https://www.gobearkats.com/sports/baseball/stats/2026/lamar/boxscore/15203",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
+          "ip": "2.1",
+          "h": 2,
+          "r": 1,
           "er": 0,
           "bb": 0,
           "so": 0,
-          "wp": 1,
-          "hbp": 1,
-          "w": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 1,
           "l": 0,
-          "sv": 1
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Prairie View, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "2.1 IP, 0 K vs. Lamar (W). At 1.98 ERA through 9.1 innings on the season."
     },
     "8db5c374": {
       "id": "8db5c374",

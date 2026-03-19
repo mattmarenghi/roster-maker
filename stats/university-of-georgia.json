@@ -2,7 +2,7 @@
   "school": "University of Georgia",
   "base_url": "https://www.georgiadogs.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:08:16.072470Z",
+  "generated_at": "2026-03-19T08:03:50.512544Z",
   "record": "22-24",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -1621,18 +1621,18 @@
         "opp_avg": ".259"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Tennessee",
+        "date": "2026-03-17",
+        "opponent": "Citadel",
         "result": "W",
-        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/tennessee/boxscore/26229",
+        "boxscore_url": "https://www.georgiadogs.com/sports/baseball/stats/2026/citadel/boxscore/26230",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "1.2",
+          "h": 2,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 1,
+          "bb": 0,
+          "so": 2,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1640,7 +1640,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Tennessee, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.2 IP, 2 K vs. Citadel (W). At 3.38 ERA through 16.0 innings on the season."
     },
     "a9b7f4f5": {
       "id": "a9b7f4f5",

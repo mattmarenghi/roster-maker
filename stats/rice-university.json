@@ -2,7 +2,7 @@
   "school": "Rice University",
   "base_url": "https://www.riceowls.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:57:53.335212Z",
+  "generated_at": "2026-03-19T07:53:10.669733Z",
   "record": "13-9",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -104,25 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Saint Mary's",
-        "result": "L",
-        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28750",
+        "date": "2026-03-17",
+        "opponent": "UTRGV",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/utrgv/boxscore/28751",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 1,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 1,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Saint Mary's. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "1/3 with 0 RBI vs. UTRGV (W). Hitting .328 with 2 HR through 21 games."
     },
     "5ba72852": {
       "id": "5ba72852",
@@ -705,25 +705,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Saint Mary's",
-        "result": "L",
-        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/saint-mary-s/boxscore/28750",
+        "date": "2026-03-17",
+        "opponent": "UTRGV",
+        "result": "W",
+        "boxscore_url": "https://www.riceowls.com/sports/baseball/stats/2026/utrgv/boxscore/28751",
         "batting": {
           "ab": 4,
           "r": 1,
           "h": 1,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 3,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Saint Mary's. Contributed at the plate in the team's L."
+      "narrative": "1/4 with 0 RBI vs. UTRGV (W). Hitting .246 with 6 HR through 21 games."
     },
     "3ef509f6": {
       "id": "3ef509f6",

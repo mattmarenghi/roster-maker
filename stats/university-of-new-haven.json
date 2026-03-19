@@ -2,7 +2,7 @@
   "school": "University of New Haven",
   "base_url": "https://www.newhavenchargers.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:10:47.134255Z",
+  "generated_at": "2026-03-19T08:06:32.429339Z",
   "record": "1-11",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -657,65 +657,6 @@
         }
       },
       "narrative": "1.0 IP, 0 K vs. Hofstra (W 15-5). At 28.12 ERA through 3.2 innings on the season."
-    },
-    "72cc4d2d": {
-      "id": "72cc4d2d",
-      "name": "Jesse Kostulious",
-      "fn": "Jesse",
-      "ln": "Kostulious",
-      "pos": "RHP",
-      "yr": "Fr.",
-      "num": "15",
-      "school": "University of New Haven",
-      "season_batting": null,
-      "season_pitching": {
-        "era": 12.96,
-        "whip": 2.52,
-        "w": 0,
-        "l": 0,
-        "sv": 0,
-        "g": 6,
-        "gs": 2,
-        "ip": 8.1,
-        "h": 10,
-        "r": 13,
-        "er": 12,
-        "bb": 11,
-        "so": 9,
-        "hr": 1,
-        "hbp": 6,
-        "wp": 7,
-        "opp_avg": ".303"
-      },
-      "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Hofstra",
-        "result": "W 15-5",
-        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14802&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 1,
-          "wp": 2,
-          "hbp": 1,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Hofstra (W 15-5). At 13.33 ERA through 8.1 innings on the season."
     },
     "a9ceb9b3": {
       "id": "a9ceb9b3",
@@ -1501,7 +1442,7 @@
       "school": "University of New Haven",
       "season_batting": null,
       "season_pitching": {
-        "era": 16.2,
+        "era": 12.34,
         "whip": 2.83,
         "w": 0,
         "l": 0,
@@ -1511,7 +1452,7 @@
         "ip": 11.2,
         "h": 21,
         "r": 21,
-        "er": 21,
+        "er": 16,
         "bb": 12,
         "so": 6,
         "hr": 1,
@@ -1537,7 +1478,7 @@
           "ip": "0.2",
           "h": 4,
           "r": 8,
-          "er": 8,
+          "er": 3,
           "bb": 1,
           "so": 0,
           "wp": 1,

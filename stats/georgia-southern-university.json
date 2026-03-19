@@ -2,8 +2,8 @@
   "school": "Georgia Southern University",
   "base_url": "https://gseagles.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:47:09.865405Z",
-  "record": "5-15",
+  "generated_at": "2026-03-19T07:42:16.532375Z",
+  "record": "25-28",
   "most_recent_game": {
     "date": "2026-03-17",
     "opponent": "Kennesaw St ",
@@ -333,26 +333,26 @@
         "opp_avg": ".359"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "James Madison",
+        "date": "2026-03-17",
+        "opponent": "Kennesaw St.",
         "result": "L",
-        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/james-madison/boxscore/17155",
+        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/17157",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
+          "ip": "2.0",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 3,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against James Madison, throwing 0.2 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "2.0 IP, 3 K vs. Kennesaw St. (L). At 9.78 ERA through 9.2 innings on the season."
     },
     "de77ca8e": {
       "id": "de77ca8e",
@@ -389,17 +389,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "James Madison",
+        "date": "2026-03-17",
+        "opponent": "Kennesaw St.",
         "result": "L",
-        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/james-madison/boxscore/17156",
+        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/17157",
         "batting": {
-          "ab": 3,
-          "r": 0,
+          "ab": 2,
+          "r": 1,
           "h": 0,
           "rbi": 0,
           "bb": 1,
-          "so": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -407,7 +407,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against James Madison. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "0/2 with 0 RBI vs. Kennesaw St. (L). Hitting .345 with 1 HR through 15 games."
     },
     "6ef83409": {
       "id": "6ef83409",
@@ -1219,26 +1219,26 @@
         "opp_avg": ".500"
       },
       "last_game": {
-        "date": "2026-02-28",
-        "opponent": "USC Upstate",
+        "date": "2026-03-17",
+        "opponent": "Kennesaw St.",
         "result": "L",
-        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/usc-upstate/boxscore/17147",
+        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/17157",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 2,
+          "ip": "0.2",
+          "h": 5,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against USC Upstate, throwing 1.1 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Kennesaw St. (L). At 17.42 ERA through 3.1 innings on the season."
     },
     "e623bd60": {
       "id": "e623bd60",
@@ -1367,25 +1367,25 @@
         "opp_avg": ".357"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "James Madison",
+        "date": "2026-03-17",
+        "opponent": "Kennesaw St.",
         "result": "L",
-        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/james-madison/boxscore/17156",
+        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/17157",
         "batting": {
-          "ab": 5,
-          "r": 0,
+          "ab": 4,
+          "r": 1,
           "h": 1,
           "rbi": 2,
           "bb": 0,
-          "so": 0,
-          "hr": 0,
+          "so": 1,
+          "hr": 1,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 2 RBI against James Madison. Struggled to make contact."
+      "narrative": "1/4 with 2 RBI, 1 HR vs. Kennesaw St. (L). Hitting .316 with 6 HR through 20 games."
     },
     "aab6a0c0": {
       "id": "aab6a0c0",
@@ -1449,7 +1449,7 @@
       "school": "Georgia Southern University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.23,
+        "era": 6.92,
         "whip": 1.54,
         "w": 0,
         "l": 1,
@@ -1459,7 +1459,7 @@
         "ip": 13.0,
         "h": 16,
         "r": 15,
-        "er": 9,
+        "er": 10,
         "bb": 4,
         "so": 15,
         "hr": 2,
@@ -1468,26 +1468,26 @@
         "opp_avg": ".302"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "James Madison",
+        "date": "2026-03-17",
+        "opponent": "Kennesaw St.",
         "result": "L",
-        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/james-madison/boxscore/17154",
+        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/17157",
         "batting": null,
         "pitching": {
-          "ip": "1.2",
-          "h": 4,
-          "r": 6,
-          "er": 1,
+          "ip": "0.2",
+          "h": 3,
+          "r": 2,
+          "er": 2,
           "bb": 0,
-          "so": 2,
+          "so": 1,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against James Madison, throwing 1.2 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Kennesaw St. (L). At 6.92 ERA through 13.0 innings on the season."
     },
     "cdbf8787": {
       "id": "cdbf8787",
@@ -1727,26 +1727,26 @@
         "opp_avg": ".500"
       },
       "last_game": {
-        "date": "2026-02-21",
-        "opponent": "South Florida",
+        "date": "2026-03-17",
+        "opponent": "Kennesaw St.",
         "result": "L",
-        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/south-florida/boxscore/17144",
+        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/17157",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 5,
-          "r": 6,
-          "er": 6,
+          "h": 2,
+          "r": 0,
+          "er": 0,
           "bb": 1,
-          "so": 0,
+          "so": 1,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against South Florida, throwing 1.0 innings. Allowed 6 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Kennesaw St. (L). At 17.42 ERA through 3.1 innings on the season."
     },
     "743f2a0f": {
       "id": "743f2a0f",
@@ -1801,26 +1801,26 @@
         "opp_avg": ".357"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "James Madison",
+        "date": "2026-03-17",
+        "opponent": "Kennesaw St.",
         "result": "L",
-        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/james-madison/boxscore/17154",
+        "boxscore_url": "https://gseagles.com/sports/baseball/stats/2026/kennesaw-st-/boxscore/17157",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
+          "ip": "0.1",
+          "h": 3,
+          "r": 1,
+          "er": 1,
           "bb": 1,
           "so": 0,
-          "wp": 0,
+          "wp": 1,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against James Madison, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "0.1 IP, 0 K vs. Kennesaw St. (L). At 9.00 ERA through 3.0 innings on the season."
     },
     "b8671f0a": {
       "id": "b8671f0a",

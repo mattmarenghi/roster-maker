@@ -2,7 +2,7 @@
   "school": "Baylor University",
   "base_url": "https://www.baylorbears.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:38:54.249066Z",
+  "generated_at": "2026-03-19T07:33:54.701323Z",
   "record": "29-38",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -1245,17 +1245,17 @@
         "opp_avg": ".314"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "West Virginia",
+        "date": "2026-03-17",
+        "opponent": "Kansas State",
         "result": "L",
-        "boxscore_url": "https://www.baylorbears.com/sports/baseball/stats/2026/west-virginia/boxscore/29591",
+        "boxscore_url": "https://www.baylorbears.com/sports/baseball/stats/2026/kansas-state/boxscore/29592",
         "batting": null,
         "pitching": {
           "ip": "0.1",
-          "h": 1,
+          "h": 2,
           "r": 3,
-          "er": 1,
-          "bb": 2,
+          "er": 3,
+          "bb": 1,
           "so": 1,
           "wp": 0,
           "hbp": 0,
@@ -1264,7 +1264,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against West Virginia, throwing 0.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "0.1 IP, 1 K vs. Kansas State (L). At 10.98 ERA through 8.2 innings on the season."
     },
     "5beb7c34": {
       "id": "5beb7c34",

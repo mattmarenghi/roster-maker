@@ -2,7 +2,7 @@
   "school": "College of Charleston (South Carolina)",
   "base_url": "https://www.cofcsports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:43:23.736660Z",
+  "generated_at": "2026-03-19T07:38:26.471217Z",
   "record": "22-31",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -871,26 +871,26 @@
         "opp_avg": ".329"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Stony Brook",
-        "result": "W",
-        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/stony-brook/boxscore/12700",
+        "date": "2026-03-17",
+        "opponent": "Clemson",
+        "result": "L",
+        "boxscore_url": "https://www.cofcsports.com/sports/baseball/stats/2026/clemson/boxscore/12702",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
+          "ip": "3.0",
           "h": 3,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 2,
+          "r": 3,
+          "er": 3,
+          "bb": 1,
+          "so": 4,
           "wp": 0,
           "hbp": 0,
-          "w": 1,
-          "l": 0,
+          "w": 0,
+          "l": 1,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Stony Brook, throwing 2.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "3.0 IP, 4 K vs. Clemson (L). At 5.00 ERA through 16.2 innings on the season."
     },
     "003f9e95": {
       "id": "003f9e95",

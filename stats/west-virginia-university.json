@@ -2,7 +2,7 @@
   "school": "West Virginia University",
   "base_url": "https://www.wvusports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:17:45.745540Z",
+  "generated_at": "2026-03-19T08:13:40.006945Z",
   "record": "33-44",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -1037,14 +1037,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Columbia",
+        "date": "2026-03-10",
+        "opponent": "Maryland",
         "result": "W",
-        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/columbia/boxscore/21371",
+        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/maryland/boxscore/21372",
         "batting": {
           "ab": 1,
-          "r": 1,
-          "h": 1,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
@@ -1055,7 +1055,7 @@
         },
         "pitching": null
       },
-      "narrative": "1/1 with 0 RBI vs. Columbia (W). Hitting .166 with 0 HR through 9 games."
+      "narrative": "0/1 with 0 RBI vs. Maryland (W). Hitting .166 with 0 HR through 9 games."
     },
     "3123de77": {
       "id": "3123de77",

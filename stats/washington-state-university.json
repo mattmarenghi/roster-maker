@@ -2,7 +2,7 @@
   "school": "Washington State University",
   "base_url": "https://www.wsucougars.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:17:25.863342Z",
+  "generated_at": "2026-03-19T08:13:17.618042Z",
   "record": "19-30",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -214,17 +214,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "San Diego State",
-        "result": "W",
-        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/san-diego-state/boxscore/21340",
+        "date": "2026-03-17",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/utah/boxscore/21342",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against San Diego State. Struggled to make contact."
+      "narrative": "1/3 with 0 RBI vs. Utah (L). Hitting .285 with 3 HR through 9 games."
     },
     "7959b134": {
       "id": "7959b134",
@@ -379,17 +379,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "San Diego State",
-        "result": "W",
-        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/san-diego-state/boxscore/21340",
+        "date": "2026-03-17",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/utah/boxscore/21342",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -397,7 +397,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against San Diego State. Struggled to make contact."
+      "narrative": "0/2 with 0 RBI vs. Utah (L). Hitting .066 with 0 HR through 14 games."
     },
     "9bbdab48": {
       "id": "9bbdab48",
@@ -876,25 +876,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "San Diego State",
+        "date": "2026-03-17",
+        "opponent": "Utah",
         "result": "L",
-        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/san-diego-state/boxscore/21341",
+        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/utah/boxscore/21342",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 1,
-          "h": 2,
-          "rbi": 1,
-          "bb": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against San Diego State. Had an outstanding performance at the plate (0.500)."
+      "narrative": "1/5 with 0 RBI vs. Utah (L). Hitting .230 with 2 HR through 19 games."
     },
     "a1d94849": {
       "id": "a1d94849",
@@ -982,25 +982,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "San Diego State",
+        "date": "2026-03-17",
+        "opponent": "Utah",
         "result": "L",
-        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/san-diego-state/boxscore/21341",
+        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/utah/boxscore/21342",
         "batting": {
           "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 3,
-          "bb": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 1,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 3 RBI against San Diego State. Contributed at the plate in the team's L."
+      "narrative": "0/3 with 0 RBI vs. Utah (L). Hitting .192 with 0 HR through 17 games."
     },
     "957db7a1": {
       "id": "957db7a1",
@@ -1457,26 +1457,26 @@
         "opp_avg": ".233"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "San Diego State",
-        "result": "W",
-        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/san-diego-state/boxscore/21340",
+        "date": "2026-03-17",
+        "opponent": "Utah",
+        "result": "L",
+        "boxscore_url": "https://www.wsucougars.com/sports/baseball/stats/2026/utah/boxscore/21342",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
+          "ip": "1.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against San Diego State, throwing 1.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Utah (L). At 2.25 ERA through 8.0 innings on the season."
     },
     "3ce2e770": {
       "id": "3ce2e770",

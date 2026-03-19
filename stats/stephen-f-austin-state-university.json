@@ -2,7 +2,7 @@
   "school": "Stephen F. Austin State University",
   "base_url": "https://SFAjacks.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:01:32.705972Z",
+  "generated_at": "2026-03-19T07:56:54.317097Z",
   "record": "38-45",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -536,25 +536,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Southeastern Louisiana",
+        "date": "2026-03-17",
+        "opponent": "UT Arlington",
         "result": "W",
-        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/13930",
+        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/ut-arlington/boxscore/13958",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 2,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
+          "so": 1,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against Southeastern Louisiana. Had an outstanding performance at the plate (0.400)."
+      "narrative": "0/4 with 0 RBI vs. UT Arlington (W). Hitting .325 with 3 HR through 21 games."
     },
     "6528b74d": {
       "id": "6528b74d",
@@ -905,17 +905,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Southeastern Louisiana",
+        "date": "2026-03-17",
+        "opponent": "UT Arlington",
         "result": "W",
-        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/13930",
+        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/ut-arlington/boxscore/13958",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -923,7 +923,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Southeastern Louisiana. Struggled to make contact."
+      "narrative": "1/4 with 0 RBI vs. UT Arlington (W). Hitting .242 with 1 HR through 14 games."
     },
     "7af20612": {
       "id": "7af20612",
@@ -1061,26 +1061,26 @@
         "opp_avg": ".286"
       },
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Lamar",
+        "date": "2026-03-17",
+        "opponent": "UT Arlington",
         "result": "W",
-        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/lamar/boxscore/13928",
+        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/ut-arlington/boxscore/13958",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
+          "ip": "3.2",
           "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 2,
           "wp": 0,
           "hbp": 0,
-          "w": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Lamar, throwing 0.2 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "3.2 IP, 2 K vs. UT Arlington (W). At 5.16 ERA through 12.2 innings on the season."
     },
     "0aaebe88": {
       "id": "0aaebe88",
@@ -1562,26 +1562,26 @@
         "opp_avg": ".467"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Texas A&M",
-        "result": "L",
-        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/texas-am/boxscore/13957",
+        "date": "2026-03-17",
+        "opponent": "UT Arlington",
+        "result": "W",
+        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/ut-arlington/boxscore/13958",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
+          "ip": "0.2",
           "h": 2,
-          "r": 3,
-          "er": 3,
+          "r": 0,
+          "er": 0,
           "bb": 1,
-          "so": 1,
+          "so": 2,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Texas A&M, throwing 1.1 innings. Allowed 3 earned run(s) with 1 strikeout(s)."
+      "narrative": "0.2 IP, 2 K vs. UT Arlington (W). At 14.12 ERA through 5.1 innings on the season."
     },
     "8d8c7e3c": {
       "id": "8d8c7e3c",
@@ -1613,18 +1613,18 @@
         "opp_avg": ".182"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Southeastern Louisiana",
-        "result": "L",
-        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/southeastern-louisiana/boxscore/13929",
+        "date": "2026-03-17",
+        "opponent": "UT Arlington",
+        "result": "W",
+        "boxscore_url": "https://SFAjacks.com/sports/baseball/stats/2026/ut-arlington/boxscore/13958",
         "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 3,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 4,
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1632,7 +1632,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Southeastern Louisiana, throwing 3.0 innings. Allowed 2 earned run(s) with 4 strikeout(s)."
+      "narrative": "1.1 IP, 2 K vs. UT Arlington (W). At 1.12 ERA through 16.0 innings on the season."
     },
     "cb921fe9": {
       "id": "cb921fe9",

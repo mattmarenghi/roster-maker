@@ -2,7 +2,7 @@
   "school": "Grand Canyon University",
   "base_url": "https://www.gculopes.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:47:25.350123Z",
+  "generated_at": "2026-03-19T07:42:33.746537Z",
   "record": "8-14",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -416,14 +416,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-09",
-        "opponent": "Utah",
+        "date": "2026-03-17",
+        "opponent": "Arizona State",
         "result": "L",
-        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/utah/boxscore/20856",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/arizona-state/boxscore/20863",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
@@ -434,7 +434,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Utah. Contributed at the plate in the team's L."
+      "narrative": "0/1 with 0 RBI vs. Arizona State (L). Hitting .285 with 0 HR through 9 games."
     },
     "cccef2de": {
       "id": "cccef2de",
@@ -1184,17 +1184,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Saint Mary's",
-        "result": "W",
-        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/saint-mary-s/boxscore/20862",
+        "date": "2026-03-17",
+        "opponent": "Arizona State",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/arizona-state/boxscore/20863",
         "batting": {
           "ab": 4,
-          "r": 3,
-          "h": 3,
-          "rbi": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 1,
           "triples": 0,
@@ -1202,7 +1202,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 1 RBI against Saint Mary's. Had an outstanding performance at the plate (0.750)."
+      "narrative": "1/4 with 0 RBI vs. Arizona State (L). Hitting .266 with 3 HR through 19 games."
     },
     "68e247b4": {
       "id": "68e247b4",
@@ -1714,25 +1714,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Saint Mary's",
-        "result": "W",
-        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/saint-mary-s/boxscore/20862",
+        "date": "2026-03-17",
+        "opponent": "Arizona State",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/arizona-state/boxscore/20863",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 3,
-          "rbi": 2,
-          "bb": 0,
-          "so": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 2 RBI against Saint Mary's. Had an outstanding performance at the plate (0.750)."
+      "narrative": "0/3 with 0 RBI vs. Arizona State (L). Hitting .208 with 1 HR through 9 games."
     },
     "8e0268c0": {
       "id": "8e0268c0",
@@ -1764,26 +1764,26 @@
         "opp_avg": ".429"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Rice",
+        "date": "2026-03-17",
+        "opponent": "Arizona State",
         "result": "L",
-        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/rice/boxscore/20860",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/arizona-state/boxscore/20863",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 3,
-          "r": 3,
-          "er": 3,
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 2,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Rice, throwing 1.0 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Arizona State (L). At 15.37 ERA through 4.1 innings on the season."
     },
     "92a2f09a": {
       "id": "92a2f09a",
@@ -2032,17 +2032,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Saint Mary's",
-        "result": "W",
-        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/saint-mary-s/boxscore/20862",
+        "date": "2026-03-17",
+        "opponent": "Arizona State",
+        "result": "L",
+        "boxscore_url": "https://www.gculopes.com/sports/baseball/stats/2026/arizona-state/boxscore/20863",
         "batting": {
-          "ab": 4,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -2050,7 +2050,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Saint Mary's. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. Arizona State (L). Hitting .260 with 1 HR through 16 games."
     },
     "fd8194b5": {
       "id": "fd8194b5",

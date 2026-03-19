@@ -2,13 +2,13 @@
   "school": "Louisiana Tech University",
   "base_url": "https://www.latechsports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:50:57.781827Z",
+  "generated_at": "2026-03-19T07:46:12.751937Z",
   "record": "14-8",
   "most_recent_game": {
     "date": "2026-03-17",
     "opponent": "Central Arkansas",
     "result": "W 5-4",
-    "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+    "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
     "recap_url": "https://www.latechsports.com/news/2026/3/17/baseball-dogs-walk-off-bears-in-tuesday-night-midweek-clash.aspx",
     "recap_headline": "LA Tech Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -104,7 +104,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -193,7 +193,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -282,7 +282,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -329,7 +329,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
         "batting": null,
         "pitching": {
           "ip": "4.0",
@@ -385,7 +385,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -432,7 +432,7 @@
         "date": "2026-03-15",
         "opponent": "Delaware",
         "result": "W 17-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -634,7 +634,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -735,7 +735,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -787,7 +787,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -871,7 +871,7 @@
         "date": "2026-03-15",
         "opponent": "Delaware",
         "result": "W 17-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -930,7 +930,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -994,7 +994,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1073,7 +1073,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": null,
         "pitching": {
           "ip": "2.0",
@@ -1124,7 +1124,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1183,7 +1183,7 @@
         "date": "2026-03-15",
         "opponent": "Delaware",
         "result": "W 17-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1306,7 +1306,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1365,7 +1365,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1493,7 +1493,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
         "batting": {
           "ab": 3,
           "r": 0,

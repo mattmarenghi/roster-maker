@@ -2,7 +2,7 @@
   "school": "University of Mississippi",
   "base_url": "https://www.olemisssports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:10:33.753080Z",
+  "generated_at": "2026-03-19T08:06:20.265258Z",
   "record": "24-29",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -49,25 +49,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas",
-        "result": "L",
-        "boxscore_url": "https://www.olemisssports.com/sports/baseball/stats/2026/texas/boxscore/14677",
+        "date": "2026-03-17",
+        "opponent": "Austin Peay",
+        "result": "W",
+        "boxscore_url": "https://www.olemisssports.com/sports/baseball/stats/2026/austin-peay/boxscore/14678",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
-          "bb": 0,
-          "so": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against Texas. Contributed at the plate in the team's L."
+      "narrative": "0/2 with 0 RBI vs. Austin Peay (W). Hitting .217 with 1 HR through 21 games."
     },
     "59b12a9e": {
       "id": "59b12a9e",
@@ -379,17 +379,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas",
-        "result": "L",
-        "boxscore_url": "https://www.olemisssports.com/sports/baseball/stats/2026/texas/boxscore/14677",
+        "date": "2026-03-17",
+        "opponent": "Austin Peay",
+        "result": "W",
+        "boxscore_url": "https://www.olemisssports.com/sports/baseball/stats/2026/austin-peay/boxscore/14678",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 1,
+          "ab": 3,
+          "r": 3,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 2,
+          "bb": 2,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -397,7 +397,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 0 RBI against Texas. Struggled to make contact."
+      "narrative": "0/3 with 0 RBI vs. Austin Peay (W). Hitting .227 with 0 HR through 22 games."
     },
     "953ad458": {
       "id": "953ad458",
@@ -752,25 +752,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas",
-        "result": "L",
-        "boxscore_url": "https://www.olemisssports.com/sports/baseball/stats/2026/texas/boxscore/14677",
+        "date": "2026-03-17",
+        "opponent": "Austin Peay",
+        "result": "W",
+        "boxscore_url": "https://www.olemisssports.com/sports/baseball/stats/2026/austin-peay/boxscore/14678",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
           "bb": 0,
-          "so": 3,
+          "so": 0,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Texas. Struggled to make contact."
+      "narrative": "1/3 with 2 RBI vs. Austin Peay (W). Hitting .328 with 2 HR through 21 games."
     },
     "f28ae9ec": {
       "id": "f28ae9ec",

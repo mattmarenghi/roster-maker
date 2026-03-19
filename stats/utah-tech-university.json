@@ -2,13 +2,13 @@
   "school": "Utah Tech University",
   "base_url": "https://utahtechtrailblazers.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:16:28.732802Z",
+  "generated_at": "2026-03-19T08:12:20.495706Z",
   "record": "13-8",
   "most_recent_game": {
     "date": "2026-03-17",
     "opponent": "BYU",
     "result": "L 5-18",
-    "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+    "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
     "recap_url": "https://utahtechtrailblazers.com/news/2026/3/17/baseball-trailblazers-downed-by-byu-on-tuesday-night.aspx",
     "recap_headline": "Utah Tech University Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -99,7 +99,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -163,7 +163,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -247,7 +247,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -294,7 +294,7 @@
         "date": "2026-03-15",
         "opponent": "Santa Clara",
         "result": "W 5-4",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -358,7 +358,7 @@
         "date": "2026-03-14",
         "opponent": "Santa Clara",
         "result": "W 4-1",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -442,7 +442,7 @@
         "date": "2026-03-14",
         "opponent": "Santa Clara",
         "result": "W 4-1",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -538,7 +538,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -676,7 +676,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -728,7 +728,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -780,7 +780,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -850,7 +850,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -914,7 +914,7 @@
         "date": "2026-03-15",
         "opponent": "Santa Clara",
         "result": "W 5-4",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -984,7 +984,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -1073,7 +1073,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1120,7 +1120,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1211,7 +1211,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1293,7 +1293,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1340,7 +1340,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1399,7 +1399,7 @@
         "date": "2026-03-15",
         "opponent": "Santa Clara",
         "result": "W 5-4",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11412&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1458,7 +1458,7 @@
         "date": "2026-03-14",
         "opponent": "Santa Clara",
         "result": "W 4-1",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11411&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1540,7 +1540,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1587,7 +1587,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1646,7 +1646,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1710,7 +1710,7 @@
         "date": "2026-03-17",
         "opponent": "BYU",
         "result": "L 5-18",
-        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=baseball",
+        "boxscore_url": "https://utahtechtrailblazers.com/boxscore.aspx?id=11413&path=",
         "batting": {
           "ab": 3,
           "r": 0,

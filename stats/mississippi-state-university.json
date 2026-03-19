@@ -2,7 +2,7 @@
   "school": "Mississippi State University",
   "base_url": "https://www.hailstate.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:53:02.372190Z",
+  "generated_at": "2026-03-19T07:48:22.321259Z",
   "record": "37-46",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -343,17 +343,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Arkansas",
+        "date": "2026-03-17",
+        "opponent": "Jackson State",
         "result": "W",
-        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/arkansas/boxscore/27391",
+        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/jackson-state/boxscore/27473",
         "batting": {
-          "ab": 4,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 1,
-          "rbi": 0,
+          "rbi": 3,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -361,7 +361,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Arkansas. Contributed at the plate in the team's W."
+      "narrative": "1/2 with 3 RBI vs. Jackson State (W). Hitting .375 with 3 HR through 18 games."
     },
     "65e2ddcd": {
       "id": "65e2ddcd",
@@ -886,26 +886,26 @@
         "opp_avg": ".050"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Lipscomb",
+        "date": "2026-03-17",
+        "opponent": "Jackson State",
         "result": "W",
-        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/lipscomb/boxscore/27471",
+        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/jackson-state/boxscore/27473",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
+          "ip": "2.0",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 0,
-          "w": 0,
+          "hbp": 1,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Lipscomb, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "2.0 IP, 1 K vs. Jackson State (W). At 1.48 ERA through 6.1 innings on the season."
     },
     "b73471b7": {
       "id": "b73471b7",
@@ -1158,17 +1158,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Lipscomb",
+        "date": "2026-03-17",
+        "opponent": "Jackson State",
         "result": "W",
-        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/lipscomb/boxscore/27471",
+        "boxscore_url": "https://www.hailstate.com/sports/baseball/stats/2026/jackson-state/boxscore/27473",
         "batting": {
           "ab": 1,
-          "r": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "bb": 0,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1176,7 +1176,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Lipscomb. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "0/1 with 0 RBI vs. Jackson State (W). Hitting .000 with 0 HR through 4 games."
     },
     "5e7e9043": {
       "id": "5e7e9043",

@@ -2,7 +2,7 @@
   "school": "East Carolina University",
   "base_url": "https://www.ecupirates.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:44:58.320770Z",
+  "generated_at": "2026-03-19T07:40:01.812453Z",
   "record": "13-8-1",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -214,17 +214,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Penn",
+        "date": "2026-03-11",
+        "opponent": "William and Mary",
         "result": "W",
-        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/penn/boxscore/14060",
+        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/william-and-mary/boxscore/14059",
         "batting": {
           "ab": 1,
-          "r": 0,
+          "r": 1,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Penn. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. William and Mary (W). Hitting .000 with 0 HR through 13 games."
     },
     "c0195023": {
       "id": "c0195023",
@@ -621,25 +621,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Penn",
+        "date": "2026-03-17",
+        "opponent": "Elon",
         "result": "W",
-        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/penn/boxscore/14062",
+        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/elon/boxscore/14063",
         "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "hr": 1,
+          "so": 2,
+          "hr": 0,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/1 with 1 RBI against Penn. Hit 1 home run(s). Had an outstanding performance at the plate (1.000)."
+      "narrative": "0/4 with 0 RBI vs. Elon (W). Hitting .111 with 2 HR through 13 games."
     },
     "45403492": {
       "id": "45403492",
@@ -1049,25 +1049,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Penn",
+        "date": "2026-03-17",
+        "opponent": "Elon",
         "result": "W",
-        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/penn/boxscore/14062",
+        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/elon/boxscore/14063",
         "batting": {
-          "ab": 5,
+          "ab": 4,
           "r": 0,
-          "h": 2,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 0 RBI against Penn. Had an outstanding performance at the plate (0.400)."
+      "narrative": "1/4 with 1 RBI vs. Elon (W). Hitting .409 with 1 HR through 22 games."
     },
     "f93e804b": {
       "id": "f93e804b",

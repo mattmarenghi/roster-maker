@@ -2,7 +2,7 @@
   "school": "California State University, Northridge",
   "base_url": "https://www.GoMatadors.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:42:04.249013Z",
+  "generated_at": "2026-03-19T07:36:54.214857Z",
   "record": "19-26",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -48,8 +48,26 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Fresno State",
+        "result": "W",
+        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/fresno-state/boxscore/17372",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 3,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "3/5 with 2 RBI vs. Fresno State (W). Hitting .408 with 0 HR through 17 games."
     },
     "c4a8155b": {
       "id": "c4a8155b",
@@ -141,25 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UC San Diego",
-        "result": "L",
-        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/uc-san-diego/boxscore/17371",
+        "date": "2026-03-17",
+        "opponent": "Fresno State",
+        "result": "W",
+        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/fresno-state/boxscore/17372",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 1,
           "rbi": 1,
           "bb": 0,
-          "so": 2,
-          "hr": 1,
-          "doubles": 0,
+          "so": 0,
+          "hr": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 1 RBI against UC San Diego. Hit 1 home run(s). Contributed at the plate in the team's L."
+      "narrative": "1/2 with 1 RBI vs. Fresno State (W). Hitting .315 with 8 HR through 20 games."
     },
     "53a1cd1e": {
       "id": "53a1cd1e",
@@ -628,12 +646,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UC San Diego",
-        "result": "L",
-        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/uc-san-diego/boxscore/17371",
+        "date": "2026-03-17",
+        "opponent": "Fresno State",
+        "result": "W",
+        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/fresno-state/boxscore/17372",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 0,
           "h": 1,
           "rbi": 0,
@@ -646,7 +664,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against UC San Diego. Contributed at the plate in the team's L."
+      "narrative": "1/5 with 0 RBI vs. Fresno State (W). Hitting .233 with 2 HR through 20 games."
     },
     "61bb6fbb": {
       "id": "61bb6fbb",
@@ -839,26 +857,26 @@
         "opp_avg": ".462"
       },
       "last_game": {
-        "date": "2026-03-03",
-        "opponent": "Michigan",
+        "date": "2026-03-17",
+        "opponent": "Fresno State",
         "result": "W",
-        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/michigan/boxscore/17353",
+        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/fresno-state/boxscore/17372",
         "batting": null,
         "pitching": {
           "ip": "0.2",
           "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 2,
-          "wp": 0,
-          "hbp": 1,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 1,
+          "wp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Michigan, throwing 0.2 innings. Allowed 2 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Fresno State (W). At 30.00 ERA through 2.1 innings on the season."
     },
     "3d4e9e85": {
       "id": "3d4e9e85",
@@ -1048,15 +1066,15 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UC San Diego",
-        "result": "L",
-        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/uc-san-diego/boxscore/17371",
+        "date": "2026-03-17",
+        "opponent": "Fresno State",
+        "result": "W",
+        "boxscore_url": "https://www.GoMatadors.com/sports/baseball/stats/2026/fresno-state/boxscore/17372",
         "batting": {
-          "ab": 4,
+          "ab": 1,
           "r": 0,
           "h": 1,
-          "rbi": 1,
+          "rbi": 2,
           "bb": 0,
           "so": 0,
           "hr": 0,
@@ -1066,7 +1084,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against UC San Diego. Contributed at the plate in the team's L."
+      "narrative": "1/1 with 2 RBI vs. Fresno State (W). Hitting .500 with 1 HR through 3 games."
     },
     "557e94e2": {
       "id": "557e94e2",

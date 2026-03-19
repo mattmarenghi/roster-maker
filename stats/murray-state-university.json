@@ -2,7 +2,7 @@
   "school": "Murray State University",
   "base_url": "https://www.goracers.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:54:07.366923Z",
+  "generated_at": "2026-03-19T07:49:22.816231Z",
   "record": "13-8",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -1242,26 +1242,26 @@
         "opp_avg": ".204"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Lindenwood",
+        "date": "2026-03-17",
+        "opponent": "Middle Tenn.",
         "result": "W",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11666",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/middle-tenn-/boxscore/11669",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
+          "ip": "1.0",
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 4,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
           "l": 0,
-          "sv": 1
+          "sv": 0
         }
       },
-      "narrative": "Took the mound against Lindenwood, throwing 2.0 innings. Allowed 0 earned run(s) with 4 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Middle Tenn. (W). At 0.74 ERA through 12.1 innings on the season."
     },
     "1e7e1c9e": {
       "id": "1e7e1c9e",
@@ -1446,17 +1446,17 @@
         "opp_avg": ".314"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky St.",
+        "date": "2026-03-17",
+        "opponent": "Middle Tenn.",
         "result": "W",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/kentucky-st-/boxscore/11664",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/middle-tenn-/boxscore/11669",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
+          "ip": "1.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
           "so": 1,
           "wp": 0,
           "hbp": 0,
@@ -1465,7 +1465,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Kentucky St., throwing 2.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Middle Tenn. (W). At 5.87 ERA through 9.2 innings on the season."
     },
     "83088187": {
       "id": "83088187",
@@ -1773,26 +1773,26 @@
         "opp_avg": ".300"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Lindenwood",
-        "result": "L",
-        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/lindenwood/boxscore/11668",
+        "date": "2026-03-17",
+        "opponent": "Middle Tenn.",
+        "result": "W",
+        "boxscore_url": "https://www.goracers.com/sports/baseball/stats/2026/middle-tenn-/boxscore/11669",
         "batting": null,
         "pitching": {
-          "ip": "0.1",
+          "ip": "1.0",
           "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 1,
           "hbp": 0,
           "w": 0,
           "l": 0,
-          "sv": 0
+          "sv": 1
         }
       },
-      "narrative": "Took the mound against Lindenwood, throwing 0.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Middle Tenn. (W). At 4.89 ERA through 9.2 innings on the season."
     },
     "98057343": {
       "id": "98057343",

@@ -2,7 +2,7 @@
   "school": "University of Utah",
   "base_url": "https://utahutes.com",
   "season": "2026",
-  "generated_at": "2026-03-18T08:15:21.495949Z",
+  "generated_at": "2026-03-19T08:11:13.461445Z",
   "record": "26-33",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -260,26 +260,26 @@
         "opp_avg": ".283"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Arizona",
-        "result": "L",
-        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/arizona/boxscore/24313",
+        "date": "2026-03-17",
+        "opponent": "Washington State",
+        "result": "W",
+        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/washington-state/boxscore/24397",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 4,
-          "er": 4,
-          "bb": 2,
-          "so": 1,
-          "wp": 1,
-          "hbp": 1,
+          "ip": "3.0",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Arizona, throwing 1.1 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+      "narrative": "3.0 IP, 2 K vs. Washington State (W). At 4.02 ERA through 11.2 innings on the season."
     },
     "2af4d097": {
       "id": "2af4d097",
@@ -597,10 +597,10 @@
         "opp_avg": ".206"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arizona",
+        "date": "2026-03-17",
+        "opponent": "Washington State",
         "result": "W",
-        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/arizona/boxscore/24315",
+        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/washington-state/boxscore/24397",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -615,19 +615,19 @@
         },
         "pitching": {
           "ip": "1.2",
-          "h": 2,
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 3,
+          "bb": 1,
           "so": 0,
           "wp": 0,
-          "hbp": 0,
-          "w": 0,
+          "hbp": 1,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Went 0/1 with 0 RBI against Arizona. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. Washington State (W). Hitting .000 with 0 HR through 3 games."
     },
     "6a7999dc": {
       "id": "6a7999dc",
@@ -1337,12 +1337,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Arizona",
+        "date": "2026-03-17",
+        "opponent": "Washington State",
         "result": "W",
-        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/arizona/boxscore/24314",
+        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/washington-state/boxscore/24397",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -1355,7 +1355,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Arizona. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. Washington State (W). Hitting .272 with 0 HR through 7 games."
     },
     "f962ac59": {
       "id": "f962ac59",
@@ -1647,25 +1647,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Arizona",
+        "date": "2026-03-17",
+        "opponent": "Washington State",
         "result": "W",
-        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/arizona/boxscore/24315",
+        "boxscore_url": "https://utahutes.com/sports/baseball/stats/2026/washington-state/boxscore/24397",
         "batting": {
           "ab": 4,
-          "r": 2,
-          "h": 3,
-          "rbi": 5,
-          "bb": 1,
-          "so": 0,
-          "hr": 1,
-          "doubles": 0,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 3/4 with 5 RBI against Arizona. Hit 1 home run(s). Had an outstanding performance at the plate (0.750)."
+      "narrative": "1/4 with 1 RBI vs. Washington State (W). Hitting .311 with 2 HR through 18 games."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

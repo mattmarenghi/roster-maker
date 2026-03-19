@@ -2,7 +2,7 @@
   "school": "Oklahoma State University",
   "base_url": "https://www.okstate.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:56:10.724100Z",
+  "generated_at": "2026-03-19T07:51:27.599201Z",
   "record": "23-29",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -49,16 +49,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UCF",
-        "result": "L",
-        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/ucf/boxscore/17231",
+        "date": "2026-03-17",
+        "opponent": "South Dakota State",
+        "result": "W",
+        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/south-dakota-state/boxscore/17232",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 1,
           "so": 0,
           "hr": 0,
           "doubles": 0,
@@ -67,7 +67,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against UCF. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "0/4 with 0 RBI vs. South Dakota State (W). Hitting .272 with 3 HR through 19 games."
     },
     "12299e31": {
       "id": "12299e31",
@@ -214,16 +214,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UCF",
-        "result": "L",
-        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/ucf/boxscore/17231",
+        "date": "2026-03-17",
+        "opponent": "South Dakota State",
+        "result": "W",
+        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/south-dakota-state/boxscore/17232",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 1,
+          "ab": 4,
+          "r": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
           "hr": 0,
           "doubles": 0,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against UCF. Contributed at the plate in the team's L."
+      "narrative": "0/4 with 0 RBI vs. South Dakota State (W). Hitting .296 with 1 HR through 17 games."
     },
     "6ddb13ce": {
       "id": "6ddb13ce",
@@ -790,25 +790,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UCF",
-        "result": "L",
-        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/ucf/boxscore/17231",
+        "date": "2026-03-17",
+        "opponent": "South Dakota State",
+        "result": "W",
+        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/south-dakota-state/boxscore/17232",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 1,
-          "h": 0,
+          "h": 1,
           "rbi": 1,
-          "bb": 3,
-          "so": 1,
+          "bb": 1,
+          "so": 0,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 1 RBI against UCF. Struggled at the plate but saw 3 walk(s)."
+      "narrative": "1/3 with 1 RBI vs. South Dakota State (W). Hitting .285 with 2 HR through 14 games."
     },
     "50221fbc": {
       "id": "50221fbc",
@@ -1241,26 +1241,26 @@
         "opp_avg": ".302"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UCF",
-        "result": "L",
-        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/ucf/boxscore/17229",
+        "date": "2026-03-17",
+        "opponent": "South Dakota State",
+        "result": "W",
+        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/south-dakota-state/boxscore/17232",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 1,
-          "r": 4,
-          "er": 4,
+          "ip": "2.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
           "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 2,
+          "hbp": 1,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against UCF, throwing 0.2 innings. Allowed 4 earned run(s) with 1 strikeout(s)."
+      "narrative": "2.0 IP, 1 K vs. South Dakota State (W). At 12.48 ERA through 10.1 innings on the season."
     },
     "4333a63a": {
       "id": "4333a63a",
@@ -1759,26 +1759,26 @@
         "opp_avg": ".214"
       },
       "last_game": {
-        "date": "2026-03-03",
-        "opponent": "Missouri State",
+        "date": "2026-03-17",
+        "opponent": "South Dakota State",
         "result": "W",
-        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/missouri-state/boxscore/17224",
+        "boxscore_url": "https://www.okstate.com/sports/baseball/stats/2026/south-dakota-state/boxscore/17232",
         "batting": null,
         "pitching": {
-          "ip": "0.1",
+          "ip": "1.0",
           "h": 1,
           "r": 1,
-          "er": 1,
-          "bb": 2,
+          "er": 0,
+          "bb": 1,
           "so": 0,
           "wp": 0,
           "hbp": 0,
-          "w": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Missouri State, throwing 0.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. South Dakota State (W). At 2.81 ERA through 3.2 innings on the season."
     },
     "9d7a805a": {
       "id": "9d7a805a",

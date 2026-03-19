@@ -2,7 +2,7 @@
   "school": "Florida Atlantic University",
   "base_url": "https://www.fausports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:46:15.797451Z",
+  "generated_at": "2026-03-19T07:41:26.998916Z",
   "record": "13-8",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -104,17 +104,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UMBC",
-        "result": "W",
-        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/umbc/boxscore/24376",
+        "date": "2026-03-17",
+        "opponent": "FGCU",
+        "result": "L",
+        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/fgcu/boxscore/24379",
         "batting": {
           "ab": 2,
           "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 2,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -122,7 +122,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against UMBC. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "2/2 with 1 RBI vs. FGCU (L). Hitting .307 with 1 HR through 16 games."
     },
     "69b938f5": {
       "id": "69b938f5",
@@ -159,25 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UMBC",
-        "result": "W",
-        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/umbc/boxscore/24378",
+        "date": "2026-03-17",
+        "opponent": "FGCU",
+        "result": "L",
+        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/fgcu/boxscore/24379",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 1,
-          "h": 1,
-          "rbi": 0,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
-          "hr": 0,
+          "so": 2,
+          "hr": 1,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against UMBC. Contributed at the plate in the team's W."
+      "narrative": "2/5 with 1 RBI, 1 HR vs. FGCU (L). Hitting .363 with 2 HR through 17 games."
     },
     "2004e61d": {
       "id": "2004e61d",
@@ -269,25 +269,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UMBC",
-        "result": "W",
-        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/umbc/boxscore/24378",
+        "date": "2026-03-17",
+        "opponent": "FGCU",
+        "result": "L",
+        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/fgcu/boxscore/24379",
         "batting": {
           "ab": 4,
           "r": 1,
           "h": 2,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
-          "triples": 0,
+          "triples": 1,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against UMBC. Contributed at the plate in the team's W."
+      "narrative": "2/4 with 0 RBI vs. FGCU (L). Hitting .363 with 2 HR through 19 games."
     },
     "5d5723f8": {
       "id": "5d5723f8",
@@ -510,26 +510,26 @@
         "opp_avg": ".275"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UMBC",
+        "date": "2026-03-17",
+        "opponent": "FGCU",
         "result": "L",
-        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/umbc/boxscore/24377",
+        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/fgcu/boxscore/24379",
         "batting": null,
         "pitching": {
           "ip": "2.0",
-          "h": 3,
-          "r": 4,
-          "er": 4,
-          "bb": 1,
-          "so": 2,
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 1,
           "wp": 0,
           "hbp": 1,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against UMBC, throwing 2.0 innings. Allowed 4 earned run(s) with 2 strikeout(s)."
+      "narrative": "2.0 IP, 1 K vs. FGCU (L). At 7.61 ERA through 20.1 innings on the season."
     },
     "531e5fea": {
       "id": "531e5fea",
@@ -672,25 +672,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UMBC",
-        "result": "W",
-        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/umbc/boxscore/24376",
+        "date": "2026-03-17",
+        "opponent": "FGCU",
+        "result": "L",
+        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/fgcu/boxscore/24379",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 1,
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "hr": 1,
+          "so": 1,
+          "hr": 0,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 1 RBI against UMBC. Hit 1 home run(s). Contributed at the plate in the team's W."
+      "narrative": "0/1 with 0 RBI vs. FGCU (L). Hitting .117 with 1 HR through 10 games."
     },
     "cc42f475": {
       "id": "cc42f475",
@@ -1409,26 +1409,26 @@
         "opp_avg": ".300"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UMBC",
-        "result": "W",
-        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/umbc/boxscore/24376",
+        "date": "2026-03-17",
+        "opponent": "FGCU",
+        "result": "L",
+        "boxscore_url": "https://www.fausports.com/sports/baseball/stats/2026/fgcu/boxscore/24379",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
+          "ip": "1.1",
+          "h": 4,
+          "r": 1,
           "er": 0,
           "bb": 0,
-          "so": 0,
+          "so": 2,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against UMBC, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.1 IP, 2 K vs. FGCU (L). At 2.93 ERA through 9.2 innings on the season."
     },
     "b7c0774c": {
       "id": "b7c0774c",

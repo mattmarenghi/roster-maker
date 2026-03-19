@@ -2,13 +2,13 @@
   "school": "Le Moyne College",
   "base_url": "https://www.lemoynedolphins.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:49:48.855545Z",
+  "generated_at": "2026-03-19T07:45:01.237531Z",
   "record": "4-11",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "New Haven",
     "result": "L 5-6",
-    "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+    "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
     "recap_url": "https://www.lemoynedolphins.com/news/2026/3/15/bsbNewHaven3.aspx",
     "recap_headline": "Le Moyne College Athletics",
     "recap_text": ""
@@ -163,7 +163,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -215,7 +215,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -304,7 +304,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -374,7 +374,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -532,7 +532,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -584,7 +584,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -631,7 +631,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -690,7 +690,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -781,7 +781,7 @@
         "date": "2026-03-14",
         "opponent": "New Haven",
         "result": "L 1-13",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -845,7 +845,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -934,7 +934,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1013,7 +1013,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1146,7 +1146,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1205,7 +1205,7 @@
         "date": "2026-03-14",
         "opponent": "New Haven",
         "result": "L 1-13",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15742&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1264,7 +1264,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1323,7 +1323,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1382,7 +1382,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1441,7 +1441,7 @@
         "date": "2026-03-13",
         "opponent": "New Haven",
         "result": "W 13-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15741&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1523,7 +1523,7 @@
         "date": "2026-03-15",
         "opponent": "New Haven",
         "result": "L 5-6",
-        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=",
+        "boxscore_url": "https://www.lemoynedolphins.com/boxscore.aspx?id=15743&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,

@@ -2,13 +2,13 @@
   "school": "Florida A&M University",
   "base_url": "https://www.famuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:45:47.865651Z",
+  "generated_at": "2026-03-19T07:40:52.154827Z",
   "record": "7-12",
   "most_recent_game": {
     "date": "2026-03-17",
     "opponent": "Mercer",
     "result": "L 2-9",
-    "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+    "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""
@@ -70,7 +70,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -122,7 +122,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -174,7 +174,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -226,7 +226,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -296,7 +296,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -366,7 +366,7 @@
         "date": "2026-03-14",
         "opponent": "Southern U.",
         "result": "L 5-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -418,7 +418,7 @@
         "date": "2026-03-15",
         "opponent": "Southern U.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -520,7 +520,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": null,
         "pitching": {
           "ip": "2.0",
@@ -571,7 +571,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -635,7 +635,7 @@
         "date": "2026-03-15",
         "opponent": "Southern U.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -687,7 +687,7 @@
         "date": "2026-03-15",
         "opponent": "Southern U.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -776,7 +776,7 @@
         "date": "2026-03-14",
         "opponent": "Southern U.",
         "result": "L 5-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -855,7 +855,7 @@
         "date": "2026-03-14",
         "opponent": "Southern U.",
         "result": "L 5-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -919,7 +919,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -971,7 +971,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1023,7 +1023,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1093,7 +1093,7 @@
         "date": "2026-03-15",
         "opponent": "Southern U.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1140,7 +1140,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1241,7 +1241,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1288,7 +1288,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1347,7 +1347,7 @@
         "date": "2026-03-15",
         "opponent": "Southern U.",
         "result": "W 10-6",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1388,7 +1388,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1447,7 +1447,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1538,7 +1538,7 @@
         "date": "2026-03-14",
         "opponent": "Southern U.",
         "result": "L 5-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1620,7 +1620,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1704,7 +1704,7 @@
         "date": "2026-03-17",
         "opponent": "Mercer",
         "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=",
         "batting": {
           "ab": 0,
           "r": 0,

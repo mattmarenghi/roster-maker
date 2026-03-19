@@ -2,7 +2,7 @@
   "school": "Kent State University",
   "base_url": "https://www.kentstatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:49:14.506549Z",
+  "generated_at": "2026-03-19T07:44:31.413155Z",
   "record": "27-38",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -1002,7 +1002,7 @@
       "season_batting": null,
       "season_pitching": {
         "era": 4.3,
-        "whip": 1.17,
+        "whip": 1.22,
         "w": 2,
         "l": 0,
         "sv": 0,
@@ -1012,12 +1012,12 @@
         "h": 20,
         "r": 13,
         "er": 11,
-        "bb": 7,
-        "so": 28,
+        "bb": 8,
+        "so": 27,
         "hr": 5,
         "hbp": 3,
         "wp": 3,
-        "opp_avg": ".230"
+        "opp_avg": ".233"
       },
       "last_game": {
         "date": "2026-03-15",
@@ -1030,8 +1030,8 @@
           "h": 3,
           "r": 2,
           "er": 2,
-          "bb": 1,
-          "so": 8,
+          "bb": 2,
+          "so": 7,
           "wp": 0,
           "hbp": 2,
           "w": 0,

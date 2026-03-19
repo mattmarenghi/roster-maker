@@ -2,7 +2,7 @@
   "school": "Duke University",
   "base_url": "https://www.goduke.com",
   "season": "2026",
-  "generated_at": "2026-03-18T07:45:00.869585Z",
+  "generated_at": "2026-03-19T07:40:05.807957Z",
   "record": "15-8",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -214,25 +214,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Miami FL",
-        "result": "W",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24586",
+        "date": "2026-03-17",
+        "opponent": "Campbell",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/campbell/boxscore/24587",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 1,
           "h": 1,
-          "rbi": 2,
-          "bb": 3,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Albright extended his nation-leading walk total to 32 with three more free passes in Duke's 20-10 run-rule victory over Miami, showcasing elite plate discipline in a dominant offensive display. Through 21 games, the senior outfielder has maintained a .309 average with 17 RBI while drawing walks at an exceptional rate\u2014a skill-set that projects well for advanced on-base metrics at the next level."
+      "narrative": "1/3 with 0 RBI vs. Campbell (L). Hitting .310 with 1 HR through 22 games."
     },
     "8478bd88": {
       "id": "8478bd88",
@@ -374,26 +374,26 @@
         "opp_avg": ".375"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "High Point",
+        "date": "2026-03-17",
+        "opponent": "Campbell",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/campbell/boxscore/24587",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 5,
-          "r": 6,
-          "er": 6,
+          "ip": "1.1",
+          "h": 3,
+          "r": 2,
+          "er": 2,
           "bb": 1,
           "so": 0,
-          "wp": 0,
-          "hbp": 1,
+          "wp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 1,
           "sv": 0
         }
       },
-      "narrative": "Regulski lasted just two-thirds of an inning against High Point, surrendering six runs on five hits as Duke's pitching staff struggled to contain the Panthers' early offensive onslaught in Tuesday's 12-6 loss. Through seven-plus innings on the season, the freshman right-hander carries a 16.48 ERA with just two strikeouts, signaling significant early-year development needs before meaningful ACC competition intensifies."
+      "narrative": "1.1 IP, 0 K vs. Campbell (L). At 16.46 ERA through 8.2 innings on the season."
     },
     "ce2ee4c7": {
       "id": "ce2ee4c7",
@@ -430,25 +430,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "High Point",
+        "date": "2026-03-17",
+        "opponent": "Campbell",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/campbell/boxscore/24587",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 0,
           "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
-          "triples": 1,
+          "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Hamilton went 1-for-3 with a strikeout in Duke's 12-6 road loss to High Point, unable to capitalize as the Blue Devils fell behind early after the Panthers' six-run first inning. Through 19 games, the junior infielder/outfielder has maintained a team-competitive .349 average (22 H) with 16 RBI, establishing himself as a consistent contributor in the middle of Duke's lineup ahead of the Miami series."
+      "narrative": "1/4 with 0 RBI vs. Campbell (L). Hitting .343 with 1 HR through 20 games."
     },
     "d9cc0d8b": {
       "id": "d9cc0d8b",
@@ -1987,25 +1987,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Miami FL",
-        "result": "W",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24586",
+        "date": "2026-03-17",
+        "opponent": "Campbell",
+        "result": "L",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/campbell/boxscore/24587",
         "batting": {
-          "ab": 3,
-          "r": 3,
-          "h": 2,
-          "rbi": 2,
-          "bb": 1,
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
           "so": 1,
-          "hr": 1,
+          "hr": 0,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Smith went deep in Duke's offensive eruption against Miami, posting a third homer on the season while contributing 3 runs and 2 RBI in a run-rule victory that showcased the Blue Devils' balanced scoring attack with six different players driving in multiple runs. Through 10 games, the junior infielder has maintained a .305 average with solid power production (3 HR, 10 RBI), establishing himself as a complementary run-producer in Duke's lineup alongside Matthew Strand's early-season dominance."
+      "narrative": "0/2 with 1 RBI vs. Campbell (L). Hitting .289 with 3 HR through 11 games."
     },
     "8cc84cfe": {
       "id": "8cc84cfe",
@@ -2037,17 +2037,17 @@
         "opp_avg": ".269"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Miami FL",
+        "date": "2026-03-17",
+        "opponent": "Campbell",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24585",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/campbell/boxscore/24587",
         "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
+          "ip": "0.2",
+          "h": 3,
+          "r": 3,
+          "er": 3,
+          "bb": 0,
           "so": 1,
           "wp": 0,
           "hbp": 0,
@@ -2056,7 +2056,7 @@
           "sv": 0
         }
       },
-      "narrative": "Walker entered in relief after Duke's starter suffered a throwing-arm injury in the first inning, quietly navigating three scoreless frames against Miami while the offense collapsed in a 9-0 shutout loss. Through 6.2 innings on the young season, the right-hander has posted a 1.45 ERA with just one earned run allowed, establishing himself as a reliable bullpen option for the Blue Devils' ACC rotation depth."
+      "narrative": "0.2 IP, 1 K vs. Campbell (L). At 5.07 ERA through 7.1 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"
