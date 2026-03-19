@@ -350,6 +350,7 @@
       font-weight: 800;
       color: #1a1a2e;
       line-height: 1.2;
+      white-space: nowrap;
     }
 
     .pc-meta {
@@ -1293,7 +1294,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.36 (claude/fix-missing-hr-data-HtlE2)</div>`;
+        <div class="ps-version">VERSION 2.5.37 (claude/fix-missing-hr-data-HtlE2)</div>`;
       return;
     }
 
@@ -1335,7 +1336,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.36 (claude/fix-missing-hr-data-HtlE2)</div>`;
+      <div class="ps-version">VERSION 2.5.37 (claude/fix-missing-hr-data-HtlE2)</div>`;
   }
 
   async function signOut() {
@@ -1574,6 +1575,20 @@
     syncSortSelect(true);
     const favPlayers = sortedFavPlayers(allPlayers.filter(p => favorites.has(p.id)));
     area.innerHTML = favPlayers.map(p => playerCardHTML(p)).join('');
+    fitPlayerNames();
+  }
+
+  function fitPlayerNames() {
+    const MIN_PX = 13;
+    document.querySelectorAll('.pc-name').forEach(el => {
+      el.style.fontSize = '';
+      if (el.scrollWidth <= el.offsetWidth) return;
+      let size = parseFloat(getComputedStyle(el).fontSize);
+      while (el.scrollWidth > el.offsetWidth && size > MIN_PX) {
+        size -= 0.5;
+        el.style.fontSize = size + 'px';
+      }
+    });
   }
 
   // ── Stats helpers ───────────────────────────────────────────────────────────
