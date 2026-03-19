@@ -10,7 +10,7 @@
   <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.1/dist/umd/index.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; touch-action: manipulation; }
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -960,6 +960,14 @@
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   window.scrollTo(0, 0);
 
+  // Prevent double-tap zoom on iOS (pinch-to-zoom is unaffected — it's a multi-finger gesture)
+  let _lastTap = 0;
+  document.addEventListener('touchend', e => {
+    const now = Date.now();
+    if (now - _lastTap < 300) e.preventDefault();
+    _lastTap = now;
+  }, { passive: false });
+
   const $ = id => document.getElementById(id);
   let miniSearch, allPlayers = [];
   let currentResults = [];
@@ -1285,7 +1293,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.35 (claude/fix-missing-hr-data-HtlE2)</div>`;
+        <div class="ps-version">VERSION 2.5.36 (claude/fix-missing-hr-data-HtlE2)</div>`;
       return;
     }
 
@@ -1327,7 +1335,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.35 (claude/fix-missing-hr-data-HtlE2)</div>`;
+      <div class="ps-version">VERSION 2.5.36 (claude/fix-missing-hr-data-HtlE2)</div>`;
   }
 
   async function signOut() {
