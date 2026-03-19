@@ -798,9 +798,10 @@
       min-height: 100vh;
       background: white;
       align-items: center;
-      justify-content: center;
+      justify-content: flex-start;
       flex-direction: column;
       padding: 20px;
+      padding-top: 72px;
     }
     .auth-overlay.open { display: flex; }
 
@@ -1477,7 +1478,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.65 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+        <div class="ps-version">VERSION 2.5.66 (claude/reduce-login-spacing-ahtPO)</div>`;
       return;
     }
 
@@ -1519,7 +1520,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.65 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+      <div class="ps-version">VERSION 2.5.66 (claude/reduce-login-spacing-ahtPO)</div>`;
   }
 
   async function signOut() {
