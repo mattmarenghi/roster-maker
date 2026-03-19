@@ -1273,7 +1273,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.28 (claude/add-no-stats-placeholder-WA8zc)</div>`;
+        <div class="ps-version">VERSION 2.5.29 (claude/clear-search-on-reload-NUBac)</div>`;
       return;
     }
 
@@ -1315,7 +1315,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.28 (claude/add-no-stats-placeholder-WA8zc)</div>`;
+      <div class="ps-version">VERSION 2.5.29 (claude/clear-search-on-reload-NUBac)</div>`;
   }
 
   async function signOut() {
@@ -2119,15 +2119,8 @@
       await fetchFavorites();
     }
 
-    // Restore last search term + results across page loads/refreshes.
-    // Cleared only when user explicitly empties the input or presses X.
-    const savedSearch = sessionStorage.getItem('lastSearch');
-    if (savedSearch && savedSearch.trim().length >= 2) {
-      $('searchBox').value = savedSearch;
-      $('searchClear').classList.add('visible');
-      enterSearchMode();
-      runSearch(savedSearch.trim());
-    }
+    // Clear any saved search on page load/reload.
+    sessionStorage.removeItem('lastSearch');
   }
 
   init().catch(err => {
