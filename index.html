@@ -1300,7 +1300,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.42 (claude/cleanup-search-bar-qOyNQ)</div>`;
+        <div class="ps-version">VERSION 2.5.43 (claude/normalize-player-positions-pwqWi)</div>`;
       return;
     }
 
@@ -1342,7 +1342,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.42 (claude/cleanup-search-bar-qOyNQ)</div>`;
+      <div class="ps-version">VERSION 2.5.43 (claude/normalize-player-positions-pwqWi)</div>`;
   }
 
   async function signOut() {
@@ -1462,7 +1462,7 @@
           <div class="sr-info">
             <div class="sr-name-row">
               <span class="sr-name">${escapeHTML(p.name)}</span>
-              ${p.pos ? `<span class="sr-badge sr-badge-pos">${escapeHTML(p.pos)}</span>` : ''}
+              ${p.pos ? `<span class="sr-badge sr-badge-pos">${escapeHTML(normalizePos(p.pos))}</span>` : ''}
               ${p.yr  ? `<span class="sr-badge sr-badge-yr">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}
             </div>
             <div class="sr-school">${escapeHTML(p.school)}</div>
@@ -1485,6 +1485,62 @@
   function escapeHTML(str) {
     if (!str) return '';
     return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function normalizePos(pos) {
+    if (!pos) return '';
+    // Strip leading "Pos.:" prefix (various scraper artifacts)
+    let s = pos.replace(/^Pos\.:\s*/i, '').trim();
+
+    // Expand fused abbreviations with no separator
+    if (/^CINF$/i.test(s)) return 'C/INF';
+    if (/^CIF$/i.test(s)) return 'C/IF';
+
+    // Split on "/" possibly padded with spaces
+    const parts = s.split(/\s*\/\s*/);
+
+    const normPart = (raw) => {
+      const key = raw.trim().toLowerCase();
+      const map = {
+        // Right-handed pitcher
+        'rhp':'RHP','right handed pitcher':'RHP','right-handed pitcher':'RHP',
+        'right hand pitcher':'RHP','right-hand pitcher':'RHP',
+        'right handed pitching':'RHP',
+        // Left-handed pitcher
+        'lhp':'LHP','left handed pitcher':'LHP','left-handed pitcher':'LHP',
+        'left hand pitcher':'LHP','left-hand pitcher':'LHP',
+        'left handed pitching':'LHP',
+        // Generic pitcher
+        'pitcher':'P','p':'P','sp':'SP','rp':'RP',
+        // Catcher
+        'catcher':'C','c':'C',
+        // Outfield
+        'outfielder':'OF','outfield':'OF','of':'OF',
+        'center field':'CF','centerfield':'CF','cf':'CF',
+        'left field':'LF','leftfield':'LF','lf':'LF',
+        'right field':'RF','rightfield':'RF','rf':'RF',
+        // Infield generic
+        'infielder':'INF','infield':'INF','inf':'INF',
+        'indielder':'INF','inf.':'INF','if':'IF',
+        'middle infielder':'MIF','mif':'MIF',
+        'corner infielder':'INF',
+        // Specific infield
+        'first base':'1B','first baseman':'1B','1b':'1B','fb':'1B',
+        'second base':'2B','second baseman':'2B','2b':'2B',
+        'third base':'3B','third baseman':'3B','3b':'3B',
+        'shortstop':'SS','ss':'SS',
+        // Utility
+        'utility':'UTL','utl':'UTL','util':'UTL','ut':'UTL',
+        'uti':'UTL','ult':'UTL','ult.':'UTL',
+        // DH
+        'designated hitter':'DH','dh':'DH',
+        // Two-way / combo written as words
+        'two-way':'UTL',
+      };
+      return map[key] || raw.trim();
+    };
+
+    return parts.map(normPart).join('/');
   }
 
   function normalizeYr(yr) {
@@ -1752,7 +1808,7 @@
       : `<div class="pc-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
 
     const schoolMeta = escapeHTML(p.school);
-    const posLabel = p.pos || '';
+    const posLabel = normalizePos(p.pos || '');
 
     const playerData  = playerStatsMap[p.id] || null;
     const lg = playerData ? playerData.last_game : null;
