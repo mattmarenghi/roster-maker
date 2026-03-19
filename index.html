@@ -239,9 +239,12 @@
     }
     .section-header-row .section-title { margin: 0; }
 
-    .sort-select {
+    .sort-dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    .sort-dropdown-btn {
       appearance: none;
-      -webkit-appearance: none;
       background: #f4f6fb url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236b7280' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3C/svg%3E") no-repeat right 8px center;
       border: 1.5px solid #e0e4f0;
       border-radius: 8px;
@@ -251,10 +254,42 @@
       font-weight: 600;
       padding: 5px 28px 5px 10px;
       transition: border-color 0.15s;
+      font-family: inherit;
     }
-    .sort-select:focus {
+    .sort-dropdown-btn:focus {
       border-color: #4361ee;
       outline: none;
+    }
+    .sort-dropdown-menu {
+      display: none;
+      position: absolute;
+      right: 0;
+      top: calc(100% + 4px);
+      background: white;
+      border: 1.5px solid #e0e4f0;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      min-width: 140px;
+      z-index: 100;
+      overflow: hidden;
+    }
+    .sort-dropdown-menu.open { display: block; }
+    .sort-dropdown-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: #374151;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .sort-dropdown-item:hover { background: #f4f6fb; }
+    .sort-dropdown-item .sort-check {
+      width: 14px;
+      flex-shrink: 0;
+      color: #4361ee;
     }
 
     /* ── Favorite player card (homepage) ───────────────────────────────── */
@@ -884,12 +919,23 @@
 <div class="main-content" id="mainContent">
   <div class="section-header-row">
     <p class="section-title">My Players</p>
-    <select class="sort-select" id="sortSelect" style="display:none" onchange="onSortChange(this.value)">
-      <option value="school">School</option>
-      <option value="fn">First Name</option>
-      <option value="ln">Last Name</option>
-      <option value="recent">Most Recent</option>
-    </select>
+    <div class="sort-dropdown" id="sortDropdown" style="display:none">
+      <button class="sort-dropdown-btn" id="sortDropdownBtn" onclick="toggleSortMenu(event)">Sort by</button>
+      <div class="sort-dropdown-menu" id="sortDropdownMenu">
+        <div class="sort-dropdown-item" onclick="onSortChange('school')">
+          <span class="sort-check" id="sort-check-school"></span>School
+        </div>
+        <div class="sort-dropdown-item" onclick="onSortChange('fn')">
+          <span class="sort-check" id="sort-check-fn"></span>First Name
+        </div>
+        <div class="sort-dropdown-item" onclick="onSortChange('ln')">
+          <span class="sort-check" id="sort-check-ln"></span>Last Name
+        </div>
+        <div class="sort-dropdown-item" onclick="onSortChange('recent')">
+          <span class="sort-check" id="sort-check-recent"></span>Most Recent
+        </div>
+      </div>
+    </div>
   </div>
   <div class="section-divider"></div>
   <div id="playersArea"></div>
@@ -1211,7 +1257,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.23 (claude/player-card-sort-order-Bz1fQ)</div>`;
+        <div class="ps-version">VERSION 2.5.24 (claude/improve-sort-dropdown-OH9De)</div>`;
       return;
     }
 
@@ -1253,7 +1299,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.23 (claude/player-card-sort-order-Bz1fQ)</div>`;
+      <div class="ps-version">VERSION 2.5.24 (claude/improve-sort-dropdown-OH9De)</div>`;
   }
 
   async function signOut() {
@@ -1430,14 +1476,32 @@
   function onSortChange(val) {
     currentSort = val;
     localStorage.setItem('playerSort', val);
+    closeSortMenu();
     renderHomepage();
   }
 
+  function toggleSortMenu(e) {
+    e.stopPropagation();
+    $('sortDropdownMenu').classList.toggle('open');
+  }
+
+  function closeSortMenu() {
+    const menu = $('sortDropdownMenu');
+    if (menu) menu.classList.remove('open');
+  }
+
+  document.addEventListener('click', function(e) {
+    if (!$('sortDropdown')?.contains(e.target)) closeSortMenu();
+  });
+
   function syncSortSelect(visible) {
-    const sel = $('sortSelect');
-    if (!sel) return;
-    sel.style.display = visible ? '' : 'none';
-    sel.value = currentSort;
+    const wrap = $('sortDropdown');
+    if (!wrap) return;
+    wrap.style.display = visible ? '' : 'none';
+    ['school','fn','ln','recent'].forEach(function(v) {
+      const el = $('sort-check-' + v);
+      if (el) el.textContent = v === currentSort ? '✓' : '';
+    });
   }
 
   // ── Homepage / My Players ───────────────────────────────────────────────────
