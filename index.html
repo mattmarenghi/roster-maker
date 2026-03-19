@@ -1460,10 +1460,13 @@
     }
   }
 
-  // Enter key support
+  // Enter key support + iOS fix: inputs inside position:fixed overlays lose
+  // their tap target after the keyboard dismisses; touchstart re-focuses them.
   document.addEventListener('DOMContentLoaded', () => {
     $('authEmail').addEventListener('keydown', e => { if (e.key === 'Enter') sendOTP(); });
     $('authCode').addEventListener('keydown', e => { if (e.key === 'Enter') verifyOTP(); });
+    $('authEmail').addEventListener('touchstart', function() { this.focus(); }, { passive: true });
+    $('authCode').addEventListener('touchstart', function() { this.focus(); }, { passive: true });
   });
 
   // ── Profile / Settings ──────────────────────────────────────────────────────
@@ -1488,7 +1491,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.60 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+        <div class="ps-version">VERSION 2.5.61 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
       return;
     }
 
@@ -1530,7 +1533,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.60 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
+      <div class="ps-version">VERSION 2.5.61 (claude/fix-login-keyboard-issue-Gu88a)</div>`;
   }
 
   async function signOut() {
