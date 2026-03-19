@@ -1300,7 +1300,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.43 (claude/normalize-player-positions-pwqWi)</div>`;
+        <div class="ps-version">VERSION 2.5.44 (claude/normalize-player-positions-pwqWi)</div>`;
       return;
     }
 
@@ -1342,7 +1342,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.43 (claude/normalize-player-positions-pwqWi)</div>`;
+      <div class="ps-version">VERSION 2.5.44 (claude/normalize-player-positions-pwqWi)</div>`;
   }
 
   async function signOut() {
@@ -1462,8 +1462,8 @@
           <div class="sr-info">
             <div class="sr-name-row">
               <span class="sr-name">${escapeHTML(p.name)}</span>
-              ${p.pos ? `<span class="sr-badge sr-badge-pos">${escapeHTML(normalizePos(p.pos))}</span>` : ''}
-              ${p.yr  ? `<span class="sr-badge sr-badge-yr">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}
+              ${p.pos ? `<span class="sr-badge sr-badge-pos">${escapeHTML(p.pos)}</span>` : ''}
+              ${p.yr  ? `<span class="sr-badge sr-badge-yr">${escapeHTML(p.yr)}</span>` : ''}
             </div>
             <div class="sr-school">${escapeHTML(p.school)}</div>
           </div>
@@ -1487,89 +1487,6 @@
     return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   }
 
-  function normalizePos(pos) {
-    if (!pos) return '';
-    // Strip leading "Pos.:" prefix (various scraper artifacts)
-    let s = pos.replace(/^Pos\.:\s*/i, '').trim();
-
-    // Expand fused abbreviations with no separator
-    if (/^CINF$/i.test(s)) return 'C/INF';
-    if (/^CIF$/i.test(s)) return 'C/IF';
-
-    // Split on "/" possibly padded with spaces
-    const parts = s.split(/\s*\/\s*/);
-
-    const normPart = (raw) => {
-      const key = raw.trim().toLowerCase();
-      const map = {
-        // Right-handed pitcher
-        'rhp':'RHP','right handed pitcher':'RHP','right-handed pitcher':'RHP',
-        'right hand pitcher':'RHP','right-hand pitcher':'RHP',
-        'right handed pitching':'RHP',
-        // Left-handed pitcher
-        'lhp':'LHP','left handed pitcher':'LHP','left-handed pitcher':'LHP',
-        'left hand pitcher':'LHP','left-hand pitcher':'LHP',
-        'left handed pitching':'LHP',
-        // Generic pitcher
-        'pitcher':'P','p':'P','sp':'SP','rp':'RP',
-        // Catcher
-        'catcher':'C','c':'C',
-        // Outfield
-        'outfielder':'OF','outfield':'OF','of':'OF',
-        'center field':'CF','centerfield':'CF','cf':'CF',
-        'left field':'LF','leftfield':'LF','lf':'LF',
-        'right field':'RF','rightfield':'RF','rf':'RF',
-        // Infield generic
-        'infielder':'INF','infield':'INF','inf':'INF',
-        'indielder':'INF','inf.':'INF','if':'IF',
-        'middle infielder':'MIF','mif':'MIF',
-        'corner infielder':'INF',
-        // Specific infield
-        'first base':'1B','first baseman':'1B','1b':'1B','fb':'1B',
-        'second base':'2B','second baseman':'2B','2b':'2B',
-        'third base':'3B','third baseman':'3B','3b':'3B',
-        'shortstop':'SS','ss':'SS',
-        // Utility
-        'utility':'UTL','utl':'UTL','util':'UTL','ut':'UTL',
-        'uti':'UTL','ult':'UTL','ult.':'UTL',
-        // DH
-        'designated hitter':'DH','dh':'DH',
-        // Two-way / combo written as words
-        'two-way':'UTL',
-      };
-      return map[key] || raw.trim();
-    };
-
-    return parts.map(normPart).join('/');
-  }
-
-  function normalizeYr(yr) {
-    if (!yr) return '';
-    const key = yr.trim().toLowerCase();
-    const map = {
-      // Freshman
-      'fr.':'Fr.','freshman':'Fr.','fy.':'Fr.','fy':'Fr.','*fr.':'Fr.',
-      'r-fr.':'Fr.','redshirt freshman':'Fr.','rs-freshman':'Fr.','rs fr.':'Fr.',
-      'cl.:fr.':'Fr.','cl.:r-fr.':'Fr.','rf.':'Fr.',
-      // Sophomore
-      'so.':'So.','sophomore':'So.','r-so.':'So.','redshirt sophomore':'So.',
-      'rs so.':'So.','rs-so.':'So.','rs-sophomore':'So.','cl.:so.':'So.',
-      'cl.:so':'So.','cl.:r-so.':'So.','cl.:rs so.':'So.','cl.:rs. so.':'So.',
-      // Junior
-      'jr.':'Jr.','junior':'Jr.','*jr.':'Jr.','r-jr.':'Jr.','redshirt junior':'Jr.',
-      'rs jr.':'Jr.','rs-junior':'Jr.','rs-jr.':'Jr.','cl.:jr.':'Jr.',
-      'cl.:jr':'Jr.','cl.:r-jr.':'Jr.',
-      // Senior
-      'sr.':'Sr.','senior':'Sr.','*sr.':'Sr.','r-sr.':'Sr.','redshirt senior':'Sr.',
-      'rs sr.':'Sr.','rs-sr.':'Sr.','cl.:sr.':'Sr.','cl.:sr':'Sr.','cl.:rs sr.':'Sr.',
-      // Graduate / 5th+ year
-      'gr.':'Gr.','graduate student':'Gr.','graduate':'Gr.','5th':'Gr.','6th':'Gr.',
-      '5th-year senior':'Gr.','fifth year':'Gr.','fifth-year senior':'Gr.',
-      'red 5th':'Gr.','**sr. (graduate)':'Gr.','*jr. (graduate)':'Gr.',
-      'sr. (graduate)':'Gr.',
-    };
-    return map[key] || yr;
-  }
 
   // ── Sort control ────────────────────────────────────────────────────────────
   function onSortChange(val) {
@@ -1808,7 +1725,7 @@
       : `<div class="pc-photo" style="background:${bgColors[ci]};color:${textColors[ci]}">${initials}</div>`;
 
     const schoolMeta = escapeHTML(p.school);
-    const posLabel = normalizePos(p.pos || '');
+    const posLabel = p.pos || '';
 
     const playerData  = playerStatsMap[p.id] || null;
     const lg = playerData ? playerData.last_game : null;
@@ -1872,7 +1789,7 @@
           <div class="pc-info">
             <div class="pc-name">${escapeHTML(p.name)}</div>
             <div class="pc-meta">${schoolMeta.replace(/\bUniversity\b/g, 'Univ.')}</div>
-            <div class="pc-badges">${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(normalizeYr(p.yr))}</span>` : ''}</div>
+            <div class="pc-badges">${posLabel ? `<span class="pc-pos-badge">${escapeHTML(posLabel)}</span>` : ''}${p.yr ? `<span class="pc-yr-badge">${escapeHTML(p.yr)}</span>` : ''}</div>
           </div>
           <button class="pc-star" data-star-id="${p.id}"
                   onclick="toggleFavorite('${p.id}', event)">
