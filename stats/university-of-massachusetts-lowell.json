@@ -2,7 +2,7 @@
   "school": "University of Massachusetts Lowell",
   "base_url": "https://www.goriverhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:05:12.759853Z",
+  "generated_at": "2026-03-20T00:54:43.921101Z",
   "record": "7-9",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -326,22 +326,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Pepperdine",
-        "result": "W 13-8",
-        "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9515&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Boston College",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9516&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 5,
           "r": 1,
-          "h": 3,
-          "rbi": 1,
-          "bb": 2,
-          "so": 0,
-          "pos": "c"
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "3/3 with 1 RBI vs. Pepperdine (W 13-8). Hitting .375 with 2 HR through 10 games."
+      "narrative": "1/5 with 0 RBI vs. Boston College (W 12-2). Hitting .351 with 2 HR through 11 games."
     },
     "768f1c8a": {
       "id": "768f1c8a",
@@ -615,8 +615,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Boston College",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9516&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Boston College (W 12-2). Hitting .259 with 0 HR through 16 games."
     },
     "74591080": {
       "id": "74591080",
@@ -787,8 +802,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Pepperdine",
+        "result": "W 13-8",
+        "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9515&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 4,
+          "pos": "lf/2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Pepperdine (W 13-8). Hitting .222 with 0 HR through 8 games."
     },
     "1d71f3e5": {
       "id": "1d71f3e5",
@@ -908,8 +938,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Boston College",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9516&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 3,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/3 with 1 RBI vs. Boston College (W 12-2). Hitting .254 with 0 HR through 15 games."
     },
     "11b039c2": {
       "id": "11b039c2",
@@ -1381,8 +1426,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Pepperdine",
+        "result": "W 13-8",
+        "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9515&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 1 RBI vs. Pepperdine (W 13-8). Hitting .750 with 0 HR through 4 games."
     },
     "5a9c9364": {
       "id": "5a9c9364",
@@ -1390,7 +1450,7 @@
       "fn": "Sean",
       "ln": "O'Leary",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "44",
       "school": "University of Massachusetts Lowell",
       "season_batting": {
@@ -1418,8 +1478,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Pepperdine",
+        "result": "L 4-5",
+        "boxscore_url": "https://www.goriverhawks.com/boxscore.aspx?id=9514&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. Pepperdine (L 4-5). Hitting .258 with 2 HR through 15 games."
     },
     "490b8195": {
       "id": "490b8195",

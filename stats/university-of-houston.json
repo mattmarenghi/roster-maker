@@ -2,7 +2,7 @@
   "school": "University of Houston",
   "base_url": "https://www.uhcougars.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:03:48.372068Z",
+  "generated_at": "2026-03-20T00:53:16.428508Z",
   "record": "25-37",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -101,25 +101,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Ark.-Pine Bluff",
-        "result": "W",
-        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/ark-pine-bluff/boxscore/16069",
+        "date": "2026-03-18",
+        "opponent": "Louisiana",
+        "result": "L",
+        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/louisiana/boxscore/16075",
         "batting": {
           "ab": 2,
-          "r": 0,
+          "r": 1,
           "h": 1,
           "rbi": 1,
           "bb": 2,
-          "so": 0,
-          "hr": 0,
-          "doubles": 1,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "1/2 with 1 RBI vs. Ark.-Pine Bluff (W). Hitting .272 with 3 HR through 16 games."
+      "narrative": "1/2 with 1 RBI, 1 HR vs. Louisiana (L). Hitting .282 with 4 HR through 17 games."
     },
     "de2225ee": {
       "id": "de2225ee",
@@ -206,26 +206,26 @@
         "opp_avg": ".161"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Rice",
-        "result": "W",
-        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/rice/boxscore/16071",
+        "date": "2026-03-18",
+        "opponent": "Louisiana",
+        "result": "L",
+        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/louisiana/boxscore/16075",
         "batting": null,
         "pitching": {
-          "ip": "1.2",
-          "h": 0,
+          "ip": "3.0",
+          "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 1,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.2 IP, 1 K vs. Rice (W). At 2.40 ERA through 15.0 innings on the season."
+      "narrative": "3.0 IP, 0 K vs. Louisiana (L). At 2.00 ERA through 18.0 innings on the season."
     },
     "8f7165b9": {
       "id": "8f7165b9",
@@ -321,25 +321,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Kansas State",
-        "result": "W",
-        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/kansas-state/boxscore/16074",
+        "date": "2026-03-18",
+        "opponent": "Louisiana",
+        "result": "L",
+        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/louisiana/boxscore/16075",
         "batting": {
-          "ab": 3,
-          "r": 3,
-          "h": 2,
-          "rbi": 2,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
-          "hr": 1,
+          "hr": 0,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "2/3 with 2 RBI, 1 HR vs. Kansas State (W). Hitting .313 with 1 HR through 19 games."
+      "narrative": "0/4 with 0 RBI vs. Louisiana (L). Hitting .290 with 1 HR through 20 games."
     },
     "ba4da2cd": {
       "id": "ba4da2cd",
@@ -642,7 +642,7 @@
       "fn": "Xavier",
       "ln": "Perez",
       "pos": "OF/RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "37",
       "school": "University of Houston",
       "season_batting": {
@@ -671,25 +671,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Kansas State",
-        "result": "W",
-        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/kansas-state/boxscore/16074",
+        "date": "2026-03-18",
+        "opponent": "Louisiana",
+        "result": "L",
+        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/louisiana/boxscore/16075",
         "batting": {
-          "ab": 5,
+          "ab": 4,
           "r": 1,
-          "h": 1,
-          "rbi": 2,
-          "bb": 0,
-          "so": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 4,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "1/5 with 2 RBI vs. Kansas State (W). Hitting .306 with 4 HR through 19 games."
+      "narrative": "0/4 with 0 RBI vs. Louisiana (L). Hitting .291 with 4 HR through 20 games."
     },
     "156872e0": {
       "id": "156872e0",
@@ -749,7 +749,7 @@
       "fn": "Cameron",
       "ln": "Edmonds",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "41",
       "school": "University of Houston",
       "season_batting": null,
@@ -880,17 +880,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Kansas State",
-        "result": "W",
-        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/kansas-state/boxscore/16074",
+        "date": "2026-03-18",
+        "opponent": "Louisiana",
+        "result": "L",
+        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/louisiana/boxscore/16075",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -898,7 +898,7 @@
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. Kansas State (W). Hitting .358 with 5 HR through 13 games."
+      "narrative": "1/3 with 1 RBI vs. Louisiana (L). Hitting .357 with 5 HR through 14 games."
     },
     "d8b10a87": {
       "id": "d8b10a87",
@@ -986,25 +986,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Kansas State",
-        "result": "W",
-        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/kansas-state/boxscore/16074",
+        "date": "2026-03-18",
+        "opponent": "Louisiana",
+        "result": "L",
+        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/louisiana/boxscore/16075",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "hr": 1,
+          "so": 2,
+          "hr": 0,
           "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "1/4 with 4 RBI, 1 HR vs. Kansas State (W). Hitting .307 with 4 HR through 18 games."
+      "narrative": "0/4 with 0 RBI vs. Louisiana (L). Hitting .289 with 4 HR through 19 games."
     },
     "761acef3": {
       "id": "761acef3",
@@ -1036,26 +1036,34 @@
         "opp_avg": ".210"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Kansas State",
-        "result": "L",
-        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/kansas-state/boxscore/16073",
-        "batting": null,
-        "pitching": {
-          "ip": "5.0",
-          "h": 9,
-          "r": 7,
-          "er": 6,
+        "date": "2026-03-18",
+        "opponent": "Louisiana",
+        "result": "L 3-6",
+        "boxscore_url": "https://www.uhcougars.com/sports/baseball/stats/2026/louisiana/boxscore/16075",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 5,
-          "wp": 1,
+          "so": 0,
+          "pos": "P"
+        },
+        "pitching": {
+          "ip": "0.0",
+          "h": 0,
+          "r": 3,
+          "er": 1,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
           "hbp": 2,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "5.0 IP, 5 K, 6 ER vs. Kansas State (L). At 3.51 ERA through 28.2 innings on the season."
+      "narrative": null
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

@@ -2,7 +2,7 @@
   "school": "Youngstown State University",
   "base_url": "https://www.ysusports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:14:48.984777Z",
+  "generated_at": "2026-03-20T01:05:58.231862Z",
   "record": "2-15",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -48,15 +48,30 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Oakland",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8862&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 1 RBI vs. Oakland (L 3-4). Hitting .311 with 1 HR through 14 games."
     },
     "65c69161": {
       "id": "65c69161",
       "name": "Nick Miscavage",
       "fn": "Nick",
       "ln": "Miscavage",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Fr.",
       "num": "2",
       "school": "Youngstown State University",
@@ -85,8 +100,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Oakland",
+        "result": "L 6-12",
+        "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8861&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b/2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Oakland (L 6-12). Hitting .352 with 0 HR through 9 games."
     },
     "6b90fd37": {
       "id": "6b90fd37",
@@ -234,22 +264,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-15",
         "opponent": "Oakland",
-        "result": "W 6-5",
-        "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8860&path=baseball",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8862&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 1,
           "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "lf"
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. Oakland (W 6-5). Hitting .173 with 3 HR through 14 games."
+      "narrative": "1/3 with 0 RBI vs. Oakland (L 3-4). Hitting .173 with 3 HR through 14 games."
     },
     "66191aab": {
       "id": "66191aab",
@@ -713,22 +743,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Oakland",
-        "result": "L 6-12",
-        "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8861&path=baseball",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8862&path=baseball",
         "batting": {
-          "ab": 5,
+          "ab": 2,
           "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "rf"
+          "bb": 2,
+          "so": 0,
+          "pos": "rf/cf"
         },
         "pitching": null
       },
-      "narrative": "1/5 with 0 RBI vs. Oakland (L 6-12). Hitting .222 with 1 HR through 17 games."
+      "narrative": "1/2 with 0 RBI vs. Oakland (L 3-4). Hitting .222 with 1 HR through 17 games."
     },
     "7b1d951e": {
       "id": "7b1d951e",
@@ -1391,7 +1421,7 @@
       "name": "Nathan Beckley",
       "fn": "Nathan",
       "ln": "Beckley",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Jr.",
       "num": "37",
       "school": "Youngstown State University",
@@ -1420,8 +1450,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Oakland",
+        "result": "L 3-4",
+        "boxscore_url": "https://www.ysusports.com/boxscore.aspx?id=8862&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. Oakland (L 3-4). Hitting .208 with 0 HR through 15 games."
     },
     "2e42c7a0": {
       "id": "2e42c7a0",

@@ -2,7 +2,7 @@
   "school": "University of Evansville",
   "base_url": "https://www.gopurpleaces.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:02:59.129075Z",
+  "generated_at": "2026-03-20T00:52:10.846162Z",
   "record": "5-14",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -57,7 +57,7 @@
       "fn": "Aaron",
       "ln": "Nehls",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "1",
       "school": "University of Evansville",
       "season_batting": {
@@ -189,8 +189,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Southeast Mo. St.",
+        "result": "L 1-9",
+        "boxscore_url": "https://www.gopurpleaces.com/boxscore.aspx?id=12376&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Southeast Mo. St. (L 1-9). Hitting .189 with 1 HR through 19 games."
     },
     "69f17dd4": {
       "id": "69f17dd4",
@@ -354,7 +369,7 @@
       "fn": "Charlie",
       "ln": "Longmeier",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "8",
       "school": "University of Evansville",
       "season_batting": {
@@ -486,7 +501,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Southeast Mo. St.",
+        "result": "L 1-9",
+        "boxscore_url": "https://www.gopurpleaces.com/boxscore.aspx?id=12376&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "01bd70ee": {
@@ -863,7 +893,7 @@
       "fn": "Conner",
       "ln": "Vander Luitgaren",
       "pos": "RHP",
-      "yr": "Rf.",
+      "yr": "Fr.",
       "num": "19",
       "school": "University of Evansville",
       "season_batting": null,
@@ -1274,7 +1304,7 @@
       "fn": "Reagan",
       "ln": "Reeder",
       "pos": "1B/OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "31",
       "school": "University of Evansville",
       "season_batting": {
@@ -1302,8 +1332,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Southeast Mo. St.",
+        "result": "L 1-9",
+        "boxscore_url": "https://www.gopurpleaces.com/boxscore.aspx?id=12376&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Southeast Mo. St. (L 1-9). Hitting .186 with 1 HR through 12 games."
     },
     "c7c63773": {
       "id": "c7c63773",
@@ -1339,8 +1384,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Southeast Mo. St.",
+        "result": "L 1-9",
+        "boxscore_url": "https://www.gopurpleaces.com/boxscore.aspx?id=12376&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 0 RBI vs. Southeast Mo. St. (L 1-9). Hitting .203 with 3 HR through 18 games."
     },
     "64a2af4f": {
       "id": "64a2af4f",
@@ -1432,7 +1492,7 @@
       "fn": "Trenton",
       "ln": "Lombardo",
       "pos": "C",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "37",
       "school": "University of Evansville",
       "season_batting": {

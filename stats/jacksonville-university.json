@@ -2,7 +2,7 @@
   "school": "Jacksonville University",
   "base_url": "https://www.judolphins.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:43:38.475378Z",
+  "generated_at": "2026-03-20T00:31:08.177169Z",
   "record": "10-11",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -20,7 +20,7 @@
       "fn": "Clayton",
       "ln": "Hodges",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "2",
       "school": "Jacksonville University",
       "season_batting": {
@@ -94,7 +94,7 @@
       "fn": "Cade",
       "ln": "Walter",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "6",
       "school": "Jacksonville University",
       "season_batting": {
@@ -233,8 +233,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "South Florida",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7386&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. South Florida (W 13-3). Hitting .291 with 1 HR through 21 games."
     },
     "020c402e": {
       "id": "020c402e",
@@ -242,7 +257,7 @@
       "fn": "Abdriel",
       "ln": "Delgado",
       "pos": "1B",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "9",
       "school": "Jacksonville University",
       "season_batting": {
@@ -326,7 +341,7 @@
       "fn": "Sammy",
       "ln": "Mummau",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "14",
       "school": "Jacksonville University",
       "season_batting": {
@@ -406,8 +421,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "South Florida",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7386&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 3,
+          "pos": "2b/ss"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. South Florida (W 13-3). Hitting .421 with 4 HR through 21 games."
     },
     "d6dcd93e": {
       "id": "d6dcd93e",
@@ -502,8 +532,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "South Florida",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7386&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. South Florida (W 13-3). Hitting .192 with 2 HR through 17 games."
     },
     "516b64cf": {
       "id": "516b64cf",
@@ -543,7 +588,7 @@
       "fn": "Grant",
       "ln": "Brooks",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "20",
       "school": "Jacksonville University",
       "season_batting": null,
@@ -774,22 +819,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "West Ga.",
-        "result": "L 5-10",
-        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7385&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "South Florida",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.judolphins.com/boxscore.aspx?id=7386&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 1,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "pr"
+          "so": 0,
+          "pos": "c/2b"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 1 RBI vs. West Ga. (L 5-10). Hitting .230 with 0 HR through 10 games."
+      "narrative": "1/3 with 0 RBI vs. South Florida (W 13-3). Hitting .241 with 0 HR through 11 games."
     },
     "3b5342b9": {
       "id": "3b5342b9",
@@ -856,7 +901,7 @@
       "fn": "Scout",
       "ln": "Updike",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "27",
       "school": "Jacksonville University",
       "season_batting": null,
@@ -974,7 +1019,7 @@
       "fn": "Archer",
       "ln": "Ogbourne",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "29",
       "school": "Jacksonville University",
       "season_batting": {
@@ -1137,7 +1182,7 @@
       "fn": "Derek",
       "ln": "Bermudez",
       "pos": "INF/OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "33",
       "school": "Jacksonville University",
       "season_batting": {
@@ -1280,7 +1325,7 @@
       "fn": "Payton",
       "ln": "Waters",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "38",
       "school": "Jacksonville University",
       "season_batting": null,

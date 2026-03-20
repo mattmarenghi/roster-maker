@@ -2,13 +2,13 @@
   "school": "Manhattan University",
   "base_url": "https://www.gojaspers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:46:33.063227Z",
+  "generated_at": "2026-03-20T00:34:08.470594Z",
   "record": "6-11",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Fairfield",
     "result": "W 7-3",
-    "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+    "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
     "recap_url": "https://www.gojaspers.com/news/2026/3/15/sosas-three-hit-day-not-enough-for-baseball-at-fairfield-in-series-finale.aspx",
     "recap_headline": "Sosa\u2019s Three-Hit Day Not Enough for Baseball at Fairfield in Series Finale",
     "recap_text": ""
@@ -20,7 +20,7 @@
       "fn": "Carson",
       "ln": "Vance",
       "pos": "OF/2B",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "1",
       "school": "Manhattan University",
       "season_batting": {
@@ -121,7 +121,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -185,7 +185,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -233,7 +233,22 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Fairfield",
+        "result": "W 7-3",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "6f8591a2": {
@@ -311,7 +326,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -331,7 +346,7 @@
       "fn": "Caden",
       "ln": "Christman",
       "pos": "C",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "8",
       "school": "Manhattan University",
       "season_batting": {
@@ -454,7 +469,7 @@
       "name": "Guriyandel Salva",
       "fn": "Guriyandel",
       "ln": "Salva",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "So.",
       "num": "11",
       "school": "Manhattan University",
@@ -483,8 +498,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Fairfield",
+        "result": "W 7-3",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Fairfield (W 7-3). Hitting .322 with 0 HR through 16 games."
     },
     "6f734f81": {
       "id": "6f734f81",
@@ -519,7 +549,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -588,7 +618,7 @@
       "fn": "Hunter",
       "ln": "Sute",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "14",
       "school": "Manhattan University",
       "season_batting": {
@@ -620,7 +650,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -639,8 +669,8 @@
       "name": "Hayden Jung-Goldberg",
       "fn": "Hayden",
       "ln": "Jung-Goldberg",
-      "pos": "UTIL",
-      "yr": "R-Sr.",
+      "pos": "UTL",
+      "yr": "Sr.",
       "num": "15",
       "school": "Manhattan University",
       "season_batting": {
@@ -714,7 +744,7 @@
       "fn": "Andrew",
       "ln": "Brown",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "17",
       "school": "Manhattan University",
       "season_batting": {
@@ -796,7 +826,7 @@
         "date": "2026-03-14",
         "opponent": "Fairfield",
         "result": "W 4-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -878,7 +908,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -925,7 +955,7 @@
         "date": "2026-03-14",
         "opponent": "Fairfield",
         "result": "W 4-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11821&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -957,7 +987,7 @@
       "fn": "Will",
       "ln": "Pires",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "22",
       "school": "Manhattan University",
       "season_batting": null,
@@ -989,7 +1019,7 @@
       "fn": "Justin",
       "ln": "Best",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "24",
       "school": "Manhattan University",
       "season_batting": {
@@ -1021,7 +1051,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1069,8 +1099,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Fairfield",
+        "result": "W 7-3",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Fairfield (W 7-3). Hitting .355 with 3 HR through 15 games."
     },
     "c7359192": {
       "id": "c7359192",
@@ -1110,7 +1155,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1157,7 +1202,7 @@
         "date": "2026-03-13",
         "opponent": "Fairfield",
         "result": "W 11-2",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1189,7 +1234,7 @@
       "fn": "Ryan",
       "ln": "Foody",
       "pos": "1B",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "30",
       "school": "Manhattan University",
       "season_batting": {
@@ -1257,7 +1302,7 @@
       "name": "Vincent Samuel",
       "fn": "Vincent",
       "ln": "Samuel",
-      "pos": "CIF",
+      "pos": "C/IF",
       "yr": "Sr.",
       "num": "34",
       "school": "Manhattan University",
@@ -1286,8 +1331,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Fairfield",
+        "result": "W 7-3",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Fairfield (W 7-3). Hitting .315 with 3 HR through 17 games."
     },
     "7297da14": {
       "id": "7297da14",
@@ -1295,7 +1355,7 @@
       "fn": "Arnav",
       "ln": "Ghuliani",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "36",
       "school": "Manhattan University",
       "season_batting": null,
@@ -1409,7 +1469,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1461,7 +1521,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1481,7 +1541,7 @@
       "fn": "Ivan",
       "ln": "Epps",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "41",
       "school": "Manhattan University",
       "season_batting": null,
@@ -1513,7 +1573,7 @@
       "fn": "Jacob",
       "ln": "Smoot",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "42",
       "school": "Manhattan University",
       "season_batting": null,
@@ -1572,7 +1632,7 @@
         "date": "2026-03-13",
         "opponent": "Fairfield",
         "result": "W 11-2",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11817&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1604,7 +1664,7 @@
       "fn": "Chris",
       "ln": "Fidanza",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "45",
       "school": "Manhattan University",
       "season_batting": null,
@@ -1631,7 +1691,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1690,7 +1750,7 @@
         "date": "2026-03-15",
         "opponent": "Fairfield",
         "result": "W 7-3",
-        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=",
+        "boxscore_url": "https://www.gojaspers.com/boxscore.aspx?id=11823&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

@@ -2,7 +2,7 @@
   "school": "California State University, Fullerton",
   "base_url": "https://www.fullertontitans.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:36:41.761720Z",
+  "generated_at": "2026-03-20T00:24:05.937653Z",
   "record": "10-10",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -48,8 +48,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UNLV Rebels",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7600&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. UNLV Rebels (W 4-3). Hitting .309 with 0 HR through 14 games."
     },
     "3f1d4122": {
       "id": "3f1d4122",
@@ -57,7 +72,7 @@
       "fn": "Cam",
       "ln": "Burdick",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "2",
       "school": "California State University, Fullerton",
       "season_batting": {
@@ -141,7 +156,7 @@
       "fn": "Chris",
       "ln": "Hernandez",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "5",
       "school": "California State University, Fullerton",
       "season_batting": null,
@@ -443,8 +458,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UNLV Rebels",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7600&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. UNLV Rebels (W 4-3). Hitting .242 with 3 HR through 19 games."
     },
     "91de0daa": {
       "id": "91de0daa",
@@ -480,8 +510,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UNLV Rebels",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7600&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. UNLV Rebels (W 4-3). Hitting .258 with 3 HR through 20 games."
     },
     "6600018c": {
       "id": "6600018c",
@@ -939,7 +984,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UNLV Rebels",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.fullertontitans.com/boxscore.aspx?id=7600&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "PH/dh"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "af1b94fb": {
@@ -1059,7 +1119,7 @@
       "fn": "Masen",
       "ln": "Swan",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "35",
       "school": "California State University, Fullerton",
       "season_batting": null,
@@ -1469,7 +1529,7 @@
       "fn": "Dylan",
       "ln": "Goff",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "47",
       "school": "California State University, Fullerton",
       "season_batting": null,

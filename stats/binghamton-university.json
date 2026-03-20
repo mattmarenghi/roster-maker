@@ -2,7 +2,7 @@
   "school": "Binghamton University",
   "base_url": "https://www.bubearcats.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:34:25.847908Z",
+  "generated_at": "2026-03-20T00:21:39.284660Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-15",
         "opponent": "Bryant",
-        "result": "L 3-4",
-        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15457&path=baseball",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 0,
           "h": 1,
           "rbi": 1,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "ph"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "1/1 with 1 RBI vs. Bryant (L 3-4). Hitting .444 with 0 HR through 6 games."
+      "narrative": "1/3 with 1 RBI vs. Bryant (W 8-4). Hitting .444 with 0 HR through 6 games."
     },
     "b6a51159": {
       "id": "b6a51159",
@@ -220,7 +220,7 @@
       "fn": "Ben",
       "ln": "Griffith",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "5",
       "school": "Binghamton University",
       "season_batting": null,
@@ -279,7 +279,7 @@
       "fn": "Tim",
       "ln": "Hennig",
       "pos": "INF/OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "6",
       "school": "Binghamton University",
       "season_batting": {
@@ -307,8 +307,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bryant",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Bryant (W 8-4). Hitting .186 with 2 HR through 15 games."
     },
     "761caea5": {
       "id": "761caea5",
@@ -316,7 +331,7 @@
       "fn": "Ian",
       "ln": "Kaiser",
       "pos": "OF/P",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "7",
       "school": "Binghamton University",
       "season_batting": {
@@ -764,8 +779,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bryant",
+        "result": "W 8-4",
+        "boxscore_url": "https://www.bubearcats.com/boxscore.aspx?id=15459&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Bryant (W 8-4). Hitting .327 with 3 HR through 15 games."
     },
     "e0df417e": {
       "id": "e0df417e",
@@ -773,7 +803,7 @@
       "fn": "Aiden",
       "ln": "Milburn",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "22",
       "school": "Binghamton University",
       "season_batting": null,
@@ -1311,7 +1341,7 @@
       "fn": "Ryan",
       "ln": "Bates",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "34",
       "school": "Binghamton University",
       "season_batting": null,

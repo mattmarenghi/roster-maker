@@ -2,7 +2,7 @@
   "school": "University of Minnesota, Twin Cities",
   "base_url": "https://www.gophersports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:05:53.798249Z",
+  "generated_at": "2026-03-20T00:55:42.031600Z",
   "record": "52-62",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -346,7 +346,7 @@
       "fn": "Sam",
       "ln": "Hunt",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "10",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {
@@ -401,7 +401,7 @@
       "fn": "Ethan",
       "ln": "Cole",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "12",
       "school": "University of Minnesota, Twin Cities",
       "season_batting": {

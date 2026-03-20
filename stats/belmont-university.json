@@ -2,7 +2,7 @@
   "school": "Belmont University",
   "base_url": "https://www.belmontbruins.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:34:02.844662Z",
+  "generated_at": "2026-03-20T00:21:14.534091Z",
   "record": "8-13",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -124,7 +124,7 @@
       "fn": "Gardner",
       "ln": "Lawrence",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "2",
       "school": "Belmont University",
       "season_batting": {
@@ -241,8 +241,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Western Ky.",
+        "result": "L 2-7",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7017&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "lf/rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Western Ky. (L 2-7). Hitting .407 with 1 HR through 13 games."
     },
     "cb18b4b6": {
       "id": "cb18b4b6",
@@ -302,7 +317,7 @@
       "fn": "Nicholas",
       "ln": "Stinson",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "7",
       "school": "Belmont University",
       "season_batting": {
@@ -382,8 +397,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Western Ky.",
+        "result": "L 2-7",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7017&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Western Ky. (L 2-7). Hitting .355 with 2 HR through 21 games."
     },
     "cba1bdf4": {
       "id": "cba1bdf4",
@@ -391,7 +421,7 @@
       "fn": "Brody",
       "ln": "Langlotz",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "9",
       "school": "Belmont University",
       "season_batting": {
@@ -443,7 +473,7 @@
       "fn": "Cavan",
       "ln": "McMeans",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "10",
       "school": "Belmont University",
       "season_batting": {
@@ -641,8 +671,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Western Ky.",
+        "result": "L 2-7",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7017&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Western Ky. (L 2-7). Hitting .285 with 0 HR through 17 games."
     },
     "8b84a794": {
       "id": "8b84a794",
@@ -1004,7 +1049,7 @@
       "fn": "Isaac",
       "ln": "VanderWoude",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "26",
       "school": "Belmont University",
       "season_batting": {
@@ -1033,22 +1078,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UAB",
-        "result": "W 12-2",
-        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7016&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Western Ky.",
+        "result": "L 2-7",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7017&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "rf"
+          "pos": "rf/3b"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/2 with 0 RBI vs. Western Ky. (L 2-7). Hitting .125 with 0 HR through 15 games."
     },
     "b3c5bc7b": {
       "id": "b3c5bc7b",
@@ -1180,14 +1225,14 @@
       "season_batting": null,
       "season_pitching": {
         "era": 4.35,
-        "whip": 1.74,
+        "whip": 1.84,
         "w": 0,
         "l": 0,
         "sv": 0,
         "g": 7,
         "gs": 0,
         "ip": 10.1,
-        "h": 12,
+        "h": 13,
         "r": 10,
         "er": 5,
         "bb": 6,
@@ -1195,7 +1240,7 @@
         "hr": 2,
         "hbp": 4,
         "wp": 0,
-        "opp_avg": ".286"
+        "opp_avg": ".310"
       },
       "last_game": {
         "date": "2026-03-18",
@@ -1213,7 +1258,7 @@
         },
         "pitching": {
           "ip": "1.0",
-          "h": 0,
+          "h": 1,
           "r": 0,
           "er": 0,
           "bb": 1,
@@ -1261,8 +1306,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Western Ky.",
+        "result": "L 2-7",
+        "boxscore_url": "https://www.belmontbruins.com/boxscore.aspx?id=7017&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Western Ky. (L 2-7). Hitting .306 with 1 HR through 21 games."
     },
     "4c860d45": {
       "id": "4c860d45",
@@ -1388,7 +1448,7 @@
       "fn": "Mike",
       "ln": "Sprockett",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "34",
       "school": "Belmont University",
       "season_batting": {

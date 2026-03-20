@@ -2,7 +2,7 @@
   "school": "University of New Haven",
   "base_url": "https://www.newhavenchargers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:06:32.429339Z",
+  "generated_at": "2026-03-20T00:56:32.042561Z",
   "record": "1-11",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -211,8 +211,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Hofstra",
+        "result": "W 15-5",
+        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14802&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 4,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Hofstra (W 15-5). Hitting .200 with 0 HR through 11 games."
     },
     "e71b13d5": {
       "id": "e71b13d5",
@@ -353,22 +368,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Le Moyne",
-        "result": "L 1-13",
-        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14800&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Hofstra",
+        "result": "W 15-5",
+        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14802&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
+          "h": 1,
+          "rbi": 2,
+          "bb": 1,
           "so": 0,
-          "pos": "lf"
+          "pos": "PH/lf"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "1/1 with 2 RBI vs. Hofstra (W 15-5). Hitting .333 with 0 HR through 6 games."
     },
     "7a90b329": {
       "id": "7a90b329",
@@ -464,22 +479,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Le Moyne",
-        "result": "L 5-6",
-        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14801&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Hofstra",
+        "result": "W 15-5",
+        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14802&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 0,
+          "ab": 4,
+          "r": 1,
           "h": 1,
-          "rbi": 1,
-          "bb": 2,
-          "so": 4,
-          "pos": "lf"
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "lf/cf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 1 RBI vs. Le Moyne (L 5-6). Hitting .428 with 0 HR through 8 games."
+      "narrative": "1/4 with 0 RBI vs. Hofstra (W 15-5). Hitting .400 with 0 HR through 9 games."
     },
     "85d57928": {
       "id": "85d57928",
@@ -605,7 +620,7 @@
       "fn": "Caleb",
       "ln": "Martinek",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "University of New Haven",
       "season_batting": null,
@@ -960,29 +975,29 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Le Moyne",
-        "result": "L 1-13",
-        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14800&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Hofstra",
+        "result": "W 15-5",
+        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14802&path=baseball",
         "batting": {
-          "ab": 0,
-          "r": 0,
+          "ab": 2,
+          "r": 1,
           "h": 0,
-          "rbi": 0,
-          "bb": 0,
+          "rbi": 1,
+          "bb": 1,
           "so": 0,
-          "pos": "pr"
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/2 with 1 RBI vs. Hofstra (W 15-5). Hitting .000 with 0 HR through 7 games."
     },
     "9e73272a": {
       "id": "9e73272a",
       "name": "Joseph Frazzetta",
       "fn": "Joseph",
       "ln": "Frazzetta",
-      "pos": "CIF",
+      "pos": "C/IF",
       "yr": "Jr.",
       "num": "26",
       "school": "University of New Haven",
@@ -1011,8 +1026,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Le Moyne",
+        "result": "L 5-6",
+        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14801&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 0 RBI vs. Le Moyne (L 5-6). Hitting .156 with 0 HR through 10 games."
     },
     "b7db43ea": {
       "id": "b7db43ea",
@@ -1048,8 +1078,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Hofstra",
+        "result": "W 15-5",
+        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14802&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. Hofstra (W 15-5). Hitting .181 with 0 HR through 10 games."
     },
     "dd28c464": {
       "id": "dd28c464",
@@ -1249,7 +1294,7 @@
       "name": "Matt McIntire",
       "fn": "Matt",
       "ln": "McIntire",
-      "pos": "CIF",
+      "pos": "C/IF",
       "yr": "Sr.",
       "num": "32",
       "school": "University of New Haven",
@@ -1278,7 +1323,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Hofstra",
+        "result": "W 15-5",
+        "boxscore_url": "https://www.newhavenchargers.com/boxscore.aspx?id=14802&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "PH/dh"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "82ac1352": {

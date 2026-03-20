@@ -2,7 +2,7 @@
   "school": "Xavier University",
   "base_url": "https://www.goxavier.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:15:06.516807Z",
+  "generated_at": "2026-03-20T01:06:27.605351Z",
   "record": "6-16",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -104,25 +104,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Evansville",
+        "date": "2026-03-18",
+        "opponent": "Ohio State",
         "result": "L",
-        "boxscore_url": "https://www.goxavier.com/sports/baseball/stats/2026/evansville/boxscore/13162",
+        "boxscore_url": "https://www.goxavier.com/sports/baseball/stats/2026/ohio-state/boxscore/13164",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 1,
+          "r": 1,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Evansville. Contributed at the plate in the team's L."
+      "narrative": "2/4 with 0 RBI vs. Ohio State (L). Hitting .215 with 0 HR through 22 games."
     },
     "5bd3f901": {
       "id": "5bd3f901",
@@ -617,7 +617,7 @@
       "fn": "Alex",
       "ln": "Junghans",
       "pos": "IF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "15",
       "school": "Xavier University",
       "season_batting": {
@@ -1095,18 +1095,18 @@
         "opp_avg": ".284"
       },
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Oregon",
+        "date": "2026-03-18",
+        "opponent": "Ohio State",
         "result": "L",
-        "boxscore_url": "https://www.goxavier.com/sports/baseball/stats/2026/oregon/boxscore/13159",
+        "boxscore_url": "https://www.goxavier.com/sports/baseball/stats/2026/ohio-state/boxscore/13164",
         "batting": null,
         "pitching": {
           "ip": "5.0",
           "h": 4,
-          "r": 1,
-          "er": 1,
+          "r": 3,
+          "er": 3,
           "bb": 2,
-          "so": 3,
+          "so": 4,
           "wp": 0,
           "hbp": 1,
           "w": 0,
@@ -1114,7 +1114,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Oregon, throwing 5.0 innings. Struck out 3 while allowing just 4 hit(s) and 1 earned run(s) in a quality start."
+      "narrative": "5.0 IP, 4 K, 3 ER vs. Ohio State (L). At 4.00 ERA through 18.0 innings on the season."
     },
     "b538fea9": {
       "id": "b538fea9",
@@ -1807,17 +1807,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Evansville",
+        "date": "2026-03-18",
+        "opponent": "Ohio State",
         "result": "L",
-        "boxscore_url": "https://www.goxavier.com/sports/baseball/stats/2026/evansville/boxscore/13162",
+        "boxscore_url": "https://www.goxavier.com/sports/baseball/stats/2026/ohio-state/boxscore/13164",
         "batting": {
-          "ab": 3,
+          "ab": 5,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1825,7 +1825,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against Evansville. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "1/5 with 1 RBI vs. Ohio State (L). Hitting .333 with 0 HR through 8 games."
     },
     "221b5e40": {
       "id": "221b5e40",

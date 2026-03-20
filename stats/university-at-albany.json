@@ -2,7 +2,7 @@
   "school": "University at Albany",
   "base_url": "https://www.ualbanysports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:59:50.440675Z",
+  "generated_at": "2026-03-20T00:48:56.850559Z",
   "record": "1-13",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -48,8 +48,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Army West Point",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9966&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Army West Point (W 12-2). Hitting .268 with 0 HR through 13 games."
     },
     "0b284a0d": {
       "id": "0b284a0d",
@@ -57,7 +72,7 @@
       "fn": "Victor",
       "ln": "Mazzara",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "2",
       "school": "University at Albany",
       "season_batting": {
@@ -174,8 +189,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Yale",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9964&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Yale (W 6-5). Hitting .200 with 0 HR through 6 games."
     },
     "f9d37cab": {
       "id": "f9d37cab",
@@ -183,7 +213,7 @@
       "fn": "Tre",
       "ln": "Mariano",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "5",
       "school": "University at Albany",
       "season_batting": {
@@ -229,8 +259,23 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Army West Point",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9966&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. Army West Point (W 12-2). Hitting .208 with 1 HR through 8 games."
     },
     "67dfa377": {
       "id": "67dfa377",
@@ -238,7 +283,7 @@
       "fn": "Michael",
       "ln": "Maggio",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "7",
       "school": "University at Albany",
       "season_batting": {
@@ -409,8 +454,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Yale",
+        "result": "W 15-7",
+        "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9965&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Yale (W 15-7). Hitting .208 with 2 HR through 7 games."
     },
     "58040887": {
       "id": "58040887",
@@ -679,8 +739,23 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Army West Point",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9966&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. Army West Point (W 12-2). Hitting .208 with 1 HR through 8 games."
     },
     "96b98cfc": {
       "id": "96b98cfc",
@@ -799,7 +874,7 @@
       "fn": "Jaxon",
       "ln": "Mueller",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "19",
       "school": "University at Albany",
       "season_batting": {
@@ -851,7 +926,7 @@
       "fn": "Justin",
       "ln": "Hurd",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "20",
       "school": "University at Albany",
       "season_batting": {
@@ -879,8 +954,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Army West Point",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9966&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Army West Point (W 12-2). Hitting .083 with 0 HR through 11 games."
     },
     "bb6031c2": {
       "id": "bb6031c2",
@@ -947,7 +1037,7 @@
       "fn": "Jameson",
       "ln": "Walsh",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "22",
       "school": "University at Albany",
       "season_batting": null,
@@ -1065,7 +1155,7 @@
       "fn": "Levi",
       "ln": "McAllister",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "University at Albany",
       "season_batting": {
@@ -1117,7 +1207,7 @@
       "fn": "Steven",
       "ln": "Filler-Berroll",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "25",
       "school": "University at Albany",
       "season_batting": {
@@ -1186,7 +1276,7 @@
       "fn": "Matthew",
       "ln": "Mariano",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "34",
       "school": "University at Albany",
       "season_batting": {
@@ -1232,8 +1322,23 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Army West Point",
+        "result": "W 12-2",
+        "boxscore_url": "https://www.ualbanysports.com/boxscore.aspx?id=9966&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. Army West Point (W 12-2). Hitting .208 with 1 HR through 8 games."
     },
     "f1e26247": {
       "id": "f1e26247",
@@ -1241,7 +1346,7 @@
       "fn": "Tyler",
       "ln": "Kneller",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "37",
       "school": "University at Albany",
       "season_batting": null,
@@ -1273,7 +1378,7 @@
       "fn": "John",
       "ln": "Vitucci",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "38",
       "school": "University at Albany",
       "season_batting": {
@@ -1325,7 +1430,7 @@
       "fn": "Brian",
       "ln": "Cadieux",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "39",
       "school": "University at Albany",
       "season_batting": null,

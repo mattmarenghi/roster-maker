@@ -2,7 +2,7 @@
   "school": "Bowling Green State University",
   "base_url": "https://www.bgsufalcons.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:35:19.152653Z",
+  "generated_at": "2026-03-20T00:22:36.632419Z",
   "record": "22-33",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -75,7 +75,7 @@
       "fn": "Chase",
       "ln": "Chopin",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "4",
       "school": "Bowling Green State University",
       "season_batting": {
@@ -103,8 +103,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-02-25",
+        "opponent": "Cincinnati",
+        "result": "L",
+        "boxscore_url": "https://www.bgsufalcons.com/sports/baseball/stats/2026/cincinnati/boxscore/24797",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Cincinnati (L). Hitting .000 with 0 HR through 6 games."
     },
     "7d96c8ba": {
       "id": "7d96c8ba",
@@ -324,7 +342,7 @@
       "fn": "Nate",
       "ln": "Kress",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "11",
       "school": "Bowling Green State University",
       "season_batting": null,
@@ -375,7 +393,7 @@
       "fn": "Ty",
       "ln": "Roder",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "13",
       "school": "Bowling Green State University",
       "season_batting": null,
@@ -477,7 +495,7 @@
       "fn": "Carson",
       "ln": "Lumley",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "15",
       "school": "Bowling Green State University",
       "season_batting": null,
@@ -509,7 +527,7 @@
       "fn": "Alex",
       "ln": "Laird",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "16",
       "school": "Bowling Green State University",
       "season_batting": {
@@ -973,7 +991,7 @@
       "fn": "Titus",
       "ln": "Lotz",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "26",
       "school": "Bowling Green State University",
       "season_batting": null,
@@ -1181,7 +1199,7 @@
       "fn": "Jaxon",
       "ln": "Brown",
       "pos": "C",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "31",
       "school": "Bowling Green State University",
       "season_batting": {
@@ -1236,7 +1254,7 @@
       "fn": "Ethan",
       "ln": "Stade",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "32",
       "school": "Bowling Green State University",
       "season_batting": null,
@@ -1338,7 +1356,7 @@
       "fn": "Zack",
       "ln": "Horky",
       "pos": "C/OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "34",
       "school": "Bowling Green State University",
       "season_batting": {
@@ -1425,7 +1443,7 @@
       "fn": "Ethan",
       "ln": "Papacek",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "36",
       "school": "Bowling Green State University",
       "season_batting": null,
@@ -1582,7 +1600,7 @@
       "fn": "Anthony",
       "ln": "Mitta",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "40",
       "school": "Bowling Green State University",
       "season_batting": {
@@ -1637,7 +1655,7 @@
       "fn": "Brady",
       "ln": "Birchmeier",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "43",
       "school": "Bowling Green State University",
       "season_batting": {

@@ -2,7 +2,7 @@
   "school": "Saint Joseph's University",
   "base_url": "https://sjuhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:53:37.746728Z",
+  "generated_at": "2026-03-20T00:41:47.710431Z",
   "record": "8-10",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -480,8 +480,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Delaware",
+        "result": "W 18-0",
+        "boxscore_url": "https://sjuhawks.com/boxscore.aspx?id=18516&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Delaware (W 18-0). Hitting .204 with 4 HR through 12 games."
     },
     "b096230b": {
       "id": "b096230b",
@@ -517,8 +532,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Delaware",
+        "result": "W 18-0",
+        "boxscore_url": "https://sjuhawks.com/boxscore.aspx?id=18516&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Delaware (W 18-0). Hitting .145 with 1 HR through 17 games."
     },
     "bd383b99": {
       "id": "bd383b99",
@@ -1015,8 +1045,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Delaware",
+        "result": "W 18-0",
+        "boxscore_url": "https://sjuhawks.com/boxscore.aspx?id=18516&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Delaware (W 18-0). Hitting .410 with 1 HR through 15 games."
     },
     "2014c395": {
       "id": "2014c395",

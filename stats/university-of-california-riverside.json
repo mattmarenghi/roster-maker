@@ -2,7 +2,7 @@
   "school": "University of California, Riverside",
   "base_url": "https://www.gohighlanders.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:01:43.305083Z",
+  "generated_at": "2026-03-20T00:50:57.108745Z",
   "record": "6-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -48,8 +48,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "San Francisco",
+        "result": "W 7-3",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15131&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. San Francisco (W 7-3). Hitting .157 with 0 HR through 15 games."
     },
     "c7b40595": {
       "id": "c7b40595",
@@ -339,8 +354,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15133&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b/2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 0 RBI vs. San Francisco (W 6-5). Hitting .229 with 2 HR through 20 games."
     },
     "b125ac2b": {
       "id": "b125ac2b",
@@ -629,7 +659,7 @@
       "fn": "Adrian",
       "ln": "Blanchet",
       "pos": "RHP",
-      "yr": "RS So.",
+      "yr": "So.",
       "num": "17",
       "school": "University of California, Riverside",
       "season_batting": null,
@@ -886,8 +916,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15133&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b/ss"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. San Francisco (W 6-5). Hitting .309 with 1 HR through 19 games."
     },
     "bb82a25a": {
       "id": "bb82a25a",
@@ -1086,26 +1131,22 @@
         "opp_avg": ".295"
       },
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-15",
         "opponent": "San Francisco",
-        "result": "W 7-3",
-        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15131&path=baseball",
-        "batting": null,
-        "pitching": {
-          "ip": "4.1",
-          "h": 5,
-          "r": 3,
-          "er": 0,
+        "result": "W 6-5",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15133&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
           "bb": 0,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
       },
-      "narrative": "4.1 IP, 3 K vs. San Francisco (W 7-3). At 5.68 ERA through 11.1 innings on the season."
+      "narrative": "2/5 with 0 RBI vs. San Francisco (W 6-5). Hitting .285 with 2 HR through 20 games."
     },
     "2b2c3bbd": {
       "id": "2b2c3bbd",
@@ -1113,7 +1154,7 @@
       "fn": "Griffin",
       "ln": "Harrison",
       "pos": "INF",
-      "yr": "RS Sr.",
+      "yr": "Sr.",
       "num": "35",
       "school": "University of California, Riverside",
       "season_batting": {
@@ -1263,22 +1304,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "San Francisco",
-        "result": "L 4-6",
-        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15132&path=baseball",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.gohighlanders.com/boxscore.aspx?id=15133&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 5,
           "r": 1,
           "h": 2,
-          "rbi": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "ph"
+          "so": 1,
+          "pos": "rf/3b"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 2 RBI vs. San Francisco (L 4-6). Hitting .262 with 1 HR through 17 games."
+      "narrative": "2/5 with 1 RBI vs. San Francisco (W 6-5). Hitting .262 with 1 HR through 17 games."
     },
     "72836d74": {
       "id": "72836d74",
@@ -1318,7 +1359,7 @@
       "fn": "Hunter",
       "ln": "Backstrom",
       "pos": "OF",
-      "yr": "RS So.",
+      "yr": "So.",
       "num": "44",
       "school": "University of California, Riverside",
       "season_batting": {

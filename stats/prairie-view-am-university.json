@@ -2,7 +2,7 @@
   "school": "Prairie View A&M University",
   "base_url": "https://www.pvpanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:51:49.953521Z",
+  "generated_at": "2026-03-20T00:39:51.606718Z",
   "record": "4-15",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -19,7 +19,7 @@
       "name": "Tyvon Moore",
       "fn": "Tyvon",
       "ln": "Moore",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Gr.",
       "num": "1",
       "school": "Prairie View A&M University",
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Bethune-Cookman",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10415&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "McNeese",
+        "result": "W 16-1",
+        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10417&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "cf"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Bethune-Cookman (W 6-3). Hitting .333 with 1 HR through 12 games."
+      "narrative": "0/3 with 0 RBI vs. McNeese (W 16-1). Hitting .311 with 1 HR through 13 games."
     },
     "7cb56d3d": {
       "id": "7cb56d3d",
@@ -72,7 +72,7 @@
       "fn": "DeShon",
       "ln": "Middleton",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "2",
       "school": "Prairie View A&M University",
       "season_batting": {
@@ -234,8 +234,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "McNeese",
+        "result": "W 16-1",
+        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10417&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 1 RBI vs. McNeese (W 16-1). Hitting .305 with 3 HR through 19 games."
     },
     "55da347d": {
       "id": "55da347d",
@@ -295,7 +310,7 @@
       "fn": "Kamar",
       "ln": "Dove",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "6",
       "school": "Prairie View A&M University",
       "season_batting": null,
@@ -475,7 +490,7 @@
       "fn": "Kenneth",
       "ln": "Haynes",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "12",
       "school": "Prairie View A&M University",
       "season_batting": null,
@@ -598,7 +613,7 @@
       "fn": "Jordan",
       "ln": "Williams",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "15",
       "school": "Prairie View A&M University",
       "season_batting": {
@@ -866,7 +881,7 @@
       "fn": "Rayce",
       "ln": "Hudson",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "19",
       "school": "Prairie View A&M University",
       "season_batting": null,
@@ -925,7 +940,7 @@
       "fn": "Corie",
       "ln": "Lockette",
       "pos": "1B",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "20",
       "school": "Prairie View A&M University",
       "season_batting": {
@@ -953,8 +968,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "McNeese",
+        "result": "W 16-1",
+        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10417&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. McNeese (W 16-1). Hitting .278 with 2 HR through 18 games."
     },
     "2d2cff26": {
       "id": "2d2cff26",
@@ -1110,22 +1140,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Bethune-Cookman",
-        "result": "W 10-5",
-        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10416&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "McNeese",
+        "result": "W 16-1",
+        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10417&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 2,
+          "ab": 0,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 3,
-          "pos": "c"
+          "bb": 1,
+          "so": 0,
+          "pos": "ph/c"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Bethune-Cookman (W 10-5). Hitting .500 with 0 HR through 1 games."
+      "narrative": null
     },
     "ca1e8d6c": {
       "id": "ca1e8d6c",
@@ -1482,22 +1512,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Bethune-Cookman",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10415&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "McNeese",
+        "result": "W 16-1",
+        "boxscore_url": "https://www.pvpanthers.com/boxscore.aspx?id=10417&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "dh"
+          "pos": "ph/1b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Bethune-Cookman (W 6-3). Hitting .230 with 1 HR through 15 games."
+      "narrative": "0/2 with 0 RBI vs. McNeese (W 16-1). Hitting .222 with 1 HR through 16 games."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

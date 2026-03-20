@@ -2,7 +2,7 @@
   "school": "North Carolina Central University",
   "base_url": "https://www.nccueaglepride.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:50:05.675409Z",
+  "generated_at": "2026-03-20T00:38:09.756170Z",
   "record": "27-20",
   "most_recent_game": {
     "date": "2021-05-22",
@@ -20,7 +20,7 @@
       "fn": "Nick",
       "ln": "Fajardo",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -72,7 +72,7 @@
       "fn": "Alex",
       "ln": "Ortiz",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -109,7 +109,7 @@
       "fn": "Jordan",
       "ln": "Varela-Payne",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -205,7 +205,7 @@
       "fn": "Jonathan",
       "ln": "Peacock",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -289,7 +289,7 @@
       "fn": "Ryan",
       "ln": "Miller",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -385,7 +385,7 @@
       "fn": "Jackson",
       "ln": "Hartley",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -417,7 +417,7 @@
       "fn": "Chris",
       "ln": "Krennrich",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -476,7 +476,7 @@
       "fn": "Caleb",
       "ln": "McRoy",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -535,7 +535,7 @@
       "fn": "Cameron",
       "ln": "Norgren",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -615,8 +615,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2021-05-22",
+        "opponent": "Norfolk State",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6953&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/5 with 0 RBI vs. Norfolk State (W 7-6). Hitting .335 with 5 HR through 47 games."
     },
     "c9b2925e": {
       "id": "c9b2925e",
@@ -624,7 +639,7 @@
       "fn": "Justin",
       "ln": "Bowers",
       "pos": "1B/OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -661,7 +676,7 @@
       "fn": "Ryan",
       "ln": "Decker",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -693,7 +708,7 @@
       "fn": "Jacob",
       "ln": "Raby",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -773,8 +788,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2021-05-22",
+        "opponent": "Norfolk State",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6953&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Norfolk State (W 7-6). Hitting .281 with 6 HR through 46 games."
     },
     "315d0a80": {
       "id": "315d0a80",
@@ -782,7 +812,7 @@
       "fn": "Tristan",
       "ln": "Shea",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -811,22 +841,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2021-05-21",
-        "opponent": "Florida A&M",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6952&path=baseball",
+        "date": "2021-05-22",
+        "opponent": "Norfolk State",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6953&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 0,
-          "h": 0,
-          "rbi": 2,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "dh"
+          "so": 0,
+          "pos": "ph/dh"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 2 RBI vs. Florida A&M (W 5-3). Hitting .303 with 2 HR through 39 games."
+      "narrative": "1/2 with 0 RBI vs. Norfolk State (W 7-6). Hitting .303 with 2 HR through 39 games."
     },
     "52865338": {
       "id": "52865338",
@@ -893,7 +923,7 @@
       "fn": "Scott",
       "ln": "Meylan",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -984,7 +1014,7 @@
       "fn": "Shawn",
       "ln": "Runey",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -1043,7 +1073,7 @@
       "fn": "Jake",
       "ln": "Eigner",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -1075,7 +1105,7 @@
       "fn": "Ahmir",
       "ln": "Cournier",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -1112,7 +1142,7 @@
       "fn": "Luis",
       "ln": "DeLeon",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -1164,7 +1194,7 @@
       "fn": "Kobe",
       "ln": "Phillips",
       "pos": "C/INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": {
@@ -1216,7 +1246,7 @@
       "fn": "Matt",
       "ln": "Stanley",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,
@@ -1367,8 +1397,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2021-05-22",
+        "opponent": "Norfolk State",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6953&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 0 RBI vs. Norfolk State (W 7-6). Hitting .241 with 4 HR through 38 games."
     },
     "4b78ba12": {
       "id": "4b78ba12",
@@ -1376,7 +1421,7 @@
       "fn": "Austin",
       "ln": "Vernon",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "North Carolina Central University",
       "season_batting": null,

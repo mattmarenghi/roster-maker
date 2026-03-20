@@ -2,7 +2,7 @@
   "school": "Queens University of Charlotte",
   "base_url": "https://www.queensathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:52:33.604691Z",
+  "generated_at": "2026-03-20T00:40:39.611455Z",
   "record": "4-16",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -19,7 +19,7 @@
       "name": "Hunter Huneycutt",
       "fn": "Hunter",
       "ln": "Huneycutt",
-      "pos": "UTI",
+      "pos": "UTL",
       "yr": "",
       "num": "1",
       "school": "Queens University of Charlotte",
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-14",
         "opponent": "FGCU",
-        "result": "W 11-0",
-        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12909&path=baseball",
+        "result": "W 4-2",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12911&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 2,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "lf"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 0 RBI vs. FGCU (W 11-0). Hitting .222 with 0 HR through 14 games."
+      "narrative": "1/3 with 0 RBI vs. FGCU (W 4-2). Hitting .222 with 0 HR through 14 games."
     },
     "3fc8eaeb": {
       "id": "3fc8eaeb",
@@ -154,20 +154,20 @@
       "last_game": {
         "date": "2026-03-13",
         "opponent": "FGCU",
-        "result": "W 2-1",
-        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12910&path=baseball",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12909&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/2 with 0 RBI vs. FGCU (W 11-0). Hitting .100 with 0 HR through 14 games."
     },
     "680d0654": {
       "id": "680d0654",
@@ -263,7 +263,7 @@
       "name": "Ryan Brown",
       "fn": "Ryan",
       "ln": "Brown",
-      "pos": "UTI",
+      "pos": "UTL",
       "yr": "",
       "num": "6",
       "school": "Queens University of Charlotte",
@@ -315,7 +315,7 @@
       "name": "Bradley Brown",
       "fn": "Bradley",
       "ln": "Brown",
-      "pos": "UTI",
+      "pos": "UTL",
       "yr": "",
       "num": "7",
       "school": "Queens University of Charlotte",
@@ -500,8 +500,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "FGCU",
+        "result": "W 4-2",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12911&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. FGCU (W 4-2). Hitting .276 with 2 HR through 19 games."
     },
     "c73a055a": {
       "id": "c73a055a",
@@ -888,8 +903,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "FGCU",
+        "result": "W 4-2",
+        "boxscore_url": "https://www.queensathletics.com/boxscore.aspx?id=12911&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. FGCU (W 4-2). Hitting .232 with 1 HR through 14 games."
     },
     "261b7bc8": {
       "id": "261b7bc8",
@@ -1259,7 +1289,7 @@
       "name": "Justin Hudson",
       "fn": "Justin",
       "ln": "Hudson",
-      "pos": "UTI",
+      "pos": "UTL",
       "yr": "",
       "num": "35",
       "school": "Queens University of Charlotte",

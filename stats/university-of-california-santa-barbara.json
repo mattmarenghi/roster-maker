@@ -2,7 +2,7 @@
   "school": "University of California, Santa Barbara",
   "base_url": "https://ucsbgauchos.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:02:06.535067Z",
+  "generated_at": "2026-03-20T00:51:21.813761Z",
   "record": "14-4",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -263,8 +263,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UC Davis",
+        "result": "W 10-6",
+        "boxscore_url": "https://ucsbgauchos.com/boxscore.aspx?id=12430&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 4,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. UC Davis (W 10-6). Hitting .295 with 5 HR through 18 games."
     },
     "ca1d5da2": {
       "id": "ca1d5da2",
@@ -331,7 +346,7 @@
       "fn": "Jack",
       "ln": "Haferkamp",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "9",
       "school": "University of California, Santa Barbara",
       "season_batting": {
@@ -434,22 +449,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "UC Davis",
-        "result": "W 5-4",
-        "boxscore_url": "https://ucsbgauchos.com/boxscore.aspx?id=12429&path=baseball",
+        "result": "W 10-6",
+        "boxscore_url": "https://ucsbgauchos.com/boxscore.aspx?id=12430&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 1,
           "h": 1,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "c"
+          "so": 2,
+          "pos": "ph/c"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. UC Davis (W 5-4). Hitting .159 with 1 HR through 16 games."
+      "narrative": "1/2 with 1 RBI vs. UC Davis (W 10-6). Hitting .159 with 1 HR through 16 games."
     },
     "93333861": {
       "id": "93333861",
@@ -681,22 +696,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "UC Davis",
-        "result": "W 5-4",
-        "boxscore_url": "https://ucsbgauchos.com/boxscore.aspx?id=12429&path=baseball",
+        "result": "W 10-6",
+        "boxscore_url": "https://ucsbgauchos.com/boxscore.aspx?id=12430&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "dh"
+          "pos": "ph/rf"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. UC Davis (W 5-4). Hitting .305 with 1 HR through 18 games."
+      "narrative": "2/3 with 1 RBI vs. UC Davis (W 10-6). Hitting .305 with 1 HR through 18 games."
     },
     "dca096eb": {
       "id": "dca096eb",
@@ -763,7 +778,7 @@
       "fn": "Chase",
       "ln": "Hoover",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "22",
       "school": "University of California, Santa Barbara",
       "season_batting": null,
@@ -882,8 +897,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UC Davis",
+        "result": "W 10-6",
+        "boxscore_url": "https://ucsbgauchos.com/boxscore.aspx?id=12430&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 2,
+          "bb": 1,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 2 RBI vs. UC Davis (W 10-6). Hitting .307 with 2 HR through 15 games."
     },
     "d4141f2f": {
       "id": "d4141f2f",
@@ -919,8 +949,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UC Davis",
+        "result": "W 10-6",
+        "boxscore_url": "https://ucsbgauchos.com/boxscore.aspx?id=12430&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. UC Davis (W 10-6). Hitting .377 with 0 HR through 13 games."
     },
     "d9a88202": {
       "id": "d9a88202",
@@ -1019,7 +1064,7 @@
       "fn": "Xavier",
       "ln": "Esquer",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "31",
       "school": "University of California, Santa Barbara",
       "season_batting": {
@@ -1115,7 +1160,7 @@
       "fn": "Max",
       "ln": "Stagg",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "35",
       "school": "University of California, Santa Barbara",
       "season_batting": {

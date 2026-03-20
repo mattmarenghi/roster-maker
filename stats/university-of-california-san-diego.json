@@ -2,13 +2,13 @@
   "school": "University of California, San Diego",
   "base_url": "https://www.ucsdtritons.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:01:52.446487Z",
+  "generated_at": "2026-03-20T00:51:13.967042Z",
   "record": "7-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "CSUN",
     "result": "L 4-12",
-    "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+    "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
     "recap_url": "https://www.ucsdtritons.com/news/2026/3/15/triton-baseball-sweeps-csun.aspx",
     "recap_headline": "UC San Diego",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 3,
           "r": 3,
@@ -104,7 +104,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -152,8 +152,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "CSUN",
+        "result": "L 4-12",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 4,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 0 RBI vs. CSUN (L 4-12). Hitting .166 with 0 HR through 14 games."
     },
     "f97ad046": {
       "id": "f97ad046",
@@ -193,7 +208,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -240,7 +255,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -368,7 +383,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -428,8 +443,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "CSUN",
+        "result": "L 16-17",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 6,
+          "pos": "ph/c"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. CSUN (L 16-17). Hitting .142 with 0 HR through 8 games."
     },
     "f1a5d269": {
       "id": "f1a5d269",
@@ -464,7 +494,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -528,7 +558,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -548,7 +578,7 @@
       "fn": "Ryson",
       "ln": "Ujimori",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "16",
       "school": "University of California, San Diego",
       "season_batting": {
@@ -612,7 +642,7 @@
         "date": "2026-03-13",
         "opponent": "CSUN",
         "result": "L 16-17",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -676,7 +706,7 @@
       "fn": "Austin",
       "ln": "Bowker",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "20",
       "school": "University of California, San Diego",
       "season_batting": null,
@@ -703,7 +733,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -767,7 +797,7 @@
         "date": "2026-03-14",
         "opponent": "CSUN",
         "result": "L 4-6",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11944&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11944&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -819,7 +849,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -871,7 +901,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -919,8 +949,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "CSUN",
+        "result": "L 4-12",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
+        "batting": {
+          "ab": 6,
+          "r": 0,
+          "h": 3,
+          "rbi": 4,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/6 with 4 RBI vs. CSUN (L 4-12). Hitting .313 with 4 HR through 17 games."
     },
     "9cef8b80": {
       "id": "9cef8b80",
@@ -955,7 +1000,7 @@
         "date": "2026-03-13",
         "opponent": "CSUN",
         "result": "L 16-17",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -987,7 +1032,7 @@
       "fn": "Steele",
       "ln": "Murdock",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "27",
       "school": "University of California, San Diego",
       "season_batting": null,
@@ -1014,7 +1059,7 @@
         "date": "2026-03-13",
         "opponent": "CSUN",
         "result": "L 16-17",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11943&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1212,8 +1257,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "CSUN",
+        "result": "L 4-12",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 0,
+          "rbi": 1,
+          "bb": 2,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 1 RBI vs. CSUN (L 4-12). Hitting .322 with 8 HR through 17 games."
     },
     "5cc01421": {
       "id": "5cc01421",
@@ -1248,7 +1308,7 @@
         "date": "2026-03-14",
         "opponent": "CSUN",
         "result": "L 4-6",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11944&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11944&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1307,7 +1367,7 @@
         "date": "2026-03-14",
         "opponent": "CSUN",
         "result": "L 4-6",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11944&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11944&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1463,7 +1523,7 @@
         "date": "2026-03-15",
         "opponent": "CSUN",
         "result": "L 4-12",
-        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=",
+        "boxscore_url": "https://www.ucsdtritons.com/boxscore.aspx?id=11945&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,

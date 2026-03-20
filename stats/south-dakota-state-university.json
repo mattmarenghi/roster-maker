@@ -2,7 +2,7 @@
   "school": "South Dakota State University",
   "base_url": "https://www.gojacks.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:55:18.838048Z",
+  "generated_at": "2026-03-20T00:43:51.082394Z",
   "record": "9-14",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -343,17 +343,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
+        "date": "2026-03-18",
         "opponent": "Oklahoma State",
         "result": "L",
-        "boxscore_url": "https://www.gojacks.com/sports/baseball/stats/2026/oklahoma-state/boxscore/14931",
+        "boxscore_url": "https://www.gojacks.com/sports/baseball/stats/2026/oklahoma-state/boxscore/14932",
         "batting": {
-          "ab": 5,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 2,
-          "rbi": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -361,7 +361,7 @@
         },
         "pitching": null
       },
-      "narrative": "2/5 with 2 RBI vs. Oklahoma State (L). Hitting .190 with 1 HR through 9 games."
+      "narrative": "2/3 with 1 RBI vs. Oklahoma State (L). Hitting .250 with 1 HR through 10 games."
     },
     "51795bd5": {
       "id": "51795bd5",
@@ -533,8 +533,8 @@
       "name": "Nate Wachter",
       "fn": "Nate",
       "ln": "Wachter",
-      "pos": "C/UT",
-      "yr": "R-Fr.",
+      "pos": "C/UTL",
+      "yr": "Fr.",
       "num": "10",
       "school": "South Dakota State University",
       "season_batting": {
@@ -800,7 +800,7 @@
       "name": "Nic Werk",
       "fn": "Nic",
       "ln": "Werk",
-      "pos": "UT/P",
+      "pos": "UTL/P",
       "yr": "So.",
       "num": "15",
       "school": "South Dakota State University",
@@ -1158,17 +1158,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "vs Southern Ill.",
+        "date": "2026-03-18",
+        "opponent": "Oklahoma State",
         "result": "L",
-        "boxscore_url": "https://www.gojacks.com/sports/baseball/stats/2026/southern-ill-/boxscore/15029",
+        "boxscore_url": "https://www.gojacks.com/sports/baseball/stats/2026/oklahoma-state/boxscore/14932",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
+          "r": 1,
+          "h": 1,
           "rbi": 1,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1176,7 +1176,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 1 RBI against vs Southern Ill.. Struggled to make contact."
+      "narrative": "1/3 with 1 RBI vs. Oklahoma State (L). Hitting .208 with 0 HR through 13 games."
     },
     "c63b4aeb": {
       "id": "c63b4aeb",
@@ -1234,7 +1234,7 @@
       "name": "Jaren Vogt",
       "fn": "Jaren",
       "ln": "Vogt",
-      "pos": "UT/P",
+      "pos": "UTL/P",
       "yr": "Fr.",
       "num": "28",
       "school": "South Dakota State University",
@@ -1616,7 +1616,7 @@
       "name": "Logan Campbell",
       "fn": "Logan",
       "ln": "Campbell",
-      "pos": "UT/P",
+      "pos": "UTL/P",
       "yr": "Fr.",
       "num": "35",
       "school": "South Dakota State University",

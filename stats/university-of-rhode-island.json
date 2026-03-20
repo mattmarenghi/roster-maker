@@ -2,7 +2,7 @@
   "school": "University of Rhode Island",
   "base_url": "https://www.gorhody.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:09:06.758528Z",
+  "generated_at": "2026-03-20T00:59:16.249953Z",
   "record": "4-14",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -20,7 +20,7 @@
       "fn": "Will",
       "ln": "Hindle",
       "pos": "INF/OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "1",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -100,8 +100,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 2,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 1 RBI vs. New Haven (W 11-0). Hitting .250 with 0 HR through 15 games."
     },
     "812d427c": {
       "id": "812d427c",
@@ -138,22 +153,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "New Haven",
-        "result": "W 11-0",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Stonehill",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
+          "ab": 0,
+          "r": 1,
           "h": 0,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "lf"
+          "pos": "PR/dh"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 1 RBI vs. New Haven (W 11-0). Hitting .295 with 0 HR through 15 games."
+      "narrative": null
     },
     "0f6c75e3": {
       "id": "0f6c75e3",
@@ -161,7 +176,7 @@
       "fn": "Brian",
       "ln": "Connolly",
       "pos": "IF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "4",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -189,8 +204,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Stonehill",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 3,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 3 RBI vs. Stonehill (W 8-6). Hitting .270 with 0 HR through 11 games."
     },
     "e1d3fe8d": {
       "id": "e1d3fe8d",
@@ -198,7 +228,7 @@
       "fn": "Joel",
       "ln": "Collado",
       "pos": "C/1B",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "6",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -226,8 +256,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH/dh"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. New Haven (W 11-0). Hitting .000 with 0 HR through 5 games."
     },
     "e0b6dd00": {
       "id": "e0b6dd00",
@@ -378,7 +423,7 @@
       "fn": "Ryan",
       "ln": "Henschel",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "11",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -541,7 +586,7 @@
       "fn": "Colin",
       "ln": "Maloney",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "University of Rhode Island",
       "season_batting": null,
@@ -600,7 +645,7 @@
       "fn": "TJ",
       "ln": "Gormley",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "15",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -629,22 +674,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "New Haven",
-        "result": "W 11-0",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Stonehill",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 2,
-          "h": 0,
-          "rbi": 0,
-          "bb": 2,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
           "so": 0,
-          "pos": "dh"
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. New Haven (W 11-0). Hitting .150 with 0 HR through 10 games."
+      "narrative": "1/3 with 1 RBI vs. Stonehill (W 8-6). Hitting .173 with 0 HR through 11 games."
     },
     "cf24a7e0": {
       "id": "cf24a7e0",
@@ -652,7 +697,7 @@
       "fn": "Braeden",
       "ln": "Perry",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "16",
       "school": "University of Rhode Island",
       "season_batting": null,
@@ -712,8 +757,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Stonehill",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 1 RBI vs. Stonehill (W 8-6). Hitting .328 with 0 HR through 17 games."
     },
     "9a8b1866": {
       "id": "9a8b1866",
@@ -773,7 +833,7 @@
       "fn": "Evan",
       "ln": "Maloney",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "19",
       "school": "University of Rhode Island",
       "season_batting": null,
@@ -832,7 +892,7 @@
       "fn": "Connor",
       "ln": "Grotyohann",
       "pos": "OF/RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "21",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -883,7 +943,15 @@
         "opponent": "Stonehill",
         "result": "W 8-6",
         "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
-        "batting": null,
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "dh/p"
+        },
         "pitching": {
           "ip": "1.0",
           "h": 1,
@@ -958,7 +1026,7 @@
       "fn": "Dorsy",
       "ln": "Asencio",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "University of Rhode Island",
       "season_batting": null,
@@ -1076,7 +1144,7 @@
       "fn": "Derek",
       "ln": "Maceda",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "25",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -1127,8 +1195,8 @@
       "name": "Andrew Ray",
       "fn": "Andrew",
       "ln": "Ray",
-      "pos": "UT",
-      "yr": "R-Fr.",
+      "pos": "UTL",
+      "yr": "Fr.",
       "num": "26",
       "school": "University of Rhode Island",
       "season_batting": {
@@ -1156,8 +1224,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. New Haven (W 11-0). Hitting .000 with 0 HR through 5 games."
     },
     "fcc8db4b": {
       "id": "fcc8db4b",
@@ -1165,7 +1248,7 @@
       "fn": "Tommy",
       "ln": "Turner",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "28",
       "school": "University of Rhode Island",
       "season_batting": null,
@@ -1368,8 +1451,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-10",
+        "opponent": "New Haven",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11774&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. New Haven (W 11-0). Hitting .209 with 1 HR through 17 games."
     },
     "2caa5ffe": {
       "id": "2caa5ffe",
@@ -1377,7 +1475,7 @@
       "fn": "Will",
       "ln": "Creed",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "35",
       "school": "University of Rhode Island",
       "season_batting": null,
@@ -1586,7 +1684,7 @@
       "fn": "Nicholas",
       "ln": "Toro",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "41",
       "school": "University of Rhode Island",
       "season_batting": {

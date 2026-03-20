@@ -2,7 +2,7 @@
   "school": "University of West Georgia",
   "base_url": "https://www.uwgathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:11:45.634431Z",
+  "generated_at": "2026-03-20T01:02:42.432702Z",
   "record": "5-16",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -20,7 +20,7 @@
       "fn": "Davis",
       "ln": "Williams",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "1",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -163,7 +163,7 @@
       "fn": "Hank",
       "ln": "Smith",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "4",
       "school": "University of West Georgia",
       "season_batting": {
@@ -228,8 +228,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Georgia St.",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.uwgathletics.com/boxscore.aspx?id=6688&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Georgia St. (L 2-8). Hitting .262 with 1 HR through 20 games."
     },
     "0cac422b": {
       "id": "0cac422b",
@@ -326,7 +341,7 @@
       "fn": "Jacob",
       "ln": "Bowman",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "9",
       "school": "University of West Georgia",
       "season_batting": {
@@ -510,8 +525,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Georgia St.",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.uwgathletics.com/boxscore.aspx?id=6688&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Georgia St. (L 2-8). Hitting .302 with 3 HR through 21 games."
     },
     "62f334d6": {
       "id": "62f334d6",
@@ -622,7 +652,7 @@
       "name": "Fano Cruz",
       "fn": "Fano",
       "ln": "Cruz",
-      "pos": "1B/ OF",
+      "pos": "1B/OF",
       "yr": "Jr.",
       "num": "16",
       "school": "University of West Georgia",
@@ -651,8 +681,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Georgia St.",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.uwgathletics.com/boxscore.aspx?id=6688&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Georgia St. (L 2-8). Hitting .204 with 2 HR through 14 games."
     },
     "8e3b25e0": {
       "id": "8e3b25e0",
@@ -719,7 +764,7 @@
       "fn": "Luke",
       "ln": "Ridley",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "18",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -921,7 +966,7 @@
       "fn": "Macklin",
       "ln": "Miller",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "22",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -953,7 +998,7 @@
       "fn": "Josh",
       "ln": "Lanum",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "24",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -1116,7 +1161,7 @@
       "fn": "Rowan",
       "ln": "Park",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "27",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -1404,7 +1449,7 @@
       "fn": "Eric",
       "ln": "De Costa",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "32",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -1488,7 +1533,7 @@
       "fn": "Gunnar",
       "ln": "Plante",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "36",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -1547,7 +1592,7 @@
       "fn": "Drew",
       "ln": "Richardson",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "37",
       "school": "University of West Georgia",
       "season_batting": null,
@@ -1670,7 +1715,7 @@
       "fn": "Kevin",
       "ln": "Hilton",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "41",
       "school": "University of West Georgia",
       "season_batting": {

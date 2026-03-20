@@ -2,7 +2,7 @@
   "school": "Lamar University",
   "base_url": "https://www.lamarcardinals.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:44:55.514903Z",
+  "generated_at": "2026-03-20T00:32:30.949145Z",
   "record": "12-9",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -153,22 +153,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "McNeese",
-        "result": "W 5-0",
-        "boxscore_url": "https://www.lamarcardinals.com/boxscore.aspx?id=25378&path=baseball",
+        "result": "W 11-10",
+        "boxscore_url": "https://www.lamarcardinals.com/boxscore.aspx?id=25379&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 0,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "dh"
+          "pos": "PH/dh"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. McNeese (W 5-0). Hitting .268 with 2 HR through 19 games."
+      "narrative": null
     },
     "37489331": {
       "id": "37489331",
@@ -256,8 +256,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Sam Houston",
+        "result": "L 4-7",
+        "boxscore_url": "https://www.lamarcardinals.com/boxscore.aspx?id=25380&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 3,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/5 with 0 RBI vs. Sam Houston (L 4-7). Hitting .344 with 1 HR through 21 games."
     },
     "895b9621": {
       "id": "895b9621",
@@ -924,8 +939,23 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Sam Houston",
+        "result": "L 4-7",
+        "boxscore_url": "https://www.lamarcardinals.com/boxscore.aspx?id=25380&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Sam Houston (L 4-7). Hitting .407 with 0 HR through 9 games."
     },
     "46b447e3": {
       "id": "46b447e3",
@@ -961,8 +991,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Sam Houston",
+        "result": "L 4-7",
+        "boxscore_url": "https://www.lamarcardinals.com/boxscore.aspx?id=25380&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Sam Houston (L 4-7). Hitting .223 with 1 HR through 21 games."
     },
     "3b47f353": {
       "id": "3b47f353",
@@ -1501,8 +1546,23 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Sam Houston",
+        "result": "L 4-7",
+        "boxscore_url": "https://www.lamarcardinals.com/boxscore.aspx?id=25380&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Sam Houston (L 4-7). Hitting .407 with 0 HR through 9 games."
     },
     "51f70b10": {
       "id": "51f70b10",

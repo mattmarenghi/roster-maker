@@ -2,7 +2,7 @@
   "school": "University of Portland",
   "base_url": "https://www.portlandpilots.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:08:43.226234Z",
+  "generated_at": "2026-03-20T00:59:04.498679Z",
   "record": "11-7",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -20,7 +20,7 @@
       "fn": "Cody",
       "ln": "Nitowitz",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "2",
       "school": "University of Portland",
       "season_batting": {
@@ -71,7 +71,7 @@
       "name": "Nolan Miller",
       "fn": "Nolan",
       "ln": "Miller",
-      "pos": "OF/FB",
+      "pos": "OF/1B",
       "yr": "So.",
       "num": "5",
       "school": "University of Portland",
@@ -207,8 +207,23 @@
         "wp": 1,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UConn",
+        "result": "W 5-3",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. UConn (W 5-3). Hitting .157 with 0 HR through 10 games."
     },
     "f92dd645": {
       "id": "f92dd645",
@@ -513,8 +528,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Oregon State (W 3-1). Hitting .209 with 3 HR through 18 games."
     },
     "4a3fcf38": {
       "id": "4a3fcf38",
@@ -522,7 +552,7 @@
       "fn": "Ky",
       "ln": "Hoskinson",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "15",
       "school": "University of Portland",
       "season_batting": null,
@@ -613,7 +643,7 @@
       "fn": "Troy",
       "ln": "Osborne",
       "pos": "UTL",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "17",
       "school": "University of Portland",
       "season_batting": {
@@ -650,7 +680,7 @@
       "fn": "Morgan",
       "ln": "Codron",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "18",
       "school": "University of Portland",
       "season_batting": null,
@@ -761,7 +791,7 @@
       "fn": "Logan",
       "ln": "Anderson",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "21",
       "school": "University of Portland",
       "season_batting": null,
@@ -845,7 +875,7 @@
       "fn": "Quin",
       "ln": "Dufort",
       "pos": "LHP/OF",
-      "yr": "Rf.",
+      "yr": "Fr.",
       "num": "23",
       "school": "University of Portland",
       "season_batting": null,
@@ -877,7 +907,7 @@
       "fn": "Gage",
       "ln": "Bruce",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "University of Portland",
       "season_batting": {
@@ -929,7 +959,7 @@
       "fn": "Leo",
       "ln": "Cote",
       "pos": "INF",
-      "yr": "Rf.",
+      "yr": "Fr.",
       "num": "25",
       "school": "University of Portland",
       "season_batting": {
@@ -957,8 +987,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/2 with 1 RBI vs. Oregon State (W 3-1). Hitting .250 with 2 HR through 13 games."
     },
     "8c9c7f78": {
       "id": "8c9c7f78",
@@ -966,7 +1011,7 @@
       "fn": "Kaden",
       "ln": "Segel",
       "pos": "RHP",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "27",
       "school": "University of Portland",
       "season_batting": null,
@@ -1025,7 +1070,7 @@
       "fn": "Kaden",
       "ln": "Starr",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "29",
       "school": "University of Portland",
       "season_batting": null,
@@ -1145,22 +1190,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UConn",
-        "result": "W 5-3",
-        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13025&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Oregon State",
+        "result": "W 3-1",
+        "boxscore_url": "https://www.portlandpilots.com/boxscore.aspx?id=13026&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
-          "pos": "c"
+          "so": 0,
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. UConn (W 5-3). Hitting .310 with 1 HR through 17 games."
+      "narrative": "0/3 with 1 RBI vs. Oregon State (W 3-1). Hitting .295 with 1 HR through 18 games."
     },
     "a91ac12d": {
       "id": "a91ac12d",

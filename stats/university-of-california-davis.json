@@ -2,7 +2,7 @@
   "school": "University of California, Davis",
   "base_url": "https://www.ucdavisaggies.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:01:10.887181Z",
+  "generated_at": "2026-03-20T00:50:35.992612Z",
   "record": "9-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -49,22 +49,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "UC Santa Barbara",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28963&path=baseball",
+        "result": "W 10-6",
+        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28964&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "ph"
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/1 with 0 RBI vs. UC Santa Barbara (W 10-6). Hitting .133 with 0 HR through 17 games."
     },
     "ae881bda": {
       "id": "ae881bda",
@@ -189,8 +189,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UC Santa Barbara",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28963&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. UC Santa Barbara (W 5-4). Hitting .200 with 1 HR through 13 games."
     },
     "877196fc": {
       "id": "877196fc",
@@ -226,8 +241,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UC Santa Barbara",
+        "result": "W 10-6",
+        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28964&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 0 RBI vs. UC Santa Barbara (W 10-6). Hitting .224 with 1 HR through 17 games."
     },
     "91e02241": {
       "id": "91e02241",
@@ -263,8 +293,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "UC Santa Barbara",
+        "result": "W 10-6",
+        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28964&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 1 RBI vs. UC Santa Barbara (W 10-6). Hitting .304 with 0 HR through 10 games."
     },
     "fb6a0a37": {
       "id": "fb6a0a37",
@@ -331,7 +376,7 @@
       "fn": "Noel",
       "ln": "Valdez",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "11",
       "school": "University of California, Davis",
       "season_batting": null,
@@ -390,7 +435,7 @@
       "fn": "Grayson",
       "ln": "Bonanno",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "13",
       "school": "University of California, Davis",
       "season_batting": null,
@@ -422,7 +467,7 @@
       "fn": "Ethan",
       "ln": "Kang",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "University of California, Davis",
       "season_batting": {
@@ -491,7 +536,7 @@
       "fn": "Peter",
       "ln": "Storjohann",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "16",
       "school": "University of California, Davis",
       "season_batting": null,
@@ -609,7 +654,7 @@
       "fn": "Ethan",
       "ln": "Felix",
       "pos": "1B",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "18",
       "school": "University of California, Davis",
       "season_batting": {
@@ -637,8 +682,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UC Santa Barbara",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28963&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 1 RBI vs. UC Santa Barbara (W 5-4). Hitting .225 with 0 HR through 12 games."
     },
     "454bc719": {
       "id": "454bc719",
@@ -693,34 +753,22 @@
         "opp_avg": ".235"
       },
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "UC Santa Barbara",
-        "result": "W 5-4",
-        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28963&path=baseball",
+        "result": "W 10-6",
+        "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28964&path=baseball",
         "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 4,
+          "r": 3,
+          "h": 3,
+          "rbi": 3,
           "bb": 0,
           "so": 0,
-          "pos": "p"
+          "pos": "1b"
         },
-        "pitching": {
-          "ip": "4.0",
-          "h": 5,
-          "r": 3,
-          "er": 3,
-          "bb": 3,
-          "so": 3,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
+        "pitching": null
       },
-      "narrative": "4.0 IP, 3 K vs. UC Santa Barbara (W 5-4). At 4.71 ERA through 21.0 innings on the season."
+      "narrative": "3/4 with 3 RBI vs. UC Santa Barbara (W 10-6). Hitting .230 with 1 HR through 10 games."
     },
     "d0a328a0": {
       "id": "d0a328a0",
@@ -728,7 +776,7 @@
       "fn": "Jack",
       "ln": "Castagnola",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "20",
       "school": "University of California, Davis",
       "season_batting": {

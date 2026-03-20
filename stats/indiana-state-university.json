@@ -2,7 +2,7 @@
   "school": "Indiana State University",
   "base_url": "https://www.gosycamores.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:43:14.557638Z",
+  "generated_at": "2026-03-20T00:30:37.906189Z",
   "record": "8-12",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -107,8 +107,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Illinois",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gosycamores.com/boxscore.aspx?id=17073&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Illinois (W 4-3). Hitting .342 with 2 HR through 12 games."
     },
     "25aaafb7": {
       "id": "25aaafb7",
@@ -666,7 +681,7 @@
       "fn": "Brady",
       "ln": "Banker",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "18",
       "school": "Indiana State University",
       "season_batting": null,
@@ -805,8 +820,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Illinois",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gosycamores.com/boxscore.aspx?id=17073&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Illinois (W 4-3). Hitting .260 with 4 HR through 20 games."
     },
     "5d988bf6": {
       "id": "5d988bf6",
@@ -842,8 +872,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Illinois",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gosycamores.com/boxscore.aspx?id=17073&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 5,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Illinois (W 4-3). Hitting .220 with 0 HR through 19 games."
     },
     "15e43a49": {
       "id": "15e43a49",

@@ -2,7 +2,7 @@
   "school": "La Salle University",
   "base_url": "https://www.goexplorers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:44:20.765309Z",
+  "generated_at": "2026-03-20T00:31:56.756041Z",
   "record": "9-11",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -169,8 +169,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Lafayette",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12227&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 0 RBI vs. Lafayette (L 3-5). Hitting .254 with 3 HR through 15 games."
     },
     "d94a8cd7": {
       "id": "d94a8cd7",
@@ -295,8 +310,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Lafayette",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12227&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Lafayette (L 3-5). Hitting .283 with 7 HR through 20 games."
     },
     "f843d534": {
       "id": "f843d534",
@@ -600,13 +630,13 @@
         "result": "L 3-5",
         "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12227&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "lf"
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
         },
         "pitching": null
       },
@@ -1156,13 +1186,13 @@
         "result": "L 3-5",
         "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12227&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "lf"
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
         },
         "pitching": null
       },
@@ -1258,13 +1288,13 @@
         "result": "L 3-5",
         "boxscore_url": "https://www.goexplorers.com/boxscore.aspx?id=12227&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 2,
-          "pos": "lf"
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
         },
         "pitching": null
       },

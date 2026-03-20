@@ -2,7 +2,7 @@
   "school": "Sam Houston State University",
   "base_url": "https://www.gobearkats.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:54:19.207422Z",
+  "generated_at": "2026-03-20T00:42:53.012326Z",
   "record": "47-61",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -185,7 +185,7 @@
       "fn": "Caleb",
       "ln": "Cotton",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "4",
       "school": "Sam Houston State University",
       "season_batting": {
@@ -295,7 +295,7 @@
       "fn": "Ryan",
       "ln": "Franden",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "7",
       "school": "Sam Houston State University",
       "season_batting": {
@@ -963,7 +963,7 @@
       "fn": "Connor",
       "ln": "Zaruba",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "21",
       "school": "Sam Houston State University",
       "season_batting": null,
@@ -1014,7 +1014,7 @@
       "fn": "Nathan",
       "ln": "Fink",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "25",
       "school": "Sam Houston State University",
       "season_batting": {
@@ -1069,7 +1069,7 @@
       "fn": "Easton",
       "ln": "Ballard",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "26",
       "school": "Sam Houston State University",
       "season_batting": null,

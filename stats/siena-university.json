@@ -2,7 +2,7 @@
   "school": "Siena University",
   "base_url": "https://www.sienasaints.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:54:59.333110Z",
+  "generated_at": "2026-03-20T00:43:35.094969Z",
   "record": "6-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -20,7 +20,7 @@
       "fn": "David",
       "ln": "Siciliano",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "0",
       "school": "Siena University",
       "season_batting": null,
@@ -107,8 +107,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "RIDER UNIVERSITY",
+        "result": "W 12-7",
+        "boxscore_url": "https://www.sienasaints.com/boxscore.aspx?id=18677&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 3,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/5 with 2 RBI vs. RIDER UNIVERSITY (W 12-7). Hitting .352 with 1 HR through 14 games."
     },
     "8c5f03e8": {
       "id": "8c5f03e8",
@@ -207,7 +222,7 @@
       "fn": "Aidan",
       "ln": "Paradine",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "4",
       "school": "Siena University",
       "season_batting": {
@@ -418,7 +433,7 @@
       "fn": "Matt",
       "ln": "Thorsen",
       "pos": "OF/RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "9",
       "school": "Siena University",
       "season_batting": {
@@ -729,7 +744,7 @@
       "fn": "Ryan",
       "ln": "Taffe",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "17",
       "school": "Siena University",
       "season_batting": null,
@@ -816,8 +831,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "RIDER UNIVERSITY",
+        "result": "W 12-7",
+        "boxscore_url": "https://www.sienasaints.com/boxscore.aspx?id=18677&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. RIDER UNIVERSITY (W 12-7). Hitting .217 with 2 HR through 16 games."
     },
     "afaf4428": {
       "id": "afaf4428",
@@ -992,8 +1022,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "RIDER UNIVERSITY",
+        "result": "W 12-7",
+        "boxscore_url": "https://www.sienasaints.com/boxscore.aspx?id=18677&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 1 RBI vs. RIDER UNIVERSITY (W 12-7). Hitting .333 with 0 HR through 12 games."
     },
     "2b4ab69b": {
       "id": "2b4ab69b",
@@ -1090,7 +1135,7 @@
       "fn": "Sam",
       "ln": "Falace",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "25",
       "school": "Siena University",
       "season_batting": null,
@@ -1122,7 +1167,7 @@
       "fn": "Cannon",
       "ln": "Vandever",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "27",
       "school": "Siena University",
       "season_batting": {
@@ -1377,8 +1422,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "RIDER UNIVERSITY",
+        "result": "W 12-7",
+        "boxscore_url": "https://www.sienasaints.com/boxscore.aspx?id=18677&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. RIDER UNIVERSITY (W 12-7). Hitting .312 with 1 HR through 13 games."
     },
     "d609506e": {
       "id": "d609506e",
@@ -1445,7 +1505,7 @@
       "fn": "Richie",
       "ln": "Paltridge",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "34",
       "school": "Siena University",
       "season_batting": {
@@ -1527,7 +1587,7 @@
       "fn": "Chris",
       "ln": "McKeon",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "45",
       "school": "Siena University",
       "season_batting": null,
@@ -1559,7 +1619,7 @@
       "fn": "Gio",
       "ln": "Conte",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "72",
       "school": "Siena University",
       "season_batting": null,

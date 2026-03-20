@@ -2,7 +2,7 @@
   "school": "University of Maine",
   "base_url": "https://goblackbears.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:04:41.909432Z",
+  "generated_at": "2026-03-20T00:54:14.161123Z",
   "record": "2-17",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -67,29 +67,29 @@
         "opp_avg": ".368"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Nebraska",
-        "result": "W 6-3",
-        "boxscore_url": "https://goblackbears.com/boxscore.aspx?id=16379&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Navy",
+        "result": "W 9-8",
+        "boxscore_url": "https://goblackbears.com/boxscore.aspx?id=16382&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 5,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
+          "h": 1,
+          "rbi": 3,
+          "bb": 0,
           "so": 0,
-          "pos": "dh"
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Nebraska (W 6-3). Hitting .241 with 3 HR through 12 games."
+      "narrative": "1/5 with 3 RBI vs. Navy (W 9-8). Hitting .235 with 3 HR through 13 games."
     },
     "f3146c09": {
       "id": "f3146c09",
       "name": "Jack Quigley",
       "fn": "Jack",
       "ln": "Quigley",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "So.",
       "num": "2",
       "school": "University of Maine",
@@ -490,7 +490,7 @@
       "fn": "Eric",
       "ln": "Wainwright",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "University of Maine",
       "season_batting": {
@@ -749,7 +749,7 @@
       "fn": "Sebastian",
       "ln": "Holt",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "20",
       "school": "University of Maine",
       "season_batting": null,
@@ -836,8 +836,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Navy",
+        "result": "W 9-8",
+        "boxscore_url": "https://goblackbears.com/boxscore.aspx?id=16382&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Navy (W 9-8). Hitting .196 with 3 HR through 18 games."
     },
     "6fe2b695": {
       "id": "6fe2b695",
@@ -956,7 +971,7 @@
       "fn": "Albert",
       "ln": "De La Rosa",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "27",
       "school": "University of Maine",
       "season_batting": {
@@ -1007,7 +1022,7 @@
       "name": "Aidan Bardi",
       "fn": "Aidan",
       "ln": "Bardi",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "So.",
       "num": "28",
       "school": "University of Maine",
@@ -1088,8 +1103,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Navy",
+        "result": "W 9-8",
+        "boxscore_url": "https://goblackbears.com/boxscore.aspx?id=16382&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 3,
+          "rbi": 4,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/5 with 4 RBI vs. Navy (W 9-8). Hitting .271 with 6 HR through 19 games."
     },
     "35b64252": {
       "id": "35b64252",
@@ -1097,7 +1127,7 @@
       "fn": "Will",
       "ln": "Barter",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "33",
       "school": "University of Maine",
       "season_batting": {
@@ -1163,22 +1193,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Nebraska",
-        "result": "W 8-7",
-        "boxscore_url": "https://goblackbears.com/boxscore.aspx?id=16380&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Navy",
+        "result": "W 9-8",
+        "boxscore_url": "https://goblackbears.com/boxscore.aspx?id=16382&path=baseball",
         "batting": {
-          "ab": 0,
-          "r": 1,
+          "ab": 2,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 1,
           "so": 0,
-          "pos": "ph"
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/2 with 0 RBI vs. Navy (W 9-8). Hitting .142 with 1 HR through 9 games."
     },
     "5486848c": {
       "id": "5486848c",
@@ -1363,7 +1393,7 @@
       "fn": "Brennan",
       "ln": "Hileman",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "41",
       "school": "University of Maine",
       "season_batting": null,
@@ -1536,7 +1566,7 @@
       "fn": "Jason",
       "ln": "Krieger",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "45",
       "school": "University of Maine",
       "season_batting": null,

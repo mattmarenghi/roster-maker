@@ -2,7 +2,7 @@
   "school": "Winthrop University",
   "base_url": "https://www.winthropeagles.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:14:13.548582Z",
+  "generated_at": "2026-03-20T01:05:21.325168Z",
   "record": "15-6",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -48,8 +48,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Pacific",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23768&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/5 with 1 RBI vs. Pacific (L 2-8). Hitting .320 with 0 HR through 21 games."
     },
     "314ce5d9": {
       "id": "314ce5d9",
@@ -552,8 +567,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Pacific",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23768&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Pacific (L 2-8). Hitting .309 with 0 HR through 18 games."
     },
     "fb8cc5a1": {
       "id": "fb8cc5a1",
@@ -1257,8 +1287,23 @@
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Pacific",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.winthropeagles.com/boxscore.aspx?id=23768&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 3,
+          "rbi": 3,
+          "bb": 1,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/4 with 3 RBI vs. Pacific (L 2-8). Hitting .270 with 0 HR through 21 games."
     },
     "9a962fe4": {
       "id": "9a962fe4",

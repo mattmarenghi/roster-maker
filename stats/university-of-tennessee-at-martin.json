@@ -2,7 +2,7 @@
   "school": "University of Tennessee at Martin",
   "base_url": "https://www.utmsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:10:31.608714Z",
+  "generated_at": "2026-03-20T01:01:21.682652Z",
   "record": "10-10",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -74,8 +74,8 @@
       "name": "Garner Anderson",
       "fn": "Garner",
       "ln": "Anderson",
-      "pos": "UTIL",
-      "yr": "R-Jr.",
+      "pos": "UTL",
+      "yr": "Jr.",
       "num": "2",
       "school": "University of Tennessee at Martin",
       "season_batting": {
@@ -159,7 +159,7 @@
       "name": "TJ Grines",
       "fn": "TJ",
       "ln": "Grines",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "3",
       "school": "University of Tennessee at Martin",
@@ -270,7 +270,7 @@
       "fn": "Eli",
       "ln": "Huebner",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "6",
       "school": "University of Tennessee at Martin",
       "season_batting": {
@@ -409,16 +409,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "The Citadel",
-        "result": "L",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13577",
+        "date": "2026-03-18",
+        "opponent": "Southern Ill.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/southern-ill-/boxscore/13578",
         "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 3,
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
           "so": 0,
           "hr": 0,
           "doubles": 0,
@@ -427,7 +427,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against The Citadel. Struggled at the plate but saw 3 walk(s)."
+      "narrative": "1/5 with 1 RBI vs. Southern Ill. (W). Hitting .275 with 0 HR through 20 games."
     },
     "2b087773": {
       "id": "2b087773",
@@ -565,8 +565,26 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Southern Ill.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/southern-ill-/boxscore/13578",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Southern Ill. (W). Hitting .500 with 0 HR through 1 games."
     },
     "ccaab385": {
       "id": "ccaab385",
@@ -574,7 +592,7 @@
       "fn": "Tommy",
       "ln": "Koch",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "12",
       "school": "University of Tennessee at Martin",
       "season_batting": {
@@ -629,7 +647,7 @@
       "fn": "Will",
       "ln": "Turner",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
@@ -730,8 +748,8 @@
       "name": "Cullen Box",
       "fn": "Cullen",
       "ln": "Box",
-      "pos": "UTIL",
-      "yr": "R-So.",
+      "pos": "UTL",
+      "yr": "So.",
       "num": "16",
       "school": "University of Tennessee at Martin",
       "season_batting": {
@@ -963,26 +981,26 @@
         "opp_avg": ".282"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "The Citadel",
-        "result": "L",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13576",
+        "date": "2026-03-18",
+        "opponent": "Southern Ill.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/southern-ill-/boxscore/13578",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 3,
-          "er": 3,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
+          "ip": "2.0",
+          "h": 3,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
           "hbp": 2,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against The Citadel, throwing 1.1 innings. Allowed 3 earned run(s) with 0 strikeout(s)."
+      "narrative": "2.0 IP, 2 K vs. Southern Ill. (W). At 7.50 ERA through 12.0 innings on the season."
     },
     "abe6fe04": {
       "id": "abe6fe04",
@@ -1019,25 +1037,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "The Citadel",
-        "result": "L",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/the-citadel/boxscore/13577",
+        "date": "2026-03-18",
+        "opponent": "Southern Ill.",
+        "result": "W",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/southern-ill-/boxscore/13578",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 3,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against The Citadel. Struggled to make contact."
+      "narrative": "1/3 with 1 RBI vs. Southern Ill. (W). Hitting .302 with 4 HR through 19 games."
     },
     "e5cc6bdd": {
       "id": "e5cc6bdd",
@@ -1045,7 +1063,7 @@
       "fn": "JT",
       "ln": "Popick",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "University of Tennessee at Martin",
       "season_batting": {
@@ -1155,7 +1173,7 @@
       "fn": "Connor",
       "ln": "McCaslin",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "26",
       "school": "University of Tennessee at Martin",
       "season_batting": null,
@@ -1281,26 +1299,26 @@
         "opp_avg": ".351"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Mississippi Val.",
+        "date": "2026-03-18",
+        "opponent": "Southern Ill.",
         "result": "W",
-        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/mississippi-val-/boxscore/13673",
+        "boxscore_url": "https://www.utmsports.com/sports/baseball/stats/2026/southern-ill-/boxscore/13578",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 3,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
+          "ip": "4.0",
+          "h": 5,
+          "r": 3,
+          "er": 3,
+          "bb": 2,
+          "so": 4,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Mississippi Val., throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "4.0 IP, 4 K vs. Southern Ill. (W). At 6.75 ERA through 16.0 innings on the season."
     },
     "c7de9cd8": {
       "id": "c7de9cd8",
@@ -1410,7 +1428,7 @@
       "fn": "Trevor",
       "ln": "Busyn",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "37",
       "school": "University of Tennessee at Martin",
       "season_batting": null,

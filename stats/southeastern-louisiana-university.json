@@ -2,7 +2,7 @@
   "school": "Southeastern Louisiana University",
   "base_url": "https://www.lionsports.net",
   "season": "2026",
-  "generated_at": "2026-03-19T07:55:28.596478Z",
+  "generated_at": "2026-03-20T00:44:02.951454Z",
   "record": "12-9",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -146,7 +146,7 @@
       "fn": "Alex",
       "ln": "Perry",
       "pos": "IF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "4",
       "school": "Southeastern Louisiana University",
       "season_batting": {
@@ -174,8 +174,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Oklahoma",
+        "result": "W 3-0",
+        "boxscore_url": "https://www.lionsports.net/boxscore.aspx?id=9712&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Oklahoma (W 3-0). Hitting .214 with 2 HR through 21 games."
     },
     "4a6c4500": {
       "id": "4a6c4500",
@@ -183,7 +198,7 @@
       "fn": "Giovanni",
       "ln": "Licciardi",
       "pos": "IF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "5",
       "school": "Southeastern Louisiana University",
       "season_batting": {
@@ -212,22 +227,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Stephen F. Austin",
-        "result": "L 2-3",
-        "boxscore_url": "https://www.lionsports.net/boxscore.aspx?id=9711&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Oklahoma",
+        "result": "W 3-0",
+        "boxscore_url": "https://www.lionsports.net/boxscore.aspx?id=9712&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 0,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "dh"
+          "so": 0,
+          "pos": "PH/dh"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Stephen F. Austin (L 2-3). Hitting .279 with 1 HR through 19 games."
+      "narrative": null
     },
     "28fd058d": {
       "id": "28fd058d",
@@ -263,8 +278,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Oklahoma",
+        "result": "W 3-0",
+        "boxscore_url": "https://www.lionsports.net/boxscore.aspx?id=9712&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Oklahoma (W 3-0). Hitting .320 with 4 HR through 20 games."
     },
     "e8382e58": {
       "id": "e8382e58",
@@ -272,7 +302,7 @@
       "fn": "Carson",
       "ln": "Robb",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "7",
       "school": "Southeastern Louisiana University",
       "season_batting": null,
@@ -654,7 +684,7 @@
       "fn": "Sawyer",
       "ln": "Simmons",
       "pos": "P",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "15",
       "school": "Southeastern Louisiana University",
       "season_batting": null,
@@ -773,8 +803,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Oklahoma",
+        "result": "W 3-0",
+        "boxscore_url": "https://www.lionsports.net/boxscore.aspx?id=9712&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Oklahoma (W 3-0). Hitting .275 with 6 HR through 21 games."
     },
     "39d4fd4e": {
       "id": "39d4fd4e",
@@ -866,7 +911,7 @@
       "fn": "Levi",
       "ln": "Shaffer",
       "pos": "P",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "20",
       "school": "Southeastern Louisiana University",
       "season_batting": null,
@@ -961,7 +1006,7 @@
       "name": "Peyton Woods",
       "fn": "Peyton",
       "ln": "Woods",
-      "pos": "IF / OF",
+      "pos": "IF/OF",
       "yr": "Jr.",
       "num": "23",
       "school": "Southeastern Louisiana University",
@@ -1116,7 +1161,7 @@
       "fn": "Blaise",
       "ln": "Priester",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "26",
       "school": "Southeastern Louisiana University",
       "season_batting": {
@@ -1286,7 +1331,7 @@
       "fn": "Dalton",
       "ln": "Gray",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "35",
       "school": "Southeastern Louisiana University",
       "season_batting": null,
@@ -1377,7 +1422,7 @@
       "fn": "Larson",
       "ln": "Fabre",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "38",
       "school": "Southeastern Louisiana University",
       "season_batting": null,
@@ -1559,7 +1604,7 @@
       "fn": "Harris",
       "ln": "Waghalter",
       "pos": "P",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "43",
       "school": "Southeastern Louisiana University",
       "season_batting": null,

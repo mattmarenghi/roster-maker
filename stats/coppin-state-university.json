@@ -2,7 +2,7 @@
   "school": "Coppin State University",
   "base_url": "https://www.coppinstatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:38:21.972781Z",
+  "generated_at": "2026-03-20T00:25:40.409399Z",
   "record": "2-13",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -220,7 +220,7 @@
       "fn": "Jamar",
       "ln": "Whitehead",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "8",
       "school": "Coppin State University",
       "season_batting": {
@@ -827,22 +827,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-15",
         "opponent": "FDU",
-        "result": "W 24-5",
-        "boxscore_url": "https://www.coppinstatesports.com/boxscore.aspx?id=10048&path=baseball",
+        "result": "W 13-12",
+        "boxscore_url": "https://www.coppinstatesports.com/boxscore.aspx?id=10050&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "dh"
+          "bb": 2,
+          "so": 2,
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. FDU (W 24-5). Hitting .166 with 0 HR through 8 games."
+      "narrative": "0/3 with 0 RBI vs. FDU (W 13-12). Hitting .166 with 0 HR through 8 games."
     },
     "163e7dac": {
       "id": "163e7dac",
@@ -878,8 +878,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "FDU",
+        "result": "W 13-12",
+        "boxscore_url": "https://www.coppinstatesports.com/boxscore.aspx?id=10050&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. FDU (W 13-12). Hitting .133 with 0 HR through 9 games."
     },
     "76f4f734": {
       "id": "76f4f734",
@@ -1092,8 +1107,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "FDU",
+        "result": "W 13-12",
+        "boxscore_url": "https://www.coppinstatesports.com/boxscore.aspx?id=10050&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 3,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 3 RBI vs. FDU (W 13-12). Hitting .358 with 1 HR through 15 games."
     },
     "a62fea33": {
       "id": "a62fea33",

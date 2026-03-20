@@ -2,7 +2,7 @@
   "school": "Lehigh University",
   "base_url": "https://www.lehighsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:45:22.967964Z",
+  "generated_at": "2026-03-20T00:32:56.246641Z",
   "record": "9-12",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -185,7 +185,7 @@
       "fn": "Silvio",
       "ln": "Giardina",
       "pos": "INF",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "4",
       "school": "Lehigh University",
       "season_batting": {
@@ -214,17 +214,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Navy",
-        "result": "W",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15851",
+        "date": "2026-03-18",
+        "opponent": "PENN",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/penn/boxscore/15852",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 3,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 3/3 with 0 RBI against Navy. Had an outstanding performance at the plate (1.000)."
+      "narrative": "0/2 with 0 RBI vs. PENN (L). Hitting .214 with 0 HR through 16 games."
     },
     "b35a6025": {
       "id": "b35a6025",
@@ -451,7 +451,7 @@
       "name": "Jack Frankovic",
       "fn": "Jack",
       "ln": "Frankovic",
-      "pos": "UT/RHP",
+      "pos": "UTL/RHP",
       "yr": "Sr.",
       "num": "9",
       "school": "Lehigh University",
@@ -507,7 +507,7 @@
       "fn": "Max",
       "ln": "Dantoni",
       "pos": "INF",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "10",
       "school": "Lehigh University",
       "season_batting": {
@@ -825,7 +825,7 @@
       "fn": "Robby",
       "ln": "Grasso",
       "pos": "OF/INF/P",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "17",
       "school": "Lehigh University",
       "season_batting": {
@@ -935,7 +935,7 @@
       "fn": "Ryan",
       "ln": "Holman",
       "pos": "RHP",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "19",
       "school": "Lehigh University",
       "season_batting": null,
@@ -1198,7 +1198,7 @@
       "fn": "Jackson",
       "ln": "Shepelsky",
       "pos": "RHP",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "24",
       "school": "Lehigh University",
       "season_batting": null,
@@ -1278,12 +1278,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
+        "date": "2026-03-18",
+        "opponent": "PENN",
         "result": "L",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/penn/boxscore/15852",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -1296,7 +1296,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against Saint Peter's. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. PENN (L). Hitting .172 with 0 HR through 11 games."
     },
     "7e8cef37": {
       "id": "7e8cef37",
@@ -1355,7 +1355,7 @@
       "fn": "Declan",
       "ln": "Wilkes",
       "pos": "RHP",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "29",
       "school": "Lehigh University",
       "season_batting": null,
@@ -1406,7 +1406,7 @@
       "fn": "Parker",
       "ln": "Ivy",
       "pos": "C",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "30",
       "school": "Lehigh University",
       "season_batting": {
@@ -1435,10 +1435,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "Saint Peter's",
+        "date": "2026-03-18",
+        "opponent": "PENN",
         "result": "L",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/saint-peter-s/boxscore/15848",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/penn/boxscore/15852",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1453,7 +1453,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Saint Peter's. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. PENN (L). Hitting .333 with 0 HR through 3 games."
     },
     "ea64df3f": {
       "id": "ea64df3f",
@@ -1490,25 +1490,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Navy",
+        "date": "2026-03-18",
+        "opponent": "PENN",
         "result": "L",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/navy/boxscore/15850",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/penn/boxscore/15852",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
+          "bb": 1,
+          "so": 0,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Navy. Struggled to make contact."
+      "narrative": "1/2 with 0 RBI vs. PENN (L). Hitting .346 with 0 HR through 10 games."
     },
     "bfa35496": {
       "id": "bfa35496",
@@ -1748,26 +1748,26 @@
         "opp_avg": ".294"
       },
       "last_game": {
-        "date": "2026-02-21",
-        "opponent": "George Washington",
-        "result": "W",
-        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/george-washington/boxscore/15840",
+        "date": "2026-03-18",
+        "opponent": "PENN",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/penn/boxscore/15852",
         "batting": null,
         "pitching": {
-          "ip": "2.0",
+          "ip": "0.2",
           "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 2,
-          "wp": 0,
+          "r": 3,
+          "er": 2,
+          "bb": 2,
+          "so": 0,
+          "wp": 1,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against George Washington, throwing 2.0 innings. Allowed 0 earned run(s) with 2 strikeout(s)."
+      "narrative": "0.2 IP, 0 K vs. PENN (L). At 4.50 ERA through 4.0 innings on the season."
     },
     "72d6c08c": {
       "id": "72d6c08c",
@@ -1854,8 +1854,26 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "PENN",
+        "result": "L",
+        "boxscore_url": "https://www.lehighsports.com/sports/baseball/stats/2026/penn/boxscore/15852",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "hr": 0,
+          "doubles": 0,
+          "triples": 0,
+          "pos": ""
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. PENN (L). Hitting .000 with 0 HR through 1 games."
     },
     "9b62fbe7": {
       "id": "9b62fbe7",
@@ -1863,7 +1881,7 @@
       "fn": "Christopher",
       "ln": "Nell",
       "pos": "RHP",
-      "yr": "Fy.",
+      "yr": "Fr.",
       "num": "45",
       "school": "Lehigh University",
       "season_batting": null,

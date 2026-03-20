@@ -2,7 +2,7 @@
   "school": "University of Southern California",
   "base_url": "https://usctrojans.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:09:53.432063Z",
+  "generated_at": "2026-03-20T01:00:22.511812Z",
   "record": "23-31",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -189,17 +189,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "San Diego State",
+        "date": "2026-03-18",
+        "opponent": "CSU Bakersfield",
         "result": "W",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego-state/boxscore/35071",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/csu-bakersfield/boxscore/35072",
         "batting": {
-          "ab": 4,
-          "r": 1,
+          "ab": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -207,7 +207,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. San Diego State (W). Hitting .215 with 2 HR through 17 games."
+      "narrative": "0/1 with 0 RBI vs. CSU Bakersfield (W). Hitting .230 with 2 HR through 18 games."
     },
     "a5f901fc": {
       "id": "a5f901fc",
@@ -790,25 +790,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "San Diego State",
+        "date": "2026-03-18",
+        "opponent": "CSU Bakersfield",
         "result": "W",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego-state/boxscore/35071",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/csu-bakersfield/boxscore/35072",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
-          "so": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
-          "triples": 1,
+          "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "1/1 with 1 RBI vs. San Diego State (W). Hitting .250 with 0 HR through 19 games."
+      "narrative": "0/3 with 0 RBI vs. CSU Bakersfield (W). Hitting .238 with 0 HR through 20 games."
     },
     "f2c79c43": {
       "id": "f2c79c43",
@@ -1210,17 +1210,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "San Diego State",
+        "date": "2026-03-18",
+        "opponent": "CSU Bakersfield",
         "result": "W",
-        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/san-diego-state/boxscore/35071",
+        "boxscore_url": "https://usctrojans.com/sports/baseball/stats/2026/csu-bakersfield/boxscore/35072",
         "batting": {
           "ab": 3,
           "r": 1,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -1228,7 +1228,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. San Diego State (W). Hitting .243 with 4 HR through 14 games."
+      "narrative": "1/3 with 0 RBI vs. CSU Bakersfield (W). Hitting .250 with 4 HR through 15 games."
     },
     "0bf53e5c": {
       "id": "0bf53e5c",
@@ -1342,7 +1342,7 @@
       "fn": "Adam",
       "ln": "Troy",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "33",
       "school": "University of Southern California",
       "season_batting": null,
@@ -1597,7 +1597,7 @@
       "fn": "Will",
       "ln": "Stickney",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "40",
       "school": "University of Southern California",
       "season_batting": {
@@ -1754,7 +1754,7 @@
       "fn": "Chase",
       "ln": "Herrell",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "45",
       "school": "University of Southern California",
       "season_batting": null,

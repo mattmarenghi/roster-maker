@@ -2,7 +2,7 @@
   "school": "University of Louisville",
   "base_url": "https://www.gocards.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:04:48.391063Z",
+  "generated_at": "2026-03-20T00:54:16.185447Z",
   "record": "15-6",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -1028,26 +1028,26 @@
         "opp_avg": ".333"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Seton Hall",
+        "date": "2026-03-18",
+        "opponent": "Northern Kentucky",
         "result": "W",
-        "boxscore_url": "https://www.gocards.com/sports/baseball/stats/2026/seton-hall/boxscore/25992",
+        "boxscore_url": "https://www.gocards.com/sports/baseball/stats/2026/northern-kentucky/boxscore/26000",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 1,
+          "h": 2,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 0,
-          "wp": 1,
+          "bb": 1,
+          "so": 3,
+          "wp": 0,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Seton Hall, throwing 1.0 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 3 K vs. Northern Kentucky (W). At 0.00 ERA through 2.0 innings on the season."
     },
     "aa81a067": {
       "id": "aa81a067",

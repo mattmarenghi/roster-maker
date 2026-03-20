@@ -2,7 +2,7 @@
   "school": "Austin Peay State University",
   "base_url": "https://www.letsgopeay.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:33:00.218061Z",
+  "generated_at": "2026-03-20T00:20:05.701880Z",
   "record": "11-10",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -48,8 +48,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Ole Miss (W 9-5). Hitting .200 with 0 HR through 19 games."
     },
     "b12ff5f4": {
       "id": "b12ff5f4",
@@ -86,22 +101,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Bellarmine",
-        "result": "L 3-12",
-        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14116&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 3,
-          "rbi": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "c"
+          "so": 1,
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "3/5 with 1 RBI vs. Bellarmine (L 3-12). Hitting .267 with 0 HR through 19 games."
+      "narrative": "2/4 with 0 RBI vs. Ole Miss (W 9-5). Hitting .280 with 0 HR through 20 games."
     },
     "0a4dfbe8": {
       "id": "0a4dfbe8",
@@ -330,8 +345,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Ole Miss",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.letsgopeay.com/boxscore.aspx?id=14117&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Ole Miss (W 9-5). Hitting .285 with 3 HR through 21 games."
     },
     "b8351031": {
       "id": "b8351031",
@@ -730,7 +760,7 @@
       "name": "DJ Merriweather",
       "fn": "DJ",
       "ln": "Merriweather",
-      "pos": "UT/LHP",
+      "pos": "UTL/LHP",
       "yr": "",
       "num": "20",
       "school": "Austin Peay State University",
@@ -1027,7 +1057,7 @@
       "name": "Ty Wisdom",
       "fn": "Ty",
       "ln": "Wisdom",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "",
       "num": "26",
       "school": "Austin Peay State University",

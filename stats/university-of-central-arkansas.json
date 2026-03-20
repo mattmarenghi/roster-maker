@@ -2,13 +2,13 @@
   "school": "University of Central Arkansas",
   "base_url": "https://www.ucasports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:02:19.920568Z",
+  "generated_at": "2026-03-20T00:51:34.129716Z",
   "record": "11-10",
   "most_recent_game": {
     "date": "2026-03-17",
     "opponent": "Louisiana Tech",
     "result": "W 5-4",
-    "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+    "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
     "recap_url": "https://www.ucasports.com/news/2026/3/17/baseball-central-arkansas-battles-hard-in-5-4-loss-to-louisiana-tech.aspx",
     "recap_headline": "University of Central Arkansas Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -109,7 +109,7 @@
       "fn": "Kade",
       "ln": "Seldomridge",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "3",
       "school": "University of Central Arkansas",
       "season_batting": {
@@ -141,7 +141,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -188,7 +188,7 @@
         "date": "2026-03-15",
         "opponent": "Eastern Kentucky",
         "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -220,7 +220,7 @@
       "fn": "Jack",
       "ln": "Runsick",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "5",
       "school": "University of Central Arkansas",
       "season_batting": {
@@ -248,8 +248,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b/3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .259 with 2 HR through 21 games."
     },
     "1c47e948": {
       "id": "1c47e948",
@@ -285,8 +300,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "PH/1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .142 with 2 HR through 18 games."
     },
     "7c69e36e": {
       "id": "7c69e36e",
@@ -322,8 +352,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b/ss"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .323 with 0 HR through 18 games."
     },
     "4bd0caf4": {
       "id": "4bd0caf4",
@@ -331,7 +376,7 @@
       "fn": "Mark",
       "ln": "Ross",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "9",
       "school": "University of Central Arkansas",
       "season_batting": {
@@ -363,7 +408,7 @@
         "date": "2026-03-15",
         "opponent": "Eastern Kentucky",
         "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -383,7 +428,7 @@
       "fn": "Braxton",
       "ln": "Haywood",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "10",
       "school": "University of Central Arkansas",
       "season_batting": null,
@@ -442,7 +487,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -501,7 +546,7 @@
         "date": "2026-03-14",
         "opponent": "Eastern Kentucky",
         "result": "W 16-3",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -560,7 +605,7 @@
         "date": "2026-03-14",
         "opponent": "Eastern Kentucky",
         "result": "W 16-3",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -658,22 +703,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Eastern Kentucky",
-        "result": "W 16-3",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 1,
           "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 2,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "pos": "PH/c"
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Eastern Kentucky. Struggled to make contact."
+      "narrative": "1/1 with 2 RBI vs. Louisiana Tech (W 5-4). Hitting .242 with 0 HR through 13 games."
     },
     "50256188": {
       "id": "50256188",
@@ -708,7 +753,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -799,7 +844,7 @@
         "date": "2026-03-14",
         "opponent": "Eastern Kentucky",
         "result": "W 16-3",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -858,7 +903,7 @@
         "date": "2026-03-14",
         "opponent": "Eastern Kentucky",
         "result": "W 16-3",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -922,7 +967,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -942,7 +987,7 @@
       "fn": "Caide",
       "ln": "White",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "25",
       "school": "University of Central Arkansas",
       "season_batting": null,
@@ -969,7 +1014,7 @@
         "date": "2026-03-14",
         "opponent": "Eastern Kentucky",
         "result": "W 16-3",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12120&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1029,8 +1074,23 @@
         "sb_att": 12
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Louisiana Tech",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Louisiana Tech (W 5-4). Hitting .333 with 1 HR through 21 games."
     },
     "dc8d8847": {
       "id": "dc8d8847",
@@ -1070,7 +1130,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1117,7 +1177,7 @@
         "date": "2026-03-15",
         "opponent": "Eastern Kentucky",
         "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1213,7 +1273,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1265,7 +1325,7 @@
       "fn": "Jake",
       "ln": "Jones",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "36",
       "school": "University of Central Arkansas",
       "season_batting": null,
@@ -1292,7 +1352,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1383,7 +1443,7 @@
         "date": "2026-03-15",
         "opponent": "Eastern Kentucky",
         "result": "W 6-5",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12121&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1479,7 +1539,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1531,7 +1591,7 @@
         "date": "2026-03-17",
         "opponent": "Louisiana Tech",
         "result": "W 5-4",
-        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=baseball",
+        "boxscore_url": "https://www.ucasports.com/boxscore.aspx?id=12122&path=",
         "batting": {
           "ab": 3,
           "r": 1,

@@ -2,7 +2,7 @@
   "school": "University of Tennessee, Knoxville",
   "base_url": "https://www.utsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:10:33.933580Z",
+  "generated_at": "2026-03-20T01:01:13.390917Z",
   "record": "13-17",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -643,7 +643,7 @@
       "fn": "Blake",
       "ln": "Grimmer",
       "pos": "UTL",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "14",
       "school": "University of Tennessee, Knoxville",
       "season_batting": {
@@ -965,7 +965,7 @@
       "fn": "Tyler",
       "ln": "Myatt",
       "pos": "INF/OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "20",
       "school": "University of Tennessee, Knoxville",
       "season_batting": {
@@ -1071,7 +1071,7 @@
       "fn": "Brandon",
       "ln": "Arvidson",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "25",
       "school": "University of Tennessee, Knoxville",
       "season_batting": null,
@@ -1177,7 +1177,7 @@
       "fn": "Stone",
       "ln": "Lawless",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "27",
       "school": "University of Tennessee, Knoxville",
       "season_batting": {

@@ -2,7 +2,7 @@
   "school": "University of Louisiana at Lafayette",
   "base_url": "https://www.ragincajuns.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:04:36.975938Z",
+  "generated_at": "2026-03-20T00:53:59.652884Z",
   "record": "44-59",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -185,7 +185,7 @@
       "fn": "Trip",
       "ln": "Dobson",
       "pos": "IF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "5",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {
@@ -214,17 +214,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "South Alabama",
+        "date": "2026-03-18",
+        "opponent": "Houston",
         "result": "W",
-        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/south-alabama/boxscore/15189",
+        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/houston/boxscore/15191",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against South Alabama. Struggled to make contact."
+      "narrative": "0/2 with 0 RBI vs. Houston (W). Hitting .250 with 0 HR through 7 games."
     },
     "b81301ce": {
       "id": "b81301ce",
@@ -379,17 +379,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "South Alabama",
+        "date": "2026-03-18",
+        "opponent": "Houston",
         "result": "W",
-        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/south-alabama/boxscore/15190",
+        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/houston/boxscore/15191",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 2,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -397,7 +397,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/2 with 0 RBI against South Alabama. Struggled at the plate but saw 1 walk(s)."
+      "narrative": "1/4 with 1 RBI vs. Houston (W). Hitting .287 with 1 HR through 21 games."
     },
     "9f4ab6a1": {
       "id": "9f4ab6a1",
@@ -539,26 +539,26 @@
         "opp_avg": ".262"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "UTRGV",
+        "date": "2026-03-18",
+        "opponent": "Houston",
         "result": "W",
-        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/utrgv/boxscore/15186",
+        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/houston/boxscore/15191",
         "batting": null,
         "pitching": {
-          "ip": "3.1",
-          "h": 6,
-          "r": 3,
-          "er": 3,
+          "ip": "5.2",
+          "h": 4,
+          "r": 2,
+          "er": 2,
           "bb": 1,
-          "so": 4,
+          "so": 8,
           "wp": 0,
-          "hbp": 1,
-          "w": 1,
+          "hbp": 0,
+          "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against UTRGV, throwing 3.1 innings. Allowed 3 earned run(s) with 4 strikeout(s)."
+      "narrative": "5.2 IP, 8 K, 2 ER vs. Houston (W). At 6.21 ERA through 26.1 innings on the season."
     },
     "02bef42d": {
       "id": "02bef42d",
@@ -692,26 +692,26 @@
         "opp_avg": ".146"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "South Alabama",
-        "result": "L",
-        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/south-alabama/boxscore/15188",
+        "date": "2026-03-18",
+        "opponent": "Houston",
+        "result": "W",
+        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/houston/boxscore/15191",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 2,
+          "ip": "1.1",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against South Alabama, throwing 1.0 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.1 IP, 0 K vs. Houston (W). At 2.57 ERA through 14.0 innings on the season."
     },
     "92546d8e": {
       "id": "92546d8e",
@@ -1015,14 +1015,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "South Alabama",
+        "date": "2026-03-18",
+        "opponent": "Houston",
         "result": "W",
-        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/south-alabama/boxscore/15190",
+        "boxscore_url": "https://www.ragincajuns.com/sports/baseball/stats/2026/houston/boxscore/15191",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
@@ -1033,7 +1033,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against South Alabama. Contributed at the plate in the team's W."
+      "narrative": "0/3 with 0 RBI vs. Houston (W). Hitting .281 with 0 HR through 21 games."
     },
     "c23d5ff3": {
       "id": "c23d5ff3",
@@ -1593,7 +1593,7 @@
       "fn": "Jose",
       "ln": "Torres",
       "pos": "C",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "47",
       "school": "University of Louisiana at Lafayette",
       "season_batting": {

@@ -2,7 +2,7 @@
   "school": "High Point University",
   "base_url": "https://www.highpointpanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:42:39.519785Z",
+  "generated_at": "2026-03-20T00:29:57.150775Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -48,8 +48,23 @@
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "USC Upstate",
+        "result": "L 5-7",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 1 RBI vs. USC Upstate (L 5-7). Hitting .294 with 0 HR through 20 games."
     },
     "72e4b397": {
       "id": "72e4b397",
@@ -344,8 +359,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "USC Upstate",
+        "result": "L 5-7",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. USC Upstate (L 5-7). Hitting .318 with 1 HR through 20 games."
     },
     "79a2c1ab": {
       "id": "79a2c1ab",
@@ -405,7 +435,7 @@
       "fn": "Landen",
       "ln": "Johnson",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "High Point University",
       "season_batting": {
@@ -433,8 +463,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "USC Upstate",
+        "result": "L 5-7",
+        "boxscore_url": "https://www.highpointpanthers.com/boxscore.aspx?id=16108&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 2 RBI vs. USC Upstate (L 5-7). Hitting .243 with 5 HR through 20 games."
     },
     "f415ff3e": {
       "id": "f415ff3e",
@@ -494,7 +539,7 @@
       "fn": "Christian",
       "ln": "Smith",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "High Point University",
       "season_batting": {
@@ -563,7 +608,7 @@
       "fn": "Jack",
       "ln": "Carey",
       "pos": "P",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "High Point University",
       "season_batting": null,
@@ -1329,7 +1374,7 @@
       "fn": "Mark",
       "ln": "Salicco",
       "pos": "P",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "High Point University",
       "season_batting": null,
@@ -1440,7 +1485,7 @@
       "fn": "Charlie",
       "ln": "Jones",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "High Point University",
       "season_batting": null,

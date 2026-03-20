@@ -2,7 +2,7 @@
   "school": "University of Southern Indiana",
   "base_url": "https://www.usiscreamingeagles.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:09:50.657678Z",
+  "generated_at": "2026-03-20T01:00:15.421043Z",
   "record": "13-8",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -293,8 +293,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Bellarmine",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.usiscreamingeagles.com/boxscore.aspx?id=15205&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Bellarmine (W 3-2). Hitting .360 with 3 HR through 21 games."
     },
     "c505a83c": {
       "id": "c505a83c",
@@ -360,7 +375,7 @@
       "name": "Evan McCarthy",
       "fn": "Evan",
       "ln": "McCarthy",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Jr.",
       "num": "6",
       "school": "University of Southern Indiana",
@@ -426,8 +441,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Southern Ill.",
+        "result": "L 3-6",
+        "boxscore_url": "https://www.usiscreamingeagles.com/boxscore.aspx?id=15204&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Southern Ill. (L 3-6). Hitting .157 with 0 HR through 7 games."
     },
     "0f6f64af": {
       "id": "0f6f64af",
@@ -619,8 +649,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Bellarmine",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.usiscreamingeagles.com/boxscore.aspx?id=15205&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Bellarmine (W 3-2). Hitting .325 with 0 HR through 19 games."
     },
     "4af22f68": {
       "id": "4af22f68",
@@ -1348,8 +1393,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Bellarmine",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.usiscreamingeagles.com/boxscore.aspx?id=15205&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Bellarmine (W 3-2). Hitting .240 with 1 HR through 20 games."
     },
     "482d43da": {
       "id": "482d43da",

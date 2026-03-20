@@ -2,7 +2,7 @@
   "school": "Missouri State University",
   "base_url": "https://www.missouristatebears.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:48:35.956039Z",
+  "generated_at": "2026-03-20T00:36:38.757599Z",
   "record": "12-7",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -19,7 +19,7 @@
       "name": "Bowen Tabola",
       "fn": "Bowen",
       "ln": "Tabola",
-      "pos": "C/UT",
+      "pos": "C/UTL",
       "yr": "",
       "num": "1",
       "school": "Missouri State University",
@@ -86,22 +86,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-15",
         "opponent": "Liberty",
-        "result": "L 3-4",
-        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
-          "h": 2,
-          "rbi": 1,
-          "bb": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "dh"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 1 RBI against Liberty. Had an outstanding performance at the plate (0.500)."
+      "narrative": "1/3 with 0 RBI vs. Liberty (W 9-3). Hitting .314 with 0 HR through 16 games."
     },
     "e4283980": {
       "id": "e4283980",
@@ -411,8 +411,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Liberty",
+        "result": "L 11-12",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Liberty (L 11-12). Hitting .244 with 2 HR through 13 games."
     },
     "ab892129": {
       "id": "ab892129",
@@ -1036,7 +1051,7 @@
       "name": "Jackson Beaman",
       "fn": "Jackson",
       "ln": "Beaman",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "",
       "num": "31",
       "school": "Missouri State University",
@@ -1118,18 +1133,18 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
+        "date": "2026-03-14",
         "opponent": "Liberty",
-        "result": "L 3-4",
-        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7550&path=baseball",
+        "result": "L 11-12",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7551&path=baseball",
         "batting": {
           "ab": 0,
-          "r": 0,
+          "r": 1,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "pr"
+          "pos": "pr/lf"
         },
         "pitching": null
       },
@@ -1199,7 +1214,7 @@
       "name": "Brant Kragel",
       "fn": "Brant",
       "ln": "Kragel",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "",
       "num": "35",
       "school": "Missouri State University",
@@ -1228,8 +1243,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Liberty (W 9-3). Hitting .153 with 0 HR through 12 games."
     },
     "af8e6574": {
       "id": "af8e6574",
@@ -1401,8 +1431,23 @@
         "wp": 0,
         "opp_avg": ".182"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Liberty",
+        "result": "W 9-3",
+        "boxscore_url": "https://www.missouristatebears.com/boxscore.aspx?id=7552&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Liberty (W 9-3). Hitting .310 with 7 HR through 19 games."
     },
     "e17ab3fd": {
       "id": "e17ab3fd",

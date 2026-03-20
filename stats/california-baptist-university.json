@@ -2,7 +2,7 @@
   "school": "California Baptist University",
   "base_url": "https://www.cbulancers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:36:09.102454Z",
+  "generated_at": "2026-03-20T00:23:29.129101Z",
   "record": "17-5",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -181,7 +181,7 @@
       "fn": "Cole",
       "ln": "Hansen",
       "pos": "C",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "4",
       "school": "California Baptist University",
       "season_batting": {
@@ -401,7 +401,7 @@
       "fn": "Camden",
       "ln": "Andrews",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "10",
       "school": "California Baptist University",
       "season_batting": {
@@ -1074,7 +1074,7 @@
       "fn": "Alfredo",
       "ln": "Capacete",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "California Baptist University",
       "season_batting": null,

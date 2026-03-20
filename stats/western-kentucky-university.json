@@ -2,7 +2,7 @@
   "school": "Western Kentucky University",
   "base_url": "https://www.wkusports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:14:09.840638Z",
+  "generated_at": "2026-03-20T01:05:35.696093Z",
   "record": "38-45",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -105,7 +105,7 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
@@ -215,7 +215,7 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
@@ -246,22 +246,22 @@
       "season_batting": {
         "g": 12,
         "gs": 8,
-        "avg": 0.235,
-        "ops": 0.602,
+        "avg": 0.265,
+        "ops": 0.659,
         "ab": 34,
         "r": 3,
-        "h": 8,
+        "h": 9,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
         "rbi": 6,
-        "tb": 11,
-        "slg": 0.324,
+        "tb": 12,
+        "slg": 0.353,
         "bb": 2,
         "hbp": 0,
         "so": 7,
         "gdp": 0,
-        "obp": 0.278,
+        "obp": 0.306,
         "sf": 0,
         "sh": 0,
         "sb": 3,
@@ -270,13 +270,13 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
           "ab": 1,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
@@ -434,17 +434,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "FIU",
+        "date": "2026-03-18",
+        "opponent": "Belmont",
         "result": "W",
-        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/fiu/boxscore/13279",
+        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 1,
+          "ab": 2,
+          "r": 3,
+          "h": 2,
           "rbi": 0,
           "bb": 1,
-          "so": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -452,7 +452,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against FIU. Contributed at the plate in the team's W."
+      "narrative": "2/2 with 0 RBI vs. Belmont (W). Hitting .363 with 2 HR through 21 games."
     },
     "584569d8": {
       "id": "584569d8",
@@ -590,26 +590,26 @@
         "opp_avg": ".294"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Indiana State",
-        "result": "L",
-        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/indiana-state/boxscore/13273",
+        "date": "2026-03-18",
+        "opponent": "vs Belmont",
+        "result": "W",
+        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 3,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 0,
-          "wp": 1,
-          "hbp": 1,
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Indiana State, throwing 1.0 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. vs Belmont (W). At 5.56 ERA through 8.1 innings on the season."
     },
     "2750b7f0": {
       "id": "2750b7f0",
@@ -697,7 +697,7 @@
       },
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
@@ -853,26 +853,26 @@
         "opp_avg": ".379"
       },
       "last_game": {
-        "date": "2026-03-03",
-        "opponent": "Cincinnati",
-        "result": "L",
-        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/cincinnati/boxscore/13271",
+        "date": "2026-03-18",
+        "opponent": "Belmont",
+        "result": "W",
+        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 1,
-          "er": 1,
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
           "bb": 2,
-          "so": 2,
-          "wp": 1,
+          "so": 3,
+          "wp": 0,
           "hbp": 0,
-          "w": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Cincinnati, throwing 1.1 innings. Allowed 1 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.0 IP, 3 K vs. Belmont (W). At 7.61 ERA through 7.1 innings on the season."
     },
     "6d957a9a": {
       "id": "6d957a9a",
@@ -880,7 +880,7 @@
       "fn": "Kyle",
       "ln": "Hayes",
       "pos": "C/INF",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "20",
       "school": "Western Kentucky University",
       "season_batting": {
@@ -910,7 +910,7 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
@@ -986,7 +986,7 @@
       "fn": "Manny",
       "ln": "Alberto",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "22",
       "school": "Western Kentucky University",
       "season_batting": {
@@ -1066,7 +1066,7 @@
       },
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
@@ -1122,7 +1122,7 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
@@ -1227,25 +1227,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "FIU",
+        "date": "2026-03-18",
+        "opponent": "vs Belmont",
         "result": "W",
-        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/fiu/boxscore/13279",
+        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 2,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "hr": 0,
-          "doubles": 1,
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 3,
+          "bb": 0,
+          "so": 1,
+          "hr": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 0 RBI against FIU. Had an outstanding performance at the plate (0.667)."
+      "narrative": "1/5 with 3 RBI, 1 HR vs. vs Belmont (W). Hitting .379 with 5 HR through 21 games."
     },
     "98857512": {
       "id": "98857512",
@@ -1380,7 +1380,7 @@
       },
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
@@ -1436,7 +1436,7 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
@@ -1461,7 +1461,7 @@
       "fn": "Roman",
       "ln": "Petricca",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "31",
       "school": "Western Kentucky University",
       "season_batting": null,
@@ -1484,8 +1484,27 @@
         "wp": 0,
         "opp_avg": ".000"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Belmont",
+        "result": "W",
+        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
+        "batting": null,
+        "pitching": {
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "0.2 IP, 1 K vs. Belmont (W). At 0.00 ERA through 0.2 innings on the season."
     },
     "9b62c0c7": {
       "id": "9b62c0c7",
@@ -1518,7 +1537,7 @@
       },
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
@@ -1623,18 +1642,18 @@
         "opp_avg": ".375"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Indiana State",
-        "result": "L",
-        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/indiana-state/boxscore/13273",
+        "date": "2026-03-18",
+        "opponent": "vs Belmont",
+        "result": "W",
+        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 3,
+          "ip": "1.0",
+          "h": 2,
           "r": 1,
           "er": 1,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1642,7 +1661,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Indiana State, throwing 1.1 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. vs Belmont (W). At 7.06 ERA through 5.1 innings on the season."
     },
     "0da10c02": {
       "id": "0da10c02",
@@ -1680,7 +1699,7 @@
       "season_pitching": null,
       "last_game": {
         "date": "2026-03-18",
-        "opponent": "vs Belmont",
+        "opponent": "Belmont",
         "result": "W",
         "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": {
@@ -1831,10 +1850,10 @@
         "opp_avg": ".000"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "Indiana State",
-        "result": "L",
-        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/indiana-state/boxscore/13273",
+        "date": "2026-03-18",
+        "opponent": "Belmont",
+        "result": "W",
+        "boxscore_url": "https://www.wkusports.com/sports/baseball/stats/2026/belmont/boxscore/13280",
         "batting": null,
         "pitching": {
           "ip": "1.0",
@@ -1842,7 +1861,7 @@
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1850,7 +1869,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Indiana State, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Belmont (W). At 0.00 ERA through 2.0 innings on the season."
     },
     "634b2f5a": {
       "id": "634b2f5a",
@@ -1960,7 +1979,7 @@
       "fn": "Zack",
       "ln": "Serup",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "42",
       "school": "Western Kentucky University",
       "season_batting": null,

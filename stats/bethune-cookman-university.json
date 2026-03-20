@@ -2,7 +2,7 @@
   "school": "Bethune-Cookman University",
   "base_url": "https://www.bcuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:34:04.703644Z",
+  "generated_at": "2026-03-20T00:21:19.469427Z",
   "record": "14-7",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -100,8 +100,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Florida State (W 12-1). Hitting .297 with 1 HR through 21 games."
     },
     "fbad9597": {
       "id": "fbad9597",
@@ -1242,22 +1257,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Prairie View",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13742&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Florida State",
+        "result": "W 12-1",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13743&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 2,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "dh"
+          "so": 1,
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 2 RBI vs. Prairie View (W 6-3). Hitting .313 with 1 HR through 14 games."
+      "narrative": "0/2 with 0 RBI vs. Florida State (W 12-1). Hitting .301 with 1 HR through 15 games."
     },
     "a6f89bc0": {
       "id": "a6f89bc0",

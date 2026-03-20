@@ -2,7 +2,7 @@
   "school": "Bellarmine University",
   "base_url": "https://athletics.bellarmine.edu",
   "season": "2026",
-  "generated_at": "2026-03-19T07:33:32.637276Z",
+  "generated_at": "2026-03-20T00:20:44.066517Z",
   "record": "6-13",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -48,8 +48,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Southern Indiana",
+        "result": "W 3-2",
+        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8790&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 1 RBI vs. Southern Indiana (W 3-2). Hitting .202 with 7 HR through 19 games."
     },
     "2da1ccd2": {
       "id": "2da1ccd2",
@@ -116,7 +131,7 @@
       "fn": "Eli",
       "ln": "Watson",
       "pos": "OF/INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": {
@@ -168,7 +183,7 @@
       "fn": "Zac",
       "ln": "Jones",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": {
@@ -205,7 +220,7 @@
       "fn": "Landon",
       "ln": "Akers",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": {
@@ -257,7 +272,7 @@
       "fn": "McKay",
       "ln": "Whitaker",
       "pos": "INF/OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": {
@@ -427,7 +442,7 @@
       "fn": "Connor",
       "ln": "Pawlowski",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": {
@@ -507,8 +522,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Southern Indiana",
+        "result": "W 3-2",
+        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8790&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Southern Indiana (W 3-2). Hitting .282 with 0 HR through 16 games."
     },
     "fbbf9b1f": {
       "id": "fbbf9b1f",
@@ -548,7 +578,7 @@
       "fn": "Nick",
       "ln": "Gnardellis",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": {
@@ -799,22 +829,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Austin Peay",
-        "result": "L 3-12",
-        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8789&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Southern Indiana",
+        "result": "W 3-2",
+        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8790&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "dh"
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Austin Peay (L 3-12). Hitting .307 with 3 HR through 18 games."
+      "narrative": "1/4 with 1 RBI vs. Southern Indiana (W 3-2). Hitting .304 with 3 HR through 19 games."
     },
     "98be3160": {
       "id": "98be3160",
@@ -993,8 +1023,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Austin Peay",
+        "result": "L 3-12",
+        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8789&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Austin Peay (L 3-12). Hitting .285 with 4 HR through 16 games."
     },
     "2b441963": {
       "id": "2b441963",
@@ -1236,7 +1281,7 @@
       "fn": "Karl",
       "ln": "Ralamb",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": null,
@@ -1295,7 +1340,7 @@
       "fn": "Cole",
       "ln": "McMichael",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": null,
@@ -1356,22 +1401,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Austin Peay",
-        "result": "L 3-12",
-        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8789&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Southern Indiana",
+        "result": "W 3-2",
+        "boxscore_url": "https://athletics.bellarmine.edu/boxscore.aspx?id=8790&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "rf"
+          "so": 1,
+          "pos": "cf/rf"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Austin Peay (L 3-12). Hitting .263 with 3 HR through 14 games."
+      "narrative": "0/3 with 1 RBI vs. Southern Indiana (W 3-2). Hitting .243 with 3 HR through 15 games."
     },
     "4cfd600b": {
       "id": "4cfd600b",
@@ -1608,7 +1653,7 @@
       "fn": "Aaron",
       "ln": "Ragat",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": null,
@@ -1726,7 +1771,7 @@
       "fn": "Connor",
       "ln": "Sims",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "Bellarmine University",
       "season_batting": null,

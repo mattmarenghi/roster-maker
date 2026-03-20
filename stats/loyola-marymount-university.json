@@ -2,7 +2,7 @@
   "school": "Loyola Marymount University",
   "base_url": "https://www.LMULions.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:46:11.243118Z",
+  "generated_at": "2026-03-20T00:33:44.878516Z",
   "record": "7-16",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -101,7 +101,7 @@
       "name": "Jaxson Wall",
       "fn": "Jaxson",
       "ln": "Wall",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Gr.",
       "num": "2",
       "school": "Loyola Marymount University",
@@ -265,7 +265,7 @@
       "fn": "JD",
       "ln": "Dunn",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "5",
       "school": "Loyola Marymount University",
       "season_batting": {
@@ -338,8 +338,8 @@
       "name": "Nate Stiveson",
       "fn": "Nate",
       "ln": "Stiveson",
-      "pos": "UTIL",
-      "yr": "R-Fr.",
+      "pos": "UTL",
+      "yr": "Fr.",
       "num": "11",
       "school": "Loyola Marymount University",
       "season_batting": {
@@ -700,8 +700,23 @@
         "sb_att": 12
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Long Beach State",
+        "result": "W 16-7",
+        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17492&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Long Beach State (W 16-7). Hitting .256 with 0 HR through 23 games."
     },
     "1037dad4": {
       "id": "1037dad4",
@@ -709,7 +724,7 @@
       "fn": "Luca",
       "ln": "Danos",
       "pos": "IF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "19",
       "school": "Loyola Marymount University",
       "season_batting": {
@@ -820,7 +835,7 @@
       "fn": "Niko",
       "ln": "Riera",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "21",
       "school": "Loyola Marymount University",
       "season_batting": null,
@@ -1048,7 +1063,7 @@
       "fn": "Matt",
       "ln": "Champion",
       "pos": "INF/RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "26",
       "school": "Loyola Marymount University",
       "season_batting": null,
@@ -1166,7 +1181,7 @@
       "fn": "Eli",
       "ln": "Yamanaka",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "29",
       "school": "Loyola Marymount University",
       "season_batting": null,
@@ -1389,8 +1404,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Long Beach State",
+        "result": "W 16-7",
+        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17492&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 1 RBI vs. Long Beach State (W 16-7). Hitting .338 with 3 HR through 20 games."
     },
     "bdd53ab7": {
       "id": "bdd53ab7",
@@ -1426,8 +1456,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Long Beach State",
+        "result": "W 16-7",
+        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17492&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Long Beach State (W 16-7). Hitting .142 with 5 HR through 23 games."
     },
     "659690b5": {
       "id": "659690b5",
@@ -1710,22 +1755,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Abilene Christian",
-        "result": "W 22-11",
-        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17338&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Long Beach State",
+        "result": "W 16-7",
+        "boxscore_url": "https://www.LMULions.com/boxscore.aspx?id=17492&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 2,
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 3,
           "bb": 0,
-          "so": 3,
-          "pos": "dh"
+          "so": 1,
+          "pos": "PH/rf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 2 RBI vs. Abilene Christian (W 22-11). Hitting .280 with 2 HR through 9 games."
+      "narrative": "1/2 with 3 RBI vs. Long Beach State (W 16-7). Hitting .296 with 3 HR through 10 games."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

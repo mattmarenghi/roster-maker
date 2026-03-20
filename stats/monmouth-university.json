@@ -2,7 +2,7 @@
   "school": "Monmouth University",
   "base_url": "https://www.monmouthhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:48:55.553429Z",
+  "generated_at": "2026-03-20T00:36:45.291190Z",
   "record": "8-9",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -48,8 +48,23 @@
         "sb_att": 9
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. Rutgers (W 13-3). Hitting .372 with 3 HR through 17 games."
     },
     "3febf144": {
       "id": "3febf144",
@@ -85,8 +100,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 1 RBI vs. Rutgers (W 13-3). Hitting .328 with 1 HR through 17 games."
     },
     "d7c0a9e4": {
       "id": "d7c0a9e4",
@@ -923,7 +953,7 @@
       "fn": "Kevin",
       "ln": "Opanel",
       "pos": "RHP",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "26",
       "school": "Monmouth University",
       "season_batting": null,
@@ -1145,8 +1175,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Rutgers",
+        "result": "W 13-3",
+        "boxscore_url": "https://www.monmouthhawks.com/boxscore.aspx?id=31739&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Rutgers (W 13-3). Hitting .306 with 3 HR through 17 games."
     },
     "8faf2280": {
       "id": "8faf2280",

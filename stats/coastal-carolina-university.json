@@ -2,13 +2,13 @@
   "school": "Coastal Carolina University",
   "base_url": "https://www.goccusports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:37:48.682870Z",
+  "generated_at": "2026-03-20T00:25:08.838376Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-18",
     "opponent": "Campbell",
     "result": "W 4-3",
-    "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+    "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
     "recap_url": "https://www.goccusports.com/news/2026/3/18/baseball-coastal-rallies-late-falls-4-3-at-campbell.aspx",
     "recap_headline": "Coastal Carolina University Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 1,
           "r": 2,
@@ -132,8 +132,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Campbell",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 3,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 1 RBI vs. Campbell (W 4-3). Hitting .294 with 0 HR through 20 games."
     },
     "536a7fb6": {
       "id": "536a7fb6",
@@ -173,7 +188,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -221,8 +236,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Campbell",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 2 RBI vs. Campbell (W 4-3). Hitting .243 with 1 HR through 20 games."
     },
     "e9e696df": {
       "id": "e9e696df",
@@ -262,7 +292,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -314,7 +344,7 @@
         "date": "2026-03-15",
         "opponent": "App State",
         "result": "L 7-8",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -362,8 +392,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Campbell",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Campbell (W 4-3). Hitting .238 with 1 HR through 20 games."
     },
     "a3be4cf4": {
       "id": "a3be4cf4",
@@ -403,7 +448,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -455,7 +500,7 @@
         "date": "2026-03-14",
         "opponent": "App State",
         "result": "L 4-7",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23975&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23975&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -502,7 +547,7 @@
         "date": "2026-03-15",
         "opponent": "App State",
         "result": "L 7-8",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -561,7 +606,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -625,7 +670,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -677,7 +722,7 @@
         "date": "2026-03-15",
         "opponent": "App State",
         "result": "L 7-8",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -729,7 +774,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -776,7 +821,7 @@
         "date": "2026-03-14",
         "opponent": "App State",
         "result": "L 4-7",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23975&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23975&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -835,7 +880,7 @@
         "date": "2026-03-15",
         "opponent": "App State",
         "result": "L 7-8",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -899,7 +944,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -946,7 +991,7 @@
         "date": "2026-03-15",
         "opponent": "App State",
         "result": "L 7-8",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23976&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1005,7 +1050,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1064,7 +1109,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1124,8 +1169,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Campbell",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Campbell (W 4-3). Hitting .000 with 0 HR through 3 games."
     },
     "d788341d": {
       "id": "d788341d",
@@ -1160,7 +1220,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "1.2",
@@ -1211,7 +1271,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1307,7 +1367,7 @@
         "date": "2026-03-14",
         "opponent": "App State",
         "result": "L 4-7",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23975&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23975&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1386,7 +1446,7 @@
         "date": "2026-03-18",
         "opponent": "Campbell",
         "result": "W 4-3",
-        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=",
+        "boxscore_url": "https://www.goccusports.com/boxscore.aspx?id=23977&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

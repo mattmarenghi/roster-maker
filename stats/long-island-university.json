@@ -2,7 +2,7 @@
   "school": "Long Island University",
   "base_url": "https://www.liuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:45:54.284165Z",
+  "generated_at": "2026-03-20T00:33:27.490762Z",
   "record": "4-11",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -85,8 +85,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Iona",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5868&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 1 RBI vs. Iona (L 3-5). Hitting .200 with 0 HR through 7 games."
     },
     "f622b45d": {
       "id": "f622b45d",
@@ -94,7 +109,7 @@
       "fn": "Nicholas",
       "ln": "Delvecchio",
       "pos": "2B/3B",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "3",
       "school": "Long Island University",
       "season_batting": {
@@ -174,8 +189,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Iona",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5868&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Iona (L 3-5). Hitting .254 with 2 HR through 15 games."
     },
     "7be287b7": {
       "id": "7be287b7",
@@ -235,7 +265,7 @@
       "fn": "Noah",
       "ln": "Sorensen",
       "pos": "3B",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "6",
       "school": "Long Island University",
       "season_batting": {
@@ -263,8 +293,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Wagner",
+        "result": "W 11-1",
+        "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5865&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 0 RBI vs. Wagner (W 11-1). Hitting .404 with 1 HR through 13 games."
     },
     "85f915c7": {
       "id": "85f915c7",
@@ -494,7 +539,7 @@
       "fn": "Alex",
       "ln": "Jankowski",
       "pos": "OF/1B/RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "13",
       "school": "Long Island University",
       "season_batting": {
@@ -613,7 +658,7 @@
       "fn": "Matthew",
       "ln": "McGurk",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "15",
       "school": "Long Island University",
       "season_batting": {
@@ -665,7 +710,7 @@
       "fn": "Christian",
       "ln": "Yoo",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "16",
       "school": "Long Island University",
       "season_batting": null,
@@ -870,7 +915,7 @@
       "fn": "Nick",
       "ln": "Matson",
       "pos": "OF/LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "20",
       "school": "Long Island University",
       "season_batting": {
@@ -922,7 +967,7 @@
       "fn": "James",
       "ln": "Lordi",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "21",
       "school": "Long Island University",
       "season_batting": null,
@@ -981,7 +1026,7 @@
       "fn": "Noah",
       "ln": "Tabaie",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "22",
       "school": "Long Island University",
       "season_batting": null,
@@ -1186,8 +1231,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Wagner",
+        "result": "W 9-5",
+        "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5867&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 0 RBI vs. Wagner (W 9-5). Hitting .217 with 1 HR through 10 games."
     },
     "22d4a53a": {
       "id": "22d4a53a",
@@ -1195,7 +1255,7 @@
       "fn": "Nicholas",
       "ln": "Finarelli",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "26",
       "school": "Long Island University",
       "season_batting": {
@@ -1302,7 +1362,7 @@
       "fn": "Dale",
       "ln": "Fry",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "29",
       "school": "Long Island University",
       "season_batting": null,
@@ -1366,7 +1426,7 @@
       "fn": "Jake",
       "ln": "Kelleher",
       "pos": "C/1B",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "34",
       "school": "Long Island University",
       "season_batting": {
@@ -1395,22 +1455,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Wagner",
-        "result": "W 9-5",
-        "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5867&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Iona",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.liuathletics.com/boxscore.aspx?id=5868&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 2,
-          "rbi": 4,
-          "bb": 1,
-          "so": 1,
-          "pos": "c"
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 4 RBI vs. Wagner (W 9-5). Hitting .302 with 2 HR through 13 games."
+      "narrative": "2/4 with 0 RBI vs. Iona (L 3-5). Hitting .319 with 2 HR through 14 games."
     },
     "17089053": {
       "id": "17089053",
@@ -1418,7 +1478,7 @@
       "fn": "Dominic",
       "ln": "Vassallo",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "36",
       "school": "Long Island University",
       "season_batting": null,

@@ -2,7 +2,7 @@
   "school": "University of Michigan",
   "base_url": "https://www.mgoblue.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:05:59.780902Z",
+  "generated_at": "2026-03-20T00:55:57.986409Z",
   "record": "16-25",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -20,7 +20,7 @@
       "fn": "Evan",
       "ln": "Haeger",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "0",
       "school": "University of Michigan",
       "season_batting": {
@@ -130,7 +130,7 @@
       "fn": "Greg",
       "ln": "Pace Jr.",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "3",
       "school": "University of Michigan",
       "season_batting": {
@@ -185,7 +185,7 @@
       "fn": "Noah",
       "ln": "Miller",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "4",
       "school": "University of Michigan",
       "season_batting": {
@@ -476,26 +476,26 @@
         "opp_avg": ".300"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "UCLA",
-        "result": "L",
-        "boxscore_url": "https://www.mgoblue.com/sports/baseball/stats/2026/ucla/boxscore/29813",
+        "date": "2026-03-18",
+        "opponent": "Michigan State",
+        "result": "W",
+        "boxscore_url": "https://www.mgoblue.com/sports/baseball/stats/2026/michigan-state/boxscore/29817",
         "batting": null,
         "pitching": {
-          "ip": "3.2",
-          "h": 10,
-          "r": 10,
-          "er": 10,
+          "ip": "3.0",
+          "h": 3,
+          "r": 0,
+          "er": 0,
           "bb": 1,
-          "so": 2,
+          "so": 4,
           "wp": 0,
-          "hbp": 2,
+          "hbp": 0,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against UCLA, throwing 3.2 innings. Allowed 10 earned run(s) with 2 strikeout(s)."
+      "narrative": "3.0 IP, 4 K vs. Michigan State (W). At 7.64 ERA through 27.1 innings on the season."
     },
     "25d125f4": {
       "id": "25d125f4",
@@ -660,7 +660,7 @@
       "fn": "Carson",
       "ln": "Luna",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "15",
       "school": "University of Michigan",
       "season_batting": {
@@ -853,7 +853,7 @@
       "fn": "Dane",
       "ln": "Morrow",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "20",
       "school": "University of Michigan",
       "season_batting": {
@@ -1120,7 +1120,7 @@
       "fn": "Brock",
       "ln": "Leitgeb",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "25",
       "school": "University of Michigan",
       "season_batting": {
@@ -1281,7 +1281,7 @@
       "fn": "Cade",
       "ln": "Ladehoff",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "28",
       "school": "University of Michigan",
       "season_batting": {
@@ -1336,7 +1336,7 @@
       "fn": "Keegan",
       "ln": "O'Hearn",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "29",
       "school": "University of Michigan",
       "season_batting": null,
@@ -1650,7 +1650,7 @@
       "fn": "Cooper",
       "ln": "Mullens",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "40",
       "school": "University of Michigan",
       "season_batting": {
@@ -1756,7 +1756,7 @@
       "fn": "Justin",
       "ln": "Brown",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "42",
       "school": "University of Michigan",
       "season_batting": null,
@@ -1807,7 +1807,7 @@
       "fn": "Erik",
       "ln": "Puodziunas",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "49",
       "school": "University of Michigan",
       "season_batting": null,

@@ -2,7 +2,7 @@
   "school": "Houston Christian University",
   "base_url": "https://www.hcuhuskies.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:43:02.636328Z",
+  "generated_at": "2026-03-20T00:30:22.241219Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -20,7 +20,7 @@
       "fn": "Nico",
       "ln": "DeFazio",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "1",
       "school": "Houston Christian University",
       "season_batting": {
@@ -100,8 +100,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Tarleton State",
+        "result": "L 5-9",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 0 RBI vs. Tarleton State (L 5-9). Hitting .283 with 0 HR through 18 games."
     },
     "c6f9d0c8": {
       "id": "c6f9d0c8",
@@ -109,7 +124,7 @@
       "fn": "Caleb",
       "ln": "Matthews",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "3",
       "school": "Houston Christian University",
       "season_batting": null,
@@ -221,8 +236,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UTSA",
+        "result": "W 12-11",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6478&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 3,
+          "rbi": 4,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/5 with 4 RBI vs. UTSA (W 12-11). Hitting .256 with 0 HR through 20 games."
     },
     "62145ea6": {
       "id": "62145ea6",
@@ -459,22 +489,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Tarleton State",
-        "result": "L 5-9",
-        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6477&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "UTSA",
+        "result": "W 12-11",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6478&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 1,
-          "rbi": 4,
+          "ab": 3,
+          "r": 2,
+          "h": 0,
+          "rbi": 1,
           "bb": 1,
           "so": 1,
-          "pos": "ss"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "Went 1/2 with 4 RBI against Tarleton State. Had an outstanding performance at the plate (0.500)."
+      "narrative": "0/3 with 1 RBI vs. UTSA (W 12-11). Hitting .217 with 1 HR through 11 games."
     },
     "8d97c011": {
       "id": "8d97c011",
@@ -510,8 +540,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UTSA",
+        "result": "W 12-11",
+        "boxscore_url": "https://www.hcuhuskies.com/boxscore.aspx?id=6478&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 3,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. UTSA (W 12-11). Hitting .337 with 3 HR through 20 games."
     },
     "f7154a91": {
       "id": "f7154a91",
@@ -519,7 +564,7 @@
       "fn": "Tyree",
       "ln": "Jackson",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "Houston Christian University",
       "season_batting": {
@@ -654,7 +699,7 @@
       "name": "Brock Lambert",
       "fn": "Brock",
       "ln": "Lambert",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "17",
       "school": "Houston Christian University",
@@ -832,7 +877,7 @@
       "fn": "Kameren",
       "ln": "Hardebeck",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "20",
       "school": "Houston Christian University",
       "season_batting": null,
@@ -1214,7 +1259,7 @@
       "fn": "Levi",
       "ln": "Castilleja",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "29",
       "school": "Houston Christian University",
       "season_batting": {
@@ -1266,7 +1311,7 @@
       "fn": "Matthew",
       "ln": "Rheaume",
       "pos": "P",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "30",
       "school": "Houston Christian University",
       "season_batting": null,
@@ -1522,7 +1567,7 @@
       "fn": "Ryan",
       "ln": "Prettol",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "44",
       "school": "Houston Christian University",
       "season_batting": null,
@@ -1554,7 +1599,7 @@
       "fn": "Kenan",
       "ln": "Elarton",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "50",
       "school": "Houston Christian University",
       "season_batting": null,

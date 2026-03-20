@@ -2,7 +2,7 @@
   "school": "Grand Canyon University",
   "base_url": "https://www.gculopes.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:42:33.746537Z",
+  "generated_at": "2026-03-20T00:30:03.260851Z",
   "record": "8-14",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -19,8 +19,8 @@
       "name": "Cael Boever",
       "fn": "Cael",
       "ln": "Boever",
-      "pos": "UTIL",
-      "yr": "R-Sr.",
+      "pos": "UTL",
+      "yr": "Sr.",
       "num": "1",
       "school": "Grand Canyon University",
       "season_batting": {
@@ -603,7 +603,7 @@
       "fn": "Dillon",
       "ln": "Orr",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "16",
       "school": "Grand Canyon University",
       "season_batting": null,
@@ -1049,7 +1049,7 @@
       "fn": "Kade",
       "ln": "Huff",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "28",
       "school": "Grand Canyon University",
       "season_batting": {

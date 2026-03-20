@@ -2,7 +2,7 @@
   "school": "University of Texas at Austin",
   "base_url": "https://www.TexasLonghorns.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:11:02.955708Z",
+  "generated_at": "2026-03-20T01:01:52.359141Z",
   "record": "43-49",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -75,7 +75,7 @@
       "fn": "Temo",
       "ln": "Becerra",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "1",
       "school": "University of Texas at Austin",
       "season_batting": {
@@ -806,7 +806,7 @@
       "fn": "Blake",
       "ln": "Peterson",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "29",
       "school": "University of Texas at Austin",
       "season_batting": {
@@ -1321,7 +1321,7 @@
       "fn": "Ethan",
       "ln": "Walker",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "46",
       "school": "University of Texas at Austin",
       "season_batting": null,
@@ -1447,26 +1447,26 @@
         "opp_avg": ".237"
       },
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "USC Upstate",
+        "date": "2026-03-14",
+        "opponent": "Ole Miss",
         "result": "W",
-        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/usc-upstate/boxscore/17832",
+        "boxscore_url": "https://www.TexasLonghorns.com/sports/baseball/stats/2026/ole-miss/boxscore/17836",
         "batting": null,
         "pitching": {
-          "ip": "4.2",
-          "h": 7,
-          "r": 3,
-          "er": 2,
-          "bb": 0,
-          "so": 7,
-          "wp": 0,
+          "ip": "7.0",
+          "h": 5,
+          "r": 2,
+          "er": 0,
+          "bb": 1,
+          "so": 8,
+          "wp": 2,
           "hbp": 1,
-          "w": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "4.2 IP, 7 K vs. USC Upstate (W). At 2.23 ERA through 24.2 innings on the season."
+      "narrative": "7.0 IP, 8 K, 0 ER vs. Ole Miss (W). At 2.23 ERA through 24.2 innings on the season."
     },
     "ecd3dcc5": {
       "id": "ecd3dcc5",

@@ -2,7 +2,7 @@
   "school": "William & Mary",
   "base_url": "https://www.tribeathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:14:15.220978Z",
+  "generated_at": "2026-03-20T01:05:21.626350Z",
   "record": "7-12",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -72,7 +72,7 @@
       "fn": "Corey",
       "ln": "Adams",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "2",
       "school": "William & Mary",
       "season_batting": {
@@ -109,7 +109,7 @@
       "fn": "Trey",
       "ln": "Christman",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "3",
       "school": "William & Mary",
       "season_batting": {
@@ -137,8 +137,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Longwood",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27824&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Longwood (W 8-6). Hitting .273 with 4 HR through 19 games."
     },
     "a2f221e8": {
       "id": "a2f221e8",
@@ -226,8 +241,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Longwood",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27824&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Longwood (W 8-6). Hitting .192 with 0 HR through 18 games."
     },
     "1a3c2917": {
       "id": "1a3c2917",
@@ -235,7 +265,7 @@
       "fn": "Kevin",
       "ln": "Francella",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "6",
       "school": "William & Mary",
       "season_batting": {
@@ -370,8 +400,23 @@
         "wp": 0,
         "opp_avg": ".176"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Georgetown",
+        "result": "L 3-7",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27823&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 0 RBI vs. Georgetown (L 3-7). Hitting .272 with 0 HR through 4 games."
     },
     "a411b436": {
       "id": "a411b436",
@@ -379,7 +424,7 @@
       "fn": "Matthew",
       "ln": "Kosuda",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "10",
       "school": "William & Mary",
       "season_batting": {
@@ -549,7 +594,7 @@
       "fn": "Joey",
       "ln": "Chitla",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "15",
       "school": "William & Mary",
       "season_batting": {
@@ -586,7 +631,7 @@
       "fn": "Chad",
       "ln": "Yates",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "16",
       "school": "William & Mary",
       "season_batting": null,
@@ -618,7 +663,7 @@
       "fn": "Witt",
       "ln": "Scafidi",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "17",
       "school": "William & Mary",
       "season_batting": {
@@ -871,8 +916,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Longwood",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27824&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b/rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Longwood (W 8-6). Hitting .266 with 3 HR through 18 games."
     },
     "904ab8be": {
       "id": "904ab8be",
@@ -908,8 +968,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Longwood",
+        "result": "W 8-6",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27824&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/1 with 0 RBI vs. Longwood (W 8-6). Hitting .153 with 1 HR through 12 games."
     },
     "d046d5b9": {
       "id": "d046d5b9",
@@ -917,7 +992,7 @@
       "fn": "Sam",
       "ln": "Kaczmarek",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "27",
       "school": "William & Mary",
       "season_batting": {
@@ -1184,8 +1259,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Georgetown",
+        "result": "L 3-7",
+        "boxscore_url": "https://www.tribeathletics.com/boxscore.aspx?id=27823&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Georgetown (L 3-7). Hitting .000 with 0 HR through 8 games."
     },
     "e05f4957": {
       "id": "e05f4957",
@@ -1257,7 +1347,7 @@
       "fn": "Tom",
       "ln": "Bourque",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "41",
       "school": "William & Mary",
       "season_batting": null,
@@ -1316,7 +1406,7 @@
       "fn": "Luke",
       "ln": "Calveric",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "42",
       "school": "William & Mary",
       "season_batting": null,
@@ -1375,7 +1465,7 @@
       "fn": "Daniel",
       "ln": "Lingle",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "45",
       "school": "William & Mary",
       "season_batting": null,
@@ -1434,7 +1524,7 @@
       "fn": "Hank",
       "ln": "Lippman",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "46",
       "school": "William & Mary",
       "season_batting": null,
@@ -1493,7 +1583,7 @@
       "fn": "Charlie",
       "ln": "Richwine",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "48",
       "school": "William & Mary",
       "season_batting": null,

@@ -2,7 +2,7 @@
   "school": "Tarleton State University",
   "base_url": "https://tarletonsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:56:55.390219Z",
+  "generated_at": "2026-03-20T00:45:48.399447Z",
   "record": "13-7",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -256,8 +256,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. Texas (L 1-6). Hitting .362 with 2 HR through 20 games."
     },
     "29a1dafa": {
       "id": "29a1dafa",
@@ -560,8 +575,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 4,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Texas (L 1-6). Hitting .236 with 2 HR through 20 games."
     },
     "f8e9c24d": {
       "id": "f8e9c24d",
@@ -760,8 +790,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Texas",
+        "result": "L 1-6",
+        "boxscore_url": "https://tarletonsports.com/boxscore.aspx?id=7382&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 4,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Texas (L 1-6). Hitting .236 with 2 HR through 20 games."
     },
     "59905c12": {
       "id": "59905c12",

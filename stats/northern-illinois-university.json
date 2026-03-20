@@ -2,7 +2,7 @@
   "school": "Northern Illinois University",
   "base_url": "https://www.niuhuskies.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:50:32.456028Z",
+  "generated_at": "2026-03-20T00:38:22.486894Z",
   "record": "10-7",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -48,8 +48,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Toledo (W 17-2). Hitting .323 with 3 HR through 17 games."
     },
     "7597ef21": {
       "id": "7597ef21",
@@ -137,8 +152,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Toledo",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24908&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Toledo (L 3-8). Hitting .195 with 1 HR through 11 games."
     },
     "53a7a926": {
       "id": "53a7a926",
@@ -576,8 +606,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Toledo",
+        "result": "W 21-5",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24907&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/1 with 1 RBI vs. Toledo (W 21-5). Hitting .333 with 0 HR through 3 games."
     },
     "b10cb737": {
       "id": "b10cb737",
@@ -672,8 +717,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Toledo (W 17-2). Hitting .170 with 0 HR through 12 games."
     },
     "e714dce2": {
       "id": "e714dce2",
@@ -1453,8 +1513,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Toledo",
+        "result": "W 17-2",
+        "boxscore_url": "https://www.niuhuskies.com/boxscore.aspx?id=24909&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 1 RBI vs. Toledo (W 17-2). Hitting .265 with 3 HR through 17 games."
     },
     "a84177da": {
       "id": "a84177da",

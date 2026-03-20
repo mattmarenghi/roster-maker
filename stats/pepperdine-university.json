@@ -2,7 +2,7 @@
   "school": "Pepperdine University",
   "base_url": "https://www.pepperdinewaves.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:51:38.883830Z",
+  "generated_at": "2026-03-20T00:39:49.455851Z",
   "record": "4-16",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -118,8 +118,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. UCLA (W 5-4). Hitting .229 with 2 HR through 18 games."
     },
     "07b83ea4": {
       "id": "07b83ea4",
@@ -155,8 +170,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UMass Lowell",
+        "result": "L 4-5",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15245&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 2 RBI vs. UMass Lowell (L 4-5). Hitting .071 with 0 HR through 10 games."
     },
     "f4caa537": {
       "id": "f4caa537",
@@ -400,8 +430,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. UCLA (W 5-4). Hitting .276 with 4 HR through 18 games."
     },
     "903089fd": {
       "id": "903089fd",
@@ -489,8 +534,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UCLA",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15502&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 3,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 3 RBI vs. UCLA (W 5-4). Hitting .338 with 1 HR through 17 games."
     },
     "7dad4e3d": {
       "id": "7dad4e3d",
@@ -1407,8 +1467,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UMass Lowell",
+        "result": "W 13-8",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "PH/rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. UMass Lowell (W 13-8). Hitting .153 with 1 HR through 16 games."
     },
     "ca66dba9": {
       "id": "ca66dba9",
@@ -1444,8 +1519,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "UMass Lowell",
+        "result": "W 13-8",
+        "boxscore_url": "https://www.pepperdinewaves.com/boxscore.aspx?id=15246&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 0 RBI vs. UMass Lowell (W 13-8). Hitting .000 with 0 HR through 8 games."
     },
     "645f5327": {
       "id": "645f5327",

@@ -2,7 +2,7 @@
   "school": "Lindenwood University",
   "base_url": "https://lindenwoodlions.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:45:28.360969Z",
+  "generated_at": "2026-03-20T00:33:05.129425Z",
   "record": "10-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -72,7 +72,7 @@
       "fn": "Tanner",
       "ln": "Paschke",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "2",
       "school": "Lindenwood University",
       "season_batting": null,
@@ -295,7 +295,7 @@
       "fn": "Kam",
       "ln": "Edwards",
       "pos": "OF",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "8",
       "school": "Lindenwood University",
       "season_batting": {
@@ -375,8 +375,23 @@
         "sb_att": 13
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Murray St.",
+        "result": "W 4-0",
+        "boxscore_url": "https://lindenwoodlions.com/boxscore.aspx?id=27662&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Murray St. (W 4-0). Hitting .292 with 0 HR through 20 games."
     },
     "3cdbc0e2": {
       "id": "3cdbc0e2",
@@ -530,7 +545,22 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Murray St.",
+        "result": "W 4-0",
+        "boxscore_url": "https://lindenwoodlions.com/boxscore.aspx?id=27660&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "c1a7f6f4": {
@@ -824,8 +854,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Murray St.",
+        "result": "W 4-0",
+        "boxscore_url": "https://lindenwoodlions.com/boxscore.aspx?id=27662&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Murray St. (W 4-0). Hitting .309 with 1 HR through 16 games."
     },
     "bd301b7a": {
       "id": "bd301b7a",
@@ -833,7 +878,7 @@
       "fn": "Preston",
       "ln": "Wright",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "Lindenwood University",
       "season_batting": {
@@ -972,7 +1017,7 @@
       "fn": "Filip",
       "ln": "Sarota",
       "pos": "OF/INF",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "27",
       "school": "Lindenwood University",
       "season_batting": {
@@ -1185,8 +1230,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Murray St.",
+        "result": "W 4-0",
+        "boxscore_url": "https://lindenwoodlions.com/boxscore.aspx?id=27662&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Murray St. (W 4-0). Hitting .298 with 4 HR through 20 games."
     },
     "64be35dd": {
       "id": "64be35dd",
@@ -1290,7 +1350,7 @@
       "fn": "William",
       "ln": "Zareh",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "39",
       "school": "Lindenwood University",
       "season_batting": {

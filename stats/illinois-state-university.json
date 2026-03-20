@@ -2,7 +2,7 @@
   "school": "Illinois State University",
   "base_url": "https://GoRedbirds.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:43:07.778848Z",
+  "generated_at": "2026-03-20T00:30:32.864877Z",
   "record": "14-7",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -48,8 +48,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Western Ill.",
+        "result": "W 7-6",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/1 with 0 RBI vs. Western Ill. (W 7-6). Hitting .125 with 0 HR through 8 games."
     },
     "455451d2": {
       "id": "455451d2",
@@ -85,8 +100,23 @@
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "SIUE",
+        "result": "W 6-5",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23300&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. SIUE (W 6-5). Hitting .277 with 2 HR through 21 games."
     },
     "5e7685c8": {
       "id": "5e7685c8",
@@ -226,8 +256,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "SIUE",
+        "result": "W 6-5",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23300&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. SIUE (W 6-5). Hitting .372 with 6 HR through 21 games."
     },
     "b4c0b51f": {
       "id": "b4c0b51f",
@@ -235,7 +280,7 @@
       "fn": "Joey",
       "ln": "Wilmoth",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "6",
       "school": "Illinois State University",
       "season_batting": null,
@@ -399,8 +444,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Western Ill.",
+        "result": "W 7-6",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23299&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Western Ill. (W 7-6). Hitting .370 with 3 HR through 14 games."
     },
     "d2fb402d": {
       "id": "d2fb402d",
@@ -460,7 +520,7 @@
       "fn": "Brayden",
       "ln": "Bakes",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "17",
       "school": "Illinois State University",
       "season_batting": {
@@ -758,8 +818,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "SIUE",
+        "result": "W 6-5",
+        "boxscore_url": "https://GoRedbirds.com/boxscore.aspx?id=23300&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. SIUE (W 6-5). Hitting .268 with 1 HR through 18 games."
     },
     "19901d7d": {
       "id": "19901d7d",
@@ -871,7 +946,7 @@
       "fn": "Luke",
       "ln": "Teschke",
       "pos": "P",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "27",
       "school": "Illinois State University",
       "season_batting": null,
@@ -1314,14 +1389,14 @@
       "fn": "Carson",
       "ln": "Cormier",
       "pos": "P",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "41",
       "school": "Illinois State University",
       "season_batting": null,
       "season_pitching": {
         "era": 8.0,
         "whip": 1.72,
-        "w": 0,
+        "w": 1,
         "l": 1,
         "sv": 0,
         "g": 6,
@@ -1360,7 +1435,7 @@
           "so": 6,
           "wp": 0,
           "hbp": 0,
-          "w": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }

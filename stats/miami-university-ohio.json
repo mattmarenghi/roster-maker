@@ -2,7 +2,7 @@
   "school": "Miami University (Ohio)",
   "base_url": "https://www.miamiredhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:47:59.103641Z",
+  "generated_at": "2026-03-20T00:36:06.431107Z",
   "record": "46-58",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -181,7 +181,7 @@
       "fn": "Jake",
       "ln": "Vrlak",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "4",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -393,7 +393,7 @@
       "fn": "Marc",
       "ln": "Iozzo",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "8",
       "school": "Miami University (Ohio)",
       "season_batting": null,
@@ -749,7 +749,7 @@
       "fn": "Keenan",
       "ln": "Proctor",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "15",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -804,7 +804,7 @@
       "fn": "Evan",
       "ln": "Appelwick",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "16",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -859,7 +859,7 @@
       "fn": "Cole",
       "ln": "Pauley",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "17",
       "school": "Miami University (Ohio)",
       "season_batting": null,
@@ -961,7 +961,7 @@
       "fn": "Alex",
       "ln": "Koelling",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "19",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -1022,26 +1022,26 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-02-28",
-        "opponent": "Southeast Missouri",
-        "result": "L",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/southeast-missouri/boxscore/20731",
+        "date": "2026-03-18",
+        "opponent": "Dayton",
+        "result": "W",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/dayton/boxscore/20741",
         "batting": null,
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
+          "ip": "0.2",
+          "h": 1,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 2,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Southeast Missouri, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "0.2 IP, 0 K vs. Dayton (W). At 9.00 ERA through 2.0 innings on the season."
     },
     "16b1a5bb": {
       "id": "16b1a5bb",
@@ -1049,7 +1049,7 @@
       "fn": "Ignacio",
       "ln": "Gonzalez",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "21",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -1206,7 +1206,7 @@
       "fn": "Hayden",
       "ln": "Christiansen",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -1261,7 +1261,7 @@
       "fn": "Tommy",
       "ln": "Harrison",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "25",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -1316,7 +1316,7 @@
       "fn": "Mason",
       "ln": "Breidenbach",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "26",
       "school": "Miami University (Ohio)",
       "season_batting": {
@@ -1451,25 +1451,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-08",
-        "opponent": "Eastern Mich.",
+        "date": "2026-03-18",
+        "opponent": "Dayton",
         "result": "W",
-        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/eastern-mich-/boxscore/20736",
+        "boxscore_url": "https://www.miamiredhawks.com/sports/baseball/stats/2026/dayton/boxscore/20741",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
+          "so": 2,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 2,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 0/4 with 0 RBI against Eastern Mich.. Struggled to make contact."
+      "narrative": "2/5 with 0 RBI vs. Dayton (W). Hitting .217 with 0 HR through 7 games."
     },
     "ce567f06": {
       "id": "ce567f06",

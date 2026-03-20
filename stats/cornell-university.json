@@ -2,7 +2,7 @@
   "school": "Cornell University",
   "base_url": "https://www.cornellbigred.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:38:37.919426Z",
+  "generated_at": "2026-03-20T00:25:57.212559Z",
   "record": "2-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -318,8 +318,23 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "VMI",
+        "result": "W 7-4",
+        "boxscore_url": "https://www.cornellbigred.com/boxscore.aspx?id=62289&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 0 RBI vs. VMI (W 7-4). Hitting .312 with 0 HR through 9 games."
     },
     "49c2b3d7": {
       "id": "49c2b3d7",
@@ -518,8 +533,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "VMI",
+        "result": "W 7-4",
+        "boxscore_url": "https://www.cornellbigred.com/boxscore.aspx?id=62289&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 3,
+          "h": 3,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/4 with 0 RBI vs. VMI (W 7-4). Hitting .365 with 2 HR through 13 games."
     },
     "5fe2da1e": {
       "id": "5fe2da1e",
@@ -632,8 +662,23 @@
         "wp": 0,
         "opp_avg": ".500"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "VMI",
+        "result": "L 4-7",
+        "boxscore_url": "https://www.cornellbigred.com/boxscore.aspx?id=62287&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/1 with 0 RBI vs. VMI (L 4-7). Hitting .190 with 1 HR through 12 games."
     },
     "c79f6539": {
       "id": "c79f6539",
@@ -687,8 +732,23 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "VMI",
+        "result": "W 7-4",
+        "boxscore_url": "https://www.cornellbigred.com/boxscore.aspx?id=62289&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 0 RBI vs. VMI (W 7-4). Hitting .312 with 0 HR through 9 games."
     },
     "82c6db2b": {
       "id": "82c6db2b",
@@ -887,8 +947,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "VMI",
+        "result": "W 7-4",
+        "boxscore_url": "https://www.cornellbigred.com/boxscore.aspx?id=62289&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 1 RBI vs. VMI (W 7-4). Hitting .147 with 0 HR through 10 games."
     },
     "4d376305": {
       "id": "4d376305",

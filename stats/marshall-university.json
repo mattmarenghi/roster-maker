@@ -2,7 +2,7 @@
   "school": "Marshall University",
   "base_url": "https://www.herdzone.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:47:05.374412Z",
+  "generated_at": "2026-03-20T00:34:51.669149Z",
   "record": "16-26",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -20,7 +20,7 @@
       "fn": "Tyler",
       "ln": "Kamerer",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "2",
       "school": "Marshall University",
       "season_batting": {
@@ -185,7 +185,7 @@
       "fn": "Blaine",
       "ln": "Albright",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "5",
       "school": "Marshall University",
       "season_batting": null,
@@ -711,7 +711,7 @@
       "fn": "Mason",
       "ln": "Onate",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "17",
       "school": "Marshall University",
       "season_batting": {
@@ -766,7 +766,7 @@
       "fn": "Davis",
       "ln": "Gunn",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "18",
       "school": "Marshall University",
       "season_batting": null,
@@ -868,7 +868,7 @@
       "fn": "Wil",
       "ln": "Gubba",
       "pos": "C",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "21",
       "school": "Marshall University",
       "season_batting": {
@@ -1546,7 +1546,7 @@
       "fn": "Josh",
       "ln": "Ferguson",
       "pos": "P/1B",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "35",
       "school": "Marshall University",
       "season_batting": {

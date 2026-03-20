@@ -2,7 +2,7 @@
   "school": "University of Missouri, Columbia",
   "base_url": "https://www.mutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:06:33.002104Z",
+  "generated_at": "2026-03-20T00:57:01.153492Z",
   "record": "34-40",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -75,7 +75,7 @@
       "fn": "Peyton",
       "ln": "Basler",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "3",
       "school": "University of Missouri, Columbia",
       "season_batting": {
@@ -240,7 +240,7 @@
       "fn": "Tyler",
       "ln": "Macon",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "6",
       "school": "University of Missouri, Columbia",
       "season_batting": {
@@ -566,7 +566,7 @@
       "fn": "Isaiah",
       "ln": "Frost",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "14",
       "school": "University of Missouri, Columbia",
       "season_batting": {
@@ -595,12 +595,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-07",
-        "opponent": "UIC",
-        "result": "W",
-        "boxscore_url": "https://www.mutigers.com/sports/baseball/stats/2026/uic/boxscore/33820",
+        "date": "2026-03-18",
+        "opponent": "Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.mutigers.com/sports/baseball/stats/2026/kansas/boxscore/33816",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -613,7 +613,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 0 RBI against UIC. Struggled to make contact."
+      "narrative": "0/2 with 0 RBI vs. Kansas (L). Hitting .357 with 1 HR through 15 games."
     },
     "5a26720d": {
       "id": "5a26720d",
@@ -1257,7 +1257,7 @@
       "fn": "Dane",
       "ln": "Bjorn",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "29",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
@@ -1359,7 +1359,7 @@
       "fn": "Luke",
       "ln": "Fricker",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "35",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
@@ -1673,7 +1673,7 @@
       "fn": "Jackson",
       "ln": "Sobel",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "44",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
@@ -1697,26 +1697,26 @@
         "opp_avg": ".111"
       },
       "last_game": {
-        "date": "2026-02-25",
-        "opponent": "Arkansas-Pine Bluff",
-        "result": "W",
-        "boxscore_url": "https://www.mutigers.com/sports/baseball/stats/2026/arkansas-pine-bluff/boxscore/33825",
+        "date": "2026-03-18",
+        "opponent": "Kansas",
+        "result": "L",
+        "boxscore_url": "https://www.mutigers.com/sports/baseball/stats/2026/kansas/boxscore/33816",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
+          "ip": "1.1",
+          "h": 1,
           "r": 1,
           "er": 1,
           "bb": 1,
-          "so": 1,
-          "wp": 2,
+          "so": 0,
+          "wp": 0,
           "hbp": 0,
-          "w": 1,
+          "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Arkansas-Pine Bluff, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.1 IP, 0 K vs. Kansas (L). At 20.45 ERA through 2.2 innings on the season."
     },
     "3156fff3": {
       "id": "3156fff3",
@@ -1775,7 +1775,7 @@
       "fn": "Kadin",
       "ln": "Muckley",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "48",
       "school": "University of Missouri, Columbia",
       "season_batting": null,
@@ -1979,7 +1979,7 @@
       "fn": "Donovan",
       "ln": "Jordan",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "88",
       "school": "University of Missouri, Columbia",
       "season_batting": {

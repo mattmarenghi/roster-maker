@@ -2,7 +2,7 @@
   "school": "University of South Carolina Upstate",
   "base_url": "https://www.upstatespartans.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:09:39.074517Z",
+  "generated_at": "2026-03-20T01:00:20.721866Z",
   "record": "20-25",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -20,7 +20,7 @@
       "fn": "Kenan",
       "ln": "Bowman",
       "pos": "UTL",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "0",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -130,7 +130,7 @@
       "fn": "Maloy",
       "ln": "Heaghney",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "2",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -185,7 +185,7 @@
       "fn": "Jake",
       "ln": "Armsey",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "3",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -214,17 +214,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "High Point",
-        "result": "L",
-        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/high-point/boxscore/6491",
+        "date": "2026-03-18",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/charlotte/boxscore/6492",
         "batting": {
           "ab": 4,
-          "r": 1,
+          "r": 3,
           "h": 2,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "rbi": 1,
+          "bb": 2,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 2/4 with 0 RBI against High Point. Had an outstanding performance at the plate (0.500)."
+      "narrative": "2/4 with 1 RBI vs. Charlotte (W). Hitting .350 with 2 HR through 22 games."
     },
     "7d3bba9b": {
       "id": "7d3bba9b",
@@ -240,7 +240,7 @@
       "fn": "Tyler",
       "ln": "Lang",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "4",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -295,7 +295,7 @@
       "fn": "Alex",
       "ln": "Ritzer",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "5",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -405,7 +405,7 @@
       "fn": "Max",
       "ln": "Bianchini",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "7",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
@@ -456,7 +456,7 @@
       "fn": "Trey",
       "ln": "Bentley",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "8",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -511,7 +511,7 @@
       "fn": "Devlin",
       "ln": "Smalanskas",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "11",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -595,16 +595,16 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "High Point",
-        "result": "L",
-        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/high-point/boxscore/6491",
+        "date": "2026-03-18",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/charlotte/boxscore/6492",
         "batting": {
           "ab": 3,
-          "r": 1,
-          "h": 1,
+          "r": 2,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 2,
           "so": 1,
           "hr": 0,
           "doubles": 0,
@@ -613,7 +613,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against High Point. Contributed at the plate in the team's L."
+      "narrative": "0/3 with 0 RBI vs. Charlotte (W). Hitting .204 with 2 HR through 15 games."
     },
     "ffd47c84": {
       "id": "ffd47c84",
@@ -672,7 +672,7 @@
       "fn": "Max",
       "ln": "Eichenberger",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
@@ -802,26 +802,26 @@
         "opp_avg": ".294"
       },
       "last_game": {
-        "date": "2026-03-01",
-        "opponent": "Georgia Southern",
-        "result": "L",
-        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/georgia-southern/boxscore/6483",
+        "date": "2026-03-18",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/charlotte/boxscore/6492",
         "batting": null,
         "pitching": {
           "ip": "1.0",
           "h": 1,
           "r": 1,
           "er": 1,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "wp": 0,
-          "hbp": 0,
+          "wp": 1,
+          "hbp": 1,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Georgia Southern, throwing 1.0 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Charlotte (W). At 9.00 ERA through 4.0 innings on the season."
     },
     "9e746a93": {
       "id": "9e746a93",
@@ -829,7 +829,7 @@
       "fn": "Johnny",
       "ln": "Sweeney",
       "pos": "INF",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "17",
       "school": "University of South Carolina Upstate",
       "season_batting": {
@@ -1167,26 +1167,26 @@
         "opp_avg": ".300"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "High Point",
-        "result": "L",
-        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/high-point/boxscore/6491",
+        "date": "2026-03-18",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/charlotte/boxscore/6492",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
+          "ip": "0.2",
+          "h": 3,
+          "r": 4,
+          "er": 4,
           "bb": 1,
           "so": 1,
-          "wp": 0,
+          "wp": 1,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against High Point, throwing 1.0 innings. Allowed 0 earned run(s) with 1 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Charlotte (W). At 12.68 ERA through 7.1 innings on the season."
     },
     "ec299f96": {
       "id": "ec299f96",
@@ -1249,7 +1249,7 @@
       "fn": "Jacob",
       "ln": "Kirby",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "31",
       "school": "University of South Carolina Upstate",
       "season_batting": null,
@@ -1324,18 +1324,18 @@
         "opp_avg": ".300"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "High Point",
+        "date": "2026-03-18",
+        "opponent": "Charlotte",
         "result": "W",
-        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/high-point/boxscore/6490",
+        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/charlotte/boxscore/6492",
         "batting": null,
         "pitching": {
-          "ip": "2.2",
-          "h": 3,
-          "r": 3,
-          "er": 3,
+          "ip": "1.0",
+          "h": 1,
+          "r": 2,
+          "er": 2,
           "bb": 1,
-          "so": 2,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1343,7 +1343,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against High Point, throwing 2.2 innings. Allowed 3 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.0 IP, 0 K vs. Charlotte (W). At 10.99 ERA through 13.1 innings on the season."
     },
     "e2ea51e3": {
       "id": "e2ea51e3",
@@ -1375,26 +1375,26 @@
         "opp_avg": ".357"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "High Point",
-        "result": "L",
-        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/high-point/boxscore/6491",
+        "date": "2026-03-18",
+        "opponent": "Charlotte",
+        "result": "W",
+        "boxscore_url": "https://www.upstatespartans.com/sports/baseball/stats/2026/charlotte/boxscore/6492",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
           "so": 1,
           "wp": 0,
           "hbp": 0,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against High Point, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 1 K vs. Charlotte (W). At 12.27 ERA through 2.2 innings on the season."
     },
     "063eef4a": {
       "id": "063eef4a",
@@ -1606,7 +1606,7 @@
       "fn": "Henry",
       "ln": "Zenor",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "44",
       "school": "University of South Carolina Upstate",
       "season_batting": {

@@ -2,7 +2,7 @@
   "school": "Ball State University",
   "base_url": "https://www.ballstatesports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:33:36.871712Z",
+  "generated_at": "2026-03-20T00:20:41.743914Z",
   "record": "34-42",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -159,25 +159,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Eastern Michigan",
-        "result": "W",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/eastern-michigan/boxscore/14253",
+        "date": "2026-03-18",
+        "opponent": "Butler",
+        "result": "L",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/butler/boxscore/14255",
         "batting": {
-          "ab": 5,
-          "r": 3,
-          "h": 2,
-          "rbi": 1,
-          "bb": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 2,
           "so": 1,
           "hr": 0,
-          "doubles": 0,
+          "doubles": 1,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 2/5 with 1 RBI against Eastern Michigan. Had an outstanding performance at the plate (0.400)."
+      "narrative": "1/3 with 0 RBI vs. Butler (L). Hitting .305 with 0 HR through 19 games."
     },
     "1ea018fe": {
       "id": "1ea018fe",
@@ -349,7 +349,7 @@
       "name": "Ryan Muizelaar",
       "fn": "Ryan",
       "ln": "Muizelaar",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Gr.",
       "num": "9",
       "school": "Ball State University",
@@ -591,10 +591,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Central Michigan",
+        "date": "2026-03-18",
+        "opponent": "Butler",
         "result": "L",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/central-michigan/boxscore/14247",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/butler/boxscore/14255",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -609,7 +609,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against Central Michigan. Struggled to make contact."
+      "narrative": "0/1 with 0 RBI vs. Butler (L). Hitting .181 with 0 HR through 7 games."
     },
     "d22d15a2": {
       "id": "d22d15a2",
@@ -696,26 +696,26 @@
         "opp_avg": ".444"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky",
+        "date": "2026-03-18",
+        "opponent": "Butler",
         "result": "L",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/butler/boxscore/14255",
         "batting": null,
         "pitching": {
           "ip": "1.0",
-          "h": 2,
+          "h": 3,
           "r": 2,
           "er": 2,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
+          "bb": 1,
+          "so": 2,
+          "wp": 1,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 2 earned run(s) with 1 strikeout(s)."
+      "narrative": "1.0 IP, 2 K vs. Butler (L). At 11.25 ERA through 4.0 innings on the season."
     },
     "bc41c555": {
       "id": "bc41c555",
@@ -959,26 +959,26 @@
         "opp_avg": ".276"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky",
+        "date": "2026-03-18",
+        "opponent": "Butler",
         "result": "L",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/butler/boxscore/14255",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
+          "ip": "0.2",
           "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
           "so": 1,
-          "wp": 0,
+          "wp": 1,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 1 earned run(s) with 1 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Butler (L). At 5.14 ERA through 7.0 innings on the season."
     },
     "09002579": {
       "id": "09002579",
@@ -1480,7 +1480,7 @@
       "fn": "Preston",
       "ln": "Murphy",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "35",
       "school": "Ball State University",
       "season_batting": {
@@ -1659,7 +1659,7 @@
       "fn": "Jeremy",
       "ln": "Jones",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "39",
       "school": "Ball State University",
       "season_batting": null,
@@ -1683,26 +1683,26 @@
         "opp_avg": ".327"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Kentucky",
+        "date": "2026-03-18",
+        "opponent": "Butler",
         "result": "L",
-        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/kentucky/boxscore/14250",
+        "boxscore_url": "https://www.ballstatesports.com/sports/baseball/stats/2026/butler/boxscore/14255",
         "batting": null,
         "pitching": {
-          "ip": "1.0",
-          "h": 4,
-          "r": 5,
-          "er": 4,
-          "bb": 1,
-          "so": 0,
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
           "hbp": 0,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Kentucky, throwing 1.0 innings. Allowed 4 earned run(s) with 0 strikeout(s)."
+      "narrative": "0.2 IP, 1 K vs. Butler (L). At 10.45 ERA through 11.2 innings on the season."
     },
     "6b9bb9ef": {
       "id": "6b9bb9ef",

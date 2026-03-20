@@ -2,7 +2,7 @@
   "school": "Lafayette College",
   "base_url": "https://www.goleopards.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:44:46.614457Z",
+  "generated_at": "2026-03-20T00:32:10.968610Z",
   "record": "2-13",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -198,8 +198,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Bucknell",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.goleopards.com/boxscore.aspx?id=13871&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Bucknell (W 9-8). Hitting .179 with 4 HR through 13 games."
     },
     "6ae1b588": {
       "id": "6ae1b588",
@@ -287,8 +302,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "La Salle",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.goleopards.com/boxscore.aspx?id=13874&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. La Salle (L 3-5). Hitting .071 with 0 HR through 9 games."
     },
     "8066b54a": {
       "id": "8066b54a",
@@ -324,8 +354,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "La Salle",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.goleopards.com/boxscore.aspx?id=13874&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 1 RBI vs. La Salle (L 3-5). Hitting .074 with 0 HR through 8 games."
     },
     "385dbffc": {
       "id": "385dbffc",
@@ -413,8 +458,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "La Salle",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.goleopards.com/boxscore.aspx?id=13874&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. La Salle (L 3-5). Hitting .285 with 0 HR through 15 games."
     },
     "dc71762f": {
       "id": "dc71762f",
@@ -793,8 +853,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Bucknell",
+        "result": "W 8-0",
+        "boxscore_url": "https://www.goleopards.com/boxscore.aspx?id=13872&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Bucknell (W 8-0). Hitting .312 with 2 HR through 12 games."
     },
     "2dd6daad": {
       "id": "2dd6daad",
@@ -1446,7 +1521,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "La Salle",
+        "result": "L 3-5",
+        "boxscore_url": "https://www.goleopards.com/boxscore.aspx?id=13874&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "219a9f58": {

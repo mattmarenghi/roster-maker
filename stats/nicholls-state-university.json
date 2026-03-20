@@ -2,7 +2,7 @@
   "school": "Nicholls State University",
   "base_url": "https://www.geauxcolonels.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:49:45.594211Z",
+  "generated_at": "2026-03-20T00:37:40.277769Z",
   "record": "11-12",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -72,7 +72,7 @@
       "fn": "Christian",
       "ln": "Westcott",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "2",
       "school": "Nicholls State University",
       "season_batting": {
@@ -109,7 +109,7 @@
       "fn": "Aaron",
       "ln": "Biediger",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "3",
       "school": "Nicholls State University",
       "season_batting": {
@@ -146,7 +146,7 @@
       "fn": "Greyson",
       "ln": "Shafer",
       "pos": "UTL",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "4",
       "school": "Nicholls State University",
       "season_batting": {
@@ -302,7 +302,7 @@
       "fn": "Matt",
       "ln": "Melancon",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "7",
       "school": "Nicholls State University",
       "season_batting": {
@@ -372,7 +372,7 @@
       "fn": "Haden",
       "ln": "Luke",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "8",
       "school": "Nicholls State University",
       "season_batting": null,
@@ -507,7 +507,7 @@
       "fn": "Tyler",
       "ln": "Johnson",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "12",
       "school": "Nicholls State University",
       "season_batting": {
@@ -609,8 +609,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Southern Miss",
+        "result": "W 4-0",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Southern Miss (W 4-0). Hitting .329 with 5 HR through 22 games."
     },
     "bc29acfa": {
       "id": "bc29acfa",
@@ -646,8 +661,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Southern Miss",
+        "result": "W 4-0",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Southern Miss (W 4-0). Hitting .269 with 1 HR through 19 games."
     },
     "993c0067": {
       "id": "993c0067",
@@ -766,7 +796,7 @@
       "fn": "Austin",
       "ln": "Vargas",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "19",
       "school": "Nicholls State University",
       "season_batting": null,
@@ -968,7 +998,7 @@
       "fn": "Fisher",
       "ln": "Ingersoll",
       "pos": "UTL",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "Nicholls State University",
       "season_batting": {
@@ -1079,7 +1109,7 @@
       "fn": "Hudson",
       "ln": "Mattox",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "25",
       "school": "Nicholls State University",
       "season_batting": {
@@ -1210,8 +1240,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Southern Miss",
+        "result": "W 4-0",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Southern Miss (W 4-0). Hitting .281 with 3 HR through 22 games."
     },
     "2831fca6": {
       "id": "2831fca6",
@@ -1483,7 +1528,7 @@
       "fn": "Lex",
       "ln": "Melancon",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "36",
       "school": "Nicholls State University",
       "season_batting": {
@@ -1841,7 +1886,7 @@
       "fn": "Noah",
       "ln": "Melancon",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "45",
       "school": "Nicholls State University",
       "season_batting": {

@@ -2,7 +2,7 @@
   "school": "East Carolina University",
   "base_url": "https://www.ecupirates.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:40:01.812453Z",
+  "generated_at": "2026-03-20T00:27:26.024411Z",
   "record": "13-8-1",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -130,7 +130,7 @@
       "fn": "Davin",
       "ln": "Whitaker",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "3",
       "school": "East Carolina University",
       "season_batting": {
@@ -214,17 +214,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-11",
-        "opponent": "William and Mary",
+        "date": "2026-03-13",
+        "opponent": "Penn",
         "result": "W",
-        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/william-and-mary/boxscore/14059",
+        "boxscore_url": "https://www.ecupirates.com/sports/baseball/stats/2026/penn/boxscore/14060",
         "batting": {
           "ab": 1,
-          "r": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -232,7 +232,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. William and Mary (W). Hitting .000 with 0 HR through 13 games."
+      "narrative": "0/1 with 0 RBI vs. Penn (W). Hitting .000 with 0 HR through 13 games."
     },
     "c0195023": {
       "id": "c0195023",
@@ -240,7 +240,7 @@
       "fn": "Ryan",
       "ln": "Towers",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "7",
       "school": "East Carolina University",
       "season_batting": null,
@@ -376,7 +376,7 @@
       "fn": "Brett",
       "ln": "Antolick",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "9",
       "school": "East Carolina University",
       "season_batting": null,
@@ -1754,7 +1754,7 @@
       "fn": "Chance",
       "ln": "Hall",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "61",
       "school": "East Carolina University",
       "season_batting": {
@@ -1809,7 +1809,7 @@
       "fn": "Gavin",
       "ln": "Marley",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "99",
       "school": "East Carolina University",
       "season_batting": null,

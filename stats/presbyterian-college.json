@@ -2,7 +2,7 @@
   "school": "Presbyterian College",
   "base_url": "https://gobluehose.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:52:03.081727Z",
+  "generated_at": "2026-03-20T00:40:07.238815Z",
   "record": "4-18",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -155,7 +155,7 @@
       "name": "Andrew Albertus",
       "fn": "Andrew",
       "ln": "Albertus",
-      "pos": "ULT",
+      "pos": "UTL",
       "yr": "So.",
       "num": "5",
       "school": "Presbyterian College",
@@ -185,22 +185,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UNC Asheville",
-        "result": "W 11-1",
-        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14138&path=bb",
+        "date": "2026-03-17",
+        "opponent": "Wofford",
+        "result": "L 2-9",
+        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14139&path=bb",
         "batting": {
           "ab": 4,
-          "r": 1,
-          "h": 2,
-          "rbi": 1,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 4,
-          "pos": "lf"
+          "so": 0,
+          "pos": "lf/2b"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 1 RBI vs. UNC Asheville (W 11-1). Hitting .285 with 0 HR through 20 games."
+      "narrative": "1/4 with 0 RBI vs. Wofford (L 2-9). Hitting .282 with 0 HR through 21 games."
     },
     "45c92fa6": {
       "id": "45c92fa6",
@@ -236,8 +236,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Wofford",
+        "result": "L 2-9",
+        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14139&path=bb",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b/ss"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Wofford (L 2-9). Hitting .178 with 0 HR through 16 games."
     },
     "51f58c2b": {
       "id": "51f58c2b",
@@ -741,8 +756,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Wofford",
+        "result": "L 2-9",
+        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14139&path=bb",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Wofford (L 2-9). Hitting .283 with 0 HR through 21 games."
     },
     "07c46c03": {
       "id": "07c46c03",
@@ -967,8 +997,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Wofford",
+        "result": "L 2-9",
+        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14139&path=bb",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Wofford (L 2-9). Hitting .250 with 1 HR through 14 games."
     },
     "70d14a74": {
       "id": "70d14a74",
@@ -1151,22 +1196,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UNC Asheville",
-        "result": "W 11-1",
-        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14138&path=bb",
+        "date": "2026-03-17",
+        "opponent": "Wofford",
+        "result": "L 2-9",
+        "boxscore_url": "https://gobluehose.com/boxscore.aspx?id=14139&path=bb",
         "batting": {
-          "ab": 3,
-          "r": 2,
+          "ab": 4,
+          "r": 1,
           "h": 1,
-          "rbi": 1,
+          "rbi": 2,
           "bb": 0,
-          "so": 0,
-          "pos": "rf"
+          "so": 4,
+          "pos": "rf/lf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 1 RBI vs. UNC Asheville (W 11-1). Hitting .194 with 3 HR through 20 games."
+      "narrative": "1/4 with 2 RBI vs. Wofford (L 2-9). Hitting .197 with 4 HR through 21 games."
     },
     "7ae0fa0d": {
       "id": "7ae0fa0d",

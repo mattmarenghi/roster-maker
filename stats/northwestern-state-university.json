@@ -2,7 +2,7 @@
   "school": "Northwestern State University",
   "base_url": "https://www.nsudemons.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:50:39.436297Z",
+  "generated_at": "2026-03-20T00:38:25.660431Z",
   "record": "13-8",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -344,7 +344,7 @@
       "name": "Thomas Marsala III",
       "fn": "Thomas",
       "ln": "Marsala III",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "9",
       "school": "Northwestern State University",
@@ -373,8 +373,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Tulane",
+        "result": "W 2-0",
+        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Tulane (W 2-0). Hitting .329 with 5 HR through 21 games."
     },
     "b86a4d54": {
       "id": "b86a4d54",
@@ -461,22 +476,22 @@
         "opp_avg": ".294"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas AM-Corpus Christi",
-        "result": "W 10-4",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14494&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Tulane",
+        "result": "W 2-0",
+        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 3,
-          "h": 2,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 3,
-          "pos": "rf"
+          "bb": 0,
+          "so": 2,
+          "pos": "rf/lf/2b"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Texas AM-Corpus Christi (W 10-4). Hitting .337 with 0 HR through 18 games."
+      "narrative": "1/4 with 0 RBI vs. Tulane (W 2-0). Hitting .333 with 0 HR through 19 games."
     },
     "12602ba0": {
       "id": "12602ba0",
@@ -678,7 +693,15 @@
         "opponent": "Tulane",
         "result": "W 2-0",
         "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
-        "batting": null,
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
         "pitching": {
           "ip": "4.0",
           "h": 3,
@@ -729,8 +752,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Tulane",
+        "result": "W 2-0",
+        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. Tulane (W 2-0). Hitting .250 with 2 HR through 16 games."
     },
     "d3236374": {
       "id": "d3236374",
@@ -766,8 +804,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Tulane",
+        "result": "W 2-0",
+        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH/rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Tulane (W 2-0). Hitting .300 with 2 HR through 15 games."
     },
     "9203ae15": {
       "id": "9203ae15",
@@ -804,22 +857,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas AM-Corpus Christi",
-        "result": "W 4-3",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14495&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Tulane",
+        "result": "W 2-0",
+        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "lf"
+          "pos": "cf/lf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Texas AM-Corpus Christi (W 4-3). Hitting .325 with 3 HR through 17 games."
+      "narrative": "0/4 with 0 RBI vs. Tulane (W 2-0). Hitting .297 with 3 HR through 18 games."
     },
     "61f5fcbf": {
       "id": "61f5fcbf",
@@ -930,7 +983,15 @@
         "opponent": "Tulane",
         "result": "W 2-0",
         "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
-        "batting": null,
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
         "pitching": {
           "ip": "4.0",
           "h": 3,
@@ -952,7 +1013,7 @@
       "name": "Ethan Menard",
       "fn": "Ethan",
       "ln": "Menard",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "25",
       "school": "Northwestern State University",
@@ -1118,10 +1179,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Texas AM-Corpus Christi",
-        "result": "W 4-3",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14495&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Tulane",
+        "result": "W 2-0",
+        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1129,7 +1190,7 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PR"
+          "pos": "PR/dh"
         },
         "pitching": null
       },
@@ -1434,22 +1495,22 @@
         "opp_avg": ".294"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas AM-Corpus Christi",
-        "result": "W 10-4",
-        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14494&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Tulane",
+        "result": "W 2-0",
+        "boxscore_url": "https://www.nsudemons.com/boxscore.aspx?id=14497&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 3,
-          "h": 2,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 3,
-          "pos": "rf"
+          "bb": 0,
+          "so": 2,
+          "pos": "rf/lf/2b"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Texas AM-Corpus Christi (W 10-4). Hitting .337 with 0 HR through 18 games."
+      "narrative": "1/4 with 0 RBI vs. Tulane (W 2-0). Hitting .333 with 0 HR through 19 games."
     },
     "bba8a2aa": {
       "id": "bba8a2aa",

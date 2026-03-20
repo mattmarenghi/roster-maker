@@ -2,13 +2,13 @@
   "school": "Niagara University",
   "base_url": "https://www.purpleeagles.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:49:29.209064Z",
+  "generated_at": "2026-03-20T00:37:16.443588Z",
   "record": "5-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "NJIT",
     "result": "L 6-8",
-    "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+    "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
     "recap_url": "https://www.purpleeagles.com/news/2026/3/15/aarts-grand-slam-leads-baseball-to-sweep-of-njit.aspx",
     "recap_headline": "Niagara University Athletics",
     "recap_text": ""
@@ -47,7 +47,7 @@
         "date": "2026-03-14",
         "opponent": "NJIT",
         "result": "L 4-7",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -79,7 +79,7 @@
       "fn": "John",
       "ln": "Ondus",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "4",
       "school": "Niagara University",
       "season_batting": null,
@@ -138,7 +138,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -197,7 +197,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -261,7 +261,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -308,7 +308,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -372,7 +372,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -391,7 +391,7 @@
       "name": "Curtis McKay",
       "fn": "Curtis",
       "ln": "McKay",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "10",
       "school": "Niagara University",
@@ -420,8 +420,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "NJIT",
+        "result": "L 6-8",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. NJIT (L 6-8). Hitting .183 with 1 HR through 15 games."
     },
     "e512eed7": {
       "id": "e512eed7",
@@ -461,7 +476,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 6,
           "r": 0,
@@ -508,7 +523,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -572,7 +587,7 @@
         "date": "2026-03-14",
         "opponent": "NJIT",
         "result": "L 4-7",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -592,7 +607,7 @@
       "fn": "Elijha",
       "ln": "Hammill",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "14",
       "school": "Niagara University",
       "season_batting": {
@@ -624,7 +639,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -676,7 +691,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -728,7 +743,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -775,7 +790,7 @@
         "date": "2026-03-14",
         "opponent": "NJIT",
         "result": "L 4-7",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -834,7 +849,7 @@
         "date": "2026-03-13",
         "opponent": "NJIT",
         "result": "L 3-6",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17738&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -894,8 +909,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "NJIT",
+        "result": "L 6-8",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. NJIT (L 6-8). Hitting .297 with 0 HR through 14 games."
     },
     "50936d19": {
       "id": "50936d19",
@@ -930,7 +960,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -989,7 +1019,7 @@
         "date": "2026-03-14",
         "opponent": "NJIT",
         "result": "L 4-7",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1081,8 +1111,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "NJIT",
+        "result": "L 6-8",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 5,
+          "bb": 0,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/5 with 5 RBI vs. NJIT (L 6-8). Hitting .142 with 1 HR through 5 games."
     },
     "850c280c": {
       "id": "850c280c",
@@ -1090,7 +1135,7 @@
       "fn": "Andrew",
       "ln": "Baumgart",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "28",
       "school": "Niagara University",
       "season_batting": null,
@@ -1186,7 +1231,7 @@
         "date": "2026-03-14",
         "opponent": "NJIT",
         "result": "L 4-7",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1233,7 +1278,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1297,7 +1342,7 @@
         "date": "2026-03-15",
         "opponent": "NJIT",
         "result": "L 6-8",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17740&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -1349,7 +1394,7 @@
         "date": "2026-03-14",
         "opponent": "NJIT",
         "result": "L 4-7",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17739&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1396,7 +1441,7 @@
         "date": "2026-03-13",
         "opponent": "NJIT",
         "result": "L 3-6",
-        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17738&path=",
+        "boxscore_url": "https://www.purpleeagles.com/boxscore.aspx?id=17738&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

@@ -2,7 +2,7 @@
   "school": "Morehead State University",
   "base_url": "https://www.msueagles.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:48:57.460715Z",
+  "generated_at": "2026-03-20T00:36:41.922033Z",
   "record": "10-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -48,8 +48,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Western Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.msueagles.com/boxscore.aspx?id=6645&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Western Carolina (W 8-7). Hitting .275 with 4 HR through 13 games."
     },
     "d475395a": {
       "id": "d475395a",
@@ -109,7 +124,7 @@
       "fn": "Davis",
       "ln": "Germann",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "Morehead State University",
       "season_batting": {
@@ -138,22 +153,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Western Carolina",
-        "result": "W 13-4",
-        "boxscore_url": "https://www.msueagles.com/boxscore.aspx?id=6644&path=baseball",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.msueagles.com/boxscore.aspx?id=6645&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 0,
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "cf"
+          "pos": "cf/rf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Western Carolina (W 13-4). Hitting .305 with 3 HR through 19 games."
+      "narrative": "1/5 with 1 RBI vs. Western Carolina (W 8-7). Hitting .305 with 3 HR through 19 games."
     },
     "54ca6c4c": {
       "id": "54ca6c4c",
@@ -226,8 +241,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Western Carolina",
+        "result": "W 11-0",
+        "boxscore_url": "https://www.msueagles.com/boxscore.aspx?id=6747&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph/rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Western Carolina (W 11-0). Hitting .250 with 0 HR through 8 games."
     },
     "62514f2e": {
       "id": "62514f2e",
@@ -235,7 +265,7 @@
       "fn": "Carter",
       "ln": "Owens",
       "pos": "OF/RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "",
       "school": "Morehead State University",
       "season_batting": null,
@@ -374,8 +404,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Western Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.msueagles.com/boxscore.aspx?id=6645&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Western Carolina (W 8-7). Hitting .291 with 2 HR through 21 games."
     },
     "cf4b5b4e": {
       "id": "cf4b5b4e",
@@ -383,7 +428,7 @@
       "fn": "Austyn",
       "ln": "Peak",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "Morehead State University",
       "season_batting": {
@@ -539,7 +584,7 @@
       "fn": "Callum",
       "ln": "McGill",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "",
       "school": "Morehead State University",
       "season_batting": null,
@@ -599,8 +644,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Western Carolina",
+        "result": "W 8-7",
+        "boxscore_url": "https://www.msueagles.com/boxscore.aspx?id=6645&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Western Carolina (W 8-7). Hitting .263 with 2 HR through 21 games."
     },
     "f04152f8": {
       "id": "f04152f8",
@@ -608,7 +668,7 @@
       "fn": "Miller",
       "ln": "Murray",
       "pos": "C",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "",
       "school": "Morehead State University",
       "season_batting": {
@@ -1392,7 +1452,7 @@
       "fn": "Brady",
       "ln": "Fitzpatrick",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "",
       "school": "Morehead State University",
       "season_batting": null,

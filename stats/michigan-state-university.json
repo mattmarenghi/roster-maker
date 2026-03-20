@@ -2,7 +2,7 @@
   "school": "Michigan State University",
   "base_url": "https://msuspartans.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:48:01.362683Z",
+  "generated_at": "2026-03-20T00:35:48.477982Z",
   "record": "15-29",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -320,25 +320,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Rutgers",
+        "date": "2026-03-18",
+        "opponent": "Michigan",
         "result": "L",
-        "boxscore_url": "https://msuspartans.com/sports/baseball/stats/2026/rutgers/boxscore/20329",
+        "boxscore_url": "https://msuspartans.com/sports/baseball/stats/2026/michigan/boxscore/20330",
         "batting": {
-          "ab": 5,
+          "ab": 4,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
+          "h": 2,
+          "rbi": 0,
           "bb": 0,
           "so": 1,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "Went 1/5 with 1 RBI against Rutgers. Struggled to make contact."
+      "narrative": "2/4 with 0 RBI vs. Michigan (L). Hitting .283 with 2 HR through 18 games."
     },
     "e3eb7c4e": {
       "id": "e3eb7c4e",
@@ -346,7 +346,7 @@
       "fn": "Nick",
       "ln": "Williams",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "10",
       "school": "Michigan State University",
       "season_batting": {
@@ -586,26 +586,26 @@
         "opp_avg": ".394"
       },
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Rutgers",
+        "date": "2026-03-18",
+        "opponent": "Michigan",
         "result": "L",
-        "boxscore_url": "https://msuspartans.com/sports/baseball/stats/2026/rutgers/boxscore/20327",
+        "boxscore_url": "https://msuspartans.com/sports/baseball/stats/2026/michigan/boxscore/20330",
         "batting": null,
         "pitching": {
-          "ip": "2.1",
+          "ip": "2.0",
           "h": 2,
-          "r": 2,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Rutgers, throwing 2.1 innings. Allowed 1 earned run(s) with 0 strikeout(s)."
+      "narrative": "2.0 IP, 2 K vs. Michigan (L). At 9.51 ERA through 14.2 innings on the season."
     },
     "1960f09b": {
       "id": "1960f09b",
@@ -613,7 +613,7 @@
       "fn": "Brady",
       "ln": "Chambers",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "16",
       "school": "Michigan State University",
       "season_batting": null,
@@ -719,7 +719,7 @@
       "fn": "Adam",
       "ln": "Broski",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "19",
       "school": "Michigan State University",
       "season_batting": {
@@ -1218,26 +1218,26 @@
         "opp_avg": ".325"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Rutgers",
+        "date": "2026-03-18",
+        "opponent": "Michigan",
         "result": "L",
-        "boxscore_url": "https://msuspartans.com/sports/baseball/stats/2026/rutgers/boxscore/20329",
+        "boxscore_url": "https://msuspartans.com/sports/baseball/stats/2026/michigan/boxscore/20330",
         "batting": null,
         "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 2,
-          "er": 2,
+          "ip": "2.0",
+          "h": 1,
+          "r": 1,
+          "er": 0,
           "bb": 1,
-          "so": 0,
+          "so": 1,
           "wp": 1,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Rutgers, throwing 1.1 innings. Allowed 2 earned run(s) with 0 strikeout(s)."
+      "narrative": "2.0 IP, 1 K vs. Michigan (L). At 8.90 ERA through 17.2 innings on the season."
     },
     "c934575b": {
       "id": "c934575b",

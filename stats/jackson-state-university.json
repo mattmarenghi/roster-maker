@@ -2,13 +2,13 @@
   "school": "Jackson State University",
   "base_url": "https://www.gojsutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:43:37.776568Z",
+  "generated_at": "2026-03-20T00:30:56.825351Z",
   "record": "10-12",
   "most_recent_game": {
     "date": "2026-03-17",
     "opponent": "Mississippi State",
     "result": "W 17-1",
-    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+    "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
     "recap_url": "https://www.gojsutigers.com/news/2026/3/17/baseball-tigers-fall-to-no-6-missisippi-state-on-the-road-in-mid-week-action.aspx",
     "recap_headline": "Jackson State University",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -99,7 +99,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -195,7 +195,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -247,7 +247,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -326,7 +326,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -390,7 +390,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -437,7 +437,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -497,8 +497,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Mississippi State (W 17-1). Hitting .372 with 2 HR through 16 games."
     },
     "b65df6f1": {
       "id": "b65df6f1",
@@ -533,7 +548,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -594,22 +609,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Texas Southern",
-        "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "result": "L 12-17",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
+          "ab": 3,
+          "r": 0,
           "h": 0,
-          "rbi": 1,
-          "bb": 1,
-          "so": 4,
-          "pos": "lf"
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "lf/rf"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 1 RBI vs. Texas Southern (W 15-9). Hitting .052 with 0 HR through 10 games."
+      "narrative": "0/3 with 0 RBI vs. Texas Southern (L 12-17). Hitting .052 with 0 HR through 10 games."
     },
     "db9a4139": {
       "id": "db9a4139",
@@ -664,34 +679,22 @@
         "opp_avg": ".667"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Texas Southern",
-        "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "p"
+          "pos": "3b"
         },
-        "pitching": {
-          "ip": "0.2",
-          "h": 4,
-          "r": 3,
-          "er": 3,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
+        "pitching": null
       },
-      "narrative": "0.2 IP, 1 K vs. Texas Southern (W 15-9). At 135.00 ERA through 0.2 innings on the season."
+      "narrative": "0/3 with 0 RBI vs. Mississippi State (W 17-1). Hitting .193 with 2 HR through 20 games."
     },
     "716e0202": {
       "id": "716e0202",
@@ -726,7 +729,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -808,7 +811,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -872,7 +875,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -924,7 +927,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -976,7 +979,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1065,7 +1068,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1113,8 +1116,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Mississippi State",
+        "result": "W 17-1",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Mississippi State (W 17-1). Hitting .250 with 1 HR through 3 games."
     },
     "8a6230fc": {
       "id": "8a6230fc",
@@ -1149,7 +1167,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1208,7 +1226,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1267,7 +1285,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1358,7 +1376,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1417,7 +1435,7 @@
         "date": "2026-03-14",
         "opponent": "Texas Southern",
         "result": "W 15-9",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5204&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1476,7 +1494,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1540,7 +1558,7 @@
         "date": "2026-03-17",
         "opponent": "Mississippi State",
         "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1587,7 +1605,7 @@
         "date": "2026-03-15",
         "opponent": "Texas Southern",
         "result": "L 12-17",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=",
+        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5205&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

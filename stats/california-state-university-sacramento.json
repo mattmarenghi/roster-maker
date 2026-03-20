@@ -2,7 +2,7 @@
   "school": "California State University, Sacramento",
   "base_url": "https://www.hornetsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:37:01.979113Z",
+  "generated_at": "2026-03-20T00:24:13.524671Z",
   "record": "8-13",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -71,7 +71,7 @@
       "name": "Ryan Ellis",
       "fn": "Ryan",
       "ln": "Ellis",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "2",
       "school": "California State University, Sacramento",
@@ -153,22 +153,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Pacific",
-        "result": "W 7-6",
-        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16435&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 2,
-          "h": 2,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 2,
-          "so": 2,
-          "pos": "dh"
+          "so": 0,
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 0 RBI vs. Pacific (W 7-6). Hitting .333 with 1 HR through 20 games."
+      "narrative": "1/3 with 0 RBI vs. San Francisco (L 3-8). Hitting .333 with 1 HR through 21 games."
     },
     "a654c1b2": {
       "id": "a654c1b2",
@@ -339,7 +339,7 @@
       "fn": "Brett",
       "ln": "Ott",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "7",
       "school": "California State University, Sacramento",
       "season_batting": {
@@ -391,7 +391,7 @@
       "fn": "Elijah",
       "ln": "Rogalski",
       "pos": "P",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "9",
       "school": "California State University, Sacramento",
       "season_batting": null,
@@ -478,8 +478,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. San Francisco (L 3-8). Hitting .327 with 1 HR through 20 games."
     },
     "4978c5d1": {
       "id": "4978c5d1",
@@ -539,7 +554,7 @@
       "fn": "Nikhil",
       "ln": "Beasley",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "13",
       "school": "California State University, Sacramento",
       "season_batting": {
@@ -623,7 +638,7 @@
       "fn": "Jakob",
       "ln": "Poturnak",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "15",
       "school": "California State University, Sacramento",
       "season_batting": {
@@ -651,8 +666,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. San Francisco (L 3-8). Hitting .240 with 2 HR through 21 games."
     },
     "3295909d": {
       "id": "3295909d",
@@ -747,7 +777,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "San Francisco",
+        "result": "L 3-8",
+        "boxscore_url": "https://www.hornetsports.com/boxscore.aspx?id=16437&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "f6518583": {
@@ -756,7 +801,7 @@
       "fn": "Andrew",
       "ln": "Monson",
       "pos": "P",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "18",
       "school": "California State University, Sacramento",
       "season_batting": null,
@@ -1529,7 +1574,7 @@
       "fn": "Ari",
       "ln": "Kligman",
       "pos": "P",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "47",
       "school": "California State University, Sacramento",
       "season_batting": null,

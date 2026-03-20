@@ -2,7 +2,7 @@
   "school": "The Citadel",
   "base_url": "https://www.citadelsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:57:33.135321Z",
+  "generated_at": "2026-03-20T00:46:30.455961Z",
   "record": "8-11",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -48,8 +48,23 @@
         "sb_att": 12
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Clemson",
+        "result": "L 3-9",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Clemson (L 3-9). Hitting .339 with 0 HR through 17 games."
     },
     "bca14642": {
       "id": "bca14642",
@@ -161,7 +176,7 @@
       "fn": "Sam",
       "ln": "Dansky",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "3",
       "school": "The Citadel",
       "season_batting": {
@@ -345,7 +360,7 @@
       "name": "Carson Hodges",
       "fn": "Carson",
       "ln": "Hodges",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Fr.",
       "num": "10",
       "school": "The Citadel",
@@ -374,8 +389,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Clemson",
+        "result": "L 3-9",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph/3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 1 RBI vs. Clemson (L 3-9). Hitting .052 with 0 HR through 10 games."
     },
     "12836acb": {
       "id": "12836acb",
@@ -591,7 +621,7 @@
       "name": "Jackson Proctor",
       "fn": "Jackson",
       "ln": "Proctor",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Jr.",
       "num": "15",
       "school": "The Citadel",
@@ -809,7 +839,7 @@
       "fn": "Christian",
       "ln": "Stratis",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "20",
       "school": "The Citadel",
       "season_batting": {
@@ -860,7 +890,7 @@
       "name": "Phillips Daniels",
       "fn": "Phillips",
       "ln": "Daniels",
-      "pos": "C/UT",
+      "pos": "C/UTL",
       "yr": "Sr.",
       "num": "21",
       "school": "The Citadel",
@@ -912,7 +942,7 @@
       "name": "Michael Gibson",
       "fn": "Michael",
       "ln": "Gibson",
-      "pos": "RHP/UTIL",
+      "pos": "RHP/UTL",
       "yr": "Sr.",
       "num": "22",
       "school": "The Citadel",
@@ -1114,8 +1144,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Clemson",
+        "result": "L 3-9",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Clemson (L 3-9). Hitting .234 with 3 HR through 18 games."
     },
     "ec83fcfd": {
       "id": "ec83fcfd",
@@ -1151,8 +1196,23 @@
         "sb_att": 9
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Clemson",
+        "result": "L 3-9",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Clemson (L 3-9). Hitting .225 with 0 HR through 19 games."
     },
     "38c24151": {
       "id": "38c24151",
@@ -1212,7 +1272,7 @@
       "fn": "Noah",
       "ln": "Cadiz",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "31",
       "school": "The Citadel",
       "season_batting": {
@@ -1263,7 +1323,7 @@
       "name": "TJ Anderson",
       "fn": "TJ",
       "ln": "Anderson",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "32",
       "school": "The Citadel",
@@ -1493,7 +1553,7 @@
       "fn": "Mason",
       "ln": "Yokum",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "38",
       "school": "The Citadel",
       "season_batting": null,

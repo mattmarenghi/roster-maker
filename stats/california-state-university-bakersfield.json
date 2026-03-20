@@ -2,7 +2,7 @@
   "school": "California State University, Bakersfield",
   "base_url": "https://www.gorunners.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:36:09.417065Z",
+  "generated_at": "2026-03-20T00:23:30.890126Z",
   "record": "7-14",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -48,8 +48,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Cal Poly",
+        "result": "W 6-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11067&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Cal Poly (W 6-3). Hitting .307 with 0 HR through 8 games."
     },
     "c4ce5936": {
       "id": "c4ce5936",
@@ -57,7 +72,7 @@
       "fn": "Elijah",
       "ln": "Pelayo",
       "pos": "IF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "2",
       "school": "California State University, Bakersfield",
       "season_batting": {
@@ -109,7 +124,7 @@
       "fn": "Yahir",
       "ln": "Acevedo",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "3",
       "school": "California State University, Bakersfield",
       "season_batting": {
@@ -161,7 +176,7 @@
       "fn": "Dusty",
       "ln": "Vela",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "4",
       "school": "California State University, Bakersfield",
       "season_batting": {
@@ -189,15 +204,30 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "USC",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11068&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. USC (W 4-3). Hitting .230 with 0 HR through 16 games."
     },
     "b29b8250": {
       "id": "b29b8250",
       "name": "Lewis Barnum V",
       "fn": "Lewis",
       "ln": "Barnum V",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Gr.",
       "num": "5",
       "school": "California State University, Bakersfield",
@@ -235,7 +265,7 @@
       "fn": "Gethse",
       "ln": "Ulloa",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "6",
       "school": "California State University, Bakersfield",
       "season_batting": null,
@@ -358,7 +388,7 @@
       "fn": "Roman",
       "ln": "Bracamonte",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "9",
       "school": "California State University, Bakersfield",
       "season_batting": null,
@@ -440,7 +470,7 @@
       "name": "Al Nsah",
       "fn": "Al",
       "ln": "Nsah",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Jr.",
       "num": "11",
       "school": "California State University, Bakersfield",
@@ -469,7 +499,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "USC",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11068&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "a12b3525": {
@@ -687,22 +732,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Cal Poly",
-        "result": "W 6-3",
-        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11067&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "USC",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11068&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 0,
           "r": 0,
-          "h": 2,
-          "rbi": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 1,
           "so": 0,
-          "pos": "c"
+          "pos": "ph/c"
         },
         "pitching": null
       },
-      "narrative": "Went 2/3 with 1 RBI against Cal Poly. Had an outstanding performance at the plate (0.667)."
+      "narrative": null
     },
     "778aea8c": {
       "id": "778aea8c",
@@ -771,22 +816,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Cal Poly",
-        "result": "W 6-2",
-        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11066&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "USC",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11068&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 1,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "lf"
+          "pos": "ph/lf"
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Cal Poly. Contributed at the plate in the team's W 6-2."
+      "narrative": "0/1 with 0 RBI vs. USC (W 4-3). Hitting .326 with 3 HR through 20 games."
     },
     "073a6bdb": {
       "id": "073a6bdb",
@@ -926,8 +971,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "USC",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11068&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. USC (W 4-3). Hitting .166 with 2 HR through 19 games."
     },
     "ebcfe3b1": {
       "id": "ebcfe3b1",
@@ -935,7 +995,7 @@
       "fn": "Carlos",
       "ln": "Cordero",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "California State University, Bakersfield",
       "season_batting": {
@@ -963,8 +1023,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Cal Poly",
+        "result": "W 6-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11067&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Cal Poly (W 6-3). Hitting .238 with 0 HR through 17 games."
     },
     "51a9c669": {
       "id": "51a9c669",
@@ -1000,8 +1075,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "USC",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11068&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 2,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 1 RBI vs. USC (W 4-3). Hitting .421 with 4 HR through 21 games."
     },
     "acf2b270": {
       "id": "acf2b270",
@@ -1164,7 +1254,7 @@
       "fn": "Payton",
       "ln": "Pudenz",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "30",
       "school": "California State University, Bakersfield",
       "season_batting": null,
@@ -1255,7 +1345,7 @@
       "fn": "Casey",
       "ln": "Leavitt-McGee",
       "pos": "1B/OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "32",
       "school": "California State University, Bakersfield",
       "season_batting": {
@@ -1292,7 +1382,7 @@
       "fn": "Alex",
       "ln": "Navarrete",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "34",
       "school": "California State University, Bakersfield",
       "season_batting": null,
@@ -1351,7 +1441,7 @@
       "fn": "Davis",
       "ln": "Goodwin",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "35",
       "school": "California State University, Bakersfield",
       "season_batting": {
@@ -1472,7 +1562,7 @@
       "fn": "Dante",
       "ln": "Jackson",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "39",
       "school": "California State University, Bakersfield",
       "season_batting": null,
@@ -1719,8 +1809,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Cal Poly",
+        "result": "W 6-3",
+        "boxscore_url": "https://www.gorunners.com/boxscore.aspx?id=11067&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Cal Poly (W 6-3). Hitting .148 with 0 HR through 16 games."
     },
     "4bfbdb4a": {
       "id": "4bfbdb4a",
@@ -1728,7 +1833,7 @@
       "fn": "Ryan",
       "ln": "King",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "51",
       "school": "California State University, Bakersfield",
       "season_batting": null,
@@ -1760,7 +1865,7 @@
       "fn": "Garrett",
       "ln": "Teunissen",
       "pos": "IF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "55",
       "school": "California State University, Bakersfield",
       "season_batting": {

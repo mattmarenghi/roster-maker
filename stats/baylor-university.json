@@ -2,7 +2,7 @@
   "school": "Baylor University",
   "base_url": "https://www.baylorbears.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:33:54.701323Z",
+  "generated_at": "2026-03-20T00:21:02.450551Z",
   "record": "29-38",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -75,7 +75,7 @@
       "fn": "Brytton",
       "ln": "Clements",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "2",
       "school": "Baylor University",
       "season_batting": {
@@ -295,7 +295,7 @@
       "fn": "Travis",
       "ln": "Sanders",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "6",
       "school": "Baylor University",
       "season_batting": {
@@ -456,7 +456,7 @@
       "fn": "Brayden",
       "ln": "Bergman",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "10",
       "school": "Baylor University",
       "season_batting": {
@@ -530,7 +530,7 @@
       "fn": "Tyce",
       "ln": "Armstrong",
       "pos": "1B",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "11",
       "school": "Baylor University",
       "season_batting": {
@@ -742,7 +742,7 @@
       "fn": "Brayden",
       "ln": "Buchanan",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "15",
       "school": "Baylor University",
       "season_batting": {
@@ -797,7 +797,7 @@
       "fn": "Hunter",
       "ln": "Snow",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "16",
       "school": "Baylor University",
       "season_batting": {
@@ -1013,7 +1013,7 @@
       "fn": "Ty",
       "ln": "Johnson",
       "pos": "OF",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "23",
       "school": "Baylor University",
       "season_batting": {
@@ -1396,7 +1396,7 @@
       "fn": "Cayden",
       "ln": "Baker",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "33",
       "school": "Baylor University",
       "season_batting": null,
@@ -1549,7 +1549,7 @@
       "fn": "John",
       "ln": "Youens",
       "pos": "1B",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "45",
       "school": "Baylor University",
       "season_batting": {
@@ -1655,7 +1655,7 @@
       "fn": "Lucas",
       "ln": "Davenport",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "48",
       "school": "Baylor University",
       "season_batting": null,
@@ -1757,7 +1757,7 @@
       "fn": "Caleb",
       "ln": "Bunch",
       "pos": "RHP",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "52",
       "school": "Baylor University",
       "season_batting": null,

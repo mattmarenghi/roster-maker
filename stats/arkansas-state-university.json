@@ -2,7 +2,7 @@
   "school": "Arkansas State University",
   "base_url": "https://www.astateredwolves.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:32:55.299897Z",
+  "generated_at": "2026-03-20T00:20:06.584900Z",
   "record": "15-6",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -152,8 +152,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Southern Miss",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.astateredwolves.com/boxscore.aspx?id=8733&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Southern Miss (W 5-2). Hitting .318 with 10 HR through 21 games."
     },
     "acda2768": {
       "id": "acda2768",
@@ -189,8 +204,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Southern Miss",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.astateredwolves.com/boxscore.aspx?id=8733&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. Southern Miss (W 5-2). Hitting .294 with 2 HR through 20 games."
     },
     "52cf2d16": {
       "id": "52cf2d16",
@@ -198,7 +228,7 @@
       "fn": "Cross",
       "ln": "Jumper",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "9",
       "school": "Arkansas State University",
       "season_batting": {
@@ -250,7 +280,7 @@
       "fn": "Cougar",
       "ln": "Cooke",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "10",
       "school": "Arkansas State University",
       "season_batting": {
@@ -278,7 +308,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Southern Miss",
+        "result": "W 8-5",
+        "boxscore_url": "https://www.astateredwolves.com/boxscore.aspx?id=8730&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PR/dh"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "59e832c8": {
@@ -419,8 +464,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Southern Miss",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.astateredwolves.com/boxscore.aspx?id=8731&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 0 RBI vs. Southern Miss (L 1-7). Hitting .285 with 1 HR through 15 games."
     },
     "d850f824": {
       "id": "d850f824",
@@ -538,7 +598,7 @@
       "fn": "Adam",
       "ln": "Wade",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "19",
       "school": "Arkansas State University",
       "season_batting": null,
@@ -597,7 +657,7 @@
       "fn": "Aidan",
       "ln": "Houseworth",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "20",
       "school": "Arkansas State University",
       "season_batting": {
@@ -1050,7 +1110,7 @@
       "fn": "Ashton",
       "ln": "Quiller",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "35",
       "school": "Arkansas State University",
       "season_batting": {
@@ -1280,8 +1340,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Southern Miss",
+        "result": "W 5-2",
+        "boxscore_url": "https://www.astateredwolves.com/boxscore.aspx?id=8733&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Southern Miss (W 5-2). Hitting .222 with 0 HR through 16 games."
     },
     "35cfe207": {
       "id": "35cfe207",
@@ -1380,7 +1455,7 @@
       "fn": "Houston",
       "ln": "Tomlinson",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "48",
       "school": "Arkansas State University",
       "season_batting": null,

@@ -2,7 +2,7 @@
   "school": "University of North Carolina, Chapel Hill",
   "base_url": "https://www.goheels.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:07:22.375810Z",
+  "generated_at": "2026-03-20T00:57:43.206412Z",
   "record": "17-23",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -540,17 +540,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "California",
+        "date": "2026-03-18",
+        "opponent": "UNCG",
         "result": "W",
-        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/california/boxscore/26661",
+        "boxscore_url": "https://www.goheels.com/sports/baseball/stats/2026/uncg/boxscore/26662",
         "batting": {
-          "ab": 3,
+          "ab": 2,
           "r": 1,
-          "h": 0,
-          "rbi": 1,
-          "bb": 2,
-          "so": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -558,7 +558,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 0/3 with 1 RBI against California. Struggled at the plate but saw 2 walk(s)."
+      "narrative": "1/2 with 0 RBI vs. UNCG (W). Hitting .245 with 1 HR through 20 games."
     },
     "55f2695c": {
       "id": "55f2695c",
@@ -1508,7 +1508,7 @@
       "fn": "Riley",
       "ln": "Leatherman",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "43",
       "school": "University of North Carolina, Chapel Hill",
       "season_batting": null,

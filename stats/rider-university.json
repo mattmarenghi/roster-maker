@@ -2,7 +2,7 @@
   "school": "Rider University",
   "base_url": "https://www.gobroncs.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:53:05.728861Z",
+  "generated_at": "2026-03-20T00:41:14.072302Z",
   "record": "9-5",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -66,8 +66,23 @@
         "wp": 0,
         "opp_avg": ".250"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "SIENA",
+        "result": "W 12-7",
+        "boxscore_url": "https://www.gobroncs.com/boxscore.aspx?id=13365&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 2,
+          "h": 2,
+          "rbi": 4,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/5 with 4 RBI vs. SIENA (W 12-7). Hitting .369 with 1 HR through 14 games."
     },
     "1cc89983": {
       "id": "1cc89983",
@@ -436,7 +451,7 @@
       "fn": "Kyle",
       "ln": "Neri",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "12",
       "school": "Rider University",
       "season_batting": {
@@ -627,8 +642,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "SIENA",
+        "result": "W 12-7",
+        "boxscore_url": "https://www.gobroncs.com/boxscore.aspx?id=13365&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 2,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 1 RBI vs. SIENA (W 12-7). Hitting .325 with 1 HR through 11 games."
     },
     "eac888af": {
       "id": "eac888af",
@@ -1115,8 +1145,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "SIENA",
+        "result": "W 12-7",
+        "boxscore_url": "https://www.gobroncs.com/boxscore.aspx?id=13365&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. SIENA (W 12-7). Hitting .250 with 2 HR through 14 games."
     },
     "31423bfb": {
       "id": "31423bfb",

@@ -2,7 +2,7 @@
   "school": "Harvard University",
   "base_url": "https://gocrimson.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:42:28.410981Z",
+  "generated_at": "2026-03-20T00:29:46.686763Z",
   "record": "1-12",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -182,8 +182,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-16",
+        "opponent": "California Baptist",
+        "result": "L 12-14",
+        "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32373&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. California Baptist (L 12-14). Hitting .209 with 0 HR through 13 games."
     },
     "43a0425f": {
       "id": "43a0425f",
@@ -237,8 +252,23 @@
         "wp": 1,
         "opp_avg": ".298"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-16",
+        "opponent": "California Baptist",
+        "result": "L 12-14",
+        "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32373&path=baseball",
+        "batting": {
+          "ab": 6,
+          "r": 2,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/6 with 0 RBI vs. California Baptist (L 12-14). Hitting .076 with 1 HR through 6 games."
     },
     "53f9d9b0": {
       "id": "53f9d9b0",
@@ -297,7 +327,7 @@
       "name": "Cullen Stone",
       "fn": "Cullen",
       "ln": "Stone",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "So.",
       "num": "9",
       "school": "Harvard University",
@@ -654,7 +684,7 @@
       "fn": "Finn",
       "ln": "Whipple",
       "pos": "OF",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "16",
       "school": "Harvard University",
       "season_batting": {
@@ -750,7 +780,7 @@
       "fn": "Aidan",
       "ln": "Colasante",
       "pos": "IF",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "20",
       "school": "Harvard University",
       "season_batting": {
@@ -796,8 +826,23 @@
         "wp": 1,
         "opp_avg": ".298"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-16",
+        "opponent": "California Baptist",
+        "result": "L 12-14",
+        "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32373&path=baseball",
+        "batting": {
+          "ab": 6,
+          "r": 2,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/6 with 0 RBI vs. California Baptist (L 12-14). Hitting .076 with 1 HR through 6 games."
     },
     "bd18dda5": {
       "id": "bd18dda5",
@@ -857,7 +902,7 @@
       "fn": "Brett",
       "ln": "Gable",
       "pos": "LHP",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "22",
       "school": "Harvard University",
       "season_batting": null,
@@ -916,7 +961,7 @@
       "fn": "Davis",
       "ln": "Kahn",
       "pos": "RHP",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "23",
       "school": "Harvard University",
       "season_batting": null,
@@ -1197,7 +1242,7 @@
       "fn": "Matthew",
       "ln": "Witkow",
       "pos": "IF",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "32",
       "school": "Harvard University",
       "season_batting": {
@@ -1225,8 +1270,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-16",
+        "opponent": "California Baptist",
+        "result": "L 12-14",
+        "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32373&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/5 with 1 RBI vs. California Baptist (L 12-14). Hitting .292 with 0 HR through 13 games."
     },
     "b03c6878": {
       "id": "b03c6878",
@@ -1234,7 +1294,7 @@
       "fn": "Zach",
       "ln": "Khozozian",
       "pos": "OF",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "33",
       "school": "Harvard University",
       "season_batting": {
@@ -1262,8 +1322,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "California Baptist",
+        "result": "W 11-4",
+        "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32371&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "ph/rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. California Baptist (W 11-4). Hitting .000 with 0 HR through 3 games."
     },
     "d0e539e7": {
       "id": "d0e539e7",
@@ -1330,7 +1405,7 @@
       "fn": "Kai",
       "ln": "So",
       "pos": "C",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "37",
       "school": "Harvard University",
       "season_batting": {
@@ -1426,7 +1501,7 @@
       "fn": "Vedant",
       "ln": "Sharma",
       "pos": "RHP",
-      "yr": "Fy",
+      "yr": "Fr.",
       "num": "45",
       "school": "Harvard University",
       "season_batting": null,

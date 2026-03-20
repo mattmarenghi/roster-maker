@@ -2,7 +2,7 @@
   "school": "Western Illinois University",
   "base_url": "https://www.goleathernecks.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:13:48.063703Z",
+  "generated_at": "2026-03-20T01:04:59.493592Z",
   "record": "4-16",
   "most_recent_game": {
     "date": "2026-03-14",
@@ -48,8 +48,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Illinois St.",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14620&path=baseball",
+        "batting": {
+          "ab": 6,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/6 with 1 RBI vs. Illinois St. (W 7-6). Hitting .402 with 0 HR through 20 games."
     },
     "f6a6a6ee": {
       "id": "f6a6a6ee",
@@ -338,7 +353,7 @@
       "fn": "Liam",
       "ln": "Bushey",
       "pos": "1B",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "11",
       "school": "Western Illinois University",
       "season_batting": {
@@ -367,22 +382,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Illinois State",
-        "result": "L 1-7",
-        "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14619&path=baseball",
+        "date": "2026-03-14",
+        "opponent": "Illinois St.",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14620&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 7,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 3,
-          "pos": "dh"
+          "so": 0,
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Illinois State (L 1-7). Hitting .329 with 7 HR through 20 games."
+      "narrative": "2/7 with 1 RBI vs. Illinois St. (W 7-6). Hitting .329 with 7 HR through 20 games."
     },
     "bc8f6ab6": {
       "id": "bc8f6ab6",
@@ -747,8 +762,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Illinois State",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14619&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Illinois State (L 1-7). Hitting .250 with 1 HR through 12 games."
     },
     "78c88fc3": {
       "id": "78c88fc3",
@@ -784,8 +814,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Illinois St.",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14620&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Illinois St. (W 7-6). Hitting .300 with 0 HR through 7 games."
     },
     "e7cdcd6f": {
       "id": "e7cdcd6f",
@@ -793,7 +838,7 @@
       "fn": "Jason",
       "ln": "Buhl",
       "pos": "LHP",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "22",
       "school": "Western Illinois University",
       "season_batting": null,
@@ -993,7 +1038,7 @@
       "fn": "Krayton",
       "ln": "Morse",
       "pos": "C",
-      "yr": "5th",
+      "yr": "Gr.",
       "num": "26",
       "school": "Western Illinois University",
       "season_batting": {
@@ -1074,22 +1119,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Illinois State",
-        "result": "L 1-7",
-        "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14619&path=baseball",
+        "date": "2026-03-14",
+        "opponent": "Illinois St.",
+        "result": "W 7-6",
+        "boxscore_url": "https://www.goleathernecks.com/boxscore.aspx?id=14620&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 5,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "ss"
+          "bb": 0,
+          "so": 1,
+          "pos": "ss/3b"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Illinois State (L 1-7). Hitting .269 with 2 HR through 20 games."
+      "narrative": "1/5 with 0 RBI vs. Illinois St. (W 7-6). Hitting .269 with 2 HR through 20 games."
     },
     "db07f446": {
       "id": "db07f446",
@@ -1392,7 +1437,7 @@
       "fn": "Billy",
       "ln": "Humphrey",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "36",
       "school": "Western Illinois University",
       "season_batting": null,

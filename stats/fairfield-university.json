@@ -2,7 +2,7 @@
   "school": "Fairfield University",
   "base_url": "https://fairfieldstags.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:40:40.340211Z",
+  "generated_at": "2026-03-20T00:28:08.442897Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -159,8 +159,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Hofstra",
+        "result": "L 3-5",
+        "boxscore_url": "https://fairfieldstags.com/boxscore.aspx?id=15128&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Hofstra (L 3-5). Hitting .137 with 0 HR through 12 games."
     },
     "3fd2f186": {
       "id": "3fd2f186",
@@ -248,8 +263,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Hofstra",
+        "result": "L 3-5",
+        "boxscore_url": "https://fairfieldstags.com/boxscore.aspx?id=15128&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Hofstra (L 3-5). Hitting .044 with 0 HR through 15 games."
     },
     "43526eee": {
       "id": "43526eee",
@@ -293,7 +323,7 @@
       "name": "Liam McIlroy",
       "fn": "Liam",
       "ln": "McIlroy",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "7",
       "school": "Fairfield University",
@@ -487,8 +517,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Hofstra",
+        "result": "L 3-5",
+        "boxscore_url": "https://fairfieldstags.com/boxscore.aspx?id=15128&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 1 RBI vs. Hofstra (L 3-5). Hitting .209 with 0 HR through 16 games."
     },
     "37521941": {
       "id": "37521941",
@@ -1032,8 +1077,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Manhattan",
+        "result": "W 7-3",
+        "boxscore_url": "https://fairfieldstags.com/boxscore.aspx?id=15127&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Manhattan (W 7-3). Hitting .117 with 1 HR through 6 games."
     },
     "9d22374e": {
       "id": "9d22374e",

@@ -2,7 +2,7 @@
   "school": "University of Maryland, Baltimore County",
   "base_url": "https://UMBCRetrievers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:05:10.664056Z",
+  "generated_at": "2026-03-20T00:54:32.541921Z",
   "record": "7-8",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -189,8 +189,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Florida Atlantic",
+        "result": "L 3-14",
+        "boxscore_url": "https://UMBCRetrievers.com/boxscore.aspx?id=9373&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Florida Atlantic (L 3-14). Hitting .200 with 0 HR through 14 games."
     },
     "598f5267": {
       "id": "598f5267",
@@ -198,7 +213,7 @@
       "fn": "Luke",
       "ln": "Buscaglia",
       "pos": "IF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "5",
       "school": "University of Maryland, Baltimore County",
       "season_batting": {
@@ -472,7 +487,7 @@
       "fn": "Dylan",
       "ln": "Melton",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "11",
       "school": "University of Maryland, Baltimore County",
       "season_batting": {
@@ -500,8 +515,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Florida Atlantic",
+        "result": "W 4-3",
+        "boxscore_url": "https://UMBCRetrievers.com/boxscore.aspx?id=9374&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Florida Atlantic (W 4-3). Hitting .285 with 0 HR through 15 games."
     },
     "d06a4e35": {
       "id": "d06a4e35",
@@ -628,8 +658,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Florida Atlantic",
+        "result": "W 4-3",
+        "boxscore_url": "https://UMBCRetrievers.com/boxscore.aspx?id=9374&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 0 RBI vs. Florida Atlantic (W 4-3). Hitting .272 with 0 HR through 15 games."
     },
     "7b51eb03": {
       "id": "7b51eb03",
@@ -700,7 +745,7 @@
       "name": "Nico Ong",
       "fn": "Nico",
       "ln": "Ong",
-      "pos": "C/ OF",
+      "pos": "C/OF",
       "yr": "Sr.",
       "num": "17",
       "school": "University of Maryland, Baltimore County",
@@ -881,7 +926,7 @@
       "fn": "Chris",
       "ln": "Harbert",
       "pos": "IF/RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "University of Maryland, Baltimore County",
       "season_batting": {
@@ -1061,8 +1106,23 @@
         "wp": 2,
         "opp_avg": ".138"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Florida Atlantic",
+        "result": "W 10-9",
+        "boxscore_url": "https://UMBCRetrievers.com/boxscore.aspx?id=9372&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Florida Atlantic (W 10-9). Hitting .400 with 0 HR through 7 games."
     },
     "e26ff80f": {
       "id": "e26ff80f",
@@ -1150,8 +1210,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Florida Atlantic",
+        "result": "W 4-3",
+        "boxscore_url": "https://UMBCRetrievers.com/boxscore.aspx?id=9374&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Florida Atlantic (W 4-3). Hitting .222 with 1 HR through 5 games."
     },
     "6540d864": {
       "id": "6540d864",
@@ -1270,7 +1345,7 @@
       "fn": "Ayden",
       "ln": "Gonzalez",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "37",
       "school": "University of Maryland, Baltimore County",
       "season_batting": null,

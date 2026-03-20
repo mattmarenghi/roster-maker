@@ -2,7 +2,7 @@
   "school": "St. Bonaventure University",
   "base_url": "https://www.gobonnies.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:56:01.635061Z",
+  "generated_at": "2026-03-20T00:44:36.276805Z",
   "record": "4-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -48,8 +48,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "George Mason",
+        "result": "W 15-11",
+        "boxscore_url": "https://www.gobonnies.com/boxscore.aspx?id=7695&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 3,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 3 RBI vs. George Mason (W 15-11). Hitting .170 with 1 HR through 16 games."
     },
     "b93073a7": {
       "id": "b93073a7",
@@ -86,22 +101,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "George Mason",
-        "result": "W 15-11",
-        "boxscore_url": "https://www.gobonnies.com/boxscore.aspx?id=7695&path=baseball",
+        "result": "W 3-0",
+        "boxscore_url": "https://www.gobonnies.com/boxscore.aspx?id=7696&path=baseball",
         "batting": {
-          "ab": 5,
-          "r": 3,
-          "h": 4,
-          "rbi": 3,
-          "bb": 1,
-          "so": 0,
-          "pos": "ss"
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "4/5 with 3 RBI vs. George Mason (W 15-11). Hitting .324 with 1 HR through 18 games."
+      "narrative": "1/4 with 0 RBI vs. George Mason (W 3-0). Hitting .324 with 1 HR through 18 games."
     },
     "d8599c3d": {
       "id": "d8599c3d",
@@ -219,8 +234,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "George Mason",
+        "result": "W 3-0",
+        "boxscore_url": "https://www.gobonnies.com/boxscore.aspx?id=7696&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. George Mason (W 3-0). Hitting .328 with 3 HR through 17 games."
     },
     "812eff0a": {
       "id": "812eff0a",
@@ -795,8 +825,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "George Mason",
+        "result": "W 3-0",
+        "boxscore_url": "https://www.gobonnies.com/boxscore.aspx?id=7696&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. George Mason (W 3-0). Hitting .289 with 1 HR through 14 games."
     },
     "c00e2274": {
       "id": "c00e2274",
@@ -915,7 +960,7 @@
       "fn": "Ashton",
       "ln": "Ross",
       "pos": "1B/C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "St. Bonaventure University",
       "season_batting": {
@@ -970,7 +1015,7 @@
       "fn": "Tristan",
       "ln": "Ciampa",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "26",
       "school": "St. Bonaventure University",
       "season_batting": null,
@@ -1002,7 +1047,7 @@
       "fn": "Anthony",
       "ln": "Fernandez",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "27",
       "school": "St. Bonaventure University",
       "season_batting": {
@@ -1113,7 +1158,7 @@
       "fn": "Owen",
       "ln": "Smith",
       "pos": "RHP/OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "34",
       "school": "St. Bonaventure University",
       "season_batting": null,
@@ -1204,7 +1249,7 @@
       "fn": "Ryan",
       "ln": "Klementowski",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "40",
       "school": "St. Bonaventure University",
       "season_batting": null,
@@ -1300,7 +1345,7 @@
       "fn": "Conner",
       "ln": "Vercollone",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "45",
       "school": "St. Bonaventure University",
       "season_batting": {

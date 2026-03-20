@@ -2,7 +2,7 @@
   "school": "Utah Valley University",
   "base_url": "https://www.gouvu.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:12:24.543797Z",
+  "generated_at": "2026-03-20T01:03:19.741051Z",
   "record": "10-9",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -152,8 +152,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Cincinnati",
+        "result": "L 3-6",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10032&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Cincinnati (L 3-6). Hitting .050 with 0 HR through 8 games."
     },
     "f7e253e5": {
       "id": "f7e253e5",
@@ -400,8 +415,23 @@
         "wp": 0,
         "opp_avg": ".455"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Cincinnati",
+        "result": "L 3-6",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10032&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH/rf/1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/1 with 1 RBI vs. Cincinnati (L 3-6). Hitting .296 with 7 HR through 16 games."
     },
     "97cf24a7": {
       "id": "97cf24a7",
@@ -437,8 +467,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Cincinnati",
+        "result": "L 3-6",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10032&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 1 RBI vs. Cincinnati (L 3-6). Hitting .369 with 1 HR through 18 games."
     },
     "27889cc6": {
       "id": "27889cc6",
@@ -527,22 +572,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-16",
+        "date": "2026-03-17",
         "opponent": "Cincinnati",
-        "result": "L 1-11",
-        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10031&path=baseball",
+        "result": "L 3-6",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10032&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "lf"
+          "so": 0,
+          "pos": "PH/rf"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Cincinnati (L 1-11). Hitting .304 with 1 HR through 16 games."
+      "narrative": "0/1 with 0 RBI vs. Cincinnati (L 3-6). Hitting .297 with 1 HR through 17 games."
     },
     "f8e97f7e": {
       "id": "f8e97f7e",
@@ -680,8 +725,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Cincinnati",
+        "result": "L 3-6",
+        "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10032&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b/3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Cincinnati (L 3-6). Hitting .306 with 2 HR through 18 games."
     },
     "4561a894": {
       "id": "4561a894",

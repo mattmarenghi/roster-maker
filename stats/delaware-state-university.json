@@ -2,7 +2,7 @@
   "school": "Delaware State University",
   "base_url": "https://www.dsuhornets.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:39:04.800892Z",
+  "generated_at": "2026-03-20T00:26:28.046464Z",
   "record": "1-17",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -257,7 +257,7 @@
       "fn": "Justin",
       "ln": "Batts",
       "pos": "C/IF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "6",
       "school": "Delaware State University",
       "season_batting": {
@@ -285,8 +285,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-13",
+        "opponent": "Mercyhurst",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8496&path=bsb",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 1 RBI vs. Mercyhurst (W 4-3). Hitting .205 with 1 HR through 13 games."
     },
     "93202e9a": {
       "id": "93202e9a",
@@ -435,7 +450,7 @@
       "fn": "Ryan",
       "ln": "Mejia",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "10",
       "school": "Delaware State University",
       "season_batting": null,
@@ -554,8 +569,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Mercyhurst",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Mercyhurst (W 9-8). Hitting .160 with 2 HR through 16 games."
     },
     "b7796e35": {
       "id": "b7796e35",
@@ -730,7 +760,7 @@
       "name": "Myles Dickerson",
       "fn": "Myles",
       "ln": "Dickerson",
-      "pos": "P / IF",
+      "pos": "P/IF",
       "yr": "Fr.",
       "num": "17",
       "school": "Delaware State University",
@@ -811,8 +841,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Mercyhurst",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. Mercyhurst (W 9-8). Hitting .269 with 1 HR through 16 games."
     },
     "aaf0ea65": {
       "id": "aaf0ea65",
@@ -1100,7 +1145,7 @@
       "name": "Andrew Shute",
       "fn": "Andrew",
       "ln": "Shute",
-      "pos": "1B/ P",
+      "pos": "1B/P",
       "yr": "Fr.",
       "num": "27",
       "school": "Delaware State University",
@@ -1147,8 +1192,23 @@
         "wp": 2,
         "opp_avg": ".300"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Mercyhurst",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Mercyhurst (W 9-8). Hitting .076 with 0 HR through 8 games."
     },
     "c8162926": {
       "id": "c8162926",

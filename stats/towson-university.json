@@ -2,7 +2,7 @@
   "school": "Towson University",
   "base_url": "https://www.towsontigers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:59:00.394705Z",
+  "generated_at": "2026-03-20T00:47:59.474299Z",
   "record": "7-10",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -48,8 +48,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "UMES",
+        "result": "W 8-3",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29507&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
+          "pos": "2b/lf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. UMES (W 8-3). Hitting .000 with 0 HR through 5 games."
     },
     "e5fdd2e8": {
       "id": "e5fdd2e8",
@@ -85,8 +100,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Northeastern",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Northeastern (W 3-2). Hitting .214 with 0 HR through 9 games."
     },
     "60c12d75": {
       "id": "60c12d75",
@@ -174,8 +204,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "UMES",
+        "result": "W 8-3",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29507&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. UMES (W 8-3). Hitting .250 with 0 HR through 9 games."
     },
     "c2b583bb": {
       "id": "c2b583bb",
@@ -300,8 +345,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "UMES",
+        "result": "W 8-3",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29507&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 2,
+          "bb": 0,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 2 RBI vs. UMES (W 8-3). Hitting .062 with 0 HR through 10 games."
     },
     "706fcd32": {
       "id": "706fcd32",
@@ -389,8 +449,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "UMES",
+        "result": "W 8-3",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29507&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 3,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 3 RBI vs. UMES (W 8-3). Hitting .333 with 0 HR through 13 games."
     },
     "fb09fd45": {
       "id": "fb09fd45",
@@ -538,10 +613,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Northeastern",
-        "result": "W 3-1",
-        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29503&path=baseball",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.towsontigers.com/boxscore.aspx?id=29505&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -549,11 +624,11 @@
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "PH"
+          "pos": "PH/cf"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Northeastern (W 3-1). Hitting .285 with 0 HR through 12 games."
+      "narrative": "0/1 with 0 RBI vs. Northeastern (W 3-2). Hitting .285 with 0 HR through 12 games."
     },
     "f17b8ed5": {
       "id": "f17b8ed5",
@@ -790,7 +865,7 @@
       "fn": "Aden",
       "ln": "Knowles",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "20",
       "school": "Towson University",
       "season_batting": null,
@@ -881,7 +956,7 @@
       "fn": "Jake",
       "ln": "Michel",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "22",
       "school": "Towson University",
       "season_batting": null,

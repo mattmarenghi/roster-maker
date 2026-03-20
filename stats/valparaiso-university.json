@@ -2,13 +2,13 @@
   "school": "Valparaiso University",
   "base_url": "https://www.valpoathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:12:23.644961Z",
+  "generated_at": "2026-03-20T01:03:20.628866Z",
   "record": "6-10",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "SIUE",
     "result": "L 9-13",
-    "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+    "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
     "recap_url": "https://www.valpoathletics.com/news/2026/3/15/baseball-valpo-outdoes-siue-on-windy-sunday-in-edwardsville.aspx",
     "recap_headline": "Valparaiso University",
     "recap_text": ""
@@ -67,34 +67,22 @@
         "opp_avg": ".266"
       },
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "SIUE",
-        "result": "W 3-2",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11635&path=",
+        "result": "L 9-13",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "7.2",
-          "h": 7,
+          "ab": 5,
           "r": 3,
-          "er": 3,
-          "bb": 0,
-          "so": 5,
-          "wp": 0,
-          "hbp": 1,
-          "w": 0,
-          "l": 1,
-          "sv": 0
-        }
+          "h": 3,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
       },
-      "narrative": "7.2 IP, 5 K, 3 ER vs. SIUE (W 3-2). At 3.91 ERA through 32.2 innings on the season."
+      "narrative": "3/5 with 0 RBI vs. SIUE (L 9-13). Hitting .290 with 0 HR through 15 games."
     },
     "a1870dce": {
       "id": "a1870dce",
@@ -129,7 +117,7 @@
         "date": "2026-03-13",
         "opponent": "SIUE",
         "result": "W 13-3",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -193,7 +181,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -241,8 +229,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "SIUE",
+        "result": "W 3-2",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11635&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "ph/rf"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. SIUE (W 3-2). Hitting .166 with 0 HR through 6 games."
     },
     "b915542f": {
       "id": "b915542f",
@@ -250,7 +253,7 @@
       "fn": "Eli",
       "ln": "Riley",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "6",
       "school": "Valparaiso University",
       "season_batting": {
@@ -282,7 +285,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -302,7 +305,7 @@
       "fn": "Javin",
       "ln": "Gauthier",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "7",
       "school": "Valparaiso University",
       "season_batting": {
@@ -334,7 +337,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -354,7 +357,7 @@
       "fn": "George",
       "ln": "Betevis",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "8",
       "school": "Valparaiso University",
       "season_batting": {
@@ -386,7 +389,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -434,8 +437,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "SIUE",
+        "result": "L 9-13",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 3,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 3,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/5 with 1 RBI vs. SIUE (L 9-13). Hitting .327 with 2 HR through 16 games."
     },
     "76080da8": {
       "id": "76080da8",
@@ -443,7 +461,7 @@
       "fn": "Christian",
       "ln": "Hack",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "10",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -475,7 +493,7 @@
       "fn": "Connor",
       "ln": "Lockwood",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "11",
       "school": "Valparaiso University",
       "season_batting": {
@@ -522,34 +540,22 @@
         "opp_avg": ".266"
       },
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "SIUE",
-        "result": "W 3-2",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11635&path=",
+        "result": "L 9-13",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "7.2",
-          "h": 7,
+          "ab": 5,
           "r": 3,
-          "er": 3,
-          "bb": 0,
-          "so": 5,
-          "wp": 0,
-          "hbp": 1,
-          "w": 0,
-          "l": 1,
-          "sv": 0
-        }
+          "h": 3,
+          "rbi": 0,
+          "bb": 1,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
       },
-      "narrative": "7.2 IP, 5 K, 3 ER vs. SIUE (W 3-2). At 3.91 ERA through 32.2 innings on the season."
+      "narrative": "3/5 with 0 RBI vs. SIUE (L 9-13). Hitting .290 with 0 HR through 15 games."
     },
     "cf4a810e": {
       "id": "cf4a810e",
@@ -557,7 +563,7 @@
       "fn": "Thomas",
       "ln": "Cooper",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "12",
       "school": "Valparaiso University",
       "season_batting": {
@@ -585,8 +591,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "SIUE",
+        "result": "L 9-13",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 2,
+          "h": 2,
+          "rbi": 2,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/5 with 2 RBI vs. SIUE (L 9-13). Hitting .294 with 2 HR through 14 games."
     },
     "2226967e": {
       "id": "2226967e",
@@ -594,7 +615,7 @@
       "fn": "Gavin",
       "ln": "Bennett",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "15",
       "school": "Valparaiso University",
       "season_batting": {
@@ -626,7 +647,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -646,7 +667,7 @@
       "fn": "Justin",
       "ln": "Bultemeier",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "16",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -673,7 +694,7 @@
         "date": "2026-03-13",
         "opponent": "SIUE",
         "result": "W 13-3",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -732,7 +753,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -791,7 +812,7 @@
         "date": "2026-03-13",
         "opponent": "SIUE",
         "result": "W 13-3",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -860,7 +881,7 @@
       "fn": "Adam",
       "ln": "Guazzo",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -887,7 +908,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -956,7 +977,7 @@
       "fn": "Ryan",
       "ln": "Kruse",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "26",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -983,7 +1004,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1015,7 +1036,7 @@
       "fn": "Dalton",
       "ln": "Swinehart",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "27",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -1042,7 +1063,7 @@
         "date": "2026-03-14",
         "opponent": "SIUE",
         "result": "W 3-2",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11635&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11635&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1074,7 +1095,7 @@
       "fn": "Aiden",
       "ln": "Aparicio",
       "pos": "C",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "28",
       "school": "Valparaiso University",
       "season_batting": {
@@ -1111,7 +1132,7 @@
       "fn": "Spencer",
       "ln": "Boynton",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "29",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -1138,7 +1159,7 @@
         "date": "2026-03-13",
         "opponent": "SIUE",
         "result": "W 13-3",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11634&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1170,7 +1191,7 @@
       "fn": "Joe",
       "ln": "Seiber",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "31",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -1229,7 +1250,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1261,7 +1282,7 @@
       "fn": "Dylan",
       "ln": "Immel",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "33",
       "school": "Valparaiso University",
       "season_batting": null,
@@ -1293,7 +1314,7 @@
       "fn": "Case",
       "ln": "Sullivan",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "34",
       "school": "Valparaiso University",
       "season_batting": {
@@ -1325,7 +1346,7 @@
         "date": "2026-03-15",
         "opponent": "SIUE",
         "result": "L 9-13",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11636&path=baseball",
         "batting": {
           "ab": 5,
           "r": 0,
@@ -1377,7 +1398,7 @@
         "date": "2026-03-14",
         "opponent": "SIUE",
         "result": "W 3-2",
-        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11635&path=",
+        "boxscore_url": "https://www.valpoathletics.com/boxscore.aspx?id=11635&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,

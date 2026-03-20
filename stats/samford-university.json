@@ -2,7 +2,7 @@
   "school": "Samford University",
   "base_url": "https://samfordsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:54:12.452971Z",
+  "generated_at": "2026-03-20T00:42:21.452946Z",
   "record": "8-11",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -263,8 +263,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Jax State",
+        "result": "L 6-7",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13698&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Jax State (L 6-7). Hitting .220 with 0 HR through 19 games."
     },
     "0bc8b0a3": {
       "id": "0bc8b0a3",
@@ -300,8 +315,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Jax State",
+        "result": "L 6-7",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13698&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 3,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/5 with 1 RBI vs. Jax State (L 6-7). Hitting .380 with 0 HR through 12 games."
     },
     "56bda460": {
       "id": "56bda460",
@@ -309,7 +339,7 @@
       "fn": "Ryan",
       "ln": "Vermillion",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "8",
       "school": "Samford University",
       "season_batting": null,
@@ -368,7 +398,7 @@
       "fn": "Drew",
       "ln": "Druckenmiller",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "9",
       "school": "Samford University",
       "season_batting": null,
@@ -629,7 +659,7 @@
       "fn": "Luke",
       "ln": "Boykin",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "14",
       "school": "Samford University",
       "season_batting": {
@@ -681,7 +711,7 @@
       "fn": "Palmer",
       "ln": "O'Beirne",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "15",
       "school": "Samford University",
       "season_batting": null,
@@ -1068,22 +1098,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Little Rock",
-        "result": "L 1-5",
-        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13696&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Jax State",
+        "result": "L 6-7",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13698&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
-          "bb": 2,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 3,
+          "bb": 1,
           "so": 0,
-          "pos": "cf"
+          "pos": "cf/rf"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 0 RBI vs. Little Rock (L 1-5). Hitting .415 with 2 HR through 18 games."
+      "narrative": "2/4 with 3 RBI vs. Jax State (L 6-7). Hitting .420 with 3 HR through 19 games."
     },
     "9611c572": {
       "id": "9611c572",
@@ -1178,8 +1208,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Jax State",
+        "result": "L 6-7",
+        "boxscore_url": "https://samfordsports.com/boxscore.aspx?id=13698&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Jax State (L 6-7). Hitting .161 with 1 HR through 19 games."
     },
     "11be4f4b": {
       "id": "11be4f4b",
@@ -1298,7 +1343,7 @@
       "fn": "Austin",
       "ln": "Tommasini",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "35",
       "school": "Samford University",
       "season_batting": null,
@@ -1544,7 +1589,7 @@
       "fn": "Will",
       "ln": "Lawrence",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "41",
       "school": "Samford University",
       "season_batting": {
@@ -1581,7 +1626,7 @@
       "fn": "Noah",
       "ln": "Berry",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "45",
       "school": "Samford University",
       "season_batting": null,

@@ -2,7 +2,7 @@
   "school": "University of Arkansas, Pine Bluff",
   "base_url": "https://uapblionsroar.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:01:15.461261Z",
+  "generated_at": "2026-03-20T00:50:24.801296Z",
   "record": "8-14",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -325,7 +325,15 @@
         "opponent": "Eastern Illinois",
         "result": "L 3-13",
         "boxscore_url": "https://uapblionsroar.com/boxscore.aspx?id=7084&path=baseball",
-        "batting": null,
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 4,
+          "pos": "3b/p"
+        },
         "pitching": {
           "ip": "0.2",
           "h": 2,
@@ -376,8 +384,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Eastern Illinois",
+        "result": "L 3-13",
+        "boxscore_url": "https://uapblionsroar.com/boxscore.aspx?id=7084&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Eastern Illinois (L 3-13). Hitting .268 with 1 HR through 21 games."
     },
     "5b587003": {
       "id": "5b587003",
@@ -431,8 +454,23 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Eastern Illinois",
+        "result": "L 3-13",
+        "boxscore_url": "https://uapblionsroar.com/boxscore.aspx?id=7084&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b/3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 1 RBI vs. Eastern Illinois (L 3-13). Hitting .189 with 1 HR through 18 games."
     },
     "8b110da5": {
       "id": "8b110da5",
@@ -552,8 +590,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Eastern Illinois",
+        "result": "L 3-13",
+        "boxscore_url": "https://uapblionsroar.com/boxscore.aspx?id=7084&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Eastern Illinois (L 3-13). Hitting .066 with 0 HR through 9 games."
     },
     "6ff5b7ff": {
       "id": "6ff5b7ff",
@@ -561,7 +614,7 @@
       "fn": "Jose",
       "ln": "Vasquez",
       "pos": "OF",
-      "yr": "Rf.",
+      "yr": "Fr.",
       "num": "16",
       "school": "University of Arkansas, Pine Bluff",
       "season_batting": {

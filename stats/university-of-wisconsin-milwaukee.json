@@ -2,13 +2,13 @@
   "school": "University of Wisconsin-Milwaukee",
   "base_url": "https://www.mkepanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:11:49.937587Z",
+  "generated_at": "2026-03-20T01:02:32.792988Z",
   "record": "4-15",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Northern Kentucky",
     "result": "L 10-16",
-    "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+    "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
     "recap_url": "https://www.mkepanthers.com/news/2026/3/15/baseball-panthers-storm-back-from-8-0-deficit-win-16-10-in-14-inning-thriller.aspx",
     "recap_headline": "Milwaukee Athletics",
     "recap_text": ""
@@ -89,7 +89,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 6,
           "r": 3,
@@ -137,8 +137,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Northern Kentucky",
+        "result": "L 10-16",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
+        "batting": {
+          "ab": 6,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/6 with 0 RBI vs. Northern Kentucky (L 10-16). Hitting .307 with 0 HR through 15 games."
     },
     "0cb29d75": {
       "id": "0cb29d75",
@@ -211,8 +226,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Northern Kentucky",
+        "result": "L 10-16",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
+        "batting": {
+          "ab": 7,
+          "r": 3,
+          "h": 2,
+          "rbi": 2,
+          "bb": 1,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/7 with 2 RBI vs. Northern Kentucky (L 10-16). Hitting .229 with 4 HR through 14 games."
     },
     "b476fe57": {
       "id": "b476fe57",
@@ -285,8 +315,23 @@
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Northern Kentucky",
+        "result": "L 10-16",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
+        "batting": {
+          "ab": 7,
+          "r": 2,
+          "h": 1,
+          "rbi": 1,
+          "bb": 1,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/7 with 1 RBI vs. Northern Kentucky (L 10-16). Hitting .189 with 1 HR through 18 games."
     },
     "fc8f46dd": {
       "id": "fc8f46dd",
@@ -326,7 +371,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 6,
           "r": 1,
@@ -373,7 +418,7 @@
         "date": "2026-03-14",
         "opponent": "Northern Kentucky",
         "result": "W 14-1",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -469,7 +514,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 7,
           "r": 0,
@@ -516,7 +561,7 @@
         "date": "2026-03-14",
         "opponent": "Northern Kentucky",
         "result": "W 14-1",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -575,7 +620,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -634,7 +679,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -693,7 +738,7 @@
         "date": "2026-03-13",
         "opponent": "Northern Kentucky",
         "result": "L 9-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18252&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18252&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -752,7 +797,7 @@
         "date": "2026-03-13",
         "opponent": "Northern Kentucky",
         "result": "L 9-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18252&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18252&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -816,7 +861,7 @@
         "date": "2026-03-14",
         "opponent": "Northern Kentucky",
         "result": "W 14-1",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -868,7 +913,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -947,7 +992,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1045,22 +1090,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Northern Kentucky",
-        "result": "W 14-1",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=",
+        "result": "L 10-16",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
+          "ab": 6,
+          "r": 3,
+          "h": 3,
+          "rbi": 1,
+          "bb": 2,
           "so": 1,
-          "pos": "c"
+          "pos": "dh/c"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 0 RBI vs. Northern Kentucky (W 14-1). Hitting .269 with 2 HR through 19 games."
+      "narrative": "3/6 with 1 RBI vs. Northern Kentucky (L 10-16). Hitting .269 with 2 HR through 19 games."
     },
     "f3ebd42a": {
       "id": "f3ebd42a",
@@ -1095,7 +1140,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1159,7 +1204,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -1243,7 +1288,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1302,7 +1347,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1398,7 +1443,7 @@
         "date": "2026-03-13",
         "opponent": "Northern Kentucky",
         "result": "L 9-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18252&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18252&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1457,7 +1502,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1539,7 +1584,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1598,7 +1643,7 @@
         "date": "2026-03-14",
         "opponent": "Northern Kentucky",
         "result": "W 14-1",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18253&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1657,7 +1702,7 @@
         "date": "2026-03-15",
         "opponent": "Northern Kentucky",
         "result": "L 10-16",
-        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=",
+        "boxscore_url": "https://www.mkepanthers.com/boxscore.aspx?id=18254&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

@@ -2,7 +2,7 @@
   "school": "Campbell University",
   "base_url": "https://www.gocamels.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:37:17.672317Z",
+  "generated_at": "2026-03-20T00:24:36.322911Z",
   "record": "11-9",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -20,7 +20,7 @@
       "fn": "Joe",
       "ln": "Simpson",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "0",
       "school": "Campbell University",
       "season_batting": {
@@ -100,8 +100,23 @@
         "sb_att": 11
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Coastal Carolina",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gocamels.com/boxscore.aspx?id=208105&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 2,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 2 RBI vs. Coastal Carolina (W 4-3). Hitting .215 with 0 HR through 20 games."
     },
     "d8c90641": {
       "id": "d8c90641",
@@ -141,7 +156,7 @@
       "fn": "Jonah",
       "ln": "Oster",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "3",
       "school": "Campbell University",
       "season_batting": {
@@ -169,8 +184,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Coastal Carolina",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gocamels.com/boxscore.aspx?id=208105&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/5 with 0 RBI vs. Coastal Carolina (W 4-3). Hitting .294 with 4 HR through 20 games."
     },
     "a06bdef6": {
       "id": "a06bdef6",
@@ -282,7 +312,7 @@
       "fn": "Andrew",
       "ln": "Schuldt",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "9",
       "school": "Campbell University",
       "season_batting": {
@@ -311,22 +341,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "North Carolina AT",
-        "result": "W 7-4",
-        "boxscore_url": "https://www.gocamels.com/boxscore.aspx?id=208103&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "Coastal Carolina",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gocamels.com/boxscore.aspx?id=208105&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
-          "so": 1,
-          "pos": "c"
+          "bb": 0,
+          "so": 2,
+          "pos": "PH/dh"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. North Carolina AT (W 7-4). Hitting .254 with 2 HR through 16 games."
+      "narrative": "0/1 with 0 RBI vs. Coastal Carolina (W 4-3). Hitting .240 with 2 HR through 18 games."
     },
     "24340e8b": {
       "id": "24340e8b",
@@ -455,7 +485,7 @@
       "fn": "Jackson",
       "ln": "Thompson",
       "pos": "C",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "13",
       "school": "Campbell University",
       "season_batting": {
@@ -507,7 +537,7 @@
       "fn": "Zach",
       "ln": "Sabers",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "14",
       "school": "Campbell University",
       "season_batting": null,
@@ -610,7 +640,7 @@
       "fn": "Mason",
       "ln": "Smith",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "16",
       "school": "Campbell University",
       "season_batting": null,
@@ -706,7 +736,7 @@
       "fn": "Logen",
       "ln": "Sutton",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "19",
       "school": "Campbell University",
       "season_batting": {
@@ -743,7 +773,7 @@
       "fn": "David",
       "ln": "Rossow",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "20",
       "school": "Campbell University",
       "season_batting": null,
@@ -775,7 +805,7 @@
       "fn": "Lukas",
       "ln": "Schramm",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "22",
       "school": "Campbell University",
       "season_batting": {
@@ -886,7 +916,7 @@
       "fn": "Jarrett",
       "ln": "Martin",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "Campbell University",
       "season_batting": {
@@ -941,7 +971,7 @@
       "fn": "Joey",
       "ln": "Morton",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "25",
       "school": "Campbell University",
       "season_batting": {
@@ -969,8 +999,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Coastal Carolina",
+        "result": "W 4-3",
+        "boxscore_url": "https://www.gocamels.com/boxscore.aspx?id=208105&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 2,
+          "h": 2,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. Coastal Carolina (W 4-3). Hitting .250 with 4 HR through 19 games."
     },
     "469d6cbf": {
       "id": "469d6cbf",
@@ -978,7 +1023,7 @@
       "fn": "Aaron",
       "ln": "Smigelski",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "28",
       "school": "Campbell University",
       "season_batting": {
@@ -1314,7 +1359,7 @@
       "fn": "Beau",
       "ln": "Brailey",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "43",
       "school": "Campbell University",
       "season_batting": null,
@@ -1487,7 +1532,7 @@
       "fn": "Gabriel",
       "ln": "Cruz",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "47",
       "school": "Campbell University",
       "season_batting": null,
@@ -1519,7 +1564,7 @@
       "fn": "Parker",
       "ln": "Webb",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "48",
       "school": "Campbell University",
       "season_batting": null,
@@ -1578,7 +1623,7 @@
       "fn": "Cooper",
       "ln": "Clark",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "49",
       "school": "Campbell University",
       "season_batting": null,

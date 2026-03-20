@@ -2,7 +2,7 @@
   "school": "Stony Brook University",
   "base_url": "https://stonybrookathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:56:47.492904Z",
+  "generated_at": "2026-03-20T00:45:23.884465Z",
   "record": "3-14",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -144,8 +144,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Charleston",
+        "result": "W 6-2",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12438&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 5,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Charleston (W 6-2). Hitting .236 with 1 HR through 17 games."
     },
     "d22f2792": {
       "id": "d22f2792",
@@ -363,8 +378,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Charleston",
+        "result": "W 6-2",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12438&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH/3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Charleston (W 6-2). Hitting .285 with 0 HR through 5 games."
     },
     "30fb00b0": {
       "id": "30fb00b0",
@@ -544,22 +574,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Charleston",
-        "result": "W 5-4",
-        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12437&path=baseball",
+        "result": "W 6-2",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12438&path=baseball",
         "batting": {
-          "ab": 5,
+          "ab": 2,
           "r": 0,
-          "h": 2,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "dh"
+          "so": 0,
+          "pos": "PH/dh"
         },
         "pitching": null
       },
-      "narrative": "2/5 with 0 RBI vs. Charleston (W 5-4). Hitting .272 with 1 HR through 11 games."
+      "narrative": "0/2 with 0 RBI vs. Charleston (W 6-2). Hitting .272 with 1 HR through 11 games."
     },
     "9dade87e": {
       "id": "9dade87e",
@@ -595,8 +625,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Charleston",
+        "result": "W 6-2",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12438&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Charleston (W 6-2). Hitting .196 with 1 HR through 17 games."
     },
     "e46f6a55": {
       "id": "e46f6a55",
@@ -827,8 +872,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Charleston",
+        "result": "W 6-2",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12438&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 0 RBI vs. Charleston (W 6-2). Hitting .258 with 1 HR through 17 games."
     },
     "a239acec": {
       "id": "a239acec",
@@ -1037,22 +1097,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Charleston",
-        "result": "W 5-4",
-        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12437&path=baseball",
+        "result": "W 6-2",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12438&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "rf"
+          "pos": "PH/dh"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Charleston (W 5-4). Hitting .106 with 2 HR through 17 games."
+      "narrative": "1/1 with 1 RBI vs. Charleston (W 6-2). Hitting .106 with 2 HR through 17 games."
     },
     "afd739c5": {
       "id": "afd739c5",
@@ -1469,22 +1529,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Charleston",
-        "result": "W 5-4",
-        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12437&path=baseball",
+        "result": "W 6-2",
+        "boxscore_url": "https://stonybrookathletics.com/boxscore.aspx?id=12438&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "PH"
+          "so": 0,
+          "pos": "PH/3b"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Charleston (W 5-4). Hitting .000 with 0 HR through 4 games."
+      "narrative": "0/1 with 0 RBI vs. Charleston (W 6-2). Hitting .000 with 0 HR through 4 games."
     },
     "624357df": {
       "id": "624357df",

@@ -2,7 +2,7 @@
   "school": "Southern University, Baton Rouge",
   "base_url": "https://www.gojagsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:55:50.256791Z",
+  "generated_at": "2026-03-20T00:44:24.489207Z",
   "record": "6-13",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -52,7 +52,7 @@
       "fn": "Kennedy",
       "ln": "Drexler",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "1",
       "school": "Southern University, Baton Rouge",
       "season_batting": {
@@ -132,8 +132,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Florida A&M",
+        "result": "W 10-6",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7497&path=bb",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 2,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 1 RBI vs. Florida A&M (W 10-6). Hitting .326 with 0 HR through 13 games."
     },
     "9b562c3c": {
       "id": "9b562c3c",
@@ -280,8 +295,23 @@
         "sb_att": 14
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "Florida A&M",
+        "result": "L 5-9",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7496&path=bb",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 2,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 2 RBI vs. Florida A&M (L 5-9). Hitting .290 with 0 HR through 18 games."
     },
     "e7da72e7": {
       "id": "e7da72e7",
@@ -317,8 +347,23 @@
         "sb_att": 7
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Florida A&M",
+        "result": "W 10-6",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7497&path=bb",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 3,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. Florida A&M (W 10-6). Hitting .129 with 0 HR through 11 games."
     },
     "ebde28a5": {
       "id": "ebde28a5",
@@ -496,7 +541,7 @@
       "fn": "Tyrin",
       "ln": "Kirklin",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "11",
       "school": "Southern University, Baton Rouge",
       "season_batting": {
@@ -885,7 +930,7 @@
       "fn": "Omari",
       "ln": "Johnson",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "23",
       "school": "Southern University, Baton Rouge",
       "season_batting": {
@@ -1009,8 +1054,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Florida A&M",
+        "result": "W 10-6",
+        "boxscore_url": "https://www.gojagsports.com/boxscore.aspx?id=7497&path=bb",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Florida A&M (W 10-6). Hitting .379 with 0 HR through 18 games."
     },
     "88ee36a9": {
       "id": "88ee36a9",
@@ -1285,7 +1345,7 @@
       "fn": "Stephen",
       "ln": "Tolbert",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "34",
       "school": "Southern University, Baton Rouge",
       "season_batting": null,
@@ -1317,7 +1377,7 @@
       "fn": "Sadir",
       "ln": "Ryan",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "35",
       "school": "Southern University, Baton Rouge",
       "season_batting": {
@@ -1354,7 +1414,7 @@
       "fn": "Noah",
       "ln": "Bagby",
       "pos": "LHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "37",
       "school": "Southern University, Baton Rouge",
       "season_batting": null,
@@ -1386,7 +1446,7 @@
       "fn": "Brayden",
       "ln": "Guillory",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "38",
       "school": "Southern University, Baton Rouge",
       "season_batting": null,
@@ -1536,7 +1596,7 @@
       "fn": "Glenn",
       "ln": "Green III",
       "pos": "UTL",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "45",
       "school": "Southern University, Baton Rouge",
       "season_batting": {
@@ -1591,7 +1651,7 @@
       "fn": "Damien",
       "ln": "Johnson",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "48",
       "school": "Southern University, Baton Rouge",
       "season_batting": {
@@ -1628,7 +1688,7 @@
       "fn": "Breyan",
       "ln": "Brooks",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "50",
       "school": "Southern University, Baton Rouge",
       "season_batting": null,
@@ -1660,7 +1720,7 @@
       "fn": "Daniel",
       "ln": "McIntosh",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "52",
       "school": "Southern University, Baton Rouge",
       "season_batting": null,

@@ -2,7 +2,7 @@
   "school": "University of North Alabama",
   "base_url": "https://www.roarlions.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:07:07.800907Z",
+  "generated_at": "2026-03-20T00:57:06.107106Z",
   "record": "8-13",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -228,7 +228,7 @@
       "fn": "Cayden",
       "ln": "Sheffield",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "7",
       "school": "University of North Alabama",
       "season_batting": {
@@ -334,7 +334,7 @@
       "fn": "Charlie",
       "ln": "Cochran",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "10",
       "school": "University of North Alabama",
       "season_batting": {
@@ -371,7 +371,7 @@
       "fn": "Jordan",
       "ln": "Touhey",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "11",
       "school": "University of North Alabama",
       "season_batting": null,
@@ -458,8 +458,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tennessee Tech",
+        "result": "L 9-10",
+        "boxscore_url": "https://www.roarlions.com/boxscore.aspx?id=5243&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 0 RBI vs. Tennessee Tech (L 9-10). Hitting .326 with 0 HR through 16 games."
     },
     "917900e6": {
       "id": "917900e6",
@@ -613,8 +628,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tennessee Tech",
+        "result": "L 9-10",
+        "boxscore_url": "https://www.roarlions.com/boxscore.aspx?id=5243&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Tennessee Tech (L 9-10). Hitting .161 with 2 HR through 20 games."
     },
     "269243a6": {
       "id": "269243a6",
@@ -654,7 +684,7 @@
       "fn": "Jackson",
       "ln": "Cheek",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "20",
       "school": "University of North Alabama",
       "season_batting": {
@@ -691,7 +721,7 @@
       "fn": "Justus",
       "ln": "Agosto",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "21",
       "school": "University of North Alabama",
       "season_batting": null,
@@ -787,7 +817,7 @@
       "fn": "Kevin",
       "ln": "Henrich",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "24",
       "school": "University of North Alabama",
       "season_batting": null,
@@ -846,7 +876,7 @@
       "fn": "Alex",
       "ln": "Wade",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "25",
       "school": "University of North Alabama",
       "season_batting": {
@@ -1149,7 +1179,7 @@
       "fn": "Josh",
       "ln": "Bowerman",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "33",
       "school": "University of North Alabama",
       "season_batting": null,
@@ -1322,7 +1352,7 @@
       "fn": "Petey",
       "ln": "Craska",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "40",
       "school": "University of North Alabama",
       "season_batting": {
@@ -1350,8 +1380,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Tennessee Tech",
+        "result": "L 9-10",
+        "boxscore_url": "https://www.roarlions.com/boxscore.aspx?id=5243&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 2,
+          "rbi": 3,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 3 RBI vs. Tennessee Tech (L 9-10). Hitting .315 with 2 HR through 21 games."
     },
     "e66458e5": {
       "id": "e66458e5",

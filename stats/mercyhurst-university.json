@@ -2,7 +2,7 @@
   "school": "Mercyhurst University",
   "base_url": "https://www.hurstathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:47:22.133603Z",
+  "generated_at": "2026-03-20T00:35:00.755445Z",
   "record": "4-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -271,22 +271,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "Delaware St.",
-        "result": "W 10-0",
-        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15391&path=baseball",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15392&path=baseball",
         "batting": {
-          "ab": 0,
-          "r": 2,
-          "h": 0,
+          "ab": 4,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "ss"
+          "bb": 0,
+          "so": 2,
+          "pos": "3b/ss"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "1/4 with 0 RBI vs. Delaware St. (W 9-8). Hitting .192 with 0 HR through 9 games."
     },
     "74887f7d": {
       "id": "74887f7d",
@@ -411,8 +411,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Delaware St.",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15392&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 4,
+          "bb": 1,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 4 RBI vs. Delaware St. (W 9-8). Hitting .295 with 1 HR through 14 games."
     },
     "6f705c8f": {
       "id": "6f705c8f",
@@ -804,7 +819,22 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Delaware St.",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15392&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "76caab57": {
@@ -1500,8 +1530,23 @@
         "sb_att": 8
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Delaware St.",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.hurstathletics.com/boxscore.aspx?id=15392&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Delaware St. (W 9-8). Hitting .307 with 1 HR through 7 games."
     },
     "853f1ade": {
       "id": "853f1ade",

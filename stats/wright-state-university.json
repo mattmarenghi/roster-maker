@@ -2,7 +2,7 @@
   "school": "Wright State University",
   "base_url": "https://www.wsuraiders.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:14:31.628810Z",
+  "generated_at": "2026-03-20T01:06:03.952441Z",
   "record": "5-12",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -456,7 +456,7 @@
       "fn": "Hunter",
       "ln": "Warren",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "12",
       "school": "Wright State University",
       "season_batting": {
@@ -511,7 +511,7 @@
       "fn": "Brett",
       "ln": "Denby",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "13",
       "school": "Wright State University",
       "season_batting": {
@@ -825,7 +825,7 @@
       "fn": "Cam",
       "ln": "Gilkerson",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "23",
       "school": "Wright State University",
       "season_batting": {
@@ -1055,7 +1055,7 @@
       "fn": "Cooper",
       "ln": "Robinson",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "30",
       "school": "Wright State University",
       "season_batting": null,
@@ -1212,7 +1212,7 @@
       "fn": "Keegan",
       "ln": "Holmstrom",
       "pos": "LHP/1B",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "35",
       "school": "Wright State University",
       "season_batting": {

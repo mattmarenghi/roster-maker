@@ -2,7 +2,7 @@
   "school": "Alabama A&M University",
   "base_url": "https://www.aamusports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:32:27.162501Z",
+  "generated_at": "2026-03-20T00:19:31.106951Z",
   "record": "7-16",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -394,7 +394,7 @@
       "fn": "Miles",
       "ln": "Jackson",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "7",
       "school": "Alabama A&M University",
       "season_batting": {
@@ -526,8 +526,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Jacksonville St.",
+        "result": "L 7-12",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8747&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 2,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 2 RBI vs. Jacksonville St. (L 7-12). Hitting .312 with 0 HR through 16 games."
     },
     "9775452d": {
       "id": "9775452d",
@@ -563,8 +578,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UAB",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8647&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 1 RBI vs. UAB (W 9-8). Hitting .115 with 1 HR through 17 games."
     },
     "7451c08d": {
       "id": "7451c08d",
@@ -718,8 +748,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UAB",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8647&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. UAB (W 9-8). Hitting .255 with 1 HR through 17 games."
     },
     "6e276ea4": {
       "id": "6e276ea4",
@@ -873,8 +918,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "UAB",
+        "result": "W 9-8",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8647&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 0 RBI vs. UAB (W 9-8). Hitting .166 with 0 HR through 11 games."
     },
     "fa3da83b": {
       "id": "fa3da83b",
@@ -941,7 +1001,7 @@
       "fn": "Jose",
       "ln": "Valerio",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "19",
       "school": "Alabama A&M University",
       "season_batting": null,
@@ -1032,7 +1092,7 @@
       "fn": "Anthony",
       "ln": "Mateo",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "21",
       "school": "Alabama A&M University",
       "season_batting": null,
@@ -1092,8 +1152,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Jacksonville St.",
+        "result": "L 7-12",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8747&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Jacksonville St. (L 7-12). Hitting .378 with 0 HR through 12 games."
     },
     "746c17da": {
       "id": "746c17da",
@@ -1101,7 +1176,7 @@
       "fn": "KJ",
       "ln": "Stanfield",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "23",
       "school": "Alabama A&M University",
       "season_batting": {
@@ -1153,7 +1228,7 @@
       "fn": "Avery",
       "ln": "Seaton",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "24",
       "school": "Alabama A&M University",
       "season_batting": null,
@@ -1330,7 +1405,7 @@
       "fn": "Edyn",
       "ln": "Barber",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "28",
       "school": "Alabama A&M University",
       "season_batting": null,
@@ -1567,8 +1642,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Jacksonville St.",
+        "result": "L 7-12",
+        "boxscore_url": "https://www.aamusports.com/boxscore.aspx?id=8747&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 1,
+          "rbi": 2,
+          "bb": 0,
+          "so": 1,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 2 RBI vs. Jacksonville St. (L 7-12). Hitting .316 with 3 HR through 20 games."
     },
     "89db4ad2": {
       "id": "89db4ad2",
@@ -1836,7 +1926,7 @@
       "fn": "Colin",
       "ln": "Mason",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "40",
       "school": "Alabama A&M University",
       "season_batting": {

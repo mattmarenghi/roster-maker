@@ -2,7 +2,7 @@
   "school": "University of New Orleans",
   "base_url": "https://www.unoprivateers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:06:55.553026Z",
+  "generated_at": "2026-03-20T00:56:46.748011Z",
   "record": "9-14",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -213,7 +213,7 @@
       "fn": "Evan",
       "ln": "Rogers",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "4",
       "school": "University of New Orleans",
       "season_batting": {
@@ -260,34 +260,22 @@
         "opp_avg": ".167"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Tulane",
-        "result": "W 5-2",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "ULM",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12659&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 1,
-          "r": 1,
-          "er": 1,
           "bb": 2,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
       },
-      "narrative": "0.2 IP, 0 K vs. Tulane (W 5-2). At 1.80 ERA through 5.0 innings on the season."
+      "narrative": "0/3 with 0 RBI vs. ULM (W 17-12). Hitting .337 with 1 HR through 22 games."
     },
     "70292a8a": {
       "id": "70292a8a",
@@ -417,7 +405,7 @@
       "name": "Eli Tidwell",
       "fn": "Eli",
       "ln": "Tidwell",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Jr.",
       "num": "8",
       "school": "University of New Orleans",
@@ -446,8 +434,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "ULM",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12659&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 3,
+          "h": 3,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "3b/2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/5 with 0 RBI vs. ULM (W 17-12). Hitting .341 with 5 HR through 22 games."
     },
     "d9cb6ae2": {
       "id": "d9cb6ae2",
@@ -691,7 +694,7 @@
       "name": "Kaden Irving",
       "fn": "Kaden",
       "ln": "Irving",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Jr.",
       "num": "15",
       "school": "University of New Orleans",
@@ -761,7 +764,7 @@
       "fn": "Trey",
       "ln": "Usey",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "17",
       "school": "University of New Orleans",
       "season_batting": null,
@@ -931,7 +934,7 @@
       "fn": "Collin",
       "ln": "Husser",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "22",
       "school": "University of New Orleans",
       "season_batting": {
@@ -959,8 +962,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "ULM",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12659&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 2,
+          "pos": "PH/lf"
+        },
+        "pitching": null
+      },
+      "narrative": "1/2 with 1 RBI vs. ULM (W 17-12). Hitting .111 with 1 HR through 8 games."
     },
     "0a7f31b9": {
       "id": "0a7f31b9",
@@ -1195,7 +1213,7 @@
       "name": "Miles Curley",
       "fn": "Miles",
       "ln": "Curley",
-      "pos": "UTIL",
+      "pos": "UTL",
       "yr": "Jr.",
       "num": "28",
       "school": "University of New Orleans",
@@ -1248,7 +1266,7 @@
       "fn": "Collin",
       "ln": "Loupe",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "29",
       "school": "University of New Orleans",
       "season_batting": {
@@ -1276,7 +1294,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "ULM",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12659&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "4a06cb09": {
@@ -1372,8 +1405,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "ULM",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12659&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. ULM (W 17-12). Hitting .258 with 0 HR through 18 games."
     },
     "46c1f885": {
       "id": "46c1f885",
@@ -1472,7 +1520,7 @@
       "fn": "Skylar",
       "ln": "Jones",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "34",
       "school": "University of New Orleans",
       "season_batting": null,
@@ -1825,8 +1873,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "ULM",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12659&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 1,
+          "h": 0,
+          "rbi": 1,
+          "bb": 3,
+          "so": 0,
+          "pos": "lf/1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/2 with 1 RBI vs. ULM (W 17-12). Hitting .270 with 6 HR through 23 games."
     },
     "224e7839": {
       "id": "224e7839",
@@ -1881,34 +1944,22 @@
         "opp_avg": ".167"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Tulane",
-        "result": "W 5-2",
-        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12658&path=baseball",
+        "date": "2026-03-18",
+        "opponent": "ULM",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.unoprivateers.com/boxscore.aspx?id=12659&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 1,
-          "r": 1,
-          "er": 1,
           "bb": 2,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
       },
-      "narrative": "0.2 IP, 0 K vs. Tulane (W 5-2). At 1.80 ERA through 5.0 innings on the season."
+      "narrative": "0/3 with 0 RBI vs. ULM (W 17-12). Hitting .337 with 1 HR through 22 games."
     },
     "0ad7f8ea": {
       "id": "0ad7f8ea",

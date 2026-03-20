@@ -2,7 +2,7 @@
   "school": "University of Washington",
   "base_url": "https://gohuskies.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:11:19.151876Z",
+  "generated_at": "2026-03-20T01:02:10.603279Z",
   "record": "27-40",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -57,7 +57,7 @@
       "fn": "Colton",
       "ln": "",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "2",
       "school": "University of Washington",
       "season_batting": {
@@ -982,7 +982,7 @@
       "fn": "Peysen",
       "ln": "",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "35",
       "school": "University of Washington",
       "season_batting": {
@@ -1093,7 +1093,7 @@
       "fn": "Jaxson",
       "ln": "",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "45",
       "school": "University of Washington",
       "season_batting": {
@@ -1204,7 +1204,7 @@
       "fn": "Tommy",
       "ln": "",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "55",
       "school": "University of Washington",
       "season_batting": {

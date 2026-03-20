@@ -2,7 +2,7 @@
   "school": "Middle Tennessee State University",
   "base_url": "https://www.goblueraiders.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:48:17.404204Z",
+  "generated_at": "2026-03-20T00:36:07.312546Z",
   "record": "30-38",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -20,7 +20,7 @@
       "fn": "Grant",
       "ln": "Snider",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "1",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -130,7 +130,7 @@
       "fn": "Cooper",
       "ln": "Clapp",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "4",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -185,7 +185,7 @@
       "fn": "Matt",
       "ln": "Wolfe",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "5",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -240,7 +240,7 @@
       "fn": "Keaton",
       "ln": "Ray",
       "pos": "OF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "6",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -295,7 +295,7 @@
       "fn": "Layne",
       "ln": "Akers",
       "pos": "UTL",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "7",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -350,7 +350,7 @@
       "fn": "Nathan",
       "ln": "Brewer",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "8",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -621,7 +621,7 @@
       "fn": "Brett",
       "ln": "Rogers",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "13",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -778,7 +778,7 @@
       "fn": "Ethan",
       "ln": "Robinson",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "17",
       "school": "Middle Tennessee State University",
       "season_batting": null,
@@ -829,7 +829,7 @@
       "fn": "Brett",
       "ln": "Vondohlen",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "18",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -935,7 +935,7 @@
       "fn": "Kenny",
       "ln": "McKinley",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -1245,7 +1245,7 @@
       "fn": "Walker",
       "ln": "Shaw",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "31",
       "school": "Middle Tennessee State University",
       "season_batting": null,
@@ -1296,7 +1296,7 @@
       "fn": "Drew",
       "ln": "Horn",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "32",
       "school": "Middle Tennessee State University",
       "season_batting": null,
@@ -1555,7 +1555,7 @@
       "fn": "Konner",
       "ln": "Bowden",
       "pos": "OF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "40",
       "school": "Middle Tennessee State University",
       "season_batting": {
@@ -1592,7 +1592,7 @@
       "fn": "Calvin",
       "ln": "Cook",
       "pos": "INF",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "41",
       "school": "Middle Tennessee State University",
       "season_batting": {

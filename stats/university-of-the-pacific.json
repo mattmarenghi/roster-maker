@@ -2,7 +2,7 @@
   "school": "University of the Pacific",
   "base_url": "https://www.pacifictigers.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:11:52.453517Z",
+  "generated_at": "2026-03-20T01:02:55.897367Z",
   "record": "8-12",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -20,7 +20,7 @@
       "fn": "Colin",
       "ln": "Spear",
       "pos": "1B",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "0",
       "school": "University of the Pacific",
       "season_batting": {
@@ -123,7 +123,7 @@
       "name": "Rylan Evans",
       "fn": "Rylan",
       "ln": "Evans",
-      "pos": "UT",
+      "pos": "UTL",
       "yr": "Sr.",
       "num": "3",
       "school": "University of the Pacific",
@@ -176,7 +176,7 @@
       "fn": "Robert",
       "ln": "Orr",
       "pos": "SS/RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "4",
       "school": "University of the Pacific",
       "season_batting": {
@@ -293,8 +293,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Winthrop",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10548&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 2,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. Winthrop (L 2-8). Hitting .246 with 1 HR through 20 games."
     },
     "5ae11b0b": {
       "id": "5ae11b0b",
@@ -464,7 +479,7 @@
       "name": "Diego Davis",
       "fn": "Diego",
       "ln": "Davis",
-      "pos": "C/UT",
+      "pos": "C/UTL",
       "yr": "So.",
       "num": "13",
       "school": "University of the Pacific",
@@ -545,8 +560,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Winthrop",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10548&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. Winthrop (L 2-8). Hitting .272 with 0 HR through 20 games."
     },
     "8d7a0ed0": {
       "id": "8d7a0ed0",
@@ -554,7 +584,7 @@
       "fn": "Dylan",
       "ln": "McShane",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "16",
       "school": "University of the Pacific",
       "season_batting": null,
@@ -820,7 +850,7 @@
       "fn": "Andrew",
       "ln": "Sloan",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "23",
       "school": "University of the Pacific",
       "season_batting": {
@@ -900,8 +930,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Winthrop",
+        "result": "L 2-8",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10548&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 1,
+          "h": 2,
+          "rbi": 0,
+          "bb": 1,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/3 with 0 RBI vs. Winthrop (L 2-8). Hitting .261 with 1 HR through 20 games."
     },
     "1a6fe84d": {
       "id": "1a6fe84d",
@@ -909,7 +954,7 @@
       "fn": "JT",
       "ln": "Shank",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "27",
       "school": "University of the Pacific",
       "season_batting": {
@@ -961,7 +1006,7 @@
       "fn": "Garret",
       "ln": "Plata",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "28",
       "school": "University of the Pacific",
       "season_batting": null,
@@ -1163,7 +1208,7 @@
       "fn": "Elias",
       "ln": "Valdez",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "32",
       "school": "University of the Pacific",
       "season_batting": null,
@@ -1333,7 +1378,7 @@
       "fn": "Mike",
       "ln": "Santos-LaPlaca",
       "pos": "INF/C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "35",
       "school": "University of the Pacific",
       "season_batting": {
@@ -1361,8 +1406,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Sacramento St.",
+        "result": "L 6-18",
+        "boxscore_url": "https://www.pacifictigers.com/boxscore.aspx?id=10547&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/3 with 0 RBI vs. Sacramento St. (L 6-18). Hitting .250 with 0 HR through 2 games."
     },
     "9d039769": {
       "id": "9d039769",
@@ -1429,7 +1489,7 @@
       "fn": "Liam",
       "ln": "Smith",
       "pos": "RHP",
-      "yr": "R-Fr.",
+      "yr": "Fr.",
       "num": "40",
       "school": "University of the Pacific",
       "season_batting": null,
@@ -1488,7 +1548,7 @@
       "fn": "Zach",
       "ln": "Todd",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "41",
       "school": "University of the Pacific",
       "season_batting": null,
@@ -1520,7 +1580,7 @@
       "fn": "Carson",
       "ln": "Revay",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "47",
       "school": "University of the Pacific",
       "season_batting": null,

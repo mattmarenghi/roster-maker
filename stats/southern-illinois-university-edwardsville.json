@@ -2,7 +2,7 @@
   "school": "Southern Illinois University Edwardsville",
   "base_url": "https://www.siuecougars.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:55:31.813390Z",
+  "generated_at": "2026-03-20T00:44:09.447781Z",
   "record": "8-13",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -100,8 +100,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Illinois St.",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.siuecougars.com/boxscore.aspx?id=16781&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Illinois St. (W 6-5). Hitting .325 with 10 HR through 21 games."
     },
     "74f3b87a": {
       "id": "74f3b87a",
@@ -161,7 +176,7 @@
       "fn": "Trent",
       "ln": "Koehler",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "6",
       "school": "Southern Illinois University Edwardsville",
       "season_batting": null,
@@ -248,8 +263,23 @@
         "sb_att": 3
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Illinois St.",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.siuecougars.com/boxscore.aspx?id=16781&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Illinois St. (W 6-5). Hitting .191 with 5 HR through 21 games."
     },
     "462b1067": {
       "id": "462b1067",
@@ -285,8 +315,23 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "Illinois St.",
+        "result": "W 6-5",
+        "boxscore_url": "https://www.siuecougars.com/boxscore.aspx?id=16781&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 1,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/4 with 0 RBI vs. Illinois St. (W 6-5). Hitting .300 with 1 HR through 21 games."
     },
     "3c2a855a": {
       "id": "3c2a855a",
@@ -294,7 +339,7 @@
       "fn": "Easton",
       "ln": "Harris",
       "pos": "RHP/UTL",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "10",
       "school": "Southern Illinois University Edwardsville",
       "season_batting": {
@@ -642,7 +687,7 @@
       "fn": "Porter",
       "ln": "Conn",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "17",
       "school": "Southern Illinois University Edwardsville",
       "season_batting": null,
@@ -969,7 +1014,7 @@
       "fn": "Spencer",
       "ln": "Stearns",
       "pos": "INF/RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "25",
       "school": "Southern Illinois University Edwardsville",
       "season_batting": null,
@@ -1415,7 +1460,7 @@
       "fn": "Nicholas",
       "ln": "Moten",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "36",
       "school": "Southern Illinois University Edwardsville",
       "season_batting": null,
@@ -1447,7 +1492,7 @@
       "fn": "Kyle",
       "ln": "Rossy",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "40",
       "school": "Southern Illinois University Edwardsville",
       "season_batting": null,

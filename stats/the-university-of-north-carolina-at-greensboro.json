@@ -2,7 +2,7 @@
   "school": "The University of North Carolina at Greensboro",
   "base_url": "https://www.uncgspartans.com",
   "season": "2026",
-  "generated_at": "2026-03-19T11:44:36.434849Z",
+  "generated_at": "2026-03-20T00:47:05.883959Z",
   "record": "10-12",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -748,23 +748,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-11",
-        "opponent": "North Carolina AT",
-        "result": "L 7-9",
-        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9876&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "PH"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. North Carolina AT (L 7-9). Hitting .125 with 0 HR through 4 games."
+      "last_game": null,
+      "narrative": null
     },
     "0adb01e8": {
       "id": "0adb01e8",
@@ -906,35 +891,8 @@
         "wp": 1,
         "opp_avg": ".326"
       },
-      "last_game": {
-        "date": "2026-03-13",
-        "opponent": "Ill.-Chicago",
-        "result": "L 5-9",
-        "boxscore_url": "https://www.uncgspartans.com/boxscore.aspx?id=9877&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "4.2",
-          "h": 4,
-          "r": 2,
-          "er": 1,
-          "bb": 5,
-          "so": 7,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "4.2 IP, 7 K vs. Ill.-Chicago (L 5-9). At 7.74 ERA through 22.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "b279dff6": {
       "id": "b279dff6",

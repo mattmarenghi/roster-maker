@@ -2,7 +2,7 @@
   "school": "University of Louisiana Monroe",
   "base_url": "https://www.ulmwarhawks.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:04:10.425480Z",
+  "generated_at": "2026-03-20T00:53:43.650169Z",
   "record": "13-9",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -109,7 +109,7 @@
       "fn": "Kade",
       "ln": "Dupont",
       "pos": "INF",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "4",
       "school": "University of Louisiana Monroe",
       "season_batting": {
@@ -137,8 +137,23 @@
         "sb_att": 5
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "New Orleans",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.ulmwarhawks.com/boxscore.aspx?id=16413&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/4 with 1 RBI vs. New Orleans (W 17-12). Hitting .403 with 1 HR through 19 games."
     },
     "bc5770d5": {
       "id": "bc5770d5",
@@ -198,7 +213,7 @@
       "fn": "Seaver",
       "ln": "Sheets",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "6",
       "school": "University of Louisiana Monroe",
       "season_batting": null,
@@ -338,7 +353,7 @@
       "fn": "Adam",
       "ln": "Tubbs",
       "pos": "LHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "13",
       "school": "University of Louisiana Monroe",
       "season_batting": null,
@@ -425,8 +440,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "New Orleans",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.ulmwarhawks.com/boxscore.aspx?id=16413&path=baseball",
+        "batting": {
+          "ab": 2,
+          "r": 3,
+          "h": 2,
+          "rbi": 4,
+          "bb": 2,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "2/2 with 4 RBI vs. New Orleans (W 17-12). Hitting .370 with 5 HR through 22 games."
     },
     "c3e11b8e": {
       "id": "c3e11b8e",
@@ -462,7 +492,22 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "New Orleans",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.ulmwarhawks.com/boxscore.aspx?id=16413&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "PH/1b"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "9cf44b6c": {
@@ -551,8 +596,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "Texas St.",
+        "result": "W 16-5",
+        "boxscore_url": "https://www.ulmwarhawks.com/boxscore.aspx?id=16412&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Texas St. (W 16-5). Hitting .371 with 7 HR through 19 games."
     },
     "03a46123": {
       "id": "03a46123",
@@ -873,7 +933,7 @@
       "fn": "Canaan",
       "ln": "Clayton",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "32",
       "school": "University of Louisiana Monroe",
       "season_batting": null,
@@ -933,8 +993,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-18",
+        "opponent": "New Orleans",
+        "result": "W 17-12",
+        "boxscore_url": "https://www.ulmwarhawks.com/boxscore.aspx?id=16413&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/4 with 0 RBI vs. New Orleans (W 17-12). Hitting .215 with 2 HR through 16 games."
     },
     "a97cde29": {
       "id": "a97cde29",
@@ -1001,7 +1076,7 @@
       "fn": "Brandt",
       "ln": "Corley",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "36",
       "school": "University of Louisiana Monroe",
       "season_batting": null,
@@ -1238,7 +1313,7 @@
       "fn": "Holden",
       "ln": "Hess",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "41",
       "school": "University of Louisiana Monroe",
       "season_batting": null,
@@ -1411,7 +1486,7 @@
       "fn": "Hayden",
       "ln": "Donahue",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "45",
       "school": "University of Louisiana Monroe",
       "season_batting": null,
@@ -1633,7 +1708,7 @@
       "fn": "Jackson",
       "ln": "Conn",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "51",
       "school": "University of Louisiana Monroe",
       "season_batting": null,

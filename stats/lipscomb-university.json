@@ -2,7 +2,7 @@
   "school": "Lipscomb University",
   "base_url": "https://www.lipscombsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:45:36.866860Z",
+  "generated_at": "2026-03-20T00:33:11.001652Z",
   "record": "8-10",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -20,7 +20,7 @@
       "fn": "Eric",
       "ln": "Harper",
       "pos": "UTL",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "2",
       "school": "Lipscomb University",
       "season_batting": {
@@ -101,22 +101,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "North Alabama",
-        "result": "W 7-5",
-        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "result": "L 7-13",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
-          "ab": 5,
-          "r": 1,
-          "h": 0,
+          "ab": 2,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
-          "pos": "dh"
+          "so": 0,
+          "pos": "ph/1b"
         },
         "pitching": null
       },
-      "narrative": "Went 0/5 with 0 RBI against North Alabama. Struggled to make contact."
+      "narrative": "1/2 with 0 RBI vs. North Alabama (L 7-13). Hitting .326 with 2 HR through 16 games."
     },
     "1df514c5": {
       "id": "1df514c5",
@@ -288,8 +288,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "North Alabama",
+        "result": "L 7-13",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "batting": {
+          "ab": 4,
+          "r": 1,
+          "h": 3,
+          "rbi": 2,
+          "bb": 1,
+          "so": 2,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "3/4 with 2 RBI vs. North Alabama (L 7-13). Hitting .300 with 1 HR through 18 games."
     },
     "9cd3e24f": {
       "id": "9cd3e24f",
@@ -297,7 +312,7 @@
       "fn": "Adam",
       "ln": "Jamison",
       "pos": "RHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "9",
       "school": "Lipscomb University",
       "season_batting": null,
@@ -725,22 +740,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "opponent": "North Alabama",
-        "result": "W 7-5",
-        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "result": "L 7-13",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "ph"
+          "so": 0,
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "Went 0/1 with 0 RBI against North Alabama. Struggled to make contact."
+      "narrative": "0/3 with 0 RBI vs. North Alabama (L 7-13). Hitting .142 with 0 HR through 10 games."
     },
     "f4a00f0c": {
       "id": "f4a00f0c",
@@ -800,7 +815,7 @@
       "fn": "Danny",
       "ln": "Ramirez",
       "pos": "1B/OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "21",
       "school": "Lipscomb University",
       "season_batting": {
@@ -880,8 +895,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-15",
+        "opponent": "North Alabama",
+        "result": "L 7-13",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13300&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "1b/3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 0 RBI vs. North Alabama (L 7-13). Hitting .295 with 1 HR through 17 games."
     },
     "8384600e": {
       "id": "8384600e",
@@ -917,7 +947,22 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
+      "last_game": {
+        "date": "2026-03-14",
+        "opponent": "North Alabama",
+        "result": "W 7-5",
+        "boxscore_url": "https://www.lipscombsports.com/boxscore.aspx?id=13299&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "pr/rf"
+        },
+        "pitching": null
+      },
       "narrative": null
     },
     "9a131632": {
@@ -1059,7 +1104,7 @@
       "fn": "Simon",
       "ln": "Scharff",
       "pos": "C",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "27",
       "school": "Lipscomb University",
       "season_batting": {
@@ -1448,7 +1493,7 @@
       "fn": "Caleb",
       "ln": "Pica",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "43",
       "school": "Lipscomb University",
       "season_batting": null,
@@ -1591,7 +1636,7 @@
       "fn": "Tanner",
       "ln": "Lyne",
       "pos": "RHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "50",
       "school": "Lipscomb University",
       "season_batting": null,
@@ -1650,7 +1695,7 @@
       "fn": "Landon",
       "ln": "Kiefer",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "55",
       "school": "Lipscomb University",
       "season_batting": null,

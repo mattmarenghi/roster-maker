@@ -2,7 +2,7 @@
   "school": "University of Texas at Arlington",
   "base_url": "https://www.utamavs.com",
   "season": "2026",
-  "generated_at": "2026-03-19T08:10:25.798010Z",
+  "generated_at": "2026-03-20T01:00:52.554265Z",
   "record": "7-13",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -109,7 +109,7 @@
       "fn": "Zach",
       "ln": "Mazoch",
       "pos": "C",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "3",
       "school": "University of Texas at Arlington",
       "season_batting": {
@@ -190,22 +190,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "lf"
+          "rbi": 1,
+          "bb": 0,
+          "so": 1,
+          "pos": "lf/rf"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. UTSA (W 15-8). Hitting .241 with 0 HR through 12 games."
+      "narrative": "0/3 with 1 RBI vs. Stephen F. Austin (L 1-4). Hitting .218 with 0 HR through 13 games."
     },
     "8b345f6c": {
       "id": "8b345f6c",
@@ -241,8 +241,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 4,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "4/5 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .393 with 1 HR through 20 games."
     },
     "4fc3631b": {
       "id": "4fc3631b",
@@ -301,7 +316,7 @@
       "name": "Caylon Dygert",
       "fn": "Caylon",
       "ln": "Dygert",
-      "pos": "RHP/UTIL",
+      "pos": "RHP/UTL",
       "yr": "Jr.",
       "num": "9",
       "school": "University of Texas at Arlington",
@@ -452,8 +467,23 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .317 with 2 HR through 16 games."
     },
     "f383cc2e": {
       "id": "f383cc2e",
@@ -565,7 +595,7 @@
       "fn": "Noah",
       "ln": "Fields",
       "pos": "INF/OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "15",
       "school": "University of Texas at Arlington",
       "season_batting": {
@@ -594,22 +624,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTSA",
-        "result": "W 15-8",
-        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21034&path=baseball",
+        "date": "2026-03-17",
+        "opponent": "Stephen F. Austin",
+        "result": "L 1-4",
+        "boxscore_url": "https://www.utamavs.com/boxscore.aspx?id=21035&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 1,
-          "h": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 2,
           "rbi": 0,
-          "bb": 0,
+          "bb": 1,
           "so": 0,
-          "pos": "rf"
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 0 RBI vs. UTSA (W 15-8). Hitting .175 with 2 HR through 16 games."
+      "narrative": "2/4 with 0 RBI vs. Stephen F. Austin (L 1-4). Hitting .196 with 2 HR through 17 games."
     },
     "ab730823": {
       "id": "ab730823",
@@ -1051,7 +1081,7 @@
       "fn": "Cayden",
       "ln": "Burch",
       "pos": "INF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "25",
       "school": "University of Texas at Arlington",
       "season_batting": {
@@ -1485,7 +1515,7 @@
       "fn": "Ty",
       "ln": "Zahradnik",
       "pos": "LHP",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "44",
       "school": "University of Texas at Arlington",
       "season_batting": null,

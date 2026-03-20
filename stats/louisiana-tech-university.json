@@ -2,13 +2,13 @@
   "school": "Louisiana Tech University",
   "base_url": "https://www.latechsports.com",
   "season": "2026",
-  "generated_at": "2026-03-19T07:46:12.751937Z",
+  "generated_at": "2026-03-20T00:33:43.946995Z",
   "record": "14-8",
   "most_recent_game": {
     "date": "2026-03-17",
     "opponent": "Central Arkansas",
     "result": "W 5-4",
-    "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+    "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
     "recap_url": "https://www.latechsports.com/news/2026/3/17/baseball-dogs-walk-off-bears-in-tuesday-night-midweek-clash.aspx",
     "recap_headline": "LA Tech Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -104,19 +104,19 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 0,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
-          "pos": "PH"
+          "so": 0,
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Central Arkansas (W 5-4). Hitting .318 with 3 HR through 10 games."
+      "narrative": null
     },
     "62ea2a2d": {
       "id": "62ea2a2d",
@@ -161,7 +161,7 @@
       "fn": "Cade",
       "ln": "Patterson",
       "pos": "OF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "4",
       "school": "Louisiana Tech University",
       "season_batting": {
@@ -193,7 +193,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
@@ -250,7 +250,7 @@
       "fn": "Zeb",
       "ln": "Ruddell",
       "pos": "OF",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "6",
       "school": "Louisiana Tech University",
       "season_batting": {
@@ -282,7 +282,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -329,7 +329,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "4.0",
@@ -385,7 +385,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -432,7 +432,7 @@
         "date": "2026-03-15",
         "opponent": "Delaware",
         "result": "W 17-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -492,8 +492,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Central Arkansas",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 1,
+          "bb": 0,
+          "so": 0,
+          "pos": "1b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 1 RBI vs. Central Arkansas (W 5-4). Hitting .272 with 7 HR through 22 games."
     },
     "99a4a8d0": {
       "id": "99a4a8d0",
@@ -561,8 +576,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Central Arkansas",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Central Arkansas (W 5-4). Hitting .268 with 2 HR through 21 games."
     },
     "6a5e684d": {
       "id": "6a5e684d",
@@ -598,8 +628,23 @@
         "sb_att": 6
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Central Arkansas",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "batting": {
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "1/5 with 0 RBI vs. Central Arkansas (W 5-4). Hitting .333 with 6 HR through 22 games."
     },
     "45573904": {
       "id": "45573904",
@@ -634,7 +679,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -694,8 +739,23 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-17",
+        "opponent": "Central Arkansas",
+        "result": "W 5-4",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 3,
+          "pos": "2b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. Central Arkansas (W 5-4). Hitting .268 with 2 HR through 21 games."
     },
     "b2b3dc61": {
       "id": "b2b3dc61",
@@ -735,7 +795,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -787,7 +847,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -807,7 +867,7 @@
       "fn": "Reid",
       "ln": "Snider",
       "pos": "INF",
-      "yr": "R-So.",
+      "yr": "So.",
       "num": "25",
       "school": "Louisiana Tech University",
       "season_batting": {
@@ -871,7 +931,7 @@
         "date": "2026-03-15",
         "opponent": "Delaware",
         "result": "W 17-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -903,7 +963,7 @@
       "fn": "Riley",
       "ln": "Fisher",
       "pos": "LHP",
-      "yr": "R-Jr.",
+      "yr": "Jr.",
       "num": "28",
       "school": "Louisiana Tech University",
       "season_batting": null,
@@ -930,7 +990,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -994,19 +1054,19 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 0,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
-          "pos": "PH"
+          "so": 0,
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Central Arkansas (W 5-4). Hitting .318 with 3 HR through 10 games."
+      "narrative": null
     },
     "dba4857e": {
       "id": "dba4857e",
@@ -1073,7 +1133,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": null,
         "pitching": {
           "ip": "2.0",
@@ -1124,7 +1184,7 @@
         "date": "2026-03-14",
         "opponent": "Delaware",
         "result": "W 9-3",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14315&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1183,7 +1243,7 @@
         "date": "2026-03-15",
         "opponent": "Delaware",
         "result": "W 17-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14316&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1306,7 +1366,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1365,7 +1425,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1397,7 +1457,7 @@
       "fn": "Kade",
       "ln": "Parker",
       "pos": "RHP",
-      "yr": "R-Sr.",
+      "yr": "Sr.",
       "num": "41",
       "school": "Louisiana Tech University",
       "season_batting": null,
@@ -1493,7 +1553,7 @@
         "date": "2026-03-17",
         "opponent": "Central Arkansas",
         "result": "W 5-4",
-        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=",
+        "boxscore_url": "https://www.latechsports.com/boxscore.aspx?id=14317&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
