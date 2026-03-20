@@ -769,7 +769,27 @@ _WATCH_URL_RE = re.compile(
 
 
 def _extract_watch_url_nuxt(item: dict, rv_local) -> str | None:
-    """Try to extract a streaming/watch URL from a NUXT schedule game object."""
+    """Try to extract a streaming/watch URL from a NUXT schedule game object.
+
+    SIDEARM stores the watch link at: game.media -> {video: ...} -> {url: "https://espn.com/..."}
+    Falls back to scanning all top-level fields for URL strings.
+    """
+    # Primary: media.video.url (SIDEARM standard location for ESPN/streaming links)
+    media_raw = item.get("media")
+    if media_raw is not None:
+        media = rv_local(media_raw)
+        if isinstance(media, dict):
+            video_raw = media.get("video")
+            if video_raw is not None:
+                video = rv_local(video_raw)
+                if isinstance(video, dict):
+                    url_raw = video.get("url")
+                    if url_raw is not None:
+                        url = rv_local(url_raw)
+                        if isinstance(url, str) and url.startswith("http"):
+                            return url
+
+    # Fallback: scan all top-level fields for URL strings or link lists
     for key, raw_val in item.items():
         val = rv_local(raw_val)
         # Direct string URL
