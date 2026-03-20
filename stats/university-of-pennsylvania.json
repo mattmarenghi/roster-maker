@@ -2,13 +2,13 @@
   "school": "University of Pennsylvania",
   "base_url": "https://www.pennathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-20T00:58:38.207235Z",
+  "generated_at": "2026-03-20T08:03:07.891295Z",
   "record": "4-10",
   "most_recent_game": {
     "date": "2026-03-18",
     "opponent": "LEHIGH",
     "result": "W 15-2",
-    "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+    "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
     "recap_url": "https://www.pennathletics.com/news/2026/3/18/baseball-quakers-take-down-lehigh-in-seven-innings-15-2.aspx",
     "recap_headline": "University of Pennsylvania Athletics",
     "recap_text": ""
@@ -52,7 +52,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -104,7 +104,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,
@@ -174,7 +174,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -256,7 +256,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -320,7 +320,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -367,7 +367,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -426,7 +426,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -490,7 +490,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -542,7 +542,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -594,7 +594,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 3,
           "r": 4,
@@ -720,7 +720,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -767,7 +767,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -858,7 +858,7 @@
         "date": "2026-03-14",
         "opponent": "East Carolina",
         "result": "L 0-1",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -922,7 +922,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 3,
           "r": 3,
@@ -969,7 +969,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1033,7 +1033,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1085,7 +1085,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1132,7 +1132,7 @@
         "date": "2026-03-14",
         "opponent": "East Carolina",
         "result": "L 0-1",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29994&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1255,7 +1255,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1319,7 +1319,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1366,7 +1366,7 @@
         "date": "2026-03-15",
         "opponent": "East Carolina",
         "result": "W 8-7",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29995&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1430,7 +1430,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -1477,7 +1477,7 @@
         "date": "2026-03-18",
         "opponent": "LEHIGH",
         "result": "W 15-2",
-        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=",
+        "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,

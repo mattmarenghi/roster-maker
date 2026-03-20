@@ -2,16 +2,16 @@
   "school": "West Virginia University",
   "base_url": "https://www.wvusports.com",
   "season": "2026",
-  "generated_at": "2026-03-20T01:04:44.502926Z",
+  "generated_at": "2026-03-20T08:07:59.538671Z",
   "record": "34-45",
   "most_recent_game": {
     "date": "2026-03-19",
     "opponent": "Byu",
     "result": "W",
     "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/byu/boxscore/21377",
-    "recap_url": null,
-    "recap_headline": "",
-    "recap_text": ""
+    "recap_url": "https://www.wvusports.com/news/2026/3/19/baseball-mountaineers-win-series-opener-against-byu",
+    "recap_headline": "West Virginia University",
+    "recap_text": "MORGANTOWN, W.Va.\u00a0\u2013\u00a0The No. 20 West Virginia University baseball team opened its series against BYU with a 7-4-win, Thursday evening at Kendrick Family Ballpark. The Mountaineers improve to 14-4 and 3-1 in Big 12 play while the Cougars fall to 10-10 and 2-2 in conference action.\nJunior\nDawson Montesa\nbounced back from a tough start his last time out with 7.0 solid innings, allowing just two runs on three hits while striking out seven and walking none. Freshman\nDavid Perez\nstruck out two in the ninth to earn his third save of the season.\nAt the plate, sophomore\nGavin Kelly\nhit his third home run of the year and had two RBI. Senior\nPaul Schoenfeld\nreached base five times with two hits and three walks. He also had one of two stellar catches on the day for the Mountaineer outfield as he made a catch at the top of the wall to rob Keoni Painter. Earlier in the game, Painter was robbed by senior\nBrock Wills\nin left field as he made a running catch before crashing through the BYU bullpen gate.\nThe Mountaineers jumped out to the lead in the second inning with four runs. Senior\nMatthew Graveline\nopened the scoring with an RBI double before coming in to score on a single by junior\nTyrus Hall\non the 10\nth\npitch of the at-bat. A wild pitch brought in a third run before Schoenfeld capped the inning with an RBI single.\nAfter BYU hit a solo home run in the fifth, West Virginia answered with three runs in the sixth. An error brought home the first run before Kelly smacked a two-run home run to left.\nEaston Jones hit a solo home run in the seventh and a two-run home run in the ninth for the Cougars. Perez entered the game with one out in the ninth and squashed any rally, striking out the two hitters he faced.\nThe two teams will be back on the diamond on Friday with first pitch set for 2 p.m.\nFor more information on the Mountaineers, follow @WVUBaseball on\nTwitter\n,\nFacebook\n, and\nInstagram\n."
   },
   "players": {
     "ce392c10": {
@@ -531,18 +531,18 @@
         "opp_avg": ".095"
       },
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "Maryland",
+        "date": "2026-03-19",
+        "opponent": "BYU",
         "result": "W",
-        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/maryland/boxscore/21372",
+        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/byu/boxscore/21377",
         "batting": null,
         "pitching": {
-          "ip": "0.1",
+          "ip": "1.0",
           "h": 0,
           "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 0,
+          "so": 2,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -550,7 +550,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Maryland, throwing 0.1 innings. Allowed 0 earned run(s) with 0 strikeout(s)."
+      "narrative": "1.0 IP, 2 K vs. BYU (W). At 2.57 ERA through 7.0 innings on the season."
     },
     "a457f051": {
       "id": "a457f051",
@@ -605,17 +605,17 @@
         "opp_avg": ".429"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Baylor",
+        "date": "2026-03-19",
+        "opponent": "BYU",
         "result": "W",
-        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/baylor/boxscore/21375",
+        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/byu/boxscore/21377",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "bb": 0,
+          "so": 2,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -623,7 +623,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/3 with 0 RBI against Baylor. Contributed at the plate in the team's W."
+      "narrative": "0/4 with 0 RBI vs. BYU (W). Hitting .283 with 2 HR through 18 games."
     },
     "27c63146": {
       "id": "27c63146",
@@ -931,17 +931,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Baylor",
+        "date": "2026-03-19",
+        "opponent": "BYU",
         "result": "W",
-        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/baylor/boxscore/21375",
+        "boxscore_url": "https://www.wvusports.com/sports/baseball/stats/2026/byu/boxscore/21377",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 1,
+          "ab": 3,
+          "r": 2,
+          "h": 2,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
+          "bb": 2,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -949,7 +949,7 @@
         },
         "pitching": null
       },
-      "narrative": "Went 1/4 with 0 RBI against Baylor. Contributed at the plate in the team's W."
+      "narrative": "2/3 with 0 RBI vs. BYU (W). Hitting .408 with 2 HR through 18 games."
     },
     "37291e51": {
       "id": "37291e51",

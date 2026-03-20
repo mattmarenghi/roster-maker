@@ -2,7 +2,7 @@
   "school": "Jackson State University",
   "base_url": "https://www.gojsutigers.com",
   "season": "2026",
-  "generated_at": "2026-03-20T00:30:56.825351Z",
+  "generated_at": "2026-03-20T07:40:12.520752Z",
   "record": "10-12",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -462,58 +462,6 @@
         }
       },
       "narrative": "1.1 IP, 0 K vs. Mississippi State (W 17-1). At 11.25 ERA through 7.2 innings on the season."
-    },
-    "cba371de": {
-      "id": "cba371de",
-      "name": "Payton Boines",
-      "fn": "Payton",
-      "ln": "Boines",
-      "pos": "",
-      "yr": "",
-      "num": "",
-      "school": "Jackson State University",
-      "season_batting": {
-        "g": 16,
-        "gs": 14,
-        "avg": 0.373,
-        "ops": 1.04,
-        "ab": 51,
-        "r": 13,
-        "h": 19,
-        "doubles": 5,
-        "triples": 0,
-        "hr": 2,
-        "rbi": 13,
-        "tb": 30,
-        "slg": 0.588,
-        "bb": 6,
-        "hbp": 3,
-        "so": 8,
-        "gdp": 0,
-        "obp": 0.452,
-        "sf": 2,
-        "sh": 0,
-        "sb": 2,
-        "sb_att": 2
-      },
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mississippi State",
-        "result": "W 17-1",
-        "boxscore_url": "https://www.gojsutigers.com/boxscore.aspx?id=5206&path=baseball",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "2b"
-        },
-        "pitching": null
-      },
-      "narrative": "0/3 with 0 RBI vs. Mississippi State (W 17-1). Hitting .372 with 2 HR through 16 games."
     },
     "b65df6f1": {
       "id": "b65df6f1",

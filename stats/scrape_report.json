@@ -7,16 +7,16 @@
       "record": "5-16"
     },
     {
-      "school": "Alabama State University",
-      "slug": "alabama-state-university",
-      "players": 32,
-      "record": "9-10"
-    },
-    {
       "school": "Abilene Christian University",
       "slug": "abilene-christian-university",
       "players": 32,
       "record": "10-11"
+    },
+    {
+      "school": "Alabama State University",
+      "slug": "alabama-state-university",
+      "players": 32,
+      "record": "9-10"
     },
     {
       "school": "Alabama A&M University",
@@ -31,16 +31,16 @@
       "record": "18-2"
     },
     {
-      "school": "Austin Peay State University",
-      "slug": "austin-peay-state-university",
-      "players": 32,
-      "record": "11-10"
-    },
-    {
       "school": "Arkansas State University",
       "slug": "arkansas-state-university",
       "players": 30,
       "record": "15-6"
+    },
+    {
+      "school": "Austin Peay State University",
+      "slug": "austin-peay-state-university",
+      "players": 32,
+      "record": "11-10"
     },
     {
       "school": "Ball State University",
@@ -79,16 +79,16 @@
       "record": "6-10"
     },
     {
+      "school": "Brigham Young University",
+      "slug": "brigham-young-university",
+      "players": 36,
+      "record": "10-10"
+    },
+    {
       "school": "Boston College",
       "slug": "boston-college",
       "players": 34,
       "record": "45-52"
-    },
-    {
-      "school": "Brigham Young University",
-      "slug": "brigham-young-university",
-      "players": 36,
-      "record": "10-9"
     },
     {
       "school": "Bowling Green State University",
@@ -115,12 +115,6 @@
       "record": "10-14"
     },
     {
-      "school": "California Baptist University",
-      "slug": "california-baptist-university",
-      "players": 34,
-      "record": "17-5"
-    },
-    {
       "school": "California State University, Bakersfield",
       "slug": "california-state-university-bakersfield",
       "players": 41,
@@ -131,6 +125,12 @@
       "slug": "california-polytechnic-state-university",
       "players": 28,
       "record": "6-10"
+    },
+    {
+      "school": "California Baptist University",
+      "slug": "california-baptist-university",
+      "players": 34,
+      "record": "17-5"
     },
     {
       "school": "California State University, Fresno",
@@ -145,16 +145,16 @@
       "record": "10-10"
     },
     {
-      "school": "California State University, Sacramento",
-      "slug": "california-state-university-sacramento",
-      "players": 33,
-      "record": "8-13"
-    },
-    {
       "school": "California State University, Northridge",
       "slug": "california-state-university-northridge",
       "players": 32,
       "record": "19-26"
+    },
+    {
+      "school": "California State University, Sacramento",
+      "slug": "california-state-university-sacramento",
+      "players": 33,
+      "record": "9-13"
     },
     {
       "school": "Campbell University",
@@ -193,12 +193,6 @@
       "record": "6-13"
     },
     {
-      "school": "Coppin State University",
-      "slug": "coppin-state-university",
-      "players": 28,
-      "record": "2-13"
-    },
-    {
       "school": "College of Charleston (South Carolina)",
       "slug": "college-of-charleston-south-carolina",
       "players": 34,
@@ -211,16 +205,16 @@
       "record": "2-11"
     },
     {
+      "school": "Coppin State University",
+      "slug": "coppin-state-university",
+      "players": 28,
+      "record": "2-13"
+    },
+    {
       "school": "Cornell University",
       "slug": "cornell-university",
       "players": 27,
       "record": "2-11"
-    },
-    {
-      "school": "Creighton University",
-      "slug": "creighton-university",
-      "players": 29,
-      "record": "9-8"
     },
     {
       "school": "Dartmouth College",
@@ -229,16 +223,22 @@
       "record": "3-8"
     },
     {
-      "school": "Delaware State University",
-      "slug": "delaware-state-university",
-      "players": 31,
-      "record": "1-17"
+      "school": "Creighton University",
+      "slug": "creighton-university",
+      "players": 29,
+      "record": "9-8"
     },
     {
       "school": "Davidson College",
       "slug": "davidson-college",
       "players": 34,
       "record": "15-17"
+    },
+    {
+      "school": "Delaware State University",
+      "slug": "delaware-state-university",
+      "players": 31,
+      "record": "1-17"
     },
     {
       "school": "East Tennessee State University",
@@ -253,16 +253,16 @@
       "record": "10-8"
     },
     {
-      "school": "East Carolina University",
-      "slug": "east-carolina-university",
-      "players": 34,
-      "record": "13-8-1"
-    },
-    {
       "school": "Duke University",
       "slug": "duke-university",
       "players": 38,
       "record": "15-8"
+    },
+    {
+      "school": "East Carolina University",
+      "slug": "east-carolina-university",
+      "players": 34,
+      "record": "13-8-1"
     },
     {
       "school": "Eastern Kentucky University",
@@ -295,12 +295,6 @@
       "record": "7-12"
     },
     {
-      "school": "Fordham University",
-      "slug": "fordham-university",
-      "players": 32,
-      "record": "9-10"
-    },
-    {
       "school": "Florida International University",
       "slug": "florida-international-university",
       "players": 37,
@@ -311,6 +305,12 @@
       "slug": "florida-atlantic-university",
       "players": 32,
       "record": "13-8"
+    },
+    {
+      "school": "Fordham University",
+      "slug": "fordham-university",
+      "players": 32,
+      "record": "9-10"
     },
     {
       "school": "George Mason University",
@@ -375,7 +375,7 @@
     {
       "school": "Jackson State University",
       "slug": "jackson-state-university",
-      "players": 30,
+      "players": 29,
       "record": "10-12"
     },
     {
@@ -463,6 +463,12 @@
       "record": "4-11"
     },
     {
+      "school": "Long Beach State University",
+      "slug": "long-beach-state-university",
+      "players": 35,
+      "record": "26-36"
+    },
+    {
       "school": "Louisiana Tech University",
       "slug": "louisiana-tech-university",
       "players": 34,
@@ -473,12 +479,6 @@
       "slug": "loyola-marymount-university",
       "players": 33,
       "record": "7-16"
-    },
-    {
-      "school": "Long Beach State University",
-      "slug": "long-beach-state-university",
-      "players": 35,
-      "record": "26-36"
     },
     {
       "school": "Manhattan University",
@@ -505,6 +505,12 @@
       "record": "16-26"
     },
     {
+      "school": "Mercer University",
+      "slug": "mercer-university",
+      "players": 37,
+      "record": "18-3"
+    },
+    {
       "school": "Mercyhurst University",
       "slug": "mercyhurst-university",
       "players": 34,
@@ -517,10 +523,10 @@
       "record": "8-8"
     },
     {
-      "school": "Mercer University",
-      "slug": "mercer-university",
-      "players": 37,
-      "record": "18-3"
+      "school": "Miami University (Ohio)",
+      "slug": "miami-university-ohio",
+      "players": 35,
+      "record": "46-58"
     },
     {
       "school": "Michigan State University",
@@ -529,22 +535,16 @@
       "record": "15-29"
     },
     {
-      "school": "Miami University (Ohio)",
-      "slug": "miami-university-ohio",
-      "players": 35,
-      "record": "46-58"
+      "school": "Mississippi State University",
+      "slug": "mississippi-state-university",
+      "players": 36,
+      "record": "37-46"
     },
     {
       "school": "Middle Tennessee State University",
       "slug": "middle-tennessee-state-university",
       "players": 32,
       "record": "30-38"
-    },
-    {
-      "school": "Mississippi State University",
-      "slug": "mississippi-state-university",
-      "players": 36,
-      "record": "37-46"
     },
     {
       "school": "Mississippi Valley State University",
@@ -559,22 +559,28 @@
       "record": "12-7"
     },
     {
-      "school": "Morehead State University",
-      "slug": "morehead-state-university",
-      "players": 35,
-      "record": "10-11"
-    },
-    {
       "school": "Monmouth University",
       "slug": "monmouth-university",
       "players": 32,
       "record": "8-9"
     },
     {
+      "school": "Morehead State University",
+      "slug": "morehead-state-university",
+      "players": 35,
+      "record": "10-11"
+    },
+    {
       "school": "Mount St. Mary's University",
       "slug": "mount-st-marys-university",
       "players": 39,
       "record": "10-8"
+    },
+    {
+      "school": "Murray State University",
+      "slug": "murray-state-university",
+      "players": 36,
+      "record": "13-8"
     },
     {
       "school": "New Jersey Institute of Technology",
@@ -589,12 +595,6 @@
       "record": "5-10"
     },
     {
-      "school": "Murray State University",
-      "slug": "murray-state-university",
-      "players": 36,
-      "record": "13-8"
-    },
-    {
       "school": "Nicholls State University",
       "slug": "nicholls-state-university",
       "players": 40,
@@ -607,16 +607,16 @@
       "record": "4-15"
     },
     {
-      "school": "North Carolina A&T State University",
-      "slug": "north-carolina-at-state-university",
-      "players": 33,
-      "record": "4-15"
-    },
-    {
       "school": "North Carolina Central University",
       "slug": "north-carolina-central-university",
       "players": 31,
       "record": "27-20"
+    },
+    {
+      "school": "North Carolina A&T State University",
+      "slug": "north-carolina-at-state-university",
+      "players": 33,
+      "record": "4-15"
     },
     {
       "school": "Northern Illinois University",
@@ -625,22 +625,16 @@
       "record": "10-7"
     },
     {
-      "school": "Northwestern State University",
-      "slug": "northwestern-state-university",
-      "players": 36,
-      "record": "13-8"
-    },
-    {
       "school": "North Carolina State University",
       "slug": "north-carolina-state-university",
       "players": 32,
       "record": "56-63"
     },
     {
-      "school": "Ohio University",
-      "slug": "ohio-university",
-      "players": 33,
-      "record": "3-18"
+      "school": "Northwestern State University",
+      "slug": "northwestern-state-university",
+      "players": 36,
+      "record": "13-8"
     },
     {
       "school": "Northwestern University",
@@ -649,22 +643,28 @@
       "record": "9-13"
     },
     {
+      "school": "Ohio University",
+      "slug": "ohio-university",
+      "players": 33,
+      "record": "3-18"
+    },
+    {
       "school": "Old Dominion University",
       "slug": "old-dominion-university",
       "players": 42,
       "record": "10-9"
     },
     {
-      "school": "Pennsylvania State University",
-      "slug": "pennsylvania-state-university",
-      "players": 39,
-      "record": "5-13"
-    },
-    {
       "school": "Oklahoma State University",
       "slug": "oklahoma-state-university",
       "players": 35,
       "record": "26-32"
+    },
+    {
+      "school": "Pennsylvania State University",
+      "slug": "pennsylvania-state-university",
+      "players": 39,
+      "record": "5-13"
     },
     {
       "school": "Oregon State University",
@@ -709,16 +709,16 @@
       "record": "4-16"
     },
     {
-      "school": "Radford University",
-      "slug": "radford-university",
-      "players": 30,
-      "record": "8-9"
-    },
-    {
       "school": "Quinnipiac University",
       "slug": "quinnipiac-university",
       "players": 32,
       "record": "25-36"
+    },
+    {
+      "school": "Radford University",
+      "slug": "radford-university",
+      "players": 30,
+      "record": "8-9"
     },
     {
       "school": "Rider University",
@@ -739,12 +739,6 @@
       "record": "17-23"
     },
     {
-      "school": "Saint Joseph's University",
-      "slug": "saint-josephs-university",
-      "players": 30,
-      "record": "8-10"
-    },
-    {
       "school": "Rutgers, The State University of New Jersey, New Brunswick",
       "slug": "rutgers-the-state-university-of-new-jersey-new-brunswick",
       "players": 30,
@@ -757,10 +751,10 @@
       "record": "9-11"
     },
     {
-      "school": "Samford University",
-      "slug": "samford-university",
-      "players": 32,
-      "record": "8-11"
+      "school": "Saint Joseph's University",
+      "slug": "saint-josephs-university",
+      "players": 30,
+      "record": "8-10"
     },
     {
       "school": "San Diego State University",
@@ -769,10 +763,10 @@
       "record": "11-10"
     },
     {
-      "school": "San Jose State University",
-      "slug": "san-jose-state-university",
-      "players": 40,
-      "record": "7-12"
+      "school": "Saint Mary's College of California",
+      "slug": "saint-marys-college-of-california",
+      "players": 33,
+      "record": "11-9"
     },
     {
       "school": "Sam Houston State University",
@@ -781,10 +775,16 @@
       "record": "47-61"
     },
     {
-      "school": "Saint Mary's College of California",
-      "slug": "saint-marys-college-of-california",
-      "players": 33,
-      "record": "11-9"
+      "school": "Samford University",
+      "slug": "samford-university",
+      "players": 32,
+      "record": "8-11"
+    },
+    {
+      "school": "San Jose State University",
+      "slug": "san-jose-state-university",
+      "players": 40,
+      "record": "7-12"
     },
     {
       "school": "Seattle University",
@@ -799,16 +799,16 @@
       "record": "9-10"
     },
     {
-      "school": "Siena University",
-      "slug": "siena-university",
-      "players": 34,
-      "record": "6-11"
-    },
-    {
       "school": "Seton Hall University",
       "slug": "seton-hall-university",
       "players": 33,
       "record": "8-8"
+    },
+    {
+      "school": "Siena University",
+      "slug": "siena-university",
+      "players": 34,
+      "record": "6-11"
     },
     {
       "school": "South Dakota State University",
@@ -835,16 +835,16 @@
       "record": "6-13"
     },
     {
-      "school": "St. Bonaventure University",
-      "slug": "st-bonaventure-university",
-      "players": 29,
-      "record": "4-14"
-    },
-    {
       "school": "Southern Illinois University at Carbondale",
       "slug": "southern-illinois-university-at-carbondale",
       "players": 37,
       "record": "8-11"
+    },
+    {
+      "school": "St. Bonaventure University",
+      "slug": "st-bonaventure-university",
+      "players": 29,
+      "record": "4-14"
     },
     {
       "school": "Stanford University",
@@ -857,6 +857,12 @@
       "slug": "st-johns-university-new-york",
       "players": 33,
       "record": "7-12"
+    },
+    {
+      "school": "Stephen F. Austin State University",
+      "slug": "stephen-f-austin-state-university",
+      "players": 37,
+      "record": "38-45"
     },
     {
       "school": "Stonehill College",
@@ -877,28 +883,22 @@
       "record": "13-7"
     },
     {
-      "school": "Stephen F. Austin State University",
-      "slug": "stephen-f-austin-state-university",
-      "players": 37,
-      "record": "38-45"
-    },
-    {
       "school": "Texas A&M University, College Station",
       "slug": "texas-am-university-college-station",
       "players": 30,
       "record": "22-29"
     },
     {
-      "school": "The Citadel",
-      "slug": "the-citadel",
-      "players": 37,
-      "record": "8-11"
-    },
-    {
       "school": "Texas Christian University",
       "slug": "texas-christian-university",
       "players": 30,
       "record": "39-45"
+    },
+    {
+      "school": "The Citadel",
+      "slug": "the-citadel",
+      "players": 37,
+      "record": "8-11"
     },
     {
       "school": "Texas Tech University",
@@ -913,16 +913,22 @@
       "record": "10-12"
     },
     {
+      "school": "The University of North Carolina at Charlotte",
+      "slug": "the-university-of-north-carolina-at-charlotte",
+      "players": 28,
+      "record": "14-7"
+    },
+    {
       "school": "The Ohio State University",
       "slug": "the-ohio-state-university",
       "players": 33,
       "record": "24-32"
     },
     {
-      "school": "The University of North Carolina at Charlotte",
-      "slug": "the-university-of-north-carolina-at-charlotte",
-      "players": 28,
-      "record": "14-7"
+      "school": "The University of Southern Mississippi",
+      "slug": "the-university-of-southern-mississippi",
+      "players": 33,
+      "record": "3-6"
     },
     {
       "school": "The University of Texas Rio Grande Valley",
@@ -937,12 +943,6 @@
       "record": "7-10"
     },
     {
-      "school": "The University of Southern Mississippi",
-      "slug": "the-university-of-southern-mississippi",
-      "players": 33,
-      "record": "3-6"
-    },
-    {
       "school": "Troy University",
       "slug": "troy-university",
       "players": 32,
@@ -955,16 +955,16 @@
       "record": "11-11"
     },
     {
-      "school": "University at Albany",
-      "slug": "university-at-albany",
-      "players": 28,
-      "record": "1-13"
-    },
-    {
       "school": "U.S. Air Force Academy",
       "slug": "us-air-force-academy",
       "players": 35,
       "record": "56-66"
+    },
+    {
+      "school": "University at Albany",
+      "slug": "university-at-albany",
+      "players": 28,
+      "record": "1-13"
     },
     {
       "school": "University of Akron",
@@ -1039,12 +1039,6 @@
       "record": "17-6"
     },
     {
-      "school": "University of Evansville",
-      "slug": "university-of-evansville",
-      "players": 33,
-      "record": "5-14"
-    },
-    {
       "school": "University of Connecticut",
       "slug": "university-of-connecticut",
       "players": 36,
@@ -1055,6 +1049,12 @@
       "slug": "university-of-delaware",
       "players": 30,
       "record": "26-28"
+    },
+    {
+      "school": "University of Evansville",
+      "slug": "university-of-evansville",
+      "players": 33,
+      "record": "5-14"
     },
     {
       "school": "University of Iowa",
@@ -1069,22 +1069,16 @@
       "record": "24-29"
     },
     {
-      "school": "University of Georgia",
-      "slug": "university-of-georgia",
-      "players": 40,
-      "record": "22-24"
-    },
-    {
       "school": "University of Houston",
       "slug": "university-of-houston",
       "players": 20,
       "record": "25-37"
     },
     {
-      "school": "University of Kansas",
-      "slug": "university-of-kansas",
-      "players": 29,
-      "record": "20-21"
+      "school": "University of Georgia",
+      "slug": "university-of-georgia",
+      "players": 40,
+      "record": "22-24"
     },
     {
       "school": "University of Louisiana Monroe",
@@ -1093,22 +1087,28 @@
       "record": "13-9"
     },
     {
+      "school": "University of Kansas",
+      "slug": "university-of-kansas",
+      "players": 29,
+      "record": "20-21"
+    },
+    {
       "school": "University of Louisiana at Lafayette",
       "slug": "university-of-louisiana-at-lafayette",
       "players": 30,
       "record": "44-59"
     },
     {
-      "school": "University of Maine",
-      "slug": "university-of-maine",
-      "players": 30,
-      "record": "2-17"
-    },
-    {
       "school": "University of Louisville",
       "slug": "university-of-louisville",
       "players": 39,
       "record": "15-6"
+    },
+    {
+      "school": "University of Maine",
+      "slug": "university-of-maine",
+      "players": 30,
+      "record": "2-17"
     },
     {
       "school": "University of Maryland Eastern Shore",
@@ -1135,12 +1135,6 @@
       "record": "5-14"
     },
     {
-      "school": "University of Minnesota, Twin Cities",
-      "slug": "university-of-minnesota-twin-cities",
-      "players": 31,
-      "record": "52-62"
-    },
-    {
       "school": "University of Massachusetts, Amherst",
       "slug": "university-of-massachusetts-amherst",
       "players": 31,
@@ -1151,6 +1145,12 @@
       "slug": "university-of-michigan",
       "players": 36,
       "record": "16-25"
+    },
+    {
+      "school": "University of Minnesota, Twin Cities",
+      "slug": "university-of-minnesota-twin-cities",
+      "players": 31,
+      "record": "52-62"
     },
     {
       "school": "University of Mississippi",
@@ -1165,10 +1165,10 @@
       "record": "16-5"
     },
     {
-      "school": "University of New Mexico",
-      "slug": "university-of-new-mexico",
-      "players": 44,
-      "record": "14-7"
+      "school": "University of Missouri, Columbia",
+      "slug": "university-of-missouri-columbia",
+      "players": 38,
+      "record": "34-40"
     },
     {
       "school": "University of New Haven",
@@ -1177,16 +1177,16 @@
       "record": "1-11"
     },
     {
+      "school": "University of New Mexico",
+      "slug": "university-of-new-mexico",
+      "players": 44,
+      "record": "14-7"
+    },
+    {
       "school": "University of New Orleans",
       "slug": "university-of-new-orleans",
       "players": 42,
       "record": "9-14"
-    },
-    {
-      "school": "University of Missouri, Columbia",
-      "slug": "university-of-missouri-columbia",
-      "players": 38,
-      "record": "34-40"
     },
     {
       "school": "University of North Alabama",
@@ -1222,7 +1222,7 @@
       "school": "University of Oklahoma",
       "slug": "university-of-oklahoma",
       "players": 34,
-      "record": "65-70"
+      "record": "66-71"
     },
     {
       "school": "University of Pennsylvania",
@@ -1243,16 +1243,16 @@
       "record": "11-7"
     },
     {
-      "school": "University of Rhode Island",
-      "slug": "university-of-rhode-island",
-      "players": 34,
-      "record": "4-14"
-    },
-    {
       "school": "University of Pittsburgh",
       "slug": "university-of-pittsburgh",
       "players": 32,
       "record": "17-22"
+    },
+    {
+      "school": "University of Rhode Island",
+      "slug": "university-of-rhode-island",
+      "players": 34,
+      "record": "4-14"
     },
     {
       "school": "University of South Alabama",
@@ -1267,16 +1267,16 @@
       "record": "53-65"
     },
     {
-      "school": "University of Southern Indiana",
-      "slug": "university-of-southern-indiana",
-      "players": 41,
-      "record": "13-8"
-    },
-    {
       "school": "University of South Carolina Upstate",
       "slug": "university-of-south-carolina-upstate",
       "players": 31,
       "record": "20-25"
+    },
+    {
+      "school": "University of Southern Indiana",
+      "slug": "university-of-southern-indiana",
+      "players": 41,
+      "record": "13-8"
     },
     {
       "school": "University of Southern California",
@@ -1297,6 +1297,12 @@
       "record": "7-13"
     },
     {
+      "school": "University of Tennessee at Martin",
+      "slug": "university-of-tennessee-at-martin",
+      "players": 30,
+      "record": "10-10"
+    },
+    {
       "school": "University of Tennessee, Knoxville",
       "slug": "university-of-tennessee-knoxville",
       "players": 33,
@@ -1307,18 +1313,6 @@
       "slug": "university-of-texas-at-san-antonio",
       "players": 44,
       "record": "15-6"
-    },
-    {
-      "school": "University of Tennessee at Martin",
-      "slug": "university-of-tennessee-at-martin",
-      "players": 30,
-      "record": "10-10"
-    },
-    {
-      "school": "University of Virginia",
-      "slug": "university-of-virginia",
-      "players": 41,
-      "record": "18-4"
     },
     {
       "school": "University of Texas at Austin",
@@ -1339,6 +1333,12 @@
       "record": "36-45"
     },
     {
+      "school": "University of Virginia",
+      "slug": "university-of-virginia",
+      "players": 41,
+      "record": "18-4"
+    },
+    {
       "school": "University of Washington",
       "slug": "university-of-washington",
       "players": 34,
@@ -1351,10 +1351,10 @@
       "record": "4-15"
     },
     {
-      "school": "University of West Georgia",
-      "slug": "university-of-west-georgia",
-      "players": 36,
-      "record": "5-16"
+      "school": "University of the Pacific",
+      "slug": "university-of-the-pacific",
+      "players": 33,
+      "record": "8-12"
     },
     {
       "school": "University of the Incarnate Word",
@@ -1363,22 +1363,16 @@
       "record": "12-9"
     },
     {
-      "school": "University of the Pacific",
-      "slug": "university-of-the-pacific",
-      "players": 33,
-      "record": "8-12"
+      "school": "University of West Georgia",
+      "slug": "university-of-west-georgia",
+      "players": 36,
+      "record": "5-16"
     },
     {
-      "school": "Utah Tech University",
-      "slug": "utah-tech-university",
-      "players": 34,
-      "record": "13-8"
-    },
-    {
-      "school": "Utah Valley University",
-      "slug": "utah-valley-university",
-      "players": 34,
-      "record": "10-9"
+      "school": "Virginia Military Institute",
+      "slug": "virginia-military-institute",
+      "players": 32,
+      "record": "17-3"
     },
     {
       "school": "Valparaiso University",
@@ -1387,16 +1381,22 @@
       "record": "6-10"
     },
     {
+      "school": "Utah Tech University",
+      "slug": "utah-tech-university",
+      "players": 34,
+      "record": "14-8"
+    },
+    {
+      "school": "Utah Valley University",
+      "slug": "utah-valley-university",
+      "players": 34,
+      "record": "10-9"
+    },
+    {
       "school": "Virginia Polytechnic Institute and State University",
       "slug": "virginia-polytechnic-institute-and-state-university",
       "players": 48,
       "record": "10-9"
-    },
-    {
-      "school": "Virginia Military Institute",
-      "slug": "virginia-military-institute",
-      "players": 32,
-      "record": "17-3"
     },
     {
       "school": "Wagner College",
@@ -1411,16 +1411,16 @@
       "record": "32-37"
     },
     {
-      "school": "Western Carolina University",
-      "slug": "western-carolina-university",
-      "players": 37,
-      "record": "15-7"
-    },
-    {
       "school": "Washington State University",
       "slug": "washington-state-university",
       "players": 35,
       "record": "19-30"
+    },
+    {
+      "school": "Western Carolina University",
+      "slug": "western-carolina-university",
+      "players": 37,
+      "record": "15-7"
     },
     {
       "school": "West Virginia University",
@@ -1435,10 +1435,10 @@
       "record": "4-16"
     },
     {
-      "school": "Winthrop University",
-      "slug": "winthrop-university",
-      "players": 33,
-      "record": "15-6"
+      "school": "Western Kentucky University",
+      "slug": "western-kentucky-university",
+      "players": 39,
+      "record": "38-45"
     },
     {
       "school": "William & Mary",
@@ -1447,22 +1447,22 @@
       "record": "7-12"
     },
     {
-      "school": "Western Kentucky University",
-      "slug": "western-kentucky-university",
-      "players": 39,
-      "record": "38-45"
-    },
-    {
-      "school": "Youngstown State University",
-      "slug": "youngstown-state-university",
+      "school": "Winthrop University",
+      "slug": "winthrop-university",
       "players": 33,
-      "record": "2-15"
+      "record": "15-7"
     },
     {
       "school": "Wright State University",
       "slug": "wright-state-university",
       "players": 31,
       "record": "5-12"
+    },
+    {
+      "school": "Youngstown State University",
+      "slug": "youngstown-state-university",
+      "players": 33,
+      "record": "2-15"
     },
     {
       "school": "Xavier University",

@@ -2,7 +2,7 @@
   "school": "Prairie View A&M University",
   "base_url": "https://www.pvpanthers.com",
   "season": "2026",
-  "generated_at": "2026-03-20T00:39:51.606718Z",
+  "generated_at": "2026-03-20T07:47:56.216241Z",
   "record": "4-15",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -1051,25 +1051,7 @@
         "sb": 1,
         "sb_att": 2
       },
-      "season_pitching": {
-        "era": 7.71,
-        "whip": 1.29,
-        "w": 0,
-        "l": 0,
-        "sv": 0,
-        "g": 1,
-        "gs": 0,
-        "ip": 2.1,
-        "h": 0,
-        "r": 3,
-        "er": 2,
-        "bb": 3,
-        "so": 4,
-        "hr": 0,
-        "hbp": 1,
-        "wp": 0,
-        "opp_avg": ".000"
-      },
+      "season_pitching": null,
       "last_game": null,
       "narrative": null
     },

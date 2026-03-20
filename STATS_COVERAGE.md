@@ -1,6 +1,6 @@
 # D1 Baseball Stats Coverage Report
 
-_Generated: 2026-03-20 01:06 UTC_
+_Generated: 2026-03-20 08:09 UTC_
 
 ## Summary
 
@@ -13,7 +13,7 @@ _Generated: 2026-03-20 01:06 UTC_
 | Incompatible (no Sidearm stats) | 41 |
 | Scraped — missing batting stats | 0 |
 | Scraped — missing pitching stats | 0 |
-| Scraped — missing game recap | 147 |
+| Scraped — missing game recap | 145 |
 | Scraped — missing season record | 0 |
 
 ## Compatible but Not Yet Scraped (8)
@@ -27,7 +27,7 @@ _Generated: 2026-03-20 01:06 UTC_
 - U.S. Military Academy
 - University at Buffalo, the State University of New York
 
-## Scraped but Missing Game Recaps (147)
+## Scraped but Missing Game Recaps (145)
 
 - Alabama A&M University
 - Alabama State University
@@ -146,7 +146,6 @@ _Generated: 2026-03-20 01:06 UTC_
 - University of Maryland Eastern Shore
 - University of Maryland, Baltimore County
 - University of Massachusetts Lowell
-- University of Mississippi
 - University of Nebraska-Lincoln
 - University of New Haven
 - University of New Mexico
@@ -170,7 +169,6 @@ _Generated: 2026-03-20 01:06 UTC_
 - Virginia Military Institute
 - Virginia Polytechnic Institute and State University
 - Wagner College
-- West Virginia University
 - Western Carolina University
 - Western Illinois University
 - William & Mary
