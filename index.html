@@ -448,6 +448,19 @@
       text-align: center;
       padding: 12px 14px;
     }
+    .pc-watch-link {
+      display: block;
+      margin-top: 6px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #e05c00;
+      text-decoration: none;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .pc-watch-link:hover {
+      text-decoration: underline;
+    }
     .pc-no-stats {
       font-size: 0.875rem;
       color: #b0b8d0;
@@ -1488,7 +1501,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.78 (claude/add-next-game-module-B0eKi)</div>`;
+        <div class="ps-version">VERSION 2.5.79 (claude/add-watch-game-links-y26XC)</div>`;
       return;
     }
 
@@ -1530,7 +1543,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.78 (claude/add-next-game-module-B0eKi)</div>`;
+      <div class="ps-version">VERSION 2.5.79 (claude/add-watch-game-links-y26XC)</div>`;
   }
 
   async function signOut() {
@@ -1984,10 +1997,20 @@
       const connector = ng.home_away === 'away' ? '@' : 'vs';
       const timePart = ng.time_et && ng.time_et !== 'TBA' ? ` ${ng.time_et}` : '';
       const nextGameText = `${dow} ${dateStr}${timePart} ${connector} ${ng.opponent}`;
+      const ngWatchLink = ng.watch_url
+        ? `<a class="pc-watch-link" href="${escapeHTML(ng.watch_url)}" target="_blank" rel="noopener noreferrer">Watch &#8599;</a>`
+        : '';
       nextGameHTML = `
         <div class="pc-stats-label">NEXT GAME</div>
-        <div class="pc-stats-box pc-next-game-box">${escapeHTML(nextGameText)}</div>`;
+        <div class="pc-stats-box pc-next-game-box">${escapeHTML(nextGameText)}${ngWatchLink}</div>`;
     }
+
+    // Watch link for last game — use school-level most_recent_game.watch_url when dates match
+    const mrg = schoolData ? schoolData.most_recent_game : null;
+    const lgWatchUrl = (lg && mrg && mrg.watch_url && lg.date === mrg.date) ? mrg.watch_url : null;
+    const lgWatchLink = lgWatchUrl
+      ? `<a class="pc-watch-link" href="${escapeHTML(lgWatchUrl)}" target="_blank" rel="noopener noreferrer">Watch &#8599;</a>`
+      : '';
 
     if (role === 'pitcher') {
       const lgStats = lg ? (formatLastGamePitching(lg) || formatLastGameBatting(lg)) : null;
@@ -1995,7 +2018,7 @@
         const gameLabel = 'LAST GAME';
         lastGameHTML = `
           <div class="pc-stats-label">${gameLabel} VS ${escapeHTML(lgStats.opponent).toUpperCase()}<div class="pc-stats-meta">${escapeHTML(lgStats.meta)}</div></div>
-          <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
+          <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}${lgWatchLink}</div>`;
       }
       const sp = playerData ? playerData.season_pitching : null;
       const seasonStats = formatSeasonPitching(sp);
@@ -2013,7 +2036,7 @@
       if (lgStats) {
         lastGameHTML = `
           <div class="pc-stats-label">LAST GAME VS ${escapeHTML(lgStats.opponent).toUpperCase()}<div class="pc-stats-meta">${escapeHTML(lgStats.meta)}</div></div>
-          <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}</div>`;
+          <div class="pc-stats-box">${statsGridHTML(lgStats.stats)}${lgWatchLink}</div>`;
       }
       const sb = playerData ? playerData.season_batting : null;
       const seasonStats = formatSeasonBatting(sb);
