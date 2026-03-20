@@ -1481,7 +1481,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.76 (claude/fix-logout-overlay-login-ckVpt)</div>`;
+        <div class="ps-version">VERSION 2.5.77 (claude/fix-last-updated-display-XoUni)</div>`;
       return;
     }
 
@@ -1523,7 +1523,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.76 (claude/fix-logout-overlay-login-ckVpt)</div>`;
+      <div class="ps-version">VERSION 2.5.77 (claude/fix-last-updated-display-XoUni)</div>`;
   }
 
   async function signOut() {
@@ -1760,6 +1760,7 @@
     }
     $('sectionHeaderRow').style.display = '';
     $('sectionDivider').style.display = '';
+    $('lastUpdated').style.display = '';
 
     if (favorites.size === 0) {
       syncSortSelect(false);
