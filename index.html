@@ -797,10 +797,10 @@
       min-height: 100vh;
       background: #f5f7fa;
       align-items: flex-start;
-      justify-content: center;
+      justify-content: flex-start;
       flex-direction: column;
       padding: 20px;
-      padding-top: 72px;
+      padding-top: 88px;
     }
     .auth-overlay.open { display: flex; }
 
@@ -1020,7 +1020,7 @@
   <div class="auth-logo" onclick="hideAuthModal()">Dugout Watch</div>
   <div class="auth-content">
     <div id="authStep1">
-      <h2>Get Started</h2>
+      <h2 id="authHeading">Get Started</h2>
       <div id="authPendingCard" class="auth-pending-card" style="display:none">
         <div class="auth-pending-card-icon">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
@@ -1028,11 +1028,11 @@
           </svg>
         </div>
         <div>
-          <div class="auth-pending-label">To follow</div>
           <div class="auth-pending-name" id="authPendingName"></div>
           <div class="auth-pending-meta" id="authPendingMeta"></div>
         </div>
       </div>
+      <p id="authPendingTagline" class="auth-desc" style="display:none">and thousands of other athletes.</p>
       <p class="auth-desc">Enter your email — we'll send you a one-time code. No password needed.</p>
       <label class="auth-label">Email Address</label>
       <input class="auth-input" id="authEmail" type="email"
@@ -1340,8 +1340,12 @@
       const parts = [pendingStarPlayer.school, pendingStarPlayer.pos, pendingStarPlayer.yr].filter(Boolean);
       $('authPendingMeta').textContent = parts.join(' · ');
       card.style.display = '';
+      $('authHeading').textContent = 'Get Started Following';
+      $('authPendingTagline').style.display = '';
     } else {
       card.style.display = 'none';
+      $('authHeading').textContent = 'Get Started';
+      $('authPendingTagline').style.display = 'none';
     }
     $('topBar').style.display = 'none';
     $('mainContent').style.display = 'none';
@@ -1351,6 +1355,8 @@
   function hideAuthModal() {
     pendingStarPlayer = null;
     $('authPendingCard').style.display = 'none';
+    $('authHeading').textContent = 'Get Started';
+    $('authPendingTagline').style.display = 'none';
     $('authOverlay').classList.remove('open');
     $('topBar').style.display = '';
     $('mainContent').style.display = '';
@@ -1475,7 +1481,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.75 (claude/fix-email-input-focus-o5A9f)</div>`;
+        <div class="ps-version">VERSION 2.5.76 (claude/fix-logout-overlay-login-ckVpt)</div>`;
       return;
     }
 
@@ -1517,11 +1523,12 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.75 (claude/fix-email-input-focus-o5A9f)</div>`;
+      <div class="ps-version">VERSION 2.5.76 (claude/fix-logout-overlay-login-ckVpt)</div>`;
   }
 
   async function signOut() {
     hideProfile();
+    exitSearchMode();
     currentUser = null;
     favorites = new Set();
     renderProfileBtn();
