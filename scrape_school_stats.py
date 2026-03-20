@@ -745,6 +745,175 @@ def scrape_record_from_gamelog(base_url: str, season: str, no_season: bool = Fal
 # Box score / game log scrapers
 # ---------------------------------------------------------------------------
 
+def _normalize_time_et(time_str: str) -> str:
+    """Convert SIDEARM time string (e.g. '3 p.m.', '12:30 p.m.') to '3:00 PM ET' format."""
+    if not time_str:
+        return ""
+    s = time_str.strip()
+    if s.upper() in ("TBA", "TBD"):
+        return "TBA"
+    s = s.replace("p.m.", "PM").replace("a.m.", "AM").replace("P.M.", "PM").replace("A.M.", "AM")
+    # Add :00 if no colon (e.g. "3 PM" -> "3:00 PM")
+    s = re.sub(r"^(\d+)\s+(AM|PM)$", r"\1:00 \2", s.strip())
+    s = re.sub(r"\s+", " ", s).strip()
+    if s and not s.endswith("ET"):
+        s += " ET"
+    return s
+
+
+def scrape_next_game(base_url: str) -> dict | None:
+    """
+    Scrape the team schedule page to find the next upcoming game.
+    Returns {date, opponent, home_away, time_et} or None.
+    home_away is "home", "away", or "neutral".
+    time_et is a formatted time string like "3:00 PM ET".
+    """
+    schedule_url = f"{base_url}/sports/baseball/schedule"
+    print(f"  Fetching schedule: {schedule_url}")
+    html = fetch(schedule_url)
+    if not html:
+        return None
+    time.sleep(DELAY)
+
+    today = datetime.utcnow().date()
+
+    # --- NUXT data approach (new SIDEARM Nuxt platform) ---
+    # Game objects in NUXT are dicts with keys: date, opponent, result, location_indicator, time
+    # Field values are indices into the NUXT array (dedup format).
+    nuxt_data = extract_nuxt_data(html)
+    if nuxt_data:
+        def rv_local(idx, depth=0):
+            if depth > 10 or not isinstance(idx, (int, str)):
+                return idx
+            try:
+                i = int(idx)
+            except (ValueError, TypeError):
+                return idx
+            if i >= len(nuxt_data):
+                return idx
+            val = nuxt_data[i]
+            if isinstance(val, list) and val and val[0] in ("ShallowReactive", "Reactive", "Set", "Map"):
+                return rv_local(val[1], depth + 1)
+            return val
+
+        future_games = []
+        for item in nuxt_data:
+            if not isinstance(item, dict):
+                continue
+            # SIDEARM schedule game objects have these keys
+            if not all(k in item for k in ["date", "opponent", "result", "location_indicator"]):
+                continue
+            date_val = rv_local(item["date"])
+            if not isinstance(date_val, str):
+                continue
+            try:
+                game_date = datetime.fromisoformat(date_val.split("T")[0]).date()
+            except (ValueError, AttributeError):
+                continue
+            if game_date < today:
+                continue
+            result_val = rv_local(item["result"])
+            result_status = ""
+            if isinstance(result_val, dict):
+                result_status = rv_local(result_val.get("status", "")) or ""
+            if result_status:
+                continue  # Game already played
+            opponent_val = rv_local(item["opponent"])
+            opp_name = ""
+            if isinstance(opponent_val, dict):
+                opp_name = str(rv_local(opponent_val.get("title", "")) or "").strip()
+            if not opp_name:
+                continue
+            loc_raw = rv_local(item.get("location_indicator", "H")) or "H"
+            loc_map = {"H": "home", "A": "away", "N": "neutral"}
+            home_away = loc_map.get(str(loc_raw).upper(), "home")
+            time_raw = str(rv_local(item.get("time", "")) or "")
+            future_games.append({
+                "date": game_date.strftime("%Y-%m-%d"),
+                "date_obj": game_date,
+                "opponent": opp_name,
+                "home_away": home_away,
+                "time_et": _normalize_time_et(time_raw),
+            })
+
+        if future_games:
+            future_games.sort(key=lambda g: g["date_obj"])
+            best = {k: v for k, v in future_games[0].items() if k != "date_obj"}
+            print(f"  Next game (NUXT): {best['date']} {best['home_away']} {best['time_et']} vs {best['opponent']}")
+            return best
+
+    # --- HTML table fallback (older SIDEARM sites) ---
+    soup = BeautifulSoup(html, "html.parser")
+    for table in soup.find_all("table"):
+        header_cells = table.find_all("th")
+        if not header_cells:
+            continue
+        headers = [th.get_text(strip=True).lower() for th in header_cells]
+        if "date" not in headers:
+            continue
+        opp_idx = next((i for i, h in enumerate(headers) if "opponent" in h or h == "opp"), None)
+        if opp_idx is None:
+            continue
+        date_idx = headers.index("date")
+        result_idx = next(
+            (i for i, h in enumerate(headers) if h in ("result", "score", "w/l", "wl", "w-l")), None
+        )
+        loc_idx = next(
+            (i for i, h in enumerate(headers) if h in ("location", "h/a", "home/away", "site", "loc")), None
+        )
+        time_idx = next(
+            (i for i, h in enumerate(headers) if h in ("time", "start time")), None
+        )
+        for row in table.find_all("tr")[1:]:
+            raw_cells = row.find_all(["td", "th"])
+            cells = [c.get_text(strip=True) for c in raw_cells]
+            if len(cells) <= max(date_idx, opp_idx):
+                continue
+            date_str = cells[date_idx]
+            game_date = None
+            for fmt in ("%m/%d/%Y", "%m/%d/%y", "%B %d, %Y", "%b %d, %Y"):
+                try:
+                    game_date = datetime.strptime(date_str, fmt).date()
+                    break
+                except ValueError:
+                    pass
+            if not game_date or game_date < today:
+                continue
+            if result_idx is not None and result_idx < len(cells):
+                result = cells[result_idx].strip()
+                if result and result not in ("-", "\u2013", "\u2014", "TBD", ""):
+                    if re.match(r"^[WLT]\s", result, re.IGNORECASE):
+                        continue
+            opponent_raw = cells[opp_idx]
+            if len(raw_cells) > opp_idx:
+                link = raw_cells[opp_idx].find("a")
+                if link:
+                    opponent_raw = link.get_text(strip=True)
+            home_away = "home"
+            if re.match(r"^(at\s+|@)", opponent_raw, re.IGNORECASE):
+                home_away = "away"
+                opponent_raw = re.sub(r"^(at\s+|@\s*)", "", opponent_raw, flags=re.IGNORECASE).strip()
+            elif loc_idx is not None and loc_idx < len(cells):
+                loc = cells[loc_idx].lower().strip()
+                if loc in ("a", "away", "at", "@"):
+                    home_away = "away"
+                elif loc in ("n", "neutral"):
+                    home_away = "neutral"
+            opponent = opponent_raw.strip()
+            if not opponent or opponent.lower() in ("tbd", ""):
+                continue
+            time_raw = cells[time_idx].strip() if time_idx is not None and time_idx < len(cells) else ""
+            print(f"  Next game (HTML): {game_date} {home_away} vs {opponent}")
+            return {
+                "date": game_date.strftime("%Y-%m-%d"),
+                "opponent": opponent,
+                "home_away": home_away,
+                "time_et": _normalize_time_et(time_raw),
+            }
+
+    return None
+
+
 def find_game_urls(base_url: str, season: str = "2026", no_season: bool = False) -> list[dict]:
     """
     Extract box score URLs and dates from NUXT data on the stats page.
@@ -1484,6 +1653,14 @@ def run(base_url: str, school_slug: str, season: str = "2026",
         record = scrape_record_from_gamelog(base_url, season, no_season)
     print(f"  Record: {record or '(not found)'}")
 
+    # --- Next upcoming game ---
+    print("\n[3b/6] Next upcoming game")
+    next_game = scrape_next_game(base_url)
+    if next_game:
+        print(f"  Next game: {next_game['date']} {next_game['home_away']} vs {next_game['opponent']}")
+    else:
+        print("  Next game: (not found)")
+
     # --- Find game URLs ---
     print("\n[4/6] Finding games")
     games = find_game_urls(base_url, season, no_season)
@@ -1793,6 +1970,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
             "recap_headline": recap.get("headline", ""),
             "recap_text": recap.get("article_text", ""),
         },
+        "next_game": next_game,
         "players": players_out,
         "narratives_generated_by": "claude-haiku-4-5-20251001" if api_key_available else "template",
     }
