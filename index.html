@@ -441,6 +441,13 @@
       color: #aab0c6;
       text-transform: none;
     }
+    .pc-next-game-box {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #2c3e50;
+      text-align: center;
+      padding: 12px 14px;
+    }
     .pc-no-stats {
       font-size: 0.875rem;
       color: #b0b8d0;
@@ -1481,7 +1488,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.77 (claude/fix-last-updated-display-XoUni)</div>`;
+        <div class="ps-version">VERSION 2.5.78 (claude/add-next-game-module-B0eKi)</div>`;
       return;
     }
 
@@ -1523,7 +1530,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.77 (claude/fix-last-updated-display-XoUni)</div>`;
+      <div class="ps-version">VERSION 2.5.78 (claude/add-next-game-module-B0eKi)</div>`;
   }
 
   async function signOut() {
@@ -1966,6 +1973,21 @@
     // Build stats sections
     let lastGameHTML = '';
     let seasonHTML = '';
+    let nextGameHTML = '';
+
+    // Next Game module — uses school-level next_game data
+    const schoolData = schoolStatsMap[p.school] || null;
+    const ng = schoolData ? schoolData.next_game : null;
+    if (ng && ng.date && ng.opponent) {
+      const dow = fmtGameDOW(ng.date);
+      const dateStr = fmtGameDate(ng.date);
+      const connector = ng.home_away === 'away' ? '@' : 'vs';
+      const timePart = ng.time_et && ng.time_et !== 'TBA' ? ` ${ng.time_et}` : '';
+      const nextGameText = `${dow} ${dateStr}${timePart} ${connector} ${ng.opponent}`;
+      nextGameHTML = `
+        <div class="pc-stats-label">NEXT GAME</div>
+        <div class="pc-stats-box pc-next-game-box">${escapeHTML(nextGameText)}</div>`;
+    }
 
     if (role === 'pitcher') {
       const lgStats = lg ? (formatLastGamePitching(lg) || formatLastGameBatting(lg)) : null;
@@ -2030,6 +2052,7 @@
         ${highlightHTML}
         ${lastGameHTML}
         ${seasonHTML}
+        ${nextGameHTML}
       </div>`;
   }
 
