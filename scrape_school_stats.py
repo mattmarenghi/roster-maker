@@ -761,9 +761,25 @@ def _normalize_time_et(time_str: str) -> str:
     return s
 
 
-_WATCH_URL_RE = re.compile(
+# Link text patterns that indicate a watch/stream link in HTML schedule rows.
+# Used when we can't rely on the URL domain (SEC Network, Pac-12, Big Ten, etc.
+# all use different domains). The NUXT media.video.url path is domain-agnostic
+# and doesn't use this pattern at all.
+_WATCH_TEXT_RE = re.compile(
+    r"\b(watch|live|stream|video|espn\+?|sec network|pac.?12|big ten|acc network|"
+    r"sun belt|cusa|mountain west|american|maac tv|patriot league)\b",
+    re.IGNORECASE,
+)
+
+# Domains that are unambiguously streaming/watch services — used only in the
+# generic NUXT field scan fallback to avoid false-positives from opponent
+# websites, facility pages, etc.
+_WATCH_DOMAIN_RE = re.compile(
     r"(espn\.com|espnplus\.com|watchespn\.com|flotrack\.org|stretchinternet\.com|"
-    r"nfhsnetwork\.com|conferenceusa\.com|sunbelttv|bigtennetwork|espn\+)",
+    r"nfhsnetwork\.com|peacocktv\.com|paramountplus\.com|cbssports\.com/live|"
+    r"fox(sports|deporetes)\.com|nbcsports\.com|mlb\.tv|milb\.com/live|"
+    r"pac-12\.com|secnetwork\.com|accnetwork\.com|bigtennnetwork\.com|"
+    r"conferenceusa\.tv|sunbelttv\.com|bigeast\.tv|theacc\.tv|caanetwork)",
     re.IGNORECASE,
 )
 
@@ -771,10 +787,11 @@ _WATCH_URL_RE = re.compile(
 def _extract_watch_url_nuxt(item: dict, rv_local) -> str | None:
     """Try to extract a streaming/watch URL from a NUXT schedule game object.
 
-    SIDEARM stores the watch link at: game.media -> {video: ...} -> {url: "https://espn.com/..."}
-    Falls back to scanning all top-level fields for URL strings.
+    SIDEARM stores the watch link at: game.media.video.url — this is
+    domain-agnostic and works for ESPN, SEC Network, Pac-12, Big Ten, etc.
+    Falls back to a domain-filtered scan of other fields.
     """
-    # Primary: media.video.url (SIDEARM standard location for ESPN/streaming links)
+    # Primary: media.video.url — any http URL stored here is a watch link
     media_raw = item.get("media")
     if media_raw is not None:
         media = rv_local(media_raw)
@@ -789,34 +806,41 @@ def _extract_watch_url_nuxt(item: dict, rv_local) -> str | None:
                         if isinstance(url, str) and url.startswith("http"):
                             return url
 
-    # Fallback: scan all top-level fields for URL strings or link lists
+    # Fallback: scan all top-level fields for known streaming domain URLs or
+    # lists of link objects. Uses _WATCH_DOMAIN_RE to avoid false-positives.
     for key, raw_val in item.items():
         val = rv_local(raw_val)
-        # Direct string URL
-        if isinstance(val, str) and val.startswith("http") and _WATCH_URL_RE.search(val):
+        if isinstance(val, str) and val.startswith("http") and _WATCH_DOMAIN_RE.search(val):
             return val
-        # List of link objects e.g. [{label: "Watch", href: "https://espn.com/..."}]
         if isinstance(val, list):
             for link_raw in val:
                 link = rv_local(link_raw)
                 if isinstance(link, dict):
+                    # Check label/title for watch-like text first (domain-agnostic)
+                    label = str(rv_local(link.get("label") or link.get("title") or "")).lower()
                     href = rv_local(link.get("href") or link.get("url") or "")
-                    if isinstance(href, str) and href.startswith("http") and _WATCH_URL_RE.search(href):
+                    if not isinstance(href, str) or not href.startswith("http"):
+                        continue
+                    if _WATCH_TEXT_RE.search(label) or _WATCH_DOMAIN_RE.search(href):
                         return href
-                elif isinstance(link, str) and link.startswith("http") and _WATCH_URL_RE.search(link):
+                elif isinstance(link, str) and link.startswith("http") and _WATCH_DOMAIN_RE.search(link):
                     return link
     return None
 
 
 def _extract_watch_url_html_row(raw_cells) -> str | None:
-    """Extract a streaming/watch URL from HTML table row cells."""
+    """Extract a watch/stream URL from an HTML schedule table row.
+
+    Matches on link text (domain-agnostic: SEC Network, Pac-12, etc.) first,
+    then falls back to known streaming domains in the href.
+    """
     for cell in raw_cells:
         for a in cell.find_all("a", href=True):
             href = a.get("href", "")
-            text = a.get_text(strip=True).lower()
-            if href.startswith("http") and _WATCH_URL_RE.search(href):
-                return href
-            if text in ("watch", "espn+", "espn", "live", "stream") and href.startswith("http"):
+            text = a.get_text(strip=True)
+            if not href.startswith("http"):
+                continue
+            if _WATCH_TEXT_RE.search(text) or _WATCH_DOMAIN_RE.search(href):
                 return href
     return None
 
