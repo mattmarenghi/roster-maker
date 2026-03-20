@@ -12,6 +12,8 @@ ncaa_d1_schools.json
 # Test/scratch scripts
 scrape_davidson_test.py
 davidson_wildcats_roster_2026.csv
+test-pw*.mjs
+test-*.js
 
 # OS
 .DS_Store

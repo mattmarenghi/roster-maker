@@ -761,18 +761,103 @@ def _normalize_time_et(time_str: str) -> str:
     return s
 
 
-def scrape_next_game(base_url: str) -> dict | None:
+# Link text patterns that indicate a watch/stream link in HTML schedule rows.
+# Used when we can't rely on the URL domain (SEC Network, Pac-12, Big Ten, etc.
+# all use different domains). The NUXT media.video.url path is domain-agnostic
+# and doesn't use this pattern at all.
+_WATCH_TEXT_RE = re.compile(
+    r"\b(watch|live|stream|video|espn\+?|sec network|pac.?12|big ten|acc network|"
+    r"sun belt|cusa|mountain west|american|maac tv|patriot league)\b",
+    re.IGNORECASE,
+)
+
+# Domains that are unambiguously streaming/watch services — used only in the
+# generic NUXT field scan fallback to avoid false-positives from opponent
+# websites, facility pages, etc.
+_WATCH_DOMAIN_RE = re.compile(
+    r"(espn\.com|espnplus\.com|watchespn\.com|flotrack\.org|stretchinternet\.com|"
+    r"nfhsnetwork\.com|peacocktv\.com|paramountplus\.com|cbssports\.com/live|"
+    r"fox(sports|deporetes)\.com|nbcsports\.com|mlb\.tv|milb\.com/live|"
+    r"pac-12\.com|secnetwork\.com|accnetwork\.com|bigtennnetwork\.com|"
+    r"conferenceusa\.tv|sunbelttv\.com|bigeast\.tv|theacc\.tv|caanetwork)",
+    re.IGNORECASE,
+)
+
+
+def _extract_watch_url_nuxt(item: dict, rv_local) -> str | None:
+    """Try to extract a streaming/watch URL from a NUXT schedule game object.
+
+    SIDEARM stores the watch link at: game.media.video.url — this is
+    domain-agnostic and works for ESPN, SEC Network, Pac-12, Big Ten, etc.
+    Falls back to a domain-filtered scan of other fields.
     """
-    Scrape the team schedule page to find the next upcoming game.
-    Returns {date, opponent, home_away, time_et} or None.
-    home_away is "home", "away", or "neutral".
-    time_et is a formatted time string like "3:00 PM ET".
+    # Primary: media.video.url — any http URL stored here is a watch link
+    media_raw = item.get("media")
+    if media_raw is not None:
+        media = rv_local(media_raw)
+        if isinstance(media, dict):
+            video_raw = media.get("video")
+            if video_raw is not None:
+                video = rv_local(video_raw)
+                if isinstance(video, dict):
+                    url_raw = video.get("url")
+                    if url_raw is not None:
+                        url = rv_local(url_raw)
+                        if isinstance(url, str) and url.startswith("http"):
+                            return url
+
+    # Fallback: scan all top-level fields for known streaming domain URLs or
+    # lists of link objects. Uses _WATCH_DOMAIN_RE to avoid false-positives.
+    for key, raw_val in item.items():
+        val = rv_local(raw_val)
+        if isinstance(val, str) and val.startswith("http") and _WATCH_DOMAIN_RE.search(val):
+            return val
+        if isinstance(val, list):
+            for link_raw in val:
+                link = rv_local(link_raw)
+                if isinstance(link, dict):
+                    # Check label/title for watch-like text first (domain-agnostic)
+                    label = str(rv_local(link.get("label") or link.get("title") or "")).lower()
+                    href = rv_local(link.get("href") or link.get("url") or "")
+                    if not isinstance(href, str) or not href.startswith("http"):
+                        continue
+                    if _WATCH_TEXT_RE.search(label) or _WATCH_DOMAIN_RE.search(href):
+                        return href
+                elif isinstance(link, str) and link.startswith("http") and _WATCH_DOMAIN_RE.search(link):
+                    return link
+    return None
+
+
+def _extract_watch_url_html_row(raw_cells) -> str | None:
+    """Extract a watch/stream URL from an HTML schedule table row.
+
+    Matches on link text (domain-agnostic: SEC Network, Pac-12, etc.) first,
+    then falls back to known streaming domains in the href.
+    """
+    for cell in raw_cells:
+        for a in cell.find_all("a", href=True):
+            href = a.get("href", "")
+            text = a.get_text(strip=True)
+            if not href.startswith("http"):
+                continue
+            if _WATCH_TEXT_RE.search(text) or _WATCH_DOMAIN_RE.search(href):
+                return href
+    return None
+
+
+def scrape_next_game(base_url: str) -> tuple[dict | None, str | None]:
+    """
+    Scrape the team schedule page to find the next upcoming game and the
+    most recently played game's watch URL (if any).
+    Returns (next_game_dict, most_recent_watch_url).
+    next_game_dict has keys: date, opponent, home_away, time_et, watch_url (may be None).
+    most_recent_watch_url is a streaming URL string or None.
     """
     schedule_url = f"{base_url}/sports/baseball/schedule"
     print(f"  Fetching schedule: {schedule_url}")
     html = fetch(schedule_url)
     if not html:
-        return None
+        return None, None
     time.sleep(DELAY)
 
     today = datetime.utcnow().date()
@@ -797,6 +882,7 @@ def scrape_next_game(base_url: str) -> dict | None:
             return val
 
         future_games = []
+        past_games = []
         for item in nuxt_data:
             if not isinstance(item, dict):
                 continue
@@ -810,40 +896,60 @@ def scrape_next_game(base_url: str) -> dict | None:
                 game_date = datetime.fromisoformat(date_val.split("T")[0]).date()
             except (ValueError, AttributeError):
                 continue
-            if game_date < today:
-                continue
             result_val = rv_local(item["result"])
             result_status = ""
             if isinstance(result_val, dict):
                 result_status = rv_local(result_val.get("status", "")) or ""
-            if result_status:
-                continue  # Game already played
-            opponent_val = rv_local(item["opponent"])
-            opp_name = ""
-            if isinstance(opponent_val, dict):
-                opp_name = str(rv_local(opponent_val.get("title", "")) or "").strip()
-            if not opp_name:
-                continue
-            loc_raw = rv_local(item.get("location_indicator", "H")) or "H"
-            loc_map = {"H": "home", "A": "away", "N": "neutral"}
-            home_away = loc_map.get(str(loc_raw).upper(), "home")
-            time_raw = str(rv_local(item.get("time", "")) or "")
-            future_games.append({
-                "date": game_date.strftime("%Y-%m-%d"),
-                "date_obj": game_date,
-                "opponent": opp_name,
-                "home_away": home_away,
-                "time_et": _normalize_time_et(time_raw),
-            })
+
+            watch_url = _extract_watch_url_nuxt(item, rv_local)
+
+            if game_date >= today and not result_status:
+                # Upcoming game
+                opponent_val = rv_local(item["opponent"])
+                opp_name = ""
+                if isinstance(opponent_val, dict):
+                    opp_name = str(rv_local(opponent_val.get("title", "")) or "").strip()
+                if not opp_name:
+                    continue
+                loc_raw = rv_local(item.get("location_indicator", "H")) or "H"
+                loc_map = {"H": "home", "A": "away", "N": "neutral"}
+                home_away = loc_map.get(str(loc_raw).upper(), "home")
+                time_raw = str(rv_local(item.get("time", "")) or "")
+                future_games.append({
+                    "date": game_date.strftime("%Y-%m-%d"),
+                    "date_obj": game_date,
+                    "opponent": opp_name,
+                    "home_away": home_away,
+                    "time_et": _normalize_time_et(time_raw),
+                    "watch_url": watch_url,
+                })
+            elif game_date < today and result_status:
+                # Already played — track for most_recent_watch_url
+                past_games.append({
+                    "date_obj": game_date,
+                    "watch_url": watch_url,
+                })
+
+        most_recent_watch_url = None
+        if past_games:
+            past_games.sort(key=lambda g: g["date_obj"], reverse=True)
+            most_recent_watch_url = past_games[0]["watch_url"]
 
         if future_games:
             future_games.sort(key=lambda g: g["date_obj"])
             best = {k: v for k, v in future_games[0].items() if k != "date_obj"}
             print(f"  Next game (NUXT): {best['date']} {best['home_away']} {best['time_et']} vs {best['opponent']}")
-            return best
+            if best.get("watch_url"):
+                print(f"  Next game watch URL: {best['watch_url']}")
+            if most_recent_watch_url:
+                print(f"  Most recent game watch URL: {most_recent_watch_url}")
+            return best, most_recent_watch_url
+
+        return None, most_recent_watch_url
 
     # --- HTML table fallback (older SIDEARM sites) ---
     soup = BeautifulSoup(html, "html.parser")
+    most_recent_watch_url = None
     for table in soup.find_all("table"):
         header_cells = table.find_all("th")
         if not header_cells:
@@ -864,6 +970,7 @@ def scrape_next_game(base_url: str) -> dict | None:
         time_idx = next(
             (i for i, h in enumerate(headers) if h in ("time", "start time")), None
         )
+        next_game_result = None
         for row in table.find_all("tr")[1:]:
             raw_cells = row.find_all(["td", "th"])
             cells = [c.get_text(strip=True) for c in raw_cells]
@@ -877,13 +984,23 @@ def scrape_next_game(base_url: str) -> dict | None:
                     break
                 except ValueError:
                     pass
-            if not game_date or game_date < today:
+            if not game_date:
+                continue
+            row_watch_url = _extract_watch_url_html_row(raw_cells)
+            if game_date < today:
+                # Track most recently played game watch URL
+                if row_watch_url:
+                    most_recent_watch_url = row_watch_url
                 continue
             if result_idx is not None and result_idx < len(cells):
                 result = cells[result_idx].strip()
                 if result and result not in ("-", "\u2013", "\u2014", "TBD", ""):
                     if re.match(r"^[WLT]\s", result, re.IGNORECASE):
+                        if row_watch_url:
+                            most_recent_watch_url = row_watch_url
                         continue
+            if next_game_result is not None:
+                continue  # Already found next game; keep scanning for most_recent_watch_url
             opponent_raw = cells[opp_idx]
             if len(raw_cells) > opp_idx:
                 link = raw_cells[opp_idx].find("a")
@@ -904,14 +1021,17 @@ def scrape_next_game(base_url: str) -> dict | None:
                 continue
             time_raw = cells[time_idx].strip() if time_idx is not None and time_idx < len(cells) else ""
             print(f"  Next game (HTML): {game_date} {home_away} vs {opponent}")
-            return {
+            next_game_result = {
                 "date": game_date.strftime("%Y-%m-%d"),
                 "opponent": opponent,
                 "home_away": home_away,
                 "time_et": _normalize_time_et(time_raw),
+                "watch_url": row_watch_url,
             }
+        if next_game_result is not None:
+            return next_game_result, most_recent_watch_url
 
-    return None
+    return None, most_recent_watch_url
 
 
 def find_game_urls(base_url: str, season: str = "2026", no_season: bool = False) -> list[dict]:
@@ -1655,7 +1775,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
 
     # --- Next upcoming game ---
     print("\n[3b/6] Next upcoming game")
-    next_game = scrape_next_game(base_url)
+    next_game, most_recent_watch_url = scrape_next_game(base_url)
     if next_game:
         print(f"  Next game: {next_game['date']} {next_game['home_away']} vs {next_game['opponent']}")
     else:
@@ -1969,6 +2089,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
             "recap_url": recap_url,
             "recap_headline": recap.get("headline", ""),
             "recap_text": recap.get("article_text", ""),
+            "watch_url": most_recent_watch_url or None,
         },
         "next_game": next_game,
         "players": players_out,
