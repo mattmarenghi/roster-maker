@@ -2,7 +2,7 @@
   "school": "Santa Clara University",
   "base_url": "https://santaclarabroncos.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:50:47.084102Z",
+  "generated_at": "2026-03-21T07:33:26.196299Z",
   "record": "9-10",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
     "recap_url": "https://santaclarabroncos.com/news/2026/3/18/baseball-drops-wednesday-night-contest-to-connecticut.aspx",
     "recap_headline": "Santa Clara University",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "f5d3a5e0": {
       "id": "f5d3a5e0",

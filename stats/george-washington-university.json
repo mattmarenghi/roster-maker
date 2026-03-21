@@ -2,16 +2,24 @@
   "school": "George Washington University",
   "base_url": "https://gwsports.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:38:40.544822Z",
-  "record": "17-26",
+  "generated_at": "2026-03-21T07:20:17.876111Z",
+  "record": "17-27",
   "most_recent_game": {
-    "date": "2026-03-18",
-    "opponent": "James Madison",
-    "result": "W 12-7",
-    "boxscore_url": "https://gwsports.com/sports/baseball/stats/2026/james-madison/boxscore/15464",
-    "recap_url": "https://gwsports.com/news/2026/3/18/baseball-slips-at-jmu-12-7",
+    "date": "2026-03-20",
+    "opponent": "Saint Joseph's",
+    "result": "W 7-4",
+    "boxscore_url": "https://gwsports.com/sports/baseball/stats/2026/saint-joseph-s/boxscore/15337",
+    "recap_url": "https://gwsports.com/news/2026/3/20/baseball-comes-up-short-at-saint-joseph-s",
     "recap_headline": "George Washington University Athletics",
-    "recap_text": "The George Washington baseball team suffered a 12-7 setback at James Madison on Wednesday afternoon, dropping the Revolutionaries to 8-11 on the season.\nThe Buff & Blue jumped out to an early lead, plating three runs in the second inning.\nJack Kent\ngot the scoring started with a double down the right field line, scoring\nConlon Walker\nfrom second base. Kent scored later in the inning via a wild pitch, while\nRobbie Lavey\ndrove in the frame's third run on a double to right center, scoring\nConnor Jones\n.\nJMU quickly erased the deficit with three runs of its own in the home half of the second, but GW recaptured a one-run lead with an RBI groundout from\nLuke Maltacea\nin the third.\nNick Mullen\ndoubled GW's advantage with a sacrifice fly to left field, scoring Crisitno Tufano from third.\nThe Dukes' offense erupted for four runs in the fourth, one in the fifth and four more in the sixth to put the game out of reach.\nJack Kent\nregistered his second RBI of the day on a bunt single in the fifth, while Walker picked up an RBI single in the ninth, but GW couldn't put together a comeback late.\nLiam Thyen\nearned his second midweek start of the season, tossing 2.0 innings and allowing three earned runs.\nAidan Carey\nwas charged with the loss in relief, allowing three runs in 1.2 innings of work.\nJasper Nadel\nand\nHenry Knighton\nboth turned in scoreless appearances with one inning in relief each.\nGW turns its attention to a weekend series at Saint Joseph's starting on Friday. First pitch on Hawk Hill is set for 3:00 p.m. on ESPN+."
+    "recap_text": "Despite a late surge, the George Washington baseball team came up short in the first of a three-game series at Saint Joseph's this weekend. The host Hawks secured a 7-4 win behind early offense to take the opener. The Revolutionaries move to 8-12 overall and 2-2 in Atlantic 10 play this season.\nThe Hawks used a pair of GW errors in the first inning to plate three runs and get the early advantage. After scoreless second and third frames, Saint Joe's put up another three-spot in the fourth, doubling its advantage to 6-0.\nThe Buff & Blue tallied their first run in the fifth on an RBI single to center field from\nRobbie Lavey\n, scoring\nConnor Jones\n.\nThe next two innings were quiet, with SJU maintaining its five-run lead. In the top of the eighth, GW started its comeback bid, scoring twice to cut the deficit to three.\nCharlie Walsh\ndrove in the GW Revs' first run on an RBI single to right field, while\nConlon Walker\ndoubled to left field, bringing home the second of the inning.\nAfter a Saint Joe's solo home run made it 7-3 entering the ninth, the Revolutionaries plated another via an error by the Hawks' shortstop. Despite having multiple runners on and only one out, GW couldn't cut into the deficit any further.\nMax Haug\ntossed five innings in the loss, allowing six runs, with only three of them earned. He tallied six strikeouts in 24 batters faced.\nJasper Nadel\ntossed two hitless innings in relief, while\nGavin Miller\nallowed one run in one inning of work.\nGW looks to even the series tomorrow, with first pitch slated for 2:00 p.m. in Philly. Follow live stats of the matchup on GWsports.com.",
+    "watch_url": "https://www.espn.com/watch/player/_/id/faf33f23-eba5-4a17-ac82-adb26c39c587"
+  },
+  "next_game": {
+    "date": "2026-03-21",
+    "opponent": "Saint Joseph's",
+    "home_away": "away",
+    "time_et": "2:00 PM ET",
+    "watch_url": null
   },
   "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"

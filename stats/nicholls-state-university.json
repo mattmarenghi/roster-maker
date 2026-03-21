@@ -2,17 +2,19 @@
   "school": "Nicholls State University",
   "base_url": "https://www.geauxcolonels.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:45:54.125997Z",
-  "record": "11-12",
+  "generated_at": "2026-03-21T07:28:12.090252Z",
+  "record": "12-12",
   "most_recent_game": {
-    "date": "2026-03-17",
-    "opponent": "Southern Miss",
-    "result": "W 4-0",
-    "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
-    "recap_url": "https://www.geauxcolonels.com/news/2026/3/17/baseball-colonels-fall-4-0-to-usm-in-hancock-whitney-classic.aspx",
+    "date": "2026-03-20",
+    "opponent": "Incarnate Word",
+    "result": "L 4-8",
+    "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
+    "recap_url": "https://www.geauxcolonels.com/news/2026/3/20/baseball-colonels-record-10-hits-in-8-4-victory-over-uiw.aspx",
     "recap_headline": "Nicholls State University",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "25524819": {
       "id": "25524819",
@@ -24,11 +26,11 @@
       "num": "1",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 16,
-        "gs": 5,
-        "avg": 0.176,
-        "ops": 0.557,
-        "ab": 17,
+        "g": 17,
+        "gs": 6,
+        "avg": 0.158,
+        "ops": 0.501,
+        "ab": 19,
         "r": 6,
         "h": 3,
         "doubles": 0,
@@ -36,35 +38,35 @@
         "hr": 0,
         "rbi": 2,
         "tb": 5,
-        "slg": 0.294,
+        "slg": 0.263,
         "bb": 2,
         "hbp": 0,
-        "so": 6,
+        "so": 7,
         "gdp": 1,
-        "obp": 0.263,
+        "obp": 0.238,
         "sf": 0,
-        "sh": 0,
+        "sh": 2,
         "sb": 2,
         "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 3,
+          "bb": 0,
+          "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Southern Miss (W 4-0). Hitting .176 with 0 HR through 16 games."
+      "narrative": "0/2 with 0 RBI vs. Incarnate Word (L 4-8). Hitting .157 with 0 HR through 17 games."
     },
     "e23b9bb8": {
       "id": "e23b9bb8",
@@ -150,47 +152,47 @@
       "num": "4",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 22,
-        "gs": 19,
-        "avg": 0.309,
-        "ops": 0.952,
-        "ab": 68,
+        "g": 23,
+        "gs": 20,
+        "avg": 0.296,
+        "ops": 0.91,
+        "ab": 71,
         "r": 15,
         "h": 21,
         "doubles": 5,
         "triples": 0,
         "hr": 4,
-        "rbi": 19,
+        "rbi": 20,
         "tb": 38,
-        "slg": 0.559,
+        "slg": 0.535,
         "bb": 8,
         "hbp": 4,
-        "so": 18,
+        "so": 19,
         "gdp": 2,
-        "obp": 0.393,
-        "sf": 4,
+        "obp": 0.375,
+        "sf": 5,
         "sh": 0,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Southern Miss (W 4-0). Hitting .308 with 4 HR through 22 games."
+      "narrative": "0/3 with 1 RBI vs. Incarnate Word (L 4-8). Hitting .295 with 4 HR through 23 games."
     },
     "2f6543b5": {
       "id": "2f6543b5",
@@ -226,23 +228,8 @@
         "sb_att": 2
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
-          "pos": "lf"
-        },
-        "pitching": null
-      },
-      "narrative": "0/3 with 0 RBI vs. UTRGV (L 7-11). Hitting .190 with 0 HR through 18 games."
+      "last_game": null,
+      "narrative": null
     },
     "6de03765": {
       "id": "6de03765",
@@ -254,12 +241,12 @@
       "num": "6",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 20,
+        "g": 21,
         "gs": 13,
         "avg": 0.233,
         "ops": 0.609,
         "ab": 43,
-        "r": 9,
+        "r": 10,
         "h": 10,
         "doubles": 4,
         "triples": 0,
@@ -274,27 +261,27 @@
         "obp": 0.283,
         "sf": 0,
         "sh": 1,
-        "sb": 4,
-        "sb_att": 5
+        "sb": 5,
+        "sb_att": 6
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTRGV",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10799&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 0,
           "r": 1,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "cf"
+          "so": 0,
+          "pos": "PR/cf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. UTRGV (L 4-7). Hitting .232 with 0 HR through 20 games."
+      "narrative": null
     },
     "d3b54aa3": {
       "id": "d3b54aa3",
@@ -349,22 +336,22 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 2,
+          "ab": 3,
+          "r": 2,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 2,
           "so": 0,
-          "pos": "lf"
+          "pos": "cf/lf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Southern Miss (W 4-0)."
+      "narrative": "0/3 with 0 RBI vs. Incarnate Word (L 4-8)."
     },
     "5e099268": {
       "id": "5e099268",
@@ -451,23 +438,8 @@
         "sb_att": 4
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ss"
-        },
-        "pitching": null
-      },
-      "narrative": "0/3 with 0 RBI vs. UTRGV (L 7-11). Hitting .215 with 2 HR through 20 games."
+      "last_game": null,
+      "narrative": null
     },
     "93b3af1b": {
       "id": "93b3af1b",
@@ -585,24 +557,24 @@
       "num": "14",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 22,
-        "gs": 22,
-        "avg": 0.329,
-        "ops": 1.006,
-        "ab": 82,
-        "r": 15,
-        "h": 27,
+        "g": 23,
+        "gs": 23,
+        "avg": 0.356,
+        "ops": 1.072,
+        "ab": 87,
+        "r": 17,
+        "h": 31,
         "doubles": 5,
         "triples": 0,
-        "hr": 5,
-        "rbi": 17,
-        "tb": 47,
-        "slg": 0.573,
+        "hr": 6,
+        "rbi": 20,
+        "tb": 54,
+        "slg": 0.621,
         "bb": 12,
         "hbp": 3,
-        "so": 17,
+        "so": 18,
         "gdp": 3,
-        "obp": 0.433,
+        "obp": 0.451,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -610,22 +582,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 4,
+          "rbi": 3,
           "bb": 0,
           "so": 0,
           "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Southern Miss (W 4-0). Hitting .329 with 5 HR through 22 games."
+      "narrative": "4/5 with 3 RBI vs. Incarnate Word (L 4-8). Hitting .356 with 6 HR through 23 games."
     },
     "bc29acfa": {
       "id": "bc29acfa",
@@ -637,24 +609,24 @@
       "num": "15",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 19,
-        "gs": 18,
-        "avg": 0.27,
-        "ops": 0.759,
-        "ab": 63,
-        "r": 15,
-        "h": 17,
+        "g": 20,
+        "gs": 19,
+        "avg": 0.265,
+        "ops": 0.735,
+        "ab": 68,
+        "r": 16,
+        "h": 18,
         "doubles": 4,
         "triples": 0,
         "hr": 1,
-        "rbi": 5,
-        "tb": 24,
-        "slg": 0.381,
+        "rbi": 6,
+        "tb": 25,
+        "slg": 0.368,
         "bb": 7,
         "hbp": 4,
-        "so": 12,
+        "so": 13,
         "gdp": 2,
-        "obp": 0.378,
+        "obp": 0.367,
         "sf": 0,
         "sh": 1,
         "sb": 1,
@@ -662,22 +634,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "ab": 5,
+          "r": 1,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
           "so": 1,
           "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Southern Miss (W 4-0). Hitting .269 with 1 HR through 19 games."
+      "narrative": "1/5 with 1 RBI vs. Incarnate Word (L 4-8). Hitting .264 with 1 HR through 20 games."
     },
     "993c0067": {
       "id": "993c0067",
@@ -772,23 +744,8 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
-        "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 1,
-          "pos": "c"
-        },
-        "pitching": null
-      },
-      "narrative": "0/3 with 0 RBI vs. UTRGV (L 7-11). Hitting .193 with 0 HR through 12 games."
+      "last_game": null,
+      "narrative": null
     },
     "e2d95f07": {
       "id": "e2d95f07",
@@ -819,35 +776,8 @@
         "wp": 2,
         "opp_avg": ".292"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "5.1",
-          "h": 3,
-          "r": 4,
-          "er": 2,
-          "bb": 3,
-          "so": 5,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "5.1 IP, 5 K, 2 ER vs. UTRGV (L 7-11). At 7.78 ERA through 16.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "ba81e337": {
       "id": "ba81e337",
@@ -883,23 +813,8 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "PH"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. UTRGV (L 7-11). Hitting .200 with 0 HR through 9 games."
+      "last_game": null,
+      "narrative": null
     },
     "85251f33": {
       "id": "85251f33",
@@ -962,34 +877,7 @@
         "wp": 0,
         "opp_avg": ".129"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
+      "last_game": null,
       "narrative": null
     },
     "b8375ef8": {
@@ -1002,7 +890,7 @@
       "num": "23",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 13,
+        "g": 14,
         "gs": 2,
         "avg": 0.125,
         "ops": 0.542,
@@ -1027,22 +915,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 0,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "cf"
+          "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Southern Miss (W 4-0). Hitting .125 with 0 HR through 13 games."
+      "narrative": null
     },
     "1dc02866": {
       "id": "1dc02866",
@@ -1113,24 +1001,24 @@
       "num": "25",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 11,
+        "g": 12,
         "gs": 8,
-        "avg": 0.156,
-        "ops": 0.563,
-        "ab": 32,
+        "avg": 0.182,
+        "ops": 0.603,
+        "ab": 33,
         "r": 4,
-        "h": 5,
+        "h": 6,
         "doubles": 0,
         "triples": 1,
         "hr": 1,
         "rbi": 1,
-        "tb": 10,
-        "slg": 0.313,
+        "tb": 11,
+        "slg": 0.333,
         "bb": 3,
         "hbp": 1,
         "so": 15,
         "gdp": 1,
-        "obp": 0.25,
+        "obp": 0.27,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1138,14 +1026,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
@@ -1153,7 +1041,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. UTRGV (L 7-11). Hitting .156 with 1 HR through 11 games."
+      "narrative": "1/1 with 0 RBI vs. Incarnate Word (L 4-8). Hitting .181 with 1 HR through 12 games."
     },
     "7249d2d5": {
       "id": "7249d2d5",
@@ -1216,11 +1104,11 @@
       "num": "29",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 22,
-        "gs": 22,
-        "avg": 0.281,
-        "ops": 0.734,
-        "ab": 96,
+        "g": 23,
+        "gs": 23,
+        "avg": 0.27,
+        "ops": 0.712,
+        "ab": 100,
         "r": 13,
         "h": 27,
         "doubles": 4,
@@ -1228,12 +1116,12 @@
         "hr": 3,
         "rbi": 21,
         "tb": 40,
-        "slg": 0.417,
-        "bb": 5,
+        "slg": 0.4,
+        "bb": 6,
         "hbp": 1,
         "so": 20,
         "gdp": 1,
-        "obp": 0.317,
+        "obp": 0.312,
         "sf": 2,
         "sh": 0,
         "sb": 6,
@@ -1241,22 +1129,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
+          "bb": 1,
+          "so": 2,
           "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. Southern Miss (W 4-0). Hitting .281 with 3 HR through 22 games."
+      "narrative": "0/4 with 0 RBI vs. Incarnate Word (L 4-8). Hitting .270 with 3 HR through 23 games."
     },
     "2831fca6": {
       "id": "2831fca6",
@@ -1268,11 +1156,11 @@
       "num": "30",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 10,
-        "gs": 6,
-        "avg": 0.211,
-        "ops": 0.529,
-        "ab": 19,
+        "g": 11,
+        "gs": 7,
+        "avg": 0.182,
+        "ops": 0.462,
+        "ab": 22,
         "r": 4,
         "h": 4,
         "doubles": 0,
@@ -1280,12 +1168,12 @@
         "hr": 0,
         "rbi": 2,
         "tb": 4,
-        "slg": 0.211,
+        "slg": 0.182,
         "bb": 2,
         "hbp": 1,
         "so": 3,
         "gdp": 0,
-        "obp": 0.318,
+        "obp": 0.28,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1311,34 +1199,22 @@
         "opp_avg": ".325"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "p"
+          "so": 1,
+          "pos": "lf"
         },
-        "pitching": {
-          "ip": "1.1",
-          "h": 1,
-          "r": 2,
-          "er": 0,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
+        "pitching": null
       },
-      "narrative": "1.1 IP, 0 K vs. Southern Miss (W 4-0). At 10.80 ERA through 10.0 innings on the season."
+      "narrative": "0/3 with 0 RBI vs. Incarnate Word (L 4-8). Hitting .181 with 0 HR through 11 games."
     },
     "b05216f1": {
       "id": "b05216f1",
@@ -1351,26 +1227,53 @@
       "school": "Nicholls State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.13,
-        "whip": 1.21,
+        "era": 4.18,
+        "whip": 1.29,
         "w": 0,
         "l": 2,
         "sv": 0,
-        "g": 4,
-        "gs": 4,
-        "ip": 24.0,
-        "h": 22,
-        "r": 13,
-        "er": 11,
-        "bb": 7,
-        "so": 24,
+        "g": 5,
+        "gs": 5,
+        "ip": 28.0,
+        "h": 27,
+        "r": 17,
+        "er": 13,
+        "bb": 9,
+        "so": 28,
         "hr": 3,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".234"
+        "opp_avg": ".243"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "4.0",
+          "h": 5,
+          "r": 4,
+          "er": 2,
+          "bb": 2,
+          "so": 4,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "4.0 IP, 4 K vs. Incarnate Word (L 4-8). At 4.18 ERA through 28.0 innings on the season."
     },
     "dd394742": {
       "id": "dd394742",
@@ -1383,29 +1286,29 @@
       "school": "Nicholls State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.45,
-        "whip": 1.16,
+        "era": 2.2,
+        "whip": 1.04,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 14.2,
+        "ip": 16.1,
         "h": 13,
         "r": 7,
         "er": 4,
         "bb": 4,
-        "so": 14,
+        "so": 15,
         "hr": 1,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".236"
+        "opp_avg": ".220"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1417,7 +1320,7 @@
         },
         "pitching": {
           "ip": "1.2",
-          "h": 1,
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
@@ -1429,7 +1332,7 @@
           "sv": 0
         }
       },
-      "narrative": "1.2 IP, 1 K vs. Southern Miss (W 4-0). At 2.54 ERA through 14.2 innings on the season."
+      "narrative": "1.2 IP, 1 K vs. Incarnate Word (L 4-8). At 2.24 ERA through 16.1 innings on the season."
     },
     "762b6511": {
       "id": "762b6511",
@@ -1575,22 +1478,22 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 2,
+          "ab": 3,
+          "r": 2,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 2,
           "so": 0,
-          "pos": "lf"
+          "pos": "cf/lf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Southern Miss (W 4-0)."
+      "narrative": "0/3 with 0 RBI vs. Incarnate Word (L 4-8)."
     },
     "a6fcdfd7": {
       "id": "a6fcdfd7",
@@ -1662,29 +1565,29 @@
       "school": "Nicholls State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.45,
-        "whip": 0.82,
+        "era": 2.16,
+        "whip": 0.72,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 7.1,
+        "ip": 8.1,
         "h": 5,
         "r": 2,
         "er": 2,
         "bb": 1,
-        "so": 6,
+        "so": 7,
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".200"
+        "opp_avg": ".179"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "UTRGV",
-        "result": "L 4-7",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10799&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1696,19 +1599,19 @@
         },
         "pitching": {
           "ip": "1.0",
-          "h": 2,
-          "r": 1,
-          "er": 1,
+          "h": 0,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "wp": 0,
           "hbp": 0,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. UTRGV (L 4-7). At 2.54 ERA through 7.1 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. Incarnate Word (L 4-8). At 2.22 ERA through 8.1 innings on the season."
     },
     "300b178b": {
       "id": "300b178b",
@@ -1720,24 +1623,24 @@
       "num": "42",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 16,
-        "gs": 14,
-        "avg": 0.296,
-        "ops": 0.826,
-        "ab": 54,
-        "r": 7,
-        "h": 16,
-        "doubles": 1,
+        "g": 17,
+        "gs": 15,
+        "avg": 0.305,
+        "ops": 0.857,
+        "ab": 59,
+        "r": 8,
+        "h": 18,
+        "doubles": 3,
         "triples": 0,
         "hr": 3,
-        "rbi": 10,
-        "tb": 26,
-        "slg": 0.481,
+        "rbi": 12,
+        "tb": 30,
+        "slg": 0.508,
         "bb": 4,
         "hbp": 0,
         "so": 15,
         "gdp": 0,
-        "obp": 0.345,
+        "obp": 0.349,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -1745,22 +1648,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "ab": 5,
+          "r": 1,
+          "h": 2,
+          "rbi": 2,
+          "bb": 0,
+          "so": 2,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Southern Miss (W 4-0). Hitting .296 with 3 HR through 16 games."
+      "narrative": "2/5 with 2 RBI vs. Incarnate Word (L 4-8). Hitting .305 with 3 HR through 17 games."
     },
     "afb83935": {
       "id": "afb83935",
@@ -1773,29 +1676,29 @@
       "school": "Nicholls State University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.29,
-        "whip": 1.21,
-        "w": 1,
+        "era": 1.1,
+        "whip": 1.22,
+        "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 14.0,
-        "h": 7,
+        "ip": 16.1,
+        "h": 9,
         "r": 5,
         "er": 2,
-        "bb": 10,
+        "bb": 11,
         "so": 13,
         "hr": 0,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".156"
+        "opp_avg": ".173"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1806,20 +1709,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.2",
-          "h": 1,
-          "r": 2,
+          "ip": "2.1",
+          "h": 2,
+          "r": 0,
           "er": 0,
           "bb": 1,
-          "so": 1,
-          "wp": 1,
-          "hbp": 0,
-          "w": 0,
+          "so": 0,
+          "wp": 0,
+          "hbp": 1,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "0.2 IP, 1 K vs. UTRGV (L 7-11). At 1.29 ERA through 14.0 innings on the season."
+      "narrative": "2.1 IP, 0 K vs. Incarnate Word (L 4-8). At 1.12 ERA through 16.1 innings on the season."
     },
     "fbcaacb1": {
       "id": "fbcaacb1",
@@ -1850,35 +1753,8 @@
         "wp": 1,
         "opp_avg": ".353"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "UTRGV",
-        "result": "L 7-11",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10797&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 3,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 1,
-          "sv": 0
-        }
-      },
-      "narrative": "0.2 IP, 1 K vs. UTRGV (L 7-11). At 9.00 ERA through 8.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "3ac34faa": {
       "id": "3ac34faa",
@@ -1933,22 +1809,22 @@
         "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 2,
+          "ab": 3,
+          "r": 2,
+          "h": 0,
           "rbi": 0,
-          "bb": 0,
+          "bb": 2,
           "so": 0,
-          "pos": "lf"
+          "pos": "cf/lf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Southern Miss (W 4-0)."
+      "narrative": "0/3 with 0 RBI vs. Incarnate Word (L 4-8)."
     },
     "8ca9706b": {
       "id": "8ca9706b",
@@ -1960,24 +1836,24 @@
       "num": "47",
       "school": "Nicholls State University",
       "season_batting": {
-        "g": 8,
-        "gs": 6,
-        "avg": 0.333,
-        "ops": 0.813,
-        "ab": 18,
-        "r": 6,
-        "h": 6,
+        "g": 9,
+        "gs": 7,
+        "avg": 0.381,
+        "ops": 0.898,
+        "ab": 21,
+        "r": 7,
+        "h": 8,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 4,
-        "tb": 6,
-        "slg": 0.333,
-        "bb": 5,
+        "tb": 8,
+        "slg": 0.381,
+        "bb": 6,
         "hbp": 1,
         "so": 4,
         "gdp": 1,
-        "obp": 0.48,
+        "obp": 0.517,
         "sf": 1,
         "sh": 1,
         "sb": 0,
@@ -1985,14 +1861,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Southern Miss",
-        "result": "W 4-0",
-        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10800&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Incarnate Word",
+        "result": "L 4-8",
+        "boxscore_url": "https://www.geauxcolonels.com/boxscore.aspx?id=10801&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 1,
+          "ab": 3,
+          "r": 1,
+          "h": 2,
           "rbi": 0,
           "bb": 1,
           "so": 0,
@@ -2000,7 +1876,7 @@
         },
         "pitching": null
       },
-      "narrative": "1/2 with 0 RBI vs. Southern Miss (W 4-0). Hitting .333 with 0 HR through 8 games."
+      "narrative": "2/3 with 0 RBI vs. Incarnate Word (L 4-8). Hitting .380 with 0 HR through 9 games."
     },
     "863cbe11": {
       "id": "863cbe11",

@@ -2,17 +2,19 @@
   "school": "North Carolina A&T State University",
   "base_url": "https://www.ncataggies.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:46:13.254323Z",
+  "generated_at": "2026-03-21T07:28:35.268303Z",
   "record": "4-15",
   "most_recent_game": {
     "date": "2026-03-15",
     "opponent": "Campbell",
     "result": "W 7-4",
-    "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+    "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
     "recap_url": "https://www.ncataggies.com/news/2026/3/15/baseball-a-t-slows-campbells-offense-to-win-series-finale.aspx",
     "recap_headline": "North Carolina A&T",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "079c03b6": {
       "id": "079c03b6",
@@ -52,7 +54,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -99,7 +101,7 @@
         "date": "2026-03-14",
         "opponent": "Campbell",
         "result": "L 0-10",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -163,7 +165,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -215,7 +217,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -267,7 +269,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -314,7 +316,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -378,7 +380,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -430,7 +432,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -482,7 +484,7 @@
         "date": "2026-03-14",
         "opponent": "Campbell",
         "result": "L 0-10",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -534,7 +536,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -613,7 +615,7 @@
         "date": "2026-03-13",
         "opponent": "Campbell",
         "result": "L 11-21",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=",
         "batting": null,
         "pitching": {
           "ip": "3.2",
@@ -664,7 +666,7 @@
         "date": "2026-03-14",
         "opponent": "Campbell",
         "result": "L 0-10",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -802,7 +804,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -886,7 +888,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -1007,7 +1009,7 @@
         "date": "2026-03-13",
         "opponent": "Campbell",
         "result": "L 11-21",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1066,7 +1068,7 @@
         "date": "2026-03-14",
         "opponent": "Campbell",
         "result": "L 0-10",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=",
         "batting": null,
         "pitching": {
           "ip": "2.2",
@@ -1181,7 +1183,7 @@
         "date": "2026-03-13",
         "opponent": "Campbell",
         "result": "L 11-21",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1245,7 +1247,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1297,7 +1299,7 @@
         "date": "2026-03-13",
         "opponent": "Campbell",
         "result": "L 11-21",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -1344,7 +1346,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1408,7 +1410,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1460,7 +1462,7 @@
         "date": "2026-03-14",
         "opponent": "Campbell",
         "result": "L 0-10",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6110&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -1539,7 +1541,7 @@
         "date": "2026-03-15",
         "opponent": "Campbell",
         "result": "W 7-4",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6111&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1598,7 +1600,7 @@
         "date": "2026-03-13",
         "opponent": "Campbell",
         "result": "L 11-21",
-        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=baseball",
+        "boxscore_url": "https://www.ncataggies.com/boxscore.aspx?id=6109&path=",
         "batting": {
           "ab": 0,
           "r": 0,

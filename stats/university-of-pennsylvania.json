@@ -2,7 +2,7 @@
   "school": "University of Pennsylvania",
   "base_url": "https://www.pennathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-20T08:03:07.891295Z",
+  "generated_at": "2026-03-21T07:46:49.567931Z",
   "record": "4-10",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://www.pennathletics.com/boxscore.aspx?id=29996&path=baseball",
     "recap_url": "https://www.pennathletics.com/news/2026/3/18/baseball-quakers-take-down-lehigh-in-seven-innings-15-2.aspx",
     "recap_headline": "University of Pennsylvania Athletics",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "e09eb0a4": {
       "id": "e09eb0a4",

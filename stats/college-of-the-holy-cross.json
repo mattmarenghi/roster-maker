@@ -2,7 +2,7 @@
   "school": "College of the Holy Cross",
   "base_url": "https://goholycross.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:35:18.130395Z",
+  "generated_at": "2026-03-21T07:16:38.691435Z",
   "record": "6-13",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://goholycross.com/boxscore.aspx?id=12312&path=base",
     "recap_url": "https://goholycross.com/news/2026/3/17/baseball-downed-in-mid-week-contest-at-bryant.aspx",
     "recap_headline": "Holy Cross Athletics",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "282ac9bf": {
       "id": "282ac9bf",

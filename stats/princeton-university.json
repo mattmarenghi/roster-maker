@@ -2,7 +2,7 @@
   "school": "Princeton University",
   "base_url": "https://www.goprincetontigers.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:48:10.235507Z",
+  "generated_at": "2026-03-21T07:30:38.672155Z",
   "record": "5-11",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -11,7 +11,15 @@
     "boxscore_url": "https://www.goprincetontigers.com/sports/baseball/stats/2026/wofford/boxscore/21362",
     "recap_url": "https://www.goprincetontigers.com/news/2026/3/15/baseball-tigers-go-2-2-in-series-against-wofford",
     "recap_headline": "Princeton University Athletics",
-    "recap_text": "SPARTANBURG, S.C. -\nThe Princeton Baseball Team\u00a0fell short 5-2 in their last game of the Spring Break road trip to the Wofford Terriers.\nWofford opened up scoring in this ball game, putting up a run in the first.\nPrinceton answered back in the following inning, when\nIsaac Lamson\nsingled home\nWill Robbins\n.\nThe Tigers took the lead in the seventh inning when\nTommy Googins\ndoubled in\nIsaac Lamson\n.\nWofford followed at the bottom of the inning by putting up four unanswered runs, making it a 5-2 game.\nBrady Kaufman\nstarted on the mound for the Tigers, allowing just one hit, one run and striking out two over five innings.\nThe Tigers host their first home series of the season this upcoming weekend at Clarke Field,\u00a0against Cornell (Mar. 21-22)."
+    "recap_text": "SPARTANBURG, S.C. -\nThe Princeton Baseball Team\u00a0fell short 5-2 in their last game of the Spring Break road trip to the Wofford Terriers.\nWofford opened up scoring in this ball game, putting up a run in the first.\nPrinceton answered back in the following inning, when\nIsaac Lamson\nsingled home\nWill Robbins\n.\nThe Tigers took the lead in the seventh inning when\nTommy Googins\ndoubled in\nIsaac Lamson\n.\nWofford followed at the bottom of the inning by putting up four unanswered runs, making it a 5-2 game.\nBrady Kaufman\nstarted on the mound for the Tigers, allowing just one hit, one run and striking out two over five innings.\nThe Tigers host their first home series of the season this upcoming weekend at Clarke Field,\u00a0against Cornell (Mar. 21-22).",
+    "watch_url": "https://www.espn.com/watch/player/_/id/b205185b-ce3e-4124-8c6e-3972529e04a0?om-navmethod=espn%3Aglobalsearch%3Aresults"
+  },
+  "next_game": {
+    "date": "2026-03-21",
+    "opponent": "Cornell",
+    "home_away": "home",
+    "time_et": "11:30 AM ET",
+    "watch_url": "https://www.espn.com/watch/player/_/id/4ab0c789-aa11-4be6-a914-df04be2193c8?om-navmethod=espn%3Aglobalsearch%3Aresults"
   },
   "players": {
     "9fe6b2d3": {

@@ -2,7 +2,7 @@
   "school": "University of California, Davis",
   "base_url": "https://www.ucdavisaggies.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:56:32.766392Z",
+  "generated_at": "2026-03-21T07:39:44.863789Z",
   "record": "9-9",
   "most_recent_game": {
     "date": "2026-03-15",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://www.ucdavisaggies.com/boxscore.aspx?id=28964&path=baseball",
     "recap_url": "https://www.ucdavisaggies.com/news/2026/3/15/baseball-statement-made-uc-davis-secures-series-victory-over-uc-santa-barbara.aspx",
     "recap_headline": "UC Davis Athletics",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "397745a0": {
       "id": "397745a0",

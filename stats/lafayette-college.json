@@ -2,7 +2,7 @@
   "school": "Lafayette College",
   "base_url": "https://www.goleopards.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:41:15.557357Z",
+  "generated_at": "2026-03-21T07:23:18.962966Z",
   "record": "2-13",
   "most_recent_game": {
     "date": "2026-03-18",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://www.goleopards.com/boxscore.aspx?id=13874&path=baseball",
     "recap_url": "https://www.goleopards.com/news/2026/3/18/baseball-lafayette-rallies-late-to-secure-5-3-victory-over-la-salle.aspx",
     "recap_headline": "Lafayette College Athletics",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "38222043": {
       "id": "38222043",
@@ -1552,7 +1554,7 @@
       "season_pitching": {
         "era": 6.97,
         "whip": 2.03,
-        "w": 1,
+        "w": 0,
         "l": 1,
         "sv": 0,
         "g": 6,
@@ -1591,7 +1593,7 @@
           "so": 4,
           "wp": 0,
           "hbp": 0,
-          "w": 1,
+          "w": 0,
           "l": 0,
           "sv": 0
         }
@@ -1648,7 +1650,7 @@
       "season_pitching": {
         "era": 15.75,
         "whip": 2.25,
-        "w": 0,
+        "w": 1,
         "l": 1,
         "sv": 0,
         "g": 3,
@@ -1687,7 +1689,7 @@
           "so": 1,
           "wp": 0,
           "hbp": 0,
-          "w": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }

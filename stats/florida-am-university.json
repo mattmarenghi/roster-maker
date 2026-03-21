@@ -2,17 +2,19 @@
   "school": "Florida A&M University",
   "base_url": "https://www.famuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:37:49.326779Z",
-  "record": "7-12",
+  "generated_at": "2026-03-21T07:19:22.193650Z",
+  "record": "7-13",
   "most_recent_game": {
-    "date": "2026-03-17",
-    "opponent": "Mercer",
-    "result": "L 2-9",
-    "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+    "date": "2026-03-20",
+    "opponent": "Arkansas-Pine Bluff",
+    "result": "W 11-4",
+    "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
     "recap_url": null,
     "recap_headline": "",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "95730d97": {
       "id": "95730d97",
@@ -24,7 +26,7 @@
       "num": "1",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 18,
+        "g": 19,
         "gs": 3,
         "avg": 0.071,
         "ops": 0.306,
@@ -48,14 +50,14 @@
         "sb_att": 1
       },
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.56,
+        "era": 4.42,
+        "whip": 1.53,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 18.0,
+        "ip": 18.1,
         "h": 18,
         "r": 13,
         "er": 9,
@@ -64,25 +66,25 @@
         "hr": 1,
         "hbp": 3,
         "wp": 4,
-        "opp_avg": ".254"
+        "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Mercer (L 2-9). Hitting .071 with 0 HR through 18 games."
+      "narrative": "2/3 with 1 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .071 with 0 HR through 19 games."
     },
     "14cd6b77": {
       "id": "14cd6b77",
@@ -146,11 +148,11 @@
       "num": "3",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 18,
-        "gs": 17,
-        "avg": 0.305,
-        "ops": 0.889,
-        "ab": 59,
+        "g": 19,
+        "gs": 18,
+        "avg": 0.286,
+        "ops": 0.835,
+        "ab": 63,
         "r": 11,
         "h": 18,
         "doubles": 3,
@@ -158,12 +160,12 @@
         "hr": 2,
         "rbi": 10,
         "tb": 29,
-        "slg": 0.492,
+        "slg": 0.46,
         "bb": 7,
         "hbp": 2,
-        "so": 10,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.397,
+        "obp": 0.375,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -171,22 +173,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "0/4 with 0 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .285 with 2 HR through 19 games."
     },
     "513819e6": {
       "id": "513819e6",
@@ -250,7 +252,7 @@
       "num": "5",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 18,
+        "g": 19,
         "gs": 3,
         "avg": 0.071,
         "ops": 0.306,
@@ -274,14 +276,14 @@
         "sb_att": 1
       },
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.56,
+        "era": 4.42,
+        "whip": 1.53,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 18.0,
+        "ip": 18.1,
         "h": 18,
         "r": 13,
         "er": 9,
@@ -290,25 +292,25 @@
         "hr": 1,
         "hbp": 3,
         "wp": 4,
-        "opp_avg": ".254"
+        "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Mercer (L 2-9). Hitting .071 with 0 HR through 18 games."
+      "narrative": "2/3 with 1 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .071 with 0 HR through 19 games."
     },
     "6b8dbf74": {
       "id": "6b8dbf74",
@@ -320,24 +322,24 @@
       "num": "6",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 16,
-        "gs": 11,
-        "avg": 0.289,
-        "ops": 0.821,
-        "ab": 38,
+        "g": 17,
+        "gs": 12,
+        "avg": 0.268,
+        "ops": 0.778,
+        "ab": 41,
         "r": 11,
         "h": 11,
         "doubles": 1,
         "triples": 0,
         "hr": 1,
-        "rbi": 3,
+        "rbi": 4,
         "tb": 15,
-        "slg": 0.395,
-        "bb": 9,
+        "slg": 0.366,
+        "bb": 10,
         "hbp": 0,
         "so": 7,
         "gdp": 0,
-        "obp": 0.426,
+        "obp": 0.412,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -363,22 +365,22 @@
         "opp_avg": ".125"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 2,
-          "rbi": 0,
-          "bb": 0,
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 1,
+          "bb": 1,
           "so": 0,
-          "pos": "rf/cf"
+          "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Mercer (L 2-9). Hitting .289 with 1 HR through 16 games."
+      "narrative": "0/3 with 1 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .268 with 1 HR through 17 games."
     },
     "8c853935": {
       "id": "8c853935",
@@ -390,24 +392,24 @@
       "num": "7",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.328,
-        "ops": 0.888,
-        "ab": 58,
-        "r": 9,
-        "h": 19,
-        "doubles": 4,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.323,
+        "ops": 0.88,
+        "ab": 62,
+        "r": 10,
+        "h": 20,
+        "doubles": 5,
         "triples": 0,
         "hr": 2,
         "rbi": 12,
-        "tb": 29,
+        "tb": 31,
         "slg": 0.5,
         "bb": 7,
         "hbp": 0,
-        "so": 7,
+        "so": 9,
         "gdp": 2,
-        "obp": 0.388,
+        "obp": 0.38,
         "sf": 2,
         "sh": 0,
         "sb": 1,
@@ -415,22 +417,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 0,
+          "r": 1,
           "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "3b"
+          "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. Mercer (L 2-9). Hitting .327 with 2 HR through 18 games."
+      "narrative": "1/4 with 0 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .322 with 2 HR through 19 games."
     },
     "4c74b051": {
       "id": "4c74b051",
@@ -443,26 +445,53 @@
       "school": "Florida A&M University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.81,
-        "whip": 1.24,
+        "era": 4.5,
+        "whip": 1.41,
         "w": 3,
-        "l": 1,
+        "l": 2,
         "sv": 0,
-        "g": 5,
-        "gs": 5,
-        "ip": 28.1,
-        "h": 30,
-        "r": 15,
-        "er": 12,
-        "bb": 5,
-        "so": 34,
+        "g": 6,
+        "gs": 6,
+        "ip": 34.0,
+        "h": 41,
+        "r": 21,
+        "er": 17,
+        "bb": 7,
+        "so": 35,
         "hr": 0,
         "hbp": 1,
         "wp": 2,
-        "opp_avg": ".280"
+        "opp_avg": ".306"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.2",
+          "h": 11,
+          "r": 6,
+          "er": 5,
+          "bb": 2,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
+        }
+      },
+      "narrative": "5.2 IP, 1 K, 5 ER vs. Arkansas-Pine Bluff (W 11-4). At 4.50 ERA through 34.0 innings on the season."
     },
     "60691b4f": {
       "id": "60691b4f",
@@ -474,11 +503,11 @@
       "num": "10",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.297,
-        "ops": 0.732,
-        "ab": 64,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.279,
+        "ops": 0.692,
+        "ab": 68,
         "r": 12,
         "h": 19,
         "doubles": 1,
@@ -486,12 +515,12 @@
         "hr": 1,
         "rbi": 12,
         "tb": 23,
-        "slg": 0.359,
+        "slg": 0.338,
         "bb": 7,
         "hbp": 2,
-        "so": 18,
+        "so": 22,
         "gdp": 0,
-        "obp": 0.373,
+        "obp": 0.354,
         "sf": 2,
         "sh": 0,
         "sb": 3,
@@ -517,34 +546,22 @@
         "opp_avg": ".409"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 1,
-          "rbi": 1,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 4,
-          "pos": "p/dh"
+          "so": 2,
+          "pos": "3b"
         },
-        "pitching": {
-          "ip": "2.0",
-          "h": 7,
-          "r": 6,
-          "er": 6,
-          "bb": 2,
-          "so": 0,
-          "wp": 0,
-          "hbp": 1,
-          "w": 0,
-          "l": 1,
-          "sv": 0
-        }
+        "pitching": null
       },
-      "narrative": "2.0 IP, 0 K vs. Mercer (L 2-9). At 19.80 ERA through 5.0 innings on the season."
+      "narrative": "0/4 with 0 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .279 with 1 HR through 20 games."
     },
     "fec7468a": {
       "id": "fec7468a",
@@ -615,24 +632,24 @@
       "num": "12",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 18,
-        "gs": 14,
+        "g": 19,
+        "gs": 15,
         "avg": 0.333,
-        "ops": 0.801,
-        "ab": 42,
+        "ops": 0.804,
+        "ab": 45,
         "r": 7,
-        "h": 14,
+        "h": 15,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 6,
-        "tb": 15,
-        "slg": 0.357,
-        "bb": 7,
+        "tb": 16,
+        "slg": 0.356,
+        "bb": 8,
         "hbp": 3,
-        "so": 5,
+        "so": 6,
         "gdp": 3,
-        "obp": 0.444,
+        "obp": 0.448,
         "sf": 2,
         "sh": 0,
         "sb": 2,
@@ -640,22 +657,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 0,
-          "h": 0,
-          "rbi": 1,
+          "h": 1,
+          "rbi": 0,
           "bb": 1,
-          "so": 0,
-          "pos": "lf/rf"
+          "so": 1,
+          "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 1 RBI vs. Mercer (L 2-9). Hitting .333 with 0 HR through 18 games."
+      "narrative": "1/3 with 0 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .333 with 0 HR through 19 games."
     },
     "87b94fcb": {
       "id": "87b94fcb",
@@ -667,11 +684,11 @@
       "num": "13",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.232,
-        "ops": 0.621,
-        "ab": 56,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.217,
+        "ops": 0.582,
+        "ab": 60,
         "r": 4,
         "h": 13,
         "doubles": 4,
@@ -679,12 +696,12 @@
         "hr": 0,
         "rbi": 8,
         "tb": 17,
-        "slg": 0.304,
+        "slg": 0.283,
         "bb": 3,
         "hbp": 4,
-        "so": 9,
+        "so": 10,
         "gdp": 1,
-        "obp": 0.317,
+        "obp": 0.299,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -692,22 +709,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Southern U.",
-        "result": "W 10-6",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5450&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Southern U. (W 10-6). Hitting .232 with 0 HR through 16 games."
+      "narrative": "0/4 with 0 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .216 with 0 HR through 17 games."
     },
     "0b01bd75": {
       "id": "0b01bd75",
@@ -859,35 +876,8 @@
         "wp": 3,
         "opp_avg": ".377"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Southern U.",
-        "result": "L 5-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.1",
-          "h": 10,
-          "r": 8,
-          "er": 8,
-          "bb": 3,
-          "so": 2,
-          "wp": 0,
-          "hbp": 1,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "2.1 IP, 2 K vs. Southern U. (L 5-9). At 12.60 ERA through 15.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "29a26a3d": {
       "id": "29a26a3d",
@@ -1003,24 +993,24 @@
       "num": "21",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 19,
-        "gs": 18,
-        "avg": 0.14,
-        "ops": 0.471,
-        "ab": 57,
-        "r": 1,
-        "h": 8,
+        "g": 20,
+        "gs": 19,
+        "avg": 0.164,
+        "ops": 0.553,
+        "ab": 61,
+        "r": 3,
+        "h": 10,
         "doubles": 2,
         "triples": 0,
-        "hr": 0,
-        "rbi": 3,
-        "tb": 10,
-        "slg": 0.175,
+        "hr": 1,
+        "rbi": 5,
+        "tb": 15,
+        "slg": 0.246,
         "bb": 11,
         "hbp": 2,
         "so": 15,
         "gdp": 0,
-        "obp": 0.296,
+        "obp": 0.307,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -1028,22 +1018,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
-          "bb": 1,
+          "ab": 4,
+          "r": 2,
+          "h": 2,
+          "rbi": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "c"
+          "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Mercer (L 2-9). Hitting .140 with 0 HR through 19 games."
+      "narrative": "2/4 with 2 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .163 with 1 HR through 20 games."
     },
     "c5284e3d": {
       "id": "c5284e3d",
@@ -1055,11 +1045,11 @@
       "num": "22",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 13,
-        "gs": 8,
-        "avg": 0.321,
-        "ops": 1.0,
-        "ab": 28,
+        "g": 14,
+        "gs": 9,
+        "avg": 0.3,
+        "ops": 0.942,
+        "ab": 30,
         "r": 6,
         "h": 9,
         "doubles": 3,
@@ -1067,12 +1057,12 @@
         "hr": 0,
         "rbi": 4,
         "tb": 14,
-        "slg": 0.5,
+        "slg": 0.467,
         "bb": 9,
         "hbp": 1,
         "so": 12,
         "gdp": 0,
-        "obp": 0.5,
+        "obp": 0.475,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1098,22 +1088,22 @@
         "opp_avg": ".264"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
+          "bb": 0,
           "so": 0,
-          "pos": "1b"
+          "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Mercer (L 2-9). Hitting .321 with 0 HR through 13 games."
+      "narrative": "0/2 with 0 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .300 with 0 HR through 14 games."
     },
     "bd0058a0": {
       "id": "bd0058a0",
@@ -1126,29 +1116,29 @@
       "school": "Florida A&M University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.97,
-        "whip": 2.13,
+        "era": 6.55,
+        "whip": 2.09,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 2,
-        "ip": 10.1,
-        "h": 13,
+        "ip": 11.0,
+        "h": 14,
         "r": 12,
         "er": 8,
         "bb": 9,
         "so": 7,
         "hr": 1,
-        "hbp": 3,
+        "hbp": 5,
         "wp": 2,
-        "opp_avg": ".317"
+        "opp_avg": ".326"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1159,20 +1149,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 1,
+          "ip": "0.2",
+          "h": 1,
+          "r": 0,
           "er": 0,
-          "bb": 2,
-          "so": 1,
+          "bb": 0,
+          "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 2,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. Mercer (L 2-9). At 7.13 ERA through 10.1 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. Arkansas-Pine Bluff (W 11-4). At 6.55 ERA through 11.0 innings on the season."
     },
     "797118c9": {
       "id": "797118c9",
@@ -1221,11 +1211,11 @@
       "num": "25",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 5,
-        "avg": 0.118,
-        "ops": 0.285,
-        "ab": 17,
+        "avg": 0.105,
+        "ops": 0.255,
+        "ab": 19,
         "r": 1,
         "h": 2,
         "doubles": 0,
@@ -1233,12 +1223,12 @@
         "hr": 0,
         "rbi": 0,
         "tb": 2,
-        "slg": 0.118,
+        "slg": 0.105,
         "bb": 1,
         "hbp": 0,
-        "so": 5,
+        "so": 6,
         "gdp": 0,
-        "obp": 0.167,
+        "obp": 0.15,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1246,12 +1236,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -1261,7 +1251,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Mercer (L 2-9). Hitting .117 with 0 HR through 10 games."
+      "narrative": "0/2 with 0 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .105 with 0 HR through 11 games."
     },
     "8d0a9116": {
       "id": "8d0a9116",
@@ -1393,10 +1383,10 @@
       "season_batting": null,
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1407,12 +1397,12 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 2,
+          "ip": "0.1",
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1420,7 +1410,7 @@
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. Mercer (L 2-9)."
+      "narrative": "0.1 IP, 0 K vs. Arkansas-Pine Bluff (W 11-4)."
     },
     "7f9952ea": {
       "id": "7f9952ea",
@@ -1524,29 +1514,29 @@
       "school": "Florida A&M University",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.6,
+        "era": 3.72,
+        "whip": 1.03,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 4,
+        "g": 5,
         "gs": 0,
-        "ip": 8.1,
-        "h": 3,
-        "r": 0,
-        "er": 0,
-        "bb": 2,
+        "ip": 9.2,
+        "h": 7,
+        "r": 5,
+        "er": 4,
+        "bb": 3,
         "so": 10,
         "hr": 0,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 0,
-        "opp_avg": ".100"
+        "opp_avg": ".194"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Southern U.",
-        "result": "L 5-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5449&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1557,20 +1547,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "3.1",
-          "h": 2,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 5,
+          "ip": "1.1",
+          "h": 4,
+          "r": 5,
+          "er": 4,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "3.1 IP, 5 K vs. Southern U. (L 5-9). At 0.00 ERA through 8.1 innings on the season."
+      "narrative": "1.1 IP, 0 K vs. Arkansas-Pine Bluff (W 11-4). At 3.91 ERA through 9.2 innings on the season."
     },
     "a7d5bdee": {
       "id": "a7d5bdee",
@@ -1582,7 +1572,7 @@
       "num": "33",
       "school": "Florida A&M University",
       "season_batting": {
-        "g": 18,
+        "g": 19,
         "gs": 3,
         "avg": 0.071,
         "ops": 0.306,
@@ -1606,14 +1596,14 @@
         "sb_att": 1
       },
       "season_pitching": {
-        "era": 4.5,
-        "whip": 1.56,
+        "era": 4.42,
+        "whip": 1.53,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 9,
+        "g": 10,
         "gs": 0,
-        "ip": 18.0,
+        "ip": 18.1,
         "h": 18,
         "r": 13,
         "er": 9,
@@ -1622,25 +1612,25 @@
         "hr": 1,
         "hbp": 3,
         "wp": 4,
-        "opp_avg": ".254"
+        "opp_avg": ".250"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Mercer",
-        "result": "L 2-9",
-        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5451&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Arkansas-Pine Bluff",
+        "result": "W 11-4",
+        "boxscore_url": "https://www.famuathletics.com/boxscore.aspx?id=5452&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Mercer (L 2-9). Hitting .071 with 0 HR through 18 games."
+      "narrative": "2/3 with 1 RBI vs. Arkansas-Pine Bluff (W 11-4). Hitting .071 with 0 HR through 19 games."
     },
     "f412cb38": {
       "id": "f412cb38",

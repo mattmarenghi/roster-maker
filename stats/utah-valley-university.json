@@ -2,7 +2,7 @@
   "school": "Utah Valley University",
   "base_url": "https://www.gouvu.com",
   "season": "2026",
-  "generated_at": "2026-03-20T08:06:52.087890Z",
+  "generated_at": "2026-03-21T07:50:46.212148Z",
   "record": "10-9",
   "most_recent_game": {
     "date": "2026-03-17",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://www.gouvu.com/boxscore.aspx?id=10032&path=baseball",
     "recap_url": "https://www.gouvu.com/news/2026/3/17/baseball-katschke-homers-but-utah-valley-falls-to-cincinnati.aspx",
     "recap_headline": "Utah Valley University Athletics",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "0e55a04c": {
       "id": "0e55a04c",

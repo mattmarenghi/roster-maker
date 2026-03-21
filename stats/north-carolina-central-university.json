@@ -2,7 +2,7 @@
   "school": "North Carolina Central University",
   "base_url": "https://www.nccueaglepride.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:46:12.826578Z",
+  "generated_at": "2026-03-21T07:28:32.822843Z",
   "record": "27-20",
   "most_recent_game": {
     "date": "2021-05-22",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://www.nccueaglepride.com/boxscore.aspx?id=6953&path=baseball",
     "recap_url": "https://www.nccueaglepride.com/news/2021/5/22/baseball-eagles-hold-off-florida-am-to-advance-to-final.aspx",
     "recap_headline": "North Carolina Central University Athletics",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "123e7ea9": {
       "id": "123e7ea9",

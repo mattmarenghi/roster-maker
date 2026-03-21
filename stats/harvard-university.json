@@ -2,7 +2,7 @@
   "school": "Harvard University",
   "base_url": "https://gocrimson.com",
   "season": "2026",
-  "generated_at": "2026-03-20T07:39:07.150406Z",
+  "generated_at": "2026-03-21T07:20:52.035791Z",
   "record": "1-12",
   "most_recent_game": {
     "date": "2026-03-16",
@@ -11,8 +11,10 @@
     "boxscore_url": "https://gocrimson.com/boxscore.aspx?id=32373&path=baseball",
     "recap_url": "https://gocrimson.com/news/2026/3/16/baseball-outlasts-california-baptist-to-take-series-finale-14-12.aspx",
     "recap_headline": "Harvard University",
-    "recap_text": ""
+    "recap_text": "",
+    "watch_url": null
   },
+  "next_game": null,
   "players": {
     "091f2d24": {
       "id": "091f2d24",
