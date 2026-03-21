@@ -46,6 +46,15 @@
       color: #C0392B;
       line-height: 42px;
     }
+    .site-title .tm {
+      font-family: sans-serif;
+      font-size: 0.55rem;
+      font-weight: 700;
+      vertical-align: super;
+      letter-spacing: 0;
+      color: #C0392B;
+      margin-left: 1px;
+    }
 
     .search-row {
       display: flex;
@@ -1037,7 +1046,7 @@
 
 <!-- Auth overlay (full screen) -->
 <div class="auth-overlay" id="authOverlay">
-  <div class="auth-logo" onclick="hideAuthModal()">Dugout Watch</div>
+  <div class="auth-logo" onclick="hideAuthModal()">Dugout Watch<span class="tm" style="font-family:sans-serif;font-size:0.45rem;font-weight:700;vertical-align:super;letter-spacing:0;margin-left:1px;">TM</span></div>
   <div class="auth-content">
     <div id="authStep1">
       <h2 id="authHeading">Get Started</h2>
@@ -1088,7 +1097,7 @@
 <!-- Top bar -->
 <div class="top-bar" id="topBar">
   <div class="header-row">
-    <div class="site-title">Dugout Watch</div>
+    <div class="site-title">Dugout Watch<span class="tm">TM</span></div>
     <button class="profile-btn profile-btn-guest" id="profileBtn" onclick="showProfile()">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1501,7 +1510,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.79 (claude/add-watch-game-links-y26XC)</div>`;
+        <div class="ps-version">VERSION 2.5.80 (claude/add-trademark-logo-Pl9h3)</div>`;
       return;
     }
 
@@ -1543,7 +1552,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.79 (claude/add-watch-game-links-y26XC)</div>`;
+      <div class="ps-version">VERSION 2.5.80 (claude/add-trademark-logo-Pl9h3)</div>`;
   }
 
   async function signOut() {
