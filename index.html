@@ -162,7 +162,9 @@
       padding: 14px 16px;
       border-bottom: 1px solid #f0f2f7;
       gap: 10px;
+      cursor: pointer;
     }
+    .search-result:hover { background: #f8f9fc; }
     .search-result:last-child { border-bottom: none; }
 
     .sr-info { flex: 1; min-width: 0; }
@@ -1025,6 +1027,74 @@
       transform: translateX(-50%) translateY(0);
     }
     .fav-toast svg { flex-shrink: 0; }
+
+    /* ── Player card modal (search result → detail) ─────────────────────── */
+    .player-modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 150;
+      align-items: flex-end;
+      justify-content: center;
+    }
+    .player-modal-overlay.open { display: flex; }
+    .player-modal-overlay.closing .player-modal-sheet {
+      animation: slideDown 0.25s ease forwards;
+    }
+
+    @keyframes slideDown {
+      from { transform: translateY(0); }
+      to   { transform: translateY(105%); }
+    }
+
+    .player-modal-sheet {
+      background: #f5f7fa;
+      border-radius: 24px 24px 0 0;
+      width: 100%;
+      max-width: 680px;
+      max-height: 90vh;
+      overflow-y: auto;
+      animation: slideUp 0.28s ease;
+    }
+
+    .player-modal-header {
+      display: flex;
+      justify-content: flex-end;
+      padding: 14px 16px 0;
+      position: sticky;
+      top: 0;
+      background: #f5f7fa;
+      z-index: 1;
+    }
+
+    .player-modal-close {
+      background: #e8ecf4;
+      border: none;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: #555;
+      flex-shrink: 0;
+      transition: background 0.15s;
+    }
+    .player-modal-close:hover { background: #d8dced; }
+
+    .player-modal-body {
+      padding: 8px 16px 36px;
+    }
+
+    /* ── Card highlight pulse after adding from search ──────────────────── */
+    @keyframes cardHighlight {
+      0%   { box-shadow: 0 0 0 4px rgba(240,180,41,0.65), 0 2px 14px rgba(0,0,0,0.06); }
+      55%  { box-shadow: 0 0 0 4px rgba(240,180,41,0.25), 0 2px 14px rgba(0,0,0,0.06); }
+      100% { box-shadow: 0 2px 14px rgba(0,0,0,0.06); }
+    }
+    .card-just-added { animation: cardHighlight 1.6s ease forwards; }
   </style>
 </head>
 <body>
@@ -1034,6 +1104,21 @@
 
 <!-- Search dimmer overlay -->
 <div class="search-overlay" id="searchOverlay"></div>
+
+<!-- Player card modal (search result → detail view) -->
+<div class="player-modal-overlay" id="playerModalOverlay" onclick="playerModalOverlayClick(event)">
+  <div class="player-modal-sheet" id="playerModalSheet">
+    <div class="player-modal-header">
+      <button class="player-modal-close" onclick="closePlayerModal(false)" aria-label="Close">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </div>
+    <div class="player-modal-body" id="playerModalBody"></div>
+  </div>
+</div>
 
 <!-- Auth overlay (full screen) -->
 <div class="auth-overlay" id="authOverlay">
@@ -1162,6 +1247,7 @@
   let schoolStatsMap = {};
   let searchActive = false;
   let pendingStarPlayer = null;
+  let activeModalPlayerId = null;
   let currentSort = localStorage.getItem('playerSort') || 'school';
 
   function sortedFavPlayers(favPlayers) {
@@ -1348,9 +1434,122 @@
     }
   }
 
+  // ── Modal favorites + scroll-to-card ────────────────────────────────────────
+  function scrollToAndHighlightCard(id) {
+    renderHomepage();
+    // Two rAF passes: first lets the DOM settle after innerHTML swap,
+    // second ensures layout is complete so getBoundingClientRect is accurate.
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        const btn = document.querySelector(`.pc-star[data-star-id="${id}"]`);
+        if (!btn) return;
+        const card = btn.closest('.player-card');
+        if (!card) return;
+        card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        card.classList.add('card-just-added');
+        setTimeout(() => card.classList.remove('card-just-added'), 1800);
+      });
+    });
+  }
+
+  async function toggleFavoriteFromModal(id, e) {
+    if (e) e.stopPropagation();
+
+    if (!currentUser) {
+      // Logged out: set pending player, close modal instantly, launch auth
+      pendingStarPlayer = allPlayers.find(p => p.id === id) || null;
+      closePlayerModal(true);
+      showAuthModal();
+      return;
+    }
+
+    const user = currentUser;
+    const removing = favorites.has(id);
+
+    // Optimistic update
+    if (removing) { favorites.delete(id); } else { favorites.add(id); }
+    showFavToast(removing);
+
+    // Close modal with slide-down, then exit search and re-render
+    closePlayerModal(true);
+    exitSearchMode();
+
+    if (removing) {
+      renderHomepage();
+    } else {
+      scrollToAndHighlightCard(id);
+    }
+
+    // Persist
+    if (removing) {
+      const { error } = await db.from('favorites').delete().match({ user_id: user.id, player_id: id });
+      if (error) {
+        console.error('Failed to remove favorite:', error);
+        showFavErrorToast(true);
+        favorites.add(id);
+        syncAllStars();
+        renderHomepage();
+      }
+    } else {
+      const { error } = await db.from('favorites').insert({ user_id: user.id, player_id: id });
+      if (error) {
+        console.error('Failed to save favorite:', error);
+        showFavErrorToast(false);
+        favorites.delete(id);
+        syncAllStars();
+        renderHomepage();
+      }
+    }
+  }
+
+  // ── Player card modal ────────────────────────────────────────────────────────
+  function openPlayerModal(id) {
+    const p = allPlayers.find(pl => pl.id === id);
+    if (!p) return;
+    activeModalPlayerId = id;
+
+    // Hide the results dropdown (search state stays active so we can restore it)
+    $('searchResults').classList.remove('open');
+
+    // Render the card and open the modal
+    $('playerModalBody').innerHTML = playerCardHTML(p, true);
+    const overlay = $('playerModalOverlay');
+    overlay.classList.remove('closing');
+    overlay.classList.add('open');
+
+    // Sync star fill to reflect current favorites state
+    syncAllStars();
+  }
+
+  // skipSearchRestore = true when we're moving on (starring / going to auth)
+  function closePlayerModal(skipSearchRestore) {
+    const overlay = $('playerModalOverlay');
+    if (!overlay.classList.contains('open')) return;
+
+    overlay.classList.add('closing');
+    setTimeout(() => {
+      overlay.classList.remove('open', 'closing');
+      $('playerModalBody').innerHTML = '';
+      activeModalPlayerId = null;
+    }, 250);
+
+    if (!skipSearchRestore && searchActive && $('searchBox').value.trim().length >= 2) {
+      $('searchResults').classList.add('open');
+    }
+  }
+
+  function playerModalOverlayClick(e) {
+    if (e.target === $('playerModalOverlay')) closePlayerModal(false);
+  }
+
   // ── Auth modal ──────────────────────────────────────────────────────────────
   function showAuthModal() {
     hideProfile();
+    // Close player modal immediately (no animation — auth takes over the screen)
+    const pmo = $('playerModalOverlay');
+    pmo.classList.remove('open', 'closing');
+    $('playerModalBody').innerHTML = '';
+    activeModalPlayerId = null;
     exitSearchMode();
     showAuthStep1();
     // Populate pending player card if arriving from starring a player
@@ -1459,10 +1658,9 @@
         // Auto-star the player that triggered sign-in and land on clean homepage
         if (pending && !favorites.has(pending.id)) {
           favorites.add(pending.id);
-          renderHomepage();
-          window.scrollTo(0, 0);
           syncAllStars();
           db.from('favorites').insert({ user_id: currentUser.id, player_id: pending.id });
+          scrollToAndHighlightCard(pending.id);
         }
       }
     } catch (err) {
@@ -1501,7 +1699,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.79 (claude/add-watch-game-links-y26XC)</div>`;
+        <div class="ps-version">VERSION 2.5.80 (claude/improve-search-player-selection-sa1CV)</div>`;
       return;
     }
 
@@ -1543,7 +1741,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.79 (claude/add-watch-game-links-y26XC)</div>`;
+      <div class="ps-version">VERSION 2.5.80 (claude/improve-search-player-selection-sa1CV)</div>`;
   }
 
   async function signOut() {
@@ -1658,9 +1856,8 @@
     }
 
     dd.innerHTML = results.slice(0, 30).map(p => {
-      const isFav = favorites.has(p.id);
       return `
-        <div class="search-result">
+        <div class="search-result" onclick="openPlayerModal('${p.id}')">
           <div class="sr-info">
             <div class="sr-name-row">
               <span class="sr-name">${escapeHTML(p.name)}</span>
@@ -1669,15 +1866,6 @@
             </div>
             <div class="sr-school">${escapeHTML(p.school)}</div>
           </div>
-          <button class="sr-star${isFav ? ' starred' : ''}" data-star-id="${p.id}"
-                  onclick="toggleFavorite('${p.id}', event)">
-            <svg width="22" height="22" viewBox="0 0 24 24"
-                 fill="${isFav ? 'currentColor' : 'none'}"
-                 stroke="currentColor" stroke-width="1.8"
-                 stroke-linecap="round" stroke-linejoin="round">
-              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-            </svg>
-          </button>
         </div>`;
     }).join('');
 
@@ -1958,7 +2146,7 @@
   }
 
   // ── Player card HTML ────────────────────────────────────────────────────────
-  function playerCardHTML(p) {
+  function playerCardHTML(p, inModal = false) {
     const initials = ((p.fn || '').charAt(0) + (p.ln || '').charAt(0)).toUpperCase();
     const bgColors   = ['#cfe2ff','#d1fae5','#fff3cd','#fce7f3','#ede9fe','#d0f0fd'];
     const textColors = ['#084298','#065f46','#7a4f00','#831843','#4c1d95','#0c4a6e'];
@@ -2059,7 +2247,7 @@
             <div class="pc-name-row">
               <div class="pc-name">${escapeHTML(p.name)}</div>
               <button class="pc-star" data-star-id="${p.id}"
-                      onclick="toggleFavorite('${p.id}', event)">
+                      onclick="${inModal ? 'toggleFavoriteFromModal' : 'toggleFavorite'}('${p.id}', event)">
                 <svg width="22" height="22" viewBox="0 0 24 24"
                      fill="currentColor"
                      stroke="currentColor" stroke-width="1.8"
