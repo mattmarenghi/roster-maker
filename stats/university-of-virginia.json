@@ -2,13 +2,13 @@
   "school": "University of Virginia",
   "base_url": "https://virginiasports.com",
   "season": "2026",
-  "generated_at": "2026-03-21T07:56:20.785580Z",
-  "record": "19-4",
+  "generated_at": "2026-03-22T08:09:52.469311Z",
+  "record": "19-5",
   "most_recent_game": {
-    "date": "2026-03-20",
+    "date": "2026-03-21",
     "opponent": "Wake Forest",
-    "result": "W 10-6",
-    "boxscore_url": "https://virginiasports.com/boxscore/18703",
+    "result": "L 13-4",
+    "boxscore_url": "https://virginiasports.com/boxscore/18687",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

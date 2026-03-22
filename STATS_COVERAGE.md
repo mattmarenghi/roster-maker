@@ -1,6 +1,6 @@
 # D1 Baseball Stats Coverage Report
 
-_Generated: 2026-03-21 07:53 UTC_
+_Generated: 2026-03-22 08:06 UTC_
 
 ## Summary
 
@@ -13,7 +13,7 @@ _Generated: 2026-03-21 07:53 UTC_
 | Incompatible (no Sidearm stats) | 41 |
 | Scraped — missing batting stats | 0 |
 | Scraped — missing pitching stats | 0 |
-| Scraped — missing game recap | 149 |
+| Scraped — missing game recap | 145 |
 | Scraped — missing season record | 0 |
 
 ## Compatible but Not Yet Scraped (8)
@@ -27,7 +27,7 @@ _Generated: 2026-03-21 07:53 UTC_
 - U.S. Military Academy
 - University at Buffalo, the State University of New York
 
-## Scraped but Missing Game Recaps (149)
+## Scraped but Missing Game Recaps (145)
 
 - Alabama A&M University
 - Alabama State University
@@ -44,7 +44,6 @@ _Generated: 2026-03-21 07:53 UTC_
 - California Polytechnic State University
 - California State University, Bakersfield
 - California State University, Fullerton
-- California State University, Northridge
 - California State University, Sacramento
 - Campbell University
 - Charleston Southern University
@@ -63,7 +62,6 @@ _Generated: 2026-03-21 07:53 UTC_
 - Florida International University
 - Fordham University
 - George Mason University
-- Georgia Southern University
 - Harvard University
 - High Point University
 - Hofstra University
@@ -83,7 +81,6 @@ _Generated: 2026-03-21 07:53 UTC_
 - Loyola Marymount University
 - Manhattan University
 - Marist University
-- Marshall University
 - McNeese State University
 - Mercyhurst University
 - Merrimack College
@@ -108,11 +105,11 @@ _Generated: 2026-03-21 07:53 UTC_
 - Presbyterian College
 - Purdue University
 - Queens University of Charlotte
+- Quinnipiac University
 - Radford University
 - Rider University
 - Saint Joseph's University
 - Saint Louis University
-- Saint Mary's College of California
 - Samford University
 - San Diego State University
 - San Jose State University
@@ -132,7 +129,7 @@ _Generated: 2026-03-21 07:53 UTC_
 - The University of Texas Rio Grande Valley
 - Towson University
 - University at Albany
-- University of Alabama
+- University of Alabama at Birmingham
 - University of Arkansas, Pine Bluff
 - University of California, Davis
 - University of California, Riverside
@@ -141,7 +138,7 @@ _Generated: 2026-03-21 07:53 UTC_
 - University of Central Arkansas
 - University of Central Florida
 - University of Cincinnati
-- University of Connecticut
+- University of Delaware
 - University of Evansville
 - University of Iowa
 - University of Louisiana Monroe
@@ -176,7 +173,6 @@ _Generated: 2026-03-21 07:53 UTC_
 - Western Illinois University
 - William & Mary
 - Winthrop University
-- Xavier University
 - Youngstown State University
 
 ## Schools Without Sidearm Stats (41)

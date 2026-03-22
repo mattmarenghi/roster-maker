@@ -2,14 +2,14 @@
   "school": "Charleston Southern University",
   "base_url": "https://csusports.com",
   "season": "2026",
-  "generated_at": "2026-03-21T07:15:56.509840Z",
-  "record": "15-6",
+  "generated_at": "2026-03-22T07:29:21.804259Z",
+  "record": "15-7",
   "most_recent_game": {
-    "date": "2026-03-17",
-    "opponent": "North Florida",
-    "result": "W 11-6",
-    "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
-    "recap_url": "https://csusports.com/news/2026/3/17/baseball-late-offense-pushes-bucs-to-11-6-win-over-north-florida-on-tuesday.aspx",
+    "date": "2026-03-21",
+    "opponent": "Gardner-Webb",
+    "result": "L 5-8",
+    "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
+    "recap_url": "https://csusports.com/news/2026/3/21/baseball-bucs-fall-on-saturday-to-runnin-bulldogs.aspx",
     "recap_headline": "Charleston Southern University Athletics",
     "recap_text": "",
     "watch_url": null
@@ -26,11 +26,11 @@
       "num": "0",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 16,
-        "gs": 12,
-        "avg": 0.364,
-        "ops": 1.085,
-        "ab": 44,
+        "g": 17,
+        "gs": 13,
+        "avg": 0.333,
+        "ops": 1.013,
+        "ab": 48,
         "r": 14,
         "h": 16,
         "doubles": 3,
@@ -38,12 +38,12 @@
         "hr": 2,
         "rbi": 13,
         "tb": 25,
-        "slg": 0.568,
+        "slg": 0.521,
         "bb": 8,
-        "hbp": 7,
-        "so": 4,
+        "hbp": 8,
+        "so": 6,
         "gdp": 1,
-        "obp": 0.517,
+        "obp": 0.492,
         "sf": 1,
         "sh": 0,
         "sb": 2,
@@ -51,22 +51,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. North Florida (W 11-6). Hitting .358 with 2 HR through 15 games."
+      "narrative": "0/4 with 0 RBI vs. Gardner-Webb (L 5-8). Hitting .333 with 2 HR through 17 games."
     },
     "0b1cd459": {
       "id": "0b1cd459",
@@ -78,47 +78,47 @@
       "num": "1",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 16,
-        "gs": 16,
-        "avg": 0.245,
-        "ops": 0.756,
-        "ab": 53,
-        "r": 5,
-        "h": 13,
-        "doubles": 4,
+        "g": 17,
+        "gs": 17,
+        "avg": 0.259,
+        "ops": 0.804,
+        "ab": 54,
+        "r": 6,
+        "h": 14,
+        "doubles": 5,
         "triples": 0,
         "hr": 1,
-        "rbi": 17,
-        "tb": 20,
-        "slg": 0.377,
-        "bb": 9,
+        "rbi": 19,
+        "tb": 22,
+        "slg": 0.407,
+        "bb": 10,
         "hbp": 3,
         "so": 17,
         "gdp": 1,
-        "obp": 0.379,
+        "obp": 0.397,
         "sf": 1,
-        "sh": 1,
+        "sh": 2,
         "sb": 1,
         "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
+          "ab": 1,
+          "r": 1,
+          "h": 1,
+          "rbi": 2,
+          "bb": 1,
           "so": 0,
           "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. North Florida (W 11-6). Hitting .220 with 1 HR through 15 games."
+      "narrative": "1/1 with 2 RBI vs. Gardner-Webb (L 5-8). Hitting .259 with 1 HR through 17 games."
     },
     "ad0901c1": {
       "id": "ad0901c1",
@@ -130,24 +130,24 @@
       "num": "2",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 21,
-        "gs": 20,
-        "avg": 0.391,
-        "ops": 1.048,
-        "ab": 69,
-        "r": 21,
+        "g": 22,
+        "gs": 21,
+        "avg": 0.375,
+        "ops": 1.019,
+        "ab": 72,
+        "r": 22,
         "h": 27,
         "doubles": 7,
         "triples": 0,
         "hr": 1,
         "rbi": 14,
         "tb": 37,
-        "slg": 0.536,
-        "bb": 17,
+        "slg": 0.514,
+        "bb": 19,
         "hbp": 0,
         "so": 9,
         "gdp": 0,
-        "obp": 0.512,
+        "obp": 0.505,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -155,22 +155,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 1,
-          "h": 3,
-          "rbi": 3,
-          "bb": 1,
-          "so": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "3/4 with 3 RBI vs. North Florida (W 11-6). Hitting .378 with 1 HR through 20 games."
+      "narrative": "0/3 with 0 RBI vs. Gardner-Webb (L 5-8). Hitting .375 with 1 HR through 22 games."
     },
     "7dad6a57": {
       "id": "7dad6a57",
@@ -241,24 +241,24 @@
       "num": "4",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 13,
-        "gs": 7,
-        "avg": 0.516,
-        "ops": 1.505,
-        "ab": 31,
-        "r": 12,
+        "g": 14,
+        "gs": 8,
+        "avg": 0.471,
+        "ops": 1.403,
+        "ab": 34,
+        "r": 13,
         "h": 16,
         "doubles": 2,
         "triples": 0,
         "hr": 3,
         "rbi": 10,
         "tb": 27,
-        "slg": 0.871,
-        "bb": 5,
+        "slg": 0.794,
+        "bb": 7,
         "hbp": 5,
         "so": 6,
         "gdp": 0,
-        "obp": 0.634,
+        "obp": 0.609,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -266,22 +266,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 1,
-          "h": 1,
-          "rbi": 2,
-          "bb": 1,
-          "so": 2,
+          "h": 0,
+          "rbi": 0,
+          "bb": 2,
+          "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 2 RBI vs. North Florida (W 11-6). Hitting .423 with 1 HR through 12 games."
+      "narrative": "0/3 with 0 RBI vs. Gardner-Webb (L 5-8). Hitting .470 with 3 HR through 14 games."
     },
     "2122a716": {
       "id": "2122a716",
@@ -293,24 +293,24 @@
       "num": "5",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 16,
-        "gs": 15,
-        "avg": 0.205,
-        "ops": 0.765,
-        "ab": 44,
-        "r": 18,
-        "h": 9,
+        "g": 17,
+        "gs": 16,
+        "avg": 0.224,
+        "ops": 0.77,
+        "ab": 49,
+        "r": 19,
+        "h": 11,
         "doubles": 0,
         "triples": 0,
         "hr": 2,
         "rbi": 11,
-        "tb": 15,
-        "slg": 0.341,
+        "tb": 17,
+        "slg": 0.347,
         "bb": 11,
         "hbp": 8,
-        "so": 13,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.424,
+        "obp": 0.423,
         "sf": 3,
         "sh": 1,
         "sb": 1,
@@ -318,14 +318,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
           "ab": 5,
-          "r": 2,
-          "h": 3,
+          "r": 1,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
           "so": 3,
@@ -333,7 +333,7 @@
         },
         "pitching": null
       },
-      "narrative": "3/5 with 0 RBI vs. North Florida (W 11-6). Hitting .170 with 1 HR through 15 games."
+      "narrative": "2/5 with 0 RBI vs. Gardner-Webb (L 5-8). Hitting .224 with 2 HR through 17 games."
     },
     "ea58503a": {
       "id": "ea58503a",
@@ -345,24 +345,24 @@
       "num": "6",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.277,
-        "ops": 0.709,
-        "ab": 65,
-        "r": 17,
-        "h": 18,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.284,
+        "ops": 0.731,
+        "ab": 67,
+        "r": 18,
+        "h": 19,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
         "rbi": 10,
-        "tb": 19,
-        "slg": 0.292,
+        "tb": 20,
+        "slg": 0.299,
         "bb": 15,
-        "hbp": 2,
+        "hbp": 4,
         "so": 18,
         "gdp": 1,
-        "obp": 0.417,
+        "obp": 0.432,
         "sf": 2,
         "sh": 4,
         "sb": 1,
@@ -370,22 +370,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 5,
-          "r": 0,
+          "ab": 2,
+          "r": 1,
           "h": 1,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
-          "so": 3,
+          "so": 1,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "1/5 with 1 RBI vs. North Florida (W 11-6). Hitting .262 with 0 HR through 18 games."
+      "narrative": "1/2 with 0 RBI vs. Gardner-Webb (L 5-8). Hitting .283 with 0 HR through 20 games."
     },
     "0ee7fa13": {
       "id": "0ee7fa13",
@@ -421,23 +421,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "W 22-4",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14882&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "lf"
-        },
-        "pitching": null
-      },
-      "narrative": "1/1 with 0 RBI vs. Villanova (W 22-4). Hitting .200 with 0 HR through 4 games."
+      "last_game": null,
+      "narrative": null
     },
     "f18f26f9": {
       "id": "f18f26f9",
@@ -509,29 +494,29 @@
       "school": "Charleston Southern University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.32,
+        "era": 1.23,
         "whip": 1.02,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 13.2,
-        "h": 9,
+        "ip": 14.2,
+        "h": 10,
         "r": 2,
         "er": 2,
         "bb": 5,
         "so": 6,
         "hr": 1,
-        "hbp": 2,
+        "hbp": 3,
         "wp": 0,
-        "opp_avg": ".196"
+        "opp_avg": ".200"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "L 0-5",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14881&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -542,20 +527,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "4.0",
+          "ip": "1.0",
           "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 3,
-          "so": 3,
+          "bb": 0,
+          "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "4.0 IP, 3 K vs. Villanova (L 0-5). At 1.36 ERA through 13.2 innings on the season."
+      "narrative": "1.0 IP, 0 K vs. Gardner-Webb (L 5-8). At 1.27 ERA through 14.2 innings on the season."
     },
     "cc74ecfb": {
       "id": "cc74ecfb",
@@ -618,8 +603,35 @@
         "wp": 3,
         "opp_avg": ".283"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "5.0",
+          "h": 6,
+          "r": 4,
+          "er": 2,
+          "bb": 4,
+          "so": 3,
+          "wp": 1,
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "5.0 IP, 3 K, 2 ER vs. Gardner-Webb (W 16-5). At 5.90 ERA through 29.0 innings on the season."
     },
     "2d0ee982": {
       "id": "2d0ee982",
@@ -656,22 +668,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
         "batting": {
           "ab": 1,
-          "r": 1,
+          "r": 0,
           "h": 1,
-          "rbi": 1,
+          "rbi": 0,
           "bb": 0,
           "so": 0,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "1/1 with 1 RBI vs. North Florida (W 11-6). Hitting .235 with 0 HR through 16 games."
+      "narrative": "1/1 with 0 RBI vs. Gardner-Webb (W 16-5). Hitting .240 with 0 HR through 18 games."
     },
     "764c4761": {
       "id": "764c4761",
@@ -835,8 +847,23 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
+        "batting": {
+          "ab": 1,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 2,
+          "pos": "pr/c"
+        },
+        "pitching": null
+      },
+      "narrative": "0/1 with 0 RBI vs. Gardner-Webb (W 16-5). Hitting .000 with 0 HR through 2 games."
     },
     "812d51ec": {
       "id": "812d51ec",
@@ -848,10 +875,10 @@
       "num": "21",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 10,
+        "g": 11,
         "gs": 7,
         "avg": 0.313,
-        "ops": 0.718,
+        "ops": 0.734,
         "ab": 32,
         "r": 9,
         "h": 10,
@@ -861,11 +888,11 @@
         "rbi": 6,
         "tb": 10,
         "slg": 0.313,
-        "bb": 5,
+        "bb": 6,
         "hbp": 0,
         "so": 6,
         "gdp": 0,
-        "obp": 0.405,
+        "obp": 0.421,
         "sf": 0,
         "sh": 1,
         "sb": 3,
@@ -873,14 +900,14 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 0,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 1,
           "so": 0,
@@ -888,7 +915,7 @@
         },
         "pitching": null
       },
-      "narrative": "1/2 with 0 RBI vs. North Florida (W 11-6). Hitting .312 with 0 HR through 10 games."
+      "narrative": null
     },
     "53e8f6d7": {
       "id": "53e8f6d7",
@@ -932,24 +959,24 @@
       "num": "23",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 21,
-        "gs": 21,
-        "avg": 0.348,
-        "ops": 0.897,
-        "ab": 69,
+        "g": 22,
+        "gs": 22,
+        "avg": 0.329,
+        "ops": 0.854,
+        "ab": 73,
         "r": 14,
         "h": 24,
         "doubles": 5,
         "triples": 0,
         "hr": 0,
-        "rbi": 21,
+        "rbi": 23,
         "tb": 29,
-        "slg": 0.42,
+        "slg": 0.397,
         "bb": 15,
         "hbp": 3,
         "so": 10,
-        "gdp": 1,
-        "obp": 0.477,
+        "gdp": 2,
+        "obp": 0.457,
         "sf": 1,
         "sh": 2,
         "sb": 6,
@@ -957,22 +984,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 2,
-          "h": 1,
-          "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 2,
+          "bb": 0,
+          "so": 2,
           "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. North Florida (W 11-6). Hitting .343 with 0 HR through 20 games."
+      "narrative": "0/4 with 2 RBI vs. Gardner-Webb (L 5-8). Hitting .328 with 0 HR through 22 games."
     },
     "39049a5d": {
       "id": "39049a5d",
@@ -1003,35 +1030,8 @@
         "wp": 2,
         "opp_avg": ".275"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "W 22-4",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14882&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "5.1",
-          "h": 4,
-          "r": 2,
-          "er": 2,
-          "bb": 0,
-          "so": 4,
-          "wp": 0,
-          "hbp": 0,
-          "w": 1,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "5.1 IP, 4 K, 2 ER vs. Villanova (W 22-4). At 5.85 ERA through 20.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "06b3f84c": {
       "id": "06b3f84c",
@@ -1043,47 +1043,47 @@
       "num": "25",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 20,
-        "gs": 19,
-        "avg": 0.288,
-        "ops": 0.787,
-        "ab": 66,
+        "g": 21,
+        "gs": 20,
+        "avg": 0.3,
+        "ops": 0.794,
+        "ab": 70,
         "r": 21,
-        "h": 19,
+        "h": 21,
         "doubles": 1,
         "triples": 0,
         "hr": 0,
-        "rbi": 9,
-        "tb": 20,
-        "slg": 0.303,
+        "rbi": 10,
+        "tb": 22,
+        "slg": 0.314,
         "bb": 19,
         "hbp": 7,
-        "so": 14,
+        "so": 15,
         "gdp": 1,
-        "obp": 0.484,
-        "sf": 1,
+        "obp": 0.48,
+        "sf": 2,
         "sh": 1,
         "sb": 10,
         "sb_att": 14
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 1,
+          "r": 0,
           "h": 2,
           "rbi": 1,
-          "bb": 1,
-          "so": 0,
-          "pos": "cf/rf"
+          "bb": 0,
+          "so": 2,
+          "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 1 RBI vs. North Florida (W 11-6). Hitting .316 with 0 HR through 19 games."
+      "narrative": "2/4 with 1 RBI vs. Gardner-Webb (L 5-8). Hitting .300 with 0 HR through 21 games."
     },
     "818948fb": {
       "id": "818948fb",
@@ -1120,22 +1120,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "L 0-5",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14881&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 0,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
-          "pos": "ph/dh"
+          "so": 0,
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Villanova (L 0-5). Hitting .100 with 0 HR through 6 games."
+      "narrative": null
     },
     "3e322d52": {
       "id": "3e322d52",
@@ -1148,29 +1148,29 @@
       "school": "Charleston Southern University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.7,
-        "whip": 1.4,
+        "era": 2.53,
+        "whip": 1.31,
         "w": 0,
         "l": 0,
         "sv": 1,
-        "g": 8,
+        "g": 9,
         "gs": 0,
-        "ip": 10.0,
+        "ip": 10.2,
         "h": 9,
         "r": 3,
         "er": 3,
         "bb": 5,
-        "so": 18,
+        "so": 19,
         "hr": 0,
         "hbp": 2,
         "wp": 2,
-        "opp_avg": ".243"
+        "opp_avg": ".237"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1181,20 +1181,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.1",
-          "h": 1,
+          "ip": "0.2",
+          "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 2,
-          "so": 3,
-          "wp": 1,
-          "hbp": 1,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.1 IP, 3 K vs. North Florida (W 11-6). At 2.70 ERA through 10.0 innings on the season."
+      "narrative": "0.2 IP, 1 K vs. Gardner-Webb (L 5-8). At 2.65 ERA through 10.2 innings on the season."
     },
     "d96de9ec": {
       "id": "d96de9ec",
@@ -1206,11 +1206,11 @@
       "num": "31",
       "school": "Charleston Southern University",
       "season_batting": {
-        "g": 21,
-        "gs": 21,
-        "avg": 0.347,
-        "ops": 0.992,
-        "ab": 72,
+        "g": 22,
+        "gs": 22,
+        "avg": 0.325,
+        "ops": 0.935,
+        "ab": 77,
         "r": 19,
         "h": 25,
         "doubles": 3,
@@ -1218,12 +1218,12 @@
         "hr": 3,
         "rbi": 22,
         "tb": 37,
-        "slg": 0.514,
+        "slg": 0.481,
         "bb": 9,
         "hbp": 10,
         "so": 12,
         "gdp": 2,
-        "obp": 0.478,
+        "obp": 0.454,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -1231,22 +1231,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 0,
-          "h": 2,
-          "rbi": 2,
+          "h": 0,
+          "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 2 RBI vs. North Florida (W 11-6). Hitting .352 with 3 HR through 20 games."
+      "narrative": "0/5 with 0 RBI vs. Gardner-Webb (L 5-8). Hitting .324 with 3 HR through 22 games."
     },
     "a9847f87": {
       "id": "a9847f87",
@@ -1283,10 +1283,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1298,7 +1298,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. North Florida (W 11-6). Hitting .235 with 2 HR through 13 games."
+      "narrative": "0/1 with 0 RBI vs. Gardner-Webb (W 16-5). Hitting .222 with 2 HR through 14 games."
     },
     "66fbad87": {
       "id": "66fbad87",
@@ -1329,35 +1329,8 @@
         "wp": 1,
         "opp_avg": ".545"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "W 22-4",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14882&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 1,
-          "wp": 1,
-          "hbp": 1,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "0.2 IP, 1 K vs. Villanova (W 22-4). At 45.00 ERA through 1.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "21f54c57": {
       "id": "21f54c57",
@@ -1388,8 +1361,35 @@
         "wp": 0,
         "opp_avg": ".227"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
+          "so": 0,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "2.0 IP, 0 K vs. Gardner-Webb (W 16-5). At 2.49 ERA through 18.1 innings on the season."
     },
     "5c9abd04": {
       "id": "5c9abd04",
@@ -1402,29 +1402,29 @@
       "school": "Charleston Southern University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.86,
-        "whip": 0.95,
+        "era": 3.46,
+        "whip": 1.19,
         "w": 2,
         "l": 2,
         "sv": 0,
-        "g": 5,
-        "gs": 5,
-        "ip": 22.0,
-        "h": 11,
-        "r": 8,
-        "er": 7,
-        "bb": 10,
-        "so": 16,
+        "g": 6,
+        "gs": 6,
+        "ip": 26.0,
+        "h": 18,
+        "r": 12,
+        "er": 10,
+        "bb": 13,
+        "so": 18,
         "hr": 0,
         "hbp": 5,
         "wp": 1,
-        "opp_avg": ".151"
+        "opp_avg": ".202"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "L 0-5",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14881&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1435,20 +1435,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "3.0",
-          "h": 3,
+          "ip": "4.0",
+          "h": 7,
           "r": 4,
-          "er": 4,
-          "bb": 2,
+          "er": 3,
+          "bb": 3,
           "so": 2,
           "wp": 0,
-          "hbp": 3,
+          "hbp": 0,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "3.0 IP, 2 K vs. Villanova (L 0-5). At 2.86 ERA through 22.0 innings on the season."
+      "narrative": "4.0 IP, 2 K vs. Gardner-Webb (L 5-8). At 3.46 ERA through 26.0 innings on the season."
     },
     "d46cd508": {
       "id": "d46cd508",
@@ -1517,22 +1517,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
         "batting": {
-          "ab": 0,
+          "ab": 1,
           "r": 1,
-          "h": 0,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "pr/rf"
+          "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": null
+      "narrative": "1/1 with 1 RBI vs. Gardner-Webb (W 16-5). Hitting .227 with 2 HR through 16 games."
     },
     "84f4b686": {
       "id": "84f4b686",
@@ -1569,13 +1569,13 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
         "batting": {
           "ab": 0,
-          "r": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
@@ -1597,29 +1597,29 @@
       "school": "Charleston Southern University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.65,
-        "whip": 0.92,
+        "era": 3.2,
+        "whip": 1.02,
         "w": 2,
-        "l": 0,
+        "l": 1,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 16.1,
-        "h": 12,
-        "r": 5,
-        "er": 3,
+        "ip": 19.2,
+        "h": 17,
+        "r": 9,
+        "er": 7,
         "bb": 3,
-        "so": 17,
-        "hr": 2,
+        "so": 21,
+        "hr": 3,
         "hbp": 0,
         "wp": 1,
-        "opp_avg": ".200"
+        "opp_avg": ".227"
       },
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "North Florida",
-        "result": "W 11-6",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14883&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "Gardner-Webb",
+        "result": "L 5-8",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14885&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1630,20 +1630,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.2",
-          "h": 2,
-          "r": 2,
-          "er": 0,
-          "bb": 2,
-          "so": 1,
-          "wp": 1,
+          "ip": "3.1",
+          "h": 5,
+          "r": 4,
+          "er": 4,
+          "bb": 0,
+          "so": 4,
+          "wp": 0,
           "hbp": 0,
-          "w": 1,
-          "l": 0,
+          "w": 0,
+          "l": 1,
           "sv": 0
         }
       },
-      "narrative": "1.2 IP, 1 K vs. North Florida (W 11-6). At 1.68 ERA through 16.1 innings on the season."
+      "narrative": "3.1 IP, 4 K vs. Gardner-Webb (L 5-8). At 3.28 ERA through 19.2 innings on the season."
     },
     "f1f679b6": {
       "id": "f1f679b6",
@@ -1674,35 +1674,8 @@
         "wp": 0,
         "opp_avg": ".417"
       },
-      "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "L 0-5",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14881&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 3,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 0 K vs. Villanova (L 0-5). At 8.18 ERA through 2.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "473d952f": {
       "id": "473d952f",
@@ -1734,10 +1707,10 @@
         "opp_avg": ".300"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Villanova",
-        "result": "W 22-4",
-        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14882&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "Gardner-Webb",
+        "result": "W 16-5",
+        "boxscore_url": "https://csusports.com/boxscore.aspx?id=14884&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1748,20 +1721,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 2,
-          "r": 0,
-          "er": 0,
+          "ip": "2.0",
+          "h": 1,
+          "r": 1,
+          "er": 1,
           "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 2,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "0.1 IP, 0 K vs. Villanova (W 22-4). At 0.00 ERA through 0.1 innings on the season."
+      "narrative": "2.0 IP, 1 K vs. Gardner-Webb (W 16-5). At 4.29 ERA through 2.1 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

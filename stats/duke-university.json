@@ -2,7 +2,7 @@
   "school": "Duke University",
   "base_url": "https://www.goduke.com",
   "season": "2026",
-  "generated_at": "2026-03-21T07:18:27.323599Z",
+  "generated_at": "2026-03-22T07:31:47.262412Z",
   "record": "15-9",
   "most_recent_game": {
     "date": "2026-03-20",
@@ -15,10 +15,10 @@
     "watch_url": null
   },
   "next_game": {
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "opponent": "Virginia Tech",
     "home_away": "away",
-    "time_et": "3:00 PM ET",
+    "time_et": "1:00 PM ET",
     "watch_url": null
   },
   "players": {
@@ -167,25 +167,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Campbell",
+        "date": "2026-03-20",
+        "opponent": "Virginia Tech",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/campbell/boxscore/24587",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/virginia-tech/boxscore/24588",
         "batting": {
           "ab": 3,
           "r": 0,
-          "h": 2,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "2/3 with 0 RBI vs. Campbell (L). Hitting .308 with 0 HR through 22 games."
+      "narrative": "0/3 with 0 RBI vs. Virginia Tech (L). Hitting .295 with 0 HR through 23 games."
     },
     "ea475a8a": {
       "id": "ea475a8a",
@@ -222,25 +222,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-17",
-        "opponent": "Campbell",
+        "date": "2026-03-20",
+        "opponent": "Virginia Tech",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/campbell/boxscore/24587",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/virginia-tech/boxscore/24588",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
+          "bb": 0,
+          "so": 2,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Campbell (L). Hitting .310 with 1 HR through 22 games."
+      "narrative": "0/4 with 0 RBI vs. Virginia Tech (L). Hitting .290 with 1 HR through 23 games."
     },
     "8478bd88": {
       "id": "8478bd88",
@@ -705,17 +705,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Notre Dame",
+        "date": "2026-03-20",
+        "opponent": "Virginia Tech",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24580",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/virginia-tech/boxscore/24588",
         "batting": {
           "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -723,7 +723,7 @@
         },
         "pitching": null
       },
-      "narrative": "In his second game of the season, Johnson went hitless against Notre Dame's Jack Radel, striking out in limited action as Duke's offense struggled early before mounting a late rally in the 10-4 conference loss. The sophomore has yet to record a hit through two games, leaving him with a .200 average and no RBIs as the Blue Devils begin their ACC schedule."
+      "narrative": "0/1 with 0 RBI vs. Virginia Tech (L). Hitting .200 with 0 HR through 2 games."
     },
     "601a9476": {
       "id": "601a9476",
@@ -760,17 +760,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "High Point",
+        "date": "2026-03-20",
+        "opponent": "Virginia Tech",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/virginia-tech/boxscore/24588",
         "batting": {
-          "ab": 3,
+          "ab": 1,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -778,7 +778,7 @@
         },
         "pitching": null
       },
-      "narrative": "Marsh went hitless in three at-bats with two strikeouts against High Point, extending struggles in a Duke lineup that couldn't recover from a six-run first-inning deficit in the 12-6 loss. Through 15 games, the senior first baseman/outfielder is hitting just .212 with 2 homers and 10 RBI, suggesting diminished production in what appears to be a final collegiate season."
+      "narrative": "1/1 with 0 RBI vs. Virginia Tech (L). Hitting .229 with 2 HR through 16 games."
     },
     "63deb6ff": {
       "id": "63deb6ff",
@@ -1214,26 +1214,26 @@
         "opp_avg": ".233"
       },
       "last_game": {
-        "date": "2026-03-06",
-        "opponent": "Notre Dame",
+        "date": "2026-03-20",
+        "opponent": "Virginia Tech",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/notre-dame/boxscore/24580",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/virginia-tech/boxscore/24588",
         "batting": null,
         "pitching": {
-          "ip": "1.2",
-          "h": 3,
-          "r": 3,
-          "er": 3,
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
           "bb": 0,
           "so": 1,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "A brief mop-up appearance in Duke's 10-4 ACC-opening loss to Notre Dame saw Anderson limited to 1.2 innings with three earned runs allowed on three hits, marking a rough outing as the Blue Devils' bullpen couldn't contain the Fighting Irish's fifth-inning explosion. The right-hander, who has appeared in nine games this season with a .280 batting average and two homers, looks to bounce back as Duke seeks to even the series Saturday."
+      "narrative": "1.0 IP, 1 K vs. Virginia Tech (L). At 6.75 ERA through 8.0 innings on the season."
     },
     "47fb492e": {
       "id": "47fb492e",
@@ -1316,26 +1316,26 @@
         "opp_avg": ".267"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Miami FL",
+        "date": "2026-03-20",
+        "opponent": "Virginia Tech",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/miami-fl/boxscore/24585",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/virginia-tech/boxscore/24588",
         "batting": null,
         "pitching": {
-          "ip": "0.2",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
+          "ip": "0.1",
+          "h": 0,
+          "r": 2,
+          "er": 2,
+          "bb": 1,
+          "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 2,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Called in to stabilize after starter Matthew Nochowitz exited with a first-inning arm injury, LaPalm recorded just one strikeout across 0.2 innings in Duke's 9-0 shutout loss to Miami, unable to slow the Hurricanes' early offensive barrage. Through seven innings pitched this season, the junior southpaw owns a 3.86 ERA with nine strikeouts, positioning him as a key bullpen asset despite the abbreviated outing against a strong ACC opponent."
+      "narrative": "0.1 IP, 0 K vs. Virginia Tech (L). At 6.34 ERA through 7.1 innings on the season."
     },
     "7ca13062": {
       "id": "7ca13062",
@@ -1525,10 +1525,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-10",
-        "opponent": "High Point",
+        "date": "2026-03-20",
+        "opponent": "Virginia Tech",
         "result": "L",
-        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/high-point/boxscore/24583",
+        "boxscore_url": "https://www.goduke.com/sports/baseball/stats/2026/virginia-tech/boxscore/24588",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1543,7 +1543,7 @@
         },
         "pitching": null
       },
-      "narrative": "Limited opportunity characterized Duncan's appearance in Duke's 12-6 loss to High Point, recording a pinch-hit at-bat without contact in a game where the Blue Devils' offensive firepower came from Anderson, Lambdin, and Smith. Through two games to start his freshman campaign, Duncan remained without a hit and faces the challenge of breaking into the lineup as Duke (13-6, 1-2 ACC) opens conference play against Miami."
+      "narrative": "0/1 with 0 RBI vs. Virginia Tech (L). Hitting .000 with 0 HR through 3 games."
     },
     "0f0057b8": {
       "id": "0f0057b8",

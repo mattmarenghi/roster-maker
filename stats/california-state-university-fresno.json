@@ -2,7 +2,7 @@
   "school": "California State University, Fresno",
   "base_url": "https://www.gobulldogs.com",
   "season": "2026",
-  "generated_at": "2026-03-21T07:15:15.415225Z",
+  "generated_at": "2026-03-22T07:28:43.770257Z",
   "record": "29-38",
   "most_recent_game": {
     "date": "2026-03-20",
@@ -52,26 +52,26 @@
         "opp_avg": ".333"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Nevada",
+        "date": "2026-03-20",
+        "opponent": "Utah Tech",
         "result": "L",
-        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18997",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/utah-tech/boxscore/19007",
         "batting": null,
         "pitching": {
-          "ip": "3.0",
-          "h": 7,
-          "r": 5,
-          "er": 5,
-          "bb": 2,
+          "ip": "1.1",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
           "so": 2,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Nevada, throwing 3.0 innings. Allowed 5 earned run(s) with 2 strikeout(s)."
+      "narrative": "1.1 IP, 2 K vs. Utah Tech (L). At 9.42 ERA through 17.2 innings on the season."
     },
     "6fb1ddc2": {
       "id": "6fb1ddc2",
@@ -732,25 +732,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-19",
+        "date": "2026-03-20",
         "opponent": "Utah Tech",
         "result": "L",
-        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/utah-tech/boxscore/18999",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/utah-tech/boxscore/19007",
         "batting": {
-          "ab": 6,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 1,
           "rbi": 1,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "1/6 with 1 RBI vs. Utah Tech (L). Hitting .359 with 1 HR through 19 games."
+      "narrative": "1/4 with 1 RBI vs. Utah Tech (L). Hitting .352 with 1 HR through 20 games."
     },
     "8af69f0f": {
       "id": "8af69f0f",
@@ -1410,18 +1410,18 @@
         "opp_avg": ".174"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Nevada",
+        "date": "2026-03-20",
+        "opponent": "Utah Tech",
         "result": "L",
-        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/nevada/boxscore/18997",
+        "boxscore_url": "https://www.gobulldogs.com/sports/baseball/stats/2026/utah-tech/boxscore/19007",
         "batting": null,
         "pitching": {
           "ip": "2.0",
-          "h": 1,
-          "r": 1,
-          "er": 1,
-          "bb": 2,
-          "so": 3,
+          "h": 3,
+          "r": 4,
+          "er": 2,
+          "bb": 3,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1429,7 +1429,7 @@
           "sv": 0
         }
       },
-      "narrative": "Took the mound against Nevada, throwing 2.0 innings. Allowed 1 earned run(s) with 3 strikeout(s)."
+      "narrative": "2.0 IP, 0 K vs. Utah Tech (L). At 3.44 ERA through 13.1 innings on the season."
     },
     "0c39540d": {
       "id": "0c39540d",
