@@ -1,6 +1,6 @@
 # D1 Baseball Roster Coverage Report
 
-_Generated: 2026-03-17 23:50 UTC_
+_Generated: 2026-03-22 23:56 UTC_
 
 ## Summary
 

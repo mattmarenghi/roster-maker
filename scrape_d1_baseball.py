@@ -292,6 +292,12 @@ def parse_old_sidearm_table(soup, team_name, conference, school_name, state):
         first_name = texts[0] if len(texts) >= 1 else ''
         last_name = texts[1] if len(texts) >= 2 else ''
 
+        # Guard: some schools (e.g. CCSU) produce last_name cells that contain
+        # the real last name immediately followed by the full name with no
+        # separator, e.g. "DucatelliAntonio Ducatelli".  Detect and trim.
+        if first_name and first_name in last_name:
+            last_name = last_name[:last_name.index(first_name)].strip()
+
         tds = row.find_all('td')
         def get_td_class(cls):
             td = row.find('td', class_=cls)
