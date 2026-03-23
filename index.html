@@ -1029,6 +1029,43 @@
     }
     .fav-toast svg { flex-shrink: 0; }
 
+    /* ── First-favorite celebration toast ──────────────────────────────────── */
+    .first-fav-toast {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) scale(0.92);
+      background: #1a1a2e;
+      color: white;
+      padding: 28px 32px;
+      border-radius: 18px;
+      max-width: min(420px, 88vw);
+      text-align: center;
+      pointer-events: none;
+      z-index: 600;
+      box-shadow: 0 8px 48px rgba(0,0,0,0.40);
+      opacity: 0;
+      transition: opacity 0.24s ease, transform 0.24s ease;
+      line-height: 1.55;
+    }
+    .first-fav-toast.show {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1);
+    }
+    .first-fav-toast .fft-icon {
+      margin-bottom: 10px;
+    }
+    .first-fav-toast .fft-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .first-fav-toast .fft-body {
+      font-size: 0.95rem;
+      font-weight: 400;
+      opacity: 0.88;
+    }
+
     /* ── Player card modal (search result → detail) ─────────────────────── */
     .player-modal-overlay {
       display: none;
@@ -1205,6 +1242,9 @@
 
 <!-- Favorite add/remove toast -->
 <div class="fav-toast" id="favToast" aria-live="polite"></div>
+
+<!-- First-favorite celebration toast -->
+<div class="first-fav-toast" id="firstFavToast" aria-live="polite"></div>
 
 <!-- Main content: My Players (homepage) -->
 <div class="main-content" id="mainContent">
@@ -1389,6 +1429,21 @@
     _favToastTimer = setTimeout(() => { toast.classList.remove('show'); toast.style.background = ''; }, 3000);
   }
 
+  let _firstFavToastTimer = null;
+  function showFirstFavToast() {
+    const toast = $('firstFavToast');
+    toast.innerHTML = `
+      <div class="fft-icon">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="#f0b429" stroke="#f0b429" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+      </div>
+      <div class="fft-title">Congratulations, you added your first player!</div>
+      <div class="fft-body">Search for more players or teams to add to your feed and follow their season.</div>
+    `;
+    if (_firstFavToastTimer) clearTimeout(_firstFavToastTimer);
+    toast.classList.add('show');
+    _firstFavToastTimer = setTimeout(() => toast.classList.remove('show'), 5000);
+  }
+
   async function toggleFavorite(id, e) {
     if (e) e.stopPropagation();
     if (!currentUser) {
@@ -1400,11 +1455,13 @@
     // the async DB call is in flight.
     const user = currentUser;
     const removing = favorites.has(id);
+    const isFirstFav = !removing && favorites.size === 0;
 
     // Optimistic update
     if (removing) { favorites.delete(id); } else { favorites.add(id); }
     syncAllStars();
     showFavToast(removing);
+    if (isFirstFav) showFirstFavToast();
 
     // Animate card removal if unfavoriting from homepage
     if (removing && !searchActive) {
@@ -1468,10 +1525,12 @@
 
     const user = currentUser;
     const removing = favorites.has(id);
+    const isFirstFav = !removing && favorites.size === 0;
 
     // Optimistic update
     if (removing) { favorites.delete(id); } else { favorites.add(id); }
     showFavToast(removing);
+    if (isFirstFav) showFirstFavToast();
 
     // Close modal with slide-down, then exit search and re-render.
     // scrollToAndHighlightCard is delayed until after the 250ms modal close
@@ -1663,10 +1722,12 @@
         await fetchFavorites();
         // Auto-star the player that triggered sign-in and land on clean homepage
         if (pending && !favorites.has(pending.id)) {
+          const isFirstFav = favorites.size === 0;
           favorites.add(pending.id);
           syncAllStars();
           db.from('favorites').insert({ user_id: currentUser.id, player_id: pending.id });
           scrollToAndHighlightCard(pending.id);
+          if (isFirstFav) showFirstFavToast();
         }
       }
     } catch (err) {
@@ -1705,7 +1766,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.85 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
+        <div class="ps-version">VERSION 2.5.86 (claude/first-favorite-toast-6HkdH)</div>`;
       return;
     }
 
@@ -1747,7 +1808,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.85 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
+      <div class="ps-version">VERSION 2.5.86 (claude/first-favorite-toast-6HkdH)</div>`;
   }
 
   async function signOut() {
