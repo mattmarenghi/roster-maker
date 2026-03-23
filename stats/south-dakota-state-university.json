@@ -2,7 +2,7 @@
   "school": "South Dakota State University",
   "base_url": "https://www.gojacks.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:46:57.414330Z",
+  "generated_at": "2026-03-23T04:59:17.903712Z",
   "record": "11-16",
   "most_recent_game": {
     "date": "2026-03-21",
@@ -571,25 +571,25 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-20",
-        "opponent": "North Dakota St.",
-        "result": "L",
-        "boxscore_url": "https://www.gojacks.com/sports/baseball/stats/2026/north-dakota-st-/boxscore/14933",
+        "date": "2026-03-21",
+        "opponent": "North Dakota State",
+        "result": "W",
+        "boxscore_url": "https://www.gojacks.com/sports/baseball/stats/2026/north-dakota-state/boxscore/14934",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 0,
-          "h": 1,
-          "rbi": 0,
+          "h": 3,
+          "rbi": 2,
           "bb": 0,
           "so": 0,
           "hr": 0,
-          "doubles": 1,
+          "doubles": 0,
           "triples": 0,
           "pos": ""
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. North Dakota St. (L). Hitting .276 with 1 HR through 21 games."
+      "narrative": "3/5 with 2 RBI vs. North Dakota State (W). Hitting .300 with 1 HR through 22 games."
     },
     "540b1518": {
       "id": "540b1518",

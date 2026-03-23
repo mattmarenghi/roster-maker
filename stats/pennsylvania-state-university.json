@@ -2,13 +2,13 @@
   "school": "Pennsylvania State University",
   "base_url": "https://gopsusports.com",
   "season": "2026",
-  "generated_at": "2026-03-22T08:07:26.632659Z",
-  "record": "5-15",
+  "generated_at": "2026-03-23T05:21:10.570582Z",
+  "record": "6-15",
   "most_recent_game": {
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "opponent": "Purdue",
-    "result": "L 2-1",
-    "boxscore_url": "https://gopsusports.com/boxscore/18085",
+    "result": "W 14-9",
+    "boxscore_url": "https://gopsusports.com/boxscore/18086",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": ""

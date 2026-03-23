@@ -2,14 +2,14 @@
   "school": "Florida International University",
   "base_url": "https://www.fiusports.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:33:06.238709Z",
-  "record": "8-16",
+  "generated_at": "2026-03-23T04:44:47.606785Z",
+  "record": "8-17",
   "most_recent_game": {
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "opponent": "Sam Houston",
-    "result": "W 12-11",
-    "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
-    "recap_url": "https://www.fiusports.com/news/2026/3/21/trivellas-walk-off-grand-slam-lifts-baseball-in-wild-comeback.aspx",
+    "result": "L 1-7",
+    "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
+    "recap_url": "https://www.fiusports.com/news/2026/3/22/baseball-falls-in-series-finale-to-sam-houston-sunday-afternoon.aspx",
     "recap_headline": "FIU Athletics",
     "recap_text": "",
     "watch_url": null
@@ -69,34 +69,22 @@
         "opp_avg": ".327"
       },
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "p"
+          "pos": "ss"
         },
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 1,
-          "hbp": 0,
-          "w": 1,
-          "l": 0,
-          "sv": 0
-        }
+        "pitching": null
       },
-      "narrative": "1.0 IP, 1 K vs. Sam Houston (W 12-11). At 12.97 ERA through 11.1 innings on the season."
+      "narrative": "0/3 with 0 RBI vs. Sam Houston (L 1-7). Hitting .000 with 0 HR through 4 games."
     },
     "91d4167c": {
       "id": "91d4167c",
@@ -136,7 +124,7 @@
         "date": "2026-03-20",
         "opponent": "Sam Houston",
         "result": "L 2-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=",
         "batting": {
           "ab": 2,
           "r": 0,
@@ -203,34 +191,22 @@
         "opp_avg": ".327"
       },
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 0,
+          "ab": 3,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "p"
+          "pos": "ss"
         },
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
-          "wp": 1,
-          "hbp": 0,
-          "w": 1,
-          "l": 0,
-          "sv": 0
-        }
+        "pitching": null
       },
-      "narrative": "1.0 IP, 1 K vs. Sam Houston (W 12-11). At 12.97 ERA through 11.1 innings on the season."
+      "narrative": "0/3 with 0 RBI vs. Sam Houston (L 1-7). Hitting .000 with 0 HR through 4 games."
     },
     "abe38a1c": {
       "id": "abe38a1c",
@@ -279,24 +255,24 @@
       "num": "5",
       "school": "Florida International University",
       "season_batting": {
-        "g": 23,
-        "gs": 22,
-        "avg": 0.263,
-        "ops": 0.81,
-        "ab": 80,
-        "r": 8,
-        "h": 21,
+        "g": 24,
+        "gs": 23,
+        "avg": 0.265,
+        "ops": 0.812,
+        "ab": 83,
+        "r": 9,
+        "h": 22,
         "doubles": 13,
         "triples": 0,
         "hr": 0,
         "rbi": 14,
-        "tb": 34,
-        "slg": 0.425,
-        "bb": 12,
+        "tb": 35,
+        "slg": 0.422,
+        "bb": 13,
         "hbp": 4,
-        "so": 21,
+        "so": 23,
         "gdp": 1,
-        "obp": 0.385,
+        "obp": 0.39,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -304,22 +280,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 5,
-          "r": 0,
-          "h": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 1,
+          "bb": 1,
+          "so": 0,
           "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "0/5 with 0 RBI vs. Sam Houston (W 12-11). Hitting .262 with 0 HR through 23 games."
+      "narrative": "1/3 with 0 RBI vs. Sam Houston (L 1-7). Hitting .265 with 0 HR through 24 games."
     },
     "481f1ffa": {
       "id": "481f1ffa",
@@ -331,11 +307,11 @@
       "num": "6",
       "school": "Florida International University",
       "season_batting": {
-        "g": 24,
-        "gs": 23,
-        "avg": 0.247,
-        "ops": 0.898,
-        "ab": 77,
+        "g": 25,
+        "gs": 24,
+        "avg": 0.241,
+        "ops": 0.89,
+        "ab": 79,
         "r": 14,
         "h": 19,
         "doubles": 3,
@@ -343,12 +319,12 @@
         "hr": 5,
         "rbi": 20,
         "tb": 39,
-        "slg": 0.506,
-        "bb": 11,
-        "hbp": 8,
+        "slg": 0.494,
+        "bb": 12,
+        "hbp": 9,
         "so": 36,
-        "gdp": 1,
-        "obp": 0.392,
+        "gdp": 2,
+        "obp": 0.396,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -356,22 +332,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 1,
           "so": 1,
-          "pos": "dh"
+          "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Sam Houston (W 12-11). Hitting .246 with 5 HR through 24 games."
+      "narrative": "0/2 with 0 RBI vs. Sam Houston (L 1-7). Hitting .240 with 5 HR through 25 games."
     },
     "4ce31579": {
       "id": "4ce31579",
@@ -406,7 +382,7 @@
         "date": "2026-03-21",
         "opponent": "Sam Houston",
         "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -470,7 +446,7 @@
         "date": "2026-03-20",
         "opponent": "Sam Houston",
         "result": "L 2-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=",
         "batting": {
           "ab": 0,
           "r": 1,
@@ -494,11 +470,11 @@
       "num": "9",
       "school": "Florida International University",
       "season_batting": {
-        "g": 18,
-        "gs": 18,
-        "avg": 0.212,
-        "ops": 0.676,
-        "ab": 66,
+        "g": 19,
+        "gs": 19,
+        "avg": 0.209,
+        "ops": 0.691,
+        "ab": 67,
         "r": 10,
         "h": 14,
         "doubles": 5,
@@ -506,35 +482,35 @@
         "hr": 1,
         "rbi": 8,
         "tb": 24,
-        "slg": 0.364,
-        "bb": 7,
+        "slg": 0.358,
+        "bb": 10,
         "hbp": 3,
         "so": 18,
         "gdp": 0,
-        "obp": 0.312,
+        "obp": 0.333,
         "sf": 1,
         "sh": 0,
         "sb": 6,
-        "sb_att": 7
+        "sb_att": 8
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "bb": 3,
+          "so": 3,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Sam Houston (W 12-11). Hitting .212 with 1 HR through 18 games."
+      "narrative": "0/1 with 0 RBI vs. Sam Houston (L 1-7). Hitting .208 with 1 HR through 19 games."
     },
     "ad616157": {
       "id": "ad616157",
@@ -570,23 +546,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Miami (Fla.)",
-        "result": "L 3-10",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14104&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ph"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Miami (Fla.) (L 3-10). Hitting .153 with 0 HR through 13 games."
+      "last_game": null,
+      "narrative": null
     },
     "5cde7f74": {
       "id": "5cde7f74",
@@ -622,23 +583,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Miami (Fla.)",
-        "result": "L 3-10",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14104&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ph"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Miami (Fla.) (L 3-10). Hitting .148 with 0 HR through 10 games."
+      "last_game": null,
+      "narrative": null
     },
     "9e89296c": {
       "id": "9e89296c",
@@ -650,24 +596,24 @@
       "num": "13",
       "school": "Florida International University",
       "season_batting": {
-        "g": 18,
-        "gs": 17,
-        "avg": 0.333,
-        "ops": 1.063,
-        "ab": 60,
+        "g": 19,
+        "gs": 18,
+        "avg": 0.323,
+        "ops": 1.015,
+        "ab": 65,
         "r": 15,
-        "h": 20,
+        "h": 21,
         "doubles": 2,
         "triples": 0,
         "hr": 5,
         "rbi": 9,
-        "tb": 37,
-        "slg": 0.617,
+        "tb": 38,
+        "slg": 0.585,
         "bb": 7,
         "hbp": 6,
-        "so": 9,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.446,
+        "obp": 0.43,
         "sf": 1,
         "sh": 0,
         "sb": 1,
@@ -675,22 +621,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 4,
-          "r": 2,
-          "h": 2,
-          "rbi": 1,
-          "bb": 1,
+          "ab": 5,
+          "r": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
           "so": 0,
-          "pos": "2b"
+          "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 1 RBI vs. Sam Houston (W 12-11). Hitting .333 with 5 HR through 18 games."
+      "narrative": "1/5 with 0 RBI vs. Sam Houston (L 1-7). Hitting .323 with 5 HR through 19 games."
     },
     "317f4b62": {
       "id": "317f4b62",
@@ -702,11 +648,11 @@
       "num": "14",
       "school": "Florida International University",
       "season_batting": {
-        "g": 24,
-        "gs": 24,
-        "avg": 0.295,
-        "ops": 0.969,
-        "ab": 78,
+        "g": 25,
+        "gs": 25,
+        "avg": 0.28,
+        "ops": 0.933,
+        "ab": 82,
         "r": 26,
         "h": 23,
         "doubles": 3,
@@ -714,12 +660,12 @@
         "hr": 3,
         "rbi": 13,
         "tb": 37,
-        "slg": 0.474,
-        "bb": 21,
+        "slg": 0.451,
+        "bb": 22,
         "hbp": 10,
-        "so": 17,
+        "so": 18,
         "gdp": 1,
-        "obp": 0.495,
+        "obp": 0.482,
         "sf": 0,
         "sh": 0,
         "sb": 1,
@@ -727,22 +673,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 3,
-          "r": 3,
-          "h": 2,
-          "rbi": 2,
-          "bb": 2,
-          "so": 0,
+          "ab": 4,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 1,
+          "so": 5,
           "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 2 RBI vs. Sam Houston (W 12-11). Hitting .294 with 3 HR through 24 games."
+      "narrative": "0/4 with 0 RBI vs. Sam Houston (L 1-7). Hitting .280 with 3 HR through 25 games."
     },
     "764c55d6": {
       "id": "764c55d6",
@@ -782,7 +728,7 @@
         "date": "2026-03-21",
         "opponent": "Sam Houston",
         "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -834,7 +780,7 @@
         "date": "2026-03-20",
         "opponent": "Sam Houston",
         "result": "L 2-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -913,7 +859,7 @@
         "date": "2026-03-21",
         "opponent": "Sam Houston",
         "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -987,26 +933,53 @@
       "school": "Florida International University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.2,
+        "era": 5.67,
         "whip": 1.67,
         "w": 2,
-        "l": 3,
+        "l": 4,
         "sv": 0,
-        "g": 7,
-        "gs": 4,
-        "ip": 20.1,
-        "h": 25,
-        "r": 15,
-        "er": 14,
-        "bb": 9,
-        "so": 10,
-        "hr": 1,
+        "g": 8,
+        "gs": 5,
+        "ip": 27.0,
+        "h": 32,
+        "r": 18,
+        "er": 17,
+        "bb": 13,
+        "so": 14,
+        "hr": 2,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".316"
+        "opp_avg": ".311"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-22",
+        "opponent": "Sam Houston",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "6.2",
+          "h": 7,
+          "r": 3,
+          "er": 3,
+          "bb": 4,
+          "so": 4,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 1,
+          "sv": 0
+        }
+      },
+      "narrative": "6.2 IP, 4 K, 3 ER vs. Sam Houston (L 1-7). At 5.67 ERA through 27.0 innings on the season."
     },
     "1f2fdd70": {
       "id": "1f2fdd70",
@@ -1051,29 +1024,29 @@
       "school": "Florida International University",
       "season_batting": null,
       "season_pitching": {
-        "era": 11.45,
-        "whip": 1.64,
+        "era": 13.91,
+        "whip": 1.91,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 2,
         "ip": 11.0,
         "h": 14,
-        "r": 16,
-        "er": 14,
-        "bb": 4,
+        "r": 19,
+        "er": 17,
+        "bb": 7,
         "so": 11,
         "hr": 5,
         "hbp": 2,
-        "wp": 0,
+        "wp": 1,
         "opp_avg": ".298"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Miami (Fla.)",
-        "result": "L 3-10",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14104&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "Sam Houston",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1084,20 +1057,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
-          "h": 2,
+          "ip": "0.0",
+          "h": 0,
           "r": 3,
           "er": 3,
-          "bb": 1,
+          "bb": 3,
           "so": 0,
-          "wp": 0,
+          "wp": 1,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "2.0 IP, 0 K vs. Miami (Fla.) (L 3-10). At 11.45 ERA through 11.0 innings on the season."
+      "narrative": null
     },
     "2a289860": {
       "id": "2a289860",
@@ -1137,7 +1110,7 @@
         "date": "2026-03-21",
         "opponent": "Sam Houston",
         "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=",
         "batting": {
           "ab": 5,
           "r": 2,
@@ -1194,29 +1167,29 @@
       "school": "Florida International University",
       "season_batting": null,
       "season_pitching": {
-        "era": 8.8,
-        "whip": 1.7,
+        "era": 9.0,
+        "whip": 1.69,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 4,
-        "ip": 15.1,
+        "ip": 16.0,
         "h": 19,
-        "r": 15,
-        "er": 15,
-        "bb": 7,
+        "r": 16,
+        "er": 16,
+        "bb": 8,
         "so": 10,
         "hr": 1,
         "hbp": 1,
-        "wp": 1,
-        "opp_avg": ".306"
+        "wp": 2,
+        "opp_avg": ".302"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Miami (Fla.)",
-        "result": "L 3-10",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14104&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "Sam Houston",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1227,20 +1200,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.1",
-          "h": 1,
+          "ip": "0.2",
+          "h": 0,
           "r": 1,
           "er": 1,
           "bb": 1,
           "so": 0,
-          "wp": 0,
-          "hbp": 1,
+          "wp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "2.1 IP, 0 K vs. Miami (Fla.) (L 3-10). At 8.94 ERA through 15.1 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. Sam Houston (L 1-7). At 9.00 ERA through 16.0 innings on the season."
     },
     "de655adf": {
       "id": "de655adf",
@@ -1252,11 +1225,11 @@
       "num": "30",
       "school": "Florida International University",
       "season_batting": {
-        "g": 24,
-        "gs": 24,
-        "avg": 0.283,
-        "ops": 0.805,
-        "ab": 99,
+        "g": 25,
+        "gs": 25,
+        "avg": 0.272,
+        "ops": 0.775,
+        "ab": 103,
         "r": 14,
         "h": 28,
         "doubles": 7,
@@ -1264,12 +1237,12 @@
         "hr": 2,
         "rbi": 20,
         "tb": 43,
-        "slg": 0.434,
+        "slg": 0.417,
         "bb": 9,
         "hbp": 6,
         "so": 8,
         "gdp": 3,
-        "obp": 0.371,
+        "obp": 0.358,
         "sf": 2,
         "sh": 0,
         "sb": 2,
@@ -1277,22 +1250,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 3,
-          "r": 1,
+          "ab": 4,
+          "r": 0,
           "h": 0,
           "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "lf"
+          "bb": 0,
+          "so": 2,
+          "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Sam Houston (W 12-11). Hitting .282 with 2 HR through 24 games."
+      "narrative": "0/4 with 0 RBI vs. Sam Houston (L 1-7). Hitting .271 with 2 HR through 25 games."
     },
     "bac5a693": {
       "id": "bac5a693",
@@ -1327,7 +1300,7 @@
         "date": "2026-03-20",
         "opponent": "Sam Houston",
         "result": "L 2-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1363,24 +1336,24 @@
       "num": "32",
       "school": "Florida International University",
       "season_batting": {
-        "g": 14,
-        "gs": 12,
+        "g": 15,
+        "gs": 13,
         "avg": 0.25,
-        "ops": 0.684,
-        "ab": 36,
+        "ops": 0.667,
+        "ab": 40,
         "r": 3,
-        "h": 9,
+        "h": 10,
         "doubles": 0,
         "triples": 1,
         "hr": 0,
         "rbi": 5,
-        "tb": 11,
-        "slg": 0.306,
+        "tb": 12,
+        "slg": 0.3,
         "bb": 6,
         "hbp": 2,
         "so": 11,
-        "gdp": 0,
-        "obp": 0.378,
+        "gdp": 1,
+        "obp": 0.367,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -1388,22 +1361,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-20",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "L 2-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 2,
+          "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 1,
+          "bb": 0,
+          "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Sam Houston (L 2-3). Hitting .250 with 0 HR through 14 games."
+      "narrative": "1/4 with 0 RBI vs. Sam Houston (L 1-7). Hitting .250 with 0 HR through 15 games."
     },
     "5657b215": {
       "id": "5657b215",
@@ -1438,7 +1411,7 @@
         "date": "2026-03-21",
         "opponent": "Sam Houston",
         "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1475,29 +1448,29 @@
       "school": "Florida International University",
       "season_batting": null,
       "season_pitching": {
-        "era": 11.15,
-        "whip": 2.61,
+        "era": 10.69,
+        "whip": 2.63,
         "w": 0,
         "l": 2,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 3,
-        "ip": 15.1,
-        "h": 32,
+        "ip": 16.0,
+        "h": 34,
         "r": 23,
         "er": 19,
         "bb": 8,
         "so": 16,
         "hr": 1,
-        "hbp": 3,
+        "hbp": 4,
         "wp": 1,
-        "opp_avg": ".405"
+        "opp_avg": ".410"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Miami (Fla.)",
-        "result": "L 3-10",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14104&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "Sam Houston",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1508,20 +1481,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.2",
-          "h": 4,
-          "r": 3,
-          "er": 3,
+          "ip": "0.2",
+          "h": 2,
+          "r": 0,
+          "er": 0,
           "bb": 0,
-          "so": 3,
+          "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
-          "l": 1,
+          "l": 0,
           "sv": 0
         }
       },
-      "narrative": "2.2 IP, 3 K vs. Miami (Fla.) (L 3-10). At 11.32 ERA through 15.1 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. Sam Houston (L 1-7). At 10.69 ERA through 16.0 innings on the season."
     },
     "a84281e0": {
       "id": "a84281e0",
@@ -1593,7 +1566,7 @@
         "date": "2026-03-20",
         "opponent": "Sam Houston",
         "result": "L 2-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1630,29 +1603,29 @@
       "school": "Florida International University",
       "season_batting": null,
       "season_pitching": {
-        "era": 10.61,
-        "whip": 2.68,
+        "era": 9.58,
+        "whip": 2.52,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 9.1,
-        "h": 13,
+        "ip": 10.1,
+        "h": 14,
         "r": 12,
         "er": 11,
         "bb": 12,
-        "so": 12,
+        "so": 13,
         "hr": 0,
         "hbp": 1,
         "wp": 3,
-        "opp_avg": ".325"
+        "opp_avg": ".318"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Miami (Fla.)",
-        "result": "L 3-10",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14104&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "Sam Houston",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1667,8 +1640,8 @@
           "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 3,
+          "bb": 0,
+          "so": 1,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1676,7 +1649,7 @@
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 3 K vs. Miami (Fla.) (L 3-10). At 10.88 ERA through 9.1 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. Sam Houston (L 1-7). At 9.80 ERA through 10.1 innings on the season."
     },
     "89449fb9": {
       "id": "89449fb9",
@@ -1812,7 +1785,7 @@
         "date": "2026-03-20",
         "opponent": "Sam Houston",
         "result": "L 2-3",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=baseball",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14105&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1848,24 +1821,24 @@
       "num": "47",
       "school": "Florida International University",
       "season_batting": {
-        "g": 13,
-        "gs": 5,
-        "avg": 0.24,
-        "ops": 0.801,
-        "ab": 25,
+        "g": 14,
+        "gs": 6,
+        "avg": 0.25,
+        "ops": 0.828,
+        "ab": 28,
         "r": 4,
-        "h": 6,
+        "h": 7,
         "doubles": 0,
         "triples": 0,
         "hr": 2,
         "rbi": 3,
-        "tb": 12,
-        "slg": 0.48,
-        "bb": 2,
+        "tb": 13,
+        "slg": 0.464,
+        "bb": 4,
         "hbp": 1,
-        "so": 12,
+        "so": 14,
         "gdp": 1,
-        "obp": 0.321,
+        "obp": 0.364,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -1873,22 +1846,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Sam Houston",
-        "result": "W 12-11",
-        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14106&path=baseball",
+        "result": "L 1-7",
+        "boxscore_url": "https://www.fiusports.com/boxscore.aspx?id=14107&path=",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 0,
+          "ab": 3,
+          "r": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
+          "bb": 2,
           "so": 0,
-          "pos": "rf"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Sam Houston (W 12-11). Hitting .240 with 2 HR through 13 games."
+      "narrative": "1/3 with 0 RBI vs. Sam Houston (L 1-7). Hitting .250 with 2 HR through 14 games."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

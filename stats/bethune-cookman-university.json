@@ -2,13 +2,13 @@
   "school": "Bethune-Cookman University",
   "base_url": "https://www.bcuathletics.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:25:52.103810Z",
+  "generated_at": "2026-03-23T04:37:19.079696Z",
   "record": "17-7",
   "most_recent_game": {
     "date": "2026-03-21",
     "opponent": "Alcorn St.",
     "result": "L 2-12",
-    "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+    "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
     "recap_url": "https://www.bcuathletics.com/news/2026/3/21/baseball-wildcats-roll-to-doubleheader-sweep-over-alcorn-state.aspx",
     "recap_headline": "Bethune-Cookman University Athletics",
     "recap_text": "",
@@ -54,7 +54,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -106,7 +106,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 2,
           "r": 2,
@@ -190,7 +190,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -274,7 +274,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -358,7 +358,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
@@ -506,7 +506,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 3-14",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -565,7 +565,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -629,7 +629,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 3,
           "r": 1,
@@ -745,7 +745,7 @@
         "date": "2026-03-20",
         "opponent": "Alcorn St.",
         "result": "L 1-11",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13744&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13744&path=baseball",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -861,7 +861,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 3-14",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -913,7 +913,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -960,7 +960,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 3-14",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1019,7 +1019,7 @@
         "date": "2026-03-20",
         "opponent": "Alcorn St.",
         "result": "L 1-11",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13744&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13744&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1083,7 +1083,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -1130,7 +1130,7 @@
         "date": "2026-03-20",
         "opponent": "Alcorn St.",
         "result": "L 1-11",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13744&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13744&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1194,7 +1194,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 3-14",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13781&path=baseball",
         "batting": {
           "ab": 2,
           "r": 1,
@@ -1246,7 +1246,7 @@
         "date": "2026-03-21",
         "opponent": "Alcorn St.",
         "result": "L 2-12",
-        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=",
+        "boxscore_url": "https://www.bcuathletics.com/boxscore.aspx?id=13745&path=baseball",
         "batting": {
           "ab": 4,
           "r": 2,

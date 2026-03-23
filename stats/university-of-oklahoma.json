@@ -2,7 +2,7 @@
   "school": "University of Oklahoma",
   "base_url": "https://soonersports.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:59:44.687151Z",
+  "generated_at": "2026-03-23T05:12:41.339963Z",
   "record": "70-76",
   "most_recent_game": {
     "date": "2026-03-21",
@@ -947,17 +947,17 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-20",
+        "date": "2026-03-21",
         "opponent": "LSU",
         "result": "W",
-        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/lsu/boxscore/15385",
+        "boxscore_url": "https://soonersports.com/sports/baseball/stats/2026/lsu/boxscore/15388",
         "batting": {
-          "ab": 4,
+          "ab": 2,
           "r": 0,
-          "h": 2,
-          "rbi": 2,
-          "bb": 1,
-          "so": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 2,
+          "so": 1,
           "hr": 0,
           "doubles": 0,
           "triples": 0,
@@ -965,7 +965,7 @@
         },
         "pitching": null
       },
-      "narrative": "2/4 with 2 RBI vs. LSU (W). Hitting .360 with 4 HR through 22 games."
+      "narrative": "1/2 with 0 RBI vs. LSU (W). Hitting .360 with 4 HR through 22 games."
     },
     "6fe01416": {
       "id": "6fe01416",

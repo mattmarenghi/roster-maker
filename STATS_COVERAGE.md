@@ -1,6 +1,6 @@
 # D1 Baseball Stats Coverage Report
 
-_Generated: 2026-03-22 08:06 UTC_
+_Generated: 2026-03-23 05:20 UTC_
 
 ## Summary
 
@@ -13,7 +13,7 @@ _Generated: 2026-03-22 08:06 UTC_
 | Incompatible (no Sidearm stats) | 41 |
 | Scraped — missing batting stats | 0 |
 | Scraped — missing pitching stats | 0 |
-| Scraped — missing game recap | 145 |
+| Scraped — missing game recap | 144 |
 | Scraped — missing season record | 0 |
 
 ## Compatible but Not Yet Scraped (8)
@@ -27,7 +27,7 @@ _Generated: 2026-03-22 08:06 UTC_
 - U.S. Military Academy
 - University at Buffalo, the State University of New York
 
-## Scraped but Missing Game Recaps (145)
+## Scraped but Missing Game Recaps (144)
 
 - Alabama A&M University
 - Alabama State University
@@ -89,6 +89,7 @@ _Generated: 2026-03-22 08:06 UTC_
 - Monmouth University
 - Morehead State University
 - Mount St. Mary's University
+- Murray State University
 - New Jersey Institute of Technology
 - Niagara University
 - Nicholls State University
@@ -105,7 +106,6 @@ _Generated: 2026-03-22 08:06 UTC_
 - Presbyterian College
 - Purdue University
 - Queens University of Charlotte
-- Quinnipiac University
 - Radford University
 - Rider University
 - Saint Joseph's University
@@ -129,7 +129,6 @@ _Generated: 2026-03-22 08:06 UTC_
 - The University of Texas Rio Grande Valley
 - Towson University
 - University at Albany
-- University of Alabama at Birmingham
 - University of Arkansas, Pine Bluff
 - University of California, Davis
 - University of California, Riverside

@@ -2,14 +2,14 @@
   "school": "University of Rhode Island",
   "base_url": "https://www.gorhody.com",
   "season": "2026",
-  "generated_at": "2026-03-22T08:00:33.304562Z",
-  "record": "5-15",
+  "generated_at": "2026-03-23T05:13:30.389071Z",
+  "record": "6-15",
   "most_recent_game": {
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "opponent": "George Mason",
-    "result": "L 1-3",
-    "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
-    "recap_url": "https://www.gorhody.com/news/2026/3/21/baseball-george-mason-stymies-rams-3-1.aspx",
+    "result": "W 10-9",
+    "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
+    "recap_url": "https://www.gorhody.com/news/2026/3/22/baseball-toro-walk-off-homer-caps-improbable-rally-for-rams.aspx",
     "recap_headline": "University of Rhode Island",
     "recap_text": "",
     "watch_url": null
@@ -50,23 +50,8 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 0,
-          "rbi": 0,
-          "bb": 2,
-          "so": 0,
-          "pos": "lf"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Stonehill (W 8-6). Hitting .142 with 1 HR through 11 games."
+      "last_game": null,
+      "narrative": null
     },
     "b8e9fb34": {
       "id": "b8e9fb34",
@@ -78,20 +63,20 @@
       "num": "2",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 17,
-        "gs": 15,
-        "avg": 0.255,
-        "ops": 0.764,
-        "ab": 51,
-        "r": 12,
+        "g": 18,
+        "gs": 16,
+        "avg": 0.241,
+        "ops": 0.743,
+        "ab": 54,
+        "r": 13,
         "h": 13,
         "doubles": 6,
         "triples": 0,
         "hr": 0,
-        "rbi": 2,
+        "rbi": 3,
         "tb": 19,
-        "slg": 0.373,
-        "bb": 5,
+        "slg": 0.352,
+        "bb": 7,
         "hbp": 7,
         "so": 6,
         "gdp": 0,
@@ -103,22 +88,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
+          "ab": 3,
+          "r": 1,
           "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "dh"
+          "rbi": 1,
+          "bb": 2,
+          "so": 2,
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. George Mason (L 1-3). Hitting .254 with 0 HR through 17 games."
+      "narrative": "0/3 with 1 RBI vs. George Mason (W 10-9). Hitting .240 with 0 HR through 18 games."
     },
     "812d427c": {
       "id": "812d427c",
@@ -130,24 +115,24 @@
       "num": "3",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 18,
-        "gs": 13,
-        "avg": 0.308,
-        "ops": 0.769,
-        "ab": 52,
-        "r": 13,
-        "h": 16,
-        "doubles": 1,
+        "g": 19,
+        "gs": 14,
+        "avg": 0.316,
+        "ops": 0.789,
+        "ab": 57,
+        "r": 14,
+        "h": 18,
+        "doubles": 2,
         "triples": 3,
         "hr": 0,
         "rbi": 5,
-        "tb": 23,
-        "slg": 0.442,
+        "tb": 26,
+        "slg": 0.456,
         "bb": 2,
         "hbp": 0,
-        "so": 8,
+        "so": 9,
         "gdp": 1,
-        "obp": 0.327,
+        "obp": 0.333,
         "sf": 1,
         "sh": 1,
         "sb": 1,
@@ -155,22 +140,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 5,
           "r": 1,
-          "h": 1,
+          "h": 2,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. George Mason (L 1-3). Hitting .307 with 0 HR through 18 games."
+      "narrative": "2/5 with 0 RBI vs. George Mason (W 10-9). Hitting .315 with 0 HR through 19 games."
     },
     "0f6c75e3": {
       "id": "0f6c75e3",
@@ -182,12 +167,12 @@
       "num": "4",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 13,
+        "g": 14,
         "gs": 12,
         "avg": 0.244,
         "ops": 0.608,
         "ab": 41,
-        "r": 5,
+        "r": 6,
         "h": 10,
         "doubles": 1,
         "triples": 0,
@@ -207,22 +192,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
+          "ab": 0,
+          "r": 1,
           "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
-          "pos": "3b"
+          "pos": "PR"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. George Mason (L 1-3). Hitting .243 with 0 HR through 13 games."
+      "narrative": null
     },
     "e1d3fe8d": {
       "id": "e1d3fe8d",
@@ -456,24 +441,24 @@
       "num": "11",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 16,
-        "gs": 13,
-        "avg": 0.31,
-        "ops": 1.145,
-        "ab": 42,
-        "r": 10,
-        "h": 13,
-        "doubles": 3,
+        "g": 17,
+        "gs": 14,
+        "avg": 0.311,
+        "ops": 1.147,
+        "ab": 45,
+        "r": 11,
+        "h": 14,
+        "doubles": 4,
         "triples": 1,
         "hr": 4,
         "rbi": 16,
-        "tb": 30,
-        "slg": 0.714,
-        "bb": 8,
+        "tb": 32,
+        "slg": 0.711,
+        "bb": 9,
         "hbp": 1,
         "so": 11,
         "gdp": 0,
-        "obp": 0.431,
+        "obp": 0.436,
         "sf": 0,
         "sh": 1,
         "sb": 1,
@@ -481,22 +466,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 0,
+          "r": 1,
           "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. George Mason (L 1-3). Hitting .309 with 4 HR through 16 games."
+      "narrative": "1/3 with 0 RBI vs. George Mason (W 10-9). Hitting .311 with 4 HR through 17 games."
     },
     "2b829d16": {
       "id": "2b829d16",
@@ -509,29 +494,29 @@
       "school": "University of Rhode Island",
       "season_batting": null,
       "season_pitching": {
-        "era": 8.18,
-        "whip": 1.82,
+        "era": 9.82,
+        "whip": 2.0,
         "w": 1,
         "l": 1,
         "sv": 0,
-        "g": 11,
+        "g": 12,
         "gs": 0,
         "ip": 11.0,
-        "h": 12,
-        "r": 10,
-        "er": 10,
+        "h": 14,
+        "r": 12,
+        "er": 12,
         "bb": 8,
         "so": 14,
         "hr": 1,
         "hbp": 4,
         "wp": 2,
-        "opp_avg": ".267"
+        "opp_avg": ".298"
       },
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -542,11 +527,11 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 2,
+          "ip": "0.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
           "so": 0,
           "wp": 0,
           "hbp": 0,
@@ -555,7 +540,7 @@
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. George Mason (L 1-3). At 8.18 ERA through 11.0 innings on the season."
+      "narrative": null
     },
     "35d546a5": {
       "id": "35d546a5",
@@ -567,24 +552,24 @@
       "num": "13",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.405,
-        "ops": 0.98,
-        "ab": 79,
-        "r": 11,
-        "h": 32,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.417,
+        "ops": 0.993,
+        "ab": 84,
+        "r": 13,
+        "h": 35,
         "doubles": 5,
         "triples": 1,
         "hr": 1,
-        "rbi": 14,
-        "tb": 42,
-        "slg": 0.532,
+        "rbi": 15,
+        "tb": 45,
+        "slg": 0.536,
         "bb": 6,
         "hbp": 1,
         "so": 17,
         "gdp": 0,
-        "obp": 0.448,
+        "obp": 0.457,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -592,22 +577,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
-          "h": 2,
-          "rbi": 0,
+          "ab": 5,
+          "r": 2,
+          "h": 3,
+          "rbi": 1,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. George Mason (L 1-3). Hitting .405 with 1 HR through 20 games."
+      "narrative": "3/5 with 1 RBI vs. George Mason (W 10-9). Hitting .416 with 1 HR through 21 games."
     },
     "ed8c70d9": {
       "id": "ed8c70d9",
@@ -639,10 +624,10 @@
         "opp_avg": ".414"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "George Mason",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -653,20 +638,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
+          "ip": "1.2",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 3,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. Stonehill (W 8-6). At 13.94 ERA through 7.1 innings on the season."
+      "narrative": "1.2 IP, 3 K vs. George Mason (W 10-9). At 13.94 ERA through 7.1 innings on the season."
     },
     "9b6bef67": {
       "id": "9b6bef67",
@@ -762,24 +747,24 @@
       "num": "17",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.315,
-        "ops": 0.798,
-        "ab": 73,
-        "r": 12,
-        "h": 23,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.308,
+        "ops": 0.774,
+        "ab": 78,
+        "r": 13,
+        "h": 24,
         "doubles": 5,
         "triples": 0,
         "hr": 0,
-        "rbi": 11,
-        "tb": 28,
-        "slg": 0.384,
+        "rbi": 12,
+        "tb": 29,
+        "slg": 0.372,
         "bb": 13,
         "hbp": 0,
-        "so": 17,
+        "so": 19,
         "gdp": 2,
-        "obp": 0.414,
+        "obp": 0.402,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -787,22 +772,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 0,
+          "ab": 5,
+          "r": 1,
           "h": 1,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
           "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "1/4 with 0 RBI vs. George Mason (L 1-3). Hitting .315 with 0 HR through 19 games."
+      "narrative": "1/5 with 1 RBI vs. George Mason (W 10-9). Hitting .307 with 0 HR through 20 games."
     },
     "9a8b1866": {
       "id": "9a8b1866",
@@ -886,10 +871,10 @@
         "opp_avg": ".414"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "George Mason",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -900,20 +885,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 1,
+          "ip": "1.2",
+          "h": 3,
+          "r": 4,
+          "er": 4,
+          "bb": 2,
+          "so": 3,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 1 K vs. Stonehill (W 8-6). At 13.94 ERA through 7.1 innings on the season."
+      "narrative": "1.2 IP, 3 K vs. George Mason (W 10-9). At 13.94 ERA through 7.1 innings on the season."
     },
     "8c19b45c": {
       "id": "8c19b45c",
@@ -967,35 +952,8 @@
         "wp": 2,
         "opp_avg": ".133"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
-        "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 2,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "dh/p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 0 K vs. Stonehill (W 8-6). At 0.00 ERA through 5.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "abb4e9c6": {
       "id": "abb4e9c6",
@@ -1007,11 +965,11 @@
       "num": "22",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 13,
-        "gs": 8,
-        "avg": 0.258,
-        "ops": 0.956,
-        "ab": 31,
+        "g": 14,
+        "gs": 9,
+        "avg": 0.229,
+        "ops": 0.851,
+        "ab": 35,
         "r": 4,
         "h": 8,
         "doubles": 2,
@@ -1019,12 +977,12 @@
         "hr": 3,
         "rbi": 9,
         "tb": 19,
-        "slg": 0.613,
+        "slg": 0.543,
         "bb": 2,
         "hbp": 2,
-        "so": 10,
+        "so": 11,
         "gdp": 0,
-        "obp": 0.343,
+        "obp": 0.308,
         "sf": 0,
         "sh": 0,
         "sb": 2,
@@ -1032,22 +990,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 4,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
-          "pos": "PH"
+          "so": 0,
+          "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. George Mason (L 1-3). Hitting .258 with 3 HR through 13 games."
+      "narrative": "0/4 with 0 RBI vs. George Mason (W 10-9). Hitting .228 with 3 HR through 14 games."
     },
     "9080d9ac": {
       "id": "9080d9ac",
@@ -1078,35 +1036,8 @@
         "wp": 0,
         "opp_avg": ".200"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 1,
-          "er": 1,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 2,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 0 K vs. Stonehill (W 8-6). At 4.39 ERA through 4.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "8af87020": {
       "id": "8af87020",
@@ -1252,26 +1183,53 @@
       "school": "University of Rhode Island",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.61,
-        "whip": 1.32,
+        "era": 4.02,
+        "whip": 1.28,
         "w": 0,
         "l": 2,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 1,
-        "ip": 13.2,
-        "h": 10,
+        "ip": 15.2,
+        "h": 12,
         "r": 9,
         "er": 7,
         "bb": 8,
-        "so": 14,
+        "so": 15,
         "hr": 2,
-        "hbp": 5,
-        "wp": 1,
-        "opp_avg": ".200"
+        "hbp": 6,
+        "wp": 2,
+        "opp_avg": ".211"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-22",
+        "opponent": "George Mason",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 2,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 1,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "2.0 IP, 1 K vs. George Mason (W 10-9). At 4.14 ERA through 15.2 innings on the season."
     },
     "242b43a5": {
       "id": "242b43a5",
@@ -1316,29 +1274,29 @@
       "school": "University of Rhode Island",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.92,
-        "whip": 2.08,
+        "era": 5.19,
+        "whip": 1.67,
         "w": 0,
         "l": 2,
         "sv": 1,
-        "g": 7,
+        "g": 8,
         "gs": 2,
-        "ip": 13.0,
-        "h": 14,
-        "r": 11,
+        "ip": 17.1,
+        "h": 15,
+        "r": 12,
         "er": 10,
-        "bb": 13,
-        "so": 16,
+        "bb": 14,
+        "so": 20,
         "hr": 1,
         "hbp": 5,
         "wp": 3,
-        "opp_avg": ".275"
+        "opp_avg": ".231"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "George Mason",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1349,20 +1307,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
+          "ip": "4.1",
+          "h": 1,
+          "r": 1,
           "er": 0,
           "bb": 1,
-          "so": 0,
+          "so": 4,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 0,
           "w": 0,
           "l": 0,
-          "sv": 1
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. Stonehill (W 8-6). At 6.92 ERA through 13.0 innings on the season."
+      "narrative": "4.1 IP, 4 K vs. George Mason (W 10-9). At 5.26 ERA through 17.1 innings on the season."
     },
     "e828a945": {
       "id": "e828a945",
@@ -1374,24 +1332,24 @@
       "num": "33",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.197,
-        "ops": 0.667,
-        "ab": 71,
-        "r": 11,
-        "h": 14,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.213,
+        "ops": 0.731,
+        "ab": 75,
+        "r": 13,
+        "h": 16,
         "doubles": 1,
         "triples": 1,
-        "hr": 3,
-        "rbi": 13,
-        "tb": 26,
-        "slg": 0.366,
-        "bb": 10,
+        "hr": 4,
+        "rbi": 15,
+        "tb": 31,
+        "slg": 0.413,
+        "bb": 11,
         "hbp": 1,
-        "so": 13,
+        "so": 14,
         "gdp": 0,
-        "obp": 0.301,
+        "obp": 0.318,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -1399,22 +1357,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
+          "r": 2,
+          "h": 2,
+          "rbi": 2,
+          "bb": 1,
           "so": 0,
           "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. George Mason (L 1-3). Hitting .197 with 3 HR through 19 games."
+      "narrative": "2/4 with 2 RBI vs. George Mason (W 10-9). Hitting .213 with 4 HR through 20 games."
     },
     "bb914fef": {
       "id": "bb914fef",
@@ -1426,24 +1384,24 @@
       "num": "34",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.2,
-        "ops": 0.546,
-        "ab": 70,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.203,
+        "ops": 0.544,
+        "ab": 74,
         "r": 8,
-        "h": 14,
+        "h": 15,
         "doubles": 2,
         "triples": 0,
         "hr": 1,
         "rbi": 11,
-        "tb": 19,
-        "slg": 0.271,
+        "tb": 20,
+        "slg": 0.27,
         "bb": 4,
         "hbp": 4,
-        "so": 11,
+        "so": 12,
         "gdp": 0,
-        "obp": 0.275,
+        "obp": 0.274,
         "sf": 2,
         "sh": 0,
         "sb": 3,
@@ -1451,22 +1409,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 3,
+          "so": 1,
           "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. George Mason (L 1-3). Hitting .200 with 1 HR through 19 games."
+      "narrative": "1/4 with 0 RBI vs. George Mason (W 10-9). Hitting .202 with 1 HR through 20 games."
     },
     "2caa5ffe": {
       "id": "2caa5ffe",
@@ -1497,35 +1455,8 @@
         "wp": 1,
         "opp_avg": ".400"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 2,
-          "er": 1,
-          "bb": 0,
-          "so": 1,
-          "wp": 1,
-          "hbp": 0,
-          "w": 1,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Stonehill (W 8-6). At 9.00 ERA through 1.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "e5f26c04": {
       "id": "e5f26c04",
@@ -1615,35 +1546,8 @@
         "wp": 2,
         "opp_avg": ".293"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "2.0 IP, 0 K vs. Stonehill (W 8-6). At 5.40 ERA through 10.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "fad2f598": {
       "id": "fad2f598",
@@ -1656,29 +1560,29 @@
       "school": "University of Rhode Island",
       "season_batting": null,
       "season_pitching": {
-        "era": 7.27,
-        "whip": 1.96,
+        "era": 9.35,
+        "whip": 2.19,
         "w": 0,
         "l": 1,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 0,
         "ip": 8.2,
-        "h": 11,
-        "r": 8,
-        "er": 7,
+        "h": 13,
+        "r": 10,
+        "er": 9,
         "bb": 6,
         "so": 4,
         "hr": 1,
-        "hbp": 0,
+        "hbp": 1,
         "wp": 1,
-        "opp_avg": ".314"
+        "opp_avg": ".351"
       },
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "L 1-3",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11780&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1689,20 +1593,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
+          "ip": "0.0",
+          "h": 2,
+          "r": 2,
+          "er": 2,
+          "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "2.0 IP, 0 K vs. George Mason (L 1-3). At 7.68 ERA through 8.2 innings on the season."
+      "narrative": null
     },
     "e1f1b9dc": {
       "id": "e1f1b9dc",
@@ -1714,24 +1618,24 @@
       "num": "41",
       "school": "University of Rhode Island",
       "season_batting": {
-        "g": 4,
-        "gs": 4,
-        "avg": 0.353,
-        "ops": 0.801,
-        "ab": 17,
-        "r": 3,
-        "h": 6,
+        "g": 5,
+        "gs": 5,
+        "avg": 0.364,
+        "ops": 0.936,
+        "ab": 22,
+        "r": 4,
+        "h": 8,
         "doubles": 1,
         "triples": 0,
-        "hr": 0,
-        "rbi": 4,
-        "tb": 7,
-        "slg": 0.412,
+        "hr": 1,
+        "rbi": 7,
+        "tb": 12,
+        "slg": 0.545,
         "bb": 1,
         "hbp": 0,
-        "so": 4,
+        "so": 5,
         "gdp": 1,
-        "obp": 0.389,
+        "obp": 0.391,
         "sf": 0,
         "sh": 1,
         "sb": 0,
@@ -1739,22 +1643,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-20",
+        "date": "2026-03-22",
         "opponent": "George Mason",
-        "result": "W 10-5",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11779&path=baseball",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 5,
           "r": 1,
-          "h": 1,
-          "rbi": 1,
+          "h": 2,
+          "rbi": 3,
           "bb": 0,
           "so": 1,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "1/5 with 1 RBI vs. George Mason (W 10-5). Hitting .352 with 0 HR through 4 games."
+      "narrative": "2/5 with 3 RBI vs. George Mason (W 10-9). Hitting .363 with 1 HR through 5 games."
     },
     "a0146a8d": {
       "id": "a0146a8d",
@@ -1767,29 +1671,29 @@
       "school": "University of Rhode Island",
       "season_batting": null,
       "season_pitching": {
-        "era": 12.0,
-        "whip": 1.67,
-        "w": 0,
+        "era": 10.29,
+        "whip": 1.71,
+        "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 6.0,
-        "h": 5,
+        "ip": 7.0,
+        "h": 6,
         "r": 8,
         "er": 8,
-        "bb": 5,
-        "so": 5,
+        "bb": 6,
+        "so": 6,
         "hr": 1,
         "hbp": 4,
         "wp": 0,
-        "opp_avg": ".227"
+        "opp_avg": ".231"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Stonehill",
-        "result": "W 8-6",
-        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11778&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "George Mason",
+        "result": "W 10-9",
+        "boxscore_url": "https://www.gorhody.com/boxscore.aspx?id=11781&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1800,20 +1704,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.2",
-          "h": 2,
-          "r": 3,
-          "er": 3,
-          "bb": 2,
+          "ip": "1.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 1,
           "so": 1,
           "wp": 0,
-          "hbp": 1,
-          "w": 0,
+          "hbp": 0,
+          "w": 1,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "0.2 IP, 1 K vs. Stonehill (W 8-6). At 12.00 ERA through 6.0 innings on the season."
+      "narrative": "1.0 IP, 1 K vs. George Mason (W 10-9). At 10.29 ERA through 7.0 innings on the season."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

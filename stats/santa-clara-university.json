@@ -2,14 +2,14 @@
   "school": "Santa Clara University",
   "base_url": "https://santaclarabroncos.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:46:31.227438Z",
-  "record": "9-10",
+  "generated_at": "2026-03-23T04:58:40.259206Z",
+  "record": "9-13",
   "most_recent_game": {
-    "date": "2026-03-18",
-    "opponent": "Connecticut",
-    "result": "L 5-12",
-    "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-    "recap_url": "https://santaclarabroncos.com/news/2026/3/18/baseball-drops-wednesday-night-contest-to-connecticut.aspx",
+    "date": "2026-03-22",
+    "opponent": "San Francisco",
+    "result": "W 6-5",
+    "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
+    "recap_url": "https://santaclarabroncos.com/news/2026/3/22/offense-returns-in-baseballs-series-finale-at-san-francisco.aspx",
     "recap_headline": "Santa Clara University",
     "recap_text": "",
     "watch_url": null
@@ -26,11 +26,11 @@
       "num": "1",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 11,
+        "g": 12,
         "gs": 4,
-        "avg": 0.143,
-        "ops": 0.536,
-        "ab": 14,
+        "avg": 0.133,
+        "ops": 0.502,
+        "ab": 15,
         "r": 3,
         "h": 2,
         "doubles": 0,
@@ -38,12 +38,12 @@
         "hr": 0,
         "rbi": 0,
         "tb": 4,
-        "slg": 0.286,
+        "slg": 0.267,
         "bb": 2,
         "hbp": 0,
         "so": 5,
         "gdp": 0,
-        "obp": 0.25,
+        "obp": 0.235,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -51,22 +51,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10560&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
-          "h": 1,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "ph/rf"
+          "pos": "ph"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 0 RBI vs. Connecticut (L 5-12). Hitting .142 with 0 HR through 11 games."
+      "narrative": "0/1 with 0 RBI vs. San Francisco (W 2-1). Hitting .133 with 0 HR through 12 games."
     },
     "61457890": {
       "id": "61457890",
@@ -102,23 +102,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "c/2b"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .000 with 0 HR through 8 games."
+      "last_game": null,
+      "narrative": null
     },
     "c81b92bf": {
       "id": "c81b92bf",
@@ -130,24 +115,24 @@
       "num": "3",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 17,
-        "gs": 17,
-        "avg": 0.409,
-        "ops": 1.042,
-        "ab": 66,
-        "r": 17,
-        "h": 27,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.403,
+        "ops": 1.01,
+        "ab": 77,
+        "r": 19,
+        "h": 31,
         "doubles": 4,
         "triples": 0,
         "hr": 2,
         "rbi": 13,
-        "tb": 37,
-        "slg": 0.561,
-        "bb": 10,
-        "hbp": 0,
+        "tb": 41,
+        "slg": 0.532,
+        "bb": 11,
+        "hbp": 1,
         "so": 7,
         "gdp": 3,
-        "obp": 0.481,
+        "obp": 0.478,
         "sf": 1,
         "sh": 0,
         "sb": 3,
@@ -155,22 +140,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Utah Tech",
-        "result": "W 4-1",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10557&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 4,
           "r": 1,
-          "h": 2,
-          "rbi": 1,
-          "bb": 0,
+          "h": 1,
+          "rbi": 0,
+          "bb": 1,
           "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "2/3 with 1 RBI vs. Utah Tech (W 4-1). Hitting .409 with 2 HR through 17 games."
+      "narrative": "1/4 with 0 RBI vs. San Francisco (W 6-5). Hitting .402 with 2 HR through 20 games."
     },
     "0e3853b5": {
       "id": "0e3853b5",
@@ -201,35 +186,8 @@
         "wp": 1,
         "opp_avg": ".462"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.2",
-          "h": 2,
-          "r": 3,
-          "er": 3,
-          "bb": 3,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "0.2 IP, 0 K vs. Connecticut (L 5-12). At 24.00 ERA through 3.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "ed648feb": {
       "id": "ed648feb",
@@ -241,47 +199,47 @@
       "num": "7",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.246,
-        "ops": 0.679,
-        "ab": 69,
+        "g": 22,
+        "gs": 22,
+        "avg": 0.232,
+        "ops": 0.635,
+        "ab": 82,
         "r": 19,
-        "h": 17,
+        "h": 19,
         "doubles": 2,
         "triples": 0,
         "hr": 0,
         "rbi": 3,
-        "tb": 19,
-        "slg": 0.275,
-        "bb": 18,
+        "tb": 21,
+        "slg": 0.256,
+        "bb": 19,
         "hbp": 1,
-        "so": 11,
+        "so": 12,
         "gdp": 1,
-        "obp": 0.404,
+        "obp": 0.379,
         "sf": 1,
         "sh": 0,
         "sb": 4,
-        "sb_att": 5
+        "sb_att": 6
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
-          "ab": 3,
+          "ab": 5,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
-          "bb": 1,
-          "so": 0,
-          "pos": "ss"
+          "bb": 0,
+          "so": 1,
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Connecticut (L 5-12). Hitting .246 with 0 HR through 19 games."
+      "narrative": "1/5 with 0 RBI vs. San Francisco (W 6-5). Hitting .231 with 0 HR through 22 games."
     },
     "ff827531": {
       "id": "ff827531",
@@ -293,11 +251,11 @@
       "num": "8",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 5,
+        "g": 8,
         "gs": 1,
-        "avg": 0.167,
-        "ops": 0.5,
-        "ab": 6,
+        "avg": 0.111,
+        "ops": 0.333,
+        "ab": 9,
         "r": 0,
         "h": 1,
         "doubles": 1,
@@ -305,12 +263,12 @@
         "hr": 0,
         "rbi": 0,
         "tb": 2,
-        "slg": 0.333,
+        "slg": 0.222,
         "bb": 0,
         "hbp": 0,
         "so": 0,
         "gdp": 0,
-        "obp": 0.167,
+        "obp": 0.111,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -318,10 +276,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -333,7 +291,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .166 with 0 HR through 5 games."
+      "narrative": "0/1 with 0 RBI vs. San Francisco (W 6-5). Hitting .111 with 0 HR through 8 games."
     },
     "1e2bc593": {
       "id": "1e2bc593",
@@ -369,23 +327,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "cf"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .230 with 0 HR through 8 games."
+      "last_game": null,
+      "narrative": null
     },
     "2c4fa5ae": {
       "id": "2c4fa5ae",
@@ -416,35 +359,8 @@
         "wp": 3,
         "opp_avg": ".375"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 3,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 1,
-          "wp": 1,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Connecticut (L 5-12). At 13.50 ERA through 2.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "bea03a13": {
       "id": "bea03a13",
@@ -456,24 +372,24 @@
       "num": "12",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 15,
-        "gs": 13,
-        "avg": 0.25,
-        "ops": 0.956,
-        "ab": 44,
-        "r": 6,
-        "h": 11,
+        "g": 18,
+        "gs": 15,
+        "avg": 0.275,
+        "ops": 1.023,
+        "ab": 51,
+        "r": 7,
+        "h": 14,
         "doubles": 5,
         "triples": 0,
-        "hr": 4,
-        "rbi": 16,
-        "tb": 28,
-        "slg": 0.636,
-        "bb": 4,
-        "hbp": 1,
-        "so": 23,
+        "hr": 5,
+        "rbi": 17,
+        "tb": 34,
+        "slg": 0.667,
+        "bb": 5,
+        "hbp": 2,
+        "so": 25,
         "gdp": 0,
-        "obp": 0.32,
+        "obp": 0.356,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -481,22 +397,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 3,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
+          "bb": 1,
+          "so": 0,
           "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Connecticut (L 5-12). Hitting .250 with 4 HR through 15 games."
+      "narrative": "2/3 with 1 RBI vs. San Francisco (W 6-5). Hitting .274 with 5 HR through 18 games."
     },
     "5138bd54": {
       "id": "5138bd54",
@@ -509,29 +425,29 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 6.6,
-        "whip": 1.53,
+        "era": 6.48,
+        "whip": 1.68,
         "w": 1,
         "l": 1,
         "sv": 0,
-        "g": 5,
-        "gs": 5,
-        "ip": 15.0,
-        "h": 13,
-        "r": 13,
-        "er": 11,
-        "bb": 10,
-        "so": 13,
+        "g": 6,
+        "gs": 6,
+        "ip": 16.2,
+        "h": 16,
+        "r": 14,
+        "er": 12,
+        "bb": 12,
+        "so": 15,
         "hr": 3,
-        "hbp": 1,
+        "hbp": 2,
         "wp": 1,
-        "opp_avg": ".245"
+        "opp_avg": ".262"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Utah Tech",
-        "result": "W 5-4",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10558&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -543,19 +459,19 @@
         },
         "pitching": {
           "ip": "1.2",
-          "h": 6,
-          "r": 4,
-          "er": 4,
-          "bb": 1,
-          "so": 1,
+          "h": 3,
+          "r": 1,
+          "er": 1,
+          "bb": 2,
+          "so": 2,
           "wp": 0,
-          "hbp": 0,
+          "hbp": 1,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.2 IP, 1 K vs. Utah Tech (W 5-4). At 6.60 ERA through 15.0 innings on the season."
+      "narrative": "1.2 IP, 2 K vs. San Francisco (W 6-5). At 6.67 ERA through 16.2 innings on the season."
     },
     "4dd97158": {
       "id": "4dd97158",
@@ -567,24 +483,24 @@
       "num": "14",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.303,
-        "ops": 0.89,
-        "ab": 66,
-        "r": 9,
-        "h": 20,
+        "g": 22,
+        "gs": 22,
+        "avg": 0.295,
+        "ops": 0.874,
+        "ab": 78,
+        "r": 10,
+        "h": 23,
         "doubles": 7,
         "triples": 0,
-        "hr": 1,
-        "rbi": 16,
-        "tb": 30,
-        "slg": 0.455,
+        "hr": 2,
+        "rbi": 18,
+        "tb": 36,
+        "slg": 0.462,
         "bb": 10,
         "hbp": 7,
-        "so": 14,
+        "so": 18,
         "gdp": 2,
-        "obp": 0.435,
+        "obp": 0.412,
         "sf": 2,
         "sh": 0,
         "sb": 5,
@@ -592,22 +508,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 4,
           "r": 1,
-          "h": 3,
-          "rbi": 1,
+          "h": 1,
+          "rbi": 2,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "3/4 with 1 RBI vs. Connecticut (L 5-12). Hitting .303 with 1 HR through 19 games."
+      "narrative": "1/4 with 2 RBI vs. San Francisco (W 6-5). Hitting .294 with 2 HR through 22 games."
     },
     "7fd38415": {
       "id": "7fd38415",
@@ -619,24 +535,24 @@
       "num": "15",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 9,
-        "gs": 4,
-        "avg": 0.077,
-        "ops": 0.327,
-        "ab": 13,
+        "g": 12,
+        "gs": 5,
+        "avg": 0.125,
+        "ops": 0.388,
+        "ab": 16,
         "r": 1,
-        "h": 1,
+        "h": 2,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 0,
-        "tb": 1,
-        "slg": 0.077,
+        "tb": 2,
+        "slg": 0.125,
         "bb": 2,
         "hbp": 1,
         "so": 3,
         "gdp": 1,
-        "obp": 0.25,
+        "obp": 0.263,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -644,22 +560,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 3,
           "r": 0,
-          "h": 0,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
           "so": 1,
-          "pos": "ph/c"
+          "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Connecticut (L 5-12). Hitting .076 with 0 HR through 9 games."
+      "narrative": "1/3 with 0 RBI vs. San Francisco (W 6-5). Hitting .125 with 0 HR through 12 games."
     },
     "7eac75ee": {
       "id": "7eac75ee",
@@ -690,35 +606,8 @@
         "wp": 0,
         "opp_avg": ".400"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.1 IP, 0 K vs. Connecticut (L 5-12). At 16.36 ERA through 1.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "8d3082cc": {
       "id": "8d3082cc",
@@ -730,47 +619,47 @@
       "num": "17",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 19,
-        "gs": 18,
-        "avg": 0.375,
-        "ops": 0.864,
-        "ab": 64,
-        "r": 7,
-        "h": 24,
-        "doubles": 5,
+        "g": 22,
+        "gs": 21,
+        "avg": 0.368,
+        "ops": 0.847,
+        "ab": 76,
+        "r": 8,
+        "h": 28,
+        "doubles": 6,
         "triples": 0,
         "hr": 0,
-        "rbi": 11,
-        "tb": 29,
-        "slg": 0.453,
+        "rbi": 12,
+        "tb": 34,
+        "slg": 0.447,
         "bb": 5,
         "hbp": 1,
-        "so": 12,
+        "so": 15,
         "gdp": 1,
-        "obp": 0.411,
+        "obp": 0.4,
         "sf": 3,
         "sh": 1,
-        "sb": 2,
-        "sb_att": 3
+        "sb": 3,
+        "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
-          "ab": 3,
-          "r": 0,
-          "h": 1,
-          "rbi": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 2,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
+          "so": 1,
           "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "1/3 with 0 RBI vs. Connecticut (L 5-12). Hitting .375 with 0 HR through 19 games."
+      "narrative": "2/4 with 1 RBI vs. San Francisco (W 6-5). Hitting .368 with 0 HR through 22 games."
     },
     "290c2e70": {
       "id": "290c2e70",
@@ -806,23 +695,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 1,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "lf"
-        },
-        "pitching": null
-      },
-      "narrative": "1/1 with 1 RBI vs. Connecticut (L 5-12). Hitting .500 with 0 HR through 3 games."
+      "last_game": null,
+      "narrative": null
     },
     "78d30cf6": {
       "id": "78d30cf6",
@@ -853,35 +727,8 @@
         "wp": 0,
         "opp_avg": ".348"
       },
-      "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Utah Tech",
-        "result": "W 5-4",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10558&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 2,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 2 K vs. Utah Tech (W 5-4). At 8.82 ERA through 5.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "997dcf06": {
       "id": "997dcf06",
@@ -893,24 +740,24 @@
       "num": "20",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 16,
-        "gs": 10,
-        "avg": 0.244,
-        "ops": 0.736,
-        "ab": 45,
+        "g": 19,
+        "gs": 12,
+        "avg": 0.241,
+        "ops": 0.726,
+        "ab": 54,
         "r": 4,
-        "h": 11,
-        "doubles": 6,
+        "h": 13,
+        "doubles": 8,
         "triples": 1,
         "hr": 0,
-        "rbi": 5,
-        "tb": 19,
-        "slg": 0.422,
+        "rbi": 6,
+        "tb": 23,
+        "slg": 0.426,
         "bb": 4,
         "hbp": 1,
-        "so": 9,
+        "so": 11,
         "gdp": 2,
-        "obp": 0.314,
+        "obp": 0.3,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -918,22 +765,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 2,
-          "rbi": 0,
+          "h": 1,
+          "rbi": 1,
           "bb": 0,
-          "so": 0,
-          "pos": "2b/1b"
+          "so": 1,
+          "pos": "rf"
         },
         "pitching": null
       },
-      "narrative": "2/4 with 0 RBI vs. Connecticut (L 5-12). Hitting .244 with 0 HR through 16 games."
+      "narrative": "1/4 with 1 RBI vs. San Francisco (W 6-5). Hitting .240 with 0 HR through 19 games."
     },
     "627d8da1": {
       "id": "627d8da1",
@@ -969,23 +816,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ss"
-        },
-        "pitching": null
-      },
-      "narrative": "1/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .333 with 0 HR through 2 games."
+      "last_game": null,
+      "narrative": null
     },
     "e8ce57d1": {
       "id": "e8ce57d1",
@@ -1066,47 +898,47 @@
       "num": "24",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 18,
-        "gs": 15,
-        "avg": 0.24,
-        "ops": 0.624,
-        "ab": 50,
-        "r": 9,
-        "h": 12,
+        "g": 21,
+        "gs": 18,
+        "avg": 0.22,
+        "ops": 0.622,
+        "ab": 59,
+        "r": 10,
+        "h": 13,
         "doubles": 1,
-        "triples": 0,
+        "triples": 1,
         "hr": 0,
-        "rbi": 7,
-        "tb": 13,
-        "slg": 0.26,
-        "bb": 6,
-        "hbp": 6,
-        "so": 16,
+        "rbi": 9,
+        "tb": 16,
+        "slg": 0.271,
+        "bb": 7,
+        "hbp": 7,
+        "so": 18,
         "gdp": 2,
-        "obp": 0.364,
+        "obp": 0.351,
         "sf": 4,
-        "sh": 0,
+        "sh": 1,
         "sb": 2,
         "sb_att": 4
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 1,
-          "rbi": 1,
-          "bb": 1,
+          "ab": 3,
+          "r": 1,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
           "so": 2,
-          "pos": "rf"
+          "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 1 RBI vs. Connecticut (L 5-12). Hitting .240 with 0 HR through 18 games."
+      "narrative": "0/3 with 0 RBI vs. San Francisco (W 6-5). Hitting .220 with 0 HR through 21 games."
     },
     "a424b90a": {
       "id": "a424b90a",
@@ -1118,11 +950,11 @@
       "num": "27",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 17,
-        "gs": 12,
-        "avg": 0.214,
-        "ops": 0.599,
-        "ab": 42,
+        "g": 19,
+        "gs": 14,
+        "avg": 0.191,
+        "ops": 0.538,
+        "ab": 47,
         "r": 8,
         "h": 9,
         "doubles": 3,
@@ -1130,12 +962,12 @@
         "hr": 0,
         "rbi": 1,
         "tb": 12,
-        "slg": 0.286,
+        "slg": 0.255,
         "bb": 4,
         "hbp": 2,
         "so": 14,
         "gdp": 0,
-        "obp": 0.313,
+        "obp": 0.283,
         "sf": 0,
         "sh": 1,
         "sb": 5,
@@ -1143,13 +975,13 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10561&path=baseball",
         "batting": {
           "ab": 2,
-          "r": 1,
+          "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
@@ -1158,7 +990,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Connecticut (L 5-12). Hitting .214 with 0 HR through 17 games."
+      "narrative": "0/2 with 0 RBI vs. San Francisco (W 2-1). Hitting .191 with 0 HR through 19 games."
     },
     "b96b7809": {
       "id": "b96b7809",
@@ -1194,23 +1026,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ss"
-        },
-        "pitching": null
-      },
-      "narrative": "1/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .333 with 0 HR through 2 games."
+      "last_game": null,
+      "narrative": null
     },
     "54336a68": {
       "id": "54336a68",
@@ -1223,15 +1040,15 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.16,
-        "whip": 1.68,
+        "era": 2.0,
+        "whip": 1.67,
         "w": 0,
         "l": 0,
         "sv": 1,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 8.1,
-        "h": 7,
+        "ip": 9.0,
+        "h": 8,
         "r": 2,
         "er": 2,
         "bb": 7,
@@ -1239,13 +1056,13 @@
         "hr": 0,
         "hbp": 2,
         "wp": 2,
-        "opp_avg": ".226"
+        "opp_avg": ".235"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Utah Tech",
-        "result": "W 4-1",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10557&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1256,11 +1073,11 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
+          "ip": "0.2",
           "h": 1,
           "r": 0,
           "er": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
           "wp": 0,
           "hbp": 0,
@@ -1269,7 +1086,7 @@
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. Utah Tech (W 4-1). At 2.22 ERA through 8.1 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. San Francisco (W 6-5). At 2.00 ERA through 9.0 innings on the season."
     },
     "65a776ac": {
       "id": "65a776ac",
@@ -1300,35 +1117,8 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 0 K vs. Connecticut (L 5-12). At 0.00 ERA through 1.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "12308551": {
       "id": "12308551",
@@ -1359,35 +1149,8 @@
         "wp": 1,
         "opp_avg": ".389"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "2.2",
-          "h": 3,
-          "r": 2,
-          "er": 1,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 1,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "2.2 IP, 1 K vs. Connecticut (L 5-12). At 10.00 ERA through 8.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "377b9b0b": {
       "id": "377b9b0b",
@@ -1418,35 +1181,8 @@
         "wp": 0,
         "opp_avg": ".111"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 2,
-          "er": 2,
-          "bb": 4,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Connecticut (L 5-12). At 12.27 ERA through 2.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "a2e32f9c": {
       "id": "a2e32f9c",
@@ -1459,29 +1195,29 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 0.0,
-        "whip": 0.41,
+        "era": 1.17,
+        "whip": 0.65,
         "w": 0,
-        "l": 0,
+        "l": 1,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 0,
-        "ip": 7.1,
-        "h": 1,
-        "r": 1,
-        "er": 0,
+        "ip": 7.2,
+        "h": 3,
+        "r": 2,
+        "er": 1,
         "bb": 2,
         "so": 7,
         "hr": 0,
-        "hbp": 2,
+        "hbp": 4,
         "wp": 0,
-        "opp_avg": ".043"
+        "opp_avg": ".115"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Utah Tech",
-        "result": "W 5-4",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10558&path=baseball",
+        "date": "2026-03-20",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10560&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1492,20 +1228,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
+          "ip": "0.1",
+          "h": 2,
+          "r": 1,
+          "er": 1,
+          "bb": 0,
           "so": 0,
           "wp": 0,
-          "hbp": 1,
+          "hbp": 2,
           "w": 0,
-          "l": 0,
+          "l": 1,
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 0 K vs. Utah Tech (W 5-4). At 0.00 ERA through 7.1 innings on the season."
+      "narrative": "0.1 IP, 0 K vs. San Francisco (W 2-1). At 1.25 ERA through 7.2 innings on the season."
     },
     "0f8a21b0": {
       "id": "0f8a21b0",
@@ -1518,29 +1254,29 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.29,
-        "whip": 1.14,
+        "era": 4.1,
+        "whip": 1.18,
         "w": 1,
-        "l": 2,
+        "l": 3,
         "sv": 0,
-        "g": 5,
-        "gs": 5,
-        "ip": 21.0,
-        "h": 18,
-        "r": 11,
-        "er": 10,
-        "bb": 6,
-        "so": 19,
-        "hr": 2,
+        "g": 6,
+        "gs": 6,
+        "ip": 26.1,
+        "h": 22,
+        "r": 13,
+        "er": 12,
+        "bb": 9,
+        "so": 23,
+        "hr": 4,
         "hbp": 1,
         "wp": 1,
-        "opp_avg": ".228"
+        "opp_avg": ".222"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Utah Tech",
-        "result": "W 4-1",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10557&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10561&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1551,20 +1287,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "6.0",
-          "h": 1,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 3,
+          "ip": "5.1",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 3,
+          "so": 4,
           "wp": 0,
           "hbp": 0,
-          "w": 1,
-          "l": 0,
+          "w": 0,
+          "l": 1,
           "sv": 0
         }
       },
-      "narrative": "6.0 IP, 3 K, 0 ER vs. Utah Tech (W 4-1). At 4.29 ERA through 21.0 innings on the season."
+      "narrative": "5.1 IP, 4 K, 2 ER vs. San Francisco (W 2-1). At 4.14 ERA through 26.1 innings on the season."
     },
     "0c9378f5": {
       "id": "0c9378f5",
@@ -1577,29 +1313,29 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 14.4,
-        "whip": 4.4,
+        "era": 9.39,
+        "whip": 3.0,
         "w": 1,
         "l": 3,
         "sv": 1,
-        "g": 6,
+        "g": 7,
         "gs": 0,
-        "ip": 5.0,
-        "h": 14,
+        "ip": 7.2,
+        "h": 15,
         "r": 8,
         "er": 8,
         "bb": 8,
-        "so": 5,
+        "so": 8,
         "hr": 1,
-        "hbp": 0,
+        "hbp": 1,
         "wp": 1,
-        "opp_avg": ".519"
+        "opp_avg": ".417"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Utah Tech",
-        "result": "W 5-4",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10558&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10561&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1610,20 +1346,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.1",
+          "ip": "2.2",
           "h": 1,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 1,
+          "so": 3,
           "wp": 0,
-          "hbp": 0,
-          "w": 1,
+          "hbp": 1,
+          "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.1 IP, 1 K vs. Utah Tech (W 5-4). At 14.40 ERA through 5.0 innings on the season."
+      "narrative": "2.2 IP, 3 K vs. San Francisco (W 2-1). At 10.00 ERA through 7.2 innings on the season."
     },
     "540e8198": {
       "id": "540e8198",
@@ -1636,29 +1372,29 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 3.0,
-        "whip": 1.33,
+        "era": 2.53,
+        "whip": 1.31,
         "w": 1,
         "l": 0,
         "sv": 0,
-        "g": 5,
+        "g": 6,
         "gs": 1,
-        "ip": 9.0,
+        "ip": 10.2,
         "h": 8,
         "r": 4,
         "er": 3,
-        "bb": 4,
-        "so": 11,
+        "bb": 6,
+        "so": 13,
         "hr": 2,
         "hbp": 2,
         "wp": 0,
-        "opp_avg": ".222"
+        "opp_avg": ".195"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Utah Tech",
-        "result": "W 5-4",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10558&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1669,12 +1405,12 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "2.0",
-          "h": 1,
+          "ip": "1.2",
+          "h": 0,
           "r": 0,
           "er": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 2,
+          "so": 2,
           "wp": 0,
           "hbp": 0,
           "w": 0,
@@ -1682,7 +1418,7 @@
           "sv": 0
         }
       },
-      "narrative": "2.0 IP, 0 K vs. Utah Tech (W 5-4). At 3.00 ERA through 9.0 innings on the season."
+      "narrative": "1.2 IP, 2 K vs. San Francisco (W 6-5). At 2.65 ERA through 10.2 innings on the season."
     },
     "b19188cd": {
       "id": "b19188cd",
@@ -1713,35 +1449,8 @@
         "wp": 1,
         "opp_avg": ".222"
       },
-      "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Utah Tech",
-        "result": "W 5-4",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10558&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "0.1 IP, 0 K vs. Utah Tech (W 5-4). At 12.00 ERA through 3.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "01133659": {
       "id": "01133659",
@@ -1753,11 +1462,11 @@
       "num": "41",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 5,
+        "g": 7,
         "gs": 0,
         "avg": 0.0,
         "ops": 0.0,
-        "ab": 2,
+        "ab": 3,
         "r": 0,
         "h": 0,
         "doubles": 0,
@@ -1768,7 +1477,7 @@
         "slg": 0.0,
         "bb": 0,
         "hbp": 0,
-        "so": 2,
+        "so": 3,
         "gdp": 0,
         "obp": 0.0,
         "sf": 0,
@@ -1778,13 +1487,13 @@
       },
       "season_pitching": {
         "era": 0.0,
-        "whip": 1.17,
+        "whip": 1.05,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 3,
+        "g": 4,
         "gs": 0,
-        "ip": 6.0,
+        "ip": 6.2,
         "h": 3,
         "r": 0,
         "er": 0,
@@ -1793,13 +1502,13 @@
         "hr": 0,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".150"
+        "opp_avg": ".143"
       },
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10561&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -1811,7 +1520,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .000 with 0 HR through 5 games."
+      "narrative": "0/1 with 0 RBI vs. San Francisco (W 2-1). Hitting .000 with 0 HR through 7 games."
     },
     "c96444ad": {
       "id": "c96444ad",
@@ -1824,29 +1533,29 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.76,
-        "whip": 1.41,
+        "era": 4.66,
+        "whip": 1.55,
         "w": 1,
-        "l": 1,
+        "l": 2,
         "sv": 2,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 16.1,
-        "h": 14,
-        "r": 5,
-        "er": 5,
-        "bb": 9,
-        "so": 19,
-        "hr": 0,
+        "ip": 19.1,
+        "h": 19,
+        "r": 10,
+        "er": 10,
+        "bb": 11,
+        "so": 21,
+        "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".237"
+        "opp_avg": ".264"
       },
       "last_game": {
-        "date": "2026-03-15",
-        "opponent": "Utah Tech",
-        "result": "W 5-4",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10558&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1857,20 +1566,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "0.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 0,
+          "ip": "3.0",
+          "h": 5,
+          "r": 5,
+          "er": 5,
+          "bb": 2,
+          "so": 2,
           "wp": 0,
           "hbp": 0,
           "w": 0,
-          "l": 0,
+          "l": 1,
           "sv": 0
         }
       },
-      "narrative": "0.1 IP, 0 K vs. Utah Tech (W 5-4). At 2.80 ERA through 16.1 innings on the season."
+      "narrative": "3.0 IP, 2 K vs. San Francisco (W 6-5). At 4.71 ERA through 19.1 innings on the season."
     },
     "551620e3": {
       "id": "551620e3",
@@ -1901,35 +1610,8 @@
         "wp": 0,
         "opp_avg": ".333"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.1",
-          "h": 2,
-          "r": 1,
-          "er": 1,
-          "bb": 0,
-          "so": 0,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 1,
-          "sv": 0
-        }
-      },
-      "narrative": "1.1 IP, 0 K vs. Connecticut (L 5-12). At 8.82 ERA through 5.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "de123dae": {
       "id": "de123dae",
@@ -1942,26 +1624,53 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 1.99,
-        "whip": 1.15,
+        "era": 1.98,
+        "whip": 1.24,
         "w": 2,
         "l": 0,
         "sv": 0,
-        "g": 5,
-        "gs": 5,
-        "ip": 22.2,
-        "h": 11,
-        "r": 5,
-        "er": 5,
-        "bb": 15,
-        "so": 39,
+        "g": 6,
+        "gs": 6,
+        "ip": 27.1,
+        "h": 15,
+        "r": 6,
+        "er": 6,
+        "bb": 19,
+        "so": 47,
         "hr": 2,
         "hbp": 1,
         "wp": 2,
-        "opp_avg": ".141"
+        "opp_avg": ".160"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-20",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10560&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "4.2",
+          "h": 4,
+          "r": 1,
+          "er": 1,
+          "bb": 4,
+          "so": 8,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "4.2 IP, 8 K vs. San Francisco (W 2-1). At 1.99 ERA through 27.1 innings on the season."
     },
     "e5eacd3a": {
       "id": "e5eacd3a",
@@ -1974,14 +1683,14 @@
       "school": "Santa Clara University",
       "season_batting": null,
       "season_pitching": {
-        "era": 2.08,
-        "whip": 0.81,
+        "era": 2.0,
+        "whip": 0.78,
         "w": 0,
         "l": 1,
         "sv": 2,
-        "g": 7,
+        "g": 8,
         "gs": 0,
-        "ip": 8.2,
+        "ip": 9.0,
         "h": 5,
         "r": 2,
         "er": 2,
@@ -1990,13 +1699,13 @@
         "hr": 1,
         "hbp": 0,
         "wp": 0,
-        "opp_avg": ".161"
+        "opp_avg": ".156"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Utah Tech",
-        "result": "W 4-1",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10557&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -2007,20 +1716,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
+          "ip": "0.1",
+          "h": 0,
           "r": 0,
           "er": 0,
           "bb": 0,
-          "so": 2,
+          "so": 0,
           "wp": 0,
           "hbp": 0,
           "w": 0,
           "l": 0,
-          "sv": 1
+          "sv": 0
         }
       },
-      "narrative": "1.0 IP, 2 K vs. Utah Tech (W 4-1). At 2.20 ERA through 8.2 innings on the season."
+      "narrative": "0.1 IP, 0 K vs. San Francisco (W 6-5). At 2.00 ERA through 9.0 innings on the season."
     },
     "e0efa8a3": {
       "id": "e0efa8a3",
@@ -2034,28 +1743,28 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 1.11,
+        "whip": 0.75,
         "w": 0,
         "l": 0,
         "sv": 0,
-        "g": 6,
+        "g": 8,
         "gs": 0,
-        "ip": 6.1,
+        "ip": 9.1,
         "h": 5,
         "r": 1,
         "er": 0,
         "bb": 2,
-        "so": 12,
+        "so": 13,
         "hr": 0,
         "hbp": 0,
         "wp": 3,
-        "opp_avg": ".217"
+        "opp_avg": ".156"
       },
       "last_game": {
-        "date": "2026-03-14",
-        "opponent": "Utah Tech",
-        "result": "W 4-1",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10557&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -2066,20 +1775,20 @@
           "pos": "p"
         },
         "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 1,
+          "ip": "0.2",
+          "h": 0,
+          "r": 0,
           "er": 0,
-          "bb": 1,
-          "so": 2,
-          "wp": 1,
+          "bb": 0,
+          "so": 0,
+          "wp": 0,
           "hbp": 0,
           "w": 0,
           "l": 0,
           "sv": 0
         }
       },
-      "narrative": "1.0 IP, 2 K vs. Utah Tech (W 4-1). At 0.00 ERA through 6.1 innings on the season."
+      "narrative": "0.2 IP, 0 K vs. San Francisco (W 6-5). At 0.00 ERA through 9.1 innings on the season."
     },
     "e4fe7e9c": {
       "id": "e4fe7e9c",
@@ -2091,22 +1800,22 @@
       "num": "51",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 12,
-        "gs": 8,
-        "avg": 0.143,
-        "ops": 0.393,
-        "ab": 21,
+        "g": 14,
+        "gs": 10,
+        "avg": 0.16,
+        "ops": 0.41,
+        "ab": 25,
         "r": 2,
-        "h": 3,
+        "h": 4,
         "doubles": 0,
         "triples": 0,
         "hr": 0,
         "rbi": 0,
-        "tb": 3,
-        "slg": 0.143,
+        "tb": 4,
+        "slg": 0.16,
         "bb": 3,
         "hbp": 0,
-        "so": 7,
+        "so": 8,
         "gdp": 0,
         "obp": 0.25,
         "sf": 0,
@@ -2116,22 +1825,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-21",
+        "opponent": "San Francisco",
+        "result": "W 2-1",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10561&path=baseball",
         "batting": {
-          "ab": 1,
-          "r": 1,
-          "h": 1,
+          "ab": 2,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
-          "bb": 1,
+          "bb": 0,
           "so": 0,
           "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "1/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .142 with 0 HR through 12 games."
+      "narrative": "0/2 with 0 RBI vs. San Francisco (W 2-1). Hitting .160 with 0 HR through 14 games."
     },
     "c4e8bfbe": {
       "id": "c4e8bfbe",
@@ -2143,24 +1852,24 @@
       "num": "52",
       "school": "Santa Clara University",
       "season_batting": {
-        "g": 10,
-        "gs": 8,
-        "avg": 0.292,
-        "ops": 0.708,
-        "ab": 24,
-        "r": 3,
+        "g": 13,
+        "gs": 10,
+        "avg": 0.226,
+        "ops": 0.596,
+        "ab": 31,
+        "r": 4,
         "h": 7,
         "doubles": 0,
         "triples": 1,
         "hr": 0,
         "rbi": 3,
         "tb": 9,
-        "slg": 0.375,
-        "bb": 2,
+        "slg": 0.29,
+        "bb": 4,
         "hbp": 0,
-        "so": 7,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.333,
+        "obp": 0.306,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -2168,62 +1877,10 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
-        "batting": {
-          "ab": 3,
-          "r": 1,
-          "h": 1,
-          "rbi": 0,
-          "bb": 0,
-          "so": 2,
-          "pos": "3b"
-        },
-        "pitching": null
-      },
-      "narrative": "1/3 with 0 RBI vs. Connecticut (L 5-12). Hitting .291 with 0 HR through 10 games."
-    },
-    "27a843f4": {
-      "id": "27a843f4",
-      "name": "Camden Sos",
-      "fn": "Camden",
-      "ln": "Sos",
-      "pos": "IF",
-      "yr": "Jr.",
-      "num": "54",
-      "school": "Santa Clara University",
-      "season_batting": {
-        "g": 17,
-        "gs": 10,
-        "avg": 0.098,
-        "ops": 0.33,
-        "ab": 41,
-        "r": 5,
-        "h": 4,
-        "doubles": 0,
-        "triples": 0,
-        "hr": 1,
-        "rbi": 3,
-        "tb": 7,
-        "slg": 0.171,
-        "bb": 2,
-        "hbp": 1,
-        "so": 20,
-        "gdp": 2,
-        "obp": 0.159,
-        "sf": 0,
-        "sh": 0,
-        "sb": 2,
-        "sb_att": 2
-      },
-      "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Connecticut",
-        "result": "L 5-12",
-        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10559&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
         "batting": {
           "ab": 1,
           "r": 0,
@@ -2235,7 +1892,59 @@
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Connecticut (L 5-12). Hitting .097 with 1 HR through 17 games."
+      "narrative": "0/1 with 0 RBI vs. San Francisco (W 6-5). Hitting .225 with 0 HR through 13 games."
+    },
+    "27a843f4": {
+      "id": "27a843f4",
+      "name": "Camden Sos",
+      "fn": "Camden",
+      "ln": "Sos",
+      "pos": "IF",
+      "yr": "Jr.",
+      "num": "54",
+      "school": "Santa Clara University",
+      "season_batting": {
+        "g": 19,
+        "gs": 11,
+        "avg": 0.091,
+        "ops": 0.308,
+        "ab": 44,
+        "r": 5,
+        "h": 4,
+        "doubles": 0,
+        "triples": 0,
+        "hr": 1,
+        "rbi": 3,
+        "tb": 7,
+        "slg": 0.159,
+        "bb": 2,
+        "hbp": 1,
+        "so": 21,
+        "gdp": 2,
+        "obp": 0.149,
+        "sf": 0,
+        "sh": 0,
+        "sb": 2,
+        "sb_att": 2
+      },
+      "season_pitching": null,
+      "last_game": {
+        "date": "2026-03-22",
+        "opponent": "San Francisco",
+        "result": "W 6-5",
+        "boxscore_url": "https://santaclarabroncos.com/boxscore.aspx?id=10562&path=baseball",
+        "batting": {
+          "ab": 3,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "3b"
+        },
+        "pitching": null
+      },
+      "narrative": "0/3 with 0 RBI vs. San Francisco (W 6-5). Hitting .090 with 1 HR through 19 games."
     }
   },
   "narratives_generated_by": "claude-haiku-4-5-20251001"

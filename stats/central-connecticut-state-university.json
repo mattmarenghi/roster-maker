@@ -7,11 +7,11 @@
     "result": "L 10-18"
   },
   "players": {
-    "a82d01a1": {
-      "id": "a82d01a1",
-      "name": "Antonio DucatelliAntonio Ducatelli",
+    "9c23f63d": {
+      "id": "9c23f63d",
+      "name": "Antonio Ducatelli",
       "fn": "Antonio",
-      "ln": "DucatelliAntonio Ducatelli",
+      "ln": "Ducatelli",
       "num": "1",
       "pos": "OF",
       "yr": "Jr.",
@@ -21,11 +21,11 @@
       "last_game": null,
       "narrative": null
     },
-    "41c7b8e7": {
-      "id": "41c7b8e7",
-      "name": "Gianno MerlonghiGianno Merlonghi",
+    "eda5153f": {
+      "id": "eda5153f",
+      "name": "Gianno Merlonghi",
       "fn": "Gianno",
-      "ln": "MerlonghiGianno Merlonghi",
+      "ln": "Merlonghi",
       "num": "2",
       "pos": "OF",
       "yr": "Sr.",
@@ -35,11 +35,11 @@
       "last_game": null,
       "narrative": null
     },
-    "af5982a2": {
-      "id": "af5982a2",
-      "name": "Brandon CandeloraBrandon Candelora",
+    "89f61d85": {
+      "id": "89f61d85",
+      "name": "Brandon Candelora",
       "fn": "Brandon",
-      "ln": "CandeloraBrandon Candelora",
+      "ln": "Candelora",
       "num": "3",
       "pos": "P",
       "yr": "Fr.",
@@ -49,11 +49,11 @@
       "last_game": null,
       "narrative": null
     },
-    "f08b60a6": {
-      "id": "f08b60a6",
-      "name": "Gabe PittsGabe Pitts",
+    "647fd6fc": {
+      "id": "647fd6fc",
+      "name": "Gabe Pitts",
       "fn": "Gabe",
-      "ln": "PittsGabe Pitts",
+      "ln": "Pitts",
       "num": "4",
       "pos": "OF",
       "yr": "So.",
@@ -63,11 +63,11 @@
       "last_game": null,
       "narrative": null
     },
-    "427886a7": {
-      "id": "427886a7",
-      "name": "Brandon O'NeillBrandon O'Neill",
+    "3d1a7205": {
+      "id": "3d1a7205",
+      "name": "Brandon O'Neill",
       "fn": "Brandon",
-      "ln": "O'NeillBrandon O'Neill",
+      "ln": "O'Neill",
       "num": "5",
       "pos": "INF",
       "yr": "So.",
@@ -77,11 +77,11 @@
       "last_game": null,
       "narrative": null
     },
-    "4deae776": {
-      "id": "4deae776",
-      "name": "Gabe TanousGabe Tanous",
+    "c4daf88b": {
+      "id": "c4daf88b",
+      "name": "Gabe Tanous",
       "fn": "Gabe",
-      "ln": "TanousGabe Tanous",
+      "ln": "Tanous",
       "num": "6",
       "pos": "INF",
       "yr": "Fr.",
@@ -91,11 +91,11 @@
       "last_game": null,
       "narrative": null
     },
-    "1dab16b0": {
-      "id": "1dab16b0",
-      "name": "Chris BarkasyChris Barkasy",
+    "52d57019": {
+      "id": "52d57019",
+      "name": "Chris Barkasy",
       "fn": "Chris",
-      "ln": "BarkasyChris Barkasy",
+      "ln": "Barkasy",
       "num": "7",
       "pos": "INF",
       "yr": "Jr.",
@@ -105,11 +105,11 @@
       "last_game": null,
       "narrative": null
     },
-    "7e59a021": {
-      "id": "7e59a021",
-      "name": "Danny WittersDanny Witters",
+    "abd4693d": {
+      "id": "abd4693d",
+      "name": "Danny Witters",
       "fn": "Danny",
-      "ln": "WittersDanny Witters",
+      "ln": "Witters",
       "num": "8",
       "pos": "C",
       "yr": "So.",
@@ -119,11 +119,11 @@
       "last_game": null,
       "narrative": null
     },
-    "a126e8bd": {
-      "id": "a126e8bd",
-      "name": "Derek GesmondiDerek Gesmondi",
+    "eafb0c15": {
+      "id": "eafb0c15",
+      "name": "Derek Gesmondi",
       "fn": "Derek",
-      "ln": "GesmondiDerek Gesmondi",
+      "ln": "Gesmondi",
       "num": "10",
       "pos": "OF",
       "yr": "Fr.",
@@ -133,11 +133,11 @@
       "last_game": null,
       "narrative": null
     },
-    "c09285fa": {
-      "id": "c09285fa",
-      "name": "Donte ValentineDonte Valentine",
+    "be99065c": {
+      "id": "be99065c",
+      "name": "Donte Valentine",
       "fn": "Donte",
-      "ln": "ValentineDonte Valentine",
+      "ln": "Valentine",
       "num": "11",
       "pos": "INF",
       "yr": "Fr.",
@@ -147,11 +147,11 @@
       "last_game": null,
       "narrative": null
     },
-    "dcb7b4e4": {
-      "id": "dcb7b4e4",
-      "name": "CJ DiBenedettoCJ DiBenedetto",
+    "cae916e6": {
+      "id": "cae916e6",
+      "name": "CJ DiBenedetto",
       "fn": "CJ",
-      "ln": "DiBenedettoCJ DiBenedetto",
+      "ln": "DiBenedetto",
       "num": "12",
       "pos": "P",
       "yr": "Fr.",
@@ -161,11 +161,11 @@
       "last_game": null,
       "narrative": null
     },
-    "0d548ccd": {
-      "id": "0d548ccd",
-      "name": "Zach WorzelZach Worzel",
+    "34647aa1": {
+      "id": "34647aa1",
+      "name": "Zach Worzel",
       "fn": "Zach",
-      "ln": "WorzelZach Worzel",
+      "ln": "Worzel",
       "num": "14",
       "pos": "P",
       "yr": "Fr.",
@@ -175,11 +175,11 @@
       "last_game": null,
       "narrative": null
     },
-    "891a2974": {
-      "id": "891a2974",
-      "name": "Tony HumphreyTony Humphrey",
+    "06275ae7": {
+      "id": "06275ae7",
+      "name": "Tony Humphrey",
       "fn": "Tony",
-      "ln": "HumphreyTony Humphrey",
+      "ln": "Humphrey",
       "num": "15",
       "pos": "OF",
       "yr": "So.",
@@ -189,11 +189,11 @@
       "last_game": null,
       "narrative": null
     },
-    "7a4511b1": {
-      "id": "7a4511b1",
-      "name": "TJ Winn Jr.TJ Winn Jr.",
+    "ff19ff07": {
+      "id": "ff19ff07",
+      "name": "TJ Winn Jr.",
       "fn": "TJ",
-      "ln": "Winn Jr.TJ Winn Jr.",
+      "ln": "Winn Jr.",
       "num": "16",
       "pos": "P",
       "yr": "Jr.",
@@ -203,11 +203,11 @@
       "last_game": null,
       "narrative": null
     },
-    "088f7406": {
-      "id": "088f7406",
-      "name": "Jacob HinesJacob Hines",
+    "deeca1d9": {
+      "id": "deeca1d9",
+      "name": "Jacob Hines",
       "fn": "Jacob",
-      "ln": "HinesJacob Hines",
+      "ln": "Hines",
       "num": "17",
       "pos": "P",
       "yr": "So.",
@@ -217,11 +217,11 @@
       "last_game": null,
       "narrative": null
     },
-    "0c7595ad": {
-      "id": "0c7595ad",
-      "name": "Jordan AkeJordan Ake",
+    "30a6ed6f": {
+      "id": "30a6ed6f",
+      "name": "Jordan Ake",
       "fn": "Jordan",
-      "ln": "AkeJordan Ake",
+      "ln": "Ake",
       "num": "18",
       "pos": "P",
       "yr": "Jr.",
@@ -231,11 +231,11 @@
       "last_game": null,
       "narrative": null
     },
-    "599e97af": {
-      "id": "599e97af",
-      "name": "Nick FoxNick Fox",
+    "ccfb47a2": {
+      "id": "ccfb47a2",
+      "name": "Nick Fox",
       "fn": "Nick",
-      "ln": "FoxNick Fox",
+      "ln": "Fox",
       "num": "19",
       "pos": "INF",
       "yr": "Fr.",
@@ -245,11 +245,11 @@
       "last_game": null,
       "narrative": null
     },
-    "4d41fdef": {
-      "id": "4d41fdef",
-      "name": "Frankie FerrentinoFrankie Ferrentino",
+    "b767a3cf": {
+      "id": "b767a3cf",
+      "name": "Frankie Ferrentino",
       "fn": "Frankie",
-      "ln": "FerrentinoFrankie Ferrentino",
+      "ln": "Ferrentino",
       "num": "20",
       "pos": "C",
       "yr": "Sr.",
@@ -259,11 +259,11 @@
       "last_game": null,
       "narrative": null
     },
-    "750d5915": {
-      "id": "750d5915",
-      "name": "Michael QuirosMichael Quiros",
+    "5d34a6eb": {
+      "id": "5d34a6eb",
+      "name": "Michael Quiros",
       "fn": "Michael",
-      "ln": "QuirosMichael Quiros",
+      "ln": "Quiros",
       "num": "21",
       "pos": "OF",
       "yr": "Jr.",
@@ -273,11 +273,11 @@
       "last_game": null,
       "narrative": null
     },
-    "9b699e00": {
-      "id": "9b699e00",
-      "name": "Nate DudeckNate Dudeck",
+    "d2395b54": {
+      "id": "d2395b54",
+      "name": "Nate Dudeck",
       "fn": "Nate",
-      "ln": "DudeckNate Dudeck",
+      "ln": "Dudeck",
       "num": "22",
       "pos": "INF/P",
       "yr": "Jr.",
@@ -287,11 +287,11 @@
       "last_game": null,
       "narrative": null
     },
-    "ce0488c6": {
-      "id": "ce0488c6",
-      "name": "Matt GrazioseMatt Graziose",
+    "af50445f": {
+      "id": "af50445f",
+      "name": "Matt Graziose",
       "fn": "Matt",
-      "ln": "GrazioseMatt Graziose",
+      "ln": "Graziose",
       "num": "24",
       "pos": "INF",
       "yr": "So.",
@@ -301,11 +301,11 @@
       "last_game": null,
       "narrative": null
     },
-    "43d2dee1": {
-      "id": "43d2dee1",
-      "name": "Ryan ScialabbaRyan Scialabba",
+    "7b1741f7": {
+      "id": "7b1741f7",
+      "name": "Ryan Scialabba",
       "fn": "Ryan",
-      "ln": "ScialabbaRyan Scialabba",
+      "ln": "Scialabba",
       "num": "25",
       "pos": "INF",
       "yr": "Sr.",
@@ -315,11 +315,11 @@
       "last_game": null,
       "narrative": null
     },
-    "f5ab3782": {
-      "id": "f5ab3782",
-      "name": "Nick MurphyNick Murphy",
+    "fc0737df": {
+      "id": "fc0737df",
+      "name": "Nick Murphy",
       "fn": "Nick",
-      "ln": "MurphyNick Murphy",
+      "ln": "Murphy",
       "num": "26",
       "pos": "P",
       "yr": "Sr.",
@@ -329,11 +329,11 @@
       "last_game": null,
       "narrative": null
     },
-    "f4708ce8": {
-      "id": "f4708ce8",
-      "name": "Richie KerstetterRichie Kerstetter",
+    "c0827ade": {
+      "id": "c0827ade",
+      "name": "Richie Kerstetter",
       "fn": "Richie",
-      "ln": "KerstetterRichie Kerstetter",
+      "ln": "Kerstetter",
       "num": "28",
       "pos": "P",
       "yr": "Jr.",
@@ -343,11 +343,11 @@
       "last_game": null,
       "narrative": null
     },
-    "802ff0e7": {
-      "id": "802ff0e7",
-      "name": "Casey ProctorCasey Proctor",
+    "9fc82507": {
+      "id": "9fc82507",
+      "name": "Casey Proctor",
       "fn": "Casey",
-      "ln": "ProctorCasey Proctor",
+      "ln": "Proctor",
       "num": "29",
       "pos": "P",
       "yr": "Jr.",
@@ -357,11 +357,11 @@
       "last_game": null,
       "narrative": null
     },
-    "f27649a9": {
-      "id": "f27649a9",
-      "name": "Niko ChristonNiko Christon",
+    "9317d28a": {
+      "id": "9317d28a",
+      "name": "Niko Christon",
       "fn": "Niko",
-      "ln": "ChristonNiko Christon",
+      "ln": "Christon",
       "num": "30",
       "pos": "P",
       "yr": "So.",
@@ -371,11 +371,11 @@
       "last_game": null,
       "narrative": null
     },
-    "96967f93": {
-      "id": "96967f93",
-      "name": "Owen AriasOwen Arias",
+    "e203eb7c": {
+      "id": "e203eb7c",
+      "name": "Owen Arias",
       "fn": "Owen",
-      "ln": "AriasOwen Arias",
+      "ln": "Arias",
       "num": "31",
       "pos": "C",
       "yr": "So.",
@@ -385,11 +385,11 @@
       "last_game": null,
       "narrative": null
     },
-    "ff10abd3": {
-      "id": "ff10abd3",
-      "name": "John DevineJohn Devine",
+    "748f9d50": {
+      "id": "748f9d50",
+      "name": "John Devine",
       "fn": "John",
-      "ln": "DevineJohn Devine",
+      "ln": "Devine",
       "num": "32",
       "pos": "P",
       "yr": "Fr.",
@@ -399,11 +399,11 @@
       "last_game": null,
       "narrative": null
     },
-    "2353df10": {
-      "id": "2353df10",
-      "name": "Mason McCarrollMason McCarroll",
+    "fdc0bfbb": {
+      "id": "fdc0bfbb",
+      "name": "Mason McCarroll",
       "fn": "Mason",
-      "ln": "McCarrollMason McCarroll",
+      "ln": "McCarroll",
       "num": "33",
       "pos": "P",
       "yr": "So.",
@@ -413,11 +413,11 @@
       "last_game": null,
       "narrative": null
     },
-    "cbed0ca8": {
-      "id": "cbed0ca8",
-      "name": "Kyle McDermottKyle McDermott",
+    "4c087399": {
+      "id": "4c087399",
+      "name": "Kyle McDermott",
       "fn": "Kyle",
-      "ln": "McDermottKyle McDermott",
+      "ln": "McDermott",
       "num": "34",
       "pos": "P",
       "yr": "Fr.",
@@ -427,11 +427,11 @@
       "last_game": null,
       "narrative": null
     },
-    "a52f98a5": {
-      "id": "a52f98a5",
-      "name": "Anthony CostelloAnthony Costello",
+    "3a626db7": {
+      "id": "3a626db7",
+      "name": "Anthony Costello",
       "fn": "Anthony",
-      "ln": "CostelloAnthony Costello",
+      "ln": "Costello",
       "num": "35",
       "pos": "P",
       "yr": "Fr.",
@@ -441,11 +441,11 @@
       "last_game": null,
       "narrative": null
     },
-    "ef434f0a": {
-      "id": "ef434f0a",
-      "name": "Noah TerzoNoah Terzo",
+    "859ccd46": {
+      "id": "859ccd46",
+      "name": "Noah Terzo",
       "fn": "Noah",
-      "ln": "TerzoNoah Terzo",
+      "ln": "Terzo",
       "num": "36",
       "pos": "P",
       "yr": "Jr.",
@@ -455,11 +455,11 @@
       "last_game": null,
       "narrative": null
     },
-    "16a62a8c": {
-      "id": "16a62a8c",
-      "name": "Carson LentiniCarson Lentini",
+    "f0bd2b74": {
+      "id": "f0bd2b74",
+      "name": "Carson Lentini",
       "fn": "Carson",
-      "ln": "LentiniCarson Lentini",
+      "ln": "Lentini",
       "num": "37",
       "pos": "INF",
       "yr": "Fr.",
@@ -469,11 +469,11 @@
       "last_game": null,
       "narrative": null
     },
-    "29a17327": {
-      "id": "29a17327",
-      "name": "Louis JordanLouis Jordan",
+    "ea7e8c78": {
+      "id": "ea7e8c78",
+      "name": "Louis Jordan",
       "fn": "Louis",
-      "ln": "JordanLouis Jordan",
+      "ln": "Jordan",
       "num": "38",
       "pos": "INF/OF",
       "yr": "Sr.",
@@ -483,11 +483,11 @@
       "last_game": null,
       "narrative": null
     },
-    "517836ae": {
-      "id": "517836ae",
-      "name": "Jack HennesseyJack Hennessey",
+    "77509a16": {
+      "id": "77509a16",
+      "name": "Jack Hennessey",
       "fn": "Jack",
-      "ln": "HennesseyJack Hennessey",
+      "ln": "Hennessey",
       "num": "39",
       "pos": "INF",
       "yr": "Fr.",
@@ -497,11 +497,11 @@
       "last_game": null,
       "narrative": null
     },
-    "f448d2c2": {
-      "id": "f448d2c2",
-      "name": "TJ MagliozzoTJ Magliozzo",
+    "2aec5abc": {
+      "id": "2aec5abc",
+      "name": "TJ Magliozzo",
       "fn": "TJ",
-      "ln": "MagliozzoTJ Magliozzo",
+      "ln": "Magliozzo",
       "num": "40",
       "pos": "INF",
       "yr": "Fr.",
@@ -511,11 +511,11 @@
       "last_game": null,
       "narrative": null
     },
-    "431888ca": {
-      "id": "431888ca",
-      "name": "Rob NataleRob Natale",
+    "89a3c95c": {
+      "id": "89a3c95c",
+      "name": "Rob Natale",
       "fn": "Rob",
-      "ln": "NataleRob Natale",
+      "ln": "Natale",
       "num": "41",
       "pos": "C",
       "yr": "So.",
@@ -525,11 +525,11 @@
       "last_game": null,
       "narrative": null
     },
-    "a6839e7e": {
-      "id": "a6839e7e",
-      "name": "Bryce DiPieroBryce DiPiero",
+    "9a0cf36e": {
+      "id": "9a0cf36e",
+      "name": "Bryce DiPiero",
       "fn": "Bryce",
-      "ln": "DiPieroBryce DiPiero",
+      "ln": "DiPiero",
       "num": "42",
       "pos": "P",
       "yr": "Jr.",
@@ -539,11 +539,11 @@
       "last_game": null,
       "narrative": null
     },
-    "c4c5af3a": {
-      "id": "c4c5af3a",
-      "name": "Alexander KasbarianAlexander Kasbarian",
+    "83ca50a1": {
+      "id": "83ca50a1",
+      "name": "Alexander Kasbarian",
       "fn": "Alexander",
-      "ln": "KasbarianAlexander Kasbarian",
+      "ln": "Kasbarian",
       "num": "43",
       "pos": "P",
       "yr": "Sr.",
@@ -553,11 +553,11 @@
       "last_game": null,
       "narrative": null
     },
-    "7a1fb4e1": {
-      "id": "7a1fb4e1",
-      "name": "Owen PikeOwen Pike",
+    "59a4dc5f": {
+      "id": "59a4dc5f",
+      "name": "Owen Pike",
       "fn": "Owen",
-      "ln": "PikeOwen Pike",
+      "ln": "Pike",
       "num": "44",
       "pos": "P",
       "yr": "Fr.",
@@ -567,11 +567,11 @@
       "last_game": null,
       "narrative": null
     },
-    "751da1ee": {
-      "id": "751da1ee",
-      "name": "Bryce MederBryce Meder",
+    "d4b9b989": {
+      "id": "d4b9b989",
+      "name": "Bryce Meder",
       "fn": "Bryce",
-      "ln": "MederBryce Meder",
+      "ln": "Meder",
       "num": "45",
       "pos": "P",
       "yr": "Fr.",
@@ -581,11 +581,11 @@
       "last_game": null,
       "narrative": null
     },
-    "7c29e873": {
-      "id": "7c29e873",
-      "name": "Kyle SalvatiKyle Salvati",
+    "e8b55e5a": {
+      "id": "e8b55e5a",
+      "name": "Kyle Salvati",
       "fn": "Kyle",
-      "ln": "SalvatiKyle Salvati",
+      "ln": "Salvati",
       "num": "46",
       "pos": "P",
       "yr": "Sr.",
@@ -595,11 +595,11 @@
       "last_game": null,
       "narrative": null
     },
-    "9bed63fe": {
-      "id": "9bed63fe",
-      "name": "Andrew NoceraAndrew Nocera",
+    "02153b42": {
+      "id": "02153b42",
+      "name": "Andrew Nocera",
       "fn": "Andrew",
-      "ln": "NoceraAndrew Nocera",
+      "ln": "Nocera",
       "num": "48",
       "pos": "OF",
       "yr": "Fr.",
@@ -609,11 +609,11 @@
       "last_game": null,
       "narrative": null
     },
-    "7362a11f": {
-      "id": "7362a11f",
-      "name": "Luke WadstrupLuke Wadstrup",
+    "a97e819d": {
+      "id": "a97e819d",
+      "name": "Luke Wadstrup",
       "fn": "Luke",
-      "ln": "WadstrupLuke Wadstrup",
+      "ln": "Wadstrup",
       "num": "49",
       "pos": "INF/OF",
       "yr": "Fr.",

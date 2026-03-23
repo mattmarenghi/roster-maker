@@ -2,13 +2,13 @@
   "school": "Delaware State University",
   "base_url": "https://www.dsuhornets.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:30:56.935668Z",
+  "generated_at": "2026-03-23T04:42:35.002682Z",
   "record": "1-19",
   "most_recent_game": {
     "date": "2026-03-21",
     "opponent": "Norfolk St.",
     "result": "W 4-3",
-    "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+    "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
     "recap_url": null,
     "recap_headline": "",
     "recap_text": "",
@@ -49,7 +49,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -113,7 +113,7 @@
         "date": "2026-03-20",
         "opponent": "Norfolk St.",
         "result": "W 16-6",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=",
         "batting": {
           "ab": 0,
           "r": 2,
@@ -276,7 +276,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -328,7 +328,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -380,7 +380,7 @@
         "date": "2026-03-20",
         "opponent": "Norfolk St.",
         "result": "W 16-6",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -432,7 +432,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -511,7 +511,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -575,7 +575,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -627,7 +627,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 1,
           "r": 1,
@@ -743,7 +743,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -795,7 +795,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -847,7 +847,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 3,
           "r": 0,
@@ -899,7 +899,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 3,
           "r": 2,
@@ -978,7 +978,7 @@
         "date": "2026-03-20",
         "opponent": "Norfolk St.",
         "result": "W 16-6",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1037,7 +1037,7 @@
         "date": "2026-03-15",
         "opponent": "Mercyhurst",
         "result": "W 9-8",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8498&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1156,7 +1156,7 @@
         "date": "2026-03-20",
         "opponent": "Norfolk St.",
         "result": "W 16-6",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1226,7 +1226,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 4,
           "r": 0,
@@ -1273,7 +1273,7 @@
         "date": "2026-03-20",
         "opponent": "Norfolk St.",
         "result": "W 16-6",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1364,7 +1364,7 @@
         "date": "2026-03-21",
         "opponent": "Norfolk St.",
         "result": "W 4-3",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8501&path=",
         "batting": {
           "ab": 0,
           "r": 0,
@@ -1423,7 +1423,7 @@
         "date": "2026-03-20",
         "opponent": "Norfolk St.",
         "result": "W 16-6",
-        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=bsb",
+        "boxscore_url": "https://www.dsuhornets.com/boxscore.aspx?id=8500&path=",
         "batting": {
           "ab": 0,
           "r": 0,

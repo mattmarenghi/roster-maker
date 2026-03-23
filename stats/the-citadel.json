@@ -2,14 +2,14 @@
   "school": "The Citadel",
   "base_url": "https://www.citadelsports.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:49:24.739920Z",
-  "record": "8-13",
+  "generated_at": "2026-03-23T05:01:46.155797Z",
+  "record": "9-13",
   "most_recent_game": {
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "opponent": "Mercer",
-    "result": "W 8-4",
-    "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
-    "recap_url": "https://www.citadelsports.com/news/2026/3/21/baseball-the-citadel-falls-behind-early-drops-series-to-mercer-in-8-4-loss.aspx",
+    "result": "L 2-3",
+    "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
+    "recap_url": "https://www.citadelsports.com/news/2026/3/22/baseball-gibson-bullpen-lift-bulldogs-over-mercer-3-2.aspx",
     "recap_headline": "The Citadel Athletics",
     "recap_text": "",
     "watch_url": null
@@ -26,47 +26,47 @@
       "num": "0",
       "school": "The Citadel",
       "season_batting": {
-        "g": 19,
-        "gs": 17,
-        "avg": 0.306,
-        "ops": 0.771,
-        "ab": 62,
+        "g": 20,
+        "gs": 18,
+        "avg": 0.292,
+        "ops": 0.733,
+        "ab": 65,
         "r": 14,
         "h": 19,
         "doubles": 5,
         "triples": 1,
         "hr": 0,
-        "rbi": 9,
+        "rbi": 10,
         "tb": 26,
-        "slg": 0.419,
+        "slg": 0.4,
         "bb": 6,
         "hbp": 0,
-        "so": 12,
+        "so": 13,
         "gdp": 0,
-        "obp": 0.352,
-        "sf": 3,
+        "obp": 0.333,
+        "sf": 4,
         "sh": 1,
         "sb": 9,
         "sb_att": 12
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
           "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "dh"
+          "pos": "2b"
         },
         "pitching": null
       },
-      "narrative": "0/3 with 0 RBI vs. Mercer (W 8-4). Hitting .306 with 0 HR through 19 games."
+      "narrative": "0/3 with 1 RBI vs. Mercer (L 2-3). Hitting .292 with 0 HR through 20 games."
     },
     "bca14642": {
       "id": "bca14642",
@@ -78,24 +78,24 @@
       "num": "1",
       "school": "The Citadel",
       "season_batting": {
-        "g": 21,
-        "gs": 18,
-        "avg": 0.17,
-        "ops": 0.57,
-        "ab": 53,
-        "r": 10,
-        "h": 9,
-        "doubles": 2,
+        "g": 22,
+        "gs": 19,
+        "avg": 0.196,
+        "ops": 0.634,
+        "ab": 56,
+        "r": 11,
+        "h": 11,
+        "doubles": 3,
         "triples": 0,
         "hr": 0,
-        "rbi": 8,
-        "tb": 11,
-        "slg": 0.208,
-        "bb": 4,
+        "rbi": 9,
+        "tb": 14,
+        "slg": 0.25,
+        "bb": 5,
         "hbp": 12,
         "so": 17,
         "gdp": 0,
-        "obp": 0.362,
+        "obp": 0.384,
         "sf": 0,
         "sh": 3,
         "sb": 5,
@@ -103,22 +103,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
+          "ab": 3,
+          "r": 1,
+          "h": 2,
           "rbi": 1,
           "bb": 1,
-          "so": 2,
+          "so": 0,
           "pos": "ss"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 1 RBI vs. Mercer (W 8-4). Hitting .169 with 0 HR through 21 games."
+      "narrative": "2/3 with 1 RBI vs. Mercer (L 2-3). Hitting .196 with 0 HR through 22 games."
     },
     "ea3337a9": {
       "id": "ea3337a9",
@@ -130,24 +130,24 @@
       "num": "2",
       "school": "The Citadel",
       "season_batting": {
-        "g": 21,
-        "gs": 21,
-        "avg": 0.284,
-        "ops": 0.731,
-        "ab": 74,
+        "g": 22,
+        "gs": 22,
+        "avg": 0.282,
+        "ops": 0.72,
+        "ab": 78,
         "r": 21,
-        "h": 21,
+        "h": 22,
         "doubles": 2,
         "triples": 1,
         "hr": 0,
         "rbi": 9,
-        "tb": 25,
-        "slg": 0.338,
+        "tb": 26,
+        "slg": 0.333,
         "bb": 11,
         "hbp": 3,
-        "so": 22,
+        "so": 24,
         "gdp": 1,
-        "obp": 0.393,
+        "obp": 0.387,
         "sf": 1,
         "sh": 4,
         "sb": 11,
@@ -155,22 +155,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
           "ab": 4,
           "r": 0,
-          "h": 0,
-          "rbi": 1,
-          "bb": 1,
-          "so": 3,
-          "pos": "cf/rf"
+          "h": 1,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "rf/cf"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 1 RBI vs. Mercer (W 8-4). Hitting .283 with 0 HR through 21 games."
+      "narrative": "1/4 with 0 RBI vs. Mercer (L 2-3). Hitting .282 with 0 HR through 22 games."
     },
     "1c9a2d52": {
       "id": "1c9a2d52",
@@ -406,23 +406,8 @@
         "sb_att": 1
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Clemson",
-        "result": "L 3-9",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
-        "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
-          "rbi": 1,
-          "bb": 0,
-          "so": 0,
-          "pos": "ph/3b"
-        },
-        "pitching": null
-      },
-      "narrative": "0/2 with 1 RBI vs. Clemson (L 3-9). Hitting .052 with 0 HR through 10 games."
+      "last_game": null,
+      "narrative": null
     },
     "12836acb": {
       "id": "12836acb",
@@ -494,26 +479,53 @@
       "school": "The Citadel",
       "season_batting": null,
       "season_pitching": {
-        "era": 4.5,
+        "era": 3.86,
         "whip": 1.8,
         "w": 1,
         "l": 2,
         "sv": 0,
-        "g": 7,
+        "g": 8,
         "gs": 1,
-        "ip": 10.0,
-        "h": 9,
+        "ip": 11.2,
+        "h": 12,
         "r": 6,
         "er": 5,
         "bb": 9,
-        "so": 8,
+        "so": 10,
         "hr": 0,
         "hbp": 0,
         "wp": 1,
-        "opp_avg": ".237"
+        "opp_avg": ".255"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-22",
+        "opponent": "Mercer",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "1.2",
+          "h": 3,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 2,
+          "wp": 0,
+          "hbp": 0,
+          "w": 0,
+          "l": 0,
+          "sv": 0
+        }
+      },
+      "narrative": "1.2 IP, 2 K vs. Mercer (L 2-3). At 4.02 ERA through 11.2 innings on the season."
     },
     "53577370": {
       "id": "53577370",
@@ -544,35 +556,8 @@
         "wp": 2,
         "opp_avg": ".278"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Clemson",
-        "result": "L 3-9",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 1,
-          "r": 4,
-          "er": 0,
-          "bb": 2,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Clemson (L 3-9). At 6.75 ERA through 4.0 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "9ae66a44": {
       "id": "9ae66a44",
@@ -709,35 +694,8 @@
         "wp": 2,
         "opp_avg": ".444"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Clemson",
-        "result": "L 3-9",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "1.0",
-          "h": 2,
-          "r": 2,
-          "er": 2,
-          "bb": 4,
-          "so": 1,
-          "wp": 1,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "1.0 IP, 1 K vs. Clemson (L 3-9). At 30.00 ERA through 1.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "b1cbf892": {
       "id": "b1cbf892",
@@ -749,11 +707,11 @@
       "num": "18",
       "school": "The Citadel",
       "season_batting": {
-        "g": 21,
-        "gs": 12,
-        "avg": 0.205,
-        "ops": 0.521,
-        "ab": 44,
+        "g": 22,
+        "gs": 13,
+        "avg": 0.196,
+        "ops": 0.499,
+        "ab": 46,
         "r": 8,
         "h": 9,
         "doubles": 2,
@@ -761,35 +719,35 @@
         "hr": 0,
         "rbi": 9,
         "tb": 11,
-        "slg": 0.25,
+        "slg": 0.239,
         "bb": 4,
         "hbp": 0,
-        "so": 19,
+        "so": 20,
         "gdp": 1,
-        "obp": 0.271,
+        "obp": 0.26,
         "sf": 0,
-        "sh": 4,
+        "sh": 5,
         "sb": 5,
         "sb_att": 5
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
           "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "PH/cf"
+          "so": 1,
+          "pos": "cf"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Mercer (W 8-4). Hitting .204 with 0 HR through 21 games."
+      "narrative": "0/2 with 0 RBI vs. Mercer (L 2-3). Hitting .195 with 0 HR through 22 games."
     },
     "2c198db9": {
       "id": "2c198db9",
@@ -833,11 +791,11 @@
       "num": "20",
       "school": "The Citadel",
       "season_batting": {
-        "g": 16,
-        "gs": 8,
-        "avg": 0.194,
-        "ops": 0.523,
-        "ab": 31,
+        "g": 17,
+        "gs": 9,
+        "avg": 0.182,
+        "ops": 0.512,
+        "ab": 33,
         "r": 3,
         "h": 6,
         "doubles": 1,
@@ -845,35 +803,35 @@
         "hr": 0,
         "rbi": 2,
         "tb": 7,
-        "slg": 0.226,
+        "slg": 0.212,
         "bb": 3,
-        "hbp": 2,
-        "so": 8,
+        "hbp": 3,
+        "so": 9,
         "gdp": 0,
-        "obp": 0.297,
+        "obp": 0.3,
         "sf": 1,
-        "sh": 1,
+        "sh": 2,
         "sb": 1,
         "sb_att": 1
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Clemson",
-        "result": "L 3-9",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
+        "date": "2026-03-22",
+        "opponent": "Mercer",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 1,
+          "ab": 2,
           "r": 0,
           "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "ph"
+          "pos": "dh"
         },
         "pitching": null
       },
-      "narrative": "0/1 with 0 RBI vs. Clemson (L 3-9). Hitting .193 with 0 HR through 16 games."
+      "narrative": "0/2 with 0 RBI vs. Mercer (L 2-3). Hitting .181 with 0 HR through 17 games."
     },
     "b1ccbf9d": {
       "id": "b1ccbf9d",
@@ -885,47 +843,47 @@
       "num": "21",
       "school": "The Citadel",
       "season_batting": {
-        "g": 20,
-        "gs": 20,
-        "avg": 0.313,
-        "ops": 0.837,
-        "ab": 67,
+        "g": 21,
+        "gs": 21,
+        "avg": 0.3,
+        "ops": 0.805,
+        "ab": 70,
         "r": 9,
         "h": 21,
         "doubles": 3,
         "triples": 0,
         "hr": 1,
-        "rbi": 11,
+        "rbi": 12,
         "tb": 27,
-        "slg": 0.403,
+        "slg": 0.386,
         "bb": 8,
         "hbp": 7,
-        "so": 11,
+        "so": 14,
         "gdp": 1,
-        "obp": 0.434,
+        "obp": 0.419,
         "sf": 1,
-        "sh": 3,
+        "sh": 4,
         "sb": 1,
         "sb_att": 2
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 4,
+          "ab": 3,
           "r": 0,
           "h": 0,
-          "rbi": 0,
+          "rbi": 1,
           "bb": 0,
           "so": 0,
-          "pos": "3b"
+          "pos": "c"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Mercer (W 8-4). Hitting .313 with 1 HR through 20 games."
+      "narrative": "0/3 with 1 RBI vs. Mercer (L 2-3). Hitting .300 with 1 HR through 21 games."
     },
     "07de6f19": {
       "id": "07de6f19",
@@ -961,41 +919,53 @@
         "sb_att": 2
       },
       "season_pitching": {
-        "era": 7.98,
-        "whip": 1.57,
-        "w": 1,
+        "era": 6.75,
+        "whip": 1.45,
+        "w": 2,
         "l": 1,
         "sv": 3,
-        "g": 7,
-        "gs": 0,
-        "ip": 14.2,
-        "h": 17,
-        "r": 13,
-        "er": 13,
-        "bb": 6,
-        "so": 23,
+        "g": 8,
+        "gs": 1,
+        "ip": 20.0,
+        "h": 21,
+        "r": 15,
+        "er": 15,
+        "bb": 8,
+        "so": 30,
         "hr": 2,
-        "hbp": 4,
+        "hbp": 5,
         "wp": 1,
-        "opp_avg": ".274"
+        "opp_avg": ".263"
       },
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 2,
+          "ab": 0,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "1b"
+          "pos": "p"
         },
-        "pitching": null
+        "pitching": {
+          "ip": "5.1",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 7,
+          "wp": 0,
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
+        }
       },
-      "narrative": "2/4 with 0 RBI vs. Mercer (W 8-4). Hitting .315 with 0 HR through 12 games."
+      "narrative": "5.1 IP, 7 K, 2 ER vs. Mercer (L 2-3). At 6.75 ERA through 20.0 innings on the season."
     },
     "190f95d5": {
       "id": "190f95d5",
@@ -1085,35 +1055,8 @@
         "wp": 1,
         "opp_avg": ".365"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Clemson",
-        "result": "L 3-9",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "3.2",
-          "h": 7,
-          "r": 3,
-          "er": 3,
-          "bb": 2,
-          "so": 2,
-          "wp": 1,
-          "hbp": 0,
-          "w": 0,
-          "l": 1,
-          "sv": 0
-        }
-      },
-      "narrative": "3.2 IP, 2 K vs. Clemson (L 3-9). At 7.23 ERA through 11.2 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "0ae3a5f6": {
       "id": "0ae3a5f6",
@@ -1125,24 +1068,24 @@
       "num": "25",
       "school": "The Citadel",
       "season_batting": {
-        "g": 19,
-        "gs": 19,
-        "avg": 0.227,
-        "ops": 0.771,
-        "ab": 66,
-        "r": 9,
-        "h": 15,
+        "g": 20,
+        "gs": 20,
+        "avg": 0.229,
+        "ops": 0.756,
+        "ab": 70,
+        "r": 10,
+        "h": 16,
         "doubles": 4,
         "triples": 1,
         "hr": 3,
         "rbi": 15,
-        "tb": 30,
-        "slg": 0.455,
+        "tb": 31,
+        "slg": 0.443,
         "bb": 8,
         "hbp": 1,
-        "so": 17,
+        "so": 19,
         "gdp": 4,
-        "obp": 0.316,
+        "obp": 0.313,
         "sf": 1,
         "sh": 0,
         "sb": 0,
@@ -1150,22 +1093,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-20",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 11-0",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11963&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 0,
-          "h": 0,
+          "ab": 4,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 1,
+          "so": 0,
           "pos": "1b"
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Mercer (W 11-0). Hitting .227 with 3 HR through 19 games."
+      "narrative": "1/4 with 0 RBI vs. Mercer (L 2-3). Hitting .228 with 3 HR through 20 games."
     },
     "ec83fcfd": {
       "id": "ec83fcfd",
@@ -1177,24 +1120,24 @@
       "num": "29",
       "school": "The Citadel",
       "season_batting": {
-        "g": 21,
-        "gs": 20,
-        "avg": 0.206,
-        "ops": 0.539,
-        "ab": 68,
-        "r": 11,
-        "h": 14,
+        "g": 22,
+        "gs": 21,
+        "avg": 0.208,
+        "ops": 0.538,
+        "ab": 72,
+        "r": 12,
+        "h": 15,
         "doubles": 3,
         "triples": 0,
         "hr": 0,
         "rbi": 6,
-        "tb": 17,
+        "tb": 18,
         "slg": 0.25,
         "bb": 7,
         "hbp": 1,
-        "so": 17,
+        "so": 18,
         "gdp": 0,
-        "obp": 0.289,
+        "obp": 0.288,
         "sf": 0,
         "sh": 3,
         "sb": 6,
@@ -1202,22 +1145,22 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
           "ab": 4,
-          "r": 0,
-          "h": 0,
+          "r": 1,
+          "h": 1,
           "rbi": 0,
           "bb": 0,
-          "so": 0,
-          "pos": "2b"
+          "so": 4,
+          "pos": "3b"
         },
         "pitching": null
       },
-      "narrative": "0/4 with 0 RBI vs. Mercer (W 8-4). Hitting .205 with 0 HR through 21 games."
+      "narrative": "1/4 with 0 RBI vs. Mercer (L 2-3). Hitting .208 with 0 HR through 22 games."
     },
     "38c24151": {
       "id": "38c24151",
@@ -1229,11 +1172,11 @@
       "num": "30",
       "school": "The Citadel",
       "season_batting": {
-        "g": 12,
+        "g": 13,
         "gs": 8,
-        "avg": 0.208,
-        "ops": 0.95,
-        "ab": 24,
+        "avg": 0.2,
+        "ops": 0.915,
+        "ab": 25,
         "r": 5,
         "h": 5,
         "doubles": 0,
@@ -1241,12 +1184,12 @@
         "hr": 3,
         "rbi": 3,
         "tb": 14,
-        "slg": 0.583,
+        "slg": 0.56,
         "bb": 5,
         "hbp": 1,
-        "so": 7,
+        "so": 8,
         "gdp": 0,
-        "obp": 0.367,
+        "obp": 0.355,
         "sf": 0,
         "sh": 0,
         "sb": 0,
@@ -1254,12 +1197,12 @@
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 2,
+          "ab": 1,
           "r": 0,
           "h": 0,
           "rbi": 0,
@@ -1269,7 +1212,7 @@
         },
         "pitching": null
       },
-      "narrative": "0/2 with 0 RBI vs. Mercer (W 8-4). Hitting .208 with 3 HR through 12 games."
+      "narrative": "0/1 with 0 RBI vs. Mercer (L 2-3). Hitting .200 with 3 HR through 13 games."
     },
     "787174a0": {
       "id": "787174a0",
@@ -1305,23 +1248,8 @@
         "sb_att": 0
       },
       "season_pitching": null,
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Clemson",
-        "result": "L 3-9",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
-        "batting": {
-          "ab": 1,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "ph"
-        },
-        "pitching": null
-      },
-      "narrative": "0/1 with 0 RBI vs. Clemson (L 3-9). Hitting .000 with 0 HR through 2 games."
+      "last_game": null,
+      "narrative": null
     },
     "3a04122b": {
       "id": "3a04122b",
@@ -1333,47 +1261,47 @@
       "num": "32",
       "school": "The Citadel",
       "season_batting": {
-        "g": 20,
-        "gs": 17,
-        "avg": 0.258,
-        "ops": 0.766,
-        "ab": 66,
+        "g": 21,
+        "gs": 18,
+        "avg": 0.261,
+        "ops": 0.77,
+        "ab": 69,
         "r": 11,
-        "h": 17,
+        "h": 18,
         "doubles": 2,
         "triples": 0,
         "hr": 3,
         "rbi": 13,
-        "tb": 28,
-        "slg": 0.424,
-        "bb": 6,
+        "tb": 29,
+        "slg": 0.42,
+        "bb": 7,
         "hbp": 3,
-        "so": 10,
+        "so": 11,
         "gdp": 2,
-        "obp": 0.342,
+        "obp": 0.35,
         "sf": 1,
         "sh": 2,
-        "sb": 3,
-        "sb_att": 3
+        "sb": 5,
+        "sb_att": 5
       },
       "season_pitching": null,
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 2,
-          "r": 2,
+          "ab": 3,
+          "r": 0,
           "h": 1,
           "rbi": 0,
-          "bb": 0,
-          "so": 0,
+          "bb": 1,
+          "so": 1,
           "pos": "lf"
         },
         "pitching": null
       },
-      "narrative": "1/2 with 0 RBI vs. Mercer (W 8-4). Hitting .257 with 3 HR through 20 games."
+      "narrative": "1/3 with 0 RBI vs. Mercer (L 2-3). Hitting .260 with 3 HR through 21 games."
     },
     "fbeb962c": {
       "id": "fbeb962c",
@@ -1387,25 +1315,52 @@
       "season_batting": null,
       "season_pitching": {
         "era": 0.0,
-        "whip": 1.06,
+        "whip": 0.97,
         "w": 0,
         "l": 0,
-        "sv": 0,
-        "g": 6,
+        "sv": 1,
+        "g": 7,
         "gs": 0,
-        "ip": 10.1,
-        "h": 7,
+        "ip": 12.1,
+        "h": 8,
         "r": 3,
         "er": 0,
         "bb": 4,
-        "so": 8,
+        "so": 9,
         "hr": 1,
-        "hbp": 0,
+        "hbp": 1,
         "wp": 1,
-        "opp_avg": ".189"
+        "opp_avg": ".182"
       },
-      "last_game": null,
-      "narrative": null
+      "last_game": {
+        "date": "2026-03-22",
+        "opponent": "Mercer",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
+        "batting": {
+          "ab": 0,
+          "r": 0,
+          "h": 0,
+          "rbi": 0,
+          "bb": 0,
+          "so": 0,
+          "pos": "p"
+        },
+        "pitching": {
+          "ip": "2.0",
+          "h": 1,
+          "r": 0,
+          "er": 0,
+          "bb": 0,
+          "so": 1,
+          "wp": 0,
+          "hbp": 1,
+          "w": 0,
+          "l": 0,
+          "sv": 1
+        }
+      },
+      "narrative": "2.0 IP, 1 K vs. Mercer (L 2-3). At 0.00 ERA through 12.1 innings on the season."
     },
     "f8ef9446": {
       "id": "f8ef9446",
@@ -1642,35 +1597,8 @@
         "wp": 0,
         "opp_avg": ".143"
       },
-      "last_game": {
-        "date": "2026-03-18",
-        "opponent": "Clemson",
-        "result": "L 3-9",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11962&path=baseball",
-        "batting": {
-          "ab": 0,
-          "r": 0,
-          "h": 0,
-          "rbi": 0,
-          "bb": 0,
-          "so": 0,
-          "pos": "p"
-        },
-        "pitching": {
-          "ip": "3.1",
-          "h": 0,
-          "r": 0,
-          "er": 0,
-          "bb": 1,
-          "so": 1,
-          "wp": 0,
-          "hbp": 0,
-          "w": 0,
-          "l": 0,
-          "sv": 0
-        }
-      },
-      "narrative": "3.1 IP, 1 K vs. Clemson (L 3-9). At 2.20 ERA through 4.1 innings on the season."
+      "last_game": null,
+      "narrative": null
     },
     "696699c3": {
       "id": "696699c3",
@@ -1738,41 +1666,53 @@
         "sb_att": 2
       },
       "season_pitching": {
-        "era": 7.98,
-        "whip": 1.57,
-        "w": 1,
+        "era": 6.75,
+        "whip": 1.45,
+        "w": 2,
         "l": 1,
         "sv": 3,
-        "g": 7,
-        "gs": 0,
-        "ip": 14.2,
-        "h": 17,
-        "r": 13,
-        "er": 13,
-        "bb": 6,
-        "so": 23,
+        "g": 8,
+        "gs": 1,
+        "ip": 20.0,
+        "h": 21,
+        "r": 15,
+        "er": 15,
+        "bb": 8,
+        "so": 30,
         "hr": 2,
-        "hbp": 4,
+        "hbp": 5,
         "wp": 1,
-        "opp_avg": ".274"
+        "opp_avg": ".263"
       },
       "last_game": {
-        "date": "2026-03-21",
+        "date": "2026-03-22",
         "opponent": "Mercer",
-        "result": "W 8-4",
-        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11964&path=baseball",
+        "result": "L 2-3",
+        "boxscore_url": "https://www.citadelsports.com/boxscore.aspx?id=11965&path=baseball",
         "batting": {
-          "ab": 4,
-          "r": 1,
-          "h": 2,
+          "ab": 0,
+          "r": 0,
+          "h": 0,
           "rbi": 0,
           "bb": 0,
           "so": 0,
-          "pos": "1b"
+          "pos": "p"
         },
-        "pitching": null
+        "pitching": {
+          "ip": "5.1",
+          "h": 4,
+          "r": 2,
+          "er": 2,
+          "bb": 2,
+          "so": 7,
+          "wp": 0,
+          "hbp": 1,
+          "w": 1,
+          "l": 0,
+          "sv": 0
+        }
       },
-      "narrative": "2/4 with 0 RBI vs. Mercer (W 8-4). Hitting .315 with 0 HR through 12 games."
+      "narrative": "5.1 IP, 7 K, 2 ER vs. Mercer (L 2-3). At 6.75 ERA through 20.0 innings on the season."
     },
     "2cee2df1": {
       "id": "2cee2df1",

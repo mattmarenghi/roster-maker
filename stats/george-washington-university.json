@@ -2,24 +2,24 @@
   "school": "George Washington University",
   "base_url": "https://gwsports.com",
   "season": "2026",
-  "generated_at": "2026-03-22T07:33:35.675608Z",
+  "generated_at": "2026-03-23T04:45:26.395037Z",
   "record": "18-29",
   "most_recent_game": {
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "opponent": "Saint Joseph S",
-    "result": "W 6-5",
-    "boxscore_url": "https://gwsports.com/sports/baseball/stats/2026/saint-joseph-s/boxscore/15338",
-    "recap_url": "https://gwsports.com/news/2026/3/21/baseball-drops-middle-game-of-series-at-saint-joseph-s",
+    "result": "W 7-5",
+    "boxscore_url": "https://gwsports.com/sports/baseball/stats/2026/saint-joseph-s/boxscore/15339",
+    "recap_url": "https://gwsports.com/news/2026/3/22/baseball-falls-at-saint-josephs-in-series-finale",
     "recap_headline": "George Washington University Athletics",
-    "recap_text": "The George Washington baseball team dropped the middle game of its weekend series at Saint Joseph's on Saturday, falling to the Hawks, 6-5. GW drops to 8-13 on the season and 2-3 in Atlantic 10 matchups.\nAfter SJU jumped out to a quick 2-0 lead in the first, GW bounced back with three runs of its own to snag the early advantage.\nConlon Walker\ngot the score started with a sacrifice fly to right field, scoring\nBrodie Freker\nfrom third.\nMichael Bravette\nknotted the game up at two with an RBI single to right, scoring\nCristino Tufano\n.\nRobbie Lavey\ngave GW its first lead of the afternoon on an RBI groundout to second base, plating\nNick Mullen\n.\nBoth teams went quiet in the third before Saint Joseph's tied the game up once again on a solo home run.\nGW starter\nAndrew Cutler\nwas ultimately pulled following the fifth inning, finishing with three strikeouts and three earned runs in the no-decision.\nThe Buff & Blue recaptured a 4-3 lead in the sixth on another sacrifice fly from Walker, but the Hawks wiped the advantage away in the bottom of the inning on a wild pitch from GW reliever\nColin Lebel\n.\nThe game's final three runs came in the seventh, with GW taking a 5-4 lead in the top of the inning.\nCharlie Rogan\ntallied his first RBI of the series with a sac fly to center field, scoring Bravette from third base. SJU took the lead in the bottom of the inning on a two-RBI single to left center, a lead they would keep the rest of the way.\nLebel was charged with the loss after tossing three innings in relief. He struck out two batters, and only one run was earned on his watch. Lebel is now 0-1 on the season.\nThe Revolutionaries look to salvage a win in the series finale tomorrow, with first pitch slated for 1:00 p.m. on ESPN+.",
-    "watch_url": null
+    "recap_text": "The George Washington baseball team concluded its trip to Saint Joseph's this weekend with a 7-5 loss to the Hawks on Sunday. GW drops to 8-14 on the year and 2-4 in Atlantic 10 games.\nThe game featured early offense from both sides, with 10 of the 12 runs scored before the fifth inning. The Hawks jumped ahead in the first and never looked back, plating five in the opening frame to take a commanding lead.\nThe Revolutionaries scored one in the second on a\nJosh Wenz\nRBI single up the middle, but SJU answered right back with two more runs to make it 7-1.\nJack Kent\nsingled through the right side to plate\nMichael Bravette\nin the third, and\nCristino Tufano\ntripled to bring home Wenz in the fourth, pulling GW to a 7-3 deficit.\nIn the ninth,\nConlon Walker\ndrove in\nRobbie Lavey\non a fielder's choice, and\nCharlie Walsh\nwalked with the bases loaded to get the Buff & Blue within two, but the Revolutionaries couldn't take advantage of the tying run in scoring position to extend the game.\nLiam Thyen\nearned his third start of the season on the mound. Six different GW pitchers saw action on the day, with\nMatt Bruno\n(2.2 innings),\nGavin Miller\n(3.0 innings) and\nDeclan Wywoda\n(1.0 innings) all having scoreless outings.\nGW turns its attention to VMI, which travels to Tucker Field on Tuesday for a midweek matchup. First pitch against the Keydets is set for 3:00 p.m. on ESPN+.",
+    "watch_url": "https://www.espn.com/watch/player/_/id/b5429d41-ff10-4e7a-99ab-2836c4992381"
   },
   "next_game": {
-    "date": "2026-03-22",
-    "opponent": "Saint Joseph's",
-    "home_away": "away",
-    "time_et": "1:00 PM ET",
-    "watch_url": "https://www.espn.com/watch/player/_/id/b5429d41-ff10-4e7a-99ab-2836c4992381"
+    "date": "2026-03-24",
+    "opponent": "VMI",
+    "home_away": "home",
+    "time_et": "3:00 PM ET",
+    "watch_url": "https://www.espn.com/watch/player/_/id/286b1244-c4e8-4ac6-b409-13ce90903f75"
   },
   "players": {},
   "narratives_generated_by": "claude-haiku-4-5-20251001"
