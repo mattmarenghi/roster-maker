@@ -451,16 +451,19 @@
     }
     .pc-watch-link {
       display: block;
-      margin-top: 6px;
+      margin: 10px auto 2px;
+      width: fit-content;
+      padding: 7px 18px;
       font-size: 0.8rem;
-      font-weight: 600;
-      color: #e05c00;
+      font-weight: 700;
+      color: #fff;
+      background: #e05c00;
+      border-radius: 999px;
       text-decoration: none;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
+      letter-spacing: 0.03em;
     }
     .pc-watch-link:hover {
-      text-decoration: underline;
+      background: #c44f00;
     }
     .pc-no-stats {
       font-size: 0.875rem;
@@ -1769,7 +1772,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.89 (claude/split-season-stats-layout-Ci6CW)</div>`;
+        <div class="ps-version">VERSION 2.5.90 (claude/upgrade-watch-button-THNt3)</div>`;
       return;
     }
 
@@ -1811,7 +1814,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.89 (claude/split-season-stats-layout-Ci6CW)</div>`;
+      <div class="ps-version">VERSION 2.5.90 (claude/upgrade-watch-button-THNt3)</div>`;
   }
 
   async function signOut() {
@@ -2120,6 +2123,21 @@
     return ['Sun','Mon','Tue','Wed','Thur','Fri','Sat'][date.getDay()];
   }
 
+  function watchLabel(url) {
+    if (!url) return 'Watch Live';
+    try {
+      const host = new URL(url).hostname.replace(/^www\./, '');
+      if (host === 'espn.com' || host === 'plus.espn.com') return 'Watch on ESPN+';
+      if (host === 'bigtenplus.com') return 'Watch on Big Ten Network+';
+      if (host === 'midcosportsplus.com') return 'Watch on Midco Sports+';
+      if (host.includes('flo')) return 'Watch on FloSports';
+      if (host === 'themw.com') return 'Watch on Mountain West';
+      if (host === 'americaeast.tv' || host === 'americaeast.com') return 'Watch on America East';
+      if (host === 'youtube.com') return 'Watch on YouTube';
+    } catch (e) { /* fall through */ }
+    return 'Watch Live';
+  }
+
   function fmtGameMeta(lg) {
     const resultMap = { 'W': 'Win', 'L': 'Loss' };
     const resultText = lg.result ? (resultMap[lg.result] || lg.result) : null;
@@ -2276,7 +2294,7 @@
       const timePart = ng.time_et && ng.time_et !== 'TBA' ? ` ${ng.time_et}` : '';
       const nextGameText = `${dow} ${dateStr}${timePart} ${connector} ${ng.opponent}`;
       const ngWatchLink = ng.watch_url
-        ? `<a class="pc-watch-link" href="${escapeHTML(ng.watch_url)}" target="_blank" rel="noopener noreferrer">Watch &#8599;</a>`
+        ? `<a class="pc-watch-link" href="${escapeHTML(ng.watch_url)}" target="_blank" rel="noopener noreferrer">${watchLabel(ng.watch_url)}</a>`
         : '';
       nextGameHTML = `
         <div class="pc-stats-label">NEXT GAME</div>
@@ -2287,7 +2305,7 @@
     const mrg = schoolData ? schoolData.most_recent_game : null;
     const lgWatchUrl = (lg && mrg && mrg.watch_url && lg.date === mrg.date) ? mrg.watch_url : null;
     const lgWatchLink = lgWatchUrl
-      ? `<a class="pc-watch-link" href="${escapeHTML(lgWatchUrl)}" target="_blank" rel="noopener noreferrer">Watch &#8599;</a>`
+      ? `<a class="pc-watch-link" href="${escapeHTML(lgWatchUrl)}" target="_blank" rel="noopener noreferrer">${watchLabel(lgWatchUrl)}</a>`
       : '';
 
     if (role === 'pitcher') {
