@@ -1471,14 +1471,17 @@
     if (removing) { favorites.delete(id); } else { favorites.add(id); }
     showFavToast(removing);
 
-    // Close modal with slide-down, then exit search and re-render
+    // Close modal with slide-down, then exit search and re-render.
+    // scrollToAndHighlightCard is delayed until after the 250ms modal close
+    // animation so the smooth scroll is visible rather than happening behind
+    // the overlay.
     closePlayerModal(true);
     exitSearchMode();
 
     if (removing) {
       renderHomepage();
     } else {
-      scrollToAndHighlightCard(id);
+      setTimeout(() => scrollToAndHighlightCard(id), 270);
     }
 
     // Persist
@@ -1700,7 +1703,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.83 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
+        <div class="ps-version">VERSION 2.5.84 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
       return;
     }
 
@@ -1742,7 +1745,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.83 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
+      <div class="ps-version">VERSION 2.5.84 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
   }
 
   async function signOut() {
