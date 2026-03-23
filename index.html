@@ -1699,7 +1699,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.81 (claude/fix-player-name-parsing-WIK98)</div>`;
+        <div class="ps-version">VERSION 2.5.82 (claude/search-keyboard-behavior-vmwx1)</div>`;
       return;
     }
 
@@ -1741,7 +1741,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.81 (claude/fix-player-name-parsing-WIK98)</div>`;
+      <div class="ps-version">VERSION 2.5.82 (claude/search-keyboard-behavior-vmwx1)</div>`;
   }
 
   async function signOut() {
@@ -1797,6 +1797,12 @@
   }
 
   $('searchOverlay').addEventListener('click', () => exitSearchMode());
+  // Dismiss keyboard immediately on first touch of the overlay (don't wait for click delay)
+  $('searchOverlay').addEventListener('touchstart', () => { $('searchBox').blur(); }, { passive: true });
+
+  // Dismiss keyboard when user touches the results list (scroll or tap a result)
+  // This mimics native app behavior: keyboard hides as soon as you engage the list.
+  $('searchResults').addEventListener('touchstart', () => { $('searchBox').blur(); }, { passive: true });
 
   $('searchBox').addEventListener('focus', () => {
     enterSearchMode();
