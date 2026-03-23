@@ -1446,7 +1446,9 @@
         if (!btn) return;
         const card = btn.closest('.player-card');
         if (!card) return;
-        card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        const headerH = ($('topBar')?.offsetHeight ?? 0) + 8;
+        const cardTop = card.getBoundingClientRect().top + window.scrollY - headerH;
+        window.scrollTo({ top: cardTop, behavior: 'smooth' });
         card.classList.add('card-just-added');
         setTimeout(() => card.classList.remove('card-just-added'), 1800);
       });
@@ -1703,7 +1705,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.84 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
+        <div class="ps-version">VERSION 2.5.85 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
       return;
     }
 
@@ -1745,7 +1747,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.84 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
+      <div class="ps-version">VERSION 2.5.85 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
   }
 
   async function signOut() {
