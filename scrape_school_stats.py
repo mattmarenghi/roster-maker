@@ -34,6 +34,24 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+# Lazy imports for enrichment helpers — only used during narrative generation.
+# These live in the same directory; failure to import just degrades gracefully.
+def _load_rankings_context(school_name: str) -> dict:
+    try:
+        from scrape_rankings import load_rankings_context
+        return load_rankings_context(school_name)
+    except Exception:
+        return {"ranked": False, "rank": None, "rank_change": None, "display": None}
+
+
+def _load_standings_context(school_name: str, conf_name: str) -> dict:
+    try:
+        from scrape_standings import load_standings_context
+        return load_standings_context(school_name, conf_name)
+    except Exception:
+        return {"available": False}
+
+
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
@@ -1528,27 +1546,377 @@ def parse_boxscore_name(raw: str) -> tuple[str, str]:
 
 
 # ---------------------------------------------------------------------------
+# Full game log extraction from bio API
+# ---------------------------------------------------------------------------
+
+def parse_bio_full_game_log(bio: dict) -> dict:
+    """
+    Extract the complete game-by-game log from a SIDEARM bio API response.
+
+    Returns:
+      {
+        "batting": [{"date": "2026-03-21", "opponent": "...", "result": "W 8-6",
+                     "ab": 4, "h": 2, "hr": 1, "rbi": 2, "bb": 0, "so": 1,
+                     "doubles": 0, "triples": 0, "r": 1}, ...],
+        "pitching": [{"date": "...", "opponent": "...", "result": "...",
+                      "ip": "6.0", "ip_float": 6.0, "h": 4, "r": 1, "er": 1,
+                      "bb": 2, "so": 7, "w": 1, "l": 0, "sv": 0}, ...]
+      }
+    """
+    if not isinstance(bio, dict):
+        return {"batting": [], "pitching": []}
+
+    def _find_log(key1: str, key2: str) -> list:
+        current = bio.get("currentStats")
+        if isinstance(current, dict):
+            log = current.get(key1) or current.get(key2)
+            if isinstance(log, list):
+                return log
+        section = bio.get(key1) or bio.get(key2)
+        if isinstance(section, dict):
+            for k in ("gameLog", "gameLogs", "game_log", "games", "log"):
+                if isinstance(section.get(k), list):
+                    return section[k]
+        return []
+
+    def _safe_int(val) -> int:
+        try:
+            return int(val) if val not in (None, "", "-") else 0
+        except (ValueError, TypeError):
+            return 0
+
+    def _gf(entry: dict, *keys):
+        for k in keys:
+            v = entry.get(k)
+            if v is not None:
+                return v
+        return None
+
+    def _ip_float(ip_str) -> float:
+        try:
+            s = str(ip_str or "0").split("+")[0]
+            # SIDEARM uses ".1" and ".2" for ⅓ and ⅔
+            parts = s.split(".")
+            if len(parts) == 2:
+                return int(parts[0]) + int(parts[1]) / 3
+            return float(s)
+        except (ValueError, TypeError):
+            return 0.0
+
+    bat_log_raw = _find_log("hittingStats", "batting")
+    pit_log_raw = _find_log("pitchingStats", "pitching")
+
+    batting = []
+    for entry in bat_log_raw:
+        if not isinstance(entry, dict):
+            continue
+        ab = _safe_int(_gf(entry, "ab", "atBats", "AB"))
+        raw_date = _gf(entry, "date", "gameDate", "Date", "eventDate")
+        date_obj = _parse_bio_date(str(raw_date) if raw_date else "")
+        if not date_obj:
+            continue
+        opp_raw = str(_gf(entry, "opponent", "Opponent", "opponentName", "team") or "")
+        batting.append({
+            "date": date_obj.strftime("%Y-%m-%d"),
+            "opponent": re.sub(r"^(at\s+|@)", "", opp_raw, flags=re.IGNORECASE).strip() or "Unknown",
+            "result": str(_gf(entry, "result", "Result", "wl", "gameResult") or ""),
+            "ab": ab,
+            "h":       _safe_int(_gf(entry, "h", "hits", "H")),
+            "r":       _safe_int(_gf(entry, "r", "runsScored", "runs", "R")),
+            "rbi":     _safe_int(_gf(entry, "rbi", "runsBattedIn", "RBI")),
+            "bb":      _safe_int(_gf(entry, "bb", "walks", "BB")),
+            "so":      _safe_int(_gf(entry, "so", "k", "strikeouts", "SO", "K")),
+            "hr":      _safe_int(_gf(entry, "hr", "homeRuns", "HR")),
+            "doubles": _safe_int(_gf(entry, "2b", "doubles", "2B")),
+            "triples": _safe_int(_gf(entry, "3b", "triples", "3B")),
+            "sb":      _safe_int(_gf(entry, "sb", "stolenBases", "SB")),
+        })
+
+    pitching = []
+    for entry in pit_log_raw:
+        if not isinstance(entry, dict):
+            continue
+        ip_str = str(_gf(entry, "ip", "inningsPitched", "IP") or "0")
+        ipf = _ip_float(ip_str)
+        if ipf == 0.0:
+            continue
+        raw_date = _gf(entry, "date", "gameDate", "Date", "eventDate")
+        date_obj = _parse_bio_date(str(raw_date) if raw_date else "")
+        if not date_obj:
+            continue
+        opp_raw = str(_gf(entry, "opponent", "Opponent", "opponentName", "team") or "")
+        pitching.append({
+            "date": date_obj.strftime("%Y-%m-%d"),
+            "opponent": re.sub(r"^(at\s+|@)", "", opp_raw, flags=re.IGNORECASE).strip() or "Unknown",
+            "result": str(_gf(entry, "result", "Result", "wl", "gameResult") or ""),
+            "ip": ip_str,
+            "ip_float": ipf,
+            "h":   _safe_int(_gf(entry, "h", "hitsAllowed", "H")),
+            "r":   _safe_int(_gf(entry, "r", "runsAllowed", "R")),
+            "er":  _safe_int(_gf(entry, "er", "earnedRunsAllowed", "earnedRuns", "ER")),
+            "bb":  _safe_int(_gf(entry, "bb", "walksAllowed", "BB")),
+            "so":  _safe_int(_gf(entry, "so", "k", "strikeouts", "SO", "K")),
+            "w":   _safe_int(_gf(entry, "w", "wins", "pitchingWins", "W")),
+            "l":   _safe_int(_gf(entry, "l", "losses", "pitchingLosses", "L")),
+            "sv":  _safe_int(_gf(entry, "sv", "saves", "SV")),
+            "gs":  _safe_int(_gf(entry, "gs", "gamesStarted", "GS")),
+        })
+
+    # Sort both logs chronologically
+    batting.sort(key=lambda x: x["date"])
+    pitching.sort(key=lambda x: x["date"])
+
+    return {"batting": batting, "pitching": pitching}
+
+
+# ---------------------------------------------------------------------------
+# Signal extraction
+# ---------------------------------------------------------------------------
+
+_WINDOW = 5   # default rolling window (games)
+_WINDOW_P = 3  # pitcher window
+
+
+def compute_batter_signals(game_log: list[dict], season_batting: dict | None) -> dict:
+    """
+    Compute trend/streak/milestone signals for a batter.
+
+    `game_log` is a list of dicts from parse_bio_full_game_log["batting"],
+    sorted chronologically.
+    """
+    # Filter to plate appearances only
+    games_with_ab = [g for g in game_log if g.get("ab", 0) > 0]
+    if not games_with_ab:
+        return {}
+
+    last = games_with_ab[-1]
+    recent = games_with_ab[-_WINDOW:]   # last 5 games with AB
+
+    # Rolling window totals
+    w_ab  = sum(g["ab"]  for g in recent)
+    w_h   = sum(g["h"]   for g in recent)
+    w_hr  = sum(g["hr"]  for g in recent)
+    w_rbi = sum(g["rbi"] for g in recent)
+    w_r   = sum(g["r"]   for g in recent)
+    w_sb  = sum(g.get("sb", 0) for g in recent)
+    w_avg = round(w_h / w_ab, 3) if w_ab > 0 else 0.0
+
+    # Season avg from season stats (more reliable than summing game log)
+    s_ab = (season_batting or {}).get("ab", 0) or 0
+    s_h  = (season_batting or {}).get("h", 0) or 0
+    season_avg = round(s_h / s_ab, 3) if s_ab > 0 else 0.0
+
+    # Direction
+    delta = round(w_avg - season_avg, 3) if season_avg > 0 else 0.0
+    if delta >= 0.050:
+        direction = "hot"
+    elif delta <= -0.050:
+        direction = "cold"
+    elif delta >= 0.020:
+        direction = "warm"
+    else:
+        direction = "steady"
+
+    # Hit streak: consecutive games (from most recent backward) with h > 0
+    hit_streak = 0
+    for g in reversed(games_with_ab):
+        if g["h"] > 0:
+            hit_streak += 1
+        else:
+            break
+
+    # Hitless streak (only meaningful if >= 2)
+    hitless_streak = 0
+    for g in reversed(games_with_ab):
+        if g["h"] == 0:
+            hitless_streak += 1
+        else:
+            break
+
+    # HR streak
+    hr_streak = 0
+    for g in reversed(games_with_ab):
+        if g["hr"] > 0:
+            hr_streak += 1
+        else:
+            break
+
+    # Multi-hit count in window
+    multi_hit_in_window = sum(1 for g in recent if g["h"] >= 2)
+
+    # Season highs — compare last game to all prior games
+    prior = games_with_ab[:-1]
+    sh_h   = max((g["h"]   for g in prior), default=0)
+    sh_hr  = max((g["hr"]  for g in prior), default=0)
+    sh_rbi = max((g["rbi"] for g in prior), default=0)
+    season_high_h   = last["h"]   >= sh_h   and last["h"]   > 0 if prior else False
+    season_high_hr  = last["hr"]  >= sh_hr  and last["hr"]  > 0 if prior else False
+    season_high_rbi = last["rbi"] >= sh_rbi and last["rbi"] > 0 if prior else False
+
+    return {
+        "type": "batter",
+        "window": len(recent),
+        "window_ab": w_ab,
+        "window_h": w_h,
+        "window_hr": w_hr,
+        "window_rbi": w_rbi,
+        "window_r": w_r,
+        "window_sb": w_sb,
+        "window_avg": w_avg,
+        "season_avg": season_avg,
+        "delta": delta,
+        "direction": direction,
+        "hit_streak": hit_streak,
+        "hitless_streak": hitless_streak,
+        "hr_streak": hr_streak,
+        "multi_hit_in_window": multi_hit_in_window,
+        "season_high_h": season_high_h,
+        "season_high_hr": season_high_hr,
+        "season_high_rbi": season_high_rbi,
+        "games_played": len(games_with_ab),
+    }
+
+
+def compute_pitcher_signals(game_log: list[dict], season_pitching: dict | None) -> dict:
+    """
+    Compute trend/streak/milestone signals for a pitcher.
+
+    `game_log` is a list of dicts from parse_bio_full_game_log["pitching"],
+    sorted chronologically.
+    """
+    if not game_log:
+        return {}
+
+    recent = game_log[-_WINDOW_P:]
+    last = game_log[-1]
+
+    # Rolling window totals
+    w_ip  = sum(g["ip_float"] for g in recent)
+    w_er  = sum(g["er"]       for g in recent)
+    w_so  = sum(g["so"]       for g in recent)
+    w_bb  = sum(g["bb"]       for g in recent)
+    w_h   = sum(g["h"]        for g in recent)
+
+    w_era  = round(w_er * 9 / w_ip, 2) if w_ip > 0 else 99.0
+    w_k9   = round(w_so * 9 / w_ip, 1) if w_ip > 0 else 0.0
+    w_whip = round((w_h + w_bb) / w_ip, 2) if w_ip > 0 else 99.0
+
+    # Season ERA
+    sp = season_pitching or {}
+    try:
+        s_ip = float(str(sp.get("ip", "0")).split("+")[0])
+    except (ValueError, TypeError):
+        s_ip = 0.0
+    s_er = sp.get("er", 0) or 0
+    season_era = round(s_er * 9 / s_ip, 2) if s_ip > 0 else 99.0
+
+    # Direction (only meaningful with 3+ career starts)
+    direction = "steady"
+    if len(game_log) >= 3 and season_era < 99.0:
+        era_delta = w_era - season_era
+        if era_delta <= -0.75:
+            direction = "dominant"
+        elif era_delta >= 0.75:
+            direction = "struggling"
+
+    # Quality start streak: 6+ IP, <= 3 ER
+    def is_quality_start(g: dict) -> bool:
+        return g["ip_float"] >= 6.0 and g["er"] <= 3
+
+    qs_streak = 0
+    for g in reversed(game_log):
+        if g.get("gs", 0) or g["ip_float"] >= 4.0:  # only count starts
+            if is_quality_start(g):
+                qs_streak += 1
+            else:
+                break
+
+    # Was last outing a start?
+    last_was_start = last.get("gs", 0) > 0 or last["ip_float"] >= 4.0
+
+    # K highs
+    prior = game_log[:-1]
+    max_k_prior = max((g["so"] for g in prior), default=0)
+    season_high_k = last["so"] >= max_k_prior and last["so"] > 0 if prior else False
+
+    return {
+        "type": "pitcher",
+        "window": len(recent),
+        "window_ip": round(w_ip, 1),
+        "window_era": w_era,
+        "window_k9": w_k9,
+        "window_whip": w_whip,
+        "season_era": season_era,
+        "direction": direction,
+        "qs_streak": qs_streak,
+        "last_was_start": last_was_start,
+        "last_k": last["so"],
+        "last_ip_float": last["ip_float"],
+        "season_high_k": season_high_k,
+        "appearances": len(game_log),
+    }
+
+
+def extract_recap_mentions(article_text: str, last_name: str) -> list[str]:
+    """
+    Extract sentences from a game recap that mention the player's last name.
+    Returns up to 3 most relevant sentences.
+    """
+    if not article_text or not last_name:
+        return []
+    # Split into sentences
+    sentences = re.split(r'(?<=[.!?])\s+', article_text.strip())
+    mentions = [s.strip() for s in sentences if last_name.lower() in s.lower()]
+    return mentions[:3]
+
+
+def format_avg(avg: float) -> str:
+    """Format a batting average as '.312'."""
+    return f".{int(avg * 1000):03d}"
+
+
+def format_ip(ip_float: float) -> str:
+    """Format innings pitched from float (6.333 → '6.1', 6.667 → '6.2')."""
+    whole = int(ip_float)
+    frac = ip_float - whole
+    if frac < 0.2:
+        return f"{whole}.0"
+    elif frac < 0.5:
+        return f"{whole}.1"
+    else:
+        return f"{whole}.2"
+
+
+# ---------------------------------------------------------------------------
 # Narrative generation
 # ---------------------------------------------------------------------------
 
-def generate_narrative_claude(player: dict, game_info: dict, article_text: str) -> str:
-    """Generate a compact narrative using Claude API."""
+def generate_narrative_claude(player: dict, game_info: dict, article_text: str,
+                               signals: dict | None = None,
+                               rankings_ctx: dict | None = None,
+                               standings_ctx: dict | None = None) -> str:
+    """Generate a narrative using Claude API, enriched with signals."""
     try:
         import anthropic
     except ImportError:
-        return generate_narrative_template(player, game_info)
+        return generate_narrative_template(player, game_info, signals)
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        return generate_narrative_template(player, game_info)
+        return generate_narrative_template(player, game_info, signals)
 
     client = anthropic.Anthropic(api_key=api_key)
 
-    # Build last-game stats string
     last_game = player.get("last_game", {})
-    batting = last_game.get("batting")
-    pitching = last_game.get("pitching")
+    batting   = last_game.get("batting")
+    pitching  = last_game.get("pitching")
+    opponent  = game_info.get("opponent", "the opponent")
+    date_str  = game_info.get("date", "")
+    result    = game_info.get("result", "")
+    last_name = player["name"].split()[-1]
+    sig       = signals or {}
 
+    # --- Last game stat line ---
     if batting and batting.get("ab", 0) > 0:
         b = batting
         parts = [f"{b['h']}-for-{b['ab']}"]
@@ -1558,115 +1926,237 @@ def generate_narrative_claude(player: dict, game_info: dict, article_text: str) 
         if b.get("rbi"):     parts.append(f"{b['rbi']} RBI")
         if b.get("r"):       parts.append(f"{b['r']} R")
         if b.get("bb"):      parts.append(f"{b['bb']} BB")
-        if b.get("so"):      parts.append(f"{b['so']} K")
-        stats_str = "Batting: " + ", ".join(parts)
+        if b.get("sb"):      parts.append(f"{b['sb']} SB")
+        last_game_str = "Batting: " + ", ".join(parts)
     elif pitching and str(pitching.get("ip", "0")) not in ("0", "0.0"):
         p = pitching
-        stats_str = (
+        last_game_str = (
             f"Pitching: {p['ip']} IP, {p['h']} H, {p['er']} ER, {p['bb']} BB, {p['so']} K"
         )
-        if p.get("wp"):  stats_str += f", {p['wp']} WP"
-        if p.get("hbp"): stats_str += f", {p['hbp']} HBP"
-        if p.get("w"):   stats_str += " (W)"
-        elif p.get("l"): stats_str += " (L)"
-        elif p.get("sv"): stats_str += " (SV)"
+        if p.get("w"):   last_game_str += " (W)"
+        elif p.get("l"): last_game_str += " (L)"
+        elif p.get("sv"): last_game_str += " (SV)"
     else:
-        return ""  # player didn't appear in this game
+        return ""
 
-    # Build season context string
+    # --- Season context ---
     sb = player.get("season_batting") or {}
     sp = player.get("season_pitching") or {}
-    season_lines = []
+    season_parts = []
     if sb.get("ab", 0) > 0:
         ba = sb["h"] / sb["ab"]
-        season_lines.append(
-            f"{sb.get('g', '?')} G, .{int(ba * 1000):03d} AVG, "
-            f"{sb['h']} H, {sb.get('hr', 0)} HR, {sb['rbi']} RBI, {sb.get('bb', 0)} BB"
+        season_parts.append(
+            f"{sb.get('g', '?')} G, {format_avg(ba)} AVG, "
+            f"{sb['h']} H, {sb.get('hr', 0)} HR, {sb['rbi']} RBI"
         )
     if sp.get("ip") and str(sp.get("ip", "0")) not in ("0", "0.0"):
         try:
             ip_f = float(str(sp["ip"]).split("+")[0])
-            era = round(sp.get("er", 0) * 9 / ip_f, 2) if ip_f > 0 else 0.0
-            k9  = round(sp.get("so", 0) * 9 / ip_f, 1) if ip_f > 0 else 0.0
+            era  = round(sp.get("er", 0) * 9 / ip_f, 2) if ip_f > 0 else 0.0
+            k9   = round(sp.get("so", 0) * 9 / ip_f, 1) if ip_f > 0 else 0.0
         except (ValueError, TypeError):
-            era = 0.0
-            k9  = 0.0
-        season_lines.append(
+            era, k9 = 0.0, 0.0
+        season_parts.append(
             f"{sp['ip']} IP, {sp.get('so', 0)} K, {era:.2f} ERA, {k9:.1f} K/9"
         )
-    season_str = ("Season: " + " | ".join(season_lines)) if season_lines else ""
+    season_str = ("Season: " + " | ".join(season_parts)) if season_parts else ""
 
-    opponent  = game_info.get("opponent", "the opponent")
-    date      = game_info.get("date", "")
-    result    = game_info.get("result", "")
-    last_name = player["name"].split()[-1]
+    # --- Trend / streak block ---
+    trend_lines = []
+    if sig.get("type") == "batter":
+        w = sig.get("window", 0)
+        w_avg = sig.get("window_avg", 0)
+        direction = sig.get("direction", "steady")
+        if w >= 3 and direction in ("hot", "warm"):
+            trend_lines.append(
+                f"Hitting {format_avg(w_avg)} over last {w} games "
+                f"(season avg: {format_avg(sig.get('season_avg', 0))})"
+            )
+        elif w >= 3 and direction == "cold":
+            trend_lines.append(
+                f"Hitting {format_avg(w_avg)} over last {w} games "
+                f"(season avg: {format_avg(sig.get('season_avg', 0))})"
+            )
+        if sig.get("hit_streak", 0) >= 4:
+            trend_lines.append(f"Hit streak: {sig['hit_streak']} games")
+        if sig.get("hr_streak", 0) >= 2:
+            trend_lines.append(f"HR in {sig['hr_streak']} straight games")
+        if sig.get("window_hr", 0) >= 3 and not sig.get("hr_streak", 0) >= 2:
+            trend_lines.append(f"{sig['window_hr']} HR in last {w} games")
+        if sig.get("season_high_hr"):
+            trend_lines.append("Matched/set season high in HR")
+        if sig.get("season_high_rbi"):
+            trend_lines.append("Matched/set season high in RBI")
+    elif sig.get("type") == "pitcher":
+        w = sig.get("window", 0)
+        w_era = sig.get("window_era", 99)
+        direction = sig.get("direction", "steady")
+        if w >= 2 and w_era < 99:
+            trend_lines.append(
+                f"{w_era:.2f} ERA over last {w} outings "
+                f"(season ERA: {sig.get('season_era', 0):.2f})"
+            )
+        if sig.get("qs_streak", 0) >= 2:
+            trend_lines.append(f"Quality start streak: {sig['qs_streak']}")
+        if sig.get("season_high_k"):
+            trend_lines.append(f"Season-high {sig.get('last_k')} strikeouts")
+    trend_str = ("Trends/Streaks: " + " | ".join(trend_lines)) if trend_lines else ""
 
-    prompt = f"""You are writing a compact player spotlight for a college baseball scouting database, read on mobile. Brevity matters.
+    # --- Team & standings context ---
+    team_parts = []
+    r_ctx = rankings_ctx or {}
+    s_ctx = standings_ctx or {}
+    record = player.get("record") or game_info.get("team_record", "")
+    if record:
+        team_parts.append(f"Record: {record}")
+    if r_ctx.get("ranked"):
+        display = r_ctx["display"]
+        change = r_ctx.get("rank_change")
+        if change == "new":
+            team_parts.append(f"National ranking: {display} (newly ranked)")
+        elif isinstance(change, int) and change > 0:
+            team_parts.append(f"National ranking: {display} (up {change})")
+        elif isinstance(change, int) and change < 0:
+            team_parts.append(f"National ranking: {display} (down {abs(change)})")
+        else:
+            team_parts.append(f"National ranking: {display}")
+    if s_ctx.get("available"):
+        rank = s_ctx.get("conf_rank")
+        total = s_ctx.get("total_teams")
+        cw    = s_ctx.get("conf_w")
+        cl    = s_ctx.get("conf_l")
+        gb    = s_ctx.get("games_back")
+        streak = s_ctx.get("streak", "")
+        if rank and total:
+            gb_str = f", {gb} GB" if gb and gb > 0 else " (1st)"
+            team_parts.append(
+                f"Conference: {rank}/{total} ({cw}-{cl}){gb_str} | Streak: {streak}"
+            )
+        if s_ctx.get("narrative"):
+            team_parts.append(f"Standings movement: {s_ctx['narrative']}")
+    team_str = ("Team context: " + " | ".join(team_parts)) if team_parts else ""
 
-Player: {player['name']} (last name: {last_name}) | {player.get('pos', '')} | {player.get('yr', '')} | {player.get('school', '')}
-Game ({date}): vs {opponent} — {"W" if result == "W" else "L"}
-{stats_str}
+    # --- Recap snippets ---
+    recap_mentions = extract_recap_mentions(article_text or "", last_name)
+    recap_str = ""
+    if recap_mentions:
+        recap_str = "Recap mentions:\n" + "\n".join(f"- {s}" for s in recap_mentions)
+
+    system_prompt = """You are a college baseball color commentator writing a 2-3 sentence "Recent Performance" blurb for a player card in a fan tracking app.
+
+Tone: knowledgeable but accessible — a friend who watches every game, not an ESPN anchor.
+
+PRIORITY ORDER for what to lead with:
+1. Active streak or trend (if notable — hit streak, HR streak, ERA trend)
+2. Standout moment from the last game (walkoff, career high, clutch spot from recap)
+3. Last game line woven into team context
+4. Season milestone or national recognition
+
+CONTEXT WEAVING RULES:
+- If the team is nationally ranked, include the rank naturally ("as #5 Texas" not just "Texas")
+- If standings movement is provided AND the player contributed in that game, connect them naturally
+- If the team is in a tight conference race (within 1.5 GB), mention it when relevant
+- Don't force standings/rankings into every narrative — only when they add genuine meaning
+- If opponent was ranked, note it
+
+DO NOT:
+- List stats without context
+- Use generic filler like "had a solid outing"
+- Ignore the team's win/loss situation
+- Use the same sentence structure every time
+- Open with the player's full name (the card already shows it)
+- Use position abbreviations (RHP, LHP, 1B, etc.)
+- Use negative language (struggled, failed, couldn't, inconsistent, unraveled)
+- Write scouting opinions or projections — facts only
+
+Format: 2-3 sentences, ~40-65 words. No markdown. Mix past tense (events) with present tense (trends)."""
+
+    user_msg = f"""Generate a Recent Performance narrative for this player.
+
+PLAYER: {player['name']} | {player.get('pos', '')} | {player.get('yr', '')} | {player.get('school', '')}
+LAST GAME ({date_str} vs {opponent} — {result}): {last_game_str}
 {season_str}
-
-Game recap:
-{article_text[:2500] if article_text else '[No recap available]'}
-
-Write 2 tight sentences — 3 only if a third adds something a scout genuinely needs. Lead with the most specific detail available: pull a situation or moment from the recap (a key at-bat, a jam, a specific inning) rather than just restating the stat line. The final sentence anchors the season context concisely.
-
-Rules:
-- No negative or critical evaluations (no "struggled", "failed to", "couldn't", "inconsistent", "hasn't translated", "unraveled")
-- Positive-leaning observations are fine if supported by the stats
-- Never refer to the player by position abbreviation (RHP, LHP, 1B, etc.) — use last name or a natural pronoun
-- Do not open with a generic "went X-for-Y" — find a more specific entry point when possible
-- Facts and stats only; no scouting opinions or projections
-- No markdown. Past tense."""
+{trend_str}
+{team_str}
+{recap_str}""".strip()
 
     try:
         message = client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=200,
-            messages=[{"role": "user", "content": prompt}],
+            max_tokens=220,
+            messages=[{"role": "user", "content": user_msg}],
+            system=system_prompt,
         )
         return message.content[0].text.strip()
     except Exception as e:
         print(f"  Claude API error for {player['name']}: {e}", file=sys.stderr)
-        return generate_narrative_template(player, game_info)
+        return generate_narrative_template(player, game_info, signals)
 
 
-def generate_narrative_template(player: dict, game_info: dict) -> str:
-    """Fallback template-based narrative when Claude API is unavailable."""
+def generate_narrative_template(player: dict, game_info: dict,
+                                 signals: dict | None = None) -> str:
+    """Fallback template-based narrative — trend-aware when signals are available."""
     last_game = player.get("last_game", {})
-    batting = last_game.get("batting")
-    pitching = last_game.get("pitching")
-    opponent = game_info.get("opponent", "the opponent")
-    result = game_info.get("result", "")
+    batting   = last_game.get("batting")
+    pitching  = last_game.get("pitching")
+    opponent  = game_info.get("opponent", "the opponent")
+    result    = game_info.get("result", "")
+    sig       = signals or {}
 
     has_meaningful_pitch = pitching and str(pitching.get("ip", "0")) not in ("0", "0.0")
-    has_meaningful_bat = batting and batting.get("ab", 0) > 0
+    has_meaningful_bat   = batting and batting.get("ab", 0) > 0
 
     if not has_meaningful_pitch and not has_meaningful_bat:
         return ""
 
-    # Build season context suffix
+    # --- Season context suffix ---
     sb = player.get("season_batting") or {}
     sp = player.get("season_pitching") or {}
     season_note = ""
     if has_meaningful_bat and sb.get("ab", 0) > 0:
         ba = sb["h"] / sb["ab"]
-        season_note = f" Hitting .{int(ba * 1000):03d} with {sb.get('hr', 0)} HR through {sb.get('g', '?')} games."
+        season_note = (
+            f" {format_avg(ba)} AVG with {sb.get('hr', 0)} HR "
+            f"through {sb.get('g', '?')} games."
+        )
     elif has_meaningful_pitch and sp.get("ip") and str(sp.get("ip", "0")) not in ("0", "0.0"):
         try:
             ip_f = float(str(sp["ip"]).split("+")[0])
-            era = round(sp.get("er", 0) * 9 / ip_f, 2) if ip_f > 0 else 0.0
-            season_note = f" At {era:.2f} ERA through {sp['ip']} innings on the season."
+            era  = round(sp.get("er", 0) * 9 / ip_f, 2) if ip_f > 0 else 0.0
+            season_note = f" {era:.2f} ERA through {sp['ip']} innings on the season."
         except (ValueError, TypeError):
             pass
 
-    if has_meaningful_bat and not (has_meaningful_pitch and not has_meaningful_bat):
+    # --- Trend hook (prepended when signals are rich enough) ---
+    trend_hook = ""
+    if sig.get("type") == "batter":
+        hit_streak = sig.get("hit_streak", 0)
+        hr_streak  = sig.get("hr_streak", 0)
+        direction  = sig.get("direction", "steady")
+        w          = sig.get("window", 0)
+        w_avg      = sig.get("window_avg", 0.0)
+        if hit_streak >= 5:
+            trend_hook = f"Has a hit in {hit_streak} straight games. "
+        elif hr_streak >= 2:
+            trend_hook = f"Has homered in {hr_streak} straight games. "
+        elif direction == "hot" and w >= 4:
+            trend_hook = f"Hitting {format_avg(w_avg)} over the last {w} games. "
+    elif sig.get("type") == "pitcher":
+        qs_streak = sig.get("qs_streak", 0)
+        w_era     = sig.get("window_era", 99)
+        w         = sig.get("window", 0)
+        if qs_streak >= 3:
+            trend_hook = f"{qs_streak} consecutive quality starts. "
+        elif w >= 2 and w_era < 2.50:
+            trend_hook = f"{w_era:.2f} ERA over the last {w} outings. "
+
+    # --- Game line ---
+    if has_meaningful_bat:
         avg = f"{batting['h']}/{batting['ab']}"
         hr_note = f", {batting['hr']} HR" if batting.get("hr", 0) else ""
-        line = f"{avg} with {batting['rbi']} RBI{hr_note} vs. {opponent} ({result})."
-        return line + season_note
+        sb_note = f", {batting.get('sb', 0)} SB" if batting.get("sb", 0) else ""
+        line = f"{avg} with {batting['rbi']} RBI{hr_note}{sb_note} vs. {opponent} ({result})."
+        return trend_hook + line + season_note
 
     if has_meaningful_pitch:
         try:
@@ -1679,10 +2169,8 @@ def generate_narrative_template(player: dict, game_info: dict) -> str:
                 f"vs. {opponent} ({result})."
             )
         else:
-            line = (
-                f"{pitching['ip']} IP, {pitching['so']} K vs. {opponent} ({result})."
-            )
-        return line + season_note
+            line = f"{pitching['ip']} IP, {pitching['so']} K vs. {opponent} ({result})."
+        return trend_hook + line + season_note
 
     return ""
 
@@ -1808,7 +2296,8 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     print(f"  Bio API eligible: {len(bio_pairs)}, box-score fallback: {fallback_count}")
 
     # --- [5a/6] Bio API: fetch per-player game logs ---
-    bio_last_game = {}  # player_id -> last_game_data dict
+    bio_last_game = {}      # player_id -> last_game_data dict
+    bio_full_log  = {}      # player_id -> {"batting": [...], "pitching": [...]}
     if bio_pairs:
         print(f"\n[5a/6] Bio API: fetching game logs for {len(bio_pairs)} players")
         for i, (sp, roster_id) in enumerate(bio_pairs):
@@ -1817,6 +2306,9 @@ def run(base_url: str, school_slug: str, season: str = "2026",
                 lg = parse_bio_last_game(bio, base_url)
                 if lg:
                     bio_last_game[sp["id"]] = lg
+                full = parse_bio_full_game_log(bio)
+                if full["batting"] or full["pitching"]:
+                    bio_full_log[sp["id"]] = full
             time.sleep(0.3)
             if (i + 1) % 20 == 0 or (i + 1) == len(bio_pairs):
                 print(f"  {i+1}/{len(bio_pairs)} fetched — {len(bio_last_game)} with last-game data")
@@ -1979,13 +2471,28 @@ def run(base_url: str, school_slug: str, season: str = "2026",
     players_out = {}
     api_key_available = bool(os.environ.get("ANTHROPIC_API_KEY"))
 
+    # Load rankings + standings context once per school (shared across all players)
+    _school_name = school_name or school_slug.replace("-", " ").title()
+    _conf_name   = ""
+    # Infer conference from the first player with one set
+    for sp in school_players:
+        if sp.get("conf"):
+            _conf_name = sp["conf"]
+            break
+    rankings_ctx  = _load_rankings_context(_school_name)
+    standings_ctx = _load_standings_context(_school_name, _conf_name) if _conf_name else {"available": False}
+    if rankings_ctx.get("ranked"):
+        print(f"  Rankings context: {rankings_ctx['display']} nationally")
+    if standings_ctx.get("available"):
+        print(f"  Standings context: {standings_ctx.get('conf_rank')}/{standings_ctx.get('total_teams')} in conf")
+
     for sp in school_players:
         player_id = sp["id"]
         fn = sp.get("fn", "")
         ln = sp.get("ln", "")
         ln_key = normalize_name(ln)
 
-        season_bat = batting_by_ln.get(ln_key, {}).get("season_batting")
+        season_bat   = batting_by_ln.get(ln_key, {}).get("season_batting")
         season_pitch = pitching_by_ln.get(ln_key, {}).get("season_pitching")
 
         # Bio API data is preferred, but box score data wins when it shows a more recent
@@ -2020,6 +2527,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
             "season_pitching": season_pitch,
             "last_game": last_game_data,
             "narrative": None,
+            "narrative_date": None,
         }
 
         if last_game_data:
@@ -2036,6 +2544,7 @@ def run(base_url: str, school_slug: str, season: str = "2026",
                 cached = narrative_cache.get(player_id)
                 if cached and cached["date"] == game_date:
                     player_record["narrative"] = cached["narrative"]
+                    player_record["narrative_date"] = game_date
                     print(f"  Narrative cached for {sp.get('name', fn + ' ' + ln)} (no new game)")
                 else:
                     game_recap_data = game_recaps.get(game_date, {})
@@ -2045,7 +2554,18 @@ def run(base_url: str, school_slug: str, season: str = "2026",
                         "date": game_date,
                         "opponent": last_game_data["opponent"],
                         "result": last_game_data["result"],
+                        "team_record": record or "",
                     }
+
+                    # Compute signals from the full game log (bio API players only;
+                    # box-score-fallback players don't have a full log)
+                    full_log = bio_full_log.get(player_id, {})
+                    signals = None
+                    if full_log:
+                        if had_meaningful_bat:
+                            signals = compute_batter_signals(full_log.get("batting", []), season_bat)
+                        elif had_meaningful_pitch:
+                            signals = compute_pitcher_signals(full_log.get("pitching", []), season_pitch)
 
                     print(f"  Generating narrative for {sp.get('name', fn + ' ' + ln)}...", end=" ")
                     if api_key_available:
@@ -2053,10 +2573,16 @@ def run(base_url: str, school_slug: str, season: str = "2026",
                             {**player_record, "name": sp.get("name", "")},
                             game_info,
                             recap.get("article_text", ""),
+                            signals=signals,
+                            rankings_ctx=rankings_ctx,
+                            standings_ctx=standings_ctx,
                         )
                     else:
-                        narrative = generate_narrative_template(player_record, game_info)
+                        narrative = generate_narrative_template(
+                            player_record, game_info, signals=signals
+                        )
                     player_record["narrative"] = narrative
+                    player_record["narrative_date"] = game_date
                     print("done" if narrative else "no narrative")
 
         players_out[player_id] = player_record

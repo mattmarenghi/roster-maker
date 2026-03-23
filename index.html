@@ -426,6 +426,13 @@
       line-height: 1.55;
     }
     .pc-highlight strong { color: #C0392B; }
+    .pc-narrative-date {
+      display: block;
+      font-size: 0.78rem;
+      color: #999;
+      margin-top: 5px;
+      font-style: italic;
+    }
 
     /* Stats section label */
     .pc-stats-label {
@@ -1772,7 +1779,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.90 (claude/upgrade-watch-button-THNt3)</div>`;
+        <div class="ps-version">VERSION 2.6.0 (claude/narrative-engine-overhaul-N4jez)</div>`;
       return;
     }
 
@@ -1814,7 +1821,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.90 (claude/upgrade-watch-button-THNt3)</div>`;
+      <div class="ps-version">VERSION 2.6.0 (claude/narrative-engine-overhaul-N4jez)</div>`;
   }
 
   async function signOut() {
@@ -2270,13 +2277,22 @@
     const playerData  = playerStatsMap[p.id] || null;
     const lg = playerData ? playerData.last_game : null;
     const narrative = playerData ? (playerData.narrative || '') : '';
+    const narrativeDate = playerData ? (playerData.narrative_date || '') : '';
 
     const role = getPrimaryRole(p, playerData);
 
     // Build highlight section
     let highlightHTML = '';
     if (narrative) {
-      highlightHTML = `<div class="pc-highlight"><strong>Latest:</strong> ${escapeHTML(narrative)}</div>`;
+      let narrativeMeta = '';
+      if (narrativeDate && lg) {
+        const opp = escapeHTML(lg.opponent || '');
+        const d = narrativeDate.replace(/^(\d{4})-(\d{2})-(\d{2})$/, '$2/$3');
+        narrativeMeta = opp
+          ? ` <span class="pc-narrative-date">after ${d} vs ${opp}</span>`
+          : ` <span class="pc-narrative-date">${d}</span>`;
+      }
+      highlightHTML = `<div class="pc-highlight"><strong>Latest:</strong> ${escapeHTML(narrative)}${narrativeMeta}</div>`;
     }
 
     // Build stats sections
