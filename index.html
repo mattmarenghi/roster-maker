@@ -150,6 +150,7 @@
       box-shadow: 0 8px 32px rgba(0,0,0,0.16);
       max-height: 70vh;
       overflow-y: auto;
+      overscroll-behavior: contain;
       display: none;
       z-index: 61;
     }
@@ -1699,7 +1700,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.82 (claude/search-keyboard-behavior-vmwx1)</div>`;
+        <div class="ps-version">VERSION 2.5.83 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
       return;
     }
 
@@ -1741,7 +1742,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.82 (claude/search-keyboard-behavior-vmwx1)</div>`;
+      <div class="ps-version">VERSION 2.5.83 (claude/fix-search-scroll-passthrough-t81lf)</div>`;
   }
 
   async function signOut() {
@@ -1762,6 +1763,7 @@
     $('topBar').classList.add('search-active');
     $('searchRow').classList.add('searching');
     $('searchOverlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
   }
 
   function exitSearchMode() {
@@ -1775,6 +1777,7 @@
     $('searchResults').classList.remove('open');
     $('searchBox').blur();
     currentResults = [];
+    document.body.style.overflow = '';
   }
 
   function clearSearch() {
