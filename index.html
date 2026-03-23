@@ -478,6 +478,10 @@
       margin-bottom: 12px;
     }
 
+    .pc-stats-grid + .pc-stats-grid {
+      margin-top: 10px;
+    }
+
     .pc-stats-grid {
       display: flex;
       justify-content: space-around;
@@ -1765,7 +1769,7 @@
           <p>Sign in to save favorites and sync across devices.</p>
           <button class="ps-signin-btn" onclick="hideProfile(); showAuthModal();">Sign In</button>
         </div>
-        <div class="ps-version">VERSION 2.5.88 (claude/redesign-follow-button-sXBCK)</div>`;
+        <div class="ps-version">VERSION 2.5.89 (claude/split-season-stats-layout-Ci6CW)</div>`;
       return;
     }
 
@@ -1807,7 +1811,7 @@
         </svg>
         Sign Out
       </button>
-      <div class="ps-version">VERSION 2.5.88 (claude/redesign-follow-button-sXBCK)</div>`;
+      <div class="ps-version">VERSION 2.5.89 (claude/split-season-stats-layout-Ci6CW)</div>`;
   }
 
   async function signOut() {
@@ -2178,40 +2182,52 @@
 
   function formatSeasonBatting(sb) {
     if (!sb) return null;
-    return [
+    const row1 = [
       { label: 'AVG', val: sb.avg != null ? sb.avg.toFixed(3).replace(/^0/, '') : '-' },
       { label: 'GP', val: sb.g ?? '-' },
       { label: 'AB', val: sb.ab ?? '-' },
       { label: 'H', val: sb.h ?? '-' },
       { label: 'RBI', val: sb.rbi ?? '-' },
       { label: 'HR', val: sb.hr ?? '-' },
+    ];
+    const row2 = [
       { label: 'BB', val: sb.bb ?? '-' },
       { label: 'K', val: sb.so ?? sb.k ?? '-' },
+      { label: 'R', val: sb.r ?? '-' },
       { label: 'OPS', val: sb.ops != null ? sb.ops.toFixed(3).replace(/^0/, '') : '-' },
     ];
+    return [row1, row2];
   }
 
   function formatSeasonPitching(sp) {
     if (!sp) return null;
-    const stats = [
+    const row1 = [
       { label: 'W-L', val: `${sp.w ?? 0}-${sp.l ?? 0}` },
-    ];
-    if ((sp.sv ?? 0) > 0) stats.push({ label: 'SV', val: sp.sv });
-    stats.push(
       { label: 'ERA', val: sp.era != null ? sp.era.toFixed(2) : '-' },
       { label: 'APP', val: sp.g ?? '-' },
+    ];
+    if ((sp.gs ?? 0) > 0) row1.push({ label: 'GS', val: sp.gs });
+    if ((sp.sv ?? 0) > 0) row1.push({ label: 'SV', val: sp.sv });
+    const row2 = [
       { label: 'IP', val: sp.ip ?? '-' },
       { label: 'H', val: sp.h ?? '-' },
       { label: 'BB', val: sp.bb ?? '-' },
       { label: 'K', val: sp.so ?? sp.k ?? '-' },
       { label: 'WHIP', val: sp.whip != null ? sp.whip.toFixed(2) : '-' },
-    );
-    return stats;
+    ];
+    return [row1, row2];
   }
 
   function statsGridHTML(stats) {
-    const compact = stats.length > 6 ? ' pc-stats-grid--compact' : '';
-    return `<div class="pc-stats-grid${compact}">${stats.map(s =>
+    if (Array.isArray(stats[0])) {
+      return stats.map(row => `<div class="pc-stats-grid">${row.map(s =>
+        `<div class="pc-stat-item">
+          <div class="pc-stat-head">${s.label}</div>
+          <div class="pc-stat-val">${s.val}</div>
+        </div>`
+      ).join('')}</div>`).join('');
+    }
+    return `<div class="pc-stats-grid">${stats.map(s =>
       `<div class="pc-stat-item">
         <div class="pc-stat-head">${s.label}</div>
         <div class="pc-stat-val">${s.val}</div>
